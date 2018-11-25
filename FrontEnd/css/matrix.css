@@ -1,0 +1,157 @@
+#wrapper {
+	margin-left: 5% !important;
+	margin-right: 5% !important;
+
+}
+
+table {
+	font-size: 1.1em;
+}
+
+#dramaTitle {
+	color: #3C8F6D;
+}
+
+body {
+	font-family: Calibri;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+ }
+
+  .navbar {
+ 	margin-bottom: 4%;
+ 	margin-top: 3%;
+ 	background: linear-gradient(to left, #5485B3, #84B4DB);
+ 	font-size: 1.0em;
+ }
+
+ li {
+ 	transition: all 1s ease;
+ }
+
+ ul.dropdown-menu {
+ 	background-color: #84B4DB;
+ 	font-size: 1.1em;
+ }
+
+ .dropdown-menu li {
+ 	transition: all 1s ease;
+ 	background-color: #84B4DB;
+ }
+
+ li.superactive{
+ 	background-color: #38B983 !important;
+ }
+
+ li:hover{
+ 	background-color: #3C8F6D;
+ }
+
+.links {
+	color: black !important;
+}
+
+.dropdown ul li a:hover {
+	background-color: #3C8F6D;
+}
+
+.insideLeft {
+	float: left;
+}
+
+.insideRight {
+	float: right;
+	text-align: center;
+}
+
+.container {
+	display: none;
+}
+
+#confMatrix.sticky tbody tr th:first-child{
+    position:fixed; 
+    left:0;
+    background: white;
+}
+
+th {
+	text-align: center;
+	vertical-align: middle !important;
+	transition: all 1s ease;
+}
+
+.filled {
+	background-color: #65A5DB;
+}
+
+td {
+	text-align: center;
+	vertical-align: middle !important;
+	transition: all 0.5s ease;
+}
+
+td.tooltipstered:hover {
+	background-color: ##65A5DB !important;
+	cursor: pointer;
+	border: 1px solid black !important;
+}
+
+th.tooltipstered:hover {
+	background-color: #65A5DB !important;
+	cursor: pointer;
+}
+
+#logo-wrapper,
+#header-wrapper {
+	display: inline-block;
+}
+
+#logo {
+	margin-top: -60px;
+	margin-right: 30px;
+	width: 160px;
+	height: 160px;
+	display: inline-block;
+	border: 2px solid #ccc;
+}
+
+#maincontent {
+	display: none;
+}
+
+#loading {
+	display: block;
+	margin-top: 10%;
+}
+
+#loading-spinner {
+	width: 100%;
+	text-align: center;
+
+}
+
+#loading-spinner-img{
+	font-size: 5em;
+	margin-bottom: 5%;
+}
+
+#loading-text{
+	font-size: 2em;
+}
+
+.glyphicon-repeat-animate {
+    -animation: spin .7s infinite linear;
+    -webkit-animation: spin2 .7s infinite linear;
+}
+
+@-webkit-keyframes spin2 {
+    from { -webkit-transform: rotate(0deg);}
+    to { -webkit-transform: rotate(360deg);}
+}
+
+@keyframes spin {
+    from { transform: scale(1) rotate(0deg);}
+    to { transform: scale(1) rotate(360deg);}
+}

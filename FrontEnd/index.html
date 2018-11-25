@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Katharsis</title>
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="css/tooltipster.css" />
+		<link href="css/search.css" rel="stylesheet">
+
+	</head>
+	<body>
+		<div id="wrapper" class="container">
+			<div class="" id="header">
+				<div id="logo-wrapper">
+					<a href="./index.html" ><img id="logo" src="./img/logo.png" title="Katharsis"></img></a>
+				</div>
+				<div id="header-wrapper">
+					<h1 class="page-header">Katharsis</h1>
+					<h3>Tool for Quantitative Analysis of Plays</h3>
+				</div>
+			</div>
+
+			
+			<div>
+				<h2 id="search-header">Search</h2>
+				<span id="info-overall" class="glyphicon glyphicon-info-sign">
+				</span>
+			</div>
+			<div id="search-form" class="box">
+				<form id="form">
+					<div class="search-row">
+							<div id="open-forms" class="search-option">
+							  <div class="form-group">
+							    <label for="input-title">Title</label>
+							    <input type="text" class="form-control" id="input-title" placeholder="All...">
+							  </div>
+							  <div class="form-group">
+							    <label for="input-author">Author/Authors</label>
+							    <input type="text" class="form-control" id="input-author" placeholder="All...">
+							  </div>
+							</div>
+
+						  <fieldset class="range search-option" id="fieldset-type"> 
+						  	  	<legend>Genre</legend>
+						  	  	<div class="checkbox">
+						  	  		<div>
+				    					<label for="check-comedy">
+				      					<input type="checkbox" name="type" value="comedy" id="check-comedy" checked>
+				      					Comedy
+				    					</label> 
+			    					</div>
+			    					<div>
+									    <label for="check-tragedy">
+									       <input type="checkbox" name="type" value="tragedy" id="check-tragedy" checked>
+									       Tragedy
+									    </label> 
+									</div>
+									<div>
+									    <label for="check-pageant">
+									      <input type="checkbox" name="type" value="pageant" id="check-pageant" checked>
+									      Schauspiel
+									    </label>
+									</div>
+							    </div> 
+							 </fieldset>
+
+							<fieldset class="range search-option" id="fieldset-year">
+								<legend>Year</legend>
+								  <div class="form-group">
+								    <label for="input-date-from">From</label>
+								    <input type="text" class="form-control" id="input-date-from" placeholder="All...">
+								    <label for="input-date-to">To</label>
+								    <input type="text" class="form-control" id="input-date-to" placeholder="All...">
+								  </div>
+						  	</fieldset>
+					  	</div>
+					  	  
+					  	<div class="search-row">
+							  <fieldset  id="search-acts"class="range more-range search-option">
+							 <legend>Number of acts</legend>
+								  <div class="form-group">
+								    <label for="input-numberOfActs-from">From</label>
+								    <input type="text" class="form-control" id="input-numberOfActs-from" placeholder="All...">
+								    <label for="input-numberOfActs-to">To</label>
+								    <input type="text" class="form-control" id="input-numberOfActs-to" placeholder="All...">
+								  </div>
+							</fieldset>
+
+							<fieldset class="range more-range search-option">
+							 <legend>Number of scenes</legend>
+								  <div class="form-group">
+								    <label for="input-numberOfScenes-from">From</label>
+								    <input type="text" class="form-control" id="input-numberOfScenes-from" placeholder="All...">
+								    <label for="input-numberOfScenes-to">To</label>
+								    <input type="text" class="form-control" id="input-numberOfScenes-to" placeholder="All...">
+								  </div>
+							</fieldset>
+
+							<fieldset class="range more-range search-option">
+							 <legend>Number of speakers</legend>
+								  <div class="form-group">
+								    <label for="input-numberOfSpeakers-from">From</label>
+								    <input type="text" class="form-control" id="input-numberOfSpeakers-from" placeholder="All...">
+								    <label for="input-numberOfSpeakers-to">To</label>
+								    <input type="text" class="form-control" id="input-numberOfSpeakers-to" placeholder="All...">
+								  </div>
+							</fieldset>
+						</div>
+
+						<div class="search-row">
+							<fieldset id="search-conf" class="range more-range search-option">
+							<legend>Configuration Density</legend>
+								  <div class="form-group">
+								    <label for="input-confDensity-from">From</label>
+								    <input type="text" class="form-control" id="input-confDensity-from" placeholder="All...">
+								    <label for="input-confDensity-to">To</label>
+								    <input type="text" class="form-control" id="input-confDensity-to" placeholder="All...">
+								  </div>
+							</fieldset>
+
+							<fieldset class="range more-range search-option">
+							 <legend>Number of speeches</legend>
+								  <div class="form-group">
+								    <label for="input-numberOfSpeeches-from">From</label>
+								    <input type="text" class="form-control" id="input-numberOfSpeeches-from" placeholder="All...">
+								    <label for="input-numberOfSpeeches-to">To</label>
+								    <input type="text" class="form-control" id="input-numberOfSpeeches-to" placeholder="All...">
+								  </div>
+							</fieldset>
+
+							<fieldset class="range more-range search-option">
+							 <legend>Average length of speeches</legend>
+								  <div class="form-group">
+								    <label for="input-avgSpeechLength-from">From</label>
+								    <input type="text" class="form-control" id="input-avgSpeechLength-from" placeholder="All...">
+								    <label for="input-avgSpeechLength-to">To</label>
+								    <input type="text" class="form-control" id="input-avgSpeechLength-to" placeholder="All...">
+								  </div>
+							</fieldset>
+						</div>
+				
+				</form>
+				
+				<div id="buttons-div">
+					<div>
+						<button type="button" class="btn btn-default btn-lg" id="more-button">Advanced search
+							<div class="glyphicon glyphicon-triangle-bottom"></div>
+						</button>
+					</div>
+					<div>
+						<button type="button" class="btn btn-default btn-lg" id="less-button">Advanced search
+							<div class="glyphicon glyphicon-triangle-top"></div>
+						</button>
+					</div>
+					<div>
+					<button type="button" class="btn btn-primary btn-lg" id="search-button">
+						<span class="glyphicon glyphicon-refresh glyphicon-refresh-animate loading-button" id="loading-circle-button">
+						</span>
+						<span id="loading-text-button">Search
+						</span>
+						</button>
+					</div>
+				</div>
+			
+			</div>
+
+			<div id="info-compare-div">
+				<a target="_blank" href="multipledramas.html"><p class="analyse-collection">
+					<button type="button" class="btn btn-lg btn-default"><span class="glyphicon glyphicon-ok"></span><span>Analyze entire collection of plays</span></button>
+				</p></a>
+				<div id="info-compare" class="glyphicon glyphicon-info-sign">
+				</div>
+			</div>
+
+			<table class="table table-striped" id="drama-table">
+				<thead>
+					<tr class="header-row" title="Sortieren...">
+						<th class="selection-box"><input id="all-selector" type="checkbox" checked></th>
+					    <th class="table-header-col sortable">Title</th>
+					    <!--<th class="table-header-col">Titel<span class="glyphicon glyphicon-triangle-bottom"></span></th>-->
+					    <th class="table-header-col sortable">Author</th>
+					    <th class="table-header-col sortable">Genre</th>
+					    <th class="table-header-col sortable">Year</th>
+					    <th class="table-header-col sortable">Acts</th>
+					    <th class="table-header-col sortable">Scenes</th>
+					    <th class="table-header-col sortable">Speakers</th>
+					    <th class="table-header-col sortable">Configuration density</th>
+					    <th class="table-header-col sortable">Number of speeches</th>
+					    <th class="table-header-col sortable">Average length of speeches</th>
+					    <th class="table-header-col sortable">Media length of speeches</th>
+					    <th class="table-header-col sortable">Longest speech</th>
+					    <th class="table-header-col sortable">Shortest speech</th>
+					    <th><span title="Download JSON">JSON</span></th>
+					  </tr>
+				</thead>
+
+				<tbody id="table-tbody">
+				</tbody>
+			</table>
+			<a target="_blank" href="multipledramas.html"><p class="analyse-collection">
+				<button type="button" class="btn btn-lg btn-default"><span class="glyphicon glyphicon-ok" ></span><span>Analyze entire collection of plays</span></button>
+			</p></a>
+
+			<p id="no-results">No results found.</p>
+			<p id="loading-spinner">
+				<span class="glyphicon glyphicon-refresh glyphicon-refresh-animate loading-button" id="loading-spinner-img">
+				</span>
+			</p>
+		</div>
+
+		<div id="no-drama-selected-popup" class="popup">
+				<p>
+					No plays selected.<br />
+					Please select at least two plays.
+				</p>
+		</div>
+
+		<div id="one-drama-selected-popup" class="popup">
+				<p>
+					Only one play selected.<br />
+					Please select at least one play.
+				</p>
+		</div>
+
+		<script src="js/libs/jquery-1.11.2.js"></script>
+		<script src="https://cdn.firebase.com/js/client/2.2.2/firebase.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="js/jquery.tooltipster.js"></script>
+
+		<script type="text/javascript" src="js/Search/Search.js"></script>
+		<script type="text/javascript" src="js/Search/DramaListModel.js"></script>
+		<script type="text/javascript" src="js/Search/DramaListView.js"></script>
+		<script type="text/javascript" src="js/Search/FormsView.js"></script>
+		<script type="text/javascript" src="js/Search/SearchController.js"></script>
+
+		<script>
+				$(function() {
+					Search.init();
+				});
+			</script>
+	</body>
+</html>

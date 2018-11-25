@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Analysis of speakers</title>	
+
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<link href="css/Speakers.css" rel="stylesheet">
+
+	</head>
+	<body>
+		<div id="loading" class="container">
+			<div id="loading-spinner">
+				<span class="glyphicon glyphicon-repeat glyphicon-repeat-animate loading-button" id="loading-spinner-img">
+				</span>
+				<div id="loading-text">Data is calculated. This can take a few seconds...</div>
+			</div>
+		</div>
+
+		<div id="maincontent">
+			<div class="container">
+				<div class="" id="header">
+						<div id="logo-wrapper">
+							<a href="./index.html" ><img id="logo" src="./img/logo.png" title="Katharsis"></img></a>
+						</div>
+						<div id="header-wrapper">
+							<h1 id="dramaTitle" class="page-header"></h1>
+							<h2 id="dramaAuthor"></h2>
+						</div>
+				</div>
+
+				<nav class="navbar navbar-default">
+					  <div class="container-fluid">
+
+					    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					      <ul class="nav navbar-nav">
+
+					      	<li><a class="links" href="index.html">Search <span class="sr-only">(current)</span></a></li>
+					      	<li><a id="link-overall" class="links" href="#">Overview <span class="sr-only">(current)</span></a></li>
+
+					      	<li><a href="#" id="link-matrix" class="links">Configuration matrix <span class="sr-only">(current)</span></a></li>
+
+					        <li class="dropdown">
+					          <a href="" id="link-drama" role="button" class="links" aria-expanded="false">
+					          	Structual analysis<span class="caret"></span></a>
+					          <ul class="dropdown-menu" role="menu">
+					            <li><a href="#" id="link-drama-actSceneAnalysis">Act-scene-table</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-drama-actStatistic">Bar chart - Acts statistics</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-drama-sceneStatistic">Bar chart - Scenes statistics</a></li>
+					          </ul>
+					        </li>
+
+					        <li class="dropdown superactive">
+					          <a id="link-speakers" class="links" href="#" role="button" aria-expanded="false">
+					          	Speaker analysis<span class="caret"></span></a>
+					          <ul class="dropdown-menu" role="menu">
+					            <li><a href="#" id="link-speaker-table">Speaker table</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-speeches-dominance">Pie chart - Dominance of speeches</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-speaker-statistic">Bar chart - Speaker statistics</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-speaker-relations">Speaker relations</a></li>
+					          </ul>
+					        </li>
+
+					        <li class="dropdown">
+					          <a href="#" id="link-speeches" class="links" role="button" aria-expanded="false">
+					          	Distribution of speeches<span class="caret"></span></a>
+					          <ul class="dropdown-menu" role="menu">
+					            <li><a href="#" id="link-histogram">Distribution of speeches - Histogram</a></li>
+					            <li class="divider" ></li>
+					            <li><a href="#" id="link-curve-diagram">Distribution of speeches - Curve diagram</a></li>
+					          </ul>
+					        </li>
+
+					        <li>
+					          <a href="#" class="links" id="link-contact">
+					          	Contact<span class="sr-only">(current)</span></span></a>
+					        </li>
+					        <li><a class="links" href="sa_selection.html"> Sentiment Analysis (beta)<span class="sr-only">(current)</span></a></li>
+
+					      </ul>
+					    </div><!-- /.navbar-collapse -->
+					  </div><!-- /.container-fluid -->
+				</nav>
+			</div>
+			<div class="container">
+				<a href="#speaker-table" name="speaker-table"><h3>Speakers table</h3></a>
+					<table class="table table-bordered table-striped table-hover" id="speakers-table">
+						<thead>
+							<tr title="Sortieren...">
+							    <th>Name</th> 
+							    <th>Presence in scenes</th>
+							    <th>Presence per scenes in percent</th>
+							    <th>Number of speeches</th>
+							    <th>Average length of speeches</th>
+							    <th>Median length of speeches</th>
+							    <th>Maximum length of speeches</th>
+							    <th>Minimum length of speeches</th>
+							  </tr>
+						</thead>
+						<tbody id="table-tbody">
+						</tbody>
+					</table>
+
+				<a href="#speeches-dominance" name="speeches-dominance"><h3>Pie chart - Dominance of speeches</h3></a>
+				<div class="box">
+					<div id="dashbord-speeches-dominance">
+						<div id="filter-speeches-dominance"></div>
+						<div id="chart-speeches-dominance"></div>
+					</div>
+					<div class="container"><button class="btn btn-primary png-download" id="download-png-speeches-dominance">Download PNG</button></div>
+				</div>
+
+				<a href="#speaker-statistic" name="speaker-statistic"><h3>Bar chart - Speaker statistics</h3></a>
+				<div class="box container">
+					<div class="form-group dropdown-form" id="form-speakers">
+						  <label for="sel1">Metrics:</label>
+						  <select class="form-control" id="selection-speakers">
+						    <option>Presence</option>
+						    <option>Presence in percent</option>
+						    <option>Speeches</option>
+						    <option>Average length of speeches</option>
+						    <option>Median length of speeches</option>
+						    <option>Maximum length of speeches</option>
+						    <option>Minimum length of speeches</option>
+						  </select>
+					</div>
+
+					<div id="dashbord-speakers-barChart">
+						<div id="filter-speakers-barChart"></div>
+						<div id="chart-speakers-barChart"></div>
+					</div>
+					<button class="btn btn-primary png-download" id="download-png-speakers-barChart">Download PNG</button>
+				</div>
+
+				<a href="#speaker-relations" name="speaker-relations"><h3>Speaker relations</h3></a>
+				<div class="box container">
+					<div class="form-group dropdown-form" id="form-speaker-relations">
+						  <label for="selection-speaker-relations">Speaker:</label>
+						  <select class="form-control" id="selection-speaker-relations">
+						  </select>
+					</div>
+					<div id="speaker-relation">
+						<div class="correlation-box">
+							<div class="row">
+								<div class="col-md-12">
+									<div id="gets-dominated-by" class="box relationSingleBox bottom_arrow_box">
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-4">
+								</div>
+								<div class="col-md-4">
+									<div id="speaker-name" class="box relationSingleBox bottom_arrow_box">
+									</div>
+								</div>
+								<div class="col-md-4">
+									<div id="concomitant" class="box relationSingleBox">
+									</div>
+								</div>
+							</div>
+							<div class="row no-margin-bottom">
+								<div class="col-md-12">
+									<div id="dominates" class="box relationSingleBox">
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="row no-margin-bottom">
+							<div class="col-md-6">
+								<div id="alternative" class="box relationSingleBox">
+								</div>
+							</div>
+							<div class="col-md-6">
+								<div id="independent" class="box relationSingleBox">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div><!-- maincontent -->
+
+		<script src="js/libs/jquery-1.11.2.js"></script>
+		<script src="https://cdn.firebase.com/js/client/2.2.2/firebase.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+		<script type="text/javascript"></script>
+
+		<script type="text/javascript" src="js/Speakers/Speakers.js"></script>
+		<script type="text/javascript" src="js/Speakers/SpeakersModel.js"></script>
+		<script type="text/javascript" src="js/Speakers/SpeakersTableView.js"></script>
+		<script type="text/javascript" src="js/Speakers/SpeechesDominanceView.js"></script>
+		<script type="text/javascript" src="js/Speakers/SpeakersBarChartView.js"></script>
+		<script type="text/javascript" src="js/Speakers/SpeakerRelationsView.js"></script>
+		<script type="text/javascript" src="js/Speakers/SpeakersController.js"></script>
+
+		<script>
+				$(function() {
+					Speakers.init();
+				});
+			</script>
+	</body>
+</html>

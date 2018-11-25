@@ -1,0 +1,175 @@
+th {
+	text-align: center;
+	vertical-align: middle !important;
+}
+
+body {
+     font-family: Calibri;
+}
+#dramaTitle {
+	color: #3C8F6D;
+}
+
+table {
+	font-size: 1.2em;
+}
+
+.container {
+	display: none;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+ }
+
+  .navbar {
+ 	margin-bottom: 4%;
+ 	margin-top: 3%;
+ 	background: linear-gradient(to left, #5485B3, #84B4DB);
+ 	font-size: 1.0em;
+ }
+
+ li {
+ 	transition: all 1s ease;
+ }
+
+ ul.dropdown-menu {
+ 	background-color: #84B4DB;
+ 	font-size: 1.1em;
+ }
+
+ .dropdown-menu li {
+ 	transition: all 1s ease;
+ 	background-color: #84B4DB;
+ }
+
+ li.superactive{
+ 	background-color: #38B983 !important;
+ }
+
+ li:hover{
+ 	background-color: #3C8F6D;
+ }
+
+.links {
+	color: black !important;
+}
+
+.dropdown ul li a:hover {
+	background-color: #3C8F6D;
+}
+
+.png-download {
+	float: right;
+}
+
+.line {
+	height: 1px;
+	border: 1px solid #ddd;
+}
+
+table {
+	margin-bottom: 7% !important;
+}
+
+h3 {
+	margin-top: 5%;
+}
+
+.box {
+	border-color: #ddd;
+	border-width: 1px;
+	border-radius: 4px 4px 0 0;
+	border-style: solid;
+	padding: 1%;
+	margin-bottom: 5%;
+	display: inline-block;
+}
+
+td {
+	text-align: center;
+	vertical-align: middle !important;
+}
+
+#chart-div-act {
+	width: 100%;
+}
+
+.dropdown-form {
+	width: 20%;
+}
+
+#act-graph {
+	border: 1px groove grey;
+	padding: 1%;
+}
+
+.unfold-col {
+	padding: 0px !important;
+}
+
+.unfold-down {
+	border: 0px !important;
+	width: 100% !important;
+	height: 100% !important;
+	background-color: white;
+}
+.unfold-up {
+	border: 0px !important;
+	width: 100% !important;
+	height: 100% !important;
+	background-color: white;
+}
+
+#logo-wrapper,
+#header-wrapper {
+	display: inline-block;
+}
+
+#logo {
+	margin-top: -60px;
+	margin-right: 30px;
+	width: 160px;
+	height: 160px;
+	display: inline-block;
+	border: 2px solid #ccc;
+}
+
+#maincontent {
+	display: none;
+}
+
+#loading {
+	display: block;
+	margin-top: 10%;
+}
+
+#loading-spinner {
+	width: 100%;
+	text-align: center;
+
+}
+
+#loading-spinner-img{
+	font-size: 5em;
+	margin-bottom: 5%;
+}
+
+#loading-text{
+	font-size: 2em;
+}
+
+.glyphicon-repeat-animate {
+    -animation: spin .7s infinite linear;
+    -webkit-animation: spin2 .7s infinite linear;
+}
+
+@-webkit-keyframes spin2 {
+    from { -webkit-transform: rotate(0deg);}
+    to { -webkit-transform: rotate(360deg);}
+}
+
+@keyframes spin {
+    from { transform: scale(1) rotate(0deg);}
+    to { transform: scale(1) rotate(360deg);}
+}

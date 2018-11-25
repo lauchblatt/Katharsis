@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Sentiment Analysis - Sprecher</title>	
+
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<link href="css/sentiment-analysis.css" rel="stylesheet">
+
+	</head>
+	<body>
+
+		<div id="maincontent">
+			<div class="container overhead">
+				<div class="" id="header">
+						<div id="logo-wrapper">
+							<a href="sa_selection.html" ><img id="logo" src="./img/logo.png" title="Katharsis - Sentiment-Analysis"></img></a>
+						</div>
+						<div id="header-wrapper">
+							<h1 id="dramaTitle" class="page-header"></h1>
+							<h2 id="dramaAuthor"></h2>
+						</div>
+				</div>
+			
+
+			<nav class="navbar navbar-default">
+					  <div class="container-fluid">
+
+					    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					       <ul class="nav navbar-nav">
+
+					      	<li ><a id="link-overall" href="sa_selection.html" class="links">Auswahl<span class="sr-only">(current)</span></a></li>
+
+					      	<li><a href="sa_dramaActScenes.html" id="link-matrix" class="links">Drama-Akt-Szenen-Repliken-Analyse<span class="sr-only">(current)</span></a></li>
+
+					        <li class="dropdown superactive">
+					          <a id="sa_speakers" class="links" href="sa_speakers.html">
+					          	Sprecher-Analyse<span class="sr-only">(current)</span></span></a>
+					        </li>
+
+					        <li class="dropdown">
+					          <a href="sa_relations.html" id="link-speeches" class="links">
+					          	Sprecher-Beziehungen<span class="sr-only">(current)</span></span></a>
+					        </li>
+
+					        <li>
+					          <a href="contact_sa.html" id="link-speeches" class="links">
+					          	Contact<span class="sr-only">(current)</span></span></a>
+					        </li>
+
+					        <li><a class="links" href="index.html">Zur quantitativen Dramenanalyse <span class="sr-only">(current)</span></a></li>
+
+					      </ul>
+					    </div><!-- /.navbar-collapse -->
+					  </div><!-- /.container-fluid -->
+				</nav>
+			</div>
+
+			<div class="container" id="mainpage">
+
+				<a href="#basicDramaSpeakers-statistic" name="basicDramaSpeakers-statistic"><h3>Sentiments im ganzen Drama</h3></a>
+				<div class="box">
+					<div class="form-group dropdown-form" id="form-basicDramaSpeakers-speaker-bar">
+						  <label for="sel1">Sprecher:</label>
+						  <select class="form-control" id="selection-basicDramaSpeakers-speaker-bar">
+						  </select>
+					</div>
+					<div class="form-group dropdown-form" id="form-basicDramaSpeakers">
+					  <label for="sel1">Sentiment-Metriken:</label>
+					  <select class="form-control" id="selection-basicDramaSpeakers-bar-metric">
+					    	<option>Polaritäten (gewichtet)</option>
+						    <option>Polaritäten (Wortanzahl)</option>
+						    <option>Emotionen </option>
+					  </select>
+					</div>
+
+					<div class="form-group dropdown-form" id="form-basicDramaSpeakers">
+					  <label for="sel1">Normalisierung:</label>
+					  <select class="form-control" id="selection-basicDramaSpeakers-bar-normalisation">
+					    	<option>Absolut</option>
+						    <option>Normalisiert an Anzahl aller Wörter</option>
+						    <option>Normalisiert an Sentiment-Tragenden Wörtern</option>
+					  </select>
+					</div>
+
+					<div id="chart-div-basicDramaSpeakers"></div>
+				</div>
+
+				<a href="#speakersAct-statistic" name="speakersActs-statistic"><h3>Verlaufsdiagramm - Sprecher-Sentiments pro Akt</h3></a>
+				<div class="box">
+					<div>
+						<div id="checkboxes-actsSpeakers">
+						</div>
+					</div>
+					<div class="form-group dropdown-form" id="form-act1">
+					  <label for="sel1">Sentiment-Metrik:</label>
+					  <select class="form-control" id="selection-speakersActs-bar-metric">
+					    	<option>Polarität (gewichtet)</option>
+						    <option>Positiv (gewichtet)</option>
+						    <option>Negativ (gewichtet)</option>
+						    <option>Polarität (Wortanzahl)</option>
+						    <option>Positiv (Wortanzahl)</option>
+						    <option>Negativ (Wortanzahl)</option>
+						    <option>Zorn</option>
+						    <option>Erwartung</option>
+						    <option>Ekel</option>
+						    <option>Angst</option>
+						    <option>Freude</option>
+						    <option>Traurigkeit</option>
+						    <option>Überraschung</option>
+						    <option>Vertrauen</option>
+						    <option>Emotion vorhanden</option>
+					  </select>
+					</div>
+
+					<div class="form-group dropdown-form" id="form-act2">
+					  <label for="sel1">Normalisierung:</label>
+					  <select class="form-control" id="selection-speakersActs-bar-normalisation">
+					    	<option>Absolut</option>
+						    <option>Normalisiert an Anzahl aller Wörter</option>
+						    <option>Normalisiert an Sentiment-Tragenden Wörtern</option>
+					  </select>
+					</div>
+
+					<div id="chart-div-speakersAct"></div>
+
+				</div>
+
+				<a href="#speakersScenesPerAct-statistic" name="speakersScenesPerAct"><h3>Verlaufsdiagramme - Sprecher-Sentiments in Szenen pro Akt</h3></a>
+					<div class="box">
+						<div>
+							<div id="checkboxes-scenesPerActSpeakers">
+							</div>
+						</div>
+						<div class="form-group dropdown-form" id="form-scenes">
+							  <label for="sel1">Sentiment-Variablen:</label>
+							  <select class="form-control" id="selection-speakersScenesPerAct-bar-metric">
+							    <option>Polarität (gewichtet)</option>
+							    <option>Positiv (gewichtet)</option>
+							    <option>Negativ (gewichtet)</option>
+							    <option>Polarität (Wortanzahl)</option>
+							    <option>Positiv (Wortanzahl)</option>
+							    <option>Negativ (Wortanzahl)</option>
+							    <option>Zorn</option>
+							    <option>Erwartung</option>
+							    <option>Ekel</option>
+							    <option>Angst</option>
+							    <option>Freude</option>
+							    <option>Traurigkeit</option>
+							    <option>Überraschung</option>
+							    <option>Vertrauen</option>
+							    <option>Emotion vorhanden</option>
+							  </select>
+						</div>
+						<div class="form-group dropdown-form" id="form-act2">
+						  <label for="sel1">Normalisierung:</label>
+						  <select class="form-control" id="selection-speakersScenesPerAct-bar-normalisation">
+						    	<option>Absolut</option>
+						    	<option>Normalisiert an Anzahl aller Wörter</option>
+							    <option>Normalisiert an Sentiment-Tragenden Wörtern</option>
+						  </select>
+						</div>
+						<div id="charts-speakersScenesPerAct-bar"></div>
+					</div>
+
+
+				<a href="#speakerScenes" name="speakerScenes"><h3>Verlaufsdiagramm - Szenen im Dramenverlauf pro Sprecher</h3></a>
+					<div class="box">
+						<div>
+							<div id="checkboxes-scenesSpeakers">
+							</div>
+						</div>
+
+						<div class="form-group dropdown-form" id="form-speakerScenes">
+							  <label for="sel1">Sentiment-Variablen:</label>
+							  <select class="form-control" id="selection-speakerScenes-line-metric">
+							    <option>Polarität (gewichtet)</option>
+							    <option>Positiv (gewichtet)</option>
+							    <option>Negativ (gewichtet)</option>
+							    <option>Polarität (Wortanzahl)</option>
+							    <option>Positiv (Wortanzahl)</option>
+							    <option>Negativ (Wortanzahl)</option>
+							    <option>Zorn</option>
+							    <option>Erwartung</option>
+							    <option>Ekel</option>
+							    <option>Angst</option>
+							    <option>Freude</option>
+							    <option>Traurigkeit</option>
+							    <option>Überraschung</option>
+							    <option>Vertrauen</option>
+							    <option>Emotion vorhanden</option>
+							  </select>
+						</div>
+						<div class="form-group dropdown-form" id="form-act2">
+						  <label for="sel1">Normalisierung:</label>
+						  <select class="form-control" id="selection-speakerScenes-line-type">
+						    	<option>Absolut</option>
+						    	<option>Normalisiert an Anzahl aller Wörter</option>
+							    <option>Normalisiert an Sentiment-Tragenden Wörtern</option>
+						  </select>
+						</div>
+						<div id="dashbord-speakersScenes">
+							
+							<div id="chart-speakersScenes"></div>
+						</div>
+					</div>
+
+				<a href="#speechesSpeakers" name="speechesSpeakers"><h3>Verlaufsdiagramm pro Sprecher - Repliken</h3></a>
+					<div class="box">
+						<div>
+							<div id="checkboxes-speechesSpeakers">
+							</div>
+						</div>
+
+						<div class="form-group dropdown-form" id="form-speechesSpeakers">
+							  <label for="sel1">Sentiment-Variablen:</label>
+							  <select class="form-control" id="selection-speechesSpeakers-line-metric">
+							    <option>Polarität (gewichtet)</option>
+							    <option>Positiv (gewichtet)</option>
+							    <option>Negativ (gewichtet)</option>
+							    <option>Polarität (Wortanzahl)</option>
+							    <option>Positiv (Wortanzahl)</option>
+							    <option>Negativ (Wortanzahl)</option>
+							    <option>Zorn</option>
+							    <option>Erwartung</option>
+							    <option>Ekel</option>
+							    <option>Angst</option>
+							    <option>Freude</option>
+							    <option>Traurigkeit</option>
+							    <option>Überraschung</option>
+							    <option>Vertrauen</option>
+							    <option>Emotion vorhanden</option>
+							  </select>
+						</div>
+						<div class="form-group dropdown-form" id="form-act2">
+						  <label for="sel1">Normalisierung:</label>
+						  <select class="form-control" id="selection-speechesSpeakers-line-type">
+						    	<option>Absolut</option>
+						    	<option>Normalisiert an Anzahl aller Wörter</option>
+							    <option>Normalisiert an Sentiment-Tragenden Wörtern</option>
+						  </select>
+						</div>
+						<div id="dashbord-speechesSpeakers-lineChart">
+							<div id="filter-speechesSpeakers-lineChart"></div>
+							<div id="chart-speechesSpeakers-lineChart"></div>
+						</div>
+					</div>
+
+				<a href="#speakers-comparison" name="speakers-comparison"><h3>Sprechervergleich</h3></a>
+				<div class="box">
+					<div class="form-group dropdown-form" id="form-speakersComparison-bar-number">
+						  <label for="sel1">Drama-Akt:</label>
+						  <select class="form-control" id="selection-speakersComparison-act-bar-number">
+						  </select>
+					</div>
+					<div class="form-group dropdown-form" id="form-speakersComparison-bar-number">
+						  <label for="sel1">Akt-Szene:</label>
+						  <select class="form-control" id="selection-speakersComparison-scene-bar-number">
+						  </select>
+					</div>
+					<div class="form-group dropdown-form" id="form-speakersComparison1">
+					  <label for="sel1">Sentiment-Metrik:</label>
+					  <select class="form-control" id="selection-speakersComparison-bar-metric">
+					    	<option>Polarität (gewichtet)</option>
+						    <option>Positiv (gewichtet)</option>
+						    <option>Negativ (gewichtet)</option>
+						    <option>Polarität (Wortanzahl)</option>
+						    <option>Positiv (Wortanzahl)</option>
+						    <option>Negativ (Wortanzahl)</option>
+						    <option>Zorn</option>
+						    <option>Erwartung</option>
+						    <option>Ekel</option>
+						    <option>Angst</option>
+						    <option>Freude</option>
+						    <option>Traurigkeit</option>
+						    <option>Überraschung</option>
+						    <option>Vertrauen</option>
+						    <option>Emotion vorhanden</option>
+					  </select>
+					</div>
+
+					<div class="form-group dropdown-form" id="form-speakersComparison2">
+					  <label for="sel1">Normalisierung:</label>
+					  <select class="form-control" id="selection-speakersComparison-normalisation">
+					    	<option>Absolut</option>
+						    <option>Normalisiert an Anzahl aller Wörter</option>
+						    <option>Normalisiert an Sentiment-Tragenden Wörtern</option>
+					  </select>
+					</div>
+
+					<div id="dashbord-speakersComparison">
+						<div id="filter-speakersComparison"></div>
+						<div id="chart-speakersComparison"></div>
+					</div>
+
+				</div>
+
+				<a href="#speakerInDrama-pie" name="speakerInDrama-pie"><h3>Kreisdiagramm - Sentiment-Anteile von Sprecher</h3></a>
+				<div class="box">
+
+					<div class="form-group dropdown-form" id="form-speakerInDrama-act-pie-number">
+						  <label for="sel1">Drama-Akt:</label>
+						  <select class="form-control" id="selection-speakerInDrama-act-pie-number">
+						  </select>
+					</div>
+					<div class="form-group dropdown-form" id="form-speakerInDrama-scene-pie-number">
+						  <label for="sel1">Akt-Szene:</label>
+						  <select class="form-control" id="selection-speakerInDrama-scene-pie-number">
+						  </select>
+					</div>
+					<div class="form-group dropdown-form" id="form-speakerInDrama-speaker-pie">
+						  <label for="sel1">Sprecher:</label>
+						  <select class="form-control" id="selection-speakerInDrama-speaker-pie">
+						  </select>
+					</div>
+					<div class="form-group dropdown-form" id="form-speakerInDrama-pie-metric">
+					  <label for="sel1">Sentiment-Metric:</label>
+					  <select class="form-control" id="selection-speakerInDrama-pie-metric">
+					    	<option>Polarität (gewichtet)</option>
+						    <option>Polarität (Wortanzahl)</option>
+						    <option>Emotionen</option>
+						    <option>Emotion vorhanden</option>
+					  </select>
+					</div>
+					<div class="form-group dropdown-form" id="form-speakerInDrama-pie-type">
+						  <label for="sel1">Verteilung:</label>
+						  <select class="form-control" id="selection-speakerInDrama-pie-type">
+							    <option>Verteilung von Sentiment-Tragenden Wörtern</option>
+							    <option>Verteilung von allen Wörtern</option>
+						  </select>
+					</div>
+					<div id="chart-div-speakerInDrama-pie"></div>
+				</div>
+
+				</div>
+			</div>
+		</div><!-- maincontent -->
+
+		<script src="js/libs/jquery-1.11.2.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+
+		<script type="text/javascript" src="json/allDramas.json"></script>
+		<script type="text/javascript" src="js/Globals/setChosenDrama.js"></script>
+		<script type="text/javascript" src="js/Globals/global.js"></script>
+		<script type="text/javascript" src="js/SA_Speakers/SA_Speakers.js"></script>
+		<script type="text/javascript" src="js/SA_Speakers/SA_SpeakersController.js"></script>
+		<script type="text/javascript" src="js/SA_Speakers/SA_SpeakersModel.js"></script>
+		<script type="text/javascript" src="js/SA_Speakers/BasicDramaSpeakersView.js"></script>
+		<script type="text/javascript" src="js/SA_Speakers/SingleSpeakerView.js"></script>
+		<script type="text/javascript" src="js/SA_Speakers/SpeakersComparisonView.js"></script>
+		<script type="text/javascript" src="js/SA_Speakers/SpeakersActsView.js"></script>
+		<script type="text/javascript" src="js/SA_Speakers/SpeakersScenesView.js"></script>
+		<script type="text/javascript" src="js/SA_Speakers/SpeakersSpeechesView.js"></script>
+
+		<script>
+				$(function() {
+					SA_Speakers.init();
+				});
+		</script>
+	</body>
+</html>

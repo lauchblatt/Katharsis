@@ -1,0 +1,160 @@
+.container {
+}
+
+body {
+     font-family: Calibri;
+}
+
+#headerLine {
+	color: #3C8F6D;
+}
+
+#maincontent {
+	display: none;
+}
+
+#loading {
+	display: block;
+}
+.tooltip-test {
+	padding: 5px;
+	font-size: 15px;
+}
+
+#loading {
+	margin-top: 10%;
+}
+
+#loading-spinner {
+	width: 100%;
+	text-align: center;
+
+}
+
+#loading-spinner-img{
+	font-size: 5em;
+	margin-bottom: 5%;
+}
+
+#loading-text{
+	font-size: 2em;
+}
+
+.glyphicon-repeat-animate {
+    -animation: spin .7s infinite linear;
+    -webkit-animation: spin2 .7s infinite linear;
+}
+
+@-webkit-keyframes spin2 {
+    from { -webkit-transform: rotate(0deg);}
+    to { -webkit-transform: rotate(360deg);}
+}
+
+@keyframes spin {
+    from { transform: scale(1) rotate(0deg);}
+    to { transform: scale(1) rotate(360deg);}
+}
+
+#quicklinks {
+	font-size: 1.5em;
+	text-align: center;
+	margin-top: 35px;
+}
+
+.png-download {
+	float: right;
+}
+
+.dropdown-form {
+	width: 20%;
+}
+
+h3 {
+	margin-top: 5%;
+}
+
+.box {
+	border-color: #ddd;
+	border-width: 1px;
+	border-radius: 4px 4px 0 0;
+	border-style: solid;
+	padding: 1%;
+	display: inline-block;
+	margin-bottom: 2%;
+}
+
+.box-hard {
+	border-color: #ddd;
+	border-width: 1px;
+	border-radius: 4px 4px 0 0;
+	border-style: solid;
+	padding: 1%;
+	margin-bottom: 6%;
+}
+
+.google-visualization-controls-rangefilter{
+	text-align: center;
+}
+
+.google-visualization-controls-slider-horizontal{
+	width: 600px !important;
+}
+
+#logo-wrapper,
+#header-wrapper {
+	display: inline-block;
+}
+
+#logo {
+	margin-top: 20px;
+	margin-right: 30px;
+	width: 160px;
+	height: 160px;
+	display: inline-block;
+	border: 2px solid #ccc;
+}
+
+#selected-dramas-wrapper {
+	margin-bottom: 70px;
+}
+
+#selected-dramas-wrapper h3 {
+	color: #337ab7;
+  	text-decoration: none;
+}
+
+.glyphicon-triangle-bottom,
+.glyphicon-triangle-top {
+	font-size: 24px;
+	margin-left: 10px;
+}
+
+#selected-dramas-wrapper #selected-dramas
+{
+	display: none;
+}
+
+#selected-dramas-wrapper.open #selected-dramas{
+	display: block;
+	font-size: 1.2em;
+}
+
+#selected-dramas-wrapper.open .glyphicon-triangle-top,
+#selected-dramas-wrapper .glyphicon-triangle-bottom {
+	display: inline-block;
+}
+
+#selected-dramas-wrapper.open .glyphicon-triangle-bottom, 
+#selected-dramas-wrapper .glyphicon-triangle-top{
+	display: none;
+}
+
+th {
+	text-align: center;
+	vertical-align: middle !important;
+}
+
+td {
+	text-align: center;
+	vertical-align: middle !important;
+}

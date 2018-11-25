@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Drama collection - Analysis</title>	
+
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<link href="css/multipledrama.css" rel="stylesheet">
+
+	</head>
+	<body>
+		<div id="loading" class="container">
+			<div id="loading-spinner">
+				<span class="glyphicon glyphicon-repeat glyphicon-repeat-animate loading-button" id="loading-spinner-img">
+				</span>
+				<div id="loading-text">Data is calculated. This can take a few seconds...</div>
+			</div>
+		</div>
+		<div class="container" id="maincontent">
+			<div class="container" id="header">
+				<div id="logo-wrapper">
+					<a href="./index.html" ><img id="logo" src="./img/logo.png" title="Katharsis"></img></a>
+				</div>
+				<div id="header-wrapper">
+					<h1 class="page-header" id="headerLine">Drama collection - Analysis</h1>
+				</div>
+			</div>
+
+
+			<div id="quicklinks">
+				<div><a href="#collection-speech-distribution">Distribution of speech lengths - Curve diagram</a></div>
+				<div><a href="#collection-scatter-plot">Temporal progression - Scatter plot</a></div>
+				<div><a href="#collection-author">Comparison of authors - Bar chart</a></div>
+				<div><a href="#collection-type">Comparison of genres - Bar chart</a></div>
+			</div>
+
+
+			<div id="selected-dramas-wrapper">
+				<p>
+					<h3>Chosen plays for the analysis<span class="glyphicon glyphicon-triangle-bottom"></span><span class="glyphicon glyphicon-triangle-top"></span></h3>
+				</p>
+				<table class="table table-striped" id="selected-dramas">
+					<thead>
+						<tr class="header-row">
+						    <th class="table-header-col">Title</th>
+						    <th class="table-header-col">Author</th>
+						    <th class="table-header-col">Genre</th>
+					    	<th class="table-header-col">Year</th>
+					    	<th class="table-header-col">Number of speeches</th>
+						</tr>
+					</thead>
+					<tbody id="table-tbody">
+					</tbody>
+				</table>
+
+			</div>
+
+			<a href="#collection-speech-distribution" name="collection-speech-distribution"><h3>Distribution of speech lengths - Curve diagram</h3></a>
+			<div class="box">
+				<div class="form-group dropdown-form" id="form-speech-distribution">
+					  <label for="selection-speech-distribution">Distribution type:</label>
+					  <select class="form-control" id="selection-speech-distribution">
+					  	<option>Relative</option>
+					  	<option>Absolute</option>
+					    
+					  </select>
+				</div>
+				<div class="form-group dropdown-form" id="form-speech-compare">
+					  <label for="selection-speech-compare">Comparison:</label>
+					  <select class="form-control" id="selection-speech-compare">
+					  	<option>No comparison</option>
+					  	<option>Author</option>
+					    <option>Genre</option>
+					    
+					  </select>
+				</div>
+				<div id="curve-dashbord">
+					<div id="curve-controls"></div>
+					<div id="curve-chart"></div>
+				</div>
+				<button class="btn btn-primary png-download" id="download-png-curve">Download PNG</button>
+			</div>
+			<a href="#collection-scatter-plot" name="collection-scatter-plot"><h3>Temporal progression - Scatter plot</h3></a>
+			<div class="box">
+				<div class="form-group dropdown-form" id="form-year">
+						  <label for="selection-year">Metrics:</label>
+						  <select class="form-control" id="selection-year">
+						    <option>Number of scenes</option>
+						    <option>Number of speeches</option>
+						    <option>Number of speakers</option>
+						    <option>Configuration density</option>
+						    <option>Average length of speeches</option>
+						    <option>Median length of speeches</option>
+						    <option>Maximum length of speeches</option>
+						    <option>Minimum length of speeches</option>
+						  </select>
+				</div>
+			
+
+				<div class="form-group dropdown-form" id="form-year-compare">
+					  <label for="selection-year-compare">Comparison:</label>
+					  <select class="form-control" id="selection-year-compare">
+					  	<option>No comparison</option>
+					  	<option>Author</option>
+					    <option>Genre</option>
+					    
+					  </select>
+				</div>
+				<div id="dashbord-year">
+					
+					<div id="controls-year2"></div>
+					<div id="chart-div-year"></div>
+					<div id="controls-year1"></div>
+				</div>
+				<button class="btn btn-primary png-download" id="download-png-year">Download PNG</button>
+			</div>
+			
+			<a href="#collection-author" name="collection-author"><h3>Comparison of authors - Bar chart</h3></a>
+			<div class="box-hard container">
+				<div class="form-group dropdown-form" id="form-author">
+						  <label for="selection-author">Metrics:</label>
+						  <select class="form-control" id="selection-author">
+						    <option>Number of scenes</option>
+						    <option>Number of speeches</option>
+						    <option>Number of speakers</option>
+						    <option>Configuration density</option>
+						    <option>Average length of speeches</option>
+						    <option>Median length of speeches</option>
+						    <option>Maximum length of speeches</option>
+						    <option>Minimum length of speeches</option>
+						  </select>
+					</div>
+				<div id="dashbord-author">
+					<div id="filter-author"></div>
+					<div id="chart-author"></div>
+				</div>
+				<button class="btn btn-primary png-download" id="download-png-author">Download PNG</button>
+			</div>
+
+			<a href="#collection-type" name="collection-type"><h3>Comparison of genres - Bar chart</h3></a>
+			<div class="box-hard container">
+				<div class="form-group dropdown-form" id="form-category">
+						  <label for="selection-category">Metrics:</label>
+						  <select class="form-control" id="selection-category">
+						    <option>Number of scenes</option>
+						    <option>Number of speeches</option>
+						    <option>Number of speakers</option>
+						    <option>Configuration density</option>
+						    <option>Average length of speeches</option>
+						    <option>Median length of speeches</option>
+						    <option>Maximum length of speeches</option>
+						    <option>Minimum length of speeches</option>
+						  </select>
+					</div>
+				<div id="chart-category"></div>
+				<button class="btn btn-primary png-download" id="download-png-category">Download PNG</button>
+			</div>
+
+		</div>
+
+		<script src="js/libs/jquery-1.11.2.js"></script>
+		<script src="https://cdn.firebase.com/js/client/2.2.2/firebase.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+		<script type="text/javascript"></script>
+
+		<script type="text/javascript" src="js/MultipleDramas/MultipleDramas.js"></script>
+		<script type="text/javascript" src="js/MultipleDramas/MultipleDramasModel.js"></script>
+		<script type="text/javascript" src="js/MultipleDramas/YearView.js"></script>
+		<script type="text/javascript" src="js/MultipleDramas/AuthorView.js"></script>
+		<script type="text/javascript" src="js/MultipleDramas/CategoryView.js"></script>
+		<script type="text/javascript" src="js/MultipleDramas/LineCurveView.js"></script>
+		<script type="text/javascript" src="js/MultipleDramas/MultipleDramaController.js"></script>
+
+		<script>
+				$(function() {
+					MultipleDramas.init();
+				});
+			</script>
+	</body>
+</html>

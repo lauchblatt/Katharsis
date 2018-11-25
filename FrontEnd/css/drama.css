@@ -1,0 +1,154 @@
+.container {
+	display: none;
+
+}
+h4 {
+	font-size: 1.5em;
+}
+body {
+     font-family: Calibri !important;
+}
+#dramaTitle {
+	color: #3C8F6D;
+}
+
+.text {
+	color: black !important;
+	font-size: 1.2em;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+ }
+
+ .navbar {
+ 	margin-bottom: 4%;
+ 	margin-top: 3%;
+ 	background: linear-gradient(to left, #5485B3, #84B4DB);
+ 	font-size: 1.0em;
+ }
+
+ li {
+ 	transition: all 1s ease;
+ }
+
+ ul.dropdown-menu {
+ 	background-color: #84B4DB;
+ 	font-size: 1.1em;
+ }
+
+ .dropdown-menu li {
+ 	transition: all 1s ease;
+ 	background-color: #84B4DB;
+ }
+
+ li.superactive{
+ 	background-color: #38B983 !important;
+ }
+
+ li:hover{
+ 	background-color: #3C8F6D;
+ }
+
+.links {
+	color: black !important;
+}
+
+.dropdown ul li a:hover {
+	background-color: #3C8F6D;
+}
+
+ .box {
+ 	width: 47.7%;
+ 	height: 100%;
+	border-color: #ddd;
+	border-width: 1px;
+	border-radius: 4px 4px 0 0;
+	border-style: solid;
+	padding: 1%;
+	display: inline-block;
+	margin-bottom: 4%;
+	vertical-align: top;
+	margin-right: 4% !important;
+}
+
+#to_dramaAnalysis .box,
+#to_speechAnalysis .box {
+	margin-right: 0% !important;
+}
+
+.box-row {
+	vertical-align: top;
+	display: inline-block;
+}
+
+#to-matrix {
+	float: left;
+
+}
+
+#to-dramaAnalysis {
+	float: left;
+}
+
+#to-speakerAnalysis {
+	float: left;
+
+}
+
+#to-speechAnalysis {
+	float: left;
+}
+
+#logo-wrapper,
+#header-wrapper {
+	display: inline-block;
+}
+
+#logo {
+	margin-top: -60px;
+	margin-right: 30px;
+	width: 160px;
+	height: 160px;
+	display: inline-block;
+	border: 2px solid #ccc;
+}
+
+#maincontent {
+	display: none;
+}
+
+#loading {
+	display: block;
+	margin-top: 10%;
+}
+
+#loading-spinner {
+	width: 100%;
+	text-align: center;
+
+}
+
+#loading-spinner-img{
+	font-size: 5em;
+	margin-bottom: 5%;
+}
+
+#loading-text{
+	font-size: 2em;
+}
+
+.glyphicon-repeat-animate {
+    -animation: spin .7s infinite linear;
+    -webkit-animation: spin2 .7s infinite linear;
+}
+
+@-webkit-keyframes spin2 {
+    from { -webkit-transform: rotate(0deg);}
+    to { -webkit-transform: rotate(360deg);}
+}
+
+@keyframes spin {
+    from { transform: scale(1) rotate(0deg);}
+    to { transform: scale(1) rotate(360deg);}
+}

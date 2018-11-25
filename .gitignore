@@ -1,0 +1,5 @@
+# ignore all files in the Korpus/ directory
+Korpus/
+
+# ignore compiled python files
+__pycache__/

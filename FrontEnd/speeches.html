@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Distribution of speeches</title>	
+
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<link href="css/speeches.css" rel="stylesheet">
+
+	</head>
+	<body>
+		<div id="loading" class="container">
+			<div id="loading-spinner">
+				<span class="glyphicon glyphicon-repeat glyphicon-repeat-animate loading-button" id="loading-spinner-img">
+				</span>
+				<div id="loading-text">Data is calculated. This can take a few seconds...</div>
+			</div>
+		</div>
+
+		<div id="maincontent">
+			<div class="container">
+				<div class="" id="header">
+						<div id="logo-wrapper">
+							<a href="./index.html" ><img id="logo" src="./img/logo.png" title="Katharsis"></img></a>
+						</div>
+						<div id="header-wrapper">
+							<h1 id="dramaTitle" class="page-header"></h1>
+							<h2 id="dramaAuthor"></h2>
+						</div>
+				</div>
+
+				<nav class="navbar navbar-default">
+					  <div class="container-fluid">
+
+					    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					      <ul class="nav navbar-nav">
+
+					      	<li><a class="links" href="index.html">Search <span class="sr-only">(current)</span></a></li>
+					      	<li><a id="link-overall" class="links" href="#">Overview <span class="sr-only">(current)</span></a></li>
+
+					      	<li><a href="#" id="link-matrix" class="links">Configuration matrix <span class="sr-only">(current)</span></a></li>
+
+					        <li class="dropdown">
+					          <a href="" id="link-drama" role="button" class="links" aria-expanded="false">
+					          	Structual analysis<span class="caret"></span></a>
+					          <ul class="dropdown-menu" role="menu">
+					            <li><a href="#" id="link-drama-actSceneAnalysis">Act-scene-table</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-drama-actStatistic">Bar chart - Acts statistics</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-drama-sceneStatistic">Bar chart - Scenes statistics</a></li>
+					          </ul>
+					        </li>
+
+					        <li class="dropdown">
+					          <a id="link-speakers" class="links" href="#" role="button" aria-expanded="false">
+					          	Speaker analysis<span class="caret"></span></a>
+					          <ul class="dropdown-menu" role="menu">
+					            <li><a href="#" id="link-speaker-table">Speaker table</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-speeches-dominance">Pie chart - Dominance of speeches</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-speaker-statistic">Bar chart - Speaker statistics</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-speaker-relations">Speaker relations</a></li>
+					          </ul>
+					        </li>
+
+					        <li class="superactive dropdown">
+					          <a href="#" id="link-speeches" class="links" role="button" aria-expanded="false">
+					          	Distribution of speeches<span class="caret"></span></a>
+					          <ul class="dropdown-menu" role="menu">
+					            <li><a href="#" id="link-histogram">Distribution of speeches - Histogram</a></li>
+					            <li class="divider" ></li>
+					            <li><a href="#" id="link-curve-diagram">Distribution of speeches - Curve diagram</a></li>
+					          </ul>
+					        </li>
+
+					        <li>
+					          <a href="#" class="links" id="link-contact">
+					          	Contact<span class="sr-only">(current)</span></span></a>
+					        </li>
+					        <li><a class="links" href="sa_selection.html"> Sentiment Analysis (beta)<span class="sr-only">(current)</span></a></li>
+
+					      </ul>
+					    </div><!-- /.navbar-collapse -->
+					  </div><!-- /.container-fluid -->
+				</nav>
+
+			</div>
+			<div class="container">
+				
+				<a href="#histogram" name="histogram"><h3>Distribution of speeches - Histogram</h1></a>
+				<div class="box">
+					<div id="distribution-dashbord">
+						<div id="distribution-controls"></div>
+						<div id="distribution-chart"></div>
+					</div>
+					<button class="btn btn-primary png-download" id="download-png-distribution">Download PNG</button>
+				</div>
+
+				<a href="#curve-diagram" name="curve-diagram"><h3>Distribution of speeches - Curve diagram</h1></a>
+				<div class="box">
+					<div class="form-group dropdown-form" id="form-speech-distribution">
+						  <label for="selection-speech-distribution">Distribution type:</label>
+						  <select class="form-control" id="selection-speech-distribution">
+						  	<option>Relative</option>
+						  	<option>Absolute</option>
+						    
+						  </select>
+					</div>
+					<div id="curve-dashbord">
+						<div id="curve-controls1"></div>
+						<div id="curve-controls2"></div>
+						<div id="curve-chart"></div>
+					</div>
+					<button class="btn btn-primary png-download" id="download-png-curve">Download PNG</button>
+				</div>
+
+			</div>
+		</div>
+
+		<script src="js/libs/jquery-1.11.2.js"></script>
+		<script src="https://cdn.firebase.com/js/client/2.2.2/firebase.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+		<script type="text/javascript"></script>
+
+		<script type="text/javascript" src="js/Speeches/Speeches.js"></script>
+		<script type="text/javascript" src="js/Speeches/SpeechesModel.js"></script>
+		<script type="text/javascript" src="js/Speeches/SpeechesDistributionView.js"></script>
+		<script type="text/javascript" src="js/Speeches/SpeechesLineView.js"></script>
+		<script type="text/javascript" src="js/Speeches/SpeechesController.js"></script>
+
+		<script>
+				$(function() {
+					Speeches.init();
+				});
+			</script>
+	</body>
+</html>

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Configuration matrix</title>	
+
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="css/tooltipster.css" />
+		<link href="css/matrix.css" rel="stylesheet">
+
+	</head>
+	<body>
+		<div id="loading" class="container">
+			<div id="loading-spinner">
+				<span class="glyphicon glyphicon-repeat glyphicon-repeat-animate loading-button" id="loading-spinner-img">
+				</span>
+				<div id="loading-text">Data is calculated. This can take a few seconds...</div>
+			</div>
+		</div>
+		<div id="maincontent">
+			<div class="container">
+				<div class="" id="header">
+						<div id="logo-wrapper">
+							<a href="./index.html" ><img id="logo" src="./img/logo.png" title="Katharsis"></img></a>
+						</div>
+						<div id="header-wrapper">
+							<h1 id="dramaTitle" class="page-header"></h1>
+							<h2 id="dramaAuthor"></h2>
+						</div>
+				</div>
+
+				<nav class="navbar navbar-default">
+					  <div class="container-fluid">
+
+					    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					      <ul class="nav navbar-nav">
+
+					      	<li><a class="links" href="index.html">Search <span class="sr-only">(current)</span></a></li>
+					      	<li><a id="link-overall" class="links" href="#">Overview <span class="sr-only">(current)</span></a></li>
+
+					      	<li class="superactive"><a href="#" id="link-matrix" class="links">Configuration matrix <span class="sr-only">(current)</span></a></li>
+
+					        <li class="dropdown">
+					          <a href="" id="link-drama" role="button" class="links" aria-expanded="false">
+					          	Structual analysis<span class="caret"></span></a>
+					          <ul class="dropdown-menu" role="menu">
+					            <li><a href="#" id="link-drama-actSceneAnalysis">Act-scene-table</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-drama-actStatistic">Bar chart - Acts statistics</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-drama-sceneStatistic">Bar chart - Scenes statistics</a></li>
+					          </ul>
+					        </li>
+
+					        <li class="dropdown">
+					          <a id="link-speakers" class="links" href="#" role="button" aria-expanded="false">
+					          	Speaker analysis<span class="caret"></span></a>
+					          <ul class="dropdown-menu" role="menu">
+					            <li><a href="#" id="link-speaker-table">Speaker table</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-speeches-dominance">Pie chart - Dominance of speeches</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-speaker-statistic">Bar chart - Speaker statistics</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-speaker-relations">Speaker relations</a></li>
+					          </ul>
+					        </li>
+
+					        <li class="dropdown">
+					          <a href="#" id="link-speeches" class="links" role="button" aria-expanded="false">
+					          	Distribution of speeches<span class="caret"></span></a>
+					          <ul class="dropdown-menu" role="menu">
+					            <li><a href="#" id="link-histogram">Distribution of speeches - Histogram</a></li>
+					            <li class="divider" ></li>
+					            <li><a href="#" id="link-curve-diagram">Distribution of speeches - Curve diagram</a></li>
+					          </ul>
+					        </li>
+
+					        <li>
+					          <a href="#" class="links" id="link-contact">
+					          	Contact<span class="sr-only">(current)</span></span></a>
+					        </li>
+					        <li><a class="links" href="sa_selection.html"> Sentiment Analysis (beta)<span class="sr-only">(current)</span></a></li>
+
+					      </ul>
+					    </div><!-- /.navbar-collapse -->
+					  </div><!-- /.container-fluid -->
+				</nav>
+
+			</div>
+			<div id="wrapper" class="container">
+
+				<table class="table table-bordered" id="confMatrix">
+				  <thead>
+				  	<tr id="acts_headline">
+				  		<th colspan="1" id="title-header"></th>
+				  	</tr>
+				  	<tr id="scenes_headline">
+				  		<th></th>
+				  	</tr>
+				  </thead>
+				  <tbody id="table-body">
+				  </tbody>
+				</table>
+			</div>
+		</div><!-- maincontent -->
+
+		<script src="js/libs/jquery-1.11.2.js"></script>
+		<script src="https://cdn.firebase.com/js/client/2.2.2/firebase.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="js/jquery.tooltipster.js"></script>
+
+		<script type="text/javascript" src="js/Matrix/Matrix.js"></script>
+		<script type="text/javascript" src="js/Matrix/MatrixModel.js"></script>
+		<script type="text/javascript" src="js/Matrix/MatrixView.js"></script>
+		<script type="text/javascript" src="js/Matrix/MatrixController.js"></script>
+
+		<script>
+				$(function() {
+					Matrix.init();
+				});
+			</script>
+	</body>
+</html>

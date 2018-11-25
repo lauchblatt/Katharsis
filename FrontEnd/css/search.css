@@ -1,0 +1,289 @@
+.container {
+	font-family: Calibri;
+}
+
+#header {
+	margin-bottom: 4%;
+	background: linear-gradient(to left, #5485B3, #84B4DB);
+	padding: 2%;
+}
+
+.analyse-collection {
+	float: left;
+	display: block;
+}
+
+.jumbotron {
+	padding-left: 5%;
+}
+
+#no-results {
+	width: 100%;
+	float: left !important;
+	text-align: center;
+	font-style: bold;
+	font-size: 24px;
+}
+
+#download-csv {
+	float: right !important;
+}
+
+table {
+	display: none;
+	font-size: 1.2em;
+}
+
+#no-results {
+	display: none;
+}
+
+#confMatrix {
+	display: none;
+}
+
+form {
+	width: 100%;
+}
+
+fieldset.range {
+	float: left !important;
+}
+
+.more-range {
+	display: none;
+}
+
+legend {
+    width:auto; /* Or auto */
+    padding:0 10px; /* To give a bit of padding on the left and right */
+    border-bottom:none;
+    margin: 0px !important;
+}
+
+fieldset {
+    border: 1px solid #ccc !important;
+    padding: 0 1.4em 1.4em 1.4em !important;
+    margin: 0 0 1.5em 0 !important;
+    -webkit-box-shadow:  0px 0px 0px 0px #ccc;
+            box-shadow:  0px 0px 0px 0px #ccc;
+    -webkit-border-color: #ccc;
+}
+
+th {
+	text-align: center;
+	vertical-align: middle !important;
+}
+
+td {
+	text-align: center;
+	vertical-align: middle !important;
+}
+
+tr {
+	transition: all 1s ease;
+}
+
+.jumbotron {
+	background-color: #738CFF !important;
+}
+
+tbody tr:hover {
+	background-color: #65A5DB !important;
+	cursor: pointer;
+}
+
+tr.header-row th.sortable:hover {
+	cursor: pointer;
+}
+
+.glyphicon-download-alt {
+	font-size: 1.5em;
+}
+
+.glyphicon-triangle-bottom {
+	font-size: 1.5em;
+	display: block;
+	float: right;
+}
+
+.glyphicon-triangle-top {
+	font-size: 1.5em;
+	display: block;
+	float: right;
+}
+
+.glyphicon-download {
+	font-size: 1.5em;
+}
+
+.glyphicon-ok{
+	margin-right: 5px !important;
+}
+
+.analyse-collection {
+	display: none;
+}
+
+.box {
+	border-color: #ddd;
+	border-width: 1px;
+	border-radius: 4px 4px 0 0;
+	border-style: solid;
+	padding: 1%;
+	display: inline-block;
+	margin-bottom: 5%;
+	width: 100%;
+}
+
+.glyphicon-sort {
+	float: right !important;
+}
+
+#info-overall {
+	float: right;
+	font-size: 2em;
+	margin-top: 25px;
+	margin-right: 10px;
+}
+
+#info-compare-div {
+	width: 30%;
+	display: inline-block;
+	margin-bottom: 5px;
+}
+
+#info-compare {
+	float: left;
+	display: none;
+	font-size: 2em;
+	margin-left: 5%;
+	margin-top: 10px;
+
+}
+
+.search-option {
+	float: left;
+	width: 30.5%;
+	height: 25%;
+	margin-left: 3% !important;
+}
+
+#open-forms {
+	margin-left: 1% !important;
+}
+
+#search-conf {
+	margin-left: 1% !important;
+}
+
+#search-acts{
+	margin-left: 1% !important;
+}
+
+.type-labels {
+	float: left !important;
+}
+
+#buttons-div {
+	clear: both;
+	text-align: center;
+}
+
+#more-button {
+	width: 30%;
+	margin-bottom: 1%;
+	vertical-align: bottom !important;
+}
+
+#less-button {
+	width: 30%;
+	margin-bottom: 1%;
+	display: none;
+}
+
+#search-button {
+	width: 30%;
+}
+
+.search-row {
+	clear: both;
+	width: 100%;
+	display: inline-block;
+}
+
+#loading-circle-button {
+	display: none;
+}
+
+#loading-spinner {
+	display: none;
+	width: 100%;
+	text-align: center;
+}
+
+#loading-spinner-img{
+	font-size: 5em;
+}
+
+.glyphicon-refresh-animate {
+    -animation: spin .7s infinite linear;
+    -webkit-animation: spin2 .7s infinite linear;
+}
+
+@-webkit-keyframes spin2 {
+    from { -webkit-transform: rotate(0deg);}
+    to { -webkit-transform: rotate(360deg);}
+}
+
+@keyframes spin {
+    from { transform: scale(1) rotate(0deg);}
+    to { transform: scale(1) rotate(360deg);}
+}
+
+#logo-wrapper,
+#header-wrapper {
+	display: inline-block;
+}
+
+#logo {
+	margin-top: -60px;
+	margin-right: 30px;
+	width: 160px;
+	height: 160px;
+	display: inline-block;
+	border: 2px solid #ccc;
+}
+
+#search-header {
+	margin-bottom: 10px;
+	margin-left: 10px;
+	display: inline-block;
+}
+
+#all-selector {
+	cursor:pointer;
+}
+
+/* popup */
+
+.popup {
+	z-index: 9999;
+	position: fixed;
+	top: 40%;
+	width: 100%;
+	display: none;
+}
+
+.popup p {
+	display: block;
+	width: 400px;
+	padding: 5px;
+	border: 2px solid #ccc;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	background: linear-gradient(to left, #5485B3, #84B4DB);
+	font-size: 22px;
+	border-radius: 5px;
+}

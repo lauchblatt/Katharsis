@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Single view of a drama</title>	
+
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<link href="css/drama.css" rel="stylesheet">
+
+	</head>
+	<body>
+		<div id="loading" class="container">
+			<div id="loading-spinner">
+				<span class="glyphicon glyphicon-repeat glyphicon-repeat-animate loading-button" id="loading-spinner-img">
+				</span>
+				<div id="loading-text">Data is calculated. This can take a few seconds...</div>
+			</div>
+		</div>
+		<div id="maincontent">
+			<div class="container" id="header">
+					<div id="logo-wrapper">
+						<a href="./index.html" ><img id="logo" src="./img/logo.png" title="Katharsis"></img></a>
+					</div>
+					<div id="header-wrapper">
+						<h1 id="dramaTitle" class="page-header"></h1>
+						<h2 id="dramaAuthor"></h2>
+					</div>
+			</div>
+			
+			<div class="container">
+				<nav class="navbar navbar-default">
+					  <div class="container-fluid">
+
+					    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					      <ul class="nav navbar-nav">
+
+					      	<li><a class="links" href="index.html">Search <span class="sr-only">(current)</span></a></li>
+					      	<li class="superactive"><a id="link-overall" class="links" href="#">Overview <span class="sr-only">(current)</span></a></li>
+
+					      	<li><a href="#" id="link-matrix" class="links">Configuration matrix <span class="sr-only">(current)</span></a></li>
+
+					        <li class="dropdown">
+					          <a href="" id="link-drama" role="button" class="links" aria-expanded="false">
+					          	Structual analysis<span class="caret"></span></a>
+					          <ul class="dropdown-menu" role="menu">
+					            <li><a href="#" id="link-drama-actSceneAnalysis">Act-scene-table</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-drama-actStatistic">Bar chart - Acts statistics</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-drama-sceneStatistic">Bar chart - Scenes statistics</a></li>
+					          </ul>
+					        </li>
+
+					        <li class="dropdown">
+					          <a id="link-speakers" class="links" href="#" role="button" aria-expanded="false">
+					          	Speaker analysis<span class="caret"></span></a>
+					          <ul class="dropdown-menu" role="menu">
+					            <li><a href="#" id="link-speaker-table">Speaker table</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-speeches-dominance">Pie chart - Dominance of speeches</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-speaker-statistic">Bar chart - Speaker statistics</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-speaker-relations">Speaker relations</a></li>
+					          </ul>
+					        </li>
+
+					        <li class="dropdown">
+					          <a href="#" id="link-speeches" class="links" role="button" aria-expanded="false">
+					          	Distribution of speeches<span class="caret"></span></a>
+					          <ul class="dropdown-menu" role="menu">
+					            <li><a href="#" id="link-histogram">Distribution of speeches - Histogram</a></li>
+					            <li class="divider" ></li>
+					            <li><a href="#" id="link-curve-diagram">Distribution of speeches - Curve diagram</a></li>
+					          </ul>
+					        </li>
+
+					        <li>
+					          <a href="#" class="links" id="link-contact">
+					          	Contact<span class="sr-only">(current)</span></span></a>
+					        </li>
+					        <li><a class="links" href="sa_selection.html"> Sentiment Analysis (beta)<span class="sr-only">(current)</span></a></li>
+
+					      </ul>
+					    </div><!-- /.navbar-collapse -->
+					  </div><!-- /.container-fluid -->
+				</nav>
+
+				<div class="box-row">
+
+					<a href="" id="to_matrix">
+						<div class="box">
+							<h4>Configuration matrix</h4>
+							<div class="text">
+								A configuration matrix is a table visualizing the presence and absence of characters throughout the course of a play. The scenes are entered on the x-axis and the speakers on the y-axis. A cell of the matrix is filled in when a speaker makes an appearance in a scene.
+								<br/>
+								<br/>
+								The configuration matrix is enriched by numerous drama-, act- and scene-level information like the configuration density, speech statistics and metrics concerning the speakers. This information can be viewed by hovering over the various cells of the matrix.
+								<br/>
+								<br/>
+								Content: <b>Configuration matrix, various drama-, act-, scene- and speaker-statistics.</b>
+							</div>
+						</div>
+					</a>
+
+		  			<a href="" id="to_dramaAnalysis">
+		  				<div class="box">
+		  					<h4>Structual analysis</h4>
+		  					<div class="text">
+		  						Via the structural analysis you can examine various quantitative metrics and the development throughout the play, the acts and the scenes.
+		  						<br/>
+		  						<br/> 
+		  						Available metrics:<br/>
+								Number of speakers, number of scenes, number of speeches, average speech length, median speech lengths, maximum speech length, minimum speech length (each in number of words).
+		  						<br/>
+		  						<br/>
+		  						Content: <b>Act-scene-table, Bar chart - Acts statistics, Bar chart - Scenes statistics</b>
+		  					</div>
+		  				</div>
+		  			</a>
+
+	  			</div>
+
+	  			<div class="box-row">
+
+		 			<a href="" id="to_speakerAnalysis">
+		 				<div class="box">
+		 					<h4>Speaker analysis</h4>
+		 					<div class="text">
+		 						With the speaker analysis, you can examine statistics and metrics about specific speakers, thus the characters of the plays. Furthermore, you can compare speakers with each other.
+		 						<br/>
+		 						<br/>
+		 						Available metrics:<br/>
+								Presence in scenes, presence per scene in percent, number of speeches, average speech lenght, median speech length, maximum speech length, minimum speech length (each in number of words).
+		 						<br/>
+		 						<br/>
+		 						A pie chart visualize die dominance of speech concerning the characters, thus which characters talk the most. Furthermore, you can analyze the scenic relations between speakers (dominant, concomitant, alternative and independent).
+		 						<br/>
+		 						<br/>
+		 						Content: <b>Speaker-table, Pie chart - dominance of speeches, Bar chart - Speaker statistics, Speaker relations</b>
+		 					</div>
+		 				</div>
+		 			</a>
+
+		 			<a href="" id="to_speechAnalysis">
+		 				<div class="box">
+		 					<h4>Distribution of speeches</h4>
+		 					<div class="text">
+		 						The distribution of speeches visualizes the distribution of all occurring speech lengths. Speech lengths are calculated via number of words.
+		 						<br/>
+		 						<br/>
+		 						The distribution is presented as an interactive histogram and curve diagram. In all diagrams, all speeches are individually viewable. The distribution can be regarded as absolute value or as relative values in percentage.
+		 						<br/>
+		 						<br/>
+		 						Content: <b>Distribution of speeches - Histogram, Distribution of speeches - Curve diagram</b>
+		 					</div>
+		 				</div>
+		 			</a>
+
+	 			</div>
+
+			</div>
+		</div> <!-- maincontent -->
+
+		<script src="js/libs/jquery-1.11.2.js"></script>
+		<script src="https://cdn.firebase.com/js/client/2.2.2/firebase.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+
+		<script type="text/javascript" src="js/Drama/Drama.js"></script>
+		<script type="text/javascript" src="js/Drama/DramaModel.js"></script>
+		<script type="text/javascript" src="js/Drama/DramaView.js"></script>
+		<script type="text/javascript" src="js/Drama/DramaController.js"></script>
+
+		<script>
+				$(function() {
+					Drama.init();
+				});
+			</script>
+	</body>
+</html>
