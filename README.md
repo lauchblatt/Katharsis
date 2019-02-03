@@ -40,5 +40,3 @@ The following persons participated in the creation of Katharsis:
 		<li><a href="https://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/mitarbeiter/dennerlein/">PD Dr. Katrin Dennerlein of the University of Würzburg</a></li>
 		<li><a href="https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/christian-wolff/">Prof. Dr. Christian Wolff of the University of Regensburg</a></li>
 	</ul>
-
-<h2>More information</h2>
