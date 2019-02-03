@@ -24,6 +24,8 @@ The Front-End is implemented as web-based application via Javascript, jQuery and
 
 <h2>License</h2>
 
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY-NC-SA 4.0).</a>
+
 <h2>Contact and team</h2>
 
 You can contact us if you have any questions or problems:
