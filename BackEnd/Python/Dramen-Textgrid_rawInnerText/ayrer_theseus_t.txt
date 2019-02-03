@@ -1,0 +1,6249 @@
+
+
+
+
+Theseus
+
+
+hdl:11858/00-1734-0000-0002-164F-Atextgrid:k942.0
+ Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). 
+
+Lizenzvertrag
+
+
+ Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache 
+
+
+Hinweise zur Lizenz und zur Digitalen Bibliothek
+
+
+
+
+
+                              Erstdruck unter dem Titel »Tragedia Thesei« in: »Jacob Ayrer: Opus Thaeatricum« Nürnberg (Balthasar Scherffen), 1618.
+                           
+
+
+
+
+Jakob Ayrer: Dramen. Herausgegeben von Adalbert von Keller, Stuttgart: Litterarischer Verein, 1865.
+Ayrer, Jakob
+
+1302-
+
+
+Stuttgart
+
+
+
+
+
+
+
+
+
+
+drama
+
+
+
+
+
+
+
+
+Jakob Ayrer
+Tragedia Thesei
+des zehenten Königs zu Athen, von den vierzehen Tributkindern, mit 41 Personen, hat 8 Actus
+
+
+
+
+
+
+
+Personen
+
+
+
+
+
+
+
+Die Personen in das Spiel.
+
+Ehrnholt.
+
+Poleus, der König in Thesalia.
+
+Liepolt,
+Rupertus, zwen Königlicher Räth.
+
+Eheson, des Königs krancker vnd fast blinder Bruder.
+
+Jason, sein Son, der küne Höldt.
+
+Gedeos, König in der Insel Calcos, der hat das gulden Wieder.
+
+Medea, sein Tochter, die Zauberin.
+
+Plagia, jhr alte Kammerfrau.
+
+Egeus, der König zu Athen.
+
+Phedea, die Jung Königin.
+
+Theseus, sein Sohn.
+
+Hypolitus, des Thesei Sohn.
+
+Frigius,
+Gemius, seine zween Räth.
+
+Pithius, der Priester zu Trojazenan.
+
+
+
+Ädra, sein Tochter.
+
+Areadnea, des Königs Mirij Tochter in Creta.
+
+Cuba, jhr Cammerfrau.
+
+Licometes, König in Scirunea.
+
+Lacus,
+Tacus, seine zween Räth.
+
+Tiromenes,
+Orobes,
+Parites,
+Athenor, vier Burger zu Athen.
+
+Julia,
+Tulia, zwey Athenische Weiber.
+
+Philip,
+Maria,
+Anna,
+Christoff,
+Sabina,
+Gottfrid, Sechs Athenische Kinder, die zu reden haben.
+
+Minothaurus, ein Monstrum, halb ein Mensch vnd halb ein Stier, in der Insel Creta.
+
+Pariphores,
+Simon,
+Siran,
+Clamasos, vier Mörder.
+
+Megenus, des Königs Miri Bott.
+
+Lucifer, der Teufel.
+
+
+
+
+
+
+
+
+
+
+[Vorspiel]
+
+
+
+
+[Vorspiel]
+
+
+
+DER EHRNHOLT
+
+geht ein vnd sagt.
+
+
+Ihr erbarn Herrn vnd züchtigen Frauen,
+Zu euch komm wir auff gut vertrauen,
+Ein Tragedi zu recetirn,
+Inn Teutscher Sprach zu eloquirn,
+Die vns beschreibet Plutarchus,
+Der groß Historiographus,
+Von Egeo, dem König, da,
+Der neundt erwehlte zu Athena,
+Wie der keinen Leibserben hett,
+Derhalb er auß weissagung thet
+Sich zu der Jungkfrauen Ädra,
+Welche ward von jhm schwanger da
+Vnd Theseum ein Sohn gebar,
+Der gar ein kühner Kriegsmann war,
+Von Mordt vnd Raub säubert die Straß
+Vnd die Kinder erlösen was
+Vom Minothauro im Irrgarten,
+Ward glückhafft seiner kämpff außwarten
+Vnd ward jederman lieb vnd werth
+Vnd zu eim König sein begert.
+Doch traff jhn zu letzt groß Vnglück
+Mit schand vnd schaden auff dem Rück.
+Erstlichen viel sein Vatter Todt
+Vor Traurigkeit in Angst vnd noth.
+
+
+Hypolitus, Thesei Sohn,
+Vom Pferdten geschleifft vnd abgethan
+Vnd sein Gemahl, Phedea gnannt,
+Ward brüchig, macht sich selbst zu schand
+Vnd sich mit einem Schwert durchstach
+Vnd wurd der König auch darnach
+Von sein Vnterthanen vertriben
+Vnd ist nach dem im Elend blieben.
+Endlich zum König Licomeda kam,
+Der jhm noch gar das Leben nam,
+Auß vntreu jhn im Meer ertrenckt.
+Vnd was der Histori anhenckt,
+Werd jhr hören gar ordentlich.
+Drumb hört zu still vnd züchtiglich,
+Biß die Tragedi endet sich!
+
+
+
+Der Ehrnholt geht ab.
+
+
+EHESON, DESS KÖNIGS BLINDER BRUDER IN THESALIA geht an einem versilberten stecken ein mit Jason, setzt sich vnd sagt.
+
+Ach mein liebster Sohn Jason,
+Du weist, ich bin ein alter Mann,
+Gehör gar übl vnd bin schier blind,
+Welches dann solche mängel sind,
+Daß ich das Königlich Regiment
+Hab müssen geben auß der Händ
+Meinem Bruder, dem Poleo.
+Iedoch ist es bedingt also,
+Wenn er des zeitlichen Todts sterb,
+Das Königreich dann auff dich erb.
+Darumb so hab gut achtung drauff,
+Gibt der König das Leben auff,
+Daß du kompst in das Regiment!
+
+
+JASON
+
+sagt.
+
+
+Herr Vatter, eur Lieb zu frieden sendt!
+Poleus, der Herr Vetter mein,
+Mag König bleiben oder sein,
+So langs jhm die Götter gönnen!
+
+
+Ich will mir wol zu leben finnen,
+Dieweil ich bin noch starck vnd jung,
+Trau mir auch Gelts zu gwinnen gnunck,
+Daß eur Lieb gar nicht dörffen sorgen.
+EHESON, DER KÖNIG sagt.
+
+Es möcht villeicht heut oder morgen
+Zwischen euch ein grossen zanck bringen;
+Da wer ich gern vor den dingen,
+Daß jhr bleibet mit ruh vnd Fried.
+
+
+
+JASON
+
+sagt.
+
+
+Das Königreich begehr ich nicht,
+Sonder ich will durch Ritterschafft
+Vnd auch durch meiner Tugent Krafft
+Erlangen mir mein Nahrung wol.
+Darumb eur Lieb mir glauben soll,
+Daß ich mit jhm denck nicht zu zancken.
+Darumb schlagt auß sorg vnd gedancken
+Vnd gebet euch zu Fried vnd ruh!
+Dort nehet sich der König hierzu.
+Wenn er es mir nicht ghöret hett,
+Was wir mit einander geredt!
+POLEUS, DER KÖNIG geht ein mit zweyen Trabanten, setzt sich vnd sagt.
+
+Herr Bruder, euch wünsch ich glück vnd heil.
+EHESON, DER ALT sagt.
+
+Gleich so viel werd euch auch zu theil!
+Großmächtiger König, wer ist bey euch?
+Ich vnd mein Sohn haben hie gleich
+Von einer solchen Sach geredt,
+Die vns zwar allesampt angeht,
+Wenn eur Lieb ließ von sich weg gehn
+Ihr Diener, die hie bey jhn stehn,
+So wolt ich euch was zeigen an.
+
+
+
+POLEUS
+
+sagt.
+
+
+Ihr Trabanten sollt von vns abgahn.
+
+
+Wir haben was zu reden allein.
+Kompt über ein weil wider rein!
+
+
+
+EHESON
+
+sagt.
+
+
+Eur Königliche Majestatt
+Sich noch wol zu berichten hat,
+Daß mir als dem Eltesten gebürt,
+Daß ich das Königreich regiert.
+Weil ich aber hab ein Böß Gesicht,
+Kan allerdings wol hören nicht,
+Vntüglich bin zum Regiment,
+Gab ich eur Lieb in jhre Händ
+An meiner Statt das Königreich,
+Darneben thet auch bitten euch,
+Wenn eur Lieb hie endet jhr Leben,
+Solten sie meim Sohn das Reich geben.
+Da haben wir jetzt geredt von
+Vnd ich verhoff, jhr werdts noch than,
+Wie jhr mir es habt zugesagt.
+
+
+
+POLEUS
+
+sagt.
+
+
+Ach seid nur keck vnd vnverzagt!
+Was ich geredt, das soll auch sein.
+Wenn ich beschließ das Leben mein,
+So ist allhie König Jason.
+Dabey zeig eur Lieb ich auch an,
+Daß ich hab in erfahrung bracht,
+Daß König Gedos grosse Macht,
+Sein weit gepreiste Ehr vnd Rahm
+Vnd auch all sein grossen Reichthumb
+Ihm alles die Insel Calcos geb
+Vnd wie er auch so prechtig leb,
+Daß jhm kein König nie worden gleich,
+Vnd es mach jhn allein so Reich
+Ein verzauberter Wieder von Golt,
+Den ich auch gar gern haben wolt.
+Er ist auch gar böß in dem streit,
+Hat auch schon gfellt vil Kriegesleüt,
+Die disen Wieder haben begert,
+
+
+Daß sie haben müssen auff Erdt
+Wie das vuvernünfftig Vieh krichen,
+Mit wilten Ochsen das Feldt pfliegen,
+Biß sie sein erlöst durch den Todt.
+Nun schwer ich bey Marti dem Gott,
+Daß ich wolt gern ein Ritter han,
+Der sich der Sach thet vnterstahn;
+Vnd brecht er mir den Wieder her,
+So solt alsbalt sein König Er.
+Wolt sich nun euer lieber Son
+Dises Kampffstucks selbst vnterstahn
+Vnd disen Wieder bringen vmb,
+Dem gib ich das gantz Reich darumb
+Alsbalten noch bey meinem leben.
+
+
+
+JASON
+
+sagt.
+
+
+Mein tag thet ich nach ehrn streben.
+Herr Vatter, ich bitt, erlaubt mir,
+Dann ich hab mir gesetzet für
+All die Abentheur außzustehn.
+
+
+
+EHESON
+
+sagt.
+
+
+Wer weiß, wie dirs darob möcht gehn?
+Darumb laß bleiben vnd bleib hie!
+
+
+
+JASON
+
+sagt.
+
+
+Kein Abentheur furcht ich noch nie.
+Kompt rein, Herr Vatter! so will ich
+Nach aller notturfft Rüsten mich
+Vnd mich morgen machen davon.
+
+
+
+POLEUS
+
+sagt.
+
+
+Alles, was du darzu must han,
+Verschaff ich auß der Kammer dir.
+Du solt kein schaden habn von mir.
+
+
+
+JASON
+
+sagt.
+
+
+Großmechtiger König, es bleib dabey,
+Daß ich auff morgen frü auff sey.
+Dieweil sein die Götter eur schutz!
+
+
+
+
+POLEUS
+
+sagt.
+
+
+Vnd vns allen, was vns ist nutz!
+Mein Herr Bruder, so geht hinein!
+Ich will von stand an bey euch sein.
+
+
+
+Abgang deß Eheson vnd Jasons.
+
+
+
+POLEUS, DER KÖNIG sagt.
+
+Mir ist am Wieder nicht vil glegen.
+Jason schickt ich weg von deß wegen,
+Daß ich seiner hab ein verdruß
+Vnd mich vor jhm befahren muß,
+Daß er mir etwan thu vergeben
+Oder mir sonst stell nach dem Leben
+Vnd mich bring also heimblich vmb.
+Daß ich diser sorgen abkumb
+Vnd forthin seinthalb sicher bin,
+Schick ich jhn in die Insel hin.
+Da muß er bestehn einen Trachen,
+Vnd thut er dem sein sach schon machen,
+So muß er auch mit Ochsen streiten
+Und darnach mit gar grossen Leüten.
+Kan er aber die nicht bestahn,
+So muß er mit jhn im Pflug gahn
+Vnd komm ich dann sein ab mit glimpff.
+Er ist zu schlecht zu disem schimpff.
+
+
+
+Abgang.
+
+
+
+
+KÖNIG EGEUS VON ATHEN
+
+geht ein, wie ein Wandersman, dem gehn zwen Trabanten nach, und er sagt.
+
+Ich bin in einem zweiffel groß,
+Denn jetzt in der Insel Delphos
+In dem Tempel Appollinis
+Erfuhr ich seltzam Zeitung gwiß
+Von Pitheno dem TempelsPfaffen,
+Daß ich solt gar kein Weib beschlaffen,
+Biß ich wider gen Athen kehm,
+Mein Regiment zu handen nem;
+Dann wenn ichs thet, kömbs mir zu schaden
+Vnd ich geriedt zu vngenaden
+Bey den Göttern allen gemein.
+Nun kan ich mich nicht richten drein
+
+
+Vnd bin darumb kommen hieher,
+Das ich ferners berichtet wer
+Von dem Priester in disem Landt,
+Dem sein verborgne ding bekandt,
+Daß er mir die recht deutung sag,
+Darnach ich mich verhalten mag,
+Warumb ich kein Weib soll berührn
+Vnd der Götter gnad drob verlirn.
+Dort gehet gleich der Priester rein.
+Den will ich anreden allein.
+PITHIUS, DER HÄYDNISCH PRIESTER ZU TROJAZENAN geht ein inn seltzamen, aber doch stattlichen Häydnischen Pfaffenkleidern vnd sagt.
+
+Von den Göttern hab ich vernommen,
+König Egeus sey herkommen.
+Zu demselben soll ich jetzt gehn
+Vnd jhm recht geben zu verstehn
+Die Weissagung Appollonis.
+Die ist wol war vnd darzu gwiß.
+Weil er sie aber nicht versteht
+Vnd dieselb mein Tochter angeht,
+Die dardurch kompt zu grossen Ehrn,
+Will ich jhm die Weissag vmbkehrn
+Vnd will jhm dabey rahten wol,
+Daß er mein Tochter beschlaffen soll.
+Mit der wird er zeugen ein Sohn,
+Der jhm wird gar vil gutes than.
+Mit seiner gar Siegreichen Hand
+Wird er gantz rein machen das Land
+Von aller Rauberey vnd Mordt.
+Potz schau! er steht gleich eben dort.
+O wenn er nur nichts gehöret hett!
+Mich dunckt, daß er auff mich zugeht.
+EGEUS, DER KÖNIG geht zu dem Heydnischen Pfaffen, zeicht ab vnd sagt.
+
+Mein Herr, hort mich in gutem an!
+
+
+Deß Landts bin ich ein frembdter Mann.
+Zu Delphos ich geopffert hab
+Dem Gott Appollo meine Gab
+Vnd hab seins Tempels Priester gfragt.
+Derselb hat mir auch war gesagt,
+Mich anzunemen vmb kein Weib,
+Es kostet mir sonst Ehr vnd Leib.
+Die Weissagung ich nicht verstehe
+Vnd darumb hieher zu euch gehe,
+Zu bitten, daß jhr mirs zeigt an,
+Wie ichs eygentlich soll verstahn,
+Auch ob sie war sey oder nit.
+
+
+PITHIUS
+
+sagt.
+
+
+Großmächtiger König, Eur Gnad ich bitt,
+Die wöll mirs nicht für übel han!
+Wolt jhr die Weissagung verstahn,
+So müst jhr sie also bedeüten
+Von schlechten Niderstandes Leuten,
+Die eurem Standt zu wider sein.
+Mein Tochter ist ein Jungkfrau rein,
+Geborn von Königlichem Gschlecht;
+Dieselbig euch ein Sohn balt brecht
+An Künheit vnd Sterck also reich,
+Daß er wer dem Hercule gleich.
+Der wird die Landschafft halten rein,
+All Plackereyen groß vnd klein
+Außrotten, auch schlagen vnd binden
+Vnd all euer Feinde überwinden,
+Dem Land auch schaffen grossen nutz,
+Daß es davon hab guten schutz
+Vnd jhm ein grosser Nam erwachs.
+EGEUS, DER KÖNIG sagt.
+
+Weist mich zu Eurer Tochter stracks!
+Vnd nimpt sie mich an zur Bulschafft,
+Bin ich in Lieb gehn jhr behafft,
+Daß ich komm der Weissagung nach
+Vnd sie auß warer Lieb vmbfach.
+
+
+
+
+
+Sie gehn ab. Kompt Medea mit Plagia, einer alten Kammerfrauen, vnd sagt.
+
+
+
+Nun hört mich, liebe Plagia!
+Daß ich hab auß der Magia
+Gesehen auß einem schönen Stern,
+Daß heut frembd Leut herkommen wern,
+Darundter auch der Jason ist,
+Ein Königlicher Sohn (das wist!)
+Auß Thesalia, dem Königreich.
+Auff Erden ist jhm keiner gleich,
+Sonder er soll der Schönste sein
+Vnd mir der Herzallerliebste mein.
+Dabey müst jhr das beste thon,
+Aber keim Menschen sagen davon.
+
+
+
+PLAGIA
+
+sagt.
+
+
+Ey Königlichs Fräulein, was sagt jhr?
+Wolt Eur Gnad jetzt nicht trauen mir?
+Ich hab euch doch wol ander Sachen
+Helffen anstellen, verrichten vnd machen.
+Wie offt haben wirs finster gmacht,
+Daß der Tag gwest ist wie die Nacht!
+Die Nacht wir auch offt machten liecht,
+Haben auch offt Wetter zugricht.
+Das Wasser hat vns auch offt müssen
+Wider sein Art gen Berg aufffliessen
+Vnd ander viel mehr Zauberkunst,
+Die wir haben getrieben sonst,
+Daß ich mich wol weiß zu erzeigen.
+Ich hab ein Maul, das kan wol schweigen,
+Kan auch wol reden, wenn es thut noth.
+Doch nur dem, dem es ißt das Brod,
+Desselben Lied ich singen kan.
+Derhalb was Eur Gnad wöllen han
+Vnd mir schaffen, das thu ich gern
+Vnd soll es kein Mensch innen wern,
+So lang ich hab ein offens Aug.
+
+
+
+MEDEA
+
+sagt.
+
+
+
+
+Ey schweigt! ich weiß wol euren brauch.
+So jhr habt auch nichts anders zu than.
+Als daß jhr nur disen Jason
+Helfft bringen mir in mein Gemach.
+Vnd was ich euch seinthalben sag,
+Das haltet heimblich inn der still!
+
+
+
+PLAGIA
+
+sagt.
+
+
+Die Sach ich gern außrichten will.
+So kan ichs auch besser vnd eher,
+Als wenn ich schon ein Doctor wer.
+Ich weiß, gnedigs Fräulein, Eur Hertz
+Kan helffen euch zu Ernst vnd Schertz
+Vnd soll alles verschwigen bleiben,
+Wenn ich schon thu den Beern treiben.
+Dieweil ich bin vergwisset schier,
+Daß es tregt ein verehrung mir,
+So laß ich mich kein müh nicht reüen.
+
+
+
+MEDEA
+
+sagt.
+
+
+Ihr sollt mir glauben bey mein Treüen,
+Nimpt mich der Jüngling zu der Ehe,
+Es gscheh mir gleich wol oder wehe,
+So schenck ich euch zwey hundert Cronen,
+Will euch wol vnd Königlich lohnen,
+So war als ich Ehrenwehrt bin.
+
+
+
+PLAGIA
+
+sagt.
+
+
+Gnädigs Fräulein, das geht wol hin.
+Es ist fürwar ein guter Lohn.
+Also kan ich ein Aug zuthan
+Vnd mich zwey Jahr lang davon kleiden.
+Die Götter geben Glück mit Freuden!
+
+
+
+Abgang.
+
+
+EGEUS, DER KÖNIG geht ein mit der Ädra, deß Priesters Tochter, führt sie bey der Hand vnd tregt bey sich zwen Schuch vnd ein schwert vnd sagt.
+
+O Ädra, du Geliebste mein,
+Weil du von mir sollt schwanger sein
+
+
+So will ich mein Bundschuch vnd schwert,
+Das nicht geringes Gelts ist werth,
+Allher vnter disen Stein legen.
+Wenn den nun eur Sohn kan bewegen,
+Die Schuh vnd das Schwerdt thun herfür,
+Die in mein Königreich bringen mir,
+Daß ich jhn dabey kennen kan,
+Daß er wahrhaftig ist mein Sohn,
+So will ich jhm nach meinem End
+Geben das Königlich Regiment
+Vnd jhn zum Erben setzen ein.
+Auch will ich vnverheyrat sein,
+Biß ich euch selbst zu der Ehe nem.
+
+
+ÄDRA
+
+sagt.
+
+
+Ich wolt, daß es balt darzu käm!
+Mein Herr Vatter mit seiner Kunst
+Hett das als nicht gethan vmb sonst,
+Wenn er nicht west, was guts dabey
+Vns künfftig noch zu hoffen sey.
+Darumb schwer ich bey meiner ehr,
+Kein Mann berürt mich nimmermehr,
+Biß ich komm in eur Königreich.
+
+
+
+DER KÖNIG EGEUS
+
+sagt.
+
+
+Hingegen schwer ich wider euch,
+Daß ich will nemen keinen Gmahl,
+Ob euch hart halten wie der Stahl,
+Biß vns die Götter zusamm bringen.
+Doch will ich auch von disen dingen
+Keim Menschen sagen kein Wort mehr,
+Schwer ich bey Königlicher Ehr.
+Besonders auch von disem Stein
+Soll niemand wissen, als wir allein,
+Daß nicht etwan ein Frembder käm,
+Die Schuch vnd Schwert darundter nem
+Vnd sich außgeb für meinen Sohn.
+
+
+
+ÄDRA
+
+sagt.
+
+
+Den Sachen will ich schon recht thon.
+
+
+Eur Majestatt geh mit herein,
+Zu hören auch den Vatter mein,
+Ob er vns geb den Rahte sein!
+
+
+
+Abgang.
+
+
+
+
+
+
+
+
+
+1. Akt
+
+
+
+
+Actus primus.
+
+Kommt Medea mit Plagia, tragen ein Truhen mit allerley geschmucks.
+
+
+
+MEDEA
+
+sagt.
+
+
+Ach jhr Götter, wer hat euch ghört,
+Daß jhr mit Gnad so hoch geehrt
+Jasonem, den Königlichen Sohn!
+Sein schön ich nicht außsprechen kan,
+Sein wolredenheit, zier vnd jugent,
+Sein höflich weiß, künheit vnd Tugent,
+Sein außbündigen schönen Leib.
+Ach daß ich werden sollt sein Weib!
+Wie künd ich nur seliger sein?
+Ach du Hertzallerliebster mein,
+Mein einig freud vnd auffenthalt!
+Saumb dich nicht lang! komm zu mir balt
+Vnd erquick mein geprestes hertz,
+Daß deinet halb hat grosen schmertz,
+Ob du auch legst dein Lieb an mich!
+Ach das dein hertz erkennet ich
+In solchen gedancken, wie ich hab,
+So gieng mein Lieb ohn frucht nit ab.
+Nun, Plagia, richt auß eur gschefft
+Vnd secht, das ihr Jason antrefft!
+Den grüsset fleissig zu tausentmal!
+Sagt jhm meins hertzens pein vnd qual,
+Die ich von seinet wegen leid!
+Sagt, jetzo sey die glegenheit,
+Daß er zu mir kan kommen rein
+In mein Gemach einig allein!
+Ich vnd sonst kein Mensch kan jhm sagen,
+Wie er den Trachen mag erschlagen
+Vnd den Gulten Wieder gewinnen.
+Geht hin! ich will eur warten hinnen.
+
+
+
+
+PLAGIA
+
+sagt.
+
+
+Gnediges Fräulein, glaubet mir!
+Bald soll sie Jason haben bey jhr.
+Die Hack hab ich angehelmet schon
+Vnd will jhn bringen von stund an.
+
+
+
+Plagia laufft ab.
+
+
+
+
+MEDEA
+
+sagt.
+
+
+So will ich mein Gschmeid vnd Kleinot
+Vnd was Jason von nöthen hat,
+Mit sich von hinn zu nemen nauß,
+Auß der Truhen legen herauß,
+Wenn er kompt vnd es ligend find,
+Daß er in Lieb werd angezünd
+Vnd mir die Ehe verheissen thu
+Vnd mein wüdents hertz bring zu ruh.
+
+
+
+Sie lehret die Truhen auß vnd ist vnter andern auch ein JohannesBild, etliche Ketten vnd anders gehör 
+
+
+zur Zauberey vnd zier dienstlich; kompt Jason, geht hin vnd wider vnd sagt.
+
+
+
+O jhr Götter, was habet jhr
+Für vnruh zugerichtet mir?
+O König Gedos, wie daß du
+Dein einig Tochter mir setzt zu
+Vnd schirst mir an der Lieben Feur!
+O weh, sie ist mir vil zu Teur,
+Daß, wenn ich jhr gleich schon mein Lieb
+Mit geberten zu mercken gib,
+So wird sie mich doch nur außlachen
+Vnd auß mir einen Guckuck machen,
+Davon mir brechen wird mein hertz.
+O wer ich nicht kommen herwertz,
+So wer ich deß Leidts vberhaben!
+O daß sie mir mein Hertz thet Laben,
+Daß jetzo gleich verschmachten will!
+O armer Jason, schweig doch still!
+Ich hab gesehen jhr KammerFrauen,
+Die thut sich nach jemand vmbschauen.
+Nit weiß ich warlich, wen sie meint.
+
+
+
+
+PLAGIA
+
+geht ein vnd sagt zu Jason.
+
+
+O wie der seligst tag ist heint!
+Eur Gnad scheint warhafftig die Sonn.
+Eur Hertz kan haben Freud vnd wonn,
+Wenn es euch nur auch also gfellt.
+
+
+
+JASON
+
+sagt.
+
+
+O sagt mir eylend, was jhr wölt!
+Suchet jhr mich, so sagt mirs balt!
+Mit eur Pottschafft mich nicht auffhalt!
+So gib ich euch guts Pottenbrot.
+
+
+
+PLAGIA
+
+sagt.
+
+
+Freylich bin ich ein guter Pott.
+Vnd glaubet mir, ich hett wol gsehen,
+Wer einem dergleich Pottschafft gschehen,
+Er hett mich von Fuß auff neü kleidt.
+
+
+
+JASON
+
+sagt.
+
+
+Ich wills auch thun bey meinem Eydt,
+Wenn jhr mir saget, was ich mein.
+
+
+
+PLAGIA
+
+sagt.
+
+
+Medea, das Königlich Fräulein,
+Die hat mich euch, geschicket nach,
+Ihr solt hinkommen in jhr Gmach,
+Da hab sie zu reden mit euch.
+
+
+
+JASON
+
+sagt.
+
+
+Ists war, so geh ich mit euch gleich.
+Allein führt mich nur auff kein Eiß!
+Mir geht vor ängsten auß der schweiß.
+Nicht weiß ich, was es doch bedeüt.
+
+
+
+PLAGIA
+
+sagt.
+
+Es bedeüt all Glückseligkeit.
+
+
+Sie gehn zu der Medea, die empfecht jhn vnd sagt.
+
+
+
+O Hochgeborner KönigsSohn,
+Mein hertz sich nicht enthalten kan,
+Zu sagen euch mein groß anliegen.
+
+
+So ich anderst eur Hult kan kriegen,
+Daß jhr mich liebt, wie ich euch lieb,
+Ich mich euch gar zu eigen gib
+Mit Seel vnd Leib, mit Ehr vnd gut.
+Vnd was jhr mehr bedörffen thut,
+Zu erlangen den gülten Wieder,
+Den niemand könen kriegen sider,
+Den will ich euch zu wegen bringen,
+Das euch in allem sollt gelingen,
+Was jhr deßhalben fanget an.
+
+
+
+JASON
+
+sagt.
+
+
+Gnedigsts Fräulein, wolt jhr das than
+Vnd ist eur fürbringen kein schertz,
+So offenbar ich euch mein Hertz,
+Daß ich mich auch mit Leib vnd Leben
+Hab eur Gnad zu eigen gegeben
+Vnd will auch ewiglich eur sein,
+Wo ferrn jhr wollet bleiben mein,
+Iedoch alles zu rechter Ehe.
+
+
+
+MEDEA
+
+sagt.
+
+
+Weil ich dann nun Eur Gnad verstehe,
+So sollet jhr mein Gemahl sein.
+Alles, was ich hab vnd was ist mein,
+Das sey auch eur, lieber Schatz!
+Secht allhie ligt auff dem Platz
+Jupiters Bildt, müst jhr voran
+Knyend andächtig beten an
+Vnd mir auff das schweren ein Eyd,
+Daß jhr wollet in Lieb vnd Leyd
+Mich hie verlassen nimmermehr.
+
+
+
+JASON
+
+legt die händ auff das Bilt vnd sagt.
+
+
+Bey dem Gott Jupiter ich schwer,
+Daß ich wöll euch zum Gmahle han,
+Mich vmb keine mehr nemen an,
+Zu euch setzen Leib, Gut vnd Blut.
+
+
+
+MEDEA
+
+sagt.
+
+
+
+
+Weil jhrs mit Ernst meinen thut
+Vnd den Wieder gwinnen wollt,
+
+
+
+Sie gibt jhm ein kleines Biltlein.
+
+
+
+Ihr diß Bildt bey euch tragen sollt.
+Daß ist gut für all Zauberey.
+Zum andern gib ich euch dabey
+Dise gut wolriechente Salben:
+Damit schmirt euch wol allenthalben!
+Darauß werd jhr gewißlich erkennen,
+Daß euch kein Feür kan letzen noch brennen.
+Darnach nembt disen gülten Ring!
+Der macht, daß alles giftig ding
+Von euch gar weit abweichen muß.
+Auch sollt jhr wissen ohn verdruß,
+Wenn jhr leget des Rings stein
+Gar bloß in eure Händ hinein,
+So lang als er sie bloß rürt an,
+So lang euch niemand sehen kan.
+Den Stein niemand gesah also,
+Denn Eneas zu Cartago.
+Zum vierdten diser Brieff bedeut,
+Daß jhr nicht mit dem Wieder streyt,
+Ihr habt denn zuvor ein Gebet
+Gehn Himmel than aufrichtig steht,
+Vnd solches thut drey Stund antreiben,
+Daß euch die Götter gnedig bleiben!
+Letzlich nembt dises Lägelein!
+Darinn find jhr ein köstlich Wein.
+Damit sollt jhr Ochssen vnd Trachen
+Anspritzen vnd gantz zaghafft machen,
+Daß sie kein Feur mehr speyen auß.
+Auch gib ich euch das gleydt hinauß,
+Daß euch kein übels widerfahr.
+
+
+
+JASON
+
+druckt die Jungkfrau vnd sagt.
+
+
+Nun bin ich frölich gantz vnd gar,
+Daß jhr, Königlichs Fräulein, seyt
+Einer solchen Beständigkeit
+
+
+Bey neben solcher Treu vnd Lieb.
+Drumb ich mich euch zu eygen gib,
+Will euch verlassen nimmermehr.
+Nun ich zu der Abentheür kehr,
+Der ich mich heüt will vnterwinden.
+Gesund mir wider einander finden.
+
+
+
+Er gibt jhr die Händ, druckt sie vnd gehn ab. Kompt Pithius, der Abgöttisch Pfaff, mit seiner Tochter Ädra, die fürt ein Kind.
+
+
+
+
+PITHIUS
+
+sagt.
+
+
+Ädra, weiln dir nun ist worn
+Der Sohn von Egeo geborn,
+Den du Theseum hast genannt,
+Daß der das gantz Athener Land
+Regiren soll mit Lob vnd Ruhm,
+So dancken wir den Göttern drumb.
+Denn ob er noch wol ist was klein,
+So würd er doch den hellen Stein
+Ans Meeres Port auffheben vor dir,
+Pundschuch vnd Schwert nemen herfür
+Vnd dem König, seim Vatter, bringen.
+Von jhm würd man sagen vnd singen,
+Dann er würd das Land machen frey
+Von aller gfahr vnd Tyranney,
+Besonders auch von dem Tribut,
+Den man all neu Jar geben thut
+Inn Creta dem König Miro.
+Der helt in seim Garten alldo
+Ein heßlichs Monstrum oder Thier,
+Ist ein halber Mensch vnd halbs Stier.
+Vierzehen Kinder auß Athen
+Die erwürgt er durch sein scharff zehn,
+Daß man die nicht liefert fort mehr,
+Vnd wird Regirn zu Preiß vnd Ehr
+Vnd dich machen mechtig vnd Reich.
+
+
+
+ÄDRA
+
+sagt.
+
+
+Herr Vatter, ich hab gfolget euch,
+Paß ich hab seinen willen than.
+
+
+Wolt sonst wol krigt haben ein Man,
+Der mir hett Ehr vnd Gut zubracht.
+Der verzug mich offt traurig macht,
+Dieweil mein Son noch ist so klein,
+Endgegen ist so groß der Stein,
+Den mein Son noch lang nicht wird tragen.
+THESEUS, JHR SON sagt.
+
+Meine Frau Mutter, was thut jhr sagen?
+Soll ich denn ein Steintrager sein?
+Kaufft mir darfür ein kleins Pferdlein,
+Ein schönen Tolchen vnd ein Schwerdt,
+Daß ich ein weidlicher Kriegsman werd.
+Last die Steinmetzen den Stein tragen!
+
+
+
+ÄDRA
+
+sagt.
+
+
+Ey du weist nicht, von wem wir sagen.
+Darumb schweig! wenn du groß thust wem,
+Will ich ein Pferd dir kaufen gern
+Vnd darzu auch Tolchen vnd Wehr.
+Allein bekümmer ich mich sehr,
+Dastu so gar lang bleibst so klein.
+PITHIUS, DER PRIESTER sagt.
+
+Ja, du bleibst halt nicht gern allein.
+Iedoch mustu erwarten der zeit,
+Biß daß Glück etwas bessers geit.
+
+
+
+Sie gehn ab. Kompt Jason, tregt ein Hut voll groser Zeen vnd sagt.
+
+
+
+Meiner hertzallerliebsten raht
+Hab ich gfolgt in der kühnen that,
+Dardurch ich als ein kühner Höldt
+Zwen grosser Ochssen hab gefellt,
+Vnmenschlich, wilt vnd vngeheur,
+Speyten auß jhren Mäulern Feur.
+Die hab ich durch Kunst gar zaum gmacht
+Vnd sie darnach gar vmbgebracht,
+Ihn außgebrochen jhre Zähn.
+Die muß ich sehen, drauß solln auffgehn
+
+
+Großmächtige Risen vnd Giganten,
+Die werden sich mit eygen Handen
+Kürtzlich hie selber bringen vmb.
+Alsdann ich zu dem Wieder komm,
+Daß ich jhm auch sein Sach thu machen.
+Doch muß ich zuvor einen Trachen
+Vmbbringen durch meines Steins Krafft,
+Den mir die schön Medea schafft.
+
+
+
+Er zeicht die zähn rauß, sicht sich vmb vnd sagt.
+
+
+
+Dort kompt der Wurm groß vngeheür
+Vnd speit auß seinem Rachen Feür,
+Dem halt ich hie für disen Stein,
+Daß jhm verschwind die Kräffte sein.
+
+
+
+Der Trach laufft rauß. Jason helt jm den Stein für. Darnach zuckt er das Schwert vnd schlegt jhn todt.
+
+
+
+
+JASON
+
+sagt.
+
+
+Allhie ligst du, du wilter Wurm!
+Was hebt sich dann hie für ein Sturm
+Vnd für ein grausch von Streittbarn Leuten?
+Ich merck, ich hab noch mehr zu streiten.
+
+
+
+Ietzt steigen vnten durch die Löcher auß der Prucken etliche Riesen in harnischen rauß vnd schlagen alle an einander vnd er, Jason, schlegt auch drein, biß sie sterben; darnach sagt er.
+
+
+
+Also seind auch zu disen Stunden
+Die gsehenten Riesen überwunden.
+Vnd dort seh ich mit echtzen vnd schnauffen
+Den gülten Wieder gegn mir lauffen.
+Dem will ich stechen sein Kehlen ab,
+Dardurch auch sein Fehl zihen rab
+Vnd es dem König Poleo bringen.
+Der muß mir, weil mir thet gelingen,
+Ietzund noch alsbald bey seim Leben
+Das Königreich in Thesalia geben.
+Darumb will ich mich hie nicht säumen,
+Dem König Gedos das Land räumen,
+Mit nemen die Medea mein;
+Die würd ob mir erfreyet sein,
+
+
+Wenn ich nimb mein Königreich ein.
+
+
+
+Abgang.
+
+
+
+
+
+
+
+
+
+2. Akt
+
+
+
+
+Actus secundus.
+
+Kompt Tiromenes, Orobes, Parites vnd Athenor, vier Burger zu Athen.
+
+
+
+TIROMENES
+
+sagt.
+
+
+Ihr Nachbarn, wie mag das zugehn,
+Daß ein König hie zu Athen
+Dem König in Creta geben thut
+All neue Jahr solchen Tribut,
+Siben Mäidlein vnd siben Knaben?
+Vnd was muß er für ein Lust haben,
+Daß er das Monstrum halten thut,
+Welches frist das vnschuldig blut?
+Wenn ich schon hett den schönsten Garten,
+Sollt mir doch sein das Thier nicht warten.
+Ich wollt mir sonst wol Wächter finnen,
+Die ich wolt lassen wachen drinnen.
+Es ist auch für das jung Blut schad.
+Darumb gebt mir vnd euch gut Raht,
+Daß dises Lasts abkommen wir!
+Dann ein Jahr, das verlauffen schier,
+So muß ein jeder klein vnd groß
+Mit seinen Kindern warten auffs loß.
+Triffts jhn, so muß er ein Kind geben,
+Dem nimpt dann dises Thier das Leben.
+Wer besser, es wer nie geborn,
+Dann so vnschuldig sein verlorn.
+Wer gibt gern seine Kinder hin?
+
+
+
+OROBES
+
+sagt.
+
+
+Ihr Herrn, der Meinung ich auch bin.
+Wenn schon die Zeit vergangen wer
+Vnd der König schickt zu vns her,
+Daß wir jhm solten Kinder geben,
+Wir wagen daran Leib vnd Leben
+Vnd thun vns deß kurtz widersetzen.
+
+
+
+PARITES
+
+sagt.
+
+
+
+
+Wir theten vnser Pflicht verletzen,
+Die wir dem König haben geschworn.
+Wir habens alls gewist zuvorn,
+Daß wir schuldig sein den Tribut.
+Dieweil es aber sehr weh thut,
+Sein Fleisch vnd Blut in die schantz geben,
+Daß jhm die Pestia nem das Leben,
+So bedeucht mich, das wer ein Weg
+Dardurch man disen schaden brech:
+Man geb dem König obgemelt
+Jährlich ein gwisse Summa Gelt
+An Statt der Kinder zum Tribut.
+
+
+
+ATHENOR
+
+sagt.
+
+
+Dasselb aber der König nicht thut.
+Er ist von grosser Tyranney,
+Ein mächtiger Zauberer dabey,
+Welcher sich hat ohn allen zweiffel
+Mit Leib vnd Seel geben dem Teuffel,
+Hat lust an deß Menschen verderben
+Vnd sehe lieber, daß wir all sterben,
+Als daß wir vnd auch vnser Kinder
+Erlangten ein Vergleichung linder.
+Auch dörff wir vns nicht wider jhn setzen,
+Er thet sonst das gantz Land verletzen,
+Wie er vns vorhin trohen thut.
+Sein Lust steht nur nach Menschenblut,
+Drumb wöll wir sein mit jhm zu friden.
+
+
+
+TIROMENES
+
+sagt.
+
+
+Ach, wie groß leydt hab ich erlitten,
+Als eben jtzo her fünff Jahr
+Das Loß auff mein Sohn gfallen war!
+Den verhofft ich, er sollt studirn,
+So must er sein Leben verlirn
+Durch den verdamptn MinoTaurum,
+Daß ich mich frey noch kümmer drumb,
+Weil ich kein Sohn mehr kan bekommen,
+Vnd ist mir all Hoffnung benommen,
+
+
+Daß mein Geschlecht komm in auffnemen.
+
+
+
+OROBES
+
+sagt.
+
+
+Es ist sich wol darumb zu gremen.
+Was meint jhr, was den König treib ab,
+Daß er sich nicht verheyrat hab?
+Ohn zweiffel nichts, als der Tribut.
+
+
+
+PARITES
+
+sagt.
+
+
+Daher er auch nicht glauben thut,
+Was vnser einer in seim Hertzen
+Muß leiden für Jammer vnd schmertzen,
+Der seine Kinder her muß geben
+Vnd sie lassen kommen vmbs Leben.
+Fürwar, es bringt groß Pein vnd Qual
+Vnd ich sag es frey noch ein mal,
+Wie ich zuvor auch hab gemelt,
+Wenn mans abkauffen könnt mit Gelt,
+Wir solten vns nichts reüen lahn,
+Kalts vnd Warmes setzen daran,
+Daß wir frey würn der servitut.
+
+
+
+ATHENOR
+
+sagt.
+
+
+Ach wehe! es würd vns nicht so gut.
+Vergebens ists, was wir Rahtschlagen.
+Wenn aber einer das wolt wagen,
+Sehen, ob er köndt bringen vmb
+Disen greulichen MinoTaurum,
+So möcht der Sachen gholffen sein.
+
+
+
+TIROMENES
+
+sagt.
+
+
+Darzu sind wir all vil zu klein.
+Ich muß auff ein andern weg dichten,
+Daß ich mein sach dahin kan richten,
+Daß ich komm auß dem Königreich,
+Solts mich mein halbs gut kosten gleich.
+Vnd wer es mit mir haben will,
+Der geh rein vnd schweig darzu still!
+
+
+
+Sie gehn alle ab. Kompt Poleus, der König in Thesalia, mit 
+Liepolt vnd Rupert, seinen zweyen Rähten.
+
+
+
+
+POLEUS
+
+setzt sich vnd sagt.
+
+
+Ihr lieben Getreuen, gebet Raht!
+Ein Curir sagt vns Nechten spat,
+Jason hett den Trachen vngheur
+Vnd sonst ander groß Abentheur
+Außgstanden vnd erlegt den Wieder,
+Zieh auff Thesalia hernider
+Vnd hab des Königs Tochter gnommen,
+Die Medea zum Weib bekommen,
+Die jhm mit jhrer Zauberey
+Hab also heutig gstanden bey.
+Daß sollen alle Teuffel walten!
+Was wir versprochen, muß wir halten,
+Wiewol es vns schwer thut eingehn,
+Von dem Königreich abzustehn;
+Dann wir haben vns nie fürgnommen,
+Wie man sagt, von der Ziechen zu kommen,
+Dieweil ein Federn drinnen sey.
+Ietzt trifft vns selbst vnser vntreü,
+Die wir vermeinten dem Jason.
+Wer hett dacht, daß er käm davon?
+Denn eben drumb ist er hingschickt,
+Daß er soll werden vnterdrückt
+Von diser grausamen Abentheur.
+So kompt es vns übel zu steyr.
+Darumb muß wir drauff sein bedacht,
+Daß er auch werde vmbgebracht
+Vnd wir bey dem Reich können bleiben.
+
+
+
+LIEPOLT
+
+sagt.
+
+
+Wir sehen, wie wir jhn vertreiben
+Oder jhn mit grosser schenck vnd gab
+Von dem Königreich kauffen ab,
+Wo nicht gar, doch auff etlich Jahr.
+
+
+
+RUPERT
+
+sagt.
+
+
+Es ist der beste Raht fürwar,
+Daß man jhn mit Gelt thu abweisen.
+
+
+Ich dacht, der Wurm sollt jhn zerreissen
+Oder die Ochssen bringen vmb
+Oder rauß kommen Lahm vnd krumb;
+So hat er alles überwunden,
+Erschlagen vnd den Wieder gschunden,
+Ihm abzogen sein gülten Fehl.
+
+
+
+POLEUS
+
+sagt.
+
+
+Drumb sehen wir billich saur vnd scheel.
+Auch schweren wir bey Jupiter,
+Wo er zu vns wird kommen her
+Vnd vns auß vnserm Reich vertreiben,
+So solls jhm nicht vngrochen bleiben,
+Vnd solts vns kosten vnser Leben.
+Darzu sollt jhr eurn Raht noch geben.
+
+
+
+Sie gehn ab. Kompt Gedos, der König inn der Insel Calcos, allein vnd sagt kläglich.
+
+
+
+O Jupiter, Mars, Mercurius,
+Soll, Luna, Pallas vnd Venus
+Vnd all Götter, wie vil jhr sind
+Vnd einem Menschen helffen kündt,
+Helfft mir! dann all mein Trost vnd schatz
+Ist alles blieben auf dem Platz,
+Weil der Siegreich Ritter Jason
+Medeam hat gefürt davon,
+Die jhm half durch jhr Zauberkunst.
+Ohn jhr hilff wer es gwiß vmb sonst,
+Daß er den Wieder hett vmbbracht.
+Ach weh! wo hab ich hin gedacht,
+Daß ich jhm sagt mein Tochter zu?
+Ietzund ichs erst vermercken thu,
+Was Thorheit in meim Alter graw
+Ich deßhalben begangen hab.
+O weh, du mein einiges Kind!
+Wie bist du gwesen also blind,
+Daß du dem liebsten Vatter dein
+Vergabst das beste Kleinot sein
+Vnd verlist jhn vnd all sein gut!
+
+
+Wer weiß, wie es dir ergehn thut
+Mit jhm in einem Frembden Land,
+Darinnen du bist vnbekannt!
+Dann als sollt mich nicht fechten an,
+Sollt ich nur dich, mein Tochter, han,
+Vmb die ich gar vil Zehrn verröhr!
+Vnd fürcht, ich seh dich nimmermehr.
+
+
+
+Er geht weinent ab. Poleus, der König inn Thesalia, geht ein mit seinem Bruder Eheson, Liepolt vnd Rupert, seinen Rähten. Den alten blinden Eheson führt man.
+
+
+
+POLEUS, DER KÖNIG sagt.
+
+Ihr lieben getreüen, weil jhr denn wist,
+Daß vns heüt Kundtschafft kommen ist,
+Daß Jason vnd der Gemahl sein
+Bey vns hin werden kehren ein,
+So wart wir sein auff vnserm Saal;
+Dann was gehört zu dem Nachtmal,
+Ist zugerichtet auff das best.
+Wenn nur kommen die frembdten Gäst,
+Die vns von Hertzen angenemb sein!
+
+
+
+EHESON
+
+sagt.
+
+
+Gnedigster König vnd Herre mein,
+Ich bitt, eur Liebe woll bedencken,
+Was ich eur Lieb willig thet schencken
+Auß vnsers lieben Vatters Gut,
+Das mir zu haben gebürn thut
+Vnd ich eur Lieb liese allein.
+Das last geniessen den Sohne mein,
+Wenn jhr auß dieser Welt thut scheiden!
+
+
+
+POLEUS
+
+sagt.
+
+
+Groß Glück ist auff eurs Sohnes Seyden.
+Mein Herr Bruder, darumb sollt jhr,
+Was jhm theten verheissen wir,
+Inn vns durchauß kein zweiffel setzen.
+Vnser Wort soll niemand verletzen.
+Wir wöllen jhme als halten war
+
+
+Vnd das Königreich einraumen gar,
+Ihn auch zum König setzen ein.
+Inn ein anders Land ziehen wir nein,
+Da wir vns auch in Würdt vnd Ehrn
+Wollen erhalten vnd ernehrn.
+Secht! dort kompt mit dem Gemahl sein
+Jason, der kühne Höldt, herein.
+
+
+
+Jason geht mit Medea, Plagia, der alten Kammerfrauen, vnd etlichen Trabanten ein. Der König steht auff, geht jhm entgegen, dergleichen sein Vatter, der Eheson; sie geben alle die Händ an einander.
+
+
+
+POLEUS, DER KÖNIG sagt.
+
+Seydt mir zu tausentmal willkomm!
+Mit Freud sehe ich euch widerumb
+Sampt eurer Gemahl hochgeborn.
+Dieweil vns gnugsam kundt ist worn.
+Daß jhr die Abentheür habt funden,
+Alles erschlagen vnd überwunden,
+Deß Königs Tochter bracht mit her,
+Ich euch auch zu halten begehr,
+Was ich euch dann verheissen han,
+Von dem Königreich abzustahn,
+Vnd das soll alsbalt morgen gschehen.
+EHESON, DER ALT geht herzu vnd sagt.
+
+Ach, lieber Sohn, könd ich nur sehen
+Dich vnd den liebsten Gemahl dein!
+Die liebsten Gäst sollt jhr mir sein,
+Die ich mein Tag noch nie gehabt.
+Die Götter haben dich begabt
+Mit dem Königlichen Regiment,
+Das du wirst bringen in die Händ
+Vnd ich selbst nicht regiren kundt.
+
+
+
+JASON
+
+sagt.
+
+
+O Herr Vatter, werd jhr gesundt,
+Das wer mir die gröst Freud auff Erd.
+Vmb das, so mir das Glück beschert,
+Haben wir die Götter zu Ehrn.
+
+
+
+
+MEDEA
+
+sagt.
+
+
+Eur Schwachheit in Gsund zu verkehrn,
+Hertzallerliebster Herr Schwäher mein,
+Last mich Morgen Eur Ertztin sein!
+Ich will euch machen jung vnd gsundt.
+
+
+
+EHESON
+
+sagt.
+
+
+Ach sollt ich erleben der Stundt,
+Daß ich gesehe vnd gsund wer,
+Was sollt ich mir denn wünschen mehr?
+Weil Gsundheit der gröst Reichthumb ist.
+
+
+
+MEDEA
+
+gibt jhm die Hand vnd sagt.
+
+
+Der Ding sollt jhr hie sein vergwist,
+So war ich bin eins Königs Kindt.
+
+
+
+POLEUS
+
+sagt.
+
+
+Weil alle ding bereytet sind
+Darinn auf vnsern Sommersaal,
+So kompt rein! eßt mit vns das Mahl!
+Da wöllen wir vns zu Tisch setzen
+Vnd mit lustigem Gespräch ergötzen,
+Wie es euch auff der Räiß ergangen,
+Daß jhr den Wieder thet erlangen
+Mit sampt des Königs Tochter zart,
+Dergleichen nie geboren ward.
+Dabey wöllen wir auch euch zugleich
+Einräumen dises Königreich,
+Inmassen ich euch das versprach,
+Vnd ich mach mich von hinn darnach.
+
+
+
+Abgang jhr aller.
+
+
+
+LUCIFER, DER TEUFFEL in eines Trachen gestalt geht ein vnd sagt.
+
+Medea, das zauberisch Weib,
+Ist verlorn mit Seel vnd Leib.
+Daran ist allerdings kein zweiffel,
+Denn sie peinigt mich armen Teuffel.
+Daran hilfft jhr Arbacia
+Auff dem Berg in Thesalia,
+
+
+Daß ich sie über Land muß tragen,
+Muß Wetter machen, die Frücht erschlagen,
+Leüt verbrennen, bressen vnd nöten
+Vnd sonst mit schwerer Marter tödten.
+Ich thus wol gern, wenn mir nur Gott
+Verhenckt, daß ichs bring an den Todt.
+Aber wenn Gott verhenget nicht,
+Sie mich schmelich helt vnd außricht.
+Dort thut sie gleich hereiner gehn.
+Ich will da in die Ecken stehn.
+Daß sie mich desto wenger gseh
+Vnd ich kan sehen, was gescheh.
+
+
+
+Er geht ab.
+
+
+
+
+MEDEA
+
+geht mit jrem alten Schwäher Eheson ein, geht mit jhm zum Loch, so in der Prucken ist, stellt jhn hinein vnd sagt.
+
+
+Herr Schwäher, da kriecht in das Loch!
+So will ich euch verjüngen noch
+Vnd machen, daß jhr alles recht
+So gut vnd wol, als ich, gesecht
+Vnd daß jr auch seyt frisch vnd gsundt.
+
+
+
+EHESON
+
+steigt hinein vnd sagt.
+
+
+Gern will ich euch folgen jetzund.
+Die Götter geben jhr genad,
+Daß eur Kunst an mir wol geraht!
+
+
+
+Medea sagt jhm etwas in ein Ohr.
+
+
+
+
+EHESON
+
+sagt.
+
+
+Ach wie ficht mich der Schlaff hart an!
+Deß Schlaffs ich mich nicht wehren kan.
+
+
+
+Er legt sich vnd schläfft. Medea macht ein kräiß mit eim Stab vmb das Loch. Darnach sagt sie.
+
+
+
+Du böser Geist, halt komm herfür
+Vnd thu als, was ich schaffe dir!
+
+
+
+LUCIFER
+
+in Gestalt eines Trachen hat ein Hafen inn der Hand, steigt auß dem Loch vnd sagt.
+
+
+O du bist ein vnruhigs Weib,
+Weil ich vor dir nicht sicher bleib
+
+
+So viel tausent Heil in der Höll.
+Sag, was ich dir verrichten söll!
+
+
+
+MEDEA
+
+gibt dem Teuffel ein Messer vnd sagt.
+
+
+Lucifer, hab acht vnd thu nicht fehlen!
+Stich mein Schwähr baldt in seine Kehln
+Im schlaff! laß sein alts Blut herauß
+Vnd Lehr darnach den Hafen auß!
+Schiet jhm deß Saffts in dwunden nein,
+Daß er verjung das Alter sein
+Vnd daß er wider Gsundt thu wern!
+
+
+
+LUCIFER
+
+sagt.
+
+
+O Medea, wie thu ichs so vngern,
+Daß ich dein Schwäher soll jung machen!
+Brauch mich doch sonst zu andern sachen,
+Darinnen man die Leut vmbbring!
+Dasselb ist mir ein bessers ding.
+Meinst, mir sey so wol mit seim Leben?
+Viel lieber wolt ich jhm vergeben,
+Daß er dest ehe käm in die Höll,
+Wird mein vnd aller Teuffel Gsell.
+Der Menschen Wolfart ist mein Leyd.
+
+
+
+MEDEA
+
+schlegt mit dem Stab nach jhm vnd sagt.
+
+
+Gehin! jetzt hast du dein bescheid.
+Wirst du verrichten, was ich sag,
+Weiß ich mich zu halten darnach.
+Wo du dich aber waigern wolst,
+Du als verlorn haben sollst,
+Was du von mir zu gwarten hast.
+
+
+
+LUCIFER
+
+sagt.
+
+
+Du legst nur auff ein schweren Last.
+Doch weil es nicht kan anders sein,
+So verjung ich den Schwäher dein.
+
+
+
+Lucifer springt inn das Loch, reist den Eheson zu jme hinundter, thut jm sein alten Part weg, lest ihne in seinem vnverlarfften Gesicht. Wenn jm Medea zuvorn geschryen, kompt 
+er wider herfür.
+
+
+
+
+MEDEA
+
+macht Caracteres vnd sagt.
+
+
+Herr Schwäher, seyt verjünget jhr,
+So steigent eylend rauß zu mir
+Vnd last mich sehen eur Gsicht,
+Ob es sey wider frisch vnd licht!
+
+
+
+EHESON
+
+steigt auß dem Loch herauff, gibt jr die Hand vnd sagt.
+
+
+Medea, hertzallerliebste schnur,
+Wie habt jhrs mit mir gemachet nur?
+Mein Runtzel vnd mein grawe Haar
+Seynd jetzt all hinweg gantz vnd gar.
+Zuvor war mir dunckel mein Gsicht,
+Kund schier kein Menschen sehen nicht.
+Mein kräfft warn mir auch schwach vnd matt.
+Ietzt ist mein Haut schön weiß vnd glatt
+Vnd seynd meine Augen gar hell.
+Mein Füß die können laufen schnell
+Vnd bin wider ein Junger Mann.
+Ach was gib ich nun euch zu lohn,
+O Hertzenliebste Tochter mein?
+
+
+
+MEDEA
+
+sagt.
+
+
+Herr Schwäher, geht ins Hauß hinein
+Vnd kompt dißmal nicht wider rauß!
+Ich hab noch was zu richten auß
+Wenn ichs verricht, komm ich hernach.
+
+
+
+Eheson gibt jhr die händ vnd geht ab.
+
+
+
+
+MEDEA
+
+sagt.
+
+
+Hör, Lucifer, komm her vnd sag,
+Wie soll ich meinen Gemahl rechen
+An Poleo, dem bösen Frechen?
+Der stellt meim Herrn nach dem Leben.
+
+
+
+LUCIFER
+
+sagt.
+
+
+Ein guten Raht will ich dir geben.
+Wenn du wilt folgen meinem Sinn,
+So führ ich dich balt zu jhm hin.
+Weil er auch ist ein Alter Mann,
+So biett jhm, wie dem Schwähr, auch an,
+
+
+Daß du jhn auch jung machen wöllst.
+Sein Halß du jhm abschneiden söllst
+Oder ich thus an deiner statt.
+
+
+
+MEDEA
+
+sagt.
+
+
+Du hast mir geben guten Raht
+Vnd ich will mich auffmachen balt,
+Mit dir fahren über den Walt
+Vnd seinen Töchtern zeigen an,
+Was ich hab meinem Schwäher than.
+Die werdens jhrem Vatter sagen
+Vnd jhn auch ohne zweiffel fragen,
+Ob er sich auch will lassen verjüngen,
+Vnd so sie jhn auch darzu bringen,
+So schneid ich jhm sein Kehlen rab
+Vnd scheid mit dir balt von jhm ab.
+Damit so fertig ich jhn ins Grab.
+
+
+
+Sie setzt sich auff den Trachen, der tregt sie hinweg. Abgang.
+
+
+
+
+
+
+
+
+
+3. Akt
+
+
+
+
+Actus tertius.
+
+Kompt Plagia, die alt Kammerfrau, vnd sagt.
+
+
+Mein Frau hat zwar nicht recht gethan,
+Daß sie also ist gfahren davon
+Auff jhrem Teuffel oder Trachen,
+Will ander Leut wider Jung machen,
+Als wenn sie gar vil hett davon,
+Vnd verlest allhie jhren Mann,
+Der gar nicht weiß, wo sie doch bleib.
+Drumb hat er jhm ein anders Weib
+Angenommen, bey der er schläfft,
+Fragt nichts nach der Medea Gschäfft.
+Wie aber die Sach einmal außgeht,
+Im Luca nichts geschriben steht.
+Wenn er sie kennet, wie ich sie kenn,
+Sorgt ich, daß sie jhn noch verbrenn,
+Denn sie mehr als Brodt essen kan.
+
+JASON
+
+geht zornig ein in Königlichen Kleidern vnd sagt.
+
+
+
+
+Medea ist zogen davon.
+Balt sagt, wo sie doch sey hinkommen!
+
+
+
+PLAGIA
+
+sagt.
+
+
+Kein Wort hab ich davon vernommen.
+Villeicht kompt sie balt wider her.
+
+
+
+JASON
+
+sagt.
+
+
+Wenn sie nur der Ehrn gewest wer
+Vnd hett ein Vrlaub von mir gnommen,
+Daß ich west, wo sie hin wer kommen.
+Weil sies aber nicht hat gethan,
+Hab ich ein andere gnommen an,
+Dann ich will von jhr gar nicht leiden,
+Daß sie mir mehr komm an die Seiden.
+Vnd du, pack dich auch weg zu jhr!
+Kompst du mehr vnter Augen mir,
+Will ich dich zu eim Krüppel schlagen.
+Magst das wol deiner Frauen sagen.
+
+
+
+Er geht zornig ab.
+
+
+
+
+PLAGIA
+
+sagt.
+
+
+Nun schwer ich dir bey meinen Treüen,
+Dein Hochmuth soll dich noch gereüen.
+Dein Frauen kennst du selber nit.
+Sie soll dir machen gnug Vnfriedt.
+
+
+
+Abgang.
+
+
+
+EGEUS, DER KÖNIG ZU ATHEN geht allein ein vnd sagt.
+
+Athen, das gwaltig Königreich,
+Deme an Parschafft schir keins ist gleich,
+Hat ein vnleidlich Servitut,
+Daß es muß geben den Tribut
+Gen Creta in die Insel do
+Dem Tyrannischen Köng Miro.
+Ist fürwar ein Beschwerung groß,
+Der man nicht wol kan werden loß,
+Dann hierinnen ist niemand frey.
+Es sey der König vnd wer es sey,
+Wenn er hat Kinder, so muß der
+Sie nach dem loß auch stellen her,
+
+
+Denn man muß all neüe Jahr haben
+Sieben Mäidlein vnd siben Knaben,
+Die seind vnter zwölff Jahrn alt,
+Dem Minothauro vngestallt,
+Ein Monstrum, halbes Mensch, halbs Stier,
+Ein böses Menschenfressets Thier,
+Welches dann muß dem König warten
+In Creta seinen schön Irrgarten.
+Das macht mir manchen langen Tag,
+Daß ich mich nicht heyraten mag;
+Hett mir sonst lengst gnommen ein Weib.
+Also ich vnverheyrat bleib.
+Iedoch ich mich besunnen han,
+Ein Kebsweib mir zu nemen an,
+Biß mein Sohn von Trojazinem
+Gewachsen selbst her zu mir käm,
+Nach mir besitz das Königreich.
+Wiewol mein Räht verdreüst es gleich,
+Daß ich mich nit heüraten will.
+Ich aber frag darnach nicht vil,
+Sonder thu, als ichs nicht verstehe.
+Thut mir doch in meim Hertzen wehe.
+
+
+
+Abgang. Kompt Medea vnd Lucifer.
+
+
+
+
+MEDEA
+
+sagt.
+
+Wie gfellt meines Schwähers Bruder dir?
+
+
+LUCIFER
+
+sagt.
+
+
+Ey todt ist er vil lieber mir,
+Als wenn du jhn hetst gsund gemacht.
+Allein hab ich dahin gedacht,
+Weil du noch auch vmbbrachst den Mann,
+Was wilt du denn jetzt fangen an?
+Wo wilt du dich jetzt hinauß schwingen?
+
+
+
+MEDEA
+
+sagt.
+
+
+Du must mir helffen in den dingen,
+Damit ich dennoch bey Ehrn bleib.
+Der König von Athen hat kein Weib.
+Zu dem will ich jetzt ziehen hin,
+
+
+Weil ich schön jung vnd gerad bin;
+So wolt ich gleich sein SchlaffWeib sein.
+Da brächt ich fort das Leben mein
+Inn grosser Würdt vnd Reichthumb hin.
+
+
+
+LUCIFER
+
+sagt.
+
+
+Ja diser mäinung ich auch hin.
+Du gibst ein rechte Kebsfrauen.
+Allein ich wolt dir nicht vertrauen,
+Dastu mir solst Kochen zu Essen.
+Du bist verwegen vnd vermessen.
+Du dörffst eim ein spilfleck eingeben
+Vnd gar bringen vmb Leib vnd Leben,
+Wie du dem Jason hast gethan.
+
+
+
+MEDEA
+
+schlegt nach jhm vnd sagt.
+
+
+Ey halts maul vnd sag nichts davon!
+Oder du must da nein in Kreiß
+Vnd mir als thun, was ich dich heiß.
+Darumb puck dich vnd setz mich auff!
+Führ mich zu jhm in schnellem lauff!
+
+
+
+Der Teuffel buckt sich vnd führt die Medea ab. Kompt Frigius vnd Gemius, deß Königs Egei zu Athen Rähte, vnd sagt Frigius.
+
+
+
+Mein Herr Cantzler, ich hab ein red
+Zu thun, trifft an vns alle bed
+Ampts halben; darumb ist mein bitt,
+Ihr wolt mir das verargen nit,
+Weil sie betrifft den gmeinen nutz.
+Bringt vns, dem König vnd allen guts,
+Wie wir dann etwan auch voran
+Mit einander geredt davon.
+Die noth will mich nicht lassen schweigen.
+
+
+
+GEMIUS
+
+sagt.
+
+
+Herr Frigius, thut mirs anzeigen!
+Wenns gmeinen Nutz betreffen thut,
+Den man wol haben soll in hut,
+
+
+Ich es dest lieber hören will.
+Es betreff gleich weng oder viel,
+Will ich das beste dabey than.
+
+
+
+FRIGIUS
+
+sagt.
+
+
+Ihr wist, vor langer zeit wir han
+Vnsern König gebetten wol,
+Daß er sich verheüraten soll,
+Auff daß er zu dem Königthumb
+Etliche Erben überkumm,
+Dann wenn also der König stürb
+Vnd keinen Leibserben erwürb,
+Würd der Pollanten BurgersGschlecht
+So ohn billigkeit, fug vnd recht
+Sich in das Königreich eindringen,
+Vil vbels vnd böser Stück verbringen,
+Daß letzlich das Königreich Athen
+Gar würd zu Grund vnd boden gehn,
+Dieweiln auch vnsere Nachbaurn
+Auff solches vnglück warten vnd laurn.
+Das sollt man dem König zeigen an.
+
+
+
+GEMIUS
+
+sagt.
+
+
+Wir habens vor wol auch gethan,
+Dem König angezeigt solch Gfehr.
+Doch nimbt es nicht zu Hertzen er,
+Thut nach keinem Ehegemahl dencken,
+Sonder sich an Medeam hencken,
+Die von Corinth herkommen ist,
+Ein Weib voll Boßheit vnd arglist.
+Die wohnet jetzt dem König bey
+Vnd geht nur vmb mit Zauberey
+Vnd TeuffelsGspänst, die jren Vatter,
+Gedo, jhren höchsten Wolthater,
+Bracht vmb sein schön gülden Wieder,
+Daß jhn der Jason stach darnider,
+Liß jhren Bruder auß mißtrauen
+Im fellt zu kleinen Stücken hauen,
+Hat Jasonem, jhren Ehemann,
+
+
+Mit sampt seinen Kindern abthan
+Durch ein verzauberts fliegents Feüer
+Inn seinem Schloß gantz vngeheür,
+Ihres Schwährs Bruder nach den Dingen
+Sein eygene Tochter lassen vmbbringen.
+Sie hat auch sonsten viel übels than.
+Den Teuffel sie wol bannen kan.
+Mit der helt vnser König Hauß.
+Was meint jhr, daß noch werd darauß?
+Sie ist entwicht an Haut vnd Haar.
+
+
+
+FRIGIUS
+
+sagt.
+
+
+Der König steht in grosser Gfahr.
+Als übels ist von jhr zu warten.
+Er ist gleich bethört ob der Zarten,
+Daß er jhr nicht kan müssig gahn,
+Daß ich glaub, sie habs jhm gethan.
+Der König kompt: nun schweiget still!
+
+
+
+GEMIUS
+
+sagt.
+
+
+Nein, die sach ich jhm anzeigen will.
+EGEUS, DER KÖNIG geht ein vnd sagt.
+
+Die Götter seyen mit euch beeden!
+Ernstlich hab wir euch hörn reden
+Vnd zugehört an diesem Ort,
+Doch nicht verstanden recht die Wort.
+Drumb sagt! was habt jr für ein Raht?
+
+
+
+GEMIUS
+
+sagt.
+
+
+O Königliche Majestatt,
+Wir haben bedacht alles guts,
+Das Land vnd Leuten käm zu Nutz,
+Wenn Eur Majestatt das wolt than.
+EGEUS, DER KÖNIG sagt.
+
+Was ist die Sach? zeigt vns das an!
+Dünckt vns die Sach recht nütz vnd gut,
+So folg wir euch mit Hertz vnd muth,
+Dann jhr seit vnser liebe getreuen.
+
+
+
+
+GEMIUS
+
+sagt.
+
+
+Eur gnedige antwort thut vns erfreuen.
+Das ist die Sach in vnserm Raht,
+Das Königliche Majestadt
+Sich ehelich verheyraten thet,
+Damit sie selbst ein Gemahl hett,
+Etwan von Königlichem Stamm,
+Schön adelich vnd Tugentsamm,
+Davon ein Erben überkäm,
+Der nach Eur Majestatt annem
+Das Reich vnd Königlichen Gwalt,
+Weil eur Gnad ist an Jahren alt.
+Vnd sollt jhr Majestatt abgehn,
+So würden wir übel bestehn.
+Als Vnglück würd Leuten vnd Land
+In dem Reich stossen in die Hand
+Vnd dörfft als über vnd über gahn.
+
+
+
+FRIGIUS
+
+sagt.
+
+
+Eur Königlich Majestatt denck dran,
+Daß solch Krieg vnd Auffruhr darnach
+Kam als eur Majestatt zu schmach,
+Weil sie solchem übl vnd vnfrommen
+Hett gar wol mögen vnterkommen
+Mit einer Gemahl außerkorn,
+Die jhr hett einen Sohn geborn,
+Ein Erben zum Athenischen Reich.
+Derhalb bitt wir gar fleissig gleich,
+Eur Königliche Majestatt
+Wöll diesen vnsern treüen Raht
+Auffnemen in dem allerbesten.
+
+
+
+DER KÖNIG EGEUS
+
+sagt.
+
+
+Ihr lieben Getreüen vnd Ehrnvesten,
+Eur beger ist vor lengsten gschehen.
+Mit eim Erben seind wir versehen.
+Derhalben thut nit weiter sorgen!
+Wie wol solches noch ist verborgen,
+
+
+Mit der Zeit wird es offenbar.
+
+
+
+GEMIUS
+
+sagt.
+
+
+Eur Majestatt hat jmmerdar
+Vne solche dunckle Antwort geben.
+Drumb bitten wir allbeid darneben,
+Vns die Heimbligkeit zu erklärn.
+EGEUS, DER KÖNIG sagt.
+
+Die Gheim offenbar wir nit gern;
+Dann was kompt in das dritte Hertz,
+Das bleibt nicht, es bricht balt außwertz.
+Doch wirdts schon offenbarn die Zeit.
+
+
+
+FRIGIUS
+
+sagt.
+
+
+Eur Majestatt sag ich die Heimbligkeit;
+Sonst haben wir kein Ruh noch Rast.
+Es soll verschwiegen sein auffs bast.
+Darüber wöllen wir allbeid
+Zu allen Göttern schweren ein Eydt,
+Solches keim Menschen zu offenbarn
+Inn den drey nächstkünfftigen Jahrn.
+
+
+
+Sie recken die Händ auff.
+
+
+
+EGEUS, DER KÖNIG sagt.
+
+Weil jhr vns schwerd ein theuren Eyd,
+So wöll wir euch vertrauen beyd
+Vnd die Heimbligkeit offenbarn.
+Wist, daß wir vor achtzehen Jahrn
+Reysten in die Insel Delphos
+Mit Opffer zu dem Tempel groß.
+Apollini da thet wir fragen,
+Diser Sach halb vns weiß zu sagen,
+Pithenem, den TempelsPfaffen.
+Der wolt nit, daß wir solten bschlaffen
+Ein Weib, biß wir gen Athen kömen,
+Das Königreich selbst in dHand nemen
+Die Weissag kund wir nit verstehn.
+Darumb so thet wir eyllend gehn
+Gen Trojatzonem vnd theten fragen
+Pithium, vns zu weissagen
+
+
+Vnd vns recht geben zu verstahn
+Die Weissag zu Delphos gethan.
+Nun dieser Priester ward auch (secht!)
+Von gutem Königlichem Gschlecht
+Derselb thet mir heimblich zuschaffen
+Sein Tochter Ädra zu beschlaffen.
+Als das geschach, sie schwanger ward
+Vnd jhr Vatter vns offenbart,
+Daß sie gebärn würd ein Sohn,
+Da wir grosse Freud gwinnen von,
+Denn er wird sein ein solcher Höldt
+Vnd Herculis Macht gleich gezellt,
+Der würd den Mördern tragen Haß,
+Von jhnen rein machen die Straß
+Vnd würd all sein Feind überwinden,
+Mit kühner Hand fangen vnd binden,
+Land vnd Leuten auch thun vil guts
+Vnd dem betrangten schaffen schutz.
+Da glaubt wir dieses Pfaffen Worten
+Vnd zeigten Ädra an den Orten
+Bey MeeresGstad ein hellen Stein.
+Darundter legten wir allein
+Vnsere Pundschuch vnd vnser Schwerdt,
+Beteuret jhr vnd sie bewehrt,
+Wenn daß sie erzög jhren Sohn,
+Daß er ohn Menschliches beystohn
+Auffheben kündt bemelten Stein,
+Vns brächt Pundschuch vnd Schwert allein,
+So wolten wir erkennen bey,
+Daß er vnser rechter Sohn sey
+Vnd in vnser Reich werd gesetzt
+Als ein Königlicher Erb zuletzt.
+Vnd der Sohn würd gar kürtzlich kommen,
+Als wir schon heimblich haben vernommen,
+An disen Dingen ligt vns vil.
+Drumb schweigt von allen sachen still,
+Bey eurer Pflicht vnd höchsten Treüen!
+
+
+
+FRIGIUS
+
+sagt.
+
+
+
+
+Von gantzem Hertzen wir vns freyen,
+Was jetzt die Königlich Majestatt
+Vns vertreülich offenbaret hat.
+Vnd hett wirs lengst gewist voran,
+Hets vns so hart nicht gfochten an.
+Nun hoff wir, alle Sach steh recht.
+EGEUS, DER KÖNIG sagt.
+
+Wer vns ein gute Pottschafft brächt,
+Daß vnser Sohn käm zu vns her,
+Die allerfrölichst Post das wer.
+So kompt nun rein in die Cantzeley!
+Secht, was drinn zu verrichten sey!
+
+
+
+Abgang.
+
+
+
+
+ÄDRA
+
+geht mit Theseo, einem Jüngling von 18 Jahrn, ein vnd sagt.
+
+
+O Theseus, hertzlieber Sohn!
+Gar offt hast du mich geredet an,
+Wer dein natürlicher Vatter sey,
+Weil etlich von dir sagen frey,
+Wie Nepthunus, deß Meeres Gott,
+Dein Vatter wer. Das ist ein spott.
+Komm her! kanst auffleinen allein
+Diesen gar schönen hellen Stein,
+So wirst du finden in der Erd
+Zwen Pundschuch vnd darzu ein Schwerdt,
+Die dein Vatter vor langer zeit
+Mit seiner Hand darundter gleyt.
+
+
+
+THESEUS
+
+hebt den Stein auff, nimpt die Pundschuch vnd das schwerdt, besicht sie vnd sagt.
+
+
+Mutter, die Pundschuch vnd das Schwerdt,
+Das ich gnommen hab von der Erdt,
+Sein keines Schlechten, seh ich wol.
+Darumb ist mein Hertz freüden vol.
+Doch west ich auch gerne dabey,
+Wie vnd wer denn mein Vatter sey.
+Das gebt mir kürtzlich zu verstehn!
+
+
+
+ÄDRA
+
+sagt.
+
+
+
+
+Egeus, der König von Athen,
+Dein Vatter, ist aller Ehren wehrt.
+Nimb die Pundschuch vnd auch das schwerdt
+Vnd sitz in ein Schiff auff das Meer!
+Fahr gen Athen! in Würdt vnd Ehr
+Wirst du empfangen von deim Vatter,
+Er wirdt sein dein Höchster Wolthater,
+Dann er wird dich vor seinem Endt
+Setzen ins Königlich Regiment,
+Daß du werst König an seiner Stadt.
+
+
+
+THESEUS
+
+sagt.
+
+
+Mutter, ich frey mich diser That,
+Daß mein Vatter ein König ist.
+Zu dem reiß ich in kurtzer frist.
+Doch will ich über Meere tieff
+Nicht fahren in eim sichern Schiff,
+Sonder will reysen auff der Strassen,
+Mein kühne Mannheit sehen lassen
+An den Mördern, bluting Tyrannen,
+An den Raubgirig argen Mannen,
+Die vnsicher machen die Strassen.
+Der will ich kein Bein leben lassen,
+Machen die Straß sicher vnd frey
+Von allem Mord vnd Rauberey,
+Dann ich bin doch darzu geborn.
+
+
+
+ÄDRA
+
+sagt.
+
+
+Ach hertzallerliebster Sohn außerkorn,
+Warumb wollst da dich solcher gfehr
+Schon vnterwinden hin vnd her,
+Vmbzubringen die Mörderisch Bößwicht
+Die so vil Leut haben hingericht,
+Daß derhalb die Straß allgemein
+Gefehrlich vnd vnsicher sein?
+Derhalb fahr du hin über Meer!
+THESEUS, JHR SON sagt.
+
+O Mutter, der groß Ruhm vnd Ehr
+
+
+Vom Hercule ist mir vor allen
+So gwaltig in mein Hertz gefallen.
+Dem hoff ich auch auff diser Erden
+Mit kühner that noch gleich zu werden,
+Daß ich ein Namen überkomm
+Eins Kämpffers mit Lob, Ehr vnd Ruhm
+Oder will drob lassen mein Leben.
+
+
+
+ÄDRA
+
+sagt.
+
+
+Die Götter wöllen dir Glück geben,
+Weil du betrachtest gmeinen Nutz
+Vnd willst den Frommen thun als Guts,
+Aber die Bösen verderben auff Erden!
+Daß die Frommen befridigt werden,
+So geb dir Jupiter langs Leben,
+Guts Glück vnd all Wolfarth darneben!
+Vnd ich will dir das gleit nauß geben.
+
+
+
+Abgang.
+
+
+
+
+
+
+
+
+
+4. Akt
+
+
+
+
+Actus quartus.
+
+MINOTHAURUS
+
+geht ein, ist vnten ein Ochs vnd oben ein Mensch, tregt ein grossen kolben, fürt oder tregt ein Kind an der Hand vnd sagt, das Kind mag ein Mäidlein oder Büblein sein, wenns nur nicht erschrickt.
+
+
+O wie dürst mich nach MenschenBlut!
+Der Hunger mir auch gar wehe thut.
+Ich bin mit solchem Hunger bsessen,
+Wolt wol drey solcher Kinder fressen.
+So gibt man mir einmal nur eins
+Vnd ist darzu nur gar ein kleins
+Vnd ist mein Bauch mir also lehr,
+Daß ich von Hertzn zu fressn begehr.
+Das Kind friß ich (glaubt mir fürwar!)
+Mit Leüß vnd Nüßn, mit Haut vnd Haar,
+Darzu mit Ingweid vnd mit Treck.
+Kein bissen würff ich von jhm weg.
+Der König mich helt vom Tribut,
+Den man nicht gern reichen thut
+
+
+Vnd zalt jhn nicht zu rechter zeit.
+Darumb ist mir mein Bauch so weit,
+Daß ich bißweiln stil ein Kind.
+Vnd wo ich einen Menschen find,
+Der sich verjrrt in disem Garten,
+Den schlag ich gar balt auff sein Schwarten
+Mit meiner Keiln, daß er bethört
+Daß weiß in Augen vmbher kehrt
+Ein ander mal so bleib er draussen!
+Komm her, du Kind! ich will dir lausen,
+Daß mirs Blut übers Maul abrindt.
+O sie seind beide feist die Kind.
+Wie meinst? will du dich fressen lahn?
+
+
+
+DAS KIND
+
+sagt.
+
+
+Ey laß mich heim, du böser Mann!
+Ich muß zu meiner Mutter lauffen,
+Die würd mir ein schön Docken kauffen,
+Mit derselben ich spilen muß.
+
+
+
+MINOTHAURUS
+
+sagt.
+
+
+Deins Kinderwercks hab ich verdruß.
+Komm her! du bist leibeygen mein.
+Ich frag nichts nach der Docken dein.
+
+
+
+Er nimbt das Kind, führts ab. Kompt Medea mit jhrem stab vnd sagt.
+
+
+
+Ich hab heut ghabt ein böß gesicht,
+Kan mich darein schir richten nicht,
+Denn ich weiß nicht, was es bedeut.
+Drumb will ich in dem Kreiß so weit
+Beschweren hie den Geiste mein:
+Der weiß villeicht, was es mag sein.
+
+
+
+Sie macht ein Kreiß mit dem Stab.
+
+
+
+
+DER LUCIFER
+
+springt herfür vnd sagt.
+
+
+Was begerst abermals von mir?
+Meinst, ich hab nichts zthun, als mit dir?
+O nein; ich hab deins gleichen mehr.
+
+
+
+
+MEDEA
+
+sagt.
+
+
+O Lucifer, schweig vnd mich hör!
+Ich bin die Nacht heüt glegen lang
+Vnd ist mir gwesen also bang,
+Daß ich hab kalten schweiß geschwitzt.
+Inn sorg vnd leyd ward ich erhitzt
+Vnd deucht mich, wie ich sterben sollt.
+Einer mich stets weg treiben wolt,
+Dessen ich mich nicht wehrn kundt.
+Das Traur ich sehr von Hertzen Grund.
+Bitt, sag du dir, was es bedeut!
+
+
+
+LUCIFER
+
+sagt.
+
+
+Ey es ist eben halt die Zeit,
+Das herkommet deß Königs Sohn.
+Da wirst du wol haben zu thon,
+Denn so balt jhn der König erkennt,
+Er sein Hertz vnd Lieb von dir wend
+Vnd wirst vertriben auß dem Landt
+Iederman zu schmach, spott vnd schand.
+Darumb hab acht in disen dingen,
+Daß du jhn bey zeit kanst vmbbringen!
+So bleibst du lang in Ehr vnd Würdt.
+Darzu hilff ich, was sich gebürt.
+
+
+
+Der Teuffel verschwind.
+
+
+
+
+MEDEA
+
+sagt.
+
+
+Weil mirs dann der Geist hat bedeut,
+Daß ich hab hoch vnd grosse Zeit,
+Vmbzubringen des Königs Sohn,
+So will ichs thun, so balt ichs kan,
+Ehe er vom Vatter werd bekannt
+Vnd ich werd trieben auß dem Land.
+Besser ists, mich zu vnterstahn,
+Wie ich bald mög vertreiben than,
+Als daß ich werd zu schand vnd spott.
+Darzu hilff mir, du Asterot!
+
+
+
+Sie geht zornig ab.
+
+
+
+PARIPHORES, DER ERSTE MÖRDER geht ein vnd sagt.
+
+
+
+Ich steh allda, verhüt die Straß.
+Keinen ohn schaden ich für laß,
+Er muß mir vor lassen sein gut.
+Will er nicht, so geb er Blut!
+Mein Kolben leg ich jhm auffs Haupt,
+Daß er seins Lebens werd beraubt.
+Kompt mir ein tapffere Person,
+So red ichs schmeichelhafftig an
+Vnd lad sie arglistig zu Gast
+Vnd erbeüts jhm auffs allerbast.
+Aber zu Nachts wol in dem Bett
+Würd er dann abgethan vnd getödt.
+Dort kompt ein Mann, noch jung an Jarn.
+Den will ich sträniglich anfahrn,
+Ihn schrecken, daß er von sich geit
+Sein Paarschafft, Wehr vnd auch das kleid.
+
+
+
+Pariphores versteht jm den Weg.
+
+
+
+
+THESEUS
+
+geht ein vnd sagt.
+
+
+Was verstehst du mir hie die Straß?
+Gehe weg! meins wegs mich reysen laß!
+
+
+
+PARIPHORES
+
+sagt.
+
+
+Du junger Mann, wollst du mir fluchen?
+Ich mein, du wollst mein Kolben versuchen,
+Daß er zerschlag den Kopffe dein.
+
+
+
+THESEUS
+
+sagt.
+
+
+Lest mich nicht gehn die Strassen mein
+Mit gutem, so must dus wolan
+Mit Sträichen vnd mit bösem than,
+Dann deins Kolbens acht ich gering.
+Wer weiß, wems vnter vns geling?
+
+
+
+Sie schlagen zusammen, so lang biß Pariphores fellt.
+
+
+
+
+THESEUS
+
+nimbt jm den Kolben vnd sagt.
+
+
+Nun ligst vnd hast verdienten Lohn.
+Hest du mich mein Weg lassen gohn,
+So hett ich dir gethan kein Leydt.
+
+
+
+
+Dein Kolben bhalt ich mir zur beüt.
+
+
+Er geht ab, man tregt jn auch ab. Kompt Simon, ein andrer Mörder, vnd sagt.
+
+
+
+Ich hab im Walt gelernet das,
+Daß ich die Wanderer auff der Straß
+Fang vnd bind sie dann an vier Baum,
+Die laß ich auffschnellen mit raum,
+Daß sie in etlich Stück zerreissen.
+Dort kompt einer, dem will ichs weissen,
+Wie ich vor manchem hab gethan.
+
+
+
+Theseus geht ein.
+
+
+
+
+SIMON
+
+laufft jn an vnd sagt.
+
+
+Wo zeugst du her, du junger Mann?
+Nun must dich mir geben gefangen,
+Vnd wie es ist vil andern gangen,
+Also solst du werden zerrissen.
+Durch vier Baum, magst du wol wissen,
+Solst du nemen ein kläglichs End.
+
+
+
+THESEUS
+
+sagt.
+
+
+Mein Mann, wiß, ich hab auch zwo Händ.
+Ich will von dir vngfangen sein.
+Du Mörder, kanst, so wehr dich mein!
+
+
+
+Sie schlagen zusammen, biß Simon fellt.
+
+
+
+
+THESEUS
+
+sagt.
+
+
+Nun wirst du keim die Stück beweisen,
+Daß jhn die vier Bäumen zerreissen.
+
+
+
+Man tregt jn ab, Theseus geht ab. Kompt Siran, der dritt Mörder, vnd sagt.
+
+
+
+Mein Zeit ich nur mit dem verkürtz,
+Daß ich über den Felsen stürtz
+Die Wanderer, die hie reysen für,
+Daß sie im Meer ersauffen schier.
+Dort kompt ein junger Mann allein.
+Den will ich auch stürtzen hinein,
+
+
+
+Theseus geht ein.
+
+
+
+
+SIRAN
+
+sagt.
+
+
+Jüngling, komm auff den Felsen hoch!
+So zeig ich dir groß Wunder noch,
+
+
+Dergleichen vor nie seind geschehen.
+
+
+
+THESEUS
+
+sagt.
+
+
+Was hab ich dein Wunder zu sehen?
+Ich zeüg allhie auff freyer Straß.
+Darauff da mich zu frieden laß!
+Begehr nicht auff den Felß hinauff.
+
+
+
+SIRAN
+
+sagt.
+
+
+Du must wol mit, drumb steig baldt rauff!
+Oder ich will dich darzu bringen,
+Daß du das klein gleüt sollst singen.
+
+
+
+THESEUS
+
+schlegt auff jhn, biß er fellt, würfft jn darnach ins Loch vnd sagt.
+
+
+Ietzt must du selbst im Meer ertrincken
+Vnd darinnen zu boden sinken
+Vnd ein Speise der Fisch wern,
+Daß du fort kanst niemandt beschweren.
+
+
+
+Theseus geht ab. Kompt Clamasos, der vierdt Mörder, vnd sagt.
+
+
+
+Ich hab die Fürgänger genödt,
+Daß sich hat mancher selbst getödt,
+Erstochen oder an ein Baum ghangen.
+Dort kompt ein junger Mann gegangen,
+Der muß sich auch selbst bringen vmb,
+Daß sein Gut zur Peüd ich bekumb.
+
+
+
+Theseus geht ein.
+
+
+
+
+CLAMASOS
+
+sagt.
+
+
+Wo wilt du nauß, du junger Mann?
+Ich leg dir die gröst marter an,
+Wo du dich nicht selber erstichst
+Vnd hie dein zeitlichs Leben brichst.
+Darumb zeich auß! thu dich erstechen!
+
+
+
+THESEUS
+
+sagt.
+
+
+Was muthst du mich an allers Frechen,
+Leichtfertigen vnd losen Mann?
+Warumb soll ich den Todt mir than
+Vnd an dein Bedrohung mich kehrn?
+Hab ich doch Hand vnd kan mich wehrn,
+
+
+Kan dich wol selbst zu stücken hauen.
+
+
+
+CLAMASOS
+
+sagt.
+
+Was kanst du dann? laß mich das schauen!
+
+
+Sie hauen hart zusammen, biß Clamasos fellt.
+
+
+
+
+THESEUS
+
+sagt.
+
+
+Also muß man die Strassen saubern
+Von Tyrannen, Mördern vnd Raubern,
+Welche beschweren Leut vnd Land
+Vnd förchten weder Sünd noch schand.
+Nun hab ich nicht weit gen Athen.
+Dahin hoff ich noch heut zu gehn.
+Iedoch so will ich mich nicht nennen,
+Hoff, mein Herr Vatter werd mich kennen
+Bey den Bundschuen vnd dem Schwerdt,
+Dardurch mein Person wird bewerdt,
+Vnd will balt ans Königs Hof gahn.
+Wenn man zum Tisch fängt blasen an,
+So will ich in des Königs Saal
+Mich selbst setzen zu dem Nachtmal
+Vnd das schwerdt bhalten an der seiten,
+Daß es der König seh bey zeiten
+Vnd mir zusprech als seinem Sohn,
+Mach zu eim Erben in sehn Thron.
+Die Götter wöllen helffen mir,
+Daß ich all Ding nur wol vollführ!
+
+
+
+Abgang. Kompt Frigius vnd Gemius, deß Königs Egeii Rähte, vnd Frigius sagt.
+
+
+
+Herr Gemius, es seindt hieher
+Fürwar kommen seltzame Mähr,
+Wie daß ein junger Ritter frey
+Auß frembden Landen kommen sey,
+Der hab durch das Land alle Strassen
+Von Rauberey gefreyt dermassen
+Mit seiner gantz siegreichen Hand,
+Daß man fast in dem gantzen Land
+Gar hör von keiner Plackerey.
+
+
+Da hab ich mich besonnen frey,
+Ob es leicht wer deß Königs Sohn,
+Da vns der König gsagt davon.
+Wenn ers wer, so stünd all sach wol.
+
+
+
+GEMIUS
+
+sagt.
+
+
+Ja das Hofgsind ist Freuden voll,
+Aber deß Königs seim Anhang
+Der Medea ist angst vnd bang,
+Dann sie fürcht, er möcht sie vertreiben.
+
+
+
+FRIGIUS
+
+sagt.
+
+
+Ja sie hett hie nicht mehr zu bleiben;
+Denn man sagt von dem Jüngling gut,
+Er hab ein solchen kecken Muth,
+Daß jhm gar kein Kampff sey zu schwer.
+Wenn er denn Erb zu dem Reich wer,
+So möcht er den Minothaurum
+Villeicht noch selber bringen vmb,
+Daß wir kämen von dem Tribut.
+
+
+
+GEMIUS
+
+sagt.
+
+
+Ja wenn ers thet, so wer es gut.
+Darnach möchts im Königreich Athen
+Noch vil besser als jtzo stehn.
+Deß Ritters kan ich kaum erharren.
+
+
+
+FRIGIUS
+
+sagt.
+
+
+Medea thut puchen vnd scharren.
+Die laufft, samb sie vnsinnig sey.
+Villeicht wird sie durch Zauberey
+Berichtet sein, daß diser Höldt
+Noch zu eim König werd erwöhlt,
+Als wie ein warer KönigsSohn,
+Vnd daß sie als dann muß davon.
+O wie wird es jhr thun so andt!
+
+
+
+GEMIUS
+
+sagt.
+
+
+O still! die wir jetzt haben gnannt,
+Die geht dort übern Saal herein.
+
+
+Last stecken vns in die Ecken nein,
+Was sie guts bringen vnd sagen werd!
+
+
+
+Sie gehn auff die seiden.
+
+
+
+
+MEDEA
+
+sagt.
+
+
+Dieser KönigsSohn mich beschwert,
+Daß ich nie gewest bin dergleich,
+Vertreibt mich nun auß diesem Reich,
+Darein ich wol genistelt hab,
+Daß ich nicht gern darauß scheid ab.
+Darumb hab ich groß zeit jetzunder,
+Daß ich schieß alle Rigel vnter,
+Damit der König seinen Sohn,
+Ehe er jhn kenn, vom Brodt wöll thon.
+Wenn mir angeht dieselbig sach,
+Ich mich lustig vnd frölich mach.
+
+
+
+Sie geht ab.
+
+
+
+
+FRIGIUS
+
+sagt.
+
+
+Hört, Gemius, der neuen Mähr!
+War ists, deß Königs Sohn kompt her,
+Der König aber weiß nichts davon.
+
+
+
+GEMIUS
+
+sagt.
+
+
+Still! der König thut dort hergahn.
+Da wöllen beyd auffwarten wir.
+
+
+
+Egeus, der König, geht mit Medea ein.
+
+
+
+
+DER KÖNIG
+
+sagt.
+
+Thut vns ein wenig entweichen jhr!
+
+
+Die zween Räht gehn ab.
+
+
+
+EGEUS, DER KÖNIG sagt.
+
+Durch ein Curir hab wir vernommen,
+Es sey nächten gehn Athen kommen
+Ein junger kühner starcker Höldt,
+Von dem würd vns groß Lob erzelt
+Von seiner Ritterlichen That,
+Die er bißher begangen hat.
+Den hab gen Hof wir lassen laden
+Auß rechter Gunst, Lieb vnd Genaden,
+Daß wir jhn nur auch mögen sehen,
+Dem man so groß Lob thut verjehen.
+Darumb, Medea, richt vns du
+Ein Königliche Mahlzeit zu,
+
+
+Damit wir den Hölden verehrn!
+
+
+
+MEDEA
+
+sagt.
+
+
+Großmächtiger Herr, ich thet beschweren
+Mein Geist heut frü, als ich auffstahn;
+Der hat mir warhafft zeiget an,
+Eur Gnad sollt achtung darauff geben,
+Durch jhn verlier eur Lieb jhr Leben.
+Derhalb verwahrt euch auff das bast
+Vor diesem Hölden, eurm Gast,
+Daß euer Lieb sich halt beym Leben!
+EGEUS, DER KÖNIG sagt.
+
+O Medea, so thu Raht geben!
+Dann du hast vns gar hart erschreckt,
+Sehr grosse Forcht in vns auffgweckt,
+Daß wir deß Höldts halb sollen sterben.
+
+
+
+MEDEA
+
+sagt.
+
+
+Besser ists, der Höldt thu verderben,
+Daß man sein komm mit Ehrn ab.
+Drumb ich mich schon besonnen hab,
+Daß ich jhm wöll tragen herein
+Ein Geschirr mit rotm vergifftem Wein,
+Ehe dann man sich zu Tisch thut setzn.
+Wenn er sich damit will ergötzn
+Vnd von solchem rotn Wein trincken,
+Wird er baldt zu der Erden sincken
+Vnd eines jehen Todts ersterben.
+Daß erlöst eur Gnad vom verderben.
+EGEUS, DER KÖNIG sagt.
+
+O Mein Medea, dasselb thu!
+So komm ich meiner Sach zu ruh.
+
+
+
+Medea geht ab, bringt ein schönes glaß mit rotem Wein, gibts dem König.
+
+
+
+
+MEDEA
+
+sagt.
+
+
+Hie bring ich den vergifften Wein,
+Der eurm Gast ist geschencket ein.
+
+
+
+Frigius vnd Gemius, bede Königliche Rähte, gehn baldt hernach.
+
+
+
+
+
+GEMIUS
+
+sagt.
+
+
+Großmächtiger König, es kompt eur Gast,
+Begehrt herein in den Pallast.
+EGEUS, DER KÖNIG sagt.
+
+Geht hin vnd last jhn eylend rein,
+Auff daß wir mit jhm frölich sein!
+
+
+
+THESEUS
+
+geht ein, tregt sein Bundtschuch vnd Schwert, neyget sich gar höflich vnd sagt.
+
+
+Gegrüst sey Königlich Majestatt,
+Die mich hieher berufen hat!
+
+
+
+EGEUS
+
+sagt.
+
+
+Setzt euch zu mir her, so lang daß
+Man zu Hof allhie zu Tisch blaß,
+Sollt jhr mit vns zur Taffel gehn.
+
+
+
+DER KÖNIG
+
+sicht jn an vnd sagt.
+
+
+Ey potz! die Bundschuch alle zwen
+Haben wir lang zu sehen begert.
+
+
+
+DER KÖNIG
+
+sicht jm nach dem schwert vnd sagt.
+
+
+Vnd woher kompt dir dises Schwert?
+Balt sage vns den Namen dein!
+
+
+
+THESEUS
+
+sagt.
+
+Theseus ist der Namen mein.
+
+
+EGEUS
+
+sagt.
+
+Wer ist dein Mutter? sag uns da?
+
+
+THESEUS
+
+sagt.
+
+
+Deß Priesters Tochter Ädra,
+Kompt von Königlichem Stammen her.
+EGEUS, DER KÖNIG sagt.
+
+O schweig! wir begeren nicht mehr.
+O lieber Sohn, zu tausentmal
+Sey vns willkomm auff vnsern Sal!
+EGEUS, DER KÖNIG drückt ihn, nimbt das Glaß, würffts wider 
+den boden vnd sagt.
+
+Verflucht sey diß vergiffte Tranck!
+Medea, vnser Lebenlang,
+Vnd weil wir leben auff der Erden,
+Soll dir daß nicht vergessen werden.
+
+
+
+Medea schleicht traurig davon.
+
+
+
+
+THESEUS
+
+sagt.
+
+
+Eur Königlich Würdt sey Danck gesagt!
+Ich hab die weiten Räiß gewagt
+Zu Fuß biß in die Stadt Athen.
+
+
+
+EGEUS
+
+sagt.
+
+
+Vnserm Hertz thut groß Freüd durchgehn,
+Wiewol wir dich, hertzlieber Sohn,
+Auff dißmal solten haben abthon
+Durch der falschen Medea Raht,
+Die vns fälschlich betrogen hat,
+Die wir doch Hertzlich theten lieben.
+Die soll auß dem Land werden triben,
+Soll vns auch zu ewigen zeiten
+Nimmermehr kommen an die seidten,
+Weil sie dir strebet nach dem Leben
+Vnd wollt dir mit dem Gifft vergeben.
+
+
+
+Man klopfft an.
+
+
+
+
+FRIGIUS
+
+sicht hin vnd sagt.
+
+
+Großmächtiger König, ein Bott allda
+Deß König Mirus auß Creta.
+EGEUS, DER KÖNIG sagt.
+
+Heist jhn nur balt rein zu vns gahn!
+Wir wissen wol, was er will han.
+MEGENUS, DER BOTT auß Creta, geht ein vnd sagt.
+
+Mirus, der König, lest euch sagen,
+Daß jhr solt noch in wenig Tagen
+Ihm schicken sein Zinß vnd Tribut,
+Der jhm all Jahr gebüren thut,
+Sieben Mäidlein vnd siben Knaben.
+Weil sich die Frist verloffen haben,
+Die lieferung aber nicht ist gschehen,
+
+
+Ihr euch vor Schaden für sollt sehen.
+EGEUS, DER KÖNIG sagt.
+
+Sag deinem König wider an,
+Sein Tribut soll er kürtzlich han
+Wol in der Insel Creta weit!
+
+
+
+MEGENUS
+
+sagt.
+
+Das möcht jhr thun, dann jhr habt zeit.
+
+
+Der Bott geht ab. Kommt Tiromenes, Orobes, Parites, Athenor, Julia vnd Tulia, die Athenischen Burger vnd Burgerin, fallen dem König zu Fuß, 
+
+
+tragen alle Klagkleider.
+
+
+
+
+TIROMENES
+
+sagt.
+
+
+Großmächtiger König vnd Herr,
+Es ist kein König weit vnd ferr,
+Bey dem besser zu wohnen wer;
+Allein der Tribut ist zu schwer.
+Eur Mayestatt helff vns deß ab!
+So wöll wir mit Leib, gut vnd hab
+Vns wie Vnderthanen erzeigen,
+Auch gern sein Eur Gnad Leibeigen.
+Doch haben wir mit schrecken vernommen,
+Von Creta sey ein Bottschafft kommen,
+Daß wir den Tribut sollen senden.
+O Gnedigster Herr, helfft diß wenden!
+
+
+
+OROBES
+
+sagt.
+
+
+Ach Gott, wie thut die Statt Athen
+Inn so gfehrlichem Vnfahl stehn,
+Daß wir vnser Kinder in noth
+Sollen hinschicken in den Todt!
+
+
+
+PARITES
+
+sagt.
+
+
+Nun weil es nicht anders sein mag,
+Vns auch hilfft weder wehe noch klag,
+Sonder all in gleicher wagnus stahn,
+So müß wirs also lassen gahn,
+Wie es geht, vnd deß Glücks erwarten.
+
+
+
+ATHENOR
+
+sagt.
+
+
+
+
+O meiner schönen Kinder der Zarten,
+Die ich muß schlagen in die Schantz!
+Des bin ich je betrübet gantz.
+Drumb ich bitt Königlich Majestatt,
+Die wöll vns geben guten Raht,
+Wie wir doch kommen auß der Gferdt.
+JULIA, DAS ATHENISCH WEIB in Klagkleidern verhüllet, sagt.
+
+Kein traurigers Weib ist auff der Erd,
+Weil meim Sohn das nächst loß hat troffen,
+Auff den stund all mein trost vnd hoffen,
+Daß er mich einmal sollt ernehrn.
+Den thet der TeuffelsWurm verzehrn.
+Den ich erzog mit grosser noth,
+Den must ich geben in den Todt.
+Seidt bin ich frölich nimmermehr.
+
+
+
+TULIA
+
+sagt.
+
+
+Ja mein Sohn tauret mich auch sehr,
+Den ich must dasselb mal verlirn.
+Der fleug an fleissig zu studirn.
+Ein weisser Mann wer auß jhm worn.
+Ietzt ist all mein Hoffnung verlorn.
+Mich dünckt, mein Hertz wöll mir zerbrechen.
+Mein Hertzleidt kan ich nicht außsprechen.
+
+
+
+THESEUS
+
+sagt.
+
+
+Warumb thut das Volck also traurn?
+EGEUS, DER KÖNIG sagt.
+
+Ach jre Kinder thun sie taurn,
+Die man gen Creta schicket hin.
+
+
+
+THESEUS
+
+sagt.
+
+Was würd dann widerfahrn jhn?
+
+
+EGEUS
+
+sagt.
+
+
+Da spert man sie in ein Irrgarten,
+Darinn thut grausam auff sie warten
+Minothaurus, ein greülichs Thier,
+Ist halb ein Mensch vnd halb ein Stier.
+
+
+Dasselb die Kinder thut zerreissen
+Vnd thut von jhrem Fleisch sich speisen
+Vnd trincket auß der Kinder Blut.
+Das macht die Eltern vngemuth.
+
+
+
+THESEUS
+
+sagt.
+
+
+Ach soll denn der König Mirus
+Brauchen solch Tyrannische Buß,
+So will ich jhm sein Hochmuth brechen,
+Der Kinder vnschultigs Blut rechen
+An Minothauro dem Monstrum,
+Mit dem ich hin zu kämpffen kumm
+Mit sampt den Kindern vnverborgen,
+Ob ich jhm helffen köndt auß sorgen.
+EGEUS, DER KÖNIG sagt.
+
+O lieber Sohn, bleib du mit Ruh!
+Solch kämpfen laß wir dir nicht zu,
+Dann es wer doch mit dir verlorn.
+Das Thier speüt Feür in seinem Zorn,
+Das niemand mag vor jhm bestahn.
+
+
+
+THESEUS
+
+sagt.
+
+
+Herr König, jhr wist nicht, was ich kan.
+Ich hab in Cemioniam
+Kämpfft mit dem grossen schwein Pheam,
+Das vor im Land fast Zirckelrundt
+Zurieß an zahl vil Menschen vnd Hund,
+Macht schier ödt dasselbig gantz Landt.
+Im dörfft thun niemand widerstand.
+Dasselbig Schwein hab erwürget ich
+Vnd hab auch kämpffet ritterlich
+Mit Maraten, dem Ochssen ferrn.
+Den Peos, seinen scharffen Herrn,
+Fieng ich vnd fürt jhn gen Delphos
+Vnd opfert jhn zum Opffer groß
+Dem Appollo, darumb will ich
+Auch kühnlich vnterwinden mich,
+Den Minothaurum auch zu fellen
+
+
+Vnd disen Tribut abzustellen.
+Derhalb, Herr König, gib ich mich drein
+Vnd hoff, gut Glück soll bey mir sein.
+EGEUS, DER KÖNIG sagt.
+
+O Sohn! die Götter geben dir glück
+Auff diser Reiß inn allem stück!
+Du stelst vns in groß Angst vnd sorgen.
+
+
+
+THESEUS
+
+sagt zu dem Athenor.
+
+
+Bringt mir die Kinder her auff Morgen!
+So will ich selber zihen mit.
+Darumb, jhr Eltern, trauret nit!
+Wenn ich thu dises Monstrum finden,
+Will ichs ritterlich überwinden
+Vnd wider kommen mit eurn Kinden.
+
+
+
+Sie gehen alle ab.
+
+
+
+
+
+
+
+
+
+5. Akt
+
+
+
+
+Actus quintus.
+
+MEDEA
+
+geht mit Lucifer ein vnd sagt.
+
+
+O Lucifer, nun sey verbandt!
+Daß ich inn solchem spott vnd schand
+Inn dem Land zieh herumb jetzund,
+Das macht dein Lügenhaffter Mund,
+Daß du die Sach nicht recht bedacht
+Vnd mir Theseum vmbgebracht
+Vnd list mich so in schanden stahn.
+
+
+
+LUCIFER
+
+sagt.
+
+
+Ich kan jhm auff mein Seel nicht than,
+Dann in dem Himel ist ein Gott,
+Derselb macht mich gar offt zu spott
+Vnd ich kan mehrers nicht verbringen,
+Als mir derselb Gott thut verhengen.
+Derselbig gar nicht leiden wolt,
+Daß ich Theseum tödten sollt,
+Denn seine Zeit noch nicht auß war.
+Doch hab ich nicht gelogen so gar,
+Daß der König Egeus werd
+Kurtz weg genommen von der Erdt,
+
+
+Das als sein Sohn vrsachen würd
+Derhalben dir gar nit gebürt,
+Daß du mich so an Ehrn schendst,
+Dein Lieb vnd gunst gar von mir wendst.
+Das ich vmb dich nicht hab verschult.
+
+
+
+MEDEA
+
+sagt.
+
+
+Vnd wenn da haben willt mein Hult,
+So verfolg deß Thesei Leib,
+Auch seine Kinder vnd sein Weib!
+Führ sie inn alles Vnglück ein,
+Inn zeitlich vnd ewige Pein,
+Auff daß sein Nam auff diser Erdt
+Verfolgt vnd außgereidet werdt!
+Dieweil hab ich kein rast noch ruh.
+
+
+
+LUCIFER
+
+sagt.
+
+Als, was ich kan, dasselb ich thu.
+
+
+Sie gehn ab. Kompt Egeus, der König, mit Theseo, Tiromes, Orobes, Parites, Athenor, Julia vnd Tulia, die führen 14 Kinder, auff das schönst bekleidt, weinen vnd thun kläglich.
+
+
+
+EGEUS, DER KÖNIG sagt.
+
+Hertzlieber Son, wilt je auff sein
+Mit den vierzehen Kinderlein,
+Die vns erbarmen in dem hertzen?
+Doch haben wir vil grössern schmertzen,
+Weil wir fürchten, du must dein Leben
+Villeicht jrenthalben auffgeben.
+So merck, wann du herfehrst auffwartz,
+So thu hinweg den Segel schwartz
+Tom Schieff! spann einen weisen auff.
+Daß wir an solchem widerlauff
+Erkennen, ob du habst gesieget!
+Wo aber dir dein Leib erlieget,
+So laß den schwartzen Segel gahn
+Auffm Schieff! drauß können wir verstahn,
+Daß vmb dich wird geschehen sein.
+Vnd wie wir, auch der Gemahl dein
+
+
+Dich in Ehrn wissen zu klagen
+Vnd ein gantz Jar lang Leidt zu tragen.
+Darzu wünschen wir dir vil Glück.
+
+
+
+THESEUS
+
+sicht in ein Zettel vnd sagt.
+
+
+Großmechtiger König, in dem stück
+Will ich klug vnd fürsichtig sein
+Vnd will heüt mit den Kinderlein,
+Die ich allhie verzeichnet hab,
+Auff dem hohen Meer fahren ab
+Auff Delphinum hin zu dem Tempel,
+Zu eim glückseligen Exempel
+Dem Gott Appollo Opffer than.
+Darbey will ich gebeten han
+Eur Lieb, die wöll den Gemahl mein
+In der zeit lassen befohlen sein,
+Biß mir die Götter helffen zu Landt.
+
+
+
+Zu den Athenern sagt er.
+
+
+
+Ihr lieben Burger alle sandt,
+Ich bitt, stellt ein eur kläglichs Weinen!
+Es hilfft doch weder klagen noch greinen,
+Sonder rufft vnser Götter an,
+Daß sie vns wöllen beystand than!
+Für euch vnd eurer Kinder Leben
+Will ich mein eygens Leben geben
+Vnd sehen, das ich sie errett,
+Daß sie das grausam Thier nicht tödt.
+Ir lieben Kindlein, kommt zu mir
+Vnd gebet mir eur Händlein jhr
+Vnd gsegn seine Eltern ein jedes!
+
+
+
+Die Kinderlein geben jnen die Händ nach einander.
+
+
+
+
+JULIA
+
+sagt kläglich.
+
+Ach weh deß kläglichen abschiedes!
+
+
+Sie nimmt ein Töchterlein, truckts vnd sagt.
+
+
+
+O du hertzliebstes Annelein!
+Soll ich denn dein beraubet sein,
+So bin ich ewig traurig drummen.
+
+
+
+ANNELEIN, DAS KINDLEIN sagt.
+
+Mutterlein, ich will balt wider kommen
+Vnd will dir einen Krantz mit bringen;
+Dann wollen wir ein Reyen singen.
+
+
+
+TULIA
+
+sagt.
+
+
+Ach jammer deß kläglichen Reyen!
+Auff Erd thut mich nichts mehr erfreyen.
+
+
+
+Sie nimmt ein Sönlein, druckts vnd sagt.
+
+
+
+Ach, du hertzliebster Christoflein,
+Wie hast du schon gelernt so fein?
+Ich dacht, Ehr an dir zu erleben,
+So muß ich dich also weg geben,
+Den ich mit schmertzen thet gebern.
+
+
+
+CHRISTOFFELEIN
+
+sagt.
+
+
+Schweig, Mutter! ich will ein Doctor wern
+Vnd will ein gulden Ring anstecken,
+In dem Händschuch tragen ein schmecken
+Vnd gar balt wider bey dir sein.
+
+
+
+TULIA
+
+sagt.
+
+
+Ach du hertzliebstes Söhnlein mein.
+Steck mir ein Messer in mein hertz!
+So brecht es mir kein solchen schmertz,
+Als jetzt dise dein kluge Red,
+Die mir fürwahr durchs hertz außgeht.
+
+
+
+TIROMENES
+
+sagt.
+
+
+Neulich bin ich ein Wittwer worn,
+Hab mein hertzliebstes Weib verlorn
+Vnd verlier jetzt auch dises Kindt.
+FABIANUS, DAS KNÄBLEIN sagt.
+
+Ey Vatter, vnser gar vil sindt.
+Ein gutes müthlein wöll wir han.
+Geseng dich Gott! ich muß davon
+Vnd will balt wider kommen her.
+
+
+
+OROBES
+
+sagt.
+
+
+O du liebs Kind, das es waar wer!
+Ich wolt dich von Fuß auff neu kleiden.
+
+
+Ach weh! wie schmertzlich thut das scheiden,
+Daß wir sehen an vnsern Kindern,
+Vnd kan es doch kein Mensch verhindern!
+
+
+
+Zu Maria sagt er.
+
+
+
+Nun Marialein, so bhüt dich Gott!
+Hab dir zur letzt das stücklein Brot
+Vnd darzu ein stücklein Leckkuchen!
+
+
+
+MARIALEIN
+
+sagt.
+
+
+Vatterlein, wiltu jhn auch versuchen,
+So will ich dir ein stucklein geben.
+
+
+
+OROBES
+
+sagt.
+
+
+O die red benimmt mir das Leben.
+Wo soll ich nauß? was soll ich thon?
+
+
+
+MARIALEIN
+
+sagt.
+
+
+Vatter, zieh halt mit mir davon!
+So komm wir desto eher wider.
+
+
+
+PARITES
+
+sagt.
+
+
+Ich bin nit frölich worden sieder,
+Mich hat getroffen dises Loß.
+
+
+
+GOTTFRIEDT
+
+sagt.
+
+
+Vatter, mach dir kein trauren groß!
+Fahrn wir doch jetzund nur Spacirn
+In Gartn vnd bringen Öpffl vnd Pirn,
+Singen, Reyen, Tantzn vnd springen.
+Schweig! ich will dir etwas mitbringen
+Vnd will balt wider bey dir sein.
+
+
+
+ATHENOR
+
+sagt.
+
+
+O jhr hertzlieben Kinderlein,
+Ich wolt, daß jhr war hett dißmal,
+So wer dest kurtzer vnser qual;
+Aber ich hab noch nie vernommen,
+Das Kinder wern wieder kommen,
+Die man hat geben zu Tribut.
+
+
+
+THESEUS
+
+sagt.
+
+
+Mit dem macht jhr die Sach nicht gut.
+
+
+Was hilffts, daß jhr lang greint vnd klagt,
+Den Kindern solchs böß dieng fürsagt?
+Die Götter sein noch wol so starck,
+Daß sie von disem Monstro arck
+Erretten dise Kinder zart.
+Wolauff, so last vns auff die fart!
+Das Schiff ist an des Meeres Port
+Zum einsitzen gerüstet dort.
+
+
+
+Die Kinderlein geben jren Eltern allen die Händ vnd gehn in einer ordnung mit dem Theseo davon.
+
+
+
+
+TULIA
+
+sagt.
+
+
+Das ist ein kläglicher abschiedt,
+Dergleichen hab ich gsehen nit.
+O jhr Götter, last euch erbarmen
+Vnser so hoch betrübten armen!
+Kein Mensch mag auff der Erden sein,
+Die gleich leiden vnserer Pein.
+Nun will ich jhm nachfolgen jetzen,
+Sehen, wie sie ins Schieff einsitzen.
+
+
+
+Sie weint vnd gehn alle ab.
+
+
+
+
+MINOTHAURUS
+
+geht ein, sagt zornig.
+
+
+Der König mich vertröstet wol,
+Daß man mir zfressen bringen sol
+Die vierzehen Kinder von Athen,
+Darnach mir Vrigeln die Zeen.
+Hab schier mein augen außgesehen.
+Im werck aber wils nicht geschehen.
+Darumb ich dem König zusag,
+Kommen sie nicht morgen den tag,
+So griff ich an, was ich nun find,
+Es sey ein alts Mensch oder ein Kind,
+Es sey ein Frau oder ein Mann.
+Nit lenger ich Hunger leyden kan,
+Gschweigen, das ich noch solt hie warten
+Dem König seinen Lustgarten.
+Für war, es gfelt mir nit am pasten.
+Mein Bauch ist nicht gewehnt zum fasten,
+
+
+
+
+
+Sonst wer ich ein Kartheyser worn
+Oder kommen sonst zu eim Orn.
+Ich aber muß zu fressen han,
+Denn lenger ich nicht warten kan.
+Holla, holla! bringt zu fressen mir,
+Wolt Leib vnd Leben erretten jhr!
+Holla, fressen her! jhr hört es wol.
+Mein Bauch ist mir gantz lehr vnd hol.
+Ich will gehn hinauß auff die Heid,
+Ob ich darauff findt ein Graßmeidt,
+Die will ich auff gut rechnung fressen.
+Einer BaurnMagdt ist balt vergessen.
+
+
+
+Er geht ab. Areadnea, deß Königs Miri Tochter, geht ein mit Cuba, jhrer Jungkfrau.
+
+
+
+
+AREADNEA
+
+sagt.
+
+
+Ich hab von dem König vernommen,
+Wie in die Insel her sey kommen
+Theseus, der König von Athen,
+Vnd bring die TributKinder schön,
+Sey ein Junger gerader Mann,
+Gar Adelich schön von Person.
+Dem thut man so vil lobs verjehen,
+Daß ich jhn auch gar wol möcht sehen;
+Dann er will die Kinder erlösen
+Von Minothauro, dem bösen
+Monstro; dem wolt ich hilffe thon,
+Daß er den obsieg brecht davon;
+Denn ich weiß nicht, wie mir ist gschehen,
+Hab jhm niemals kennt noch gesehen,
+Iedoch bin ich in Lieb verwundt
+Gegen jhm in meins hertzen grundt,
+Daß ich kaum halb bey sinnen bin.
+
+
+
+CUBA
+
+sagt.
+
+
+Königlichs Fräulein, wo denckt jhr hin?
+Theseus ist verheyrat schon,
+Daß er euch gar nicht werden kan,
+Es geschehe dann in vnehr.
+Daß schadet euren Ehrn sehr.
+
+
+So würd auch eur Herr Vatter mit
+In warheit sein vbel zu fridt,
+Dörfft euch deßhalb nemen das leben.
+Darumb thut euch zu friden geben
+Vnd nemmbt euch vmb jhn gar nit an,
+Als vmb das euch nicht werden kan,
+Daß jhr euch nicht peinigt vergebens!
+
+
+
+AREADNEA
+
+sagt.
+
+
+Er ist die auffenthalt meins Lebens.
+Venus, die schön Göttin der Lieb,
+Würcket in mir in solchem trib,
+Daß ich mich drein ergeben gantz;
+Will ehe alles setzen in dschantz,
+Daß ich nur den Helden erwürb,
+Als dann ich desto lieber stürb.
+
+
+
+CUBA
+
+sagt.
+
+
+Fürwahr es wird nichts guts darauß.
+Darumb schlagt die Gedancken auß!
+Dann er kompt mit den Kindern sein
+Fürwar von ferrn dort zogen rein.
+
+
+
+AREADNEA
+
+sicht sich vmb vnd sagt.
+
+
+Ach schau doch! die Göttlich gstallt
+Ist meines Hertzen auffenthalt.
+O HertzensTrost, du schönes Bildt,
+Allein dein Lieb mein Schmertzen stillt.
+
+
+
+THESEUS
+
+geht ein mit den viertzehen Kindern in ordnung, stellt sie zusammen vnd sagt.
+
+
+Ihr Kinderlein, kniet allhie nider!
+Wir müssen jetzo beten wider,
+Sonst dörfft wir nicht in Garten nein,
+Da so vil Öpffel vnd Birn sein.
+
+
+
+Die Kinderlein knyen nider, heben die Händ auff, beten mehlich vnd solches auß vrsach, daß ich nicht Heydnische Gebett machen mag.
+
+
+
+
+CHRISTOFFELEIN
+
+sagt.
+
+
+O jhr Götter im höchsten Thron,
+
+
+Nembt euch vnser klein Kinder an
+Vnd last vns in den Garten nein,
+Daß wir darinnen lustig sein,
+Tantzen vnd singen einen Reyhen!
+
+
+
+MARIALEIN
+
+sagt.
+
+
+O kein kurtzweil thut mich erfreyen,
+Dann mir ist mein Hertz also schwer.
+Wolt, daß ich wider daheim wer
+Bey der Mutter vnd Brüderlein,
+So wolt ich gar gern frölich sein.
+O jhr Götter, helfft mir darumb,
+Daß ich baldt wider zu Hauß heim kumm!
+
+
+
+THESEUS
+
+sagt.
+
+
+Heüt dise Nacht lag ich im Schlaff.
+Mich ein solches Gesicht betraff,
+Wie daß ich sehe gleich jetzundt
+Deß Königs Tochter, vor mir stund,
+Lehrt mich vnd thet mir Rahtsweiß sagen,
+Wie ich das Monstrum köndt erschlagen.
+Ich will sie alsbaldt reden an,
+Ob mir mein Traum jetzt möcht außgahn.
+
+
+
+Er geht zu jhr vnd sagt.
+
+
+
+Zart Edle Jungkfrau hochgeborn,
+Im Traum ist mir offenbart worn,
+Treu hilff ich bey euch suchen soll,
+Ihr künd vnd werdt mir helffen wol.
+So wolt ich euch gebetten han,
+Daß jhr euch mein wolt nemen an,
+Daß ich den Minothaurum tödt,
+Die Kinder bring auß jhrer nöth.
+Das will ich beschuldten vmb euch,
+Wenn ich komm inn mein Königreich.
+
+
+
+AREADNEA
+
+sagt.
+
+
+Theseus, Edler Junger Höldt,
+Mein Hertz, das hat euch außerwehlt
+Inn rechter wahrer brinnendter Lieb,
+
+
+Derhalb ich raht vnd anweiß gib.
+Erstlich wenn jhr wollt inn Irrgarten
+Vnd angreifen mit starcken harten
+Schlegen den grausam Minothaurum,
+So habt euch diesen Faden drumb,
+Daß jhr jhn anhefft an der Pfordten!
+Nembt das Kneul mit an allen orten!
+Denn der Labrinth hat vmb vnd vmb
+Sehr viel heimblich Winckel vnd krumb.
+Wenn jhr euch drinn verjrren thet,
+Eur Leben jhr verloren hett.
+Darumb so geht dem Faden nach,
+Daß er euch auff den Weg rauß trag,
+Darauff jhr seyt gangen hinein!
+Das würd erstlich von nöthen sein.
+Derhalb habt gut acht auff den Faden!
+
+
+
+THESEUS
+
+sagt.
+
+
+Königlichs Fräulein, diser Gnaden,
+Auch diser Hilff vnd treüen Raht
+Bedanck ich mich; vnd die Wolthat
+Verdien ich, weil ich hab das Leben.
+
+
+
+Er vmbpfächt die Jungfrau.
+
+
+
+
+AREADNEA
+
+sagt.
+
+
+Die Götter wöllen euch Glück geben!
+Man bläst gen Hof: ich muß fortgehn.
+Vnser Lieb bleib ewig bestehn!
+Vnd so jhr kommet auß dem Garten,
+Kompt zu mir, da ich eur will warten!
+Da reden wir von vnser Lieb.
+
+
+
+THESEUS
+
+gibt jhr die Hand vnd sagt.
+
+Dessen ich euch mein Treü hie gib.
+
+
+Areadnea geht mit Cuba ab.
+
+
+
+
+THESEUS
+
+geht zu den Kinderlein, stellt sie zusammen in ein ecken vnd sagt.
+
+
+Steht jhr da in das Eckelein!
+So führ ich euch inn Garten nein.
+
+
+
+Er nimpt das Kneül rohten Faden, heffts an, geht mit 
+inn einem Zirckel rumb. Kompt Minothaurus vnd sagt.
+
+
+
+Der Hunger hat mich hart besessen.
+O hett ich MenschenFleisch zu fressen,
+Wie weydlich wolt ich schrotten drinnen,
+Daß mir Blut übers Maul müst rinnen!
+Marck sampt Gebein wolt ich verschlinden
+Von den Jungen vnd fäisten Kinden.
+Wie ist heüt auß mein Speiß so lang!
+Ich hör dort jemand im eingang.
+Ich mein, man sollt mir zessen bringen
+Lebendige Speiß, so würd mir glingen.
+
+
+
+Theseus macht sein Faden.
+
+
+
+
+MINOTHAURUS
+
+laufft jn an vnd sagt.
+
+
+Wer bist, daß du zu mir gehst ein?
+Sag! willt du auch mein Speise sein?
+Fluchs troll dich oder du must sterben,
+Eines schröcklichen Todts verderben.
+
+
+
+THESEUS
+
+sagt.
+
+
+Mein Minothaure, thu verziehen!
+Ich thet vor nie vor keinem fliehen,
+Derhalb ich vor dir auch nicht fleuch.
+Deines Vnforms Trag ich kein scheuch.
+Ich hab jr vor wol mehr erleget,
+Die mir mit Hochmuth sein begeget.
+Wilt du aber mein Gfangener sein,
+So verschon ich am Leben dein.
+
+
+
+MINOTHAURUS
+
+sagt.
+
+
+Was bringst du für? wo denckst du hin?
+Meinst, daß ich etwan ein Kind bin
+Vnd vor dir solte fürchten mich?
+Lebendig wolt ich fressen dich.
+Ich will dich bringen auß dem garten.
+
+
+
+THESEUS
+
+sagt.
+
+
+Ein jeder Fuchs thu seins Balgs warten!
+O Venus, Göttin, thu mir beystahn,
+Der ich heüt hab mein Opffer than!
+
+
+
+Sie schlagen lang an einander; endlich felt Minothaurus vnd 
+stirbt.
+
+
+
+
+THESEUS
+
+sagt.
+
+
+Nun ist Minothaurus erschlagen
+Vnd hat verschreiben vnd zusagen
+Ein endt, das Athen nimmer thut
+Geben in Creta den Tribut,
+Sonder ist quit, ledig vnd frey
+Von der bschwerlichen Tyranney.
+
+
+
+Er geht zu den Kindern, führt sie hin zu dem Minothauro, weist jhm den vnd sagt.
+
+
+
+Secht da, jhr lieben Kinderlein!
+Der böß man wolt euch allgemein
+Gefressen haben in sein kragen.
+Den bösen Mann hab ich erschlagen.
+Nun wöll wir in den Garten nein,
+Drinn frölich vnd guts muthes sein
+Vnd allerdings kein kurtzweil sparn.
+Morgen wöll wir wider heim fahrn
+Zu vnsern lieben Eltern frumb.
+
+
+
+Die Kinder geben jhm all die Händ.
+
+
+
+
+GOTTFRID
+
+sagt.
+
+
+Wir dancken eurer Gnad darumb,
+Daß jhr eur Königliches Leben
+Für vns arme Kindlein dargeben
+Vnd vns von disem Thier erlöst.
+Deß solt jhr ewig sein getröst.
+
+
+
+Er geht mit jhnen ab. Kompt Egeus, der König, mit Frigio vnd Gemio, setzt sich vnd sagt.
+
+
+
+Ir lieben getreuen, weil jhr wist,
+Daß hefftig schwach vnd todtkranck ist
+Antiopa, mein liebe Schnur,
+Die hat ein Sohn geboren nur
+Mit Theseo in jhrer Ehe:
+Wenn sie jetzt stürb, so geschen vns weh,
+Zu mahl weil er ist nicht zu hauß.
+Doch wird er nicht lang bleiben auß,
+So er anderst ist noch im Leben.
+
+
+
+FRIGIUS
+
+sagt.
+
+
+
+
+Die Götter werden nicht nachgeben,
+Daß sein Gemahl sterb, ehe denn er
+Auß Creta widerumb komm her.
+Solts aber von jhn sein versehen
+Vnd jhrs todtsfalls halb was geschehen,
+So könnt wir nicht darwider sein.
+Sein Sohn ist nun erwachsen fein
+Vnd fast kommen zu sein tagen.
+So müst man nun davon rahtschlagen,
+Wie er ein andern Gemahl nein,
+Von der er mehr Erben bekehm,
+Das daß Reich bey dem Stammen blieb.
+
+
+
+GEMIUS
+
+sagt.
+
+
+Großmechtiger Herr, den Raht ich gib,
+Man mach auff sie kein rechnung mehr.
+Sie stirbt deß Legers, bey meiner ehr,
+Denn jetzo, wie ich gen Hof gieng,
+Groß gschrey daß Gesind im Hauß anfieng
+Vnd gar hefftig zusammen lieffen,
+Sagten, sie hett in die Züeg griffen,
+Daß ich halt, es sey mit jhr auß.
+EGEUS, DER KÖNIG sagt.
+
+Nun, was soll wir dann machen drauß?
+Ist sie dann gestorben, so wöllen wir
+Vns noch weiters berahten schir,
+Daß wir den Sohn was lassen lehrn,
+Was zu dem Regiment thu kern
+Vnd sonst gebürt eins Königs Kindt.
+Ehrlicher Weibsbildt man gnug findt,
+Daß wir vnsern Sohn versehen.
+Doch weil sich die zeit thut hernehen,
+Daß er soll täglich gfahren kommen,
+So secht euch auff der Zinnen vmben,
+Wenn sein Schiff zu vns fehrt herwartz,
+Ob es hab einen Segel schwartz!
+Denn der schwartz Segel, der bedeut,
+Daß er ist vmbkommen im streit;
+
+
+Hat er aber ein Segel weiß,
+So bat er erhalten den Preiß
+Vnd kommt mit ehr vnd Triumph her.
+An dem ist vns gelegen mehr,
+Als an allen dem, was kan sein.
+Darumb kommet mit vns herein
+Vnd last vns warten, biß er kumb,
+Vnd secht euch nach jhm fleissig vmb!
+
+
+
+Abgang. Kompt Cuba, die Kammerfrau, vnd sagt.
+
+
+
+Mir will hie nit gefallen wol.
+Weiß nit, was ich schir sagen sol,
+Das daß Königlich Fräulein
+Bey jhr lest gehn stets auß vnd ein
+Den Theseum in jhrem Gmach,
+Den sie doch vor nie kenndt noch sach.
+Der König weiß noch nicht darumb,
+Daß er auch den Minothaurum
+Durch jhre hülff erschlagen hat.
+Erführens jhre Majestat,
+Fürwar, der Teuffel wird Abbt wern.
+Dort kommt sie; das seh ich gleich gern.
+
+
+
+AREADNEA
+
+geht ein mit Schwangerm Leib, wind die Händ vnd sagt.
+
+
+O du wanckels vnd vntreus Glück,
+Wie beweist mir so grosse Dück,
+Weil mich Theseus hat verlassen
+Mit Schwangerm Leib, dem ich dermassen
+Hab alle Lieb vnd guts gethan,
+Dardurch er diesen streit gewahn!
+O daß ich nur verschieden wer!
+So köm ich auß schand vnd gefehr.
+
+
+
+CUBA
+
+sagt.
+
+
+Königlichs Fräulein, seit wolgemuth!
+Theseus balt wider kommen thut,
+Der euch nicht gar verlassen hat.
+
+
+
+AREADNEA
+
+sagt.
+
+
+
+
+O dein trost kommt mir vil zu spat.
+Der Todt hat mir mein hertz vmbfangen,
+Daß mir all hoffnung ist entgangen.
+Theseum seh ich nimmermehr.
+Ich komm vmb Leben, Gut vnd Ehr.
+Deß will ich gehn, mich selbst erhencken,
+Mein hartsal nit mehr zu gedencken.
+
+
+
+Areadnea laufft eilendt ab.
+
+
+
+
+CUBA
+
+laufft hinnach, kommt balt wider vnd sagt.
+
+
+Ach, ist das nicht Jammer vnd Noth?
+Deß Königs Tochter ist schon todt,
+Hat sich gehenckt vor hertzenleidt.
+Weil Theseus von hinnen scheidt
+Heimlich vnd gar kein vrlab nam,
+Sie in die groß anfechtung kam.
+Ach wehe! wie wird der König than,
+Zu mal wenn man jhm zeiget an,
+Daß Areadnea gschwecht sey,
+Vnd man jhm anzeiget dabey,
+Wie Minothaurus sey erschlagen!
+Ey wie wird er weinen vnd klagen,
+Ehe dann man sie zu Grab thut tragen!
+
+
+
+Abgang.
+
+
+
+
+
+
+
+
+
+6. Akt
+
+
+
+
+Actus sextus.
+
+Kompt Theseus mit seinen vierzehen Kindern vnd sagt.
+
+
+Nun sein wir gfahren biß gen Delum,
+Da wir mit freuden widerumb
+Sein nahend bey dem Vatterland.
+Weil vns die Götter than beystand
+So stellt euch zsammen baar vnd baar!
+Tantzt im Tempel vmb den Altar
+Vnd singt den Göttern ein ReyhenLied,
+Die vns so gnedig haben bhüt!
+Darnach sitz wir auff frölich wider
+Gegen vnsern Heimet nieder,
+Biß daß wir kommen gen Athen!
+Wolauff vnd last es vmbher gehn!
+
+
+
+
+Man bläst den Kindern einen Tantz, sie Tantzen vmb den Altar herumb, darnach hencken sie sich an einander vnd singen einen Reyhen Im Thon: Es steht ein Linden in jenem Thal.
+
+
+1.
+Den Göttern sagen wir Lob vnd Danck,
+Den Göttern sagen wir Lob vnd Danck
+Mit vnser Jungen KinderGesang.
+
+2.
+Die haben erlöst vns Kinder frum,
+Sie haben erlöst vns Kinder frum
+Von dem bösen Minothaurum
+
+3.
+Durch Theseum, den werthen Höldt,
+Durch Theseum, den werthen Höldt,
+Der zu dem Sieg ist außerwehlt.
+
+4.
+Mit den fahren wir gen Athen,
+Mit den fahren wir gen Athen.
+Vnser Eltern wern vns entgegen gehn.
+
+5.
+Ir klagen vnd traurn hat ein endt,
+Ir klagen vnd traurn hat ein endt,
+Wird als in wonn vnd freud gewendt.
+
+6.
+Dieweil ein endt hat der Tribut,
+Dieweil ein endt hat der Tribut,
+Wird erspart vil der Kinder blut.
+
+7.
+Drumb last vns alle frölich sein!
+Drumb last vns alle frölich sein!
+Singt all, jhr lieben Kinderlein!
+
+8.
+O freud euch, lieben Eltern frum!
+O freud euch, lieben Eitern frum!
+Eur Kinderlein kommen widerumb.
+
+
+THESEUS
+
+sagt.
+
+
+
+
+Nun wol! so thut wider ein stehn!
+Gar kürtzlich sein wir zu Athen.
+
+
+
+Abgang jhr aller. Egeus, der König, geht ein mit Frigio vnd Gemio; auch kommen mit jhme Tiromenes, Orobes, Parites vnd Athenor, die vier Athenischen Bürger, Julia vnd Tulia, zwey Athenischer Weiber.
+
+
+
+
+DER KÖNIG
+
+setzt sich vnd sagt.
+
+
+Wir hoffen, daß heüt widerumb
+Vnser Sohn von Creta herkomm.
+Drumb wöll wir nauff auff die höch stahn,
+Daß wir können sehen hindan,
+Ob vnser Sohn auff dem Meer tieff
+Wider heim komm mit seinem Schiff
+Vnd der Segel sey schwartz oder weiß,
+Darauß wir vermercken mit fleiß,
+Ob er hab in disem Kampffstück
+Gehabet vnfall oder Glück.
+FRIGIUS, DER KÖNIGLICH RAHT sagt.
+
+Gnedigster Herr, all Vnterthan,
+Die hie vor eur Majestatt stahn,
+Haben die Götter treulich beten,
+Daß sie Theseo beystand theten
+Mit den befohlenen Kinderlein.
+Hoffen, das Glück werd bey jhn seyn.
+EGEUS, DER KÖNIG sagt.
+
+Wir sehen auff dem Meer herwartz
+Ein Schiff mit einem Segel schwartz.
+Dabey erkennen wir die Noth,
+Daß warhafft vnser Sohn ist todt.
+Deß mögen wir nicht lenger leben.
+Vnsern Geist in dem Meer auffgeben,
+Verlassen hie Gwalt, Gut vnd Ehr
+Vnd nundter springen in das Meer!
+
+
+
+Er springt in das Loch vnter der Prucken.
+
+
+
+
+GEMIUS
+
+sagt.
+
+
+
+
+O weh der vnglückhafften That,
+Daß sich Königliche Majestatt
+Gestürtzt vom Felß vor Angst vnd Noth
+Vnd vermeint, sein Sohn sey Todt!
+Wer weiß, ob dem noch ist also?
+
+
+
+DER EHRNHOLT
+
+geht ein vnd sagt.
+
+
+Ihr lieben Herrn, seydt alle fro!
+Mit frölicher Pottschafft ich kumm.
+Theseus kompt gesundt widerumb,
+Hat erlöset der Kinder Blut
+Von deß Königs in Creta Tribut
+Vnd wird balt sein hie auff dem Saal.
+
+
+
+TIROMENES
+
+sagt.
+
+
+Ach wer verblieben der Vnfal,
+Daß sich der König nicht hett gestürtzt
+Vom Berg vnd an seim Leben kürtzt!
+Wie wollt wir all so frölich sein!
+
+
+
+THESEUS
+
+geht ein mit den Kindern vnd sagt.
+
+
+Sagt, wo ist der Herr Vatter mein?
+Dieweil ich mit meiner Kinder Summ
+Ohn schaden wider gesund her kumm,
+Daß ich mich mit jhr Lieb erfreü.
+
+
+
+FRIGIUS
+
+sagt.
+
+
+Wir dancken Eur Gnaden grosser Treü,
+Die sie dem Vatterland gethan.
+Eur Gnad wir gern gesehen han.
+Dabey können wir nicht verhalten,
+Was sich mit dem Herr König, dem Alten,
+Inn diser Stand hab zugetragen.
+Als jhr Majestatt höret sagen,
+Eur Gnad führ auff dem Wasser her,
+Da wolt solches selbst sehen er.
+Vnd als er das Schiff sah aufwartz,
+Daß es hett einen Segel schwartz,
+Hat er vermeint, Eur Gnad wer todt,
+Sich in solchem Jammer vnd Noth
+
+
+Ins mehr gestürtzt vnd selbst ertrenckt.
+
+
+
+GEMIUS
+
+sagt.
+
+
+Gnediger Herr, euch nicht bekränckt!
+Weils die Götter so haben versehen,
+So hat es also müssen geschehen
+Ohn allen zweiffel zu nutz euch,
+Daß jhr Regent werd in dem Reich.
+Bedenckt, es hab so müssen sein!
+
+
+
+THESEUS
+
+sagt.
+
+
+Ach Gott, die Schuldt ist selber mein,
+Daß ich nicht thet vom Schiff herab
+Den schwartzen Segel vnd darfür hab
+Gespannet auff den Segel weiß,
+Wie mir der König befahl mit fleiß.
+Dasselbig ist vergessen worn.
+Ach, zu vnglück bin ich geborn;
+Dann da zu Dölum wir auffsassen,
+Deß weisen Segels wir vergassen,
+Mit dem schwartzen Segel abfuhrn,
+Weil wir deß Siegs erfreyet wurn
+So hoch, daß mich zu einer Buß
+Mein Leben lang nun reuen muß.
+Abr jhr Athenischen vnterthan
+Solt eure Kindlein wider han.
+Mit den möcht jhr haben eür Freud,
+Euch nichts kehren an vnser Leyd.
+Sonst aber soll die Stadt fürwar
+Nun Leydt tragen ein gantzes Jahr
+Vmb die Königlich Majestatt,
+Die jetzt jhr Leben glassen hat.
+JULIA, DIE ATHENISCH FRAU sagt.
+
+Gnediger Herr, Euer Genad
+Sag wir wegen der kühnen that
+Lob, Ehr vnd Preiß, Glori vnd Danck
+Nach bestem vnser Leben lang.
+
+
+
+Er gibt jhn allen die Hand, so woln auch den Kindern, vnd 
+sagt.
+
+
+
+Nun kompt! last vns den König begraben
+Inn einem gülden Sarg erhaben!
+
+
+
+Theseus geht mit dem Hofgesindt ab, tragen auch den König ab.
+
+
+
+
+TULIA
+
+sagt zu den Kindern.
+
+
+O jhr erlösten Kinder fromm,
+Seyt vns zu tausent mal willkomm
+Von dem Todt wider inns Leben!
+
+
+
+JULIA
+
+sagt.
+
+
+Wir hetten vns schon drein ergeben,
+Eur keines nimmermehr zu sehen;
+Meinten, es wer vmb euch geschehen.
+Doch spüren wir in disem Stück
+Der Götter vns gegündtes Glück.
+
+
+
+TIROMENES
+
+sagt.
+
+
+O Fabian, mein liebes Kind,
+Den allerliebsten Schatz ich find,
+Dieweil du noch bey Leben bist.
+O sag nun, wie dirs gangen ist,
+Dieweil du auß gwest bist von mir!
+FABIAN, DAS KIND sagt.
+
+Ich kans nicht alles sagen dir,
+Aber wir seind im Garten gwesen,
+Haben Öpffel vnd Birn auffgelesen
+Vnd haben einen Reyen gsungen,
+Auch darzu tantzet vnd gesprungen
+Vnd gar ein gutes Müthlein ghabt.
+
+
+
+MARIALEIN
+
+sagt.
+
+
+Der KindleinFresser wolt vns haben erdabt:
+So hat jhn der König erschlagen.
+
+
+
+OROBES
+
+sagt.
+
+
+Du kanst wol von Kinderfressen sagen.
+Den Göttern thu ich wol verjehen,
+Daß es dennoch ist nicht geschehen.
+
+
+Ach soll eim das nicht gehn zu Hertzen?
+
+
+
+PARITES
+
+sagt.
+
+
+Wir wollen vergessen Leyds vnd Schmertzen
+Vnd jetzt mit vnsern Kinderlein
+Nun guter Ding vnd frölich sein,
+Den Göttern vnser Opffer bringen
+Vnd jhnen ein schöns Danckliedt singen.
+
+
+
+Sie singen, was sich zu der Matery reümbt vnd sie lernen können.
+
+
+
+
+ATHENOR
+
+sagt.
+
+
+Ihr Kinderlein, thut euch erfreüen!
+Singt oder Tantzet einen Reyhen!
+
+
+
+Also mögen die Kinder Tantzen oder singen; darnach geben sie die Händ alle einander.
+
+
+
+
+MARIA
+
+sagt.
+
+
+Ey liebe Mutter, wie sein wir
+Der Welt ein end gewesen schir!
+Ich fuhr wegk vnd west nicht, wohin.
+Ich weiß nicht, wo ich gwesen bin,
+Also gar hart ward ich erschrocken.
+Du reüest mich vnd auch mein Docken,
+Die ich allhie verlassen thet.
+Kein grösser freud auff Erd ich hett,
+Als das ich wider heim solt fahrn.
+O Mutter, thu kein Gelt nicht sparn!
+Wastu hast, thu dem Herrn geben,
+Der vns erhalten hat bey Leben,
+Vns, die vierzehen Kinderlein,
+Daß wir wider heim kommen sein.
+
+
+
+TIROMENES
+
+sagt.
+
+
+Vnser Freud ist groß vberauß.
+Nun kommt! geht all mit mir zu hauß
+Vnd Esset mit mir zu Mittag!
+Last fallen all schrecken vnd klag,
+Denn vnser Kinder wahren todt,
+Leben jetzt wider ohne noth,
+Ja sie sein auch schon gwest verlorn
+Vnd sein wider gefunden worn.
+
+
+Deß sollen wir sein vnverzagt
+Vnd als vergessen, das vns plagt.
+
+
+
+Sie gehn alle ab. Kompt Hipolitus, Königs Thesei Sohn, vnd sagt.
+
+
+
+Ach wie ists ein dieng in der Welt!
+Wenn einer schon hat gut vnd Gelt,
+Grosen Namen, Würd vnd groß Ehr,
+Hat er sich doch zu fürchten sehr
+Vor allerley Vnglück vnd gfahr.
+Wer meint, er hab es alles gar,
+Dem kommt in einem augenblick
+Vber zwergsfelt wol ein Vnglück,
+Daß er ist alles guten beraubt,
+Auch selbst nicht anderst weiß vnd glaubt,
+Denn das er der vnseeligst sey.
+Vnd ich selbst bin der meinung frey,
+Dann mein Matter in kurtzer frist
+Deß zeitlichen todts gstorben ist;
+Mein Anherr sich selbst hat ertrenckt,
+Vnbsunnen in dem Meer versenckt;
+Mein Vatter ist wol König worn
+Vnd ich sein einiger Son geborn,
+Doch so bin ich der Gemahl sein,
+Phedea, der Stiffmutter mein,
+Wenn ichs dörfft sagen, nicht sehr holt
+Vnd ja vil lieber wünschen wolt,
+Mein Herr Vatter hett sie nie gnommen.
+Mit jhr werd ich in vnglück kommen,
+Weil ich mit warheit gerne sprech,
+Sie wer meim Vatter zu gail vnd frech.
+Potz dort kommt selbst der König her:
+Ich wolt, das ich von dannen wer.
+
+
+
+THESEUS
+
+geht gekrönet ein vnd sagt.
+
+Ach Son, was machstu hie allein?
+
+
+HIPOLITUS
+
+sagt.
+
+
+Ich beklag die Frau Mutter mein,
+
+
+Die treu vnd Ehrnvest wie Stahl.
+
+
+
+THESEUS
+
+sagt.
+
+
+Ja Antiopa, vnser Gemahl,
+Reut vns gar hart vber die massen;
+Doch weil sie vns jetzt hat verlassen,
+Sein wir erfreuet widerumb.
+Auff dich fellt vnser Königthumb,
+Wenn wir eins mals mit todt abgehn.
+Auch thut vns nicht vbel anstehn
+Phedea, die vns gar freundlich ist,
+Der du auch lieb vnd angnemb bist
+Vnd dich helt gar ehrlich vnd wol,
+Dessen sie billich gniessen sol.
+Nun wir wollen nauß in Thiergarten,
+Darinnen vnsers Gmahls erwarten.
+
+
+
+Der König geht ab.
+
+
+
+
+HIPOLITUS
+
+sagt.
+
+
+O wenn mein Mund jetzt reden dörfft!
+Der Königin Zungen ist gescherfft
+So spitzig scharff wie ein Angel.
+Der König erkennt nit sein mangel.
+Die Königin stecket vntreu vol.
+O wie wolt ichs jhm sagen wol!
+O Venus, du Göttin der Lieb,
+Wie hastu so ein harten trib!
+Die Königin vnd Stieffmutter mein
+Ist voll in brunst vnd Lieb vnrein
+Gegen mir vnd achtet nit sehr
+Deß Königs hochheit noch jhr ehr.
+Sie will auch nicht dencken daran,
+Daß sie vom König tregt die Kron.
+Doch thut sie das in die schantz geben,
+Wenn sie beköhm schendlich zu leben.
+
+
+
+Er geht ab. Kompt Phedea, die Jung Königin, vnd sagt.
+
+
+
+Ach wie hat mit der Lieben schmertz
+
+
+Hipolitus verwundt mein hertz,
+So mechtig vnd so hart gefangen,
+Als er in Thirgarten gangen
+So züchtig, Tugentsam vnd Adelich,
+Mit wort vnd geberten vndatelich,
+Daß ich mich nicht enthalten kan,
+Mein Lieb muß ich jhm zeigen an
+Durch Schrifft; wo ich die nicht erwürb,
+Vor Lieb ich elendiglich stirb.
+Ach dort tritt er gleich von ferrne her.
+
+
+
+HIPOLITUS
+
+geht ein, sicht niemand vnd sagt.
+
+Es kommt mich warlich an gar schwer.
+
+
+PHEDEA
+
+fehrt herfür, er erschrickt vnd sie sagt.
+
+
+O Hipolite, erbarm dich mein!
+Laß dir mein hertzLieb angenem sein!
+Mach mir dein hertz in Lieb auch offen,
+Wie ich hertzlich zu dir thu hoffen,
+Daß ich nicht in Vnmuth vergehe!
+
+
+
+HIPOLITUS
+
+sagt.
+
+
+Wie wolt jhr so brechen die Ehe
+An dem König, Herr Vatter mein?
+Da wollen all Götter vor sein,
+Daß mir dergleich in Sinn nit käm,
+Gschweigen, daß ich michs vnternehm!
+Ir solt euch schemen in eur hertz!
+
+
+
+PHEDEA
+
+sagt.
+
+
+Du meinst villeicht, es sey mein schertz
+Vnd ich wöll dich versuchn damit.
+Bey meinem Eydt, daß thu ich nit
+Es ist mein Ernst, glaub mir allein!
+
+
+
+HIPOLITUS
+
+sagt.
+
+
+Ach solt ich dem Herr Vatter mein
+Dieblich sein Ehr vnd treü verletzen?
+Wolt mich Ehe auff ein Kutschen setzen
+Vnd willig fahren ins Elendt,
+
+
+Verlassen Landt vnd Regiment,
+Oder wolt gar darob ersterben.
+Derhalb steht ab von eurm werben
+Vnd last fort vnbekümmert mich!
+
+
+
+PHEDEA
+
+reist jhr Kron vom kopff vnd sagt.
+
+
+So schrey ich das mordgschrey vber dich.
+O retio, O mordio!
+Helfft mir von dem notzwenger da!
+
+
+
+Hipolitus laufft eylend ab, lest das schwerdt fallen. Theseus, der König, mit Frigio vnd Gemio lauffen ein.
+
+
+
+
+THESEUS
+
+sagt.
+
+
+Phedea, wer hat euch leidts gethan,
+Daß jhr vns vmb hilff schreiet an?
+
+
+
+Sie schweigt.
+
+
+
+
+THESEUS
+
+sagt.
+
+Schweigt nit! zeigt an! was ist euch gschehen?
+
+
+PHEDEA
+
+sagt.
+
+
+Ach soll ich mich so lassen schmehen?
+Hipolitus der hat mich wöllen
+Notzwingen vnd an Ehr fellen.
+
+
+
+THESEUS
+
+sagt.
+
+Wer hats gethan? balt sagt mirs! wer?
+
+
+PHEDEA
+
+sagt.
+
+Hipolitus hats thon, ja Er.
+
+
+THESEUS
+
+sagt.
+
+
+Eylt halt disem Notzwinger nach!
+Schafft, das man jhn balt eylend fach!
+Sey wo er wöll, so muß er eben
+Deßhalben verlieren sein Leben.
+
+
+
+Frigius vnd Gemius lauffen alle beede eylend ab.
+
+
+
+THESEUS, DER KÖNIG sagt.
+
+Hertzlieber Gemahl, gehabt euch wol!
+Die schmach gerochen werden soll
+Vnd soll mit grossem ernst geschehen.
+
+
+
+PHEDEA
+
+sagt.
+
+
+
+
+Vor scham mag ich niemandt ansehen,
+Weil mir ist gschehen dise schmach,
+Biß darauff folg ein strenge Rach.
+
+
+
+Frigius vnd Gemius tragen Hipoliti Hut vnd Händschuch.
+
+
+
+
+GEMIUS
+
+sagt.
+
+
+Herr König, wir bringen böse Mehr,
+Dann auff eim Rollwagen ist Er
+Hipolitus ans Meergestatt
+Eylend gefahren, wie vns hat
+Ein Hirt warhafft gezeiget an;
+Da seint am gstatt deß Meeresplan
+Die Meerkelber an der Sonnen glegen,
+Wie sie zu Mittagszeiten pflegen
+Zu schlaffen, wie der Hirt thet sagen,
+Vnd als sie gehört das prasseln am Wagen,
+Sein sie gesprangen in das Meer,
+Damit erschrecket also sehr,
+Daß die Pferdt sein worden gar schich
+Vnd geloffen vnsinniglich
+Mit groser macht, springen vnd schnauden
+Vber die stöck vnd durch die stauden.
+Da ist in disem Rumor allen
+Hipolitus vom Wagen gfallen
+Vnd behangen an eim Leidseil,
+Daß er zu seim grossen Vnheil
+Von Pferden ist zu stücken griessen.
+Vnd sollen euer Majestät wissen,
+Daß sein Leib aller stückweiß leidt
+Hin vnd wider auff der straß zerstreüt.
+Zum warzeichen ist da sein Hut
+Vnd Händschuch als besprengt mit Blut.
+Also hat er sein geist auffgeben.
+
+
+
+THESEUS
+
+sagt.
+
+
+Mann hett jhm sonst gnommen sein Leben,
+Wie ers vmb vns verdienet hat.
+
+
+
+PHEDEA
+
+schlegt die Händ ob dem kopff zusammen, schreit 
+kläglich vnd sagt.
+
+
+Ach er ist vnschuldig der that.
+O frommer Jüngling Hipolitus,
+Die warheit ich bekennen muß.
+Vnzucht hab ich jhm gmutet an,
+Aber er hats nit wollen than,
+Ist gewichen disem bösen Stück
+Vnd kommen in das groß Vnglück
+Vnd die Schuldt ist nur alle mein.
+Drumb will ich mit dem Schwerdte sein
+Mir selbst mein verdienten Lohn geben,
+Weil ich nicht mehr an jhn mag leben.
+
+
+
+Phedea fellt in deß Hipoliti Schwert, so er da ligen lassen.
+
+
+
+
+THESEUS
+
+sagt kläglich.
+
+
+Ihr Götter, wie kompt der Vnfal
+Inn zweyen Stücken auff einmal,
+Daß wir mit schänden vnd mit schaden
+Werden auff disen Tag beladen,
+Daß vnser Sohn stirbt vmb vnschult,
+Weil er nicht wolt der Königin Hult,
+Sonder hat geliebet Ehr vnd Zucht,
+Drob ins Eilend gnommen die Flucht
+Vnd drob so ellendig verdorben,
+Eines schrecklichen Todts gestorben;
+Zum andern daß vnser Gemahl erkorn
+An vns ist so Ehebrüchig worn,
+Hat treiben wöllen Bulerey
+Mit vnserm Sohn ohn alle scheü
+Vnd jhn darzu heimblich geübt,
+Auch weil sie jhn so Hertzlich gliebt
+Vnd doch sein nicht mögen geniessen,
+Seiner Ewig endbern müssen,
+Hat sie sich selbst kläglich erstochen
+Vnd jhr Vntreu an jhr selbst grochen!
+Deß ist betrübet vnser Hertz
+Mit grosser Kümmernuß vnd Schmertz,
+Daß wir das Königlich Regiment
+
+
+Ein Zeitlang legen auß der Händ,
+Biß sich das Vnglück von vns wend.
+
+
+
+Abgang.
+
+
+
+
+
+
+
+
+
+7. Akt
+
+
+
+
+Actus septimus.
+
+MEDEA
+
+geht ein mit Lucifer, jrem geist, vnd sagt.
+
+
+Hör, Lucifer, Höllischer Geist,
+Der du vil zukünfftigs dings weist!
+Egeus hat ins Meer sich gstürtzt,
+Ihm selbst sein Leben abgekürtzt,
+Vmb das er mich vertreiben thet,
+Daß ich das Giffttranck gemacht hett,
+Zu vergeben seim Sohn damit.
+Dennoch hab ich jhm glogen nit
+Vnd es ist gleichwol darzu kommen,
+Daß er jhm hat das Leben gnommen,
+Weil er fuhr auß Cretenserland,
+Den weisen Segel nit auffspant.
+Nun so will ich nicht lassen ab,
+Biß ich alles getödet hab,
+Was kompt von disem König her,
+Daß sein Stamm außgerottet wer,
+Will auch die Sach noch dahin bringen,
+Daß die Burger den König zwingen,
+Daß sie jhn in das Elend treiben.
+Darinn soll er sein Lebtag bleiben.
+Als dann ich wol gerochen bin.
+
+
+
+LUCIFER
+
+sagt.
+
+
+Medea, du hast gar mein Sinn.
+Zum verderben steht all mein Freud.
+Ich nemb ein Kreutzer auff mein Eyd
+Vnd mach Hagel, Blitz vnd Dunder,
+Daß heut die gantze Welt gieng vnter,
+Wenn mirs nur Gott wolte nachgeben.
+Kein Menschen wolt ich lassen leben.
+Drumb will ich dir stehn treülich bey,
+Den König in der Hurerey
+
+
+Reitzen auffs best, als ich nur mag,
+Daß er Tyrannisch hauß darnach,
+Daß man hinder jhm nicht kan bleiben.
+Die Vnterthanen will ich treiben,
+Daß sie jhm gar auffrührisch wern
+Vnd eines andern Königs begern
+Zuversichtlich, daß sie all sander
+Noch selbst erwürgen aneinander,
+Damit der König komm vom Brodt.
+
+
+
+MEDEA
+
+sagt.
+
+
+Er wer mir am allerliebsten todt.
+Weil er die Vrsach ist allein,
+Daß ich must von dem Vatter sein,
+Mach ich in seim Land zanck vnd streit,
+Daß durch solche Vneinigkeit
+Werden zerstört vil Leut vnd Land,
+Wie vns vil Histori bekannt.
+Wenn ich mich als dann hab gerochen,
+Sein junges Leben jhm gebrochen,
+So will ich desto lieber sterben,
+Mit jhm vntergehn vnd verderben.
+
+
+
+Sie gehn ab. Tiromenes, Orobes, Parites vnd Athenor, die vier Athenischen Burger, gehn gerüst ein.
+
+
+
+
+TIROMENES
+
+sagt.
+
+
+Ach wie hat doch so gar schändlich
+Vnser König verkehret sich,
+Der sich vor wol hielt alle zeit,
+Liebt vnd handhabt Gerechtigkeit
+Vnd halff ob dem gemeinen nutz,
+Gab Reichen vnd Armen gleichen schutz!
+Ietzund hat er darauff kein acht,
+Vil vnnötiger auffsetz macht,
+Damit er die Gemein beschwerdt,
+Die sein derhalb nit mehr begert
+Zu eim König im Regiment.
+
+
+
+OROBES
+
+sagt.
+
+
+Sein hertz das hat er gar verwendt.
+
+
+Im gantzen Land hat er kein trauen,
+Denn er schend Weiber vnd Jungfrauen
+Den grossen Herrn, der ich vil kenn,
+Der ich den wengsten theil nur nenn,
+Anaxonam vnd Perhiboam,
+Lopia vnd Egla mit Nam
+Geschwecht vnd heimlich hingeführt,
+Daß keinem frommen König gebürt.
+Solcher vnzucht er stehts nachgeht,
+Daß auch keim frommen Mann ansteht.
+Weil er sich der schand nicht thut schemen
+Vnd ein Vnglück drob wird einnemen,
+So mag er jhms dann billig haben,
+Als das er jhm selbst hat gegraben,
+Vnd die Götter haben jhms verhengt.
+
+
+
+PARITES
+
+sagt.
+
+
+Vil vnnötiger Krieg er anfengt,
+Hilfft auch zu Krieg wol andern Leüten
+Vnd offt auff der vngrechten seyten.
+Vnnützer Zanck jhn hoch erfreüt,
+Acht weder seiner Landt noch Leüt.
+Derhalb wird das Königreich Athen
+Seins Regiments halb vntergehn
+Vnd wird in kurtzen zeiten gschehen.
+
+
+
+ATHENOR
+
+sagt.
+
+
+So muß man jhm nit lang zusehen,
+Auch jhm hierinnen nicht vertrauen;
+Sonder die Burgerschafft muß schauen,
+Daß sie doch ein solches abschaff
+Oder mit ernst den König straff,
+Vnd zusamm schweren einen Bundt.
+
+
+
+TIROMENES
+
+sagt.
+
+
+Vmb zwey vhr sey benendt die stundt,
+Darinnen wir wollen Rahtschlagen
+Vnd als dann dem König lassen sagen,
+Will er der beschwerung nicht abstehn,
+
+
+Wöll wir darzu wol nöten den
+Vnd jhn gar schlagen auß dem Landt.
+Wer das thun will, geb mir sein Handt.
+
+
+
+Sie globen alle aneinander an vnd gehn damit ab. Kompt Licometes, der König, mit Laco, dem Marschalt, vnnd Taco, dem Cantzler, setzt sich vnd sagt.
+
+
+
+Ir lieben getreuen, wie mag das kommen?
+Von Theseo hab wir vernommen,
+Vnserm Freund, König zu Athen,
+Wie es jhm soll gar übel gehn,
+Wie das jhn seine Vnderthonen
+Nit ferner bey jhn lassen wohnen,
+Sich auff das allerhefftigst wehrn,
+Wollen ehe die gantz Stadt vmbkern,
+Alß jhm ferner gehorsam sein.
+Nun hat er je die gantz Gemein
+Erlöst von dem schweren Tribut.
+Nicht wieß wir, was das machen thut,
+Daß er jetzt kompt in das Vnglück.
+LACUS, DER MARSCHALT sagt.
+
+Die Götter stehn jhm gar zu rück,
+Haben jm sein ersten Gmahl gnommen,
+Sein Sohn ist jhm übel vmbkommen,
+Sein Vatter sich selbst hat ertrenckt,
+Erseüfft vnd in dem Meer versenckt,
+Sein anders Weib hat sich erstochen.
+Darauff hat der König gesprochen,
+Daß er wöll legen auß der Hendt
+Daß gantz Königlich Regiment,
+Nemb sich deß nicht mehr an durchauß.
+Wie aber die Bäht halten Hauß,
+Davon kan ich nicht sagen vil.
+TACUS, DER CANTZLER sagt.
+
+Mein einfalt ich ansagen will.
+Fellt der Wagen, so sagt man schir,
+Es sein daran der Rehder vier.
+
+
+Iederman wills zum ergsten deüten.
+Wer wolt jetzt recht thun allen Leüten?
+Die Welt ist so arg vnd verkehrt:
+Wer sie ehrlich helt vnd hoch ehrt,
+Dem thut sie alles böß dargegen,
+Alles auffs ergst vnd übelst außlegen,
+Da man doch von dem König weiß,
+Daß er balt in der ersten Reiß
+Hat sauber gmacht strassen vnd Landt
+Vnd von des Minothauri handt
+Erlöset die TributKinder,
+Auch sonst vil guts than nichts dest minder,
+Daß er nicht ist zu werffen hin.
+Derhalben ich der meinung bin,
+Wenn er anrufft eur Majestat,
+Daß sie jhm geb beystand vnd raht,
+Dann er ist dessen gar wol wehrt,
+Vmb sonst ers auch gar nicht begert;
+Dann ich weiß vnd kenn sein gemüt.
+
+
+
+KÖNIG LICOMETES
+
+sagt.
+
+
+Er ist vns gefreundt vom geblüt,
+Darumb wir jhm billig beystahn,
+Dann er hat vns auch gnug gethan.
+
+
+
+Sie gehn alle ab. Kompt König Theseus gerüst mit Frigio vnd andern zweyen gerüsten Personen vnd sagt.
+
+
+
+Ir lieben getreuen, wir all gemein
+Müssen in vnserer warnung sein.
+Die Burgerschafft zwispeltig ist,
+Kompt her auff der Pollanten list,
+Die vns hart streben nach dem Reich.
+An der Geburt sein sie vns gleich.
+Müß wir vns förchten einer auffruhr.
+
+
+
+FRIGIUS
+
+sagt.
+
+
+Ja das ist zu besorgen nur,
+Wir werden heimlich von jhn allen
+Etwan eines mals vberfallen
+
+
+Mit vngestümm bey finster nacht
+Vnd alle zu Hof vmbgebracht.
+Derhalb ist vns not fürzusehen,
+Dann der gleich ist wol mehr geschehen
+Vnd mag sich solches noch begeben.
+Doch wöllen wir all Leib vnd Leben
+Bey eur Majestat setzen zu.
+
+
+
+GEMIUS
+
+laufft gerüst ein vnd sagt.
+
+
+O weh, weh, jammer vnd vnruh!
+Herr König, auffruhr, auffruhr, auffruhr!
+Die Burgerschaft ist mit vnfuhr
+Beysam im Harnisch auff dem platz
+Versamlet gleich mit trutz vnd tratz.
+Nicht weiß ich, was da wird geschehen.
+Darumb mögt jhr euch wol fürsehen.
+
+
+
+TIROMENES
+
+laufft mit den Burgern Orobes, Parites vnd Athenor gerüst ein vnd sagt.
+
+
+O Lermen, Lermen, her, her, her!
+Die Regierung ghört vns nunmehr.
+
+
+
+Sie schlagen lang aneinander, biß der König die flucht gibt.
+
+
+
+
+PARITES
+
+schreyet.
+
+
+Balt raumet vns die Statt Athen!
+Thut deß Regiments müssig stehn!
+Was Hofgsinds wir ergreiffen eben,
+Daß muß als verlieren das Leben.
+
+
+
+Die Burger gehn ab.
+
+
+
+
+THESEUS
+
+geht ein mit seinem Gesind vnd sagt kläglich.
+
+
+Nun sein wir von Athen vertrieben,
+Die vns zuvor hoch theten lieben,
+Den wir auch vil guts haben than,
+Biß sich vnglück bey vns fieng an.
+Nun wolt wir sie gern bekriegen.
+So thun jetzund in der Statt liegen
+Die Zingarischen, welche gmein
+All so fürtrefflich Kriegsleut sein,
+Die vns darzu sein spinnenfeindt,
+
+
+Darauß dann offenbar erscheint,
+Daß wir an Athen in dem Krieg
+Erlangen mögen keinen Sieg.
+Drumb woll wir zu Licomedi,
+Dem König, der verließ vns nie;
+Dem wollen wir vnbeschwerlich sein,
+Biß Glück wider kehrt zu vns ein.
+
+
+
+Abgang. Tiromenes, Orobes, Parites vnd Athenor, die Athenischen Burger, gehn ein.
+
+
+
+
+TIROMENES
+
+sagt.
+
+
+Also ist nun vnser Statt frey
+Von vnsers Königs Tyranney,
+Daß vnser Töchter vnd Weiber
+Vor diesem aller boßheit treiber
+Vnd wir auch selbst gesichert sein.
+In dem anfang hielt er sich fein,
+Fieng an ein Löblichs Regiment.
+Darnach hat er sich vmbgewendt,
+Wie einer vmbkehrt eine Hand,
+Ist worden all Königen ein schand,
+Als zu dem ergsten gwendet nur,
+Vns vrsach geben zur auffruhr,
+Die wir doch lieber gwesen wern
+Sein gehorsame Burger gern,
+Wenn er jhm selbst wer gwest vor schaden.
+
+
+
+OROBES
+
+sagt.
+
+
+Mit vil Neurung war wir beladen,
+Die all waren vnnütz ohn noth.
+Vnd wer solt nicht lieber sein todt,
+Als solche Neurung müssen tragen,
+Davon das Kind auch west zu sagen,
+Wenns theten spilen auff der Gassen,
+Wer hat jhn nur verführt dermassen,
+Daß er sich so gar hat verwendt?
+
+
+
+PARITES
+
+sagt.
+
+
+Seine Räht daran schuldig send,
+Die jhm als übel recht hiessen,
+
+
+Sein schand jhn wol gfallen liessen
+Vnd wahrn lauter Fuchsschwentzer, secht!
+Gaben dem König allezeit recht
+Von der bstallung vnd Bauchfill wegen.
+Es ist warlich vil dran gelegen,
+Daß man mit worten die Regenten
+Thu von bösen zu guten wenden,
+Zeig jhn an jhr gebrechlichkeit,
+Iedoch mit guter bscheidenheit.
+Daß kompt dem gantzen Land zu gut.
+
+
+
+ATHENOR
+
+sagt.
+
+
+Vnser König sich halten thut
+Bey Lycomede, dem König reich,
+Der ist an Tugent jhm vngleich.
+Wird jhn derselb recht können lehrn,
+Würd er jhn gwiß nicht hoch verehrn,
+Sonder gar balten von sich stossen,
+Sich sein als eines schandflecks mossen,
+Denn er traut zwar vorhin nit wol.
+So ist Theseus auch vntreu vol.
+Sie werden sich nicht zusamm schicken.
+
+
+
+TIROMENES
+
+sagt.
+
+
+Fürwahr, vns thets hierinnen glücken,
+Daß wir jhn von hinn theten treiben.
+Sein leben lang muß er drauß bleiben.
+Darumb so wer diß auch mein Raht,
+Daß Mann fleissig bewahr die Statt
+Vnd ließ kein Menschen von den sein
+Weder auß der Statt noch herein.
+Auch so erbrech mann alle Brieff!
+Vnd wo man ein Potten ergrieff,
+Der Brieff wolt in die Statt rein tragen,
+Den ließ man in die Eissen schlagen,
+Damit wir vor jhm in ruh blieben,
+Kein falsch Practica wird getrieben,
+Biß der König sein Leben endt.
+
+
+
+OROBES
+
+sagt.
+
+
+
+
+Diser meinung wir allsampt sendt.
+Kommt rein! darinnen wir dann wöllen,
+Wie jhr habt gsagt, all sach bestellen.
+
+
+
+Abgang. Kompt der König Licometes mit Laco vnd Taco, seinen Rähten, vnd sagt.
+
+
+
+Wie gefellt euch König Theseus,
+Der leichtfertig ohn kümmernuß
+Lebt leichtsinnig, ist doch vertrieben
+Vnd biß daher verjaget blieben?
+Er muß haben ein leichten muth,
+Daß er so gar schlecht achten thut
+Den verlust seines Regiments,
+Als die vrsach alles elendts,
+Die er muß tragen biß in todt.
+Ey solt er nit bedencken den spot,
+Der jhm ist an sein Ehrn gschehen,
+Dahin bedacht sein vnd zu sehen,
+Wie er würd wider gesetzet ein?
+Derhalb wir sein schier vrdritz sein
+Vnd machen vns gedancken darab,
+Mann jhn billig vertrieben hab
+Von seiner würd vnd Majestat.
+LACUS, DER MARSCHALT sagt.
+
+Großmechtiger König, es wer mein Raht,
+Daß sich eur Gnad fürsehen thet.
+Theseus ist listig vnd beredt
+Vnd heüchelt dem gemeinen Mann,
+Bey dem er balt könnt richten an
+Wider eur Reich durch schmeichelley
+Ein heimliche verrähterey,
+Daß eur Majestät durch auffruhr
+Würd außgetrieben mit vnfuhr
+Vnd durch sein arglistigen Raht
+Sich König machet an eur stadt.
+Daß merck eur Gnad! ich treib kein schertz.
+TACUS, DER CANTZLER sagt.
+
+
+
+Zu jhm hab ich fürwar kein hertz,
+Denn ein solcher vertribener Mann,
+Wenn er auch wer kein König schon,
+Solt sein zustandt zu hertzen nemen,
+Sich hefftig scheuen vnd drob schemen,
+So treibt er sein glechter vnd gspöt,
+Als wenn ers wol getroffen hett,
+Vnd das er, welchs wol ärger ist,
+Stecket so gar vol arger list.
+Er feyret nicht mit sein gedancken,
+Ist einrüssig, thut gern zancken
+Vnd ist ein gar Wehrhaffter Höldt,
+Dem Krieg vnd Kämpften wol gefellt.
+Derhalb eur Majestat sich hüt!
+
+
+
+KÖNIG LICOMETES
+
+sagt.
+
+
+Ir habt vns gleich vnser gemüth
+Auß Lieb verkehrt in Neid vnd Haß.
+So wir der Sach nachdencken baß,
+So hat Theseus durch seine dück
+Erpracticirt vil böser stück
+Vnd verkehrt sein Löbliche Tugent,
+Welche er pflag in seiner Jugent,
+Deß Königs Miri Tochter schon,
+Die jhm hett alles guts gethon,
+Geschwengert vnd zu schanden gmacht,
+Sein glüb vnd treu wenig betracht,
+Sonder heimlich davon gezogen,
+Sie schändtlich angsetzt vnd betrogen,
+Daß sie sich selber hat erhenckt.
+Solches groß laster vns selbst bekrenckt,
+Daß wir darob haben ein grauß,
+Zu schaffen jhn zum Land hinauß.
+
+
+
+LACUS
+
+sagt.
+
+
+Es folg mir nur eur Majestat
+Vnd führt Theseum abendts spat
+Auff den Felß, eur Landschafft zu schauen,
+Als in Freundschafft grossen vertrauen!
+
+
+So er kommt auff den Berge hoch
+Vnd auff deß schmalen Felsen loch,
+In hinunter in das Meer stürtzet,
+Damit sein Leben jhm abkürtzet!
+Daß ist besser, als das verweissen.
+Ein toder Mann kan niemand beissen
+Vnd kommt man sein still ab mit ehrn.
+LICOMETES, DER KÖNIG sagt.
+
+Dein treuen raht theten wir hörn.
+Demselben wöll wir kommen nach.
+Doch schweiget still zu diser Sach!
+
+
+
+THESEUS
+
+geht allein ein vnd sagt.
+
+
+Ich hab heut ghabt ein schweres gsicht.
+Was das bedeut, das weiß ich nicht.
+
+
+
+Zum König Licometi sagt er.
+
+
+
+Herr König, es wer mein beger,
+Wenns eur Lieb nicht beschwerlich wer,
+Mit mir auff die Burg zu spacirn,
+Ob ich den Lufft da möcht mutirn,
+Weil mir ein schweres gsicht kam für,
+Davon ich heut Melanculir,
+Ob ich mich dessen möcht entladen.
+
+
+
+LICOMETES
+
+sagt.
+
+
+Ja wol, es kan eur Lieb nit schaden.
+Auch so zeig wir euch auff dem Berg
+Vnser Landschafft nach leng vnd zwerg.
+Nun macht euch auff! so Reiß wir gschwindt
+Mit allem vnserm Hofgesindt.
+
+
+
+Abgang jhr aller.
+
+
+
+GEMIUS, DESS THESEI RAHT VND HOFMEISTER geht ein vnd sagt.
+
+Ach wie wird boßheit vnd vntreu
+Auff diser Welt täglich so neu!
+Fürwar sie nimmt zusehens zu,
+Daß ich jetzt dabey spüren thu.
+Dann meim König muß ich verjehen,
+
+
+Hat sich alls Liebs vnd guts versehen
+Zu dem König in seiner noth.
+So hat er jhn geworffen todt,
+Daß er ist von dem Felß abgfallen,
+Im Meer ertruncken vor vns allen.
+Ach wie oft hub er auff sein Händt
+Vnd schrye gar kläglich vor seim endt
+Vmb hülff! doch ward vmbsonst als gelffen,
+Dann vnser keiner möcht jhm helffen,
+Auß dem vngestümmen Meer zu kommen,
+Vnd hat darinn sein Endt genommen,
+Durch solche vntreu vberladen.
+Die Götter wollen jhn begnaden
+Vnd an Licometi, dem frechen,
+Solch vntreu vnd Mordstück balt rechen!
+Nun kommt das Athenische Reich
+Von disem Gschlecht vnd kriegens gleich,
+Die so lang darnach haben tracht,
+Meinem König vil vnruh gemacht,
+Daß jhm doch kein Mensch hett gedacht.
+
+
+
+Abgang.
+
+
+
+
+
+
+
+
+
+8. Akt
+
+
+
+
+Actus octavus.
+
+Kompt der Ehrnholt vnd beschleust.
+
+
+So ist die Tragedi beschlossen,
+Darauß sieben Lehr seint geflossen.
+Die Erst, ein Mann sein heimligkeit,
+Daran jhm ettwas dapffers leit,
+Nicht offenbaren soll auff der Erdt,
+Daß sein Sach nicht verkuntschafft werd.
+Zum Andern, das ein Mann hie Lehr,
+Daß er stets streb nach Lob vnd Ehr
+Gantz auffrichtig mit Redligkeit,
+Vermeid die laster allezeit.
+Die Dritt, das sich ein Mann wol hüt
+Vor eim arglistigen gemüth
+Vnd sich daß nit verführen laß,
+Sonder gründ nach der warheit baß.
+
+
+Zum Vierdten, das auch ein Regent
+Sein Hertz zu der billigkeit wend,
+Land vnd Leuten zu halten schutz,
+Reich vnd Armen zu thun als guts.
+Zum Fünfften, das ein Herr nicht eyl,
+In gfehrlichen sachen jhm nem die weil.
+Erfahr vor, wie, wo, wann vnd was,
+Auff daß jhn nicht gereüe das.
+Zum Sechsten, das man müssig gehe
+Der Lieb außerhalben der Ehe,
+Darauß erfolget selten gut,
+Wie die erfahrung zeugen thut.
+Zum Siebenden, wenn das Vnglück
+Einen Mann reüt in allem stück,
+Zeucht jederman Händ von jhm ab
+Vnd fördern jhn folgents ins Grab;
+Doch daß er darumb nicht verzag!
+Gott jhm wol wider helffen mag,
+Damit jhm nichts böß drauß erwachs
+Vnd er entgeh alls vngemachs.
+
+
+
+
+

@@ -1,0 +1,7110 @@
+
+
+
+
+Der niederländische Bauer
+
+
+hdl:11858/00-1734-0000-0005-98BD-Ftextgrid:x48t.0
+ Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). 
+
+Lizenzvertrag
+
+
+ Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache 
+
+
+Hinweise zur Lizenz und zur Digitalen Bibliothek
+
+
+
+
+
+                              Erstdruck in »Christian Weise: Neue Proben von der vertrauten Redenskunst«, Dresden und Leipzig (Mieth und Zimmermann), 1700.
+                           
+
+
+
+
+Christian Weise: Ein wunderliches Schau-Spiel vom niederländischen Bauer. Herausgegeben von Harald Burger, Stuttgart: Philipp Reclam jun., 1969 [Universal-Biliothek Nr. 8317[2]].
+Weise, Christian
+
+3-
+
+
+Stuttgart
+
+
+
+
+
+
+
+
+
+
+drama
+
+
+
+
+
+
+
+
+Christian Weise
+Ein wunderliches Schau-Spiel vom Niederländischen Bauer
+welchem der berühmte Printz Philippus Bonus zu einem galanten Traume geholffen hat
+
+
+
+
+
+
+
+Innhalt
+
+
+
+
+
+
+Inhalt.
+
+Philippus Bonus, Hertzog in Niederland / gehet seiner Gewohnheit nach / des Abends auff der Gasse /und trifft einen vollen Bauer schlaffend an: Diesen läst er auffheben / zu Hofe in ein köstlich Bette legen / und den gantzen Tag hernach als einen Printzen tractiren. Bey dieser Gelegenheit hat der Bauer das Glücke / daß er einem singenden Spiele mit heywohnen kan. Doch wie er von den Hof-Purschen mit Trincken ziemlich zugedeckt ist / so werden ihm die Bauer-Kleider wieder angelegt / und er muß sein Lager wiederum auff der Gasse nehmen. Hiemit erfolget der Possen / daß der Bauer den nachkommenden Tag alles vor einen angenehmen Traum erzehlet.
+
+
+
+
+
+
+
+
+
+Personen
+
+
+
+
+
+Personen.
+
+Philippus, Hertzog in Burgundien.
+
+Carolus, sein Printz.
+
+Egmund, Hoff-Marschall.
+
+Robert, Cammer-Herr.
+
+Wilhelm, Stall-Meister.
+
+Heinrich, Cammer-Juncker.
+
+Leo, Hoff-Juncker.
+
+Adelheit
+Erdmuth, Hof-Jungfern
+
+Brigitte, die Cammer-Frau.
+
+Cornelis, Cammer-Diener.
+
+Stax
+Micke, Trabanten.
+
+Karsten
+Breit
+Chim
+Frerik, Hof-Pursche.
+
+Boyson, ihr Auffwärter.
+
+France
+Hugo, zwey Bürger.
+
+Liebhold, ein Gastwirth.
+
+Lars, sein Hauß-Knecht.
+
+Lauxson, eines Brandteweinbrenners Diener.
+
+Mierten, ein Bauer / hernach ein verstellter Fürst.
+
+Krix
+Gosch
+Clas, Bauern.
+
+Ebbe
+Puse
+Brütte, ihre Weiber.
+
+
+
+
+
+
+
+
+
+
+1. Akt
+
+
+
+
+
+1. Aufzug
+
+
+
+
+Erster Auffzug.
+
+Der Schauplatz praesentiret sich gantz finster.
+
+
+Liebhold, ein Gastwirth. France, Hugo, zwey Bürger. Lars. Der Haußknecht / mit einem Lichte /ingleichen zwey Knaben mit Laternen / welche beyden Gästen nach Hause leuchten.
+
+
+
+LIEBHOLD.
+ Die Herren eilen trefflich / es muß ihnen gewiß in meinen Hause nicht wohl gegangen seyn.
+
+
+FRANCE.
+ Wir werden das gute Tractament allzeit rühmen. Doch wer auff den Morgen seine Arbeit vor sich hat / der muß sich auff den Abend desto zeitlicher nach dem Bette umsehen.
+
+
+HUGO.
+ Die rechte Wahrheit zu bekennen / ich wüste nicht / daß ich in neulicher Zeit vergnügter gelebet hätte: Doch einer Ursache halben / nehm ich zeitlicher Abschied / als mir lieb ist.
+
+
+LIEBHOLD.
+ Ich mercke es wohl / wo sie hinzielen / die Compagnie von Bauern hat unsre Lust verstöret / ich wolte wündschen / daß die unhöfflichen Gäste einen andern Tag kommen wären.
+
+
+FRANCE.
+ Ach unsert wegen mögen sich die guten Leute immer lustig machen / ein Bauer kömmt selten dazu / daß er was gutes zu sauffen kriegt / drum muß er das Kalb hernach mit einander austreiben.
+
+
+HUGO.
+ Ich gestehe es / ich bin ein Liebhaber der Music: Aber die Nachtigallen die ich heute habe singen hören / die möchte ich nahe bey meinem qvartier nicht wündschen.
+
+
+LIEBHOLD.
+ Ich habe das allemahl am meisten beklaget / daß ein Gastwirth meines gleichen die Leute ohne Unterscheid 
+bey ihren Willen lassen muß. Kömmt ein vornehmer Herr / so haben die Diener ihren Muthwillen / kömmt ein Bauer / so will er vor sein Geld auch etwas schreyen / und also hab ich offt in der gantzen Wochen kaum etliche Stunden / da ich so liebe Freunde nur in etwas accomodiren kan.
+
+
+FRANCE.
+ Er lasse sichs lieb seyn / daß er in seinen Gasthofe noch Leute hat / die schreyen wollen.
+
+
+HUGO.
+ Nun das wäre gnung von Schreyen geredt / ich weiß doch wohl / daß mir die Ohren drey Vierthel Jahr nach einander davon weh thun werden.
+
+
+LIEBHOLD.
+ Und zu diesen Wehthagen hab ich Anlaß gegeben: Sie lassen mich so glückselig seyn / und geben mir ein andermahl die Ehre / da ich mein Freyheit besser brauchen kan.
+
+
+FRANCE.
+ Eine schöne geruhige Nacht.
+
+
+HUGO.
+ Ach dem Gastwirthe ist mit keiner geruhigen Nacht gedienet / etliche tutzend Bauer davor ins Hauß gewünscht / die brave kälbern / und die Nacht unruhig machen / das ist ein Fressen vor einen Mann von solcher Profession.
+
+
+LIEBHOLD.
+ GOtt geb uns allen was uns gut und seelig ist.
+
+
+France und Hugo gehen ab.
+
+
+
+
+LIEBHOLD.
+ Es wird schon Abend / wo sich die Bauern nach der Stunde richten wollen / so müssen sie fort.
+
+
+LARS.
+ O die Schelmen fragen nicht viel darnach / wenn sie gleich verschlossen werden / und zur Noth können sie zur kleinen Pforte nauß / wenn sie noch zwey Stunden bey uns warten.
+
+
+LIEBHOLD.
+ Die Pforte hat schon manche Kanne Wein verthun helffen / denn sie verlassen sich drauff / daß sie zur Stadt nauß können / und wenn sie sich aus dem Circkel gesoffen haben / so müssen sie doch bey mir bleiben / und das Früh-Stücke bezahlen.
+
+
+LARS.
+ O die ietzigen Bauer gehen alle mit / sie trincken 
+vom Besten / und feine viel / man siehts wohl / daß sie heuer viel Weitze gebauet haben.
+
+
+LIEBHOLD.
+ Nun so komm und sieh / daß sie unser Wirths-Hauß loben / so kommen sie ein andermahl desto lieber wieder. Gehet ab.
+
+
+
+LARS.
+ Ja ja / ich will schon was aus dem süssen Fasse drunter giessen / daß sie bey der Lust bleiben sollen. Geht ab.
+
+
+
+
+
+
+
+
+
+2. Aufzug
+
+
+
+
+Andrer Auffzug.
+
+Ebbe, Puse, Brütte, drey Bauer-Weiber.
+
+
+
+EBBE.
+ Was haben wir nun davon / daß wir zwey Stunden in der Stadt rum lauffen? und wenn wir nichts werden gefunden haben / so wirds heissen / gieb zwey Gröschel daß du zur Pforte naus kanst.
+
+
+PUSE.
+ Der Hencker hat die Sauff-Häuser in der Stadt gemacht / wenn der Weitze einmahl was giebt / so gehts in den Schand-Häusern auf einmahl durch die Gurgel.
+
+
+BRÜTTE.
+ O die Sauff-Häuser möchten wohl seyn / aber nicht so viel. Wäre nur eins dar / daß ich wüste / wo ich meinen Mann kriegen solte / ich wolte / ich wolte ihn bald die Freude verbieten / aber was mach ich mit dem Kerlen / wenn er nicht da ist.
+
+
+EBBE.
+ Ich halte die Männer sind zum Thore nauß / und werden uns suchen.
+
+
+PUSE.
+ O ne / davor hab ich keine Sorge / es wäre das erste mahl / daß mein Mann zeitlich heim käme.
+
+
+BRÜTTE.
+ Daß dich Sanct Velten / wie stoß ich mich da an meinen Fuß / wir Bauers-Leute seyn der harten Steine nicht gewohnt / wir gehen lieber auff dem Lande da es weich ist.
+
+
+
+EBBE.
+ Wo ich mich stosse / so darff mir mein Mann hinte nicht nahe kommen / sonst wird meine Hand und sein Kopff schrecklich mit einander Bärstutzen.
+
+
+PUSE.
+ O was wolt ihr machen / wo die Narren voll seyn / so verstehen sie keine vexirerey / sie dencken flugs / sie sollen wieder zuschlagen.
+
+
+BRÜTTE.
+ Ich rede nicht gerne von ungeschehenen Dingen / wenn ich darzu komme / so weiß ich doch wohl / was ich thun kan.
+
+
+Die Bauern fangen inwendig an heßlich zu schreyen.
+
+
+
+
+EBBE.
+ Ha ha / seyn die lieben Hertzgen darinn / sie müssen hübsch in die Kanne gesehen haben / daß sie so lieblich dabey singen.
+
+
+PUSE.
+ O wer weiß / was der Wirth vor ein Schelme ist: Sie haben was mit gesoffen / daß sie so im Leibe reist.
+
+
+BRÜTTE.
+ Und wenn wir werden kommen / so wirds heissen / wäret ihr eher dargewesen / so hätten wir euch wollen schencken / aber was machen wir? Die Thüre ist zu.
+
+
+EBBE.
+ Wo wir nein wollen / müssen wir wohl anklopffen.
+
+
+PUSE.
+ Und wenn wir anklopffen / so können sie uns wohl nicht auffmachen.
+
+
+BRÜTTE.
+ Oder wo es der Haußknecht merckt / kan er auch wohl unsere Galgenhähne verstecken.
+
+
+EBBE.
+ Ie nu / lasts gehen / wir wollen sehn / wie weit wirs bringen. Sie pocht.
+
+
+
+
+
+
+
+
+
+3. Aufzug
+
+
+
+
+
+
+Dritter Auffzug.
+
+Die Vorigen. Lars, der Haußknecht / erstlich hinter der Scene.
+
+
+
+LARS.
+ Wer ist denn da? Wo das Pochen lange währet / so kriegen wir morgen eine neue Haußthüre.
+
+
+EBBE.
+ Guten Abend / guter Freund.
+
+
+LARS.
+ Ey was hudeln wir uns um deinen guten Abend / ein andermahl komm / wenns Tag ist.
+
+
+EBBE.
+ Seyd doch gebeten / und macht auff.
+
+
+LARS.
+ Seyd doch gebeten und bleibt draussen / die Gäste die wir gerne sehen / die müssen zeitlich kommen.
+
+
+EBBE.
+ Ihr müst mir auffmachen / sonst klopff ich noch einmahl.
+
+
+LARS.
+ Ich habe wohl eine Kunst davor / daß dir das Klopffen soll verboten werden.
+
+
+EBBE.
+ Hertze Gevatter / pocht doch ihr / vielleicht habt ihr eine glückseeliger Hand.
+
+
+PUSE.
+ Ja / da wäre ich ein Narr / daß der Haußknecht seine Kunst an mir probiren solte / wollen sie mich nicht nein lassen / so bleib ich haussen.
+
+
+BRÜTTE.
+ Ich dachte nicht so / wiltu nicht / so mustu.
+
+
+Sie klopffen sehr.
+
+
+
+
+LARS.
+ Wer kömmt denn nu wieder?
+
+
+BRÜTTE.
+ Wir stehen noch da / macht doch auff.
+
+
+LARS.
+ Wartet biß Tag wird / da ist der Thorweg wieder offen.
+
+
+BRÜTTE.
+ Der Haußknecht hat noch nicht gefreyt / er weiß gewiß nicht / was ehliche Liebe vor Gewalt hat / wäre mein Mann nicht drinne / ich wolte nicht viel Wesens machen. Sie klopfft noch einmahl.
+
+
+
+LARS
+
+kömmt heraus.
+
+ So muß ich gleichwohl sehen / wer mir das Hauß stürmen will. Wer hat gepocht?
+
+
+EBBE.
+ Lieber Haußknecht / eine von uns dreyen wirds wohl gewesen seyn / aber ich weiß nicht welche.
+
+
+
+LARS.
+ Ihr vollen Bestien / habt ihr euch anderswo einen Rausch gesoffen / so last euch auch das Nacht-Qvartier geben.
+
+
+EBBE.
+ Ach wir seyn so nüchtern / als wir heute von unsern Ehemännern auffgestanden seyn.
+
+
+LARS.
+ O ich kenne viel Raabenäßer / die sich einen Rausch trincken / der 8. Tage nach einander währt / drum packet euch fort / ehe ich böse werde / wenn mir die Lauß über die Leber läufft / so werd ich grimmig.
+
+
+EBBE.
+ Und wenn mir ein Floch in die Hertzgrube hopffet / so wird mir ängstlich. Last ihr mich ins Hauß / so dürffen wir uns nicht zancken.
+
+
+LARS.
+ Wenn ich aber nicht will / so muß ich wohl zancken.
+
+
+PUSE.
+ Hört doch / ich will euch alles miteinander sagen.
+
+
+LARS.
+ Ich kan nicht da stehen / und meine Sachen versäumen / da geht in die Gasse dort nüber / da redet so lange biß ihr satt habet.
+
+
+PUSE
+
+zeucht ihn zurücke.
+
+ Ihr müst auch wohl hören. Denn wen soll ich sonst fragen / ob mein Mann drinne ist / ich höre gleichwohl Bauern drinne schreyen / und wenn mein Mann darbey ist / nach wen soll ich lieber fragen / als nach meinen Eheschatze?
+
+
+LARS
+
+ad Spect.
+
+ Botztausend die Weiber kommen / und wollen ihre Männer heimholen / das wird ein fein Spectacul werden / ich muß sehen / daß ich die Kurtzweile nicht verderbe.
+
+
+PUSE.
+ Nu wie wirds? Ists bald richtig / daß wir darnach sehn sollen / was unsre Männer machen?
+
+
+LARS.
+ Ja es ist richtig / aber hört / was hab ich davon! Wenn eure Männer nicht darbey seyn?
+
+
+PUSE.
+ Das hab ich darvon / daß ich noch einmahl frage. Wir drey Weiber werden ja so einen schabigten Haußknecht bezwingen.
+
+
+Sie pochen alle drey.
+
+
+
+
+
+
+
+
+
+4. Aufzug
+
+
+
+
+
+
+Vierdter Auffzug.
+
+Die. Vorigen. Krix, ein Bauer.
+
+
+
+KRIX
+
+kömmt gelauffen.
+
+ Gevatter Laux seyd ihr da? Ein Schelme / der zu langsam kömmt / wenn wir sollen heimgehen.
+
+
+EBBE.
+ Ich dachte was Gevatter Laux machen solte / höre doch du / was hastu da zu suchen?
+
+
+KRIX.
+ Nu / nu / geht mir vom Leibe / im Finstern schlag ich gerne um mich.
+
+
+EBBE.
+ Und geh ein bißgen sachte / im finstern laß ich mir gerne wieder die Hände lauffen. Stösset ihn.
+
+
+
+KRIX.
+ Ich halte es schlägt mich iemand / wer bistu / eh ich dich wieder schlage?
+
+
+EBBE.
+ O du Raaben-Mann / hastu dein Lebtage keine Maultasche von der Frau kriegt? Daß dirs so frembde vorkömmt.
+
+
+KRIX.
+ Je / so / so / Frau bistus?
+
+
+EBBE.
+ Und du verlauffner Schelme bistus? Hab ich das an unsern Weitze zum besten / daß ich biß in die sinckende Nacht rümlauffen muß / ehe ich weiß / wo ich dich finden soll.
+
+
+KRIX.
+ Frau / es ist dein Glücke / daß ich die letzte Kanne habe vor mir stehen lassen / warte nur biß ich nein gehe / und noch einmahl trincke / da solstu sehn / wie ein voller Mann seine Frau züchtigen kan.
+
+
+EBBE.
+ Ihr Weiber helfft mir doch / daß ich die volle Sau haussen behalten kan.
+
+
+KRIX.
+ O Ehren-Vester Herr Haußknecht / kommt mir zu hülffe / sonst muß ich den Weibern gehorsam seyn.
+
+
+LARS.
+ Das laß ich wohl bleiben / daß ich mich unter die Weiber menge / wenn die Raaben-Äser sonst nichts können / so kratzen sie: Wolt ihr auff der Gasse Händel anfangen / so seht / wie euch die Wache von einander bringen wird. Gehen ab.
+
+
+
+
+EBBE.
+ Sieh du bist in unser Gewalt / wilstu mit gehen?
+
+
+KRIX.
+ O ihr lieben Weiber / ich will gerne gehn / last mir nur so viel Zeit / biß ich die andern ruffen kan.
+
+
+EBBE.
+ Es soll schon iemand da seyn / der sie rufft.
+
+
+KRIX
+
+schreyt.
+
+ O Gevatter Mierten / O Nachbar Gosch, o Schwager Clas, o steht mir nur dißmahl bey / ich will euch gerne nicht wieder verlassen.
+
+
+
+
+
+
+
+
+5. Aufzug
+
+
+
+
+Fünffter Auffzug.
+
+Die Vorigen. Mierten, Gosch, Clas, Bauern.
+
+
+
+GOSCH.
+ Ihr Elementschen Leute / wüst ihr nicht / daß wir Wein getruncken haben / wo sich iemand an unsern Gespahn vergreifft / so brechen wir ihm den Halß.
+
+
+CLAS.
+ Ich tappe in finstern rum / und weiß nicht / ob ich Freund oder Feind in die Hände kriegen werde.
+
+
+KRIX.
+ Ach da bin ich helfft mir!
+
+
+GOSCH.
+ Ja ja da bin ich / laß mich nur zuvor in die Hände speyen / daß mir die Arbeit hübsch von Knobeln geht.
+
+
+PUSE.
+ Ey höre doch / die Arbeit ist einen Schelmen verdingt / wer heist dich biß in die sinckende Nacht Wein sauffen?
+
+
+GOSCH.
+ Nachbar Clas / es ist ein Wunder-Zeichen / es geht ein Gespenste auff der Gasse rüm / das sieht aus wie meine Frau.
+
+
+CLAS.
+ Ich halte wo ich zu tieff ins Wesen komme / so krieg ich auch ein Gespenste zu sehn / das meiner Frau ähnlich ist.
+
+
+BRÜTTE.
+ Ja / ja / du solsts zu sehen kriegen; He! was dendkstu nun?
+
+
+CLAS.
+ Was werd ich dencken? Hätt ich auff den Abend viel dencken wollen / so hätt ich den Tag über nicht gesoffen.
+
+
+
+BRÜTTE.
+ Und hättestu dich am Tage nicht versteckt / so dürffte dich die Frau am Abend nicht suchen.
+
+
+GOSCH.
+ Es ist doch nicht recht / daß einen die Weiber ins Wein-Hauß nachkommen / wir haben bey einander gesessen / als ehrliche Leute / und was haben wir von unser Arbeit / wenn wir nicht einmahl den Staub aus der Gurgel schweiffen sollen.
+
+
+Hier fangen die Weiber und Männer zusammen ein Geschrey an / endlich werden sie von Mierten gestillet.
+
+
+
+
+MIERTEN.
+ Ihr lieben Leute / last mich doch einmahl reden / ich bin unpartheisch / denn meine Frau liegt in Wochen / und kan mich nicht aus dem Wein- Fasse holen. Habt ihr gesoffen / so zahlt: wollen euch die Weiber ein Abend-Brodt drauff geben / so geht heim / die Leute sind in der Gasse gar ungeduldig / wo wir noch einmahl schreyen / so werden wir paar zu paar ins Loch geführet werden.
+
+
+GOSCH.
+ Ey / was soll mich die Frau hofemeistern / was ich versauffe / das ist mein Blut sauer Schweiß.
+
+
+CLAS.
+ Und was ich versauffe / das geht von den Meinigen / ich soll noch den ersten Heller dazu stehlen.
+
+
+KRIX.
+ Über den Gedräsche werd ich gar nüchtern. Hört doch / es nehme ein iedweder seine Frau / und gehe heim / da verträgt man sich am besten. Höre mein Eh-Schatz / du bist mir doch mit Leib und Seele ans Hertze gewachsen. Komm wir wollen sehn / wo das Pförtgen ein Loch hat.
+
+
+EBBE.
+ Ja ja / komm nur komm / du solst morgen dein Fleisch und Blut im Kopffe fühlen.
+
+
+Gehen ab.
+
+
+
+
+GOSCH.
+ Nu liebe Mutter Puse, haben wir eine Sünde gethan / so werden wir sie wohl einander vergeben müssen / komm nur auch mit.
+
+
+PUSE.
+ Von der Sünde wollen wir reden / wenn wir heim kommen.
+
+
+GOSCH.
+ O solchen Qvarck werden wir unterwegens lange vergessen 
+haben / wer weiß was mich vor ein freundlicher Narr sticht / daß du mir wieder gut bist.
+
+
+CLAS.
+ Nun es gehet gar erbar zu / wie auff der Hochzeit / ich werde wohl meine schöne Mutter auch führen müssen.
+
+
+BRÜTTE.
+ Du solst hinte erfahren / was ich vor eine schöne Mutter bin.
+
+
+CLAS.
+ Ich gesteh es / ich bin heute ein garstiger Flegel gewesen / das ist mir am liebsten / daß ich noch keine Untreu an dir begangen habe / und du kanst es doch nicht übers Hertze bringen / du must mit mir freudlich thun.
+
+
+BRÜTTE.
+ O laß mich zu Frieden / mit den Possen kömstu bey mir nicht an.
+
+
+CLAS.
+ Ie du Narr / wilstu wercklich thun / kan ich doch wohl mit meinem Nachbar tauschen / geh / geh / und sieh / wer dich im finstern führen wird.
+
+
+MIERTEN.
+ Nu ich habe meine Gesellschafft fort geschickt / dörffte meine Frau über die Thür-Schwelle gehn / so würde ich wohl dem vierdten Paare nachtantzen. Aber Hey sa! Curage! Da steht ein Mann / der die Frau in Wochen liegen hat / und der sich auff seine eigne Hand lustig machen darff. Hey sa! Da steht ein Mann / der Geld hat / und der sich um die gantze Welt nichts schieret / wenn er nur vor der Frauen friede hat! Ach schade / daß die Weiber nicht zehnmahl nach einander in Wochen liegen sollen / da solte erst ein köstlich Leben um uns Männer seyn. Hey sa! Ich zerreisse mich / ehe meine Frau zur Kirchen gehet.
+
+
+
+
+
+
+
+
+6. Aufzug
+
+
+
+
+Sechster Auffzug.
+
+Mierten, ein Bauer. Stax, Micke, Trabanten.
+
+
+
+STAX.
+ Wer ist denn der Kerle / der sich zerreissen will?
+
+
+MICKE.
+ Wir wollen ihm eine Nehnadel bringen / daß er gantz bleibt.
+
+
+
+STAX.
+ Bistu der leichtfertige Vogel / der die Stad zum Dorffe machen will?
+
+
+MICKE.
+ Und bistu der Schelme / der einen ehrlichen Gastwirthe das Nachtlager nicht bezahlen will? Denn ich sehe doch wohl / wir müssen nach der Wache schicken / daß sie dir Qvartier schaffen.
+
+
+MIERTEN.
+ Ihr Herren seyd ihr die Wache?
+
+
+STAX.
+ Ey du siehst uns für die Unrechten an / aber wir sind Fürstliche Diener.
+
+
+MICKE.
+ Und wo du noch viel Wesens machst / so wollen wir dir weisen / daß wir über die Wache gebieten können.
+
+
+MIERTEN.
+ O seyd ihr nicht die Wache / so scher ich mich um euch gar nichts. Ich hab für mein Geld gesoffen: Kan ich davor / daß ein ander nicht so gut schreyen kan.
+
+
+STAX.
+ Und kan ich davor / daß du ohne Schläge nicht wilt von mir kommen?
+
+
+MICKE.
+ Wer einen vollen Bauer prügeln will / der muß sich ein knötig Holtz von Schwartz-Dorne schneiden / sonsten fühlets so ein Ochse nicht.
+
+
+MIERTEN.
+ Ich halte / ihr wolt mich schlagen: O schlagt die Leute / die mir so geschenckt haben / ich sehe doch wohl / daß mein Weg der weiteste ist. Gehet ab.
+
+
+
+STAX.
+ Es wäre ein feines Spectacul vor unsern Fürsten gewesen / wenn ihn der Bauer hätte begegnen sollen.
+
+
+MICKE.
+ Ich weiß nicht / was dem Fürsten so gefallen muß / daß er alle Nacht gassaten geht / die Herrligkeit / die er auff der Gasse hat / die könte er sich zu Hofe zehen mahl besser machen.
+
+
+STAX.
+ Ein Fürste thut was er will / wer kan ihm wiedersprechen.
+
+
+MICKE.
+ Aber vielleicht könte ein Troupp volle Bauern kommen / die uns und dem Fürsten Schläge gäben.
+
+
+STAX.
+ O das Unglück ist nicht zu besorgen / wer in allen Dingen so furchtsame Händel bedencken will / der muß sich aus der Welt machen.
+
+
+
+MICKE.
+ Du bist ein guter Kerle / du läst alles gehen wie es geht / ich werde die Kunst auch lernen / wenn ich keinen verachte / so darff mich keiner tadeln; Doch stille / der Fürste kömmt uns auff dem Fusse nach / wir müssen stille seyn / daß er sich nicht in unsere Discurse verliebet.
+
+
+
+
+
+
+
+
+7. Aufzug
+
+
+
+
+Siebender Auffzug.
+
+Philippus, der Hertzog. Robert, der Cammer-Herr. Ein Page mit dem Lichte.
+
+
+
+PHILLIPPUS.
+ Wie kan doch die frische Abend-Lufft so angenehm seyn / und wie unrecht thun diejenigen / welche sich vor der Zeit zu Bette legen / denn sie berauben sich hierdurch der besten Vergnügung ihres Lebens.
+
+
+ROBERT.
+ Gnädigster Herr / die Nacht soll sonst ein Sinnbild seyn des Glücks / doch wer sie zu seiner Ergetzligkeit anwenden kan / der legt den Grund zur besten Welt-Weißheit / denn derjenige ist klug / der aus allen Unglücke sein Glücke zu suchen weiß.
+
+
+PHILLIPPUS.
+ An dem Tage verunruhiget ein Mensch den andern / aber wenn es Abend wird / so lebt man nach seinen Willen.
+
+
+ROBERT.
+ Und ein Fürst kan also die Früchte seines hochlöblichen Regiments erkennen / wenn er siehet / daß ein iedweder auch des Nachts auff der Strasse frey passiren kan.
+
+
+PHILLIPPUS.
+ Lieber Getreuer / setzet auch dieses dazu: Der Fürste soll ein Wächter des Volckes heissen / also muß er auch zur Abend-Zeit sein Ampt mit offenen Augen verrichten.
+
+
+ROBERT.
+ Ach ja / wer niemahls aus dem Pallaste kömmt / der muß allemahl mit frembden Augen sehen / wenn er an den Zustand seines Volckes gedencken soll.
+
+
+PHILLIPPUS.
+ Wie manchen Unheil haben wir abgeholffen / welches wir nimmehr mit frembden Augen gesehen hätten.
+
+
+ROBERT.
+ Derohalben werden sie auch Philippus der Gütige bey den späten Nachkommen heissen.
+
+
+
+PHILLIPPUS.
+ Doch siehe da / was müssen unsere Trabanten vor ein Wunder-Thier gefunden haben / sie stellen sich gar poßierlich darbey.
+
+
+ROBERT.
+ Solche Pursche kan aus gemeinen Sachen vielmahl ein grosses Wunder schöpffen.
+
+
+PHILLIPPUS.
+ Auff den Abend ist es keine Schande / wenn wir auch ein schlechtes Wunder-Werck mit sehen wollen.
+
+
+
+
+
+
+
+
+8. Aufzug
+
+
+
+
+Achter Auffzug.
+
+Die Vorigen. Stax, Micke, Trabanten. Mierten, ein Bauer / schlaffende. Hernach Lauxon, eines Brandtweinbrenners Diener.
+
+
+
+PHILLIPPUS.
+ Was giebt es hier zu thun?
+
+
+STAX.
+ Gnädigster Herr / da liegt ein voller Bauer / wir haben ihn gestossen und gerüttelt / aber er will sich aus dem Schlaffe nicht wecken lassen.
+
+
+PHILLIPPUS.
+ Will er nicht wachen / so mag er schlaffen. Doch / wie kan doch ein Mensch zu einem Steine oder zu einem Klotze werden / wenn er einmahl vom Schlaffe überwunden wird.
+
+
+ROBERT.
+ Ja wohl entschläfft alle Empfindligkeit mit / daß man auch das härteste Tractament nicht einmahl in acht nimmt.
+
+
+PHILLIPPUS.
+ Er weiß nicht / was er vor ungeschickte Federn in seinem Bette hat.
+
+
+ROBERT.
+ Und er wird sichs ietzo nicht träumen lassen / was er vor einen hohen Zuschauer hat.
+
+
+PHILLIPPUS.
+ Ihr bringet uns auff artige Gedanken: wir könten Anlaß geben / daß dem Bauer etwas gutes träumete.
+
+
+ROBERT.
+ Ich bin zu einfältig / daß ich diesen scharfsinnigen Vorschlag errathen soll.
+
+
+PHILLIPPUS.
+ Solt es nicht angehen / daß wir den vollen Kerlen nach Hofe brächten / Hessen ihn wohl ausruhen / und tractirten 
+ihn den gantzen Tag auffs köstlichste / da wäre ihm leicht ein Rausch wieder zugebracht / und wenn er an diesen Ort geleget würde / so müste er sich nothwendig einbilden / als wenn ihm von dergleichen Herrligkeit geträumet hätte.
+
+
+ROBERT.
+ Es solte eine Lust geben / die man nicht verbessern könte / doch der gute Mann würde einen Tag aus dem Calender verlieren.
+
+
+PHILLIPPUS.
+ Vielleicht mag der arme Stümper in seiner Calender-Rechnung nicht Capitelfeste seyn. Auff ihr Kerlen / seht / wie der volle Bauer nach Hofe geschaffet wird / dieser Robert soll euch hernach weiter befehlen / was mit ihm soll gethan werden.
+
+
+STAX.
+ Wir wollen schon sehen / daß wir mit ihm zurechte kommen.
+
+
+PHILLIPPUS.
+ Fahret säuberlich mit ihm / daß er nicht aus dem Schlaffe gestöhret wird / sonst wäre die gantze Lust auff einmahl verdorben.
+
+
+Geht mit Robert ab.
+
+
+
+
+STAX.
+ Es wird Künste setzen / daß man mit so einem vierschrötigen Flegel säuberlich umbgehet.
+
+
+MICKE.
+ Der Schelme reucht trefflich nach Weine / wo er sich besoffen hat / so wird er so bald nicht munter.
+
+
+STAX.
+ Und wo er einen Centner Wein im Leibe hat / so ist er desto schwerer.
+
+
+MICKE.
+ Hui das müste ein grosser Rantzen seyn / da ein Centner Wein drinne raum hätte.
+
+
+STAX.
+ Nun last sehen / wie wird sich der Kerle schicken.
+
+
+Sie schleppen ihn heraus.
+
+
+
+
+MICKE.
+ Damit kommen wir nicht fort / darneben ist ein Brandtewein Hauß / da wollen wir uns ein Karrete mit einen Rade borgen / da wollen wir am besten mit zu rechte kommen.
+
+
+STAX.
+ Es ist doch nichts so schlimm / es ist zu was gut / wärestu kein Brandtwein-Bruder / so bekämen wir kein Fuhrwerck.
+
+
+MICKE.
+ Was hastu mir meinen Brandtewein vor zu werffen / 
+wenn ich mein Geld im Weine versauffen wolte / so wüste ichs wohl.
+
+
+STAX.
+ Ja ja der Brandtewein liegt breiter / man kömmt mit zwey Groschen weiter als beym Weine.
+
+
+MICKE.
+ O laß mich zu frieden / wenn der Brandtewein wird gestorben seyn / so will ich auch sterben. Er klopffet. Holla / ist niemand der mir auffmachet?
+
+
+LAUXON
+
+kömmt mit einen Lichte heraus.
+
+ Ie Herr Micke seyd ihrs / es hat mir lange wunder genommen / daß ihr uns heute ein Tagewerck schuldig blieben seyd.
+
+
+MICKE.
+ O du Lecker / ist das der Danck / daß ich deinem Herren / so viel Geld auffzuheben gebe.
+
+
+LAUXON.
+ O Herr / ihr dürfft nicht böse werden / ich dencke / es ist den Leuten eine Ehre / wenn sie fleißig zu uns kommen.
+
+
+MICKE.
+ Freylich solstu Ehre davon haben / wo du mir thust / was ich haben will.
+
+
+LAUXON.
+ Das kan ich nicht wissen / was ihr haben wollet.
+
+
+MICKE.
+ Höre / hat dein Herr nicht einen Schiebekarrn übrig?
+
+
+LAUXON.
+ Nein er hat keinen übrig / denn wir brauchen ihn alle Tage selber.
+
+
+MICKE.
+ Ich meine / ob er einen übrig hat / denn er uns auff eine Stunde leihen kan.
+
+
+LAUXON.
+ Ja ihr seyd gar safftige Herrn mit dem leihen / es drückt sich nur ums wiedergeben.
+
+
+MICKE.
+ Ey du solt ihn bald wieder haben / komm ich doch alle Tage zu dir / wirstu betrogen / so rechne mirs an Brandteweine ab.
+
+
+LAUXON.
+ Ich müste viel Wasser unter den Brandtewein giessen / ehe ich einen gantzen Schiebkarrn bezahlete. Doch was wolt ihr denn mit machen?
+
+
+MICKE.
+ Sieh nur / da liegt ein armer Mensch / und ist todt kranck / so wolte ich gerne sehen / daß man ihn könte zum Doctor schaffen.
+
+
+LAUXON.
+ Der Narr hat gesoffen / last ihn nur liegen / auff dem Morgen wird er sich selber helffen.
+
+
+MICKE.
+ Es hat sich wohl / der Kerle ist zu Hofe ein nützer 
+Mann / wenn wir drüm kähmen / so liedte der Fürste tausend Thaler Schaden.
+
+
+LAUXON.
+ Nun der lieben Barmhertzigkeit wegen will ich was thun / kommt und macht nicht ein groß Gepolter / wanns der Herr sieht / so schilt er.
+
+
+Er bringt den Schiebekarn / da agiren sie poßierlich mit einander / biß er fortgeführet wird.
+
+
+
+
+
+
+
+
+
+
+2. Akt
+
+
+
+
+
+1. Aufzug
+
+
+
+
+Erster Auffzug.
+
+Mierten, ein Bauer / liegt im Bette / und seuffzet etliche mahl / endlich redet er halb im Schlaffe.
+
+
+Mutter Maräusche bistus? Wo bin ich denn? Ich bin wohl nimmermehr daheime / Er richtet sich auff. Ie seht / wer hat mich daher gelegt / von mir selber bin ich wohl nicht daher kommen / es muß ein grosser Herr in dem Bette schlaffen / es ist vor einen Bauer nicht gemacht / aber wo er will böse seyn / daß ich ihm sein Bette verschoren habe / so kan ich nicht davor / laß doch sehn / soll ich nicht in dem Hause bekand seyn? Er stehet im Hembde auff. Ie hab ich denn mein Lebtage auch das Hauß gesehen? Siehts doch aus wie eine Kirche / und ich stehe da / als wenn ich drinne predigen wolte / das geht nicht mit rechten Dingen zu: Denn solte mein Wirth so eine stattliche Kammer haben / das gläube ich nicht. Laß doch sehen / wo war ich denn gestern zu letzt / erstlich kamen die bösen Weiber / und holeten ihre Männer heim / darnach kamen zwey Kerlen / den gab ich Schläge / oder wie wars? Gaben sie mir Schläge? Das weiß ich / Schläge wurden ausgetheilet / darnach hat mich ja Niemand zu Gaste gebeten / und es ist sonst meine Art nicht / daß ich den Leuten mit Gewalt in die Häuser lauffe / fürwahr mir möchte doch ein bißgen
+ zwiebelsichtig um den Kopff werden / mein Kleid ist weg / meine Stieffeln sind weg / ich halte / wäre mir mein Bart nicht angewachsen / so wäre er auch weg. Und da hab ich ein Hembde / das ist nimmermehr von meiner Frauen Gespinste / in meinem Hause führen wir die Faden ein bißgen gröber / das sieht natürlich aus wie Crepun: Ie wenn doch iemand da wäre / den ich fragen könte / wer weiß bin ichs / wer weiß / wo der närrische Mierten in der Welt rümläufft / und ich hab vergessen / daß ich ein grosser Herr bin.
+
+
+
+
+
+
+
+2. Aufzug
+
+
+
+
+Andrer Auffzug.
+
+Cornelis, ein Cammerdiener. Mierten, der Bauer.
+
+
+
+CORNELIS.
+ Ihr Gnaden / einen schöne glückseeligen guten Morgen / ich hoffe / Sie werden wohl geruhet haben.
+
+
+MIERTEN
+
+ad Spect.
+
+ Itzund beseh ich mich erst in meinem Elende / daß ich halb nackend bin: Ich muß wieder in mein Nest krichen. Läufft ins Bette.
+
+
+
+CORNELIS.
+ Ihr Gnaden werden vielleicht länger ruhen wollen / drum muß ich um Verzeihung bitten / daß ich so unverschämt bin herein gangen.
+
+
+MIERTEN.
+ Hört doch / wen seyd ihr?
+
+
+CORNELIS.
+ Ihr Gnaden werden ja ihren alten Cammerdiener kennen / sie haben mir gestern befohlen / daß ich um diese Zeit auffwarten soll / drum wolt ich fragen / was sie vor ein Kleid verlangten.
+
+
+MIERTEN.
+ Wolt ihr einen Narren haben / so schafft euch einen / es ist erlogen / daß ihr mein Cammerdiener seyd.
+
+
+CORNELIS.
+ Das wäre mein grosses Unglücke / wenn ihr Gnaden mich nicht kennen wolten.
+
+
+
+MIERTEN.
+ Ich bleibe darbey / ich kenne euch nicht / ich bin ein Bauer / und muß mir meinen Stall selber ausmisten / wo solt ich denn einen Kerlen herkriegen / der mein Cammerdiener wäre.
+
+
+CORNELIS.
+ Wer hat denn gesagt / daß ihr Gnaden ein Bauer sind.
+
+
+MIERTEN.
+ Ich sags / und wers nicht glauben will / dem will ichs mit meiner Sprache beweisen.
+
+
+CORNELIS.
+ Die Sprache klingt nichts anders / als sie gestern geklungen hat.
+
+
+MIERTEN.
+ Das weiß ich wohl / gestern soff ich im Wirths-Hause zur güldenen Lichtputze / da klang meine Sprache eben so / aber wo ich ietzo bin / das weiß ich nicht.
+
+
+CORNELIS.
+ Sie sind in ihrem Bette / da sie viel Jahre nach einander drinne geschlaffen haben.
+
+
+MIERTEN
+
+springt im Zorne heraus.
+
+ Wo ich in dem Bette viel Jahre geschlaffen habe / so will ich ein Schelme seyn.
+
+
+CORNELIS.
+ Ihr Gnaden erzürnen sich doch nicht / es ist ja sonst wieder ihre Gewohnheit / daß sie so wunderlich thun.
+
+
+MIERTEN.
+ Ey Gewohnheit hin / Gewohnheit her / solt ich nicht wunderlich thun / wenn ich nicht weiß wo ich bin.
+
+
+CORNELIS.
+ Ihr Gnaden sind auff dem Fürstl. Schlosse.
+
+
+MIERTEN.
+ Ja das wirds Fürstl. Schloß seyn / es hätte ein Geschicke mit mir.
+
+
+CORNELIS.
+ Ihr Gnaden schertzen nur nicht mit dero Diener / sie belieben doch zu befehlen / was sie vor Kleider verlangen / die gestrigen Herren möchten herein kommen / und da würde es nicht feine stehen / wenn sie gar ungekleidet herum gehen solten.
+
+
+MIERTEN.
+ Schwert doch auff eure arme Seele / daß ihr mich nicht zum Narren habt.
+
+
+CORNELIS.
+ Ihr Gnaden wissen wohl / daß dieser Schwur zu Hofe nicht mode ist / und man gläubet seinen Kammerdiener wohl ungeschworen / daß er sich gegen seinen Herrn so nicht versündigen wird.
+
+
+MIERTEN.
+ Nun da steh ich / und soll mit Gewalt ein grosser 
+Herr seyn / wo sind meine Stieffeln / wo ist mein Zippelpeltz / wo ist meine Pechmütze?
+
+
+CORNELIS.
+ Ihr Gnaden wollen gewiß sagen / wo die verschammerirte Kappe ist / die sie gestern vom Schneider bekommen haben?
+
+
+MIERTEN.
+ Wo hab ich gestern ein Kleid vom Schneider kriegt?
+
+
+CORNELIS.
+ Allerdings haben sies gestern vom Schneider bekommen: Wer es nicht glauben will / dem kan ichs mit dem Zettel beweisen.
+
+
+MIERTEN.
+ Ie nun wo ein Zeddel da ist / so muß wohl wahr seyn: Aber das weiß ich gewiß / ich bin der Kerle nicht / ob meine Seele in einen grossen Herren gefahren ist / davon kan ich nicht reden.
+
+
+CORNELIS.
+ Ihr Gnaden belieben unbeschwert in das Bette zu gehen / ich höre daß iemand kommen will.
+
+
+MIERTEN.
+ Nu heiß ich ihr Gnaden / vorzeiten hat ich manchmahl Thiere / die mir im Barte nistelten / die lebten meiner Gnade. Aber das ist nun das dritte mahl daß ich ins Bette kriechen muß.
+
+
+
+
+
+
+
+
+3. Aufzug
+
+
+
+
+Dritter Auffzug.
+
+Die Vorigen. Robert, Cammer-Herr. Leo, Hoff-Juncker.
+
+
+
+ROBERT.
+ Ihr Gnaden haben uns gestern befohlen / daß wir uns um diese Zeit einstellen sollen: also wollen wir uns erkundigen / ob sie diese Nacht wohl geruhet haben.
+
+
+LEO.
+ Hiernechst wolten wir fragen / ob es noch dabey 
+bliebe / daß wir mit einander auff die Jagt spatzieren reiten wolten?
+
+
+MIERTEN.
+ Hört doch / redet mir nicht zu viel untereinander: was schierts denn euch? ob ich wohl oder übel geschlaffen habe: und wenn hab ich euch gesagt / daß ich will auff die Jagt reiten?
+
+
+ROBERT.
+ Sie werden im Schlaffe nicht alles vergessen haben?
+
+
+LEO.
+ Der gestrige Trunck war noch erleidlich / Ihr Gnaden werden unser Andencken nicht im letzten Glase gelassen haben.
+
+
+MIERTEN.
+ Last mich nicht schweren / ich kenne euch fürwahr nicht.
+
+
+ROBERT.
+ Wir müssen aber unser Bekandtschafft nachkommen / und Euer Gnaden auffwarten.
+
+
+LEO.
+ Es würde uns eine grosse Schande seyn / wenn Euer Gnaden unsre treue Dienste nicht ferner gebrauchen wolten.
+
+
+MIERTEN.
+ Ich bleibe dabey / ich bins nicht / und wenn ihrs nicht glauben wollet / so sehet ihr mich in Lebens-Grösse. Er springet zum Bette heraus.
+
+
+
+ROBERT.
+ Ey Ihre Gnaden schämen sich doch vor dero Diener / sie kleiden sich doch in etwas an.
+
+
+LEO.
+ Kammerdiener / wie stehts denn um die Kleider? gebt doch zum wenigsten die Bein-Kleider her.
+
+
+CORNELIS.
+ Ihr Gnaden soll ich helffen / oder wollen sie selber so gut seyn und hienein steigen?
+
+
+MIERTEN.
+ Ie was gehn mich die Hosen an? welcher Dieb hat mir denn meine gestohlen?
+
+
+CORNELIS.
+ Sie habens ja gestern befohlen / sie kommen nur hinter den Vorhang und lassen sich in etwas ankleiden.
+
+
+MIERTEN.
+ Last mich nur die Hosen an die Beine kriegen / daß ich unter die Leute lauffen kan / ich will den Schelmen wohl kriegen / der mir meine Hosen genommen hat.
+
+
+Sie gehen mit einander hinter das Bette / da zeucht er Hosen an / Strümpff und Schuh.
+
+
+
+
+ROBERT.
+ Ich sehe wohl der Bauer will sich noch nicht in die Herrligkeit finden.
+
+
+
+LEO.
+ Es ist auch ein Grosses / wenn sich ein Bauer zu Fürstl. Gedancken schicken soll.
+
+
+ROBERT.
+ Unterdessen giebt es an unserm Hofe viel Exempel / daß mancher / der seinen Qvalitäten nach / nicht viel besser ist / als ein Bauer etwan einen unverdienten Gnaden-Blick von dem Fürsten bekömmt / und da ist des vorigen Standes auff einmahl vergessen / und was ihm träumet / das muß Fürstlich seyn.
+
+
+LEO.
+ Ich mercke / wohin der Herr Bruder zielet / doch es fehlt dem Bauer noch ein Gnaden-Blick / der ihn bey solcher Einbildung bestätigen kan.
+
+
+ROBERT.
+ An statt des Gnaden-Blickes werd ich eine artige Person spielen müssen / das ist / ich muß ihn bereden / daß ich sein bester Freund auff der Welt bin / damit soll es keine Difficultäten setzen / und wenn wir gar einen König aus ihm machen wolten.
+
+
+LEO.
+ Das ist auch die beste Kunst auff der Welt / wer sich mit nichts betrügen läst / der muß sich durch einen simulirten Freund hinter das Licht führen lassen.
+
+
+ROBERT.
+ Der Anfang ist etwas schwer / ehe man die Leute so viel bereden kan / daß sie der Freundschafft trauen / und da werd ich meine Kunst müssen zusammen nehmen.
+
+
+LEO.
+ Der Herr Bruder weiß schon / wie er die Gnade des Fürsten durch artige Mittel erhalten soll.
+
+
+
+
+
+
+
+
+4. Aufzug
+
+
+
+
+Vierdter Auffzug.
+
+Robert, Cammer-Juncker. Leo, Hoff-Juncker. Karsten, Breit, Chim, Frerik, Hoff-Pursche. Hernach Mierten, der Bauer. Cornelis, Cammerdiener.
+
+
+Die vier Bedienten bringen in silbernen Schalen Conficturen und etliche Becher mit delicaten Weine.
+
+
+
+ROBERT.
+ Siehe da / ihr seyd hurtige Leute / ihr kommet ehe man euer verlanget.
+
+
+
+KARSTEN.
+ Wenn uns was befohlen wird / so wollen wir nicht gerne langsam seyn.
+
+
+BREIT.
+ Und wenn wir delicate Sachen lange ansehen / so bitten wir uns gerne zu Gaste / daß darnach nicht viel auf dem Teller bleibt.
+
+
+CHIM.
+ Der Wein ist etwas auff der Neige / aber vielleicht hat der neue Fürste keinen getruncken.
+
+
+FRERIK.
+ Und wenn ers in Gedancken aussäufft / so meint er doch wohl / er hat eine Kanne Bier verschlungen.
+
+
+ROBERT.
+ Nehmt euch nur mit der Complimente in acht / daß ihr alles ausrichtet / wie es euch befohlen worden / die vornehmen Personen stellen sich nun ein.
+
+
+MIERTEN.
+ Nun geh ich in frembden Hosen / und in frembden Strümpffen wie ein Narr.
+
+
+ROBERT.
+ Ihr Gnaden / sie folgen doch ihren getreuesten Diener / und wenn sie mir nicht gläuben wollen / so gläuben sie doch den Leuten / die an sie geschickt werden.
+
+
+MIERTEN.
+ Ey wer wird an mich schicken.
+
+
+ROBERT.
+ Wo wollen denn die Leute ihre silberne Schüsseln / ihre silberne Becher hernehmen / wenn sie nicht an sie geschicket würden.
+
+
+MIERTEN.
+ Nu / wo iemand zu mir schickt / so mußs doch wohl wahr seyn / daß ich kein Bauer bin.
+
+
+KARSTEN.
+ Ihr Gnaden / das sämtliche Frauen-Zimmer zu Hofe läst erkundigen / ob sie diese Nacht wohl geruhet haben / und schicken hier etwas weniges auff den gestrigen Rausch / wündschen / daß es ihm wohl bekommen möchte.
+
+
+MIERTEN.
+ Wer schickt mir das Ding?
+
+
+KARSTEN.
+ Das gesammte Frauenzimmer / welches gestern die Ehre gehabt / mit Ihr Gnaden in Conversation zu leben.
+
+
+MIERTEN.
+ Und das schicken sie mir / daß ich alles behalten soll.
+
+
+KARSTEN.
+ Ihr Gnaden haben damit zu machen und zu befehlen / wie sie wollen / es steht zu ihren Diensten.
+
+
+MIERTEN.
+ Aber was ist denn das vor Qvarck / das drinne liegt / was macht man denn damit?
+
+
+ROBERT.
+ Ihr Gnaden sollen es essen.
+
+
+MIERTEN.
+ Ich werde das garstige Ding nicht ins Maul nehmen.
+
+
+
+ROBERT.
+ Ihr Gnaden sehen / ich will ein Stücke zuvor essen / sie leben so gütig und folgen mir nach.
+
+
+MIERTEN.
+ Nun das ist auch mein erstes mahl / daß ich solchen frembden Qvarck fresse: Ie daß dich / das schmeckt närrisch / es muß doch wohl wahr seyn / daß ich ein ander Kerle worden bin / sonst würden die Leute das Ding wohl selber fressen / und würden mirs nicht bringen / doch wenns meine seyn soll / so werd ichs wohl allein fressen: Er frist es gar vom Teller.
+
+
+
+BREIT.
+ Ihr Gnaden / hier ist noch etwas von eingemachten Sachen / wenn sie belieben darvon zu kosten / so wird es denjenigen sehr lieb zu vernehmen seyn / die es geschicket haben.
+
+
+MIERTEN.
+ Ich kenne euch nicht / aber ihr müst gutthätige Leute seyn / und ihr müst wohl was an mir ersehen haben / soll ich das auch essen.
+
+
+BREIT.
+ Ie mehr Ihr. Gnaden davon geniessen werden / desto glückseeliger wird meine Bothsdiafft seyn.
+
+
+MIERTEN.
+ Nu nu / gebt euch zu frieden / ists nicht mehr als das / so will ich euch nicht unglückseelig machen. Er frist den Teller auff.
+
+
+
+CHIM.
+ Hier ist auch etwas von einem guten Marcemim / so gut als er itzo in der Hoffkellerey vorhanden ist.
+
+
+FRERIK.
+ Oder belieben sie etwas von einen guten Canari-Seckt / sie haben die Wahl / daß sie kosten / befehlen sie was mehrers / so wird es gefolget werden.
+
+
+MIERTEN.
+ Wird mir das auch geschickt?
+
+
+CHIM.
+ Es wird alles geschickt / und zwar im Namen des Frauenzimmers.
+
+
+FRERIK.
+ Sie bitten auch hochlich Ihr. Gnaden wollens nicht verachten.
+
+
+MIERTEN.
+ Und die Becher soll ich auch behalten?
+
+
+CHIM.
+ Wenn Ihr. Gnaden wollen so gut seyn / und den geringen Becher bey sich behalten / so werden sich alle deßwegen freuen.
+
+
+
+FRERIK.
+ Ihr Gnaden haben des gesamten Frauenzimmers Hertz in ihrer Gewalt / also werden sie auch über die Becher zu gebieten haben.
+
+
+MIERTEN.
+ Aber soll ich denn so ein Narr seyn / und soll nüchtern sauffen?
+
+
+ROBERT.
+ Ihr Gnaden / das ist ein Tranck / der muß nüchtern genossen werden.
+
+
+MIERTEN.
+ Ist das ein Tranck / wie die Doctor geben / das sauff ich nicht.
+
+
+ROBERT.
+ Ihr Gnaden sehen / ich will zuvor kosten / es thut keinen Schaden.
+
+
+MIERTEN.
+ Ich will auch kosten / kan ich doch auff hören wenn ich will. Er säuffts gantz aus.
+
+
+
+ROBERT.
+ Ich dachte Ihr. Gnaden wolten auffhören?
+
+
+MIERTEN.
+ Es schmackte mir auch nicht böse / laß doch sehn / was ist doch das vor Ding? ich muß sehen / wie das zu Halse gehet. Er säuffts auch aus. Nun ist mir schon ein bißgen besser ums Hertze / ich werds balde gläuben / daß ich ein Fürste bin.
+
+
+KARSTEN.
+ Wollen Ihr. Gnaden noch was mehrs haben?
+
+
+MIERTEN.
+ Meintwegen last nichts draussen.
+
+
+BREIT.
+ Es soll bald was folgen.
+
+
+CHIM.
+ Von welcher Gattung sollen wir den Becher wieder füllen lassen.
+
+
+MIERTEN.
+ Bringt was ihr habt / in dem Hause schmeckt alles gut.
+
+
+FRERIK.
+ So will ich auch meinen Becher wieder füllen lassen.
+
+
+MIERTEN.
+ Ja ja bringt mir nur alles wieder / denn es ist alles meine.
+
+
+Die Bedienten gehen ab.
+
+
+
+
+ROBERT.
+ Ihr. Gnaden / wollen sie nicht so gut seyn / und das Kleid vollends anlegen?
+
+
+MIERTEN.
+ Herr / ihr seyd wol der redlichste Mensch auff der Welt / sagt mirs doch / was bin ich denn?
+
+
+ROBERT.
+ Ihr Gnaden sind der frembde Fürst / der sich auff unserm Hofe auffhält.
+
+
+MIERTEN.
+ Bin ich derselbe Fürste / ie drum thut ihr wohl so erbar mit mir.
+
+
+
+ROBERT.
+ Freylich ist das meine Schuldigkeit / Sie lassen sich nur ankleiden.
+
+
+MIERTEN.
+ Ie was stecken doch vor Fürstliche Gedancken in einem Becher Weine. Cammerdiener wo bistu?
+
+
+CORNELIS.
+ Ihr Gnaden was befehlen sie?
+
+
+MIERTEN.
+ Komm her auff die Seite und sage mir wer ich bin?
+
+
+CORNELIS.
+ Sie sind der fremde Fürst in unserm Hofe.
+
+
+MIERTEN.
+ Die Leute bleiben auff der Rede beständig: geh weg / und laß den Herrn dort rüber kommen.
+
+
+LEO.
+ Was schaffen Ihre Gnaden?
+
+
+MIERTEN.
+ Sagt mir wer bin ich denn?
+
+
+LEO.
+ Sie fragen mich doch nicht / sie werdens selbst besser wissen.
+
+
+MIERTEN.
+ Aber ich höre es so gerne / wenn andre Leute auch wissen / wer ich bin.
+
+
+LEO.
+ Sie sind der frembde Fürste / der sich schon etliche Jahr an unsern Hofe auffgehalten hat.
+
+
+MIERTEN.
+ Nun aus dreyer zeugen Munde bestehet die Wahrheit. Bin ich nicht ein Hunds – – – daß ich mich selber nicht kenne. Ich halte die Fürsten haben den Gebrauch / daß Sie alles den andern Tag vergessen / was geschehen ist. Ich weiß wohl / unserm Dorffschencken verehrte ich einmahl einen grosen Käse / aber er hats hübsch wieder vergessen. Nun Kammerdiener / so kom doch und zeuch mich an.
+
+
+CORNELIS.
+ Wollen Sie in das Nebenzimmer spatzieren / so können wir die Kleider desto besser auslesen.
+
+
+MIERTEN.
+ Ie / ja ja / du wirst mir wohl nichts zumuthen / was nicht Manier ist.
+
+
+Sie gehen hinein / die Scene fällt zu und verbirgt das Bette.
+
+
+
+
+ROBERT.
+ Der Trunck hat Ihn muthig gemacht / er soll sich nun wohl gebrauchen lassen.
+
+
+LEO.
+ Aber er darff nicht zu viel trincken / ehe es Zeit wird / sonsten macht er uns die Kurtzweile zu schanden.
+
+
+ROBERT.
+ Wenn er die Herrligkeit in halb voller Weise geniessen soll / so wird hernach die Lust einem Traume desto ähnlicher seyn.
+
+
+
+LEO.
+ Sonderlich wo er das Reissen im Kopffe davon bekömmt / so wird er sich wundern / was die Träume heut zu tage vor Effect haben.
+
+
+
+
+
+
+
+
+5. Aufzug
+
+
+
+
+Fünffter Auffzug.
+
+Wilhelm, Stallmeister. Heinrich, Cammerjuncker. Robert, Cammerherr. Leo, Hoffjuncker.
+
+
+
+WILHELM.
+ Wir wollen zugleich gehen. Ihro Fürstl. Gnaden werden es uns zu gute halten.
+
+
+HEINRICH.
+ Oder wir werden bitten / daß die Straffe biß auff den morgenden Tag verschoben bleibt.
+
+
+ROBERT.
+ Sie werden etwas verziehen müssen / Ihro Gnade haben sich noch nicht anlegen lassen.
+
+
+WILHELM.
+ Gar wohl. Aber wie schickt sich die Person zu dem Possenspiele?
+
+
+HEINRICH.
+ Ich halte der Bauer wird ein Bauer bleiben / und wenn er in ein gülden Stücke krichen wird.
+
+
+ROBERT.
+ Ach nein / er hat etliche Becher auff das Hertze genommen / damit ist er in seinen Gedancken so gut als ein Fürste.
+
+
+WILHELM.
+ Das ist der beste Trost wieder das Armuth; Wenn man sich volltrincken kan / so vergist man seines Elendes.
+
+
+HEINRICH.
+ Ja wohl / der Wein ist die beste Artzney wieder die Armuth und Bekümmernüß / aber wer sie am meisten von Nöthen hat / der kan sie am wenigsten haben.
+
+
+WILHELM.
+ Doch hat man dieses aus der Experienz, daß der Wein unvergleichliche Würckung thut / wenn man dergleichen niemahls getruncken hat.
+
+
+HEINRICH.
+ Ich weiß nicht unsre Leute mögen sauffen wenn sie wollen / so bleibt der Wein bey einerley Würckung.
+
+
+WILHELM.
+ Ich sage / die ungemeine Würckung stehet hierinne / daß man sich die Gedancken verrücken läst.
+
+
+HEINRICH.
+ Ich weiß einen guten Freund / der hat die Gedancken 
+niemahls in der Ordnung / so hat er bey der schärffsten debauche keine Sorge / daß ihm etwas in Kopffe verrücket wird.
+
+
+WILHELM.
+ Es ist eine Glückseeligkeit / darinne ich nicht eine halbe vierthwel Stunde leben wolte.
+
+
+HEINRICH.
+ Wer aber in einem Stande lebt / da er von Sauffen muß Profession machen / der kan es nicht ändern. Bricht er in voller Weise den Halß / so stirbt er in seinem Beruffe.
+
+
+WILHELM.
+ Und wer ihn beruffen hat / von dem mag er auch den Schlüssel zum Himmelreich fodern.
+
+
+HEINRICH.
+ Der Tag ist zu lustig vor die ernsthafften Discurse, wir wolten lieber sehn / daß wir gegen den frembden Fürsten mit unser Complimente bestehen.
+
+
+
+
+
+
+
+
+6. Aufzug
+
+
+
+
+Sechster Auffzug.
+
+Die Vorigen. Mierten, der Bauer. Cornelis, Cammer-Diener.
+
+
+
+MIERTEN.
+ Es ist wohl ein hübsch thun um den Fürsten-Stand / wenn man lauter gut Ding zu fressen und zu sauffen hat: Aber die Kleider spannen so trefflich / ich wilis keinen Menschen klagen wohin mich die Hosen drücken / und ich dächte immer ein Zippel-Peltz wäre gätlicher als die Jacke. Nun mein ietziger Stand bringts so mit / ich muß nur geduldig seyn.
+
+
+WILHELM.
+ Ihr Gnaden zu dienen.
+
+
+MIERTEN.
+ Gar gerne.
+
+
+WILHELM.
+ Unser Gnädigster Herr läst sich erkundigen / wie sie auf die gestrige Ergetzligkeit geruhet haben. Denn weil sie noch nicht in ihren Cabinet erschienen sind / stehen sie in Sorgen / es möchte Ihro Gnaden ein Unfall zugestossen seyn.
+
+
+MIERTEN.
+ Nein ich weiß von keinem Unfalle / wo es die Leute 
+haben wollen / daß ich soll ein Fürste seyn / davon will ich nicht kranck werden.
+
+
+HEINRICH.
+ Aber so werden Ihre Gnaden so gut [sein] und uns in das Fürstl. Cabinet begleiten. Sie tragen ein hertzlich Verlangen mit Deroselben die Morgen-Stunde in lustiger Conversation zu zu bringen.
+
+
+MIERTEN.
+ Weiß denn der Fürst auch was ich bin?
+
+
+WILHELM.
+ Was alle Leute wissen / das wird Ihr. Fürstl. Durchl. nicht verborgen seyn.
+
+
+HEINRICH.
+ Sie halten sich nur nicht auff / wo es Ihr. Gnaden sonst gefällt / an einen Ort zu kommen / da sie am liebsten gesehen werden.
+
+
+MIERTEN.
+ Ie nu nu / wem mit einen Gernesehen gedienet ist / dem will ich gar bald darzu helffen / den redlichen guten Freund will ich mit nehmen / er muß mir sagen / was ich sprechen soll / und wo ich hintreten soll.
+
+
+ROBERT.
+ Ihr Gnaden wissen es ohn dem besser / doch wofern sie in diesem Stücke meine Dienste probiren wollen / so will ich nicht ungehorsam seyn.
+
+
+WILHELM.
+ Nun befehlen sie / daß wir gehen sollen?
+
+
+MIERTEN.
+ Ie nun / wenns am befehlen liegt / so schert euch immer hin / ich will ja sehen / wo ihr mich werdet hin führen.
+
+
+HEINRICH.
+ Das sind glückselige Diener / die mit ihrem Herrn so vertraulich reden dürffen.
+
+
+ROBERT.
+ Ihr. Gnaden sehen nur auff mich / ich will schon erinnern / was zu thun ist.
+
+
+LEO.
+ Und wo was guts erinnert wird / so soll mir es lieb seyn / daß ich Zeit zum lachen habe.
+
+
+
+
+
+
+
+
+7. Aufzug
+
+
+
+
+
+
+Siebender Auffzug.
+
+Philippus, der Hertzog. Egmund, Hoff-Marschall.
+
+
+
+PHILIPPUS.
+ Wir haben noch keine Nachricht bekommen / wie es mit dem neugebackenen Fürsten wird abgelauffen seyn.
+
+
+EGMUND.
+ Es haben sich die rechten Personen darzu gebrauchen lassen / und derohalben ist kein Zweifel / der gute Stümper wird sich in seinen Fürsten- Stand schicken müssen.
+
+
+PHILLIPPUS.
+ Wir haben die Morgen-Stunde mit unsern wichtigen Regierungs-Geschäfften zugebracht / der übrige Tag wird zu unser Vergnügung gewiedmet seyn.
+
+
+EGMUND.
+ Arbeit und Ergötzligkeit muß mit einander abwechseln / eins von beyden ruinirt den Menschen / wenn es Vor- und Nach-Mittage währet.
+
+
+PHILLIPPUS.
+ Und solcher Wechsel wird am besten gesucht / wenn ein Land in friedlichen Wohlstande regieret wird.
+
+
+EGMUND.
+ Es ist wahr. Die Welt ist allenthalben mit Kriege / oder doch zum wenigsten mit Krieges-Geschrey erfüllet. Nur in diesem Lande können die Einwohner dem Gnadenreichen-Himmel nicht gnung dancken / indem die vollkommenen Friedens-Früchte so reichlich genossen werden.
+
+
+PHILLIPPUS.
+ Es scheinet / als wenn der Nachbahren Unruhe viel zu unser Sicherheit contribuiren müssen.
+
+
+EGMUND.
+ Es ist nicht weniger. Ander Leute / die sich vor ihren Feinde vor zu sehen haben / die haben nicht viel Zeit daß sie daran gedencken / wie sie uns schaden sollen. Inmittelst muß doch eine Reflexion auff die rechte Sorgfalt eines getreuen Landes-Vaters gemachet werden. Denn wer sich in die viel Dinge mischen will / der muß sich auch der nachfolgenden Verwirrung theilhafftig machen.
+
+
+PHILLIPPUS.
+ An unserer Gütigkeit soll niemahls ein Mangel erscheinen / und werden wir nicht zu einen Kriege genöthiget / so wollen wir die Gelegenheit nicht selber suchen. Ach könten wir nur des guten Gemüths von unserm Printzen 
+versichert seyn. Sein Humeur scheinet uns etwas zu wilde / und wir besorgen / wofern die Leute unsere Güthigkeit mißbrauchen / so wird einer nach uns kommen / der sich allzuhefftig in den Krieg verwickeln möchte.
+
+
+EGMUND.
+ Euer Hochfürstl. Durchl. sind zu sorgfältig. Es ist wohl gethan / daß ein junger Printz einen auffgeweckten Geist hat / und was bey der ersten Jugend ermangeln möchte / dasselbe muß durch die gute Aufferziehuhg / und durch das Hochlöbl. Exempel des Durchl. Herrn Vaters bey guten Temperament erhalten werden. Und wie so gar zu rechter Zeit stellet sich die zukünfftige Hoffnung dieses Landes ein.
+
+
+
+
+
+
+
+
+8. Aufzug
+
+
+
+
+Achter Auffzug.
+
+Die Vorigen. Carolus, der Printz.
+
+
+
+CAROLUS.
+ Gnädigster Herr Vater / ich dancke dem gütigen GOtt / daß sie diesen Morgen frölich erlebet haben.
+
+
+PHILLIPPUS.
+ Und wir dancken GOtt / daß ihr uns mit einer frölichen Mine deßwegen gratuliren könnet. Wo seyd ihr gewesen?
+
+
+CAROLUS.
+ Ich komme aus den Frauenzimmer.
+
+
+PHILLIPPUS.
+ Hat euch der Hoffemeister nichts zu thun gegeben?
+
+
+CAROLUS.
+ Er wolte gleich anfangen. Aber ich bat / daß ich dem Herrn Vater auffwarten möchte.
+
+
+PHILLIPPUS.
+ Habt ihr nun etwas zu bitten?
+
+
+CAROLUS.
+ Ach ja / wenn ich seine Gnade mit meiner Bitte erhalten könte.
+
+
+PHILLIPPUS.
+ Wenn es uns möglich ist / und wenn es euch anstehet / so habt ihr an der väterlichen Gütigkeit nicht zu zweifeln.
+
+
+CAROLUS.
+ Ach gnädigster Herr Vater / es ist möglich / und es steht mir auch an.
+
+
+
+PHILLIPPUS.
+ So last doch hören / worinne euch soll geholffen werden.
+
+
+CAROLUS.
+ Ich soll zum Tantzmeister gehen.
+
+
+EGMUND.
+ Ja liebster Printz / das ist eine stattliche Sache: Man gewöhnt sich dadurch zu einer anständigen Mine.
+
+
+CAROLUS.
+ Aber was hilfft mir das Tantzen? Deßwegen wird niemand vor mir zu Fusse fallen. Ich will fechten / reiten und fechten lernen / das ist eine Sache / die mir anstehet.
+
+
+EGMUND.
+ Liebster Printz / die Jahre sind noch zu schwach / man muß eines nach dem andern vornehmen: Wenn die Zeit kommen wird / so soll es an dem besten Exercitien-Meister nicht fehlen.
+
+
+CAROLUS.
+ Hab ich ihn doch nicht gebethen / das weiß ich wohl / daß er mir nicht gut ist.
+
+
+EGMUND.
+ Ach da behüte mich der Himmel / daß ich so einen liebreichen Printzen solte zuwider seyn.
+
+
+CAROLUS.
+ So helffe er doch dem Herrn Vater bitten / daß ich an statt des Tantzens was anders auslesen mag.
+
+
+EGMUND.
+ Alles zu seiner Zeit / und sagt nur was wolt ihr mit dem Fechten machen? ihr könnt ja das Rappier noch nicht erheben.
+
+
+CAROLUS.
+ Ich will es zuvor mit kleinen Degen versuchen / man kan auch die Leute mit todt stechen. O ich sehe die Bilder auff unserm Saale so gerne an / wie sich die Engelländer und Frantzosen mit einander schmeissen / und ich dencke flugs / ach! wenn ich doch auch solte dabey seyn.
+
+
+PHILLIPPUS.
+ Sohn / Sohn entdecket euer Gemüthe nicht zu sehr / wir wissen ohn dem wohl / was euch vor eine Begierde zu des Landes Untergange treiben wird.
+
+
+EGMUND.
+ Gnädigster Herr / wer weiß wer den guten Printzen zu diesen Gedancken geholffen hat: Es entstehet bißweilen bey der Jugend eine Hitze / die sich bey wachsenden Jahren gar leicht abkühlen läst.
+
+
+PHILLIPPUS.
+ Nun wir wollen diesem Trost noch statt geben / 
+damit unser Bekümmerniß die heutige Lust nicht verhindern darff.
+
+
+CAROLUS.
+ Allein was soll ich haben / Gnädigster Herr Vatter.
+
+
+PHILLIPPUS.
+ Ihr sollt heute einen Feyertag haben / und bey uns bleiben / morgen soll etwas verordnet werden / das euch nicht übel gefallen wird.
+
+
+CAROLUS.
+ Ich bin gehorsam und lasse mich weisen.
+
+
+
+
+
+
+
+
+9. Aufzug
+
+
+
+
+Neundter Auffzug.
+
+Die Vorigen. Wilhelm, Stallmeister. Heinrich, Cammer-Juncker. Robert, Cammer-Herr. Leo, Hoff-Juncker. Mierten, ein Bauer.
+
+
+
+EGMUND.
+ Siehe da / siehe da Herr Fürst / wir haben heute etwas lange geschlaffen / ich dachte bald bey den letzten Becher würde er vergessen / daß er diesem Cabinet eine Visite schuldig wäre.
+
+
+MIERTEN.
+ Herr wo es wahr ist / daß ich einen Becher getruncken habe / so kan ich mir nicht helffen / es muß auch wahr seyn / daß ich alles vergessen habe.
+
+
+EGMUND.
+ Es ist eine Sünde die sich leicht entschuldigen läst.
+
+
+MIERTEN.
+ Das denck ich auch / aber ich soll zum Fürsten kommen / seyd ihrs irgend?
+
+
+EGMUND.
+ Ach nein / wer den Hut auff hat / wenn die andern mit entblößten Häuptern stehen / der ist der Fürste.
+
+
+MIERTEN.
+ Nun last doch sehn / der hat den Hut auff und ich / einer unter uns beyden muß [es] wohl seyn.
+
+
+EGMUND.
+ Freylich ist dieses der gebietende Herr im Lande / er ist so leutselig und lässet sich allenthalben sehen. Alle Kinder und alle Bauern kennen ihn.
+
+
+MIERTEN.
+ Es ist erlogen / daß ihn alle Bauern kennen / ich müste ihn ja auch gesehen haben.
+
+
+ROBERT
+
+zeucht ihn auff die Seite.
+
+ Ihr Gnaden wenn sind sie denn ein Bauer gewesen? Sie bedencken doch was sie reden.
+
+
+
+MIERTEN.
+ Ja sieh es ist wahr / ich bin ein Fürst. Ja nun Herr Fürste / weil wir so eines Handwercks mit einander seyn / so wolt ich doch sehn / was ihr macht.
+
+
+PHILLIPPUS.
+ Ihr thut gar recht dran / aber was bringt Ihr guts?
+
+
+MIERTEN.
+ Die Leute zu Hofe bringen nicht viel / sie reden so ein wenig Narren-Possen / und fragen wie man die Nacht geschlaffen hat.
+
+
+PHILLIPPUS.
+ Es sind keine Narren-Possen / wenn man die gantze Nacht nicht schlaffen kan.
+
+
+MIERTEN.
+ Aber wenn ich mich auff der Bocht / wie ein Narr rümgeweltzet habe / so hilfft michs auff den Morgen nicht viel / ob iemand darnach fragen last.
+
+
+PHILLIPPUS.
+ Doch wie kömmts / euer Bart meint es gar treu mit euch / er will euch nicht verlassen.
+
+
+MIERTEN.
+ O der Bart steht auff redlichen Leder / wenn einer zum Schelmen wird / so lauffen die Haare davon.
+
+
+PHILLIPPUS.
+ Das war zu viel geredt / so müssen alle vornehme Cavallier den garstigen Titel verdienen / weil sie den Bart verlohren haben.
+
+
+MIERTEN.
+ Ey Herr / mit Unterscheid / sie lassen sich den Bart wegschneiden / ich sage nur / das ist ein Schelm / wo die Haare selber weg lauffen.
+
+
+PHILLIPPUS.
+ So last euch den Bart auch abschneiden.
+
+
+MIERTEN.
+ O nein / ich fürchte mich gar zu sehr.
+
+
+WILHELM.
+ Wir sterben nicht vom Scheermesser / also werden ihre Gnaden auch bey dem Leben bleiben.
+
+
+HEINRICH.
+ Oder wenn wir den Bart einer Wiese vergleichen wollen / so wärs um ein halb Tage- Werck / damit wäre alles runter gesebelt.
+
+
+MIERTEN.
+ Und eben drum will ichs nicht geschehen lassen / weil ihr meinen Bart einer Wiese vergleicht.
+
+
+WILHELM.
+ Ich sehe nicht was an dem Gleichnüsse zu tadeln ist.
+
+
+HEINRICH.
+ Und es ist wahr / wenn das Graß noch so viel mahl gehauen wird / so hat die Wiese gleichwohl keinen Schaden davon.
+
+
+
+MIERTEN.
+ Ey nicht doch / und wenn der Meder seine Arbeit verrichtet hat / so mag er auff die Sturtzeln was anders thun / das soll mir einer bey meinen Barte wohl bleiben lassen.
+
+
+WILHELM.
+ Aber ich wolte mir lassen so viel wegnehmen / daß der Trunck nicht verhindert würde.
+
+
+HEINRICH.
+ Ihr Gnaden lassen es bleiben. Sie trincken unter uns das reineste / denn es wird alles zuvor durch ein Haar-Sieb geseigt / ist was unreines im Becher / so bleibts am Barte kleben.
+
+
+WILHELM.
+ Oder was er nicht trincken kan / das geust er unterdessen in Bart.
+
+
+HEINRICH.
+ Eine schöne Invention. Wenn man in der Nacht nach dem Truncke durstig wird / so zutschet man am Barte / damit ist der Angst gerathen.
+
+
+WILHELM.
+ Aber wenn so ein Herr mit seinem nassen Barte sonst wohin fiele / wie solte ihm in der Nacht das Zutschen bekommen.
+
+
+HEINRICH.
+ Ich halte der Bart nimmt nicht mehr an / als er beherbergen kan / was überflüßig ist / das schüttelt er weg.
+
+
+MIERTEN.
+ Wenn ich nicht ein Fürste wäre / so dächt ich die Leute hätten mich zum Narren.
+
+
+WILHELM.
+ Ja das ist wohl der Fürste unter allen Bärten im gantzen Lande.
+
+
+HEINRICH.
+ Ich höre die Bärte wollen einen Reichs- Tag ausschreiben / und da wird der Fürstl. Bart das Directorium führen.
+
+
+MIERTEN
+
+zeucht Robert auff die Seite.
+
+ Ich halte es muß wohl so seyn / daß wir einander zum Narren haben.
+
+
+ROBERT.
+ Ihr Gnaden wissen ja wohl / die Mode bringt es zu Hofe so mit / vexiren die andern / so vexire man wieder.
+
+
+
+MIERTEN.
+ Es hat sich wohl vexirt / wer die Kunst nicht gelernet hat.
+
+
+ROBERT.
+ Ey Ihre Gnaden habens lange gelernet / Sie machen nur allezeit eine ernste Mine / wenn sie lachen / so dencken die andern / sie lachen sich selber aus.
+
+
+MIERTEN.
+ Nu / nu / wenn ich nur weiß / was Mode ist / so leide ich alles gerne mit.
+
+
+
+
+
+
+
+
+10. Aufzug
+
+
+
+
+Zehender Auffzug.
+
+Die Vorigen. Brigitte, die Kammerfrau.
+
+
+
+BRIGITTE.
+ Ihr Durchl. halten mirs zu Gnaden / daß ich so gleich zugehe / meine Gnädigste Frau schickt mich her / und wolte gerne bey dem neuen Fürsten was ausrichten lassen.
+
+
+PHILLIPPUS.
+ Es ist uns nicht lieb / daß sich unser Gemahlin mit frembden Fürsten allzu bekannt machen will.
+
+
+BRIGITTE.
+ Was mir befohlen ist / das muß ich verrichten.
+
+
+PHILLIPPUS.
+ So geht doch / legt die Botschafft ab.
+
+
+BRIGITTE.
+ Wer weiß ob ich den frembden Herrn ansprechen darff.
+
+
+PHILLIPPUS.
+ O der Fürst läst mit sich reden / als ein gemeiner Mann. Wie stehts Herr Fürste? Er hat sich gar in seinen Gedancken vertiefft.
+
+
+WILHELM.
+ Ja wo es im Kopff so eine Verwirrung giebt / als im Barte / so ist es kein Wunder.
+
+
+MIERTEN.
+ Der Bart ist ein Zeichen der Mannheit / wer innwendig im Kopffe einen Bart hat / der hat auch einen Männlichen Verstand.
+
+
+PHILLIPPUS.
+ Ey wir haben gnung vom Barte geredet / wir wollen lieber wissen / ob die ehrliche Frau sich erkühnen dürffte mit dem Herrn Fürsten zu reden.
+
+
+MIERTEN.
+ Wo sie sich vor meinem Barte nicht entsetzet / so mag sie mit mir reden was sie will.
+
+
+BRIGITTE.
+ Gnädigster Herr.
+
+
+
+MIERTEN.
+ Ja heut zu Tage bin ich das.
+
+
+BRIGITTE.
+ Ihr Durchl. meine Gnädigste Frau läst sich erkundigen / wie es Ihr. Gnaden gehet?
+
+
+MIERTEN.
+ Weiß die Gnädigste Frau auch schon / daß ich ein Fürste bin?
+
+
+BRIGITTE.
+ Was die Warheit ist / das wissen alle Leute.
+
+
+MIERTEN.
+ Was will aber E. Gnädigste Frau davon haben / wenn Sie weiß daß ich ein Fürste bin.
+
+
+BRIGITTE.
+ Sie wollen gerne die Ehre geniessen / mit Ihr Gnaden ferner bekand zu werden.
+
+
+MIERTEN.
+ Wenn wir Bauern mit einen Weibsvolck bekannt werden / so gehts gar lächerlich zu.
+
+
+BRIGITTE.
+ Wenn ich mit einen Bauer zu thun hätte / so wolt ich auch was anders reden.
+
+
+MIERTEN.
+ Daß dich Sanct Velten, der Bauer schlug mich wieder in Nacken.
+
+
+BRIG.
+ Ich halt ihr heist mich eine Bauersfrau / und wolt mich in Nacken schlagen.
+
+
+MIERTEN.
+ Ach nein / ich meine nur / wer mich einen Bauer heisse / den wolt ich in Nacken schlagen.
+
+
+ROBERT.
+ Ihr Gnaden / Sie vergessen allemahl / daß Sie ein Fürste seyn / die Printzeßin will gerne Antwort haben.
+
+
+MIERTEN.
+ Ist denn das zu Hofe herkommens / daß ein Fürste dem andern zur Frauen gehet.
+
+
+ROBERT.
+ Es ist eine höffliche Auffwartung / wers nicht thut / den hält man vor einen Bauer.
+
+
+MIERTEN.
+ Nu lieber Herr Fürste / allerschönster Landes-Vater / eure Frau läst mir doch nicht vom Halse / biß ich komme / seht nicht scheel / daß ich wie ein ander Beernheuter davon lauffe / wenn mich die Frau genung wird gebrauchet haben / will ich schon wieder kommen /
+
+
+PHILLIPPUS.
+ Es steht euch frey / ihr habt zu befehlen / doch solts uns lieb seyn / wenn ihr bald wiederkommet.
+
+
+Mierten, Brigitte, Robert, und Leo gehn ab.
+
+
+
+
+
+
+
+
+
+11. Aufzug
+
+
+
+
+
+
+Eilffter Auffzug.
+
+Die Vorigen. Philippus, der Hertzog. Egmund, Hoff-Marschall. Carolus, der Printz.
+
+
+
+PHILLIPPUS.
+ Wir wollen das Frauenzimmer bey ihrer Lust lassen.
+
+
+EGMUND.
+ Wenn Sie den neugebackenen Printzen bey sich haben / so können Sie auch die Lust in beßrer Freyheit ausschütten.
+
+
+PHILLIPPUS.
+ Indessen kan gute Anstalt gemacht werden / daß die Ausländischen Künstler mit ihren singenden Spiele parat seyn.
+
+
+EGMUND.
+ Sie haben alles in guter Ordnung / und es ist nur um einen Befehl zu thun / so haben sie in einer Viertel-Stunde alles an der Hand.
+
+
+PHILLIPPUS.
+ Also mag es auff den Mittag nach der Taffel gewiß vor sich gehen.
+
+
+EGMUND.
+ Aber dieser liebe Printz wird auch sollen dabey seyn.
+
+
+CAROLUS.
+ Ich muß wohl dabey seyn / wenn es befohlen wird; Aber ich wolte lieber in den Krieg ziehen / und eine Comoedie mit den Degen spielen.
+
+
+EGMUND.
+ Die Comoedie gehöret nicht vor den heutigen Tag / was künfftiger Zeit kommen wird / davor soll GOtt und der Herr Vater schon Sorge tragen.
+
+
+PHILLIPPUS.
+ Ach wo dieses Land einen unruhigen Fürsten bekommen soll / so wird unsere Sorge zu wenig seyn.
+
+
+Sie gehen ab.
+
+
+
+
+
+
+
+
+
+12. Aufzug
+
+
+
+
+Zwölffter Auffzug.
+
+Wilhelm, Stallmeister. Heinrich Cammer-Juncker.
+
+
+
+WILHELM.
+ Der Fürste will uns die Freude nicht gönnen.
+
+
+HEINRICH.
+ Er ist nicht anders. Denn wir dürffen den Fürsten nicht in das Frauenzimmer begleiten.
+
+
+
+WILHELM.
+ Was ietzund nachbleibet / das soll schon bey der Taffel eingebracht werden.
+
+
+HEINRICH.
+ Es ist gewiß / der Kerl muß ein Denckmahl mitnehmen / daß er weiß was ihm getraumet hat.
+
+
+WILHELM.
+ Ich freue mich nicht so sehr auff die Kurtzweile des heutigen Tages / als auff die Erzehlung / die der Bauer von seinem Traume machen wird.
+
+
+HEINRICH.
+ Ich möchte gerne dabey seyn / wenn er in seinem alten Zippel-Peltze wiederum auffstehen wird.
+
+
+WILHELM.
+ Aber solte nicht ein listiges Stückgen von unsern Piksten darunter verborgen seyn?
+
+
+HEINRICH.
+ Der Herr sucht seine Kurtzweile / ich halte nicht / daß er uns Hoff-Leuten diesen Bauer zum Lehrmeister vorstellen wird.
+
+
+WILHELM.
+ Indessen ist das Menschliche Leben nichts anders als ein Traum / wie vielmahl haben sich die Ehren-Stellen zu Hofe verändert / und wenn man die vorige Person fragen solte / so würden sie von aller Glückseligkeit nichts mehr übrig haben / als der elende Bauer / wenn er sich wieder in seinem Zippel-Peltze befinden wird.
+
+
+HEINRICH.
+ Es ist doch ein Unterscheid / wenn etwas viel Jahre nach einander währet / und wenn man in seinem Vergnügen viel Jahr nacheinander unterhalten wird.
+
+
+WILHELM.
+ Was ist ein Jahr / und was ist ein Augenblick / niemahls kan ich mehr geniessen / als ein gegenwärtiger Augen-Blick austräget.
+
+
+HEINRICH.
+ Aber wenn ich etwas wahrhafftig geniesse / so kan es mit einer eilenden Einbildung nicht verglichen werden.
+
+
+WILHELM.
+ Wenn aber die fröliche Zeit verschwunden ist / so ist dennoch nichts mehr übrig / als ein Schatten-Bild / daß man sich in Gedancken vorstellet.
+
+
+HEINRICH.
+ So müssen die Leute toll und rasend seyn wenn sie eines Schattenbildes wegen so viel Arbeit / so viel Mühe / so viel Angst und Gefahr über sich nehmen wollen. Man dencke doch / was hat man zu thun / ehe die Gnade des Fürstens erlanget wird / und wie muß man sich schmiegen / wenn sie soll erhalten werden.
+
+
+
+WILHELM.
+ Auch die Mühe und die Sorge ist ein Schatten-Werck / wenn die Noth vorüber ist / so denckt man eben so viel dran / als an einen Traum / der uns was schreckliches vorgestellet hat.
+
+
+HEINRICH.
+ Wenn dieses wahr ist / so begehen die Staats-Leute lauter Thorheit.
+
+
+WILHELM.
+ Das folgt nicht. Ich wolte dem Meister was ehrliches zahlen / der mir alle Nacht zu einem guten Traume helffen könte. Denn ob gleich die Augen-Blicke vergänglich sind / so hat mans doch gerne / daß sie mit guter Freude beschlossen werden.
+
+
+HEINRICH.
+ Wo ich lange mit ihm rede / so werd ich ein Philosophus, er komme und lasse sich in eine Compagnie führen / da wir ihm überstimmen können.
+
+
+WILHELM.
+ Ich lasse mich leicht überstimmen / denn in der Gesellschafft rede ich / was denen meisten lieblich ist.
+
+
+Gehen ab.
+
+
+
+
+
+
+
+
+
+13. Aufzug
+
+
+
+
+Dreyzehender Auffzug.
+
+Krix, ein Bauer. Ebbe, seine Frau. Gosch, ein Bauer. Puse, dessen Frau. Clas, ein Bauer. Brütte, die Frau.
+
+
+
+KRIX.
+ Ihr Weiber / warum habt ihr uns nicht bey unserer Freude gelassen / so hätten wir unsern lieben Nachbar nicht verlohren.
+
+
+EBBE.
+ Wenn eine Frau im Wochen liegt / so stehts auch wohl nicht feine / daß man von Hause weg bleibet.
+
+
+KRIX.
+ Ich dächte / da könte der Mann am besten abkommen / und seht doch / wie schön habt ihr den Mann heimbracht.
+
+
+EBBE.
+ Da wir an unsern versoffenen Männern zu schleppen hatten / so war es kein Wunder daß er im Stiche bliebe.
+
+
+KRIX.
+ Nun so schafft ihn doch wieder.
+
+
+EBBE.
+ Von euch wird es gefodert werden / ich komme mein lebtage nicht mehr in das Hauß / wo sie ihren Mann nicht wieder kriegt.
+
+
+
+PUSE.
+ Und ich vergeb es meinem Manne die Zeit meines Lebens nicht / wo die gute Frau Nachbarn ihren besten Trost verliehren soll.
+
+
+BRIGITTE.
+ Ich weiß was sie die Nacht vor ein Hertzeleid verführet hat / ich halte immer die Mutter und das Kind wird davor bezahlen müssen.
+
+
+EBBE.
+ Nu ihr Männer / da steht ihr wie Matz-Latz / seyd ihr mit ihm zum sauffen gegangen / so schafft ihn doch wieder.
+
+
+PUSE.
+ Ich halte / wenn ihr einmahl wolt courage seyn / so müst ihr vor sauffen.
+
+
+BRIGITTE.
+ Ja heute seyd ihr gar langweilig.
+
+
+KRIX.
+ Nun ihr lieben Weiber / wolt ihr uns wieder was zu trincken geben / wir wollen wohl sehen / daß wir die Courage wieder kriegen.
+
+
+GOSCH.
+ Oder wir wollen ins Wirthshauß gehen / da wir gestern soffen / vielleicht thut uns der Herr Wirth noch eine Ehre an.
+
+
+CLAS.
+ Ich halte immer es blieb noch eine Kanne zurücke / wo sie noch da stehet / so haben wir was zum Anfange.
+
+
+KRIX.
+ Es ist am besten / daß wir uns theilen / ich will daher gehen / meine Hauß-Ehre gehet mit.
+
+
+GOSCH.
+ Und ich will dort hingehen / meine Hauß- Ehre nehm ich auch mit.
+
+
+CLAS.
+ So geh ich an einen andern Ort / und werd ich meine Hauß-Ehre nicht mit nehmen / so wird sie mir wohl vor sich selbst nachlauffen / das ist wahr / ich will meinen Kopff nicht sanfft legen / biß ich weiß / wo der liebe ehrliche Nachbar geblieben ist.
+
+
+Sie gehen an unterschiedenen Orten ab.
+
+
+
+
+
+
+
+
+
+14. Aufzug
+
+
+
+
+
+
+Vierzehnder Auffzug.
+
+Leo, Hoff-Juncker. Brigitte, die Cammer-Frau.
+
+
+
+LEO.
+ Ihr liebe alte Mutter / habt ihr auch so eine Freude erlebet / daß ein neuer Fürste in euer Frauenzimmer kommen ist?
+
+
+BRIGITTE.
+ Ja ja / wer den Possen angegeben hat / der wird bey der lieben Fürstin einen grossen Danck verdienen.
+
+
+LEO.
+ Wie ist aber seine Höffligkeit abgelauffen?
+
+
+BRIGITTE.
+ Die erste Sau war / daß er den Hut auff dem Kopffe behielt.
+
+
+LEO.
+ Er hat sich bereden lassen / wer keinen Hut auff dem Kopffe hat / der ist kein Fürst.
+
+
+BRIGITTE.
+ Darnach brachte er solche Reden vor / wie ein Bauer in der Spinn-Stube / und er hätte lieber gefragt / wie theuer die Perlen wären / die unser Fürstin am Halse hätte.
+
+
+LEO.
+ Wer mit den Bauern schertzen will / der muß solche Complimente entschuldigen.
+
+
+BRIGITTE.
+ Endlich / wie er zu treuhertzig werden wolte / so übergab ihn die Fürstin den beyden Cammer-Mädgen in die Contribution, da mochte er seinen Limmel anbringen wie er wolte.
+
+
+LEO.
+ Ich wolte / daß ich solte ans Bauers-Stelle seyn / wenn die Leute meinten / sie hätten mich vexirt / so wolt ich ihnen den besten Affen geschleyert haben.
+
+
+BRIGITTE.
+ Juncker / es wäre noch zeit / wenn ihr euch verkleiden lasset / so haben wir der Fürsten zwey.
+
+
+LEO.
+ Ihr bleibt allzeit bey der Mode / wenn ihr einen Tag niemanden vexiren sollet / so denckt ihr / es fehlet euch etwas.
+
+
+
+BRIGITTE.
+ O es fehlet mir allemahl am Besten / ich soll meine Tochter aussetzen / und da ich mein Geld zehle / so fehlt mirs nur an kahlen 99. Rthlr. daß ich 100. nicht zusammen bringen kan. Doch ich muß gehen / daß ich die Freude mit geniesse / er wolte mit den Jungfern spatzieren gehn.
+
+
+LEO.
+ Vielleicht kömmt mirs auch so gut / daß sie mir begegnen / so genieß ich so viel als ihr.
+
+
+Sie gehen an unterschiedenen Orten ab.
+
+
+
+
+
+
+
+
+
+15. Aufzug
+
+
+
+
+Funffzehender Auffzug.
+
+Heinrich, Cammer-Juncker. Hernach Adelheit, Erdmuth, Hoff-Jungfern. Mierten, der Bauer.
+
+
+
+HEINRICH.
+ Hier soll sich der Fürstl. Courtisan finden lassen / und weil Ihr. Durchl. durch ein heimliches Fenster selbst zusehen wollen / so werd ich mich in die Gesellschafft machen / daß die lieben Jungfern desto eher fertig werden. Denn das ist das Beste bey dieser Person / man darff sich nicht besorgen / daß im Ceremonien-Wercke was verstossen wird.
+
+
+Die mittelste Scene eröffnet sich / da sie heraus spatzieren.
+
+
+
+
+MIERTEN.
+ Ihr Jungfern gläubt mirs / der Garten war schöne / aber wenn ich euch ansehe / so seyd ihr tausendmahl schöner.
+
+
+ADELHEIT.
+ Ihr Gnaden meinen vielleicht die andere Jungfer / ich bekenne meine Unschuld.
+
+
+ERDMUTH.
+ Und ich weiß wohl / daß Ihr. Gnaden an mir nichts schönes werden gesehen haben.
+
+
+MIERTEN.
+ Ihr Jungfern verdrehet mir nicht die Worte im Halse / ihr solt sonsten einen Schwur von mir hören / den ich mein Lebtage nicht vors Maul bracht habe.
+
+
+HEINRICH.
+ Siehe da finde ich die glückseligen Leute hier beysammen. Meine liebste Jungfer / ich gratulire zu der vornehmen Conversation.
+
+
+
+ADELHEIT.
+ Er ist schon mißgünstig / daß uns einmahl ein gut Glücke getroffen hat.
+
+
+ERDMUTH.
+ Es wird uns nicht viel helffen / daß wir glückseelig seyn / wir sind der hohen Person nicht würdig.
+
+
+HEINRICH.
+ Sie werden sich selber nicht verachten / ich wolte viel Geld drüm schuldig seyn / wenn ich zwischen zwey so lieben Personen dürfften spatzieren gehen.
+
+
+ADELHEIT.
+ Er könte leicht Geld schuldig seyn / wenn ers nicht bezahlen dürffte.
+
+
+ERDMUTH.
+ Und wer weiß ob er den Schuld-Zettel unterschriebe / wenn mir Ihr Gnaden das Glück verkauffen wolten.
+
+
+HEINRICH.
+ Das weiß ich / Ihr Gnaden werden sich die gegenwärtige Vergnügung nimmermehr abkauffen lassen.
+
+
+ADELHEIT.
+ Ich bin ein armes Kind / von schlechter Schönheit.
+
+
+ERDMUTH.
+ Und ich ein einfältig Kind / von schlechter Höffligkeit.
+
+
+HEINRICH.
+ Sie sprechen was sie wollen / sie sind qvalificirt gnung / Ihr Gnaden hier zu dienen.
+
+
+ADELHEIT.
+ Ich bin zwar nicht qvalificirt / doch bin ichs bedürfftig / daß ich die Ehre von so einer hohen Person geniesse.
+
+
+ERDMUTH.
+ Und wo mein Schwestergen einen freundlichen Blick mehr bekömmt / so bin ich eifersichtig.
+
+
+HEINRICH.
+ Doch Ihr Gnaden wie so stille? Sie können vielleicht meine Gegenwart nicht ertragen.
+
+
+MIERTEN.
+ Ich dächte / wenn ein iedweder Narr sich seine eigne Jungfer schaffte.
+
+
+HEINRICH.
+ Ihr Gnaden ich will Zeuge seyn / daß sie hier sich eine Jungfer geschaffet haben / und wo sie etwan ungnädig seyn wollen / kan ich wohl auff die Seite treten. Er tritt etwas weit.
+
+
+
+MIERTEN.
+ Ihr Jungfern was sag ich / wolt ihr mich lieb haben / so habt mich lieb / mein gantz Fürstenthum stehet in eurer Gewalt.
+
+
+ADELHEIT.
+ Wir wollen gerne gehorsam seyn / Ihr. Gnaden sagen nur / welche unter uns beyden das Fürstenthum bekommen soll.
+
+
+
+ERDMUTH.
+ Wir wolten gerne wissen / welche unter uns beyden am glückseeligsten wird.
+
+
+MIERTEN.
+ Ihr Jungfern ihr seyd schöne Narren / wenn ich sagte / die gefiele mir / so wäre die ander böse / ich muß euch feine auffhalten / so bleiben mir alle beyde gut.
+
+
+HEINRICH.
+ Wer solte dencken / daß die Bauern in Liebes-Sachen so klug seyn / die Schelmen wissen auch / wie man die Jungfern ans Narren-Spiel binden soll.
+
+
+ADELHEIT.
+ Ihr Gnaden mögen sich stellen / wie sie wollen / ich hoffe doch / daß sie mich nicht verrathen werden.
+
+
+ERDMUTH.
+ Und das Wort / welches Ihr Gnaden im Garten zu mir sagten / das giebt mir schon so viel Gedancken / daß ich mir was guts versprechen kan.
+
+
+HEINRICH.
+ Ich mercke es schon / die Jungfern wollen sich mit einander zancken / und der Fürstliche Liebhaber wird sollen den Ausschlag thun.
+
+
+ADELHEIT.
+ Schwestergen meinstu wohl / daß dir der vornehme Liebhaber beschehret ist.
+
+
+ERDMUTH.
+ Endlich wird mir die Thüre so wohl offen stehn als dir.
+
+
+ADELHEIT.
+ Ich gehe auff der rechten Hand / drum hab ich den Vorzug.
+
+
+ERDMUTH.
+ Ich gehe an der lincken Hand / drum hab ich den Vorzug bey den Hertzen.
+
+
+MIERTEN.
+ Ihr Jungfern schlagt euch nicht / wißt ihr denn nicht / daß ich ein Fürste bin / ich werde ja 2. Weiber ernehren können.
+
+
+ADELHEIT.
+ Hätt ich das gewust / so wäre mir die Liebe vergangen / eh ich Ihr Gnaden gesehen hätte. Nun kan ich mir nicht helffen / weil ich mich einmahl habe dazu bringen lassen.
+
+
+ERDMUTH.
+ Endlich muß ich gehorsam seyn / daß ich eine Fürstin neben mir leide / wenn ich nur einen Brieff darüber habe / daß ich die Liebste bin.
+
+
+MIERTEN.
+ Ach den Brieff solt ihr kriegen / wenn ich werde lesen und schreiben können. Aber sagt mir doch / was ist denn so schöne an mir / daß ihr euch so hertzlich in mich verliebet habt?
+
+
+
+ADELHEIT.
+ Ich verliebe mich in die krause Parucke / denn was vor krause Gedancken müssen in einem solchen Kopffe stecken.
+
+
+ERDMUTH.
+ Und ich verliebe mich in den ziemlichen Bart / denn was vor ziemliche Complimenten müssen darinnen verborgen seyn.
+
+
+MIERTEN.
+ Jungfer / so viel ich Haare auff dem Kopffe habe / so vielmahl seyd ihr meine / und so viel ich Trodeln im Barte habe / so vielmahl seyd ihr meine.
+
+
+HEINRICH.
+ Der Mahl-Schatz ist nicht zu verachten / wo an einem iedweden Haare ein Ducaten hängt / so muß das Reichthum unzehlich seyn.
+
+
+ADELHEIT.
+ Aber wenn ich mich an die Parucke weisen lasse / so darff ich etliche Haar zum Pfande nehmen?
+
+
+MIERTEN.
+ Getreue Liebe ist geduldig / nur kommt mir nicht zu nahe an die Ohren / da bin ich zu kützlich.
+
+
+ERDMUTH.
+ Und ich werde im Barte das meine suchen mögen?
+
+
+MIERTEN.
+ Ich bin auch zu frieden / nur kommt mir nicht zu nahe an die Nase / da thut mirs weh.
+
+
+ADELHEIT.
+ Wie viel Haare braucht man / biß man gute Versicherung hat.
+
+
+ERDMUTH.
+ Ich halte / so viel als Tage im Jahre sind / so hat man alle Morgen seinen neuen Trost.
+
+
+ADELHEIT.
+ Nu Ihr Gnaden / sie schicken sich in die Liebe / ich greiffe nach den Wirbel.
+
+
+ERDMUTH.
+ Und ich greiffe nach dem Kinne. Sie greifft.
+
+
+
+MIERTEN.
+ O Liebe / Liebe / wie bitter bistu / wenn man deine Süßigkeit verdienen will.
+
+
+ADELHEIT.
+ Meinen Püschel hab ich beysammen / er soll mir nicht untreu werden.
+
+
+ERDMUTH.
+ Und ich habe mich auch bedacht / er soll mir nicht entlauffen.
+
+
+MIERTEN.
+ Ja ihr Jungfern / ihr habt Pfand gesucht / wo ihr wollet. Nun werde ich wieder was suchen / das mir anstehet.
+
+
+
+ADELHEIT.
+ Das Frauenzimmer darff nichts auff die Hand geben / es ist ihm doch wohl zu trauen.
+
+
+ERDMUTH.
+ Mein Wort und meine Zusage ist so gut / als das elende Püschel.
+
+
+MIERTEN.
+ Wer unter solche Leute geräth / der muß sie bey ihren Willen lassen.
+
+
+
+
+
+
+
+
+16. Aufzug
+
+
+
+
+Sechzehender Auffzug.
+
+Die Vorigen. Cornelis, Cammerdiener.
+
+
+
+CORNELIS.
+ Ihr Gnaden / ich habe mich bald zu Tode gelauffen / daß ich Sie suchen soll.
+
+
+MIERTEN.
+ Wer die Leute am unrechten Orte suchet / der läufft vergebens.
+
+
+CORNELIS.
+ Wenn auch der rechte Ort bekandt ist.
+
+
+MIERTEN.
+ Was giebt es neues / daß man meinetwegen so lauffen muß.
+
+
+CORNELIS.
+ Ihr Fürstl. Durchl. wollen zur Taffei gehen / sie warten nur auff Ihr Gnaden.
+
+
+MIERTEN.
+ Ich habe mich lange gekränckt / daß zu Hofe alles mit dem Fressen zu langsam wird. Hätte ich nicht meinen Labsal beym Jungfern gehabt / ich wäre schon in meiner Sehnsucht verzwatschelt.
+
+
+CORNELIS.
+ Also haben Ihr. Gnaden zu eilen / weil die andern vielleicht in gleicher Sehnsucht begriffen sind.
+
+
+MIERTEN.
+ Nun Ihr Jungfern / kommt / bey Tische solt ihr sehn / was ich vor ein Freyer bin. Denn wie sich einer zum Fressen schickt / so schickt er sich zum Liebhaben.
+
+
+CORNELIS.
+ Ihr Gnaden lassen nur das Frauen-Zimmer zu rücke / sie pflegen an einem besondern Orte zu speisen.
+
+
+MIERTEN.
+ Ie nu nach Tische wollen wir schon wieder beysammen seyn / wenn man hungrig ist / so kan man ohn dem 
+nicht viel auffs Weibs-Volck sehen / nun weiset mir den Weg / ihr Jungfern wohl bekomm euch die Mahlzeit.
+
+
+Cornelis und Mierten gehen ab.
+
+
+
+
+HEINRICH.
+ Ihr lieben Kinder / der Abschied war recht Alt-Deutsch gegeben.
+
+
+ADELHEIT.
+ Ich wolte daß iemand anders an meine Stelle hätte treten sollen / der Fürste sahe uns zu / und wir solten mit dem Narren viel Possen machen.
+
+
+HEINRICH.
+ Ich halte wenn der Fürst nicht da wäre / und iemand von meiner Gattung solt an des Bauern Stelle treten / so wäre die Kurtzweile etwas angenehmer.
+
+
+ERDMUTH.
+ Davon können wir nicht judiciren / bißweilen sind die Leute falsch / und man muß sich in Complimenten gar zu sehr in acht nehmen.
+
+
+HEINRICH.
+ Ach ihr redlichen Kinder / ihr seyd die Jungfern darnach / daß ihr mir von einer Falschheit predigen sollt / ich halte der Bauer hat viel Haare im Barte zu Pfande geben müssen / aber es leben noch mehr Leute in der Welt / die vielleicht ein Exempel von ihrer Falschheit anzuführen wissen.
+
+
+ADELHEIT.
+ Wenn der Herr ungläubliche Sachen reden will / so breche er nur nichts ab.
+
+
+ERDMUTH.
+ Und wenn er eine falsche Zeitung erdencken will / so mache ers nur so mercklich / daß niemand betrogen wird.
+
+
+HEINRICH.
+ Ich bedancke mich vor die gute Lehre / doch ehe ich zur Mahlzeit gehe / so wünsche ich in kurtzer Zeit so viel Ducaten / so viel sie Beute von dem Bauer-Fürsten gemachet haben.
+
+
+ADELHEIT.
+ Und ich wünsche ihm / daß er noch so viel Jahre auff die Liebste warten muß.
+
+
+ERDMUTH.
+ Und daß auch die Liebste so viel Jahre alt wird.
+
+
+HEINRICH.
+ Der Himmel bestätige den Wunsch / nur daß wir in einem Jahre mit einander Hochzeit haben / und hierauff lassen sie sich die Mahlzeit wohl bekommen. Geht ab.
+
+
+
+ADELHEIT.
+ Der Mensch ist lose / ich möchte ihm wohl ein klein Unglück wündschen / daß er lernte fromm seyn.
+
+
+ERDMUTH.
+ Es ist besser lose als angebunden / wenn er gar zu 
+fromm wäre / so schickte er sich auch nicht in unsere Compagnie. Komm nur fort / daß wir die Mahlzeit nicht versäumen.
+
+
+
+
+
+
+
+
+17. Aufzug
+
+
+
+
+Siebenzehndter Auffzug.
+
+France, ein Bürger. Hernach Gosch, ein Bauer. Puse, seine Frau.
+
+
+
+FRANCE.
+ Ich hätte nicht vermeinet / daß ich des gestrigen Trunckes wegen die geringste Ungelegenheit empfinden solte / und gleichwohl da ich heute das Meinige verrichten soll / so bin ich zu allen undispost, und ich kan mir nicht anders einbilden / die tummen Bauern haben mich mit ihren Geschrey so confus gemacht / daß ich meine Gedancken nicht zusammen bringen kan. Doch was bringen diese Leute / wo sie einen guten Rath von mir begehren / so kommen sie mir heute trefflich ungelegen.
+
+
+GOSCH.
+ Guten Tag Herr!
+
+
+FRANCE.
+ Grossen Danck. Wollt ihr zu mir?
+
+
+GOSCH.
+ Ja es ist bald so / als wenn ich zu euch wolte.
+
+
+FRANCE.
+ Was ist euer Verlangen?
+
+
+GOSCH.
+ Da haben wir ein groß Unglücke / und wir wissen nicht wer uns rathen kan.
+
+
+FRANCE.
+ Wenn ich die Kunst wüste / wie ich allen Leuten in Unglücke rathen solte / ich wolte reicher seyn / als der Fürste. Doch worinn besteht euer Sorge?
+
+
+GOSCH.
+ Herr seht / da haben wir einen ehrlichen Nachbar / der mag irgend seyn zum Truncke gegangen – –
+
+
+PUSE.
+ Ach Mann / ihr macht nichts guts last doch mich reden: Es ist ein Mann in unserm Dorffe / dem liegt die Frau in Wochen – –
+
+
+GOSCH.
+ Geh doch du weg / was schiert sich der Herr drum / ob die Frau in Wochen liegt / ich will schon reden. Unser Nachbar Mierten ist zum Truncke gewest – –
+
+
+
+PUSE.
+ Ie nicht doch / das ist nicht recht / wir wissen nicht / wo Nachbar Mierten hinkommen ist – –
+
+
+GOSCH.
+ Ich schlage dich in die Fresse / daß die Suppe dem Herrn ins Gesichte springt. Ich weiß am besten was ich sagen soll. Herr / da ist nun der Mann in seiner vollen Weise irgend so einen Weg gegangen – –
+
+
+PUSE.
+ Mann ich sags / daß ihrs hört / der Herr kan aus euer Erzehlung nichts nehmen. Seht ich wills feine nach einander erzehlen: Wie wir gestern in die Stadt kamen / so wolts darnach finster werden – –
+
+
+GOSCH.
+ Ie was kan denn der Herr davor / daß es finster wird. Geh mir flugs 20. Meilen weg vom Leibe / daß ich alleine reden kan.
+
+
+PUSE.
+ Das laß ich wohl bleiben / ich helffe mit suchen / so muß ich auch helffen reden. Seht Herr / da gehn unsere elementsche Männer zum Sauffen – –
+
+
+GOSCH.
+ Nein nein / so wars.
+
+
+Sie reden alle beyde zusammen / was ihnen einfällt /und wollen einander überschreyen.
+
+
+
+
+FRANCE.
+ Ihr Leute / ich hab euch ein grosses erwiesen / daß ich euch so lange zugehöret habe / doch verzeiht mir / daß ich euch nicht helffen kan / ich weiß nichts davon.
+
+
+GOSCH.
+ Herr / last es euch nur noch einmahl erzehlen.
+
+
+FRANCE.
+ Das laß ich wohl bleiben / ich habe mehr zu thun / als daß ich mich um euern zancksichtigen Ehe-Stand bekümmern soll. Geht ab.
+
+
+
+PUSE.
+ Das war ein schön Thun / wenn wir die Leute fragen wollen / so fangen wir ein Gedräsche an / daß sie davon lauffen.
+
+
+GOSCH.
+ Warum hältestu deine Gusche nicht zu / du darffst mir nicht viel / so will ich dir einen Knebel ins Maul stecken / der dir die Sprache verbieten soll.
+
+
+PUSE.
+ Nein doch / einen Knebel wirstu meinen / komm doch ein bißgen dort hin / daß es die Leute nicht sehn / wenn du irgend mit deiner Kunst zu schanden würdest.
+
+
+
+GOSCH.
+ Ja ja ich will mit gehen / da will [ich] dir dein lose Maul bezahlen.
+
+
+Sie jagen einander hinein.
+
+
+
+
+
+
+
+
+
+18. Aufzug
+
+
+
+
+Achzehndter Auffzug.
+
+Hugo, ein Bürger. Krix, ein Bauer. Ebbe, seine Frau.
+
+
+
+HUGO.
+ Ihr guten Leute / bleibt nur mir vom Leibe / was soll ich euch helffen?
+
+
+KRIX.
+ Herr / ihr sehts wohl / wer in der Noth steckt / der fragt gerne alle Leute.
+
+
+EBBE.
+ Und gewiß / wo wir den Mann nicht mit heim bringen / so thut sich die Sechswöchnerin ein Leid an.
+
+
+HUGO.
+ Ich kan ihr nicht helffen / wenn ich nun auff alle verlauffene Bauer soll achtung geben / so werd ich ein schwer Ammt zu verwalten haben.
+
+
+KRIX.
+ Es ist nur schrecklich / die Frau will sich nicht trösten lassen.
+
+
+EBBE.
+ Und wir dencken immer / er möchte bösen Leuten seyn in die Hände kommen.
+
+
+HUGO.
+ Ist es geschehen / so müst ihr euch trösten. Wären die Bauern etwas bedachtsamer und spendierten das überleihe Geld nicht bald an nasse Waare / so kämen sie zu rechter Zeit heim / und machten ihren Weibern kein Hertzleyd.
+
+
+KRIX.
+ Ie das muß doch allen Steinen in der Erde geklagt seyn / daß wir den Mann nicht finden können / es ist nun gleich drey Wochen mit der Frau.
+
+
+EBBE.
+ Ey man verrechnet euch nicht / es sind schon viertehalbe Wochen.
+
+
+KRIX.
+ Ey das lässets wohl bleiben / es war gleich an einer Mittwoche.
+
+
+
+EBBE.
+ Es ist nicht wahr / es war am Sonnabend.
+
+
+KRIX.
+ Herr gläubt ihrs nicht / die Frau ist itzund erst drey Wochen im Kindel-Bette.
+
+
+HUGO.
+ Meintwegen mag es drey oder vier Wochen seyn / was gehts mich an / ihr habt mir den Kopff so voll gebleut / daß ich mir mit der Flucht helffen muß / wo ich mir anders nicht rathen kan. Geht ab.
+
+
+
+KRIX.
+ Da siehestu es / wenn wir alle Leute weg jagen / so werden wir nimmermehr was erfahren.
+
+
+EBBE.
+ Warumb wollt ihr mich überstreiten / es seyn doch viertehalbe Wochen.
+
+
+KRIX.
+ Könte ichs treffen / daß ich dir viertehalbe Maul-Schellen geben könte / ich wolte dir die Rechnung auff die Gusche schreiben.
+
+
+EBBE.
+ Ie schlage doch her / du Narr / deßwegen gläub ichs doch nicht / daß es heute Sonn-Abend ist.
+
+
+KRIX.
+ Ich gläube es nicht: Dir zu Trotze sind es vierdtehalb Wochen.
+
+
+Er will sie schlagen / sie läufft / und wiederholen alle beyde das Wort drey oder vierdtehalbe Wochen / endlich fällt der Bauer.
+
+
+
+
+EBBE.
+ Ha ha das war recht / kom doch ein andermahl mehr / und reformire mich in meinem Calender. Läufft davon.
+
+
+
+KRIX.
+ Nu vergeß ich meiner Frau den Fall / so wolt ich / daß der Juncker meiner vergesse / wenn wir Contribution geben sollen. Versteck dich wo du wilt / ich will dich schon finden. Geht ab.
+
+
+
+
+
+
+
+
+
+19. Aufzug
+
+
+
+
+Neunzehender Auffzug.
+
+Liebhold, der Gastwirth. Clas, ein Bauer. Brütte, dessen Frau.
+
+
+
+LIEBHOLD.
+ Ihr Leute braucht besser Bescheidenheit / oder ihr sollt erfahren / daß wir Obrigkeit in der Stadt haben: meint ihr / daß ich vor alle Bauern Rechenschafft geben 
+soll / die etwann ein paar Grosdien bey mir versoffen haben?
+
+
+CLAS.
+ In euern Hause haben wir ihn gleichwol zum letzten mahle gesehen / so könnt ihr wohl am besten wissen / wo er blieben ist.
+
+
+BRÜTTE.
+ Ich bin selber Zeuge / daß ich ihn da für der Thüre gesehen habe / und das gehet fürwar nicht recht zu / wenn man einen ehrlichen Mann der Weib und Kind hat / verläugnen will.
+
+
+CLAS.
+ Das Geld könnt ihr nehmen / aber wo die Leute bleiben / da fragt ihr viel darnach.
+
+
+BRÜTTE.
+ Die Männer könnt ihr verführen / aber ob sie zum Weibern wieder heim kommen / da denckt ihr nicht dran.
+
+
+LIEBHOLD.
+ Ist das nicht tummes Volck? was ist denn das für ein Wunder-Zeichen? daß einmahl ein tummer Bauer über Nacht aussen bleibt / wenn er das Seinige wird verricht haben / so wird er wohl wieder nach Hause kommen.
+
+
+CLAS.
+ Ja ich dencke sein Geist wird auff der Ofen- Krücke kommen / und wird ihn die arme Sechswöchnerin nachholen.
+
+
+BRÜTTE.
+ Ja fürwahr ich möchte Kiesel-Steine flennen / so geht mir es zu Hertzen / daß mir niemand helffen will.
+
+
+LIEBHOLD.
+ Frau / könnt ihr Steine flennen / so flennt mir ein paar tausend Ziegeln / die bedarff ich ietzund zu meinen Back-Ofen.
+
+
+BRÜTTE.
+ Ich sehe wohl / wer den Schaden hat / der darff für den Spott nicht sorgen / du ungewissenhaffter Mann / wer weiß ob du meinen Nachbar nicht selber erschlagen hast.
+
+
+CLAS.
+ Wenn ich in deinem Keller nachsuchen solte / ich wolte wohl die Fässer mit Menschenfleische finden / davon deine Gäste darnach fressen müssen.
+
+
+LIEBHOLD.
+ Da soll euch einander davor das Licht halten / ich will euch weisen / was die Worte zu bedeuten haben. Euer Haab und Guth soll das Wenigste seyn / das ihr dabey einbüssen werdet. Gehet ab.
+
+
+
+
+CLAS.
+ Frau / der Kerle will uns beym Richter verklagen / wir werden davon lauffen / eh er uns citiren lässet.
+
+
+BRÜTTE.
+ Wir habens ihn gesagt / sein Gewissen wird es ihn wohl noch einmahl sagen / wo es wahr ist.
+
+
+CLAS.
+ Ie nu so denck ich / wir werden immer da die Ecke nüm schleichen / es ist wohl zu viel / was wir geredt haben / wenn wir beweisen solten / so möchte uns die Sache schwer werden.
+
+
+BRÜTTE.
+ Hat es doch niemand gehöret / er gestehet es nicht / daß er unsern Nachbar todt geschlagen hat; Wir gestehen auch nichts was wir geredt haben / damit ist ein Narr so gut betrogen als der ander.
+
+
+CLAS.
+ Ie nu nu / die gute Sechswochnerin wird am meisten betrogen seyn.
+
+
+Gehen ab.
+
+
+
+
+
+
+
+
+
+
+3. Akt
+
+
+
+
+
+1. Aufzug
+
+
+
+
+Erster Auffzug.
+
+Egmund, Hoff-Marschall. Wilhelm, Stallmeister.
+
+
+
+EGMUND.
+ Es ist unmöglich.
+
+
+WILHELM.
+ Ich bitte nicht vor meine Person / es sind reisende Cavalliere, die Gelegenheit wünschen der Lust mit beyzuwohnen.
+
+
+EGMUND.
+ Wenn eine öffentliche Lust wird angestellet werden / so will ich selbst Anstallt machen / daß alle rechtschaffene Leute sollen accommodiret werden. Aber Ihre Durchl. wollen die Lust alleine haben / und der Possen mit dem Bauer soll nicht eben allen Leuten in Augenschein kommen / drum sey er doch so gut / und vermahne seine lieben Freunde zu einer kurtzen Gedult / in wenig Tagen soll was bessers erfolgen.
+
+
+
+WILHELM.
+ Es ist mir nur leid / daß ich meine Parol von mir gegeben habe. Was mich betrifft / so hab ich mich die Zeit meines Lebens nach keinem Spiel sehr gerissen.
+
+
+EGMUND.
+ Er siehet selbst / die Logen sind alle bestallt / und auff der Erde weiß ich nicht / ob sie sich gerne werden accommodiren lassen: ich kan nicht davor / daß Ihr. Durchl. eine Lust vor sich alleine haben wollen. Gehet ab.
+
+
+
+WILHELM.
+ Ist das nicht ein trefflich thun / es soll einmahl ein singendes Spiel praesentiret werden / und man soll in der Welt davon sagen / daß an diesem Hofe / was sonderliches passiret sey / gleichwohl soll es niemand zu Gesichte bekommen / der davon zeugen kan. Gewiß von mir sollen sie Brieff und Siegel haben / daß ich die Herren Musicanten in ihrer Andacht nicht verstöhren will / ich bins nicht gewohnt / daß ich mich zweymahl lasse abweisen / und wenn iemand in den Comoedien-Saal kommen will / der melde sich nur bey mir nicht an / ich werde selber nicht dabey seyn.
+
+
+
+
+
+
+
+
+2. Aufzug
+
+
+
+
+Andrer Auffzug.
+
+Leo, Hoff-Juncker. Adelheit, Erdmuth, Hoff-Jungfern.
+
+
+
+LEO.
+ Ihr Durchl. lassen befehlen / sie sollen hierinne des neuen Fürstens erwarten.
+
+
+ADELHEIT.
+ Sollen wir so enge bey ihm verschlossen seyn?
+
+
+ERDMUTH.
+ Und soll uns Niemand zu gegeben werden / der uns wieder seine Grobheit beystehen kan.
+
+
+LEO.
+ Mons. Heinrich wird schon dabey seyn / und weil sie dem Spiele zusehen werden / so können sie leicht einen Bauer neben sich heraus sehen lassen: Ich habe ihm den Ort angewiesen / sie accommodiren sich nur selber. Gehet ab.
+
+
+
+ADELHEIT.
+ Es heist der Bauer soll vexiret werden / und wenn mans beym Lichten besiehet / so wird der Spott über uns hinaus lauffen.
+
+
+
+ERDMUTH.
+ Warum leben wir zu Hofe? Wenn der Purste den Befehl giebet / so muß der Klügste ein Narr seyn.
+
+
+ADELHEIT.
+ Mit dem Bauer währet es einen Tag / morgen ist es ein Traum gewesen / und seine Vexirerey hat ein Ende: Aber was ich deswegen werde leiden müssen / das seh ich schon im Geiste.
+
+
+ERDMUTH.
+ Was ich leiden muß / das leid ich gerne / und wer es nicht acht / wenn er vexiret wird / das macht die Possen am besten zu Schanden.
+
+
+ADELHEIT.
+ Doch dort kömt unser liebes Hertz angestochen / wir müssen nur zu Winckel kriechen / daß er uns nicht überfällt / ehe es Zeit ist.
+
+
+ERDMUTH.
+ Er wird bey der Taffel was ehrliches auf das Hertze genommen / und da er nüchterner Weise nicht viel Vernunfft hat / so wird gar verständig mit ihm zu conversiren seyn.
+
+
+ADELHEIT.
+ Sonst spricht man / wer in nüchterner Weise ein Narr ist / der ist voller Weise klug / doch es stehet zu versuchen.
+
+
+Gehen ab.
+
+
+
+
+
+
+
+
+
+3. Aufzug
+
+
+
+
+Dritter Auffzug.
+
+Heinrich, Cammer-Juncker. Mierten, der verstellte Fürst.
+
+
+
+MIERTEN.
+ Nu das heist Fürstl. gefressen / und Königlich gesoffen.
+
+
+HEINRICH.
+ Ihr Gnaden haben gar ein schlechtes gethan. Ihr. Durchl. besorgen sich immer / sie werden seyn hungrig von der Taffel auffgestanden.
+
+
+MIERTEN.
+ Nu das ist wahr / gar satt bin ich nicht / aber gut gefressen hab ich.
+
+
+HEINRICH.
+ Woran mercken denn Ihr Gnaden wenn sie satt seyn?
+
+
+MIERTEN.
+ Wenn mir übel wird / und das fühl ich noch nicht / es müste denn noch kommen.
+
+
+
+HEINRICH.
+ Es ist heute ein Tag da nicht viel zum Besten an der Taffel war.
+
+
+MIERTEN.
+ O nun es gieng hin / das war nur St. Velten / daß ich keinmahl wuste / was sie mir zu fressen gaben / da war ein groß Brod / und wie sie es auffmachten / da war Fleisch drinne.
+
+
+HEINRICH.
+ Ihr Gnaden werden die Pastete meinen.
+
+
+MIERTEN.
+ O nein es war keine Mußqvete / wenn in der Mußqvete so gute Sachen steckten / ich liesse mich alle Tage hundert mahl in Halß schiessen.
+
+
+HEINRICH.
+ Lassen sich Ihr Gnaden so gern in Halß schiessen?
+
+
+MIERTEN.
+ Nachdem die Kugeln seyn. Aber was waren daß vor werckliche Nüsse? es stackten kleine Würmer drinne / die hatten gewiß den Kern aus gefressen.
+
+
+HEINRICH.
+ Es waren keine Nüsse / es waren Schnecken / die weiß der neue Koch anietzo zu Sommer-Zeit anzurichten.
+
+
+MIERTEN.
+ Ich fraß eine Schale mit Haut und Haare / ich weiß / wie sie mich auff den Hertzen gedrücket hat.
+
+
+HEINRICH.
+ Es ist nicht ungesund / es scheuert sonst den Magen wohl.
+
+
+MIERTEN.
+ Aber da grauete mir vor einer Schüssel / es waren Krebse / Würste / Eyer / Fleisch und aller Bettelment unter einander / es hatte es wohl schon iemand zuvor gefressen.
+
+
+HEINRICH.
+ Ihr. Gnaden werden gewiß die Ollepotterie meinen.
+
+
+MIERTEN.
+ Ja es sag tolle gnug aus. Aber da ein Fürste davon aß / so fraß ich immer mit. Aber darnach kam eine Schüssel voll Tauben / davon fraß ich achtehalbe in meinem Leib.
+
+
+HEINRICH.
+ Auff der Fürstl. Taffel hat man keine Tauben / es werden Rebhüner gewesen seyn.
+
+
+MIERTEN.
+ Ie nu ich habs vor Tauben gefressen / und mich deucht / sie schickten sich gar wohl für mei nen Bauch.
+
+
+
+HEINRICH.
+ Von was haben Ihr Gnaden sonst genossen?
+
+
+MIERTEN.
+ Es war noch so ein Gemantsche untereinander / ich kriegte die gebratne Ganß / und fraß so lange davon als ich konte.
+
+
+HEINRICH.
+ Ihr. Gnaden werden den Auerhan vor keine Ganß angesehen haben?
+
+
+MIERTEN.
+ Das sah ich wohl / daß es keine Bauer- Ganß war / und ich dachte / grosse Herrn haben grosse Gänse. Aber darnach vergieng mir das Fressen / sie satzten mir Gläser vor / die waren zweymahl grösser / als mein Rantzen / und es kömt mir doch für / als wenn mirs nicht gar zu viel schadte.
+
+
+HEINRICH.
+ Wenn Ihr Gnaden bey dem Fürstl. Weine bleibet / so haben sie keine Ungelegenheit davon.
+
+
+MIERTEN.
+ Ja ich dencks ich werde dabey bleiben. Aber wo sollen wir denn hingehen?
+
+
+HEINRICH.
+ Ihr Gnaden sollen einer singenden Comödie zusehen / und darinnen sollen sie das Frauen-Zimmer bedienen.
+
+
+
+
+
+
+
+
+4. Aufzug
+
+
+
+
+Vierdter Auffzug.
+
+Die Vorigen. Adelheit, Erdmuth, Hoff-Jungfern.
+
+
+
+MIERTEN.
+ Ihr güldenen Menschen-Kinder in Englischer Gestallt / soll ich euch darinne suchen?
+
+
+ADELHEIT.
+ Ihr Gnaden lassen sich nicht mißfallen / wir sollen Ihnen Gesellschaft leisten.
+
+
+ERDMUTH.
+ Es ist uns nur leid / der Platz wird etwas enge seyn.
+
+
+MIERTEN.
+ O solche Schaffe gehen viel in einen Stall / wenn sie nicht Raum haben / so hopffen sie auff einander.
+
+
+ADELHEIT.
+ Ihr Gnaden sie werden das nicht thun / das möchte gar lächerlich rauß kommen.
+
+
+ERDMUTH.
+ Und wer wolte es ausstehen? wenn so ein grosser Fürste uns auff die Achseln treten wolte.
+
+
+
+MIERTEN.
+ Ihr Jungfern fürchtet euch nicht / was ich an euch thun will / das soll euch weder am Leben noch an Achseln schaden.
+
+
+HEINRICH.
+ Ihr Gnaden werden am besten wissen / wie sie den Fürstl. Respect erhalten sollen. Doch in währenden Schau-Spiele werden sie so gütig seyn / und das Frauen-Zimmer nicht viel verunruhigen / denn es möchte sonst unter den Personen einige Confusion entstehen.
+
+
+MIERTEN.
+ Ihr seyd schreckliche Narren an den Hofe / ihr habt mir zu fressen gegeben / daß mir der Bauch platzet / nun führet ihr mich zum Weibes-Volck / und sprecht / ich soll sie nur ansehen.
+
+
+HEINRICH.
+ Ihr Gnaden Fürstl. Personen machen es so.
+
+
+MIERTEN.
+ So danck ich es dem mit was anders / der mich zum Fürsten gemacht hat / und heist mich einen Schelmen / wo es die Bauern nicht besser wissen. Gehet ab.
+
+
+
+ADELHEIT.
+ Wir müssen dem Herrn höchlich dancken / daß er unsern Liebhaber etwas böse macht.
+
+
+ERDMUTH.
+ Wir hätten sonst grosse Ungelegenheit von ihm haben sollen / wenn er sich seiner Freyheit hätte gebrauchen sollen.
+
+
+HEINRICH.
+ Sie geben sich zu frieden / weil ich dabey bin / sollen sie keine fernere Ungelegenheit von ihm haben. Gehet hinein.
+
+
+
+
+
+
+
+
+
+6. Aufzug
+
+
+
+
+
+Innhalt
+
+
+
+
+Innhalt.
+
+Philippus Bonus, Hertzog in Burgundien lässet etlichen Frembden die Gnade wiederfahren / daß sie etwas Musicalisches in dem Pallaste praesentiren mögen. Also wollen sie auch die Invention nach dem Staate richten / und führen Burgundien als ein Frauenzimmer ein / welches ihre Gespielen Pax und Opulentia gern bey sich behalten wolte / da gleichwohl Fatum den Ausspruch thut / solches würde nicht zu erhalten seyn / wofern Amandus mit dieser Person nicht 
+solte vermählet werden. Allein da der Schluß gar frölich erfolget / so will Invidia den glückseeligen Grund gern umstossen / und gebraucht sich nicht allein der Venus, sondern auch vier bekandter Freunde / Mars, Plutus, Bacchus, Satyrus, welche den Sinn des verliebten Bräutigams brechen sollen. Inmittelst körnt Fatum allezeit darzwischen / daß der muthwillige Diener Fatuum niemahls zum Zwecke gelanget / biß die volle Vermählung von Bürgern / Schäfern und Bauern lustig besungen wird.
+
+
+
+
+
+
+
+
+Personen
+
+
+
+
+
+Personen.
+
+Burgundia, eine Princeßin, Soprano.
+
+Pax Sopr.
+Opulentia, Sopr. , Ihre Gespielin.
+
+Amandus, ihr Liebster / Ten.
+
+Fatum, ein Göttlicher Bote / Ten.
+
+Invidia, Burgundiens Feindin / Alt.
+
+Venus, Dero Getreue / Alt.
+
+Mars, Bass.
+Plutus, Bass.
+Bacchus, Bass.
+Satyrus, Bass. , Dero Bekandte.
+
+Fatuum, ein lustiger Bedienter / Ten.
+
+Chor, im Römischen Habit / C.A.T.B.
+
+Chor, im Schäfer-Habit / C.A.T.B.
+
+Chor, im Bauer-Habit / C.A.T.B.
+
+
+
+
+
+
+
+
+
+
+
+1. Auftritt
+
+
+
+
+Erster Aufftritt.
+
+Burgundia, eine Princeßin. Pax, Opulentia, ihre Gespielin.
+
+
+
+BURGUNDIA.
+
+Ihr liebsten Gespielen / ich lasse nicht von euch /
+Ihr machet mich ruhig / ihr machet mich reich.
+
+
+
+PAX.
+Der Himmel lasse mich in diesem Lande bleiben.
+
+
+OPULENTIA.
+Und lasse mich den Handel fruchtbar treiben.
+
+
+PAX.
+
+Ich bin des Himmels-Kind / wo mich die Völcker ehren /
+Da wird man nichts von Furcht und Schaden hören.
+Liebt den edlen Friede /
+Weil ihr lieben könnt /
+Der zum schönsten Liede
+Lust und Krafft vergönnt.
+
+
+
+OPULENTIA.
+
+Ich bin ein Kind der Welt / und spiele mit der Erde /
+Daß ich mit Geld und Frucht allzeit geseegnet werde.
+Liebt den reichen Seegen
+Weil ihr lieben könnt /
+Der zu euren Wegen
+Licht und Krafft vergönnt.
+
+
+
+BURGUNDIA.
+
+Ich liebe / schaffet nur / daß ich stets lieben kan.
+Denn was ihr geben könnt / das steht mir ewig an.
+
+
+
+Zusammen.
+
+
+
+So schliessen wir Hertzen und Hände zusammen.
+Der Himmel vermehre die lieblichen Flammen /
+Der lasse den Segen so lange bestehn.
+Biß Sträucher und Wurtzeln im Felde vergehn.
+
+
+
+
+
+
+
+
+
+2. Auftritt
+
+
+
+
+Andrer Aufftritt.
+
+Die Vorigen. Fatum, ein Göttlicher Bote.
+
+
+
+FATUM.
+
+Ihr Kinder eilet nicht / ihr müst euch vor befragen /
+Ob auch des Himmels Gunst die Liebe fodern will /
+Das Wort ist leicht zu sagen /
+Es wird auch leicht ein blosses Gauckel-Spiel.
+
+
+Was die Menschen hoffen /
+Giebt der Himmel an /
+Sonst wird nichts getroffen
+Das vergnügen kan.
+
+
+
+BURGUNDIA.
+
+Ich bitte / wo mir was in meiner Hoffnung fehlt /
+So werde mir der Rest vom Himmel zugezehlt.
+
+
+
+BURGUNDIA.
+
+ PAX. OPULENTIA.
+Im Vermählungs-Ringe
+Steht das süsse Ziel /
+Nur mit dem Bedinge
+Wo der Himmel will.
+
+
+
+FATUM.
+
+Wohlan! so denckt / daß ihr verknüpffet seyd /
+Wofern die Nympfe was zu ihrer Liebe findet /
+Daß sich ein Printz mit ihr verbindet /
+Sonst wancket die Zufriedenheit.
+Was ist ein Weib
+Darauff ein Liebster zielt?
+Es ist ein Leib
+Der keine Seele fühlt.
+
+
+
+BURGUNDIA.
+
+Ich will gehorsam seyn / man lencke meinen Geist /
+Und bringe mir das Wort / das mich der Himmel heist.
+
+
+
+FATUM.
+
+Deswegen dürfft ihr keine Klage /
+Hört nur / wie ich den Himmel frage.
+
+
+
+
+
+
+
+
+
+3. Auftritt
+
+
+
+
+Dritter Aufftritt.
+
+Fatum, ein Göttlicher Bote. Amandus, Burgundien Liebster. Fatuum, ein lustiger Bedienter / versteckt. Burgundia, die Princeßin. Pax, Opulentia, ihre Gespielin.
+
+
+
+FATUM.
+
+Himmel sey so gut und sprich /
+Wer vermählt die Nymfe sich.
+
+
+
+AMANDUS.
+Ich.
+
+
+FATUUM.
+Ich.
+
+
+FATUM.
+
+Wer heist ich / wo wohnt der Feine /
+Liebt er sie und sonsten keine?
+
+
+
+AMANDUS.
+Keine.
+
+
+FATUUM.
+Eine.
+
+
+
+FATUM.
+
+Aber hier verlangt die Leute /
+Wird es morgen / oder heute?
+
+
+
+AMANDUS.
+Heute.
+
+
+FATUUM.
+Heute.
+
+
+FATUM.
+
+Nun die Nympfe stehet da /
+Ist es Ernst / so sage ja.
+
+
+
+AMANDUS.
+Ja.
+
+
+FATUUM.
+Ha ha ha ha ha.
+
+
+FATUM.
+Wer spottet unser Wort / heraus du falscher Hund?
+
+
+FATUUM.
+Ach schonet mein / ich bin gar ungesund.
+
+
+FATUM.
+Weswegen ruffstu nach?
+
+
+FATUUM.
+Ich bitte thut gemach.
+
+
+FATUM.
+Wer Sünde thut / der soll auch Straffe leiden.
+
+
+FATUUM.
+
+Er henge mich dort hin /
+Die Jungfer soll den Strick zerschneiden.
+Wer sich im Leben /
+Mit Narren behängt /
+Dieser wird eben
+Mit Qvarge besprengt.
+
+
+
+FATUM.
+So will ich wissen wer das Jawort gab.
+
+
+AMANDUS.
+
+Hier steht der Mann /
+Der legt die Schuldigkeit mit wahren Worten ab.
+
+
+
+FATUM.
+
+Ach seelig soll der seyn / ihr Nymfen kommt heran /
+Das ist ein Haupt /
+Dadurch die Wohlfarth wachsen kan.
+Ihr beyde lebt vergnügt / und wenn ihr künfftig blüht /
+So denckt / daß GOtt und Welt die Freude gerne sieht.
+
+
+
+Geht ab.
+
+
+
+
+FATUUM.
+
+Ich komme noch davon / doch weil die Liebe blüht /
+So bin ich so ein Narr / der lieber Schaden sieht /
+
+
+
+Geht ab.
+
+
+
+
+
+
+
+
+
+4. Auftritt
+
+
+
+
+
+
+Vierdter Aufftritt.
+
+Amandus, der Liebste. Burgundia, die Princeßin.
+
+
+
+AMANDUS.
+Find ich mein Eigenthum?
+
+
+BURGUNDIA.
+Und find ich mein Verlangen?
+
+
+AMANDUS.
+Ihr Leben ist mein Ruhm.
+
+
+BURGUNDIA.
+Sein Blick hat mich gefangen.
+
+
+AMANDUS.
+Ich selbsten bin der Trieb /
+
+
+BURGUNDIA.
+Und ich der Liebes-Schluß.
+
+
+AMANDUS.
+Hier folget Lieb auff Lieb /
+
+
+BURGUNDIA.
+Hier folget Kuß auff Kuß.
+
+
+AMANDUS.
+
+Seelig welcher im Gemüthe
+Lust und Gegen-Liebe spürt.
+
+
+
+BURGUNDIA.
+
+Seelig wen des Himmels Gütte
+Zu der Kunst in Lieben führt.
+
+
+
+AMANDUS.
+
+ BURGUNDIA.
+Seelig wen das Glücke treibt.
+Daß er auch beständig bleibt.
+
+
+
+AMANDUS.
+Ich bins.
+
+
+BURGUNDIA.
+Ich bin es auch.
+
+
+AMANDUS.
+Ich leb?
+
+
+BURGUNDIA.
+Ich darff nicht sterben.
+
+
+AMANDUS.
+Ich fürchte keinen Fall.
+
+
+BURGUNDIA.
+Ich trotze mein Verderben.
+
+
+AMANDUS.
+Was dieser Kuß bekennt /
+
+
+BURGUNDIA.
+Das sagt mein Gegen-Kuß.
+
+
+BURGUNDIA.
+
+ AMANDUS.
+Das unsre Flamme brennt /
+Und künfftig brennen muß.
+
+
+
+
+
+
+
+
+
+5. Auftritt
+
+
+
+
+Fünffter Aufftritt.
+
+Die Drey Chöre.
+
+
+
+RÖMISCHER.
+Wie spielet die Liebe mit fruchtbaren Lichte /
+
+
+SCHÄFER.
+Wie machet der Seegen die Sorgen zu nichte.
+
+
+RÖMISCHER.
+Amandus vergnüget die liebende Braut /
+
+
+SCHÄFER.
+So werden sie beyde dem Glücke vertraut /
+
+
+BAUER.
+So werden die Felder im Friede gebaut.
+
+
+
+RÖMISCHER.
+
+Was sie wünschen / was sie lachen /
+Diesem sey der Himmel hold.
+
+
+
+SCHÄFER.
+
+Was sie schlaffen / was sie wachen /
+Dieses werde lauter Gold /
+
+
+
+BAUER.
+
+Nun viel Glücks zum Bauerer-Sachen /
+Tantzt ihr Bauerern wenn ihr wollt.
+
+
+
+RÖMISCHER.
+Die Städte /
+
+
+SCHÄFER.
+Die Wiesen /
+
+
+BAUER.
+Die Felder
+
+
+ZUSAMMEN.
+Gedeyen.
+
+
+RÖMISCHER.
+Sie prangen /
+
+
+SCHÄFER.
+Sie grünen /
+
+
+BAUER.
+Sie wachsen
+
+
+ZUSAMMEN.
+Im freyen.
+
+
+RÖMISCHER.
+Die Bürger bekleiben.
+
+
+SCHÄFER.
+Die Schafe gelingen.
+
+
+BAUER.
+Die Saaten bekommen /
+
+
+ZUSAMMEN.
+So lernen wir singen.
+
+
+
+
+
+
+
+
+6. Auftritt
+
+
+
+
+Sechster Aufftritt.
+
+Invidia, Burgundiens Feindin. Die Vorigen.
+
+
+
+INVIDIA.
+
+Was vor ein Schall verletzet mir die Ohren?
+Wer singet von der Lust?
+Hat meine Schlange schon den Gifft verlohren /
+Daß ich nicht mitten in dem Liede /
+Den Thon verwandeln kan?
+Doch siehe da! Was macht der schwache Friede?
+Was macht das schnöde Paar?
+Es sey hiermit geschworen /
+Die Liebe soll getrennet seyn /
+Ich setze diesen Gifft zum Zeugen ein.
+
+
+
+Sie treten ab.
+
+
+
+Entweichen sie? Der Eyfer weichet nicht /
+Der sie numehr biß in die Seele sticht.
+
+
+Vor den blassen Neide.
+Bückt sich alle Welt /
+Wenn sie von der Freude
+Kläglich wieder fällt.
+
+
+
+
+
+
+
+
+
+7. Auftritt
+
+
+
+
+Siebender Aufftritt.
+
+Mars, Plutus, Bacchus, Satyrus, Invidiens Bekandte. Venus, dero Getreue. Fatuum, ein lustiger Bedienter. Invidia, Burgundiens Feindin.
+
+
+
+INVIDIA.
+Willkommen ihr Freunde.
+
+
+FATUUM.
+Willkommen mein Schatz.
+
+
+INVIDIA.
+Verdienet den Titul / so findet ihr Platz.
+
+
+FATUUM.
+
+Wem sollen wir schaden? Ich bleibe getreu /
+Und schlage dem Glücke die Fenster entzwey.
+
+
+
+INVIDIA.
+
+Seht ihr nicht jenes Paar / soll das vergnüget seyn?
+Seyd ihr mir hold / so mischet Wermuth ein.
+
+
+
+Gehet ab.
+
+
+
+
+VENUS.
+
+Die Schwester ruffet uns / wir müssen was versuchen /
+Wer uns zu Trotze lacht / der soll die Lust verfluchen.
+MARS, PLUTUS, BACCHUS, SATYRUS zusammen.
+
+
+
+
+FATUUM
+
+singet nach.
+
+
+Ach ja wir sind bereit
+Zu solcher Dienstbarkeit.
+Wir lachen / wenn das Glücke weint /
+Wir Weinen / wenn es frölich scheint.
+
+
+
+VENUS.
+
+So sey es beschlossen / erweiset die Macht /
+Durch Sorgen und eilen wird alles verbracht.
+
+
+
+VENUS.
+Last uns machen /
+
+
+ZUSAMMEN.
+Last uns machen.
+
+
+VENUS.
+Daß wir lachen /
+
+
+ZUSAMMEN.
+Daß wir lachen.
+
+
+VENUS.
+
+Setzt zusammen /
+List und Flammen.
+
+
+
+ZUSAMMEN.
+
+Seht beyasmmen /
+List und Flammen.
+
+
+
+
+VENUS.
+
+Daß die Beyde /
+Welche brennen /
+Sich zutrennen.
+
+
+
+ZUSAMMEN.
+Ja das ist unsre Freude.
+
+
+Sie ziehen sich in die mittelste Scene.
+
+
+
+
+FATUUM.
+
+Ja das ist unsre Freude.
+Wer in der Welt so simpel ist.
+Daß er der Schererey vergist /
+Und nicht den andern Schaden thut /
+Der ist ein 15- ein 16- ein 17- ein 18- ein 100000-Hut.
+Ja das ist meine Freude.
+
+
+
+
+
+
+
+
+
+8. Auftritt
+
+
+
+
+Achter Aufftritt.
+
+Venus, Invidiens Getreue. Amandus, Burgundiens Liebster. Fatum, ein Göttlicher Bote.
+
+
+
+VENUS.
+Sieh da mein edler Printz.
+
+
+AMANDUS.
+Was giebt es hier zu thun?
+
+
+VENUS.
+
+Ich bin die Lust-Göttin / und meine Gaben sinds /
+Dabey die Menschen lustig ruhn.
+
+
+
+AMANDUS.
+Ich habe schon / was ich verlangen kan.
+
+
+VENUS.
+
+Vielleicht steht ihm was neues besser an.
+Wer wächselt und ändert /
+Wer faselt und schlendert /
+Der findet im Reste
+Doch endlich das Beste.
+
+
+
+AMANDUS.
+
+Wer wechselt und ändert /
+Wer faselt und schlendert /
+Verliehret im Reste
+Das Liebste / das Beste.
+
+
+
+VENUS.
+
+Mein Printz / er ist zu kalt /
+Er folge mir / ich brauche sonst Gewalt.
+
+
+
+AMANDUS.
+Ist niemand der mir hilfft?
+
+
+FATUM.
+
+Ach ja der Himmel ists / der Sorge trägt /
+Wer diesen Triebe folgt / der hat den Feind erlegt.
+
+
+
+Fatum gehet mit Amandus ab.
+
+
+
+
+
+VENUS.
+
+Der Fuchsbalck hat verspielt / nun muß der Löwe dran /
+Der etwas männlich thun / und männlich kriegen kan.
+
+
+
+
+
+
+
+
+
+10. Auftritt
+
+
+
+
+Zehender Aufftritt.
+
+Mars, Invidiens Bekandter.
+
+
+
+MARS.
+
+Ich führe die Waffen und bringe zu Ehren.
+Die lustig versengen / und hurtig zerstören /
+Die kommen meiner Liebe bey /
+Durch Hagel / Pulver Blitz und Bley.
+Ich locke die Hertzen
+Zur Tapfferkeit an /
+Doch gehn sie mit Schmertzen
+Die blutige Bahn.
+Wer meinen Feuer traut /
+Der hat sich leicht ein Hauß von Rauch und Wind gebaut.
+
+
+
+
+
+
+
+
+
+11. Auftritt
+
+
+
+
+Eilffter Aufftritt.
+
+Mars, Invidiens Bekanter. Amandus, Burgundiens Liebster. Fatum, ein Göttlicher Bote.
+
+
+
+MARS.
+Ist diß der Helden-Sohn?
+
+
+AMANDUS.
+Und was begehrt er davon?
+
+
+MARS.
+Wie sitzt er als ein Weib in seiner Stadt gefangen?
+
+
+AMANDUS.
+Die Liebe die mich treibt vergnüget mein Verlangen.
+
+
+MARS.
+
+Was sagt ein Mann von Liebe?
+Der Schild und Helm von seinen Eltern hat /
+Ach wäre mancher Held an seiner statt.
+In rauben und beuten /
+In fechten und streiten /
+In kriegen und siegen /
+Da wohnet Vergnügen.
+
+
+
+AMANDUS.
+
+In rauben und beuten /
+In fechten und streiten /
+
+
+In kriegen und siegen /
+Stirbt alles Vergnügen.
+
+
+
+MARS.
+
+Weg mit der Einbildung! Er nehme dieses Schwerd
+Und suche was ein Held begehrt.
+
+
+
+AMANDUS.
+Mein Schwerdt ist schon gewetzt / doch wenn der Himmel will.
+
+
+FATUM.
+
+So störet man der Liebe Ziel!
+Fort aller Leute Feind /
+Wer frembden Schaden sucht / der werde selbst zu Schanden /
+Biß er in solchen Banden /
+
+
+
+Fatum bindet Mars.
+
+
+
+
+FATUM.
+Und also sind wir frey.
+
+
+AMANDUS.
+Der Himmel steh uns ferner bey.
+
+
+
+
+
+
+
+
+12. Auftritt
+
+
+
+
+Zwölffter Aufftritt.
+
+Plutus, Bacchus, Satyrus, Invidiens Bekandte.
+
+
+
+PLUTUS.
+Ich liebe das Silber und diene dem Geitze /
+
+
+BACCHUS.
+Indem ich die Völcker zur Trunckenheit reitze.
+
+
+SATYRUS.
+Ich führe die Menschen auff eitelen Tand /
+
+
+ZUSAMMEN.
+So werden die Seelen vom Glücke gewand.
+
+
+PLUTUS.
+
+Ach Silber ach Gold!
+Dir bleibet man hold.
+
+
+
+BACCHUS.
+
+Wer tadelt den Wein /
+Er schleichet süß' ein.
+
+
+
+SATYRUS.
+
+Wer spielet und lacht /
+Wird lustig gemacht.
+
+
+
+
+
+
+
+
+
+13. Auftritt
+
+
+
+
+Dreyzehender Aufftritt.
+
+Die Vorigen. Amandus, der Burgundien Liebster.
+
+
+
+AMANDUS.
+Sieh da! was bringet ihr?
+
+
+PLUTUS.
+
+ BACCHUS. SATYRUS.
+Wir bringen Lust und Segen.
+
+
+
+AMANDUS.
+
+Seyd unbemüth /
+Ich kan den Grund zur Lust ohn euern Beystand legen.
+
+
+
+
+PLUT.
+
+Mit wuchern und sorgen /
+Mit schachern und borgen /
+Mit schaben und scharren
+Wird keiner zum Narren.
+
+
+
+AMANDUS.
+
+Mit wuchern und sorgen /
+Mit schachern und borgen /
+Mit schaben und scharren /
+Wird mancher zum Narren.
+
+
+
+BACCHUS.
+
+Bey Gläsern und Kannen /
+Bey Schüsseln und Pfannen /
+Bey halben und gantzen /
+Da lernet man tantzen.
+
+
+
+AMANDUS.
+
+Bey Gläsern und Kannen /
+Bey Schüsseln und Pfannen /
+Bey halben und gantzen /
+Vergehet das Tantzen.
+
+
+
+SATYRUS.
+
+In singen und spielen /
+In schiessen und zielen /
+In jagen und reiten /
+Sind lustige Zeiten /
+
+
+
+AMANDUS.
+
+In singen und spielen /
+In schiessen und zielen /
+In jagen und reiten /
+Verderben die Zeiten.
+
+
+
+PLUTUS.
+Er gebe sich.
+
+
+BACCHUS.
+Er kan nicht fort.
+
+
+SATYRUS.
+Er ist gefangen.
+
+
+Amandus entläufft.
+
+
+
+
+BACCHUS.
+Ach nein / er ist entgangen.
+
+
+
+
+
+
+
+
+14. Auftritt
+
+
+
+
+Vierzehender Aufftritt.
+
+Die Vorigen. Fatum, ein Göttlicher Bote.
+
+
+
+FATUM.
+
+Ich sehe wohl Mars findet mehr Gesellen.
+Fort schicket euch /
+Ihr müst die Caution in solchen Zwange stellen /
+
+
+Der Himmel sagts / ihr schwachen Sünder
+So stoltz ihr sonsten seyd /
+So bleibt ihr doch nichts als verachte Kinder.
+
+
+
+Fatum bindet Plutus, Bacchus, Satyrus an.
+
+
+
+
+
+
+
+
+
+15. Auftritt
+
+
+
+
+Funffzehender Aufftritt.
+
+Die Drey Chöre.
+
+
+
+RÖMISCHER.
+So lebet Amandus noch ferner im Lieben /
+
+
+SCHÄFER.
+So müsten die Feinde sich selber betrüben /
+
+
+RÖMISCHER.
+Burgundien blühet in lustiger Zeit.
+
+
+SCHÄFER.
+Wir kosten den Seegen und trotzen den Neid.
+
+
+BAUER.
+So werden die Bauern ingleichen erfreut.
+
+
+RÖMISCHER.
+
+Was sie wünschen / was sie lachen /
+Diesen bleibt der Himmel hold.
+
+
+
+SCHÄFER.
+
+Was sie schlaffen / was sie wachen /
+Dieses wird zu lauter Gold.
+
+
+
+BAUER.
+
+Nun viel Glücks zum Bauer-Sachen /
+Tantzt ihr Bauern wenn ihr wollt.
+
+
+
+RÖMISCHER.
+Die Städte /
+
+
+SCHÄFER.
+Die Wiesen /
+
+
+BAUER.
+Die Felder
+
+
+ZUSAMMEN.
+Gedeyen.
+
+
+RÖMISCHER.
+Sie prangen /
+
+
+SCHÄFER.
+Sie grünen /
+
+
+BAUER.
+Sie wachsen
+
+
+ZUSAMMEN.
+Im freyen.
+
+
+RÖMISCHER.
+Die Bürger bekleiben /
+
+
+SCHÄFER.
+Die Schafe gelingen /
+
+
+BAUER.
+Die Saaten bekommen;
+
+
+ZUSAMMEN.
+So lernen wir singen.
+
+
+
+
+
+
+
+
+16. Auftritt
+
+
+
+
+
+
+Sechzehender Aufftritt.
+
+Burgundia, die Princeßin. Pax, Opulentia, ihr Gespielen.
+
+
+
+BURGUNDIA.
+
+Ach weh! Ich soll mein Pfand verliehren /
+Das Unglück hält ihn ab.
+Komm du verlangter Todt / und zeige mir das Grab!
+Ihr Schwestern und Gespielen /
+Beweint derselben Schluß /
+Die was vom Tode fühlen /
+Und dennoch leben muß.
+
+
+
+PAX.
+Wer weiß ob diese Qvaal nicht vor der Zeit entsteht.
+
+
+OPULENTIA.
+Wer weiß ob dieser Printz den Feinden nicht entgeht.
+
+
+PAX.
+Die Feinde suchen viel /
+
+
+OPULENTIA.
+Und richten wenig aus /
+
+
+PAX.
+Der Himmel giebt das Ziel /
+
+
+OPULENTIA.
+Und segnet unser Hauß.
+
+
+BURGUNDIA.
+
+Ach schweigt / ich bin gewiß verlohren:
+Wer unter diese Feinde fällt /
+Der ist mehr als ein Mensch
+Wenn er den Platz behält.
+Ach laß die Liebe fahren /
+Die manchen Sinn berückt /
+So könnt ihr diß ersparen /
+Was mich zu Tode drückt.
+
+
+
+
+
+
+
+
+
+17. Auftritt
+
+
+
+
+Siebenzehender Aufftritt.
+
+Amandus, der Liebste. Burgundia, die Princeßin.
+
+
+
+AMANDUS.
+Wer ist allhier betrübt?
+
+
+BURGUNDIA.
+Ein Kind / das willig stirbt.
+
+
+AMANDUS.
+Ein Kind das glücklich liebt /
+
+
+BURGUNDIA.
+Und dem die Lust verdirbt.
+
+
+AMANDUS.
+Soll was verdorben seyn / indem Amandus lebt!
+
+
+BURGUNDIA.
+Ach ja / wenn er die Lust in falschen Sand vergräbt.
+
+
+AMANDUS.
+Das ist noch nicht geschehn.
+
+
+BURGUNDIA.
+Die Feinde werden schon auff ihren Vortheil sehn.
+
+
+
+AMANDUS.
+Betrognes Kind /
+
+
+BURGUNDIA.
+Ja wohl betrogen /
+
+
+AMANDUS.
+Doch nicht von mir.
+
+
+BURGUNDIA.
+
+Ach ja von ihm entzogen.
+Wer auff falsche Freude zielt /
+Hat die Liebste schon verspielt.
+
+
+
+AMANDUS.
+
+So hab ich diß verdient / daß man sich meiner Treue
+Nicht mehr versichern kan?
+Ach Liebste sie bereue
+Den Fehler / der sie reitzt / es ist nicht wohl gethan:
+Wer die falschen Freunde jagt /
+Hats gedoppelt zugesagt.
+
+
+
+
+
+
+
+
+
+18. Auftritt
+
+
+
+
+Achtzehender Aufftritt.
+
+Die Vorigen. Fatum, der Göttliche Bote.
+
+
+
+FATUM.
+
+Betrogne Braut / der Himmel ist geneigt /
+Der deinen Printz erhält /
+Und deiner Feinde Schaar / in schnöde Fessel stellt.
+Ihr Hunde kommt / und leistet eure Pflicht /
+Hier ist ein Held / der euern Willen bricht.
+
+
+
+Zusammen.
+
+
+
+
+MARS.
+Held.
+
+
+PLUTUS.
+Held.
+
+
+BACCHUS.
+Held.
+
+
+SATYRUS.
+Held.
+
+
+ZUSAMMEN.
+
+Held / weil er GOtt und Tugend liebt /
+So kan man nicht vorbey /
+Daß sich die Mißgunst auch zu seiner Pflicht ergiebt.
+
+
+
+
+
+
+
+
+
+19. Auftritt
+
+
+
+
+Neunzehnder Aufftritt.
+
+Fatum, der Göttliche Bote. Venus, der Invidien Getreue. Fatuum, ein lustiger Bedienter.
+
+
+
+VENUS.
+Wir haben verspielt.
+
+
+FATUUM.
+
+Ich
+Und
+
+
+
+VENUS.
+Held.
+
+
+FATUUM.
+Held.
+
+
+
+ZUSAMMEN.
+Held / weil er GOtt und Tugend liebt.
+
+
+VENUS.
+So kan ein edles Weib /
+
+
+FATUUM.
+Und auch ein edler Mann /
+
+
+ZUSAMMEN.
+
+Wahrhafftig nicht vorbey /
+Daß sich ihr gantzer Dienst zu seiner Pflicht ergiebt.
+
+
+
+FATUM.
+
+So herrschet Amandus und schiffet im Hafen /
+Die Feinde verschwinden und werden zu Sclaven.
+Die Liebe soll ferner viel Früchte gewinnen /
+Der Himmel ist willig / ich scheide von hinnen.
+
+
+
+
+
+
+
+
+
+20. Auftritt
+
+
+
+
+Zwanzigster Auffzug.
+
+Die drey Chöre.
+
+
+
+RÖMISCHER.
+Der Himmel ist willig / wir folgen der Güte /
+
+
+SCHÄFER.
+Und mercken auff Erden ein frölich Geblüte /
+
+
+RÖMISCHER.
+Wir jauchtzen in Städten / es lebe der Held!
+
+
+SCHÄFER.
+Es lebe der Fürste so singet die Welt.
+
+
+BAUER.
+Der Fürste der Bürgern und Bauern gefällt.
+
+
+RÖMISCHER.
+
+Last uns wünschen / last uns lachen /
+Denn der Himmel ist uns hold.
+
+
+
+SCHÄFER.
+
+Last uns schlaffen oder wachen /
+Unser Schatz ist lauter Gold.
+
+
+
+BAUER.
+
+Und ihr Bauern greifft zum Sachen /
+Tantzt im Felde wenn ihr wollt.
+
+
+
+RÖMISCHER.
+Die Städte /
+
+
+SCHÄFER.
+Die Wiesen /
+
+
+BAUER.
+Die Felder
+
+
+ZUSAMMEN.
+Gedeyen.
+
+
+RÖMISCHER.
+Sie prangen
+
+
+SCHÄFER.
+Sie grünen /
+
+
+BAUER.
+Sie wachsen
+
+
+ZUSAMMEN.
+Im freyen.
+
+
+RÖMISCHER.
+Die Bürger bekleiben /
+
+
+SCHÄFER.
+Die Schaffe gelingen /
+
+
+BAUER.
+Die Saaten bekommen;
+
+
+ZUSAMMEN.
+So lernen wir singen.
+
+
+
+
+
+
+
+
+
+4. Akt
+
+
+
+
+
+1. Aufzug
+
+
+
+
+Erster Auffzug.
+
+Robert, Cammer-Herr. Heinrich, Cammer-Juncker.
+
+
+
+ROBERT.
+ So geht es in der Welt / die besten Spiele kan man überdrüßig werden / wenn man sich etwas über die Zeit darinne auffhalten soll.
+
+
+HEINRICH.
+ Sonderlich / wenn die Lust nicht in curiöser Invention, und vielmehr in einer Bäurischen Einfalt bestehen soll.
+
+
+ROBERT.
+ Man verwundert sich über die Einfallt / aber es kan eine Stunde kommen / da man den höchsten Verdruß darüber empfindet.
+
+
+HEINRICH.
+ Und ich besorge / wo der Bauer nicht bald um sein Fürstenthum gebracht wird / so müssen wir alle mit einander aus dem Pallaste entlauffen.
+
+
+ROBERT.
+ Da sieht man / wie weißlich GOtt die Ordnung unter den Menschen zu halten pfleget / er ist reich genung / und könte dem ärmsten Bauer Mittel genung schaffen / daß sie in essen und trincken etwas besser accommodiret würden. Allein / wer wollte das ungezähmte Volck im Gehorsam behalten / wenn Armuth und Elend nicht die besten Zuchtmeister wären.
+
+
+HEINRICH.
+ Ein Fürste müste sich im ersten Monath seiner Regierung in die Wüsteney begeben / wenn sich nicht die meisten mit Hunger und Kummer in der Welt zu ernehren hätten.
+
+
+ROBERT.
+ Mich dünckt unser Fürst wird auch der lächerlichen Spiele bald satt haben.
+
+
+HEINRICH.
+ Ja der letzte Actus im Possen-Spiele wird vor der Thüre seyn / die lustigen Hoff-Pursche haben Ordre / daß sie ihm einen stattlichen Rausch wieder bey bringen sollen / damit er in den alten Kleidern wiederum sein Lager auff der Gasse nehmen kan.
+
+
+ROBERT.
+ Wenn alle Sachen so möglich wären / als daß wir diesen Bauer gedencken voll und toll zu sehen / so wären wir glückliche Leute.
+
+
+
+HEINRICH.
+ Es ist eine Gattung von leibhafftigen Vieh / denn es sucht in Fressen und Sauffen die beste Wollust / und wenn der Bauch darüber zuspringen solte.
+
+
+ROBERT.
+ Ich halte es ist eine Gattung von umgekehrten Vieh / denn das rechte Vieh wird im Fressen und Sauffen die Mase niemahls überschreiten.
+
+
+HEINRICH.
+ So dürffen wir nicht sprechen / denn zu Hofe wird niemand seyn / der sich einer beständigen Mase rühmen kan / es wäre denn / daß man einander die Gesundheit mit vollen Messen zutheilen wolte.
+
+
+ROBERT.
+ Doch was bringen diese Personen / aus ihren lachenden Gesichte merck ich / daß sie was lustiges in diesen Spiele werden zu versuchen haben.
+
+
+
+
+
+
+
+
+2. Aufzug
+
+
+
+
+Andrer Auffzug.
+
+Die vorigen. Karsten, Breit, Hoff-Pursche.
+
+
+
+KARSTEN.
+ Beliebts meinen Herren / etwas lustiges anzusehen / der Fürst hat sich trefflich erniedriget / und soll sich mit den Purschen von unsern Geschlechte einen dichten Rausch sauffen.
+
+
+ROBERT.
+ Ey ey / das wird vor euch arme Leute zu schwer seyn.
+
+
+KARSTEN.
+ Wohin zielet mein Herr.
+
+
+ROBERT.
+ Ich weiß / daß euch das Trincken trefflich sauer ankömmt.
+
+
+KARSTEN.
+ Ich halte wir werden das Wiederspiel daraus verstehen sollen.
+
+
+BREIT.
+ Und ich habe mich niemahls drüber beschweret / wenn das nasse Deputat zu Hofe doppelt ist gegeben worden.
+
+
+ROBERT.
+ So verlasset ihr euch gleichwohl in der schönen Profession auff die Künste / daß ihr dem neuen Fürsten wollet gewachsen seyn.
+
+
+
+KARSTEN.
+ Wenns zur Probe kommen solte / so wolte ich mit dem Bauer aushalten.
+
+
+BREIT.
+ Gesetzt auch / daß sich der Schelm nicht wolte überwinden lassen / so wolten wir ihm 100. Causen machen / daß er 20. vor eins sauffen muste.
+
+
+ROBERT.
+ Nu viel Glücks zur Probe / wenn das Kätzgen wird gebadt seyn / so wollen wir wiederkommen / und über das Spectacul lachen helffen. Gehet ab.
+
+
+
+
+
+
+
+
+
+3. Aufzug
+
+
+
+
+Dritter Auffzug.
+
+Die Vorigen. Boyson, ihr Auffwärter.
+
+
+
+KARSTEN.
+ Das haben wir davon / lustige Spectacul wollen alle haben / ob aber die Lust was einbringt / und ob der Spectacul-Macher seine Ergötzligkeit darvon krieget / da will Niemand darvon wissen.
+
+
+BREIT.
+ O Bruder / rede nicht so lästerlich / es setzet doch hin und wieder was zu sauffen / und ich will dirs mit dem heutigen Tage beweisen / daß wir unsere Lust nicht umsonst machen.
+
+
+BOYSON.
+ Nu da bin ich / soll ich was machen / so muß ichs wissen.
+
+
+KARSTEN.
+ Freylich giebt es viel zu machen / wo sind die Stühle? wo sind die Becher? wo ist alles miteinander?
+
+
+BOYSON.
+ Es soll alles geschaffet werden / sind die Stühle gut genung? Bringet sie.
+
+
+
+KARSTEN.
+ Ja ja / vor einen solchen Fürsten mögen sie gut genung seyn.
+
+
+BOYSON.
+ Soll ich darnach weggehen wenn ich alles gethan habe?
+
+
+KARSTEN.
+ Ja ja / wenn alles vorüber ist / kanstu gehn / aber zu deinem Ampte gehöret auch das Einschencken.
+
+
+
+BOYSON.
+ Ich sehe schon / ich komme den Tag nicht loß / vielleicht mag ich mir einen Gehülffen schaffen.
+
+
+KARSTEN.
+ Ich dachte wohl / daß ein Junge den andern würde bedürffen.
+
+
+
+
+
+
+
+
+5. Aufzug
+
+
+
+
+Fünffter Auffzug.
+
+Die mittelste Scene öffnet sich. Mierten, der Bauer. Stax, Micke, Trabanten. Die Vorigen.
+
+
+
+KARSTEN.
+ Ha ha ha / stellet sich der vornehme Gast doch eher ein / als wir vermeinet hatten.
+
+
+MIERTEN.
+ Ja wo mich iemand zu Ehren gebraucht da komm ich nicht langsam.
+
+
+STAX.
+ Wir habens Ihre Gnaden versprochen / daß wir derselben auffwarten wollen.
+
+
+MICKE.
+ Und wir habens auch versprochen / daß wir einander ein bißgen im Trincken examiniren wollen.
+
+
+MIERTEN.
+ Es ist alles beydes gut. Aber hört / last mich nur mit dem Weine zufrieden / Bier will ich gerne Bescheid thun / so lange ihr wollt.
+
+
+STAX.
+ Was E. Fürstl. Gnaden befehlen / darnach wollen wir uns richten.
+
+
+MICKE.
+ Auff Euer Gnaden Anordnung / mach ich einen Possen und sauffe Wasser.
+
+
+MIERTEN.
+ Nein nein / fürchtet euch nicht / in meinem Fürstenthum wird kein Wasser gesoffen.
+
+
+KARSTEN.
+ Nun es ist Schande / daß wir so lange stehn / Ihr Fürstl. Gnaden wollen sich setzen.
+
+
+MIERTEN.
+ Ja ja / vom sitzen hat man so viel / als vom stehn / setzet euch neben mich / heute will ich einmahl meines Fürstenthums vergessen / und will mit euch rum sauffen wie der beste Bruder.
+
+
+KARSTEN.
+ Ihr Gnaden brauchen ihre Lust / wir wollen doch gedencken / daß ein Fürst in der Compagnie ist.
+
+
+Boyson bringt zu trincken.
+
+
+
+
+
+MIERTEN.
+ Nu das ist das erste / ein Gantzes auff Gesundheit des Vornehmsten.
+
+
+STAX.
+ Ich bedancke mich vor die Gnade / ich will Bescheid thun.
+
+
+MIERTEN.
+ Schenckts auch recht voll ein / einem wie den andern / gleiche Narren / gleiche Kappen.
+
+
+KARSTEN.
+ Bruder Micke, Vivat unser Fürste.
+
+
+MIERTEN.
+ Was / bin ich ein Gigack?
+
+
+MICKE.
+ Nein nein / der Herr ist Vivat.
+
+
+MIERTEN.
+ Was ist das vor ein Ding Vivat?
+
+
+MICKE.
+ Es ist ein stattlich Wort / das muß man sprechen / wenn eines Fürsten Gesundheit getruncken wird. Gigack der Fürste.
+
+
+KARSTEN.
+ Ihr Gnaden darff ich vorkommen?
+
+
+BREIT.
+ Ihr Gnaden ein Gantzes.
+
+
+MIERTEN.
+ Nicht zugfach / nicht zugfach / sonst werd ich zum Schaffhäuser. Meine Fürstl. Gnade euch allen beyden.
+
+
+STAX UND MICKE
+
+zusammen.
+
+ Ey Ihr Gnaden haben schönen Danck / wir sind gehorsame Diener.
+
+
+MIERTEN.
+ Nu nu gebt euch zu frieden / ich habs ausgetruncken / macht es auch so.
+
+
+KARSTEN.
+ Du loser Kerle schenck doch voll ein / gieb mir einen Becher her / da will ich mit zuflicken / wenn was ausgelassen wird.
+
+
+Hier sind gewisse Vexier-Becher / mit doppelten Boden / die vor den Spectatoribus voll eingeschenckt / und hernach als ledige umgestürtzt werden / damit kan der Bauer sich stellen / als wenn er ein Schock Becher aussöffe / die Spectatores müssen sich verwundern / wie er alles bezwingen kan.
+
+
+
+
+MICKE.
+ Ihr Gnaden / darff ich wieder zurücke kommen.
+
+
+MIERTEN.
+ O ja in meinem Lande heissen sie das qviren.
+
+
+MICKE.
+ Ihr Fürstliche Durchlauchtigkeit haben mir befohlen / daß ich eine vornehme Gesundheit anfangen soll.
+
+
+MIERTEN.
+ Ie nu ich will deßwegen nicht zum unredlichen 
+Manne werden / sie muß freylich getruncken werden; Aber was ists vor eine Gesundheit?
+
+
+MICKE.
+ Es ist die Gesundheit auff Carle morle Puff.
+
+
+MIERTEN.
+ Carle morle Puff / das mag ein vornehmer Herr seyn / er hat gewiß ein grösser Fürstenthum als ich.
+
+
+MICKE.
+ Aber sie muß auff den Knien getruncken werden.
+
+
+MIERTEN.
+ O ich knie mit nieder.
+
+
+MICKE.
+ Es ist nicht genung daß man kniet / es ist eine Kunst darbey.
+
+
+MIERTEN.
+ Wer weiß kan ich die Kunst nicht auch.
+
+
+MICKE.
+ Es stehet zu versuchen / aber wers nicht recht macht muß den Becher noch einmahl aussauffen.
+
+
+MIERTEN.
+ So will ich wohl mit Fleisse fehlen / daß ich prave sauffen mag.
+
+
+MICKE.
+ Nach eines iedweden Belieben. Ihr Gnaden sehen auff mich / wie ichs mache / so machen sie es nach. In Gesundheit Carle Er kniet mit dem rechten Knie. Morle Er kniet mit dem lincken Knie. Puff Er kniet mit allen beyden Knien. Ihr Gnaden es ist aus sie machen es nach / wo sie fehlen / müssen sie den Becher noch einmahl austrincken.
+
+
+MIERTEN.
+ Nu laß sehn / ich will kein Ferckel machen / Herr Wirth / Herr Wohlthäter in Gesundheit Carle morle Puff. Er kniet nieder und säuffts gantz aus.
+
+
+
+MICKE.
+ Ey das war nichts / es muß auff dreymahl ausgetruncken seyn / schenckt wieder ein.
+
+
+MIERTEN.
+ O ihr Narren / was macht ihr einander das Leben sauer / wer kans denn so gleiche theilen / daß nimmer was drinne bleibt. Nu es gilt noch einmahl Carle morle Puff. Er säufft zwey mahl.
+
+
+
+MICKE.
+ Ey Puff hat nichts kriegt / schenckt den Becher wieder ein.
+
+
+MIERTEN.
+ Ich werde zu thun haben / wo ich auff drey zehlen lerne. Nu zum dritten mahle Carle morle Puff. Er trinckt drey mahl.
+
+
+
+
+MICKE.
+ Das gilt wieder nicht / die Knie müssen verwechselt werden / wer das nicht kan / muß noch einmahl sauffen.
+
+
+MIERTEN.
+ Ie darauff hab ich nicht achtung gegeben / weist mirs nur noch einmahl.
+
+
+KARSTEN.
+ Nu ich wils weisen. Er trinckt / und wechselt so mit den Knien.
+
+
+
+MIERTEN.
+ Nu werd ichs können eins um ander / und alle beyde zusammen.
+
+
+Er trinckt offte / sie haben allemahl etwas zu tadeln /und schreyen hefftig darzu / wenn auch der Becher nicht voll genung ist / wird allezeit was darzu geschenckt: Auff die letzt kan ers.
+
+
+
+
+MICKE.
+ Nu das war recht / so sehen wir doch / daß er ein Fürstl. Hertze hat.
+
+
+MIERTEN.
+ Ja ja wo Carle morle Puff ein rechter Kerle ist / das sichs der Müh verlohnt / so mags hingehen.
+
+
+BREIT.
+ Ihr Gnaden / ich habe ihr den Becher zu getruncken / sechs aus einen auffs Frauenzimmers Gesundheit.
+
+
+MIERTEN.
+ Ja ja Gigack das Frauenzimmer / trinck her.
+
+
+BREIT.
+ Ich habs schon gethan.
+
+
+MIERTEN.
+ Aber ich habs nicht gesehn. Sie schreyen alle ja ja er hat getruncken / Ihr Gnaden müssen bescheid thun. Ie nu habt ihrs gesehen / so muß wohl wahr seyn / aber ich wolte lieber damit warten biß morgen.
+
+
+BREIT.
+ Morgen ists Bier sauer / da wäre das Frauenzimmer geschimpfft / ey es sind kahle Becher.
+
+
+MIERTEN.
+ Nu ich trincks der gantzen Compagnie zu / sechs aus einen.
+
+
+Hier wird ein Becher nach dem andern eingeschenckt / sie verzehlen sich allezeit / daß er von forne wieder anfangen muß / endlich bittet er man solle ihn verschonen / und er muß allzeit dran /biß er seine Hülffe hat.
+
+
+
+
+MIERTEN.
+ Nu ich habe mein Frauenzimmer redlich gewehrt / wo ich heinte noch soll zu ihm gehn / so muß ich reiten / die Füsse werden mir gar ringlich.
+
+
+
+MICKE.
+ Ich will wohl gehn / und will beym Frauenzimmer ein Pferd bestellen.
+
+
+MIERTEN.
+ Du rede mir nicht / wenn die Fürsten meines gleichen gesoffen haben / so fange sie gerne Händel an.
+
+
+MICKE.
+ Was hab ich denn gethan / das Händel verdient.
+
+
+MIERTEN.
+ Es mag mir einer thun was er will / so fang ich Händel an.
+
+
+MICKE.
+ Wir wollen hoffen / es wird nicht so böse gemeinet seyn.
+
+
+MIERTEN.
+ Ich will euch wohl die böse Meynung weisen / ihr Hunde. Denckt ihr nicht / daß ich von freyen Stücken kan Händel anfangen. Packt euch aus meinem Gesichte / oder ich will mein Schwerd ausziehen / daß die gantze Stube erzittern soll.
+
+
+MICKE.
+ Wenn wir gleichwohl einen blosen Degen sehn sollen / so thut doch / was ihr nicht lassen könnt.
+
+
+MIERTEN.
+ Ich wils auch thun / seht ihr Hunde da steckt meine Grimmigkeit.
+
+
+Er zeucht ein rauch Schwäntzgen an statt des Degens rauß / sie fangen alle überlaut an zu lachen / endlich lauffen sie davon.
+
+
+
+
+
+
+
+
+
+6. Aufzug
+
+
+
+
+Sechster Auffzug.
+
+Mierten, der Bauer. Philippus, der Hertzog. Wilhelm, Stall-Meister. Heinrich, Cammer-Juncker. Hernach Robert, Cammer-Herr.
+
+
+
+MIERTEN.
+ Wo seyd ihr hin / ihr Rabenäser? Seht ihr / was ein Fürste für einen blossen Degen hat. Nun ich muß noch weiter dran / den Tag muß ich noch einen Todschlag begehen / was wäre ich vor ein Fürste / wenn ich nicht Blut vergiessen könte. Rauß ihr Schelmen / ihr Diebe rauß / 
+und schafft mir einen Kerlen / den ich todtschlagen kan / sonst bin ich vor euer eigen Leben nicht gut.
+
+
+PHILIPPUS
+
+kömmt.
+
+ Wie stehts guter Freund? Die Gasterey wird gewiß mit einer scharffen Gesundheit seyn beschlossen worden.
+
+
+MIERTEN.
+ Wer seyd ihr?
+
+
+PHILLIPPUS.
+ Herr Fürste / könnt ihr euren Wohlthäter nicht?
+
+
+MIERTEN.
+ Ich thäte was auff meinen Wohlthäter / ich gehe rum und suche Händel / wer mir keine zuweisen will / der ist mein Feind.
+
+
+PHILLIPPUS.
+ Mit uns wird niemand Händel anfangen.
+
+
+MIERTEN.
+ Warum nicht / ihr seyd mir auch wohl nicht zu hoch geschoren darzu.
+
+
+PHILLIPPUS.
+ Sachte sachte / die Kurtzweile will zu Hofe raum haben.
+
+
+MIERTEN.
+ Was? Wer soll mir befehlen / daß ich sachte rede / soll ich meine helle Stimme verläugnen / Heysa sa sa sa sa / das geschieht dir zum Bravade / und willstu es nicht leiden / so will ich die Stücke von meinen fünff Fingern unter die Nase reiben / daß dir die Rede auff vierzehn Tage vergehen soll.
+
+
+PHILLIPPUS.
+ Der Kerle ist fertig / das Spiel ist aus / wo sind unsere Bediente die ihn fortschaffen? Sie kommen alle heraus / er will sich nicht geben / sie schleppen ihn fort. Nun mag er in seinen Bauer- Kleidern den Rausch an den vorigen Orte wieder ausschlaffen / doch das Exempel soll uns zu einer guten Nachricht dienen / daß wir ins künfftige keiner Bauer-Lust sonderlich verlangen werden.
+
+
+ROBERT.
+ Das Volck ist zur Arbeit geschaffen / und wenn es nur einen Tag von dieser Intention abweichet / so gehet das Uhrwerck schon unrichtig.
+
+
+WILHELM.
+ Wenn es so viel zu essen hat / als zur täglichen Nothdurfft erfordert wird / so ists am frömsten / und wenn es solchen Tranck geneust der nicht viel in die Köpffe steigt / so ist er am klügsten.
+
+
+
+HEINRICH.
+ GOtt hätte so leicht seiner Allmacht nach / die Flüsse mit Weine füllen können / doch bey so bestallten Sachen / müsten wir vor den Bauern aus der Welt entlauffen.
+
+
+ROBERT.
+ Das unverworrene Volck ist der Conversation nicht gewohnet / also muß der Trunck zu unhöfflichen Possen Anlaß geben.
+
+
+WILHELM.
+ Sie sind zu unverständig / und halten das vor keine Sünde / welches bey uns sehr übel ausgeleget wird.
+
+
+HEINRICH.
+ Ich halte davor / sie sind zu ehrlich / sie gedencken der Affect / der im Hertzen verborgen liegt / der muß auch alsobald im euserlichen Wercke gewiesen werden.
+
+
+ROBERT.
+ Der Discurs wäre von grossen Nachdencken / ich möchte fast daher also raisoniren: Wir sind alle Bauern; Doch welcher den Bauer im Hertzen verbergen kan / daß er nicht an das Tage-Licht kommen kan / der wird ein qvalificirter Hoffmann genennet.
+
+
+WILHELM.
+ Das ist gewiß / wir sehen es an unser Jugend / was sie offtermahls bey der geringen Debauche vor ungeschickte Händel vornimmt / da hingegen ein alter Practicus sein Gläßgen Wein mit besserer Geschickligkeit gemessen kan.
+
+
+HEINRICH.
+ In allen Dingen muß die Ubung was ausrichten / wer in voller weise manches mahl zu Schaden kömmt / der weiß sich mit der Zeit besser in acht zu nehmen.
+
+
+PHILLIPPUS.
+ Und diese vernunfftmäßige Reden haben wir den Bauer zu dancken.
+
+
+ROBERT.
+ Gnädigster Herr / muß doch ein Mensch offmahls von unvernünfftigen Thieren was lernen / warumb soll man sich allezeit eines Lehrmeisters schämen / der gleich unter die vernünfftigen Menschen gezehlet wird.
+
+
+PHILLIPPUS.
+ Und ein Fürste braucht in seinem Lande allemahl mehr solche Bauern / als andere / von dem sich die Bauern sollen vexiren lassen.
+
+
+ROBERT.
+ Ein grosser Fisch braucht zu seiner Nahrung viel kleine.
+
+
+WILHELM.
+ Ein Baum hat mehr unnütze Blätter als kräfftige Früchte.
+
+
+
+HEINRICH.
+ Im Gold-Ertzte findet man mehr geringe Schlacken als rechtes Metall.
+
+
+PHILLIPPUS.
+ Wir freuen uns auff den morgenden Tag / da müssen wir sehen / daß der Bauer den Traum in unser Gegenwart erzehlen muß.
+
+
+ROBERT.
+ Wir wollen Gelegenheit dazu finden / wenn er auffwacht / soll er durch unsere Pursche gefangen angegriffen werden.
+
+
+PHILLIPPUS.
+ Man könte ihn auch beschuldigen / als hätte er denselben Tag einen Todschlag begangen da er doch geschlaffen hat.
+
+
+ROBERT.
+ Nach Euer Durchl. Gefallen wird das lustige Nachspiel eingerichtet werden.
+
+
+
+
+
+
+
+
+5. Akt
+
+
+
+
+
+1. Aufzug
+
+
+
+
+Erster Auffzug.
+
+Mierten im Bauer-Kleide liegt und schläfft. Micke, ein Trabante. Karsten, ein Hoff-Pursche.
+
+
+
+KARSTEN.
+ Wir müssen nicht zu lange bleiben / der Schelme möchte sonst den Rausch ausschlaffen und davon lauffen.
+
+
+MICKE.
+ Die Ladung war endlich gut / wenn ich so viel getruncken hätte / so war es mit mir um die Zeit noch nicht / daß ich auffstünde.
+
+
+KARSTEN.
+ Man muß sich nach den Betten richten / wenn unten harte Steine / und oben kalte Morgen- Lufft zusammen kommen / so will sich das Hertze im Leibe manchmahl umdrehen.
+
+
+MICKE.
+ Ich halte immer sein Hertze wird sich gar zu sehr umkehren / doch es war ja um die Gegend / da wird er wohl liegen müssen.
+
+
+KARSTEN.
+ Der Schelme hat gar ein groß Bette / er mag sich rumwerffen wie er will.
+
+
+MICKE.
+ Ha ha / sollen wir den Herrn da suchen? Auf verschlaffener 
+Schelme / es seyn vornehme Leute da / die mit dir reden wollen.
+
+
+KARSTEN.
+ Ach wenn man die Kerlen nicht mit dem Fusse 26. mahl an eine Stelle trifft / so giebts keinen Possen. Auff du Bohuncke.
+
+
+MIERTEN.
+ Nu nu / ich will schon kommen / trinckt dort um.
+
+
+KARSTEN.
+ Ja ich will dir trincken / du solst mir des Trinckens vergessen.
+
+
+MICKE.
+ Bruder / wo uns der Kerle kennt / daß wir gestern mit ihm gesoffen haben.
+
+
+KARSTEN.
+ Er mag uns kennen oder nicht / wir sprechen es ist nicht wahr / damit wird er doppelt betrogen.
+
+
+MICKE.
+ Bauer / finde dich aus dem Schlaffe / sonst geb ich dir eins vorm Schlaff / daß du genung hast.
+
+
+MIERTEN
+
+richtet sich auff.
+
+ Ie wo bin ich ietzund / da greiff ich auff Steine / und da greiff ich in was garstiges.
+
+
+MICKE.
+ Du Ertz-Vogel / du solst gar bald erfahren wo du bist / richte dich nur auff / daß man dir ins Gesichte sehen kan / du Strauch-Dieb.
+
+
+MIERTEN
+
+stehet auff.
+
+ Nu was thut man nicht auff der Welt / ehe man sich will schlagen lassen.
+
+
+KARSTEN.
+ Du wirst noch mehr thun müssen / wenn deine Schelm-Stücken werden an den Tag kommen.
+
+
+MIERTEN.
+ Ie Qvarck-Käse / da werd ich Schelm- Stücken begangen haben. Aber Botztausend / guten Morgen ihr Herrn / kommen wir da auff der Gasse zusammen / ein andermahl gebt mir mehr so viel zu sauffen.
+
+
+MICKE.
+ Bauer du schwermst / wo haben wir mit dir getruncken?
+
+
+MIERTEN.
+ Ie wist ihr nicht gestern Carle morle Puff sechs aus einem. Ihr waret schöne Hertzgen / es galt falsch und alles mit einander.
+
+
+MICKE.
+ Bruder dencke nur / was sich der Bauer-Flegel einbildet. Wir wollen ihn so gut achten / daß wir ihn in der Compagnie mit sauffen lassen.
+
+
+MIERTEN.
+ Ich bin auch wohl kein Bauer nicht.
+
+
+
+MICKE.
+ In dem Habite bistu wohl kein vornehmer Mann.
+
+
+MIERTEN.
+ Ie du ehrlicher Zippel-Peltz / bistu auch wieder kommen. Ie seh ich mir doch so ähnlich aus / als wenn mich ein Kunstmahler abgemahlet hätte.
+
+
+KARSTEN.
+ Ja du sauberer Vogel / du siehst dir ähnlich / und desswegen kanstu auch dein Schelmstück nicht verleugnen.
+
+
+MICKE.
+ Höre / warum hastu einen unschuldigen Kerlen das Messer in die Rippen gestochen.
+
+
+MIERTEN.
+ O mit euern Narren Possen / seht mich doch recht an / ihr müst mich kennen.
+
+
+KARSTEN.
+ Halt das Maul / oder ich werde die Bekandtschafft mit einer dichten Maulschelle bezahlen.
+
+
+MIERTEN.
+ Ile fürwahr gestern.
+
+
+MICKE
+
+schlägt ihn.
+
+ Ey was gestern? gestern hastu einen Todschlag begangen / heute solstu davor gehangen werden.
+
+
+MIERTEN.
+ Hab ich einen Todschlag begangen / so hab ich einen zu Tode gesoffen.
+
+
+KARSTEN.
+ Du magst dich stellen wie du wilst / du must dich gefangen geben.
+
+
+MIERTEN.
+ Nu last doch sehn / nein nein / es wird mir geträumet haben / daß ich mit den Herren getruncken habe.
+
+
+MICKE.
+ Uns aber hats nicht geträumet / daß du einen Todschlag begangen hast.
+
+
+MIERTEN.
+ Das ist gut / da kommen ehrliche Leute her / die sollens euch in die Fresse sagen / daß ich unschuldig bin.
+
+
+KARSTEN.
+ Wir wollen die vornehmen Zeugen erwarten.
+
+
+
+
+
+
+
+
+2. Aufzug
+
+
+
+
+Andrer Auffzug.
+
+Liebhold, ein Gastwirth. France, Hugo, zwey Bürger.
+
+
+
+MIERTEN.
+ Da ist der Gastwirth / bey dem hab ich gestern gesoffen.
+
+
+LIEBHOLD.
+ Was sagstu? Die Herrn sind meine Zeugen / daß ich gestern keinen Bauer in meinem Hause gesehen habe.
+
+
+
+FRANCE.
+ Ja ich kans bezeugen / es kamen wohl ein paar elende Berenheuter nach einander / und fragten etwa nach einen Schelmen / den sie verlohren hatten / aber zum Sauffen ist keiner da gewesen.
+
+
+HUGO.
+ Vorgestern waren etliche da / ich halte die Weiber haben einem das Sauffen geseegnet / daß sie nun der Kurtzweile vergessen werden.
+
+
+MIERTEN.
+ Ihr Leute verzehlet euch nicht / es war ja gestern wie die Weiber kamen.
+
+
+LIEBHOLD.
+ Wie kan doch ein Bauer flugs einen Tag aus dem Calender verliehren.
+
+
+FRANCE.
+ Ich bin ja denselben Tag da gewesen / und das war vorgestern.
+
+
+HUGO.
+ Und ich weiß am besten / wie mir der Kopff von Biere ist wüste gemacht worden.
+
+
+MIERTEN.
+ Hört doch ich bezahlete euch ja mit lauter kleinen Gelde.
+
+
+LIEBHOLD.
+ Ich bin ein Gastwirth / wenn das Geld einmahl bezahlet ist / hab ichs vergessen / und es ist doch nicht wahr. Gehet ab.
+
+
+
+MIERTEN.
+ Herr / so müst ihr euch besinnen.
+
+
+FRANCE.
+ Ja ja / ich habe mich besonnen / daß alle versoffne Bauer Schelmen seyn. Geht ab.
+
+
+
+MIERTEN.
+ Und ihr weist auch nicht / was euch gestern geschehen ist.
+
+
+HUGO.
+ Was vorgestern geschehen ist / davor hab ich dir zehen Prügel auff den Leib gewünscht. Geht ab.
+
+
+
+KARSTEN.
+ Nu wie bestehestu?
+
+
+MIERTEN.
+ Ich beruffe mich auff mein Gewissen.
+
+
+MICKE.
+ Dein Gewissen wird nicht viel gelten / wo die Zeugen so ausreissen.
+
+
+
+
+
+
+
+
+3. Aufzug
+
+
+
+
+
+
+Dritter Auffzug.
+
+Die Vorigen. Leo, Hoff-Juncker.
+
+
+
+LEO.
+ Wie stehts / ist der Bluthund ertappet worden?
+
+
+KARSTEN.
+ Ja es scheinet fast so / als wenn wir ihn gefangen hätten.
+
+
+LEO.
+ Du loser Bube / was hat dir der unschuldige Mensch gethan / solstu auff den Abend solche Händel anfangen? Solstu mit einem blossen Messer an den Wänden wetzen / und solstu einem unschuldigen Menschen einen Stich in die Lunge geben?
+
+
+MIERTEN.
+ Herr / euer Zeugnüß gilt nichts / ich zeuge dargegen / es ist alles erlogen.
+
+
+LEO.
+ Erlogen solstu sprechen / wenn du mich liegen heist / so begehestu eine grössere Sünde / als wenn du zehen Schelmen deines gleichen todt schlägst. Ihr Leute nehmt den Bösewicht in acht / er muß seyn Blut vergiessen / sonst hab ich keine Satisfaction.
+
+
+MIERTEN.
+ Ich weiß nicht / hinte traumete mir als wenn ich ein Fürste wäre / heute träumt euch / als wenn ich ein Strassen-Räuber wäre / geht nur heim / und schlafft den Tummel aus / morgen wird alles beydes nicht wahr seyn.
+
+
+LEO.
+ Du unverschämter Bube / kanstu die boßhafftige Zunge noch nicht bändigen / der Galgen ist viel zu wenig / du must mehr ausstehen / und vielleicht kommen ander Leute darzu / welche die Sache besser überlegen können.
+
+
+
+
+
+
+
+
+4. Aufzug
+
+
+
+
+Vierdter Auffzug.
+
+Die Vorigen. Robert, Cammer-Herr.
+
+
+
+ROBERT.
+ Es nimmt alle trefflich wunder / warum man nichts von dem Mörder vernehmen kan.
+
+
+LEO.
+ Es ist kein Wunder / der Kerle hat den Todschlag begangen / 
+nun macht er sich kein Gewissen und leugt ins Wesen nein / als wenn die gantze Welt aus seinen Lügen ein Evangelium Buch machen solte.
+
+
+ROBERT.
+ Es wäre genung an einer Sünde / seht nur / daß er an gehörigen Ort geschaffet wird / mit den Lügen wollen wir schon zu rechte kommen / könte man nur den armen todten Menschen so bald wieder lebendig machen.
+
+
+MIERTEN
+
+führt Robert auff die Seite.
+
+ Herr ich möchte gern allein mit euch reden.
+
+
+ROBERT.
+ Mit Mördern und Lügnern ist die Vertrauligkeit gar verdächtig.
+
+
+MIERTEN.
+ Ie nu es weiß keiner was der ander ist. Aber es ist immer / als wenn ich euch gesehen hätte.
+
+
+ROBERT.
+ Das kan wohl möglich seyn / ich lasse mich kein mahl mit Bretern beschlagen / wenn ich auff der Gasse zu thun habe.
+
+
+MIERTEN.
+ Ey nicht doch / ich meine / wir sind so im Vertrauen einmahl beysammen gewest.
+
+
+ROBERT.
+ Ich möchte wohl wissen / wozu man so einen beschmutzten Bauer so in Vertrauen brauchte.
+
+
+MIERTEN.
+ Ich war dasselbige mahl kein schmutzigter Bauer.
+
+
+ROBERT.
+ Das bistu dein lebtage gewest / und deßwegen komm mir nicht mit solchen Fratzen auffgezogen / oder ich werde an dir zum Mörder.
+
+
+MIERTEN.
+ Herr sagt mir nur noch eins / habt ihr einen Bruder?
+
+
+ROBERT.
+ Das weiß ich daß du mein Bruder nicht bist / und also hastu nichts darnach zu fragen. Fort nehmt den Buben in eure Verwahrung / Ihr Fürstl. Durchl. sollen darüber zum Richter angeruffen werden.
+
+
+KARSTEN.
+ Es ist am besten / wir wollen ihn da anbinden / daß er nicht fort kan.
+
+
+MICKE.
+ Ja / und er wird lange müssen lügen / ehe der Strick davon zureissen wird.
+
+
+KARSTEN.
+ Nu schicke dich.
+
+
+Sie nehmen eine Stange / und binden ihn die Armen die qvere.
+
+
+
+
+MICKE.
+ Nu wird er wohl seines bleibens haben.
+
+
+
+ROBERT.
+ Und folget mir zu Ihrer Durchl.
+
+
+Gehen ab.
+
+
+
+
+MICKE
+
+kömmt zurücke.
+
+ Botztausend / das hät ich bald vergessen / wo der Schelme kein Qver-Holtz ins Maul kriegt / so leugt er daß die Sonne schwartz wird. Da Bauer nim das Holtz ins Maul / es ist ein gut Mittel wieder die unützen Reden. Er bleibt stehn / und stellt sich possierlich.
+
+
+
+
+
+
+
+
+
+5. Aufzug
+
+
+
+
+Fünffter Auffzug.
+
+Ebbe, Puse, Brütte, Bauerweiber.
+
+
+
+EBBE.
+ Nu gestern hat ich einen Narrengang / ich will heute wieder in die Welt gehen / und da muß ich wissen / ob mein Nachbar lebendig oder todt ist.
+
+
+PUSE.
+ Ich kan mirs nicht einbilden / wie es zugeht / daß sich ein Mann verliehren kan / wenn er eine Frau wäre / so dächt ich sie hätte den Weg in der gantzen Welt nicht finden können. Aber die Männer seyn ja sonst auff der Strasse gut genung bekandt.
+
+
+BREIT.
+ Ich werde es wohl am besten errathen haben / die Frau kan ihn nicht suchen / so wird er sich in ein Brandtewein-Hauß gesetzet haben / und wenn die Pfennge werden weg seyn / so wird er wohl wieder kommen.
+
+
+EBBE.
+ Ja wo er das gethan hat / so wolt ich flugs / daß ihm die Augen ausgekratzet würden.
+
+
+PUSE.
+ Und ich wolte daß ihm ein groser Leimweller im Winckel steckte.
+
+
+BRÜTTE.
+ Ich wolte daß er sehen könte / so er desto eher heim.
+
+
+MIERTEN
+
+seufftzet.
+
+
+
+EBBE.
+ Ie was ist das? Ie Nachbar Mierten seyd ihrs.
+
+
+Er stellt sich allezeit gar ungebärdig.
+
+
+
+
+
+PUSE.
+ Ie der arme Mann / wer ist so lästerlich mit ihm umgangen.
+
+
+BRÜTTE.
+ Ie hat ihr die Sprache gar verlohren hertzlieber Mann.
+
+
+EBBE.
+ Ich wolte ihn gerne loß machen / wer weiß ob ich darff.
+
+
+PUSE.
+ Wo es ein grosser Herr gethan hat / so strafft er uns / und steckt uns eben ein solch groß Ding die qvere nein.
+
+
+BRÜTTE.
+ Wenn unsre Männer da wären / so möchten sie machen was sie wolten.
+
+
+EBBE.
+ Ja ja lieber Nachbar / ich seh es wohl / wie ihr so kläglich thut / ihr müst grossen Schmertzen haben. Nehmt mit mir vor lieb / ich will ein bißgen heulen.
+
+
+PUSE.
+ Ja das ist die beste Weiber-Hülffe / wenn sie mit Geld und Gute nicht dienen können / dem helffen sie noch mit einem bißgen Wasser.
+
+
+BRÜTTE.
+ Wir thun so viel als wir können.
+
+
+Sie fangen an zu heulen / er stellt sich poßierlich dazu.
+
+
+
+
+
+
+
+
+
+6. Aufzug
+
+
+
+
+Sechster Auffzug.
+
+Die Vorigen. Krix, Gosch, Clas, Bauern.
+
+
+
+KRIX.
+ Ich halte die Puyhuye haben in der Stadt Jungen / ist doch ein Geheule / die Leute möchten kranck werden.
+
+
+GOSCH.
+ O nein / es ist gewiß einer Frauen das Rothkählchen aus der Stube geflogen / daß sie so jämmerlich thut.
+
+
+CLAS.
+ Da seht ihr sie leibhafftig / das seyn unser Weiber.
+
+
+KRIX.
+ Ie was muß unsern Weibern fehlen / ich weiß ja nicht anders / wir drey leben alle noch.
+
+
+GOSCH.
+ Ja wir leben noch / und unsertwegen bedürffen sie kein Begräbnüß-Geld.
+
+
+CLAS.
+ Ie wir müssen wohl fragen / hört doch / was heult ihr so.
+
+
+
+EBBE.
+ Ach sollen wir nicht heulen / über den grossen Hertzeleide.
+
+
+KRIX.
+ Wer hat euch denn was gethan.
+
+
+PUSE.
+ Ach es möchte einen Stein erbarmen / der hundert Klafftern unter der Erde liegt.
+
+
+GOSCH.
+ Und das möchte einen Tannzapfen erbarmen / der hundert Ellen über der Erde steht / daß ihrs nicht sagen wollet.
+
+
+BRÜTTE.
+ Ach wir armen Weiber / was sollen wir sagen / da steht das Ebenbild / sehts nur an das arme Thier.
+
+
+Sie heulen wieder.
+
+
+
+
+KRIX.
+ Ie was haben denn die Narrenpossen zu bedeuten / Gevatter Mierten / wer hat euch denn angebunden?
+
+
+Er will reden und kan nicht.
+
+
+
+
+GOSCH.
+ Ich mache ihn loß / und wenns einen grossen Herrn verdriessen solte.
+
+
+CLAS.
+ So will ich auch mit zugreiffen.
+
+
+KRIX.
+ Ie, Gevatter / was macht ihr da?
+
+
+MIERTEN.
+ Ich bin bald gestorben / der Zappen ist mir gefallen / die Mandeln sind mir geschwollen / die Zähne wollen mir wackeln.
+
+
+GOSCH.
+ Wir glauben alles wohl / aber wo kommt ihr zu dem Unglücke.
+
+
+CLAS.
+ Habt ihr irgend was gethan / daß ihr da in der Erbarkeit stehen müsset.
+
+
+MIERTEN.
+ Freylich hab ich was gethan / ich hätte gestern hübsch sollen mit euch heim gehen.
+
+
+KRIX.
+ Ja gestern war es auch / ich wolte feine sprechen vorgestern.
+
+
+GOSCH.
+ Ey Nachbar / er ist wohl recht / wenn er vorgestern wäre mit uns heimgegangen / so käme er heute mit uns in die Stadt.
+
+
+MIERTEN.
+ Ie nicht doch / gestern waren wir ja beysammen.
+
+
+KRIX.
+ Es ist doch nicht wahr.
+
+
+GOSCH.
+ Und wenn ihr loß wollt / so laß ich mich auch nicht zum Narren haben / es ist vorgestern gewesen.
+
+
+
+MIERTEN.
+ So weiß ich besser was ich thu / ich halte dich vor einen Schelmen / wo du nicht sprichst / daß du gestern mit mir gesoffen hast.
+
+
+GOSCH.
+ Ist das der Danck / daß ich dich loß gemacht habe / du darffst mir nicht viel / so greiff ich zu / und stecke dir einen Knittel in den Halß / der noch dreymahl so dicke ist.
+
+
+MIERTEN.
+ Geh mir vom Leibe / die sprechen ohn dem / ich habe die Nacht in voller Weise einen Mord begangen / ich will meinen Tod an dir verdienen.
+
+
+KRIX.
+ O ists um die Zeit / daß er auff den Halß gefangen sitzt / so mache ich mich mit ihm nicht gemeine.
+
+
+GOSCH.
+ Binde dich selber wieder an / ich geh fort.
+
+
+CLAS.
+ Und ich will auch nicht da bleiben.
+
+
+Sie gehen ab.
+
+
+
+
+EBBE.
+ O hätt ich mein heulen wieder!
+
+
+PUSE.
+ Aber die liebe Frau Sechswöchnerin wird gedoppelt heulen.
+
+
+BRÜTTE.
+ Ja wer hätte das gedacht / daß er solte zum Mörder werden. Pfui du Unflath / du bist nicht werth / daß du so ein ehrlich Weib hast.
+
+
+Gehen ab.
+
+
+
+
+MIERTEN.
+ Und ich bin nicht werth / daß mir heinte die Nacht so schön und lustig Ding geträumet hat. Seyn das nicht Narren / was gestern geschehen ist / da machen sie vorgestern drauß / und wo wir in einer Schencke zusammen kommen / so werde ich harte zugreiffen / damit will ichs am Köpffen beweisen / daß sie wissen was gestern geschehen ist.
+
+
+
+
+
+
+
+
+7. Aufzug
+
+
+
+
+Siebender Auffzug.
+
+Mierten, der Bauer. Adelheit, Erdmuth, Hoff-Jungfern.
+
+
+
+ADELHEIT.
+ Schwestergen ich muß doch den Bauer in der leibhafften Gestalt ansehen.
+
+
+ERDMUTH.
+ Und ich muß sehen ob das gestrige Pfand noch eintrifft.
+
+
+
+ADELHEIT.
+ Ie du elende Creatur / wie hat sich deine prächtige Kappe in einen Zippel-Peltz verwandelt.
+
+
+ERDMUTH.
+ Glück zu Bauer! was habt ihr zu schaffen?
+
+
+MIERTEN.
+ Ich gehe da herüm und suche den klugen Mann.
+
+
+ADELHEIT.
+ Schwestergen / was sind die klugen Männer vor Dinger?
+
+
+ERDMUTH.
+ Das weiß ich nicht / der Bauer muß sie besser kennen.
+
+
+ADELHEIT.
+ Hört / was soll euch denn der kluge Mann?
+
+
+MIERTEN.
+ Jungfer / er soll mir was von euch sagen.
+
+
+ERDMUTH.
+ Schwestergen / die Ehre komt dir nicht alle Tage / daß ein Bauer deinetwegen zum klugen Manne geht.
+
+
+MIERTEN.
+ Ach ihr Jungfern / ich bin heute nicht vexirt / es hat mir so was hübsches geträumet / so wolt ich zum klugen Manne gehen / und wolte hören / ob er mir was gauckeln könte / daß der Traum wahr würde.
+
+
+ADELHEIT.
+ Das muß ein stattlicher Traum gewesen seyn.
+
+
+MIERTEN.
+ Ich gäbe was drüm / wenn er nur halb wahr wäre.
+
+
+ERDMUTH.
+ Ich wolte es euch wündschen / ob ich gleich nicht weiß / was euch geträumet hat.
+
+
+MIERTEN.
+ Jungfer / gebt mir die Hand / daß ihr mir es wündschen wollet.
+
+
+ADELHEIT.
+ Mein Schwestergen / spart die Hand / biß ihr einen Liebsten kriegt / drum ists nicht Mode / das man sie um eine Hand ansprechen will.
+
+
+MIERTEN.
+ Ich begehre nichts ungeschickliches / wo mein Traum wahr wird / so ist eine von euch beyden meine Jungfer.
+
+
+ERDMUTH.
+ Ey Bauer! das sind schreckliche Sachen.
+
+
+MIERTEN.
+ Sie mögen schrecklich seyn wie sie wollen / wenn sie nur wahr seyn.
+
+
+ADELHEIT.
+ Wie kan euch solch Wunder-Ding im Schlaffe fürkommen?
+
+
+MIERTEN.
+ Ja ja / beschlaffen haben wir einander / denn seht es träumete mir / als wenn ihr beyde mich haben wolt / eine wolte immer die Liebste seyn.
+
+
+ERDMUTH.
+ Ich müste mich an den Zippel-Peltze versehen haben.
+
+
+ADELHEIT.
+ Und ich an den alemodischen Stiefeln.
+
+
+ERDMUTH.
+ Ich dachte gar an den zierlichen Barte.
+
+
+MIERTEN.
+ Jungfer ihr trefft es/ als wäret ihr darbey gewesen / 
+eine suchte den Mahl-Schatz auf dem Kopfe / und rauffte mir eine Hand voll Haare aus / die andere grieff mir nach dem Barte / und machte mir da an meinen männlichen Gliedmassen eine ziemliche Lücke.
+
+
+ADELHEIT.
+ Bauer / seht wie ihr uns beschuldiget.
+
+
+ERDMUTH.
+ Die Lücke im Barte läst sich noch sehn / aber wo sollen wirs gethan haben?
+
+
+MIERTEN.
+ Sag ich doch / es ist nur ein Traum / aber wo ihrs wollt wahr machen / so räufft mich noch einmahl.
+
+
+ADELHEIT.
+ Nein / ich habe heute ein Gelübde gethan / daß ich keinen Esel bürsten will.
+
+
+ERDMUTH.
+ Und ich will mich mit keinen Schweinborsten vermengen.
+
+
+MIERTEN.
+ So macht nur das andre Pünctlein wahr / und helfft mir darzu / daß ich eine zur Jungfer kriege.
+
+
+ADELHEIT.
+ Ich bin heute noch nüchtern / wenn ich werde gessen haben / so will ich sehn / ob sich meine Gedancken ändern. Gehet ab.
+
+
+
+ERDMUTH.
+ Schwestergen nimm mich mit / sonst behält mich der Bauer da. Gehet ab.
+
+
+
+MIERTEN.
+ Ich wolte daß mir solche Sachen ungeträumet blieben / wenn sie nicht wollen wahr werden.
+
+
+
+
+
+
+
+
+8. Aufzug
+
+
+
+
+Achter Auffzug.
+
+Mierten, der Bauer. Wilhelm, Stallmeister.
+
+
+
+WILHELM.
+ Und du solst an diesem Platze frey herum gehen?
+
+
+MIERTEN.
+ Ich dachte ja.
+
+
+WILHELM.
+ Und solstu nicht als eine wilde Bestie angebunden seyn.
+
+
+MIERTEN.
+ Ich dachte nein.
+
+
+WILHELM.
+ Du solst sagen / wer sich dran vergriffen hat.
+
+
+MIERTEN.
+ Ich dachte wieder nein.
+
+
+WILHELM.
+ Solstu mit deinem Ungehorsam / und mit deiner trotzigen Antwort eine Person meines gleichen beschämen?
+
+
+
+MIERTEN.
+ Nu werde ich wieder dencken ja.
+
+
+WILHELM.
+ Da solstu so dencken / wenn man dich zum Galgen führen wird.
+
+
+MIERTEN.
+ Nu denck ich was ich will.
+
+
+WILHELM.
+ Du Bösewicht / was denckestu?
+
+
+MIERTEN.
+ Ich dencke was ich weiß.
+
+
+WILHELM.
+ Du ringest nach vortrefflichen Unglücke / doch sage mir wer hat dich loß gemacht.
+
+
+MIERTEN.
+ Ich dencke / ich weiß nicht.
+
+
+WILHELM.
+ Ach was ist es vor ein schändlich Ding / um einen tummen und trotzigen Buben / es mag ihm sauer oder süsse begegnet werden / so bleibt er einen Weg wie den andern auf seinen Starrkopfe. Ach du Schelme / es hat dir gewiß was bessers geträumt / als du werth bist.
+
+
+MIERTEN.
+ Herr merckt ihr was? Denckt immer ja.
+
+
+WILHELM.
+ Nu schicke dich / du wirst zu dencken kriegen.
+
+
+
+
+
+
+
+
+9. Aufzug
+
+
+
+
+Neundter Auffzug.
+
+Philippus, der Hertzog. Egmund, Hoff-Marschall. Robert, Cammer-Herr. Leo, Hoff-Juncker. Wilhelm, Stall-Meister. Heinrich, Cammer-Juncker. Mierten, der Bauer. Aus der mittelsten Scene.
+
+
+
+PHILLIPPUS.
+ Ist das der boßhaffte Mörder / der sich am unschuldigen Blute vergrieffen hat.
+
+
+EGMUND.
+ Ja die Umstände sind klar / er muß den Mord begangen haben.
+
+
+PHILLIPPUS.
+ Höre du Bube / warum verlangstu / daß dein Blut soll vergossen werden?
+
+
+EGMUND.
+ Und warum soll dein Weib und Kinder nebst dir gestrafft seyn?
+
+
+MIERTEN.
+ Ihr Herren redt wie ihr wolt / wie mir hinte von euch träumte / so waret ihr nicht so böse wie itzund.
+
+
+PHILLIPPUS.
+ Du wilst unser spotten.
+
+
+
+EGMUND.
+ Wenn man seine Boßheit bekennen will / so darff man keinen Traum erzehlen.
+
+
+MIERTEN.
+ Was ich mein Lebtage nicht vergessen kan / davon will ich doch erzehlen.
+
+
+PHILLIPPUS.
+ Was kanstu nicht vergessen?
+
+
+EGMUND.
+ Und wovon wilstu ins künfftige erzehlen?
+
+
+ROBERT.
+ Es ist ein Bösewicht / der seine Boßheit durch einen Traum verdecken will: Höre / wo bistu gestern gewesen?
+
+
+MIERTEN.
+ Herr zum Weine.
+
+
+ROBERT.
+ Wo bistu hernach hingegangen?
+
+
+MIERTEN.
+ Auff die Gasse.
+
+
+ROBERT.
+ Was hastu da gemacht?
+
+
+MIERTEN.
+ Ich legte mich auff den Bauch / und deckte mich mit dem Podexe zu / so schlieff ich.
+
+
+ROBERT.
+ Hastu auff der Gasse keine Händel angefangen?
+
+
+MIERTEN.
+ Nein / ich kunte vor den lustigen Traume nicht darzu kommen.
+
+
+ROBERT.
+ Was war es vor ein Traum?
+
+
+MIERTEN.
+ Ihr Herrn / es träumte mir von euch / wie ihr da beysammen seyd / ich fraß und soff mit / daß mirs noch gut schmeckt.
+
+
+ROBERT.
+ Wir wissen aber nichts davon.
+
+
+MIERTEN.
+ Da seht ihrs / daß arme Leute auch was befehlen können / will mich der Fürste nicht zu Gaste bitten / so laß ich mirs träumen / und setze mich wieder seinen Willen am Tisch.
+
+
+PHILLIPPUS.
+ Diese Rede wollen wir gelten lassen. Bauer gehe fort / dieses Traumes wegen soltu als ein unschuldiger Pardon haben.
+
+
+MIERTEN.
+ Es ist gut / wenn ich einmahl ein Schelmstücke werde gethan haben / so will ich mir wieder was träumen lassen.
+
+
+PHILLIPPUS.
+ Geh nur geh / du hast dich entschuldiget.
+
+
+MIERTEN.
+ Ich will wohl thun / als wenn ich naus gienge / aber ich bleibe doch an der Thüre stehn / wer weiß ob mir nicht noch einmahl von der Fürstlichen Herrligkeit träumt / wenn ich hinter einen Zaune liege und schlaffe.
+
+
+PHILLIPPUS.
+ Das war ein hartes Wort / ein Fürste muß dem Bauer 
+gehorsam seyn / wenn er sich im Schlaffe will von ihm träumen lassen.
+
+
+EGMUND.
+ Was dem Bauer im Schlaffe vorkömmt / das ist nicht der Fürste.
+
+
+PHILLIPPUS.
+ Doch ist es sein Ebenbild.
+
+
+EGMUND.
+ Der Bauer ist betrogen.
+
+
+PHILLIPPUS.
+ Doch kan er sich vergnügen / als wenn er nicht betrogen wäre.
+
+
+EGMUND.
+ Das mag er haben.
+
+
+PHILLIPPUS.
+ Also ist ein Bauer in den Gedancken über den Fürsten.
+
+
+EGMUND.
+ Und in der That ist er ein Sclave.
+
+
+PHILLIPPUS.
+Wohl dem! Der als ein Mensch in seiner Freyheit lebt /
+
+
+EGMUND.
+Und der die Freyheit nicht in Laster-Staub vergräbt /
+
+
+ROBERT.
+Der nicht betrogen wird indem die Falschheit spielt /
+
+
+WILHELM.
+Und der auch selbsten nicht auff solche Schmincke zielt.
+
+
+HEINRICH.
+Der sich nicht träumen läst / wenn List und Thorheit wacht /
+
+
+LEO.
+Der aus dem Schatten nicht ein Werck von Lichte macht /
+
+
+MIERTEN.
+Itzt hat mir nichts geträumt / doch werd ich ausgelacht.
+
+
+PHILLIPPUS.
+Wer Träume meiden will / der meide nur den Wein /
+
+
+EGMUND.
+Und lasse seinen Schlaff nicht allzu sichtbar seyn.
+
+
+ROBERT.
+Der Trunck bezwingt den Kopff /
+
+
+WILHELM.
+Der Schlaff den gantzen Geist.
+
+
+HEINRICH.
+Man thut nicht was man will /
+
+
+LEO.
+Ja was ein ander heist /
+
+
+MIERTEN.
+Biß sich ein ehrlich Mensch um Kopff und Fuß besch – – – meist.
+
+
+PHILLIPPUS.
+Wir haben gnung geschertzt / der Bauer taug uns nicht /
+
+
+EGMUND.
+Weil seine Gegenwart nicht grosse Lust verspricht.
+
+
+ROBERT.
+Der Fisch ist wohl versorgt / der in dem Wasser bleibt /
+
+
+
+WILHELM.
+Der Bauer wohnet recht / wo er die Ochsen treibt.
+
+
+HEINRICH.
+Das unverschämte Schwein verflucht den Majoran,
+
+
+LEO.
+Dem Bauer wird kein Dienst mit unsrer Pracht gethan /
+
+
+MIERTEN.
+Ach kommt zu guter letzt / und seht Printz Mierten an. etc.
+
+
+
+
+
+
+

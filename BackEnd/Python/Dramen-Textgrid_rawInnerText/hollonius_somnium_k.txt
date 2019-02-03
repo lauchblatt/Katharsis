@@ -1,0 +1,4435 @@
+
+
+
+
+Somnium Vitae Humanae
+
+
+hdl:11858/00-1734-0000-0003-7D6D-1textgrid:qfx0.0
+ Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). 
+
+Lizenzvertrag
+
+
+ Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache 
+
+
+Hinweise zur Lizenz und zur Digitalen Bibliothek
+
+
+
+
+
+                              Erstdruck: Alten Stettin (gedruckt durch Jochim Rheten), 1605.
+                           
+
+
+
+
+Ludwig Hollonius: Somnium Vitae Humanae. Herausgegeben von Dorothea Glodny-Wiercinski, Berlin: Walter de Gruyter & Co., 1970.
+Hollonius, Ludovicus
+
+6-
+
+
+Berlin
+
+
+
+
+
+
+
+
+
+
+drama
+
+
+
+
+
+
+
+
+
+Ludovicus Hollonius
+Somnium Vitæ Humanæ
+
+
+Das ist: Ein Newes Spiel
+Darin
+Aus einer lustigen geschicht von Philippe Bono, für hundert vnnd acht vnnd dreissig Jahren, einem Weisen, Frommen vnd Mechtigen Hertzogen der Burgunder vnnd Niederländer etc. Gleich in einem Spiegel gezeiget wird, das vnser zeitlichs leben, mit all seiner Herrligkeit nur ein nichtiger vnd betrieglicher Traum sey
+
+
+
+
+
+
+
+Epigramma
+
+
+
+
+
+
+Epigramma
+Avthoris in Calvmniatorem quendam.
+Non valeam, si tu Rhythmos ex tempore quinque
+Fundere materna voce Labulle potes.
+Dente Cainino tarnen audes rodere Drama,
+Ante duos annos quod mea Musa dedit.
+Hoc quoque ridebis, stringens me scommate: semper
+Quò sacra sie celebres Lindia, more tuo.
+Vsque adeòne tibi sordet vernacula linqua,
+Vt versus illâ scribere turpe putes?
+O Fatuum! Grajus sermo Maternus Homero,
+Virgilio Patrius nonne Latinus erat?
+Nonne refers Matrem cum mugis foede Labulle?
+Quando rudis, vox hæc nonne Paterna tibi?
+Rhythmis ergò meis ceßa maledicere, ne TE
+Semiasinum posthac, semibovemque vocem.
+
+
+
+
+
+
+[Widmung]
+
+
+
+
+
+
+Dem durchleuchtigen, Hochgebornen Fürsten
+vnnd Herrn, Herrn PHILIPPO II. Hertzogen zu
+Stettin, Pommern, der Cassuben vnnd
+Wenden, Fürsten zu Rügen, Graffen
+zu Gützkow, vnd der Lande
+Lawenburg vnd Büthow
+Herrn etc. Meinem
+gnedigen Fürsten
+vnd Herrn.
+Die Gnad Gottes, sampt der liebe vnsers Immanuels Jesu Christi, Glück, Fried vnd Frewd des heiligen Geistes, neben wünschung eines glückseligen frölichen newen Jahrs, meinem andechtigen Gebeth, vnd vnderthenigen diensten zu jeden zeiten bevor.
+
+Durchleuchtiger, Hochgeborner gnediger Fürst vnd Herr, wir lesen das der König Salomon, welchem von anfang der Welt her, vnter allen Monarchen vnd Potentaten, keiner an Weißheit oder Reichtumb gleich ist gewesen, da er den vberschlag vnsers gantzen lebens gemachet, entlich exclamirend beschlossen: Vanitas vanitatum, et omnia vanitas. Das dieses war sey, bezeugen, neben der teglichen experientz, so woll die Exempla vnd Apophtegmata der weisen Heyden, als die heilige Göttliche Schrifft.
+Etliche der Heyden, wann sie die grosse eitelkeit dieses müheseligen lebens angesehen vnd betrachtet, haben sich an dem hochgelobten Ehrenkönige vnd Schöpffer aller Creaturen, als Himmelsbellende vnd Gottschmehende lestermeuler, versündiget vnd gesagt: Optimum non nasci, wie der Silenus.
+Etliche haben das Menschliche thun vnd wesen mit einem vbermessigen lachen verspottet, wie der Democritus.
+Andere haben immerzu lamentiret, vnd jhr leben mit zähren hingebracht, wie der Heraclitus.
+Andere, wann sie das vnordendiche, eitele, torhafitige weltleben etwas tiefier behertziget, sind Menschenflüchtig geworden, vnd haben aus vberdruß solchs ferner zusehen, sich vom Volck hinweg in die Wüsten gethan. Wie der Timon von Athen, welcher alle gemeinschafft der leute gemitten, vnnd sein leben in einer Wiltnis vnter den Thieren vber den Menschlichen Jammer, biß an sein end, philosophirend zugebracht.
+Fast gleiches schlags ist gewesen Diogenes Cynicus, ein wunderbarlicher kautz, aber guter Philosophus, welcher in einem 
+faß gewohnet, vnd nicht eigens haben wollen. Denn da er gesehn, das einer mit der hand wasser geschöpffet, vnnd es daraus getruncken, hat er auch seinen höltzernen trincknapff, welchen er bißdaher, wie bey vns die Bettler, bey sich getragen, von sich geworffen, vnd sich damit hinfort nicht wollen schleppen. Vom Alexandro Magno, der jhm viel vnd grosses gut angeboten, hat er kurtzumb nichts nehmen wollen. A Sole mihi non obstes, sagt er zu jhm. Vnd schreibet Valerius Maximus, es habe Alexander viel ehe Darium, den mechtigen König der Perser, mit Waffen bezwingen, als den Diogenem, sordidae appellationis, sed robustae virum præstantiae, aus seinem Stande, das ist erwehleten einsiedler leben, bringen können.
+Es sind auch viel artige Philosophische ingenia vnter den Heyden gewesen, die haben schreckliche Tragœdias geordnet, darin sie den jammer vnd eitelkeit dieses lebens haben fürbilden, vnd also die Menschen zu betrachtung desselben deduciren wollen, wie der Euripides, Seneca, vnd andere bey den Griechen vnnd Latinern.
+Etliche habens auff andere weise, als mit kurtzen, subtilen Sprüchen, vnnd bequemen gleichnussen proponiret.
+Epictetus vom Keyser Hadriano gefraget, quæ eßet optima vita? Hat er geantwortet, Brevißima. Da er ferner gefraget was der Mensch sey? hat er geantwortet: Lucerna in vento posita, loci hospes, calamitatis fabula.
+Die heilige Göttliche Schrifft hat hin vnnd wieder viele herrliche Sprüche, Gleichnussen vnd verblümte reden, damit sie die eitelkeit dieses vnbestcndigen nichtigen lebens abmahlen, vnd vns armen Erdwürmlein einbilden wil, welche nach der lenge an diesem ort einzuführen ich vnnötig erachte, auch auff dißmahl meines propositi nicht ist.
+Der Mann Gottes Moses im 90. Psalmo beschreibet auffs artigst den jemmerlichen zustand vnsers vergenglichen lebens, dasselbe so eigentlich mit seinen farben abmahlend, das wirs meines erachtens in der Bibel nicht klärer haben. Vnter andern vergleichet er vnsere eitele, armselige betrübte lebenszeit, welche im 84. Psalm Transitus per vallem lacrymarum genennet wird, einem schlaff vnd Traum. Wie künte es besser vnd kürtzer beschrieben? wie künte es eigentlicher abgemahlet werden? quid enim Somnijs vaniùs et inaniùs? quid fugaciùs? Wer auff Treume helt, sagt Syrach cap. 34. der greiffet nach dem schatten, vnnd wil den wind haschen. Treume sind nicht anders den Bilde ohn wesen. Vnweise leut betriegen sich selbs, mit törichten hoffnungen, vnd Narren verlassen sich auff Treume.
+Also sind es warlich grosse Narren, die sich auff dieses nichtigen lebens flüchtigen schatten, auff Reichthumb, macht, kunst, stercke, 
+schönheit, oder was es auff dieser Erden ist, verlassen. Dieselben werden gewißlich in jhrer törichten Hoffnung vnd fleischlichem Sardanapalischem vorsatz schendlich betrogen, vnd entlich zuschanden, wie Nabal, mit namen vnd that ein grosser Welt Narr. I. Samuel. 25. vnd der Reiche Geck, der seine Scheune abbrechen vnnd grösser bawen wolte, Luc. 12.
+Hiemit (das dieses zeitliches leben ein Traum sey) stimmen auch der vernünfftigen vnd gelarten Heyden etliche, wie auch viel frommer Christen.
+Pindarus nennet den Menschen Vmbræ Somnium. Oedipus wird von Euripide, nisi me fallit memoria, also redend eingeführet: quid sum nisi evanescens umbra, vel cadaver, vei volatile SOMNIVM?
+Palingenius in seinem Zodiaco vitæ, opere mirè erudito planeque Philosophico, singt:
+Mera Somnia sunt hæc,
+Quaecunque in terris pulcra et miranda videntur. Des berühmbten Poëten vnnd Medici, Petri Lotichij Secundi, Distichon ist bekant:
+Nos Dolor, et vitæ mortalis inania versant
+SOMNIA, et ambiguis Spesque, Metusque modis.
+Dieweil es dann, Durchleuchtiger, Hochgeborner gnediger Fürst vnd Herr, mit diesem zeitlichem gleissenden Weltwesen eine solche beschaffenheit hat, will vns traun gebüren, das wir dieses ja bey zeit wol erkennen vnd beherzigen lernen. Denn solche consideration gibt mancherley lehr, trost vnd warnung. Es will allen der ewigen Seeligkeit begingen Christen obligen, den höchsten fleiß anzuwenden, das sie ja jhre kurze, müheselige vnd alzuschnel dahinrauschende lebetage, zur Ehr Gottes anwenden, in warem glauben viel guter werck verrichten, vnnd sich vmb die immerwehrende Himelfrewde täglich vnd hertzlich bekümmern. Denn es heisset: Vna salus servire Deo, sunt Cætera Nugae. Ja es will allen Getaufften, welche zu der heiligen Creutz vnd Blutfahne Jhesu Christi geschworen haben, obligen, das sie alle minuten zu rück gedencken, worumb sie doch alhie leben, wie sie jhre vergangene vnd schon verflossene zeit zugebracht, vnnd die künfftige recht anwenden mögen. Ideo enim, sagt der fromme Kirchenvater Augustinus, Christiani facti sumus, ut semper de futuro seculo, et de æterno præmio cogitemus, et plus pro Anima, quàm pro Corpore laboremus. Acht was hülffs dem Menschen, wan er die gantze Welt gewünne, und nehm doch schaden an seiner Seele? Matth. 16. cap. Es will einem jeden vnter vns gebüren, zur fleissigen Meditation vnd betrachtung dieses Menschlichen elends vnd irdischen vergengligkeit, wie dann auch zu heiligen, Christlichen, Gott wol gefelligen Glaubenswercken, nicht allein sich selbest, sondern auch seinen Nehsten auffzumuntern. Damit nun dieses auch ich vnwirdigster vnd geringster vnter 
+den dienern des Heren Jesu Christi, nach meinen wenig gaben thun möge, habe ich der tollen vnd immerschwermenden Welt die eitelkeit vnsers zeitlichen lebens in einem öffentlichem Spiell wollen fürbilden. Habe aber fürnemblich dahin gesehen, wie ich ein berühmt vnd warhafftiges Exempel müchte fürstellen, auff das alle so diß spiel würden lesen, oder anschawen, es nicht dafür achteten, als ob dasjennige, was hie mit worten vnnd geberden wird fürgebracht, nur allein vmb guter kurtzweil, vnnd schimpflicher bossen willen geschrieben vnd angerichtet: Sondern damit anzudeuten, das es in der warheit (Comœdiæ enim sunt imagines veritatis et quotidianae vitæ specula) in vnserm gantzen leben auff dieser Welt also daher gehe. Wann ich aber nach einem solchen exempel, bey guten, glaubwürdigen Historicis, fleissig gesuchet vnnd nachgeforschet: So habe ich noch zur zeit kein bessers, vnd zu meinem fürhaben bequemers finden können, als eben diese lustige geschicht von dem löblichen, weisen, vnd mechtigen Fürsten Philippo Bono, weiland Hertzogen in Burgundien vnd der Niederlanden, dieselbe von Davide Chytræo, meinem lieben vnd nunmehr in Gott ruhenden Praeceptore, im dritten buch seines Chronici Saxonici, aus den Epistolis Ludovici vivis, erzehlet, auch von Georgio Ciglero in seinem Discursu de incertitudine rerum Humanarum, repetieret wird.
+Dieselbige, Durchleuchtiger Hochgeborner gnediger Fürst vnd Herr, habe vnter E.F.G. hochlöblichen Nahmen, ich ans liecht kommen lassen, das nicht allein von E.F.G. als einem hochverstendigen, gelarten, wollbelesenen, vnd in löblichen peregrinationibus versuchten Fürsten, diese meine wollgemeinte arbeit kegen des Neidharti Calumnias, schütz vnd schirm habe: Sondern weil der allmechtiger Gott E.F.G. dermassen mit allerley hohen, fürtrefflichen, Fürstlichen Gaben, Tugenden, vnnd angeborner frömmigkeit begnadet hat, das menniglich in der hoffnung stehet, E.F.G. dermahl eins diesem Pommerland ein Bonus Philippus, nach dem Exempel jhres lieben Herrn Großvaters, Philippi primi, hochlöblicher gedechtnus, sein werde.
+Derwegen E.F.G. ich hiemit zum vnterthenigsten vnd demütigsten bitte, dieselbe wollen dieses mein Poemation, loco strenæ, in Gnaden aufnehmen, vnd jhnen auff dißrnal belieben vnd gefallen lassen.
+Der frommer vnd allein getrewer Gott, wolle E.F.G. sampt deroselben hertzlieben Herrn Vätern vnd Herrn Brüdern, auch das gantze hochlöbliche Fürstliche Haus zu Stettin vnnd Pommern, bey guter gesundheit, friedlicher Regierung, vnd glückseligem wollstande, seinem allerheiligsten Nahmen zu ehren, lange zeit fristen, erhalten, schützen vnd segenen. Warumb täglich zu bitten ich mich 
+schüldig vnd willig erkenne. Datum Pölitz, im anfang des Newen Jahrs 1605. nach Christi vnsers Erlösers Seligmachender Geburt welches E.F.G. zu wahrer Seligkeit, bestendiger gesundheit zeitlicher vnd ewiger wolfahrt ich von dem Himlischen Vater aus grund meines hertzen wünschen vnd erbitten thu, Amen, Amen.
+E.F.G.
+Vntertheniger
+Ludovicus Hollonius, Pastor
+daselbst.
+
+
+
+
+
+
+Ad Auctorem
+
+
+
+
+
+
+Ad Auctorem.
+Umbræ vitam hominis cecinit quandoque fugaci
+Vates Pelasgus similimam.
+Namque, velut, Phœbum cum nox subducit opaca,
+Nubesve nigra, diffugit
+Vmbra: Hominum citó vita fugit, Parcacque revellunt
+Filum trahendum ocyssimé.
+Tu similem fingis, quod noctu terret et urget
+Timore, speque, somnio.
+Nam pueri ætatis quæ primis fecimus annis,
+Vt somnium, aut elapsa sunt
+Ex animis nostris: aut si quid restat et hæret,
+Ipsi timemus pallidi;
+Aut admiramur, cum nos maturior ætas
+Aliud monet, prioraque
+Vellicat, et rursus nova quando advolvitur ætas,
+Putas priorem, somnium.
+Hæc oculis à Te vivo quia picta colore
+Socco exhibentur scenico,
+Gratia non Italis tantúm et debetur Achivis,
+Verúm manet quoque Te tua,
+Vnanimésque canent, referent et ad astra nepotes
+Honore multo Teutonum.
+
+I.F.N.H.S.
+
+
+
+
+
+
+
+
+Personen
+
+
+
+
+
+Erzehlung der Personen.
+
+Argumentator, ein Knab so den Einhalt recitieret.
+
+Philippus Bonus, Hertzog in Burgundien.
+
+Ludovicus Delphinus Galliæ, Caroli des Königs aus Franckreich Sohn.
+
+Wollrath, Cantzler,
+Friedlieb, Hoffrath, , I.U. Doctores.
+
+Reinart, Marschall.
+
+Gottlieb, Camerer.
+
+Degenwerth,
+Schirmfried, , Hof Junckern.
+
+Warner, Official vnd Fürstlicher Beicht-Vater.
+
+Leuthülff, Doctor Medicinæ, Fürstlicher Leibartzt.
+
+Frater Antonius, ein junger Münch Prediger ordens, Sacellanus Aulæ.
+
+Lambert, ein Pastor vom Land.
+
+Christman, Secretarius.
+
+Gebrich, fürstlicher Küchenmeister.
+
+Friedbert,
+Wilbalt, , Edel Knaben.
+
+Siegesbot,
+Voland, , Lackeien.
+
+Eisenbart,
+Schartdegen,
+Helmschrot,
+Grimwald,
+Künprecht,
+Wilthelm, , Trabanten.
+
+Naschart, Fuchsschwentzer, oder Schmorotzer.
+
+Gutbischen, Narr.
+
+Wolffgang, ein Bott.
+
+Ian, der Ebriack, ex plebe homo.
+
+Leutrud, sein Weib.
+
+Ioanniscus, sein Sohnlein.
+
+Leutrudula, sein Töchterlein.
+
+Traurnicht.
+
+Weinholt.
+
+Jans zechbrecher, iidem homines plebei.
+
+Güldener, Fürstlicher Goltschmid.
+
+
+
+Herman, Schneider
+
+Gissbert, Schuster.
+
+Tytke, ein alter Bawr, claudicans, vel scipione incumbens.
+
+Trine, sein Weib, juvencula.
+
+Schmeckebier,
+Plumpart, , Junge Bawren.
+
+Epilogus, ein Knab, so die Schlußred thut.
+
+
+
+
+
+
+
+
+
+
+Argvmentator
+
+
+
+
+Argvmentator.
+Hertzog Philip, der Gutt genant,
+Ein Fürst in der Burgunder Landt,
+Hat viele Jahr regieret wol,
+Wie ein Christlich Regent thun sol:
+Also das kaum ein Fürst der zeit,
+Ihm gleich gewesen an Weißheit,
+Vnd andern hohn Tugenden mehr,
+Damit von Gott war bgnadet er.
+Solches bezeugen sein Geschicht,
+So er allzeit weißlich verricht.
+Er hat geführet schwere Krieg,
+Darinn erhalten Lob vnd Sieg:
+Hat viel Lender vnter sich gbracht,
+Theils durch Heyrath, vnd theils durch Macht.
+Des Gülden Flusses Ritter Ordn
+Von jhm ist erst gestifftet wordn,
+Da lsabel aus Portugal
+Ihm beygesetzt, das dritt Gemahl.
+Er hat erfahrn wolln auff ein' zeit
+Des Menschlichen lebens Eitelkeit,
+Hat derowegen von der Gassn
+Ein vollen Mann auffheben lassn,
+Vnd bringen auff seinen Palast,
+Ins Fürstliche Bette zur rast.
+Hatt jhn des morgens lassen ziern,
+Von fuß zu heupt Fürstlich staffiern,
+Und jhn zur Meß lassen beleitn
+Gar prächtig, wie es zu den zeitn
+Gehalten ward, vnd im Bapstum
+Noch heute ist der grössest ruhm:
+Hernach jhn auch zu Tisch lassn führn
+Vnd vberall Fürstlich tractiern,
+Bis man nach der Abentmahlzeit
+Ihm geben hat seinen Abscheid,
+Ihm zugesoffn so risch vnd frisch,
+Das er entschlaffen hinterm Tisch.
+Da hat der löblich Fürst alßbalt
+Ihm sein gepletzte kleider alt
+Anlegen lassen wiederumb,
+
+Von jhm genomn das Hertzogthumb,
+Vnd haben die Trabanten forth
+Ihn tragen müssen an den orth,
+Da er für vier vnd zwantzig stundn
+Im Rinnstein schlaffend war gefundn.
+Als er die nacht dahin gebracht,
+Vnd des morgens vom schlaff erwacht,
+Hat er aus was jhm widerfahrn
+Seinem Weib, Kindern, vnd Nachbarn
+Erzehlt wie ein nächtlich gesicht
+Vnd Traum, dem er wolt glauben nicht.
+Das ist dieses Spiels Argument,
+Welchs der Author zum guten end:
+Wie Momus meint, vergeblich nicht
+Sondern Zur Lehr hat angericht.
+Daraus auch warlich yederman
+Viel guter Lehren fassen kan.
+Dann hie in einem Spiegel klar
+Wird fürgestellet offenbar,
+Das vnsers Lebens Ehr vnd Macht,
+Frewd, Herligkeit, Ruhm, Zier vnd pracht
+Sey nur ein Traum vnd falscher schein,
+Darumb soll man gewarnet sein,
+Trachten mit ernst vnd ja bey zeit
+Im glauben nach der Seligkeit.
+Sonst wird etwas, doch auch zur lehr
+Vnd zier des Spiels, eingfürth beyher.
+Laßts euch gefallen, seid fein still,
+Hört was der Juncker sagen will.
+
+
+
+
+
+
+1. Akt
+
+
+
+
+
+1. Szene
+
+
+
+
+Scena I.
+
+Degenwerth. Friedlieb. Reinart. Wolrath. Warner. Leuthülff. Christman. Gottlieb.
+
+
+
+DEGENWERTH.
+
+Herr Doctor lieber sagt mir doch,
+Solt auch ein Fürst itzt leben noch
+Im heiligen Römischen Reich,
+Der an weißheit vnserm sey gleich?
+
+
+
+FRIEDLIEB.
+
+Lieben Junckern, auff ewer frag
+Mit warheit ich also viel sag:
+Das wir einen Landsherren habn
+Geziert von Gott mit hohen gabn.
+Dem solln wir dancken früh vnd spat
+Der aus Gnaden jhn geben hat.
+Dann freilich ists ein wolthat groß,
+Nicht außzusprechn mit worten blos,
+Wann Gott Regenten from vnd klug
+Einm Lande gibt, wie wir mit fug
+Rühmen können: doch will hiemit
+Ander' Fürstn ich verachten nicht.
+
+
+
+DEGENWERTH.
+
+Wollen wir vnsern stand recht führn,
+So will sich auch das nicht gebührn.
+
+
+
+REINART.
+
+Man soll billich hohe Personn
+Mit böser nachred gar verschonn.
+Dann ein verleumbder ist nicht werth
+Das an die seit er gürt' ein schwerdt,
+Viel weiniger führ Schilt vnd Helm.
+
+
+
+DEGENWERTH.
+
+Verleumbder sindt Godtlose Schelm:
+Man solt sie an die Beum forth henckn
+Oder im Sack ins wasser senckn.
+
+
+
+FRIEDLIEB.
+
+Vnd die sie gern hörn, vnd forth gleubn,
+Den solt man beid' ohren auffkleubn.
+
+
+
+DEGENWERTH.
+
+Ey recht, recht: da kompt der Cantzler,
+Deßgleichcn der Hoffprediger,
+Auch Fürstlicher Gnaden Medicus
+
+
+Dazu der Secretarius.
+Dieselben muß ich auch drumb fragn,
+Sie werdn vns wol ihr' meinung sagn.
+
+
+
+WOLRATH.
+Was ist der Junckern ist begehr?
+
+
+DEGENWERTH.
+
+Ihr Herren sagt doch ohn beschwer:
+Lebt auch ein Fürst im Römschen Reich
+Der vnserm Hertzogen sey gleich
+An frömmigkeit,
+Oder weißheit?
+
+
+
+WOLRATH.
+
+Warlich wir habn einn frommen Herrn,
+Der sein' Vnterthan nicht thut beschwern:
+Der mit weißheit vnd hohm verstand
+Löblich regieret Leut vnd Land.
+
+
+
+WARNER.
+Wir habn einn Fürsten from vnd weiß.
+
+
+LEUTHÜLFF.
+Ja billich gibt man jhm den preiß.
+
+
+CHRISTMAN.
+
+Wer verkleinert jhr' Fürstlich Gnad,
+Derselb wenig witz vnd ehr hat.
+
+
+
+LEUTHÜLFF.
+Gott erhalt sie lang zeit gesund.
+
+
+WARNER.
+
+Darumb zu bitten alle stund,
+Wir schüldich sind im gantzen Land.
+
+
+
+REINART.
+Thet man das nicht, das wehr groß' schand.
+
+
+WARNER.
+
+War das nicht ein' Gottseelig red,
+Die er itzt vber Tische thet,
+Zu Ludovico Galliae
+Delphino? welchem thut sehr weh,
+Das er seins Vaters zorn cedirn
+Vnd in der frembd muß exulirn,
+Darüber hertzlich seufftzet, klagt,
+Vnd sich mit sorgen offtmahln plagt.
+Wie fein wüst er aus Gottes wort,
+Wie Christlich jhn zu trösten forth?
+Wie herlich Spruch er allegirt?
+Wie artig er sie applicirt?
+
+
+
+FRIEDLIEB.
+Ja das ist war, Ehrwürdigr Pater
+
+
+
+WARNER.
+
+Vntr andern sagt der from Lands Vater:
+Wir sind hie alle Exules,
+Viatores vnd Hospites,
+Humana vita est somnium.
+All Herligkeit, Macht, Pracht, Reichtum,
+Im huy vnd augenblick verschwind,
+Wie der Rauch getrieben vom Wind.
+
+
+
+WOLLRATH.
+
+Hett das Thales Milesius
+Geredet, oder Pittacus:
+Von Corinthen Periander,
+Odr aus Griechenland ein ander:
+Hett es gesaget Cicero,
+Odr der großmütig Scipio,
+Man hielts für ein oraculum
+Vnd Göttliches Eloquium.
+
+
+
+GOTTLIEB
+
+supervenit, à Principe missus.
+
+
+Mit euch, Herr Doctor, Fürstlich' Gnad
+Daroben was zu reden hat.
+
+
+
+FRIEDLIEB.
+Ich kom alsbalt.
+
+
+Abit.
+
+
+
+
+GOTTLIEB
+
+ad reliquos.
+
+
+Weils itzt nicht kalt,
+Will der Fürst sich zu recreirn
+Ein weinig in die Stadt spaciern.
+Des Königs Sohn aus Franckenreich
+Ludwig, wird mitgehen zugleich.
+Darumb verthut euch nicht zu weit,
+Auff das jhr alle seid bereit,
+Fürstliche Gnad zubeleiten,
+Es kom zu gehn oder reiten.
+Er Warner, jhr seidt schwach vnd alt,
+Mit euch hats viel ein ander gstalt:
+Der löblich Fürst, mein gnedigr Herr,
+Thuts nicht zu leid seinm Beichtvater,
+Das et zu fuß solt einher trabn,
+Dazu hat er Lackein vnd Knabn:
+Geht jhr zu bett in Gottes nahmn.
+
+
+
+WARNER.
+Der füeg vns gsund wider zusamn.
+
+
+
+
+
+
+
+
+2. Szene
+
+
+
+
+
+
+Scena II.
+
+Naschart. Gutbischen. Eisenbart.
+
+
+
+NASCHART.
+Juch hoscha: laetæ mentis.
+
+
+GUTBISCHEN.
+Juch hobba: vier lahm entis.
+
+
+NASCHART.
+Juch: lustig, rustig, guter ding.
+
+
+GUTBISCHEN.
+Was gibst das ich herumbher spring?
+
+
+NASCHART.
+Ein groschen. Spring: juch hobba, juch.
+
+
+GUTBISCHEN
+
+saliendo se circumrotans.
+
+Das wars mein kerl: juch hoscha juch.
+
+
+EISENBART.
+
+Habt jhr zu viel gsoffn, oder gfressn
+Odr seid vom Teuffel gar besessn,
+Das er euch zu marcket hinreith?
+Was ists das jhr so brüllt vnd schreit?
+Gedencket das der Fürst dort obn,
+Wird hören ewer rasn vnd tobn.
+
+
+
+NASCHART.
+
+Ho: diß' heilige Phantastnacht,
+Ist vnser Betwoch vnd andacht:
+Nun halten wir procession,
+Begehn walfahrt vnd station.
+Nun ist Sanct Schweinardi bgengnus,
+Vnd des Grobiani bsengnus.
+
+
+
+GUTBISCHEN.
+
+Wir wollen mit crassatum gehn,
+Vns in der Stadt auch lassen sehn.
+
+
+
+EISENBART.
+
+Wie aber? wann der Fürst aus zorn,
+Euch vngehalten frechen Thorn
+Ins loch lies werffen allebeid?
+
+
+
+GUTBISCHEN.
+Ho? das thut man vns nicht zu leid.
+
+
+NASCHART.
+
+Wir sind zwen Menner hochgelarth,
+Von weiser vnd sehr kluger arth,
+Ich weiß gewiß, nicht einen tag
+Der Fürst vnser entrathen mag.
+
+
+
+EISENBART.
+
+Es hat ohn das mein gnedger Herr
+Genug Thoren, vnd Leimstenger,
+So Fuchsschwentzen vnd pflaumenstreichn.
+
+
+
+
+NASCHART.
+
+Was? wiltu vns denen vergleichn.
+Wir sind zwo vornehme Seulen
+Des Landes.
+
+
+
+EISENBART.
+
+Ihr soltet heulen
+Im thurm, ein wochen oder acht
+Zum gringsten, stünds in meiner macht:
+Ihr würdt der Narheit woll vergessn.
+
+
+
+GUTBISCHEN.
+
+Wann d' vns gebst frey zusauffn vnd fressn,
+Wir wolten es woll halten aus.
+
+
+
+EISENBART.
+Der Fürste kömpt herab, potz laus.
+
+
+
+
+
+
+
+
+3. Szene
+
+
+
+
+Scena III.
+
+Progreditur Princeps, ex Arce obambulatum, Ludovicus Delphinus Galliae, Proceres, Satellites, et alii Ministri, more Aulico comitantur eum. Philippus. Ludwig. Gutbischen. Naschart. Reinart. Schartdegen.
+
+
+
+PHILIPPUS.
+Nun ists, Gott lob, ein gwünschet wettr.
+
+
+LUDWIG.
+
+Das ist warlich, lieber Herr Vettr:
+Billich man sich itzt recreirt,
+Vnd einmahl in die Stadt spatziert.
+
+
+
+PHILIPPUS.
+
+Hört Reinart: last die beiden Narrn
+Hie oben vnter dessn verharrn.
+
+
+
+GUTBISCHEN
+
+lacrymabundus.
+
+Ey Vater, last vns gehen mit.
+
+
+NASCHART.
+Darumb ich auch sehr fleissig bit.
+
+
+PHILIPPUS.
+
+Nein, nein: ohne das vnser Gnad
+Narren gnug zu gefehrten hat:
+Wir küntn der etlich' wol entrathn.
+
+
+
+NASCHART
+
+secum.
+
+
+Wer wolt den fressn die guten bratn,
+Vnd sauffen aus den besten wein?
+Bein Herrn müssn solche leute sein.
+
+
+
+REINART.
+Jage sie hinauff Schartdegen.
+
+
+
+GUTBISCHEN.
+So kom jo ein sehne vnd regen.
+
+
+SCHARTDEGEN
+
+verberans morionem.
+
+Was? fluchest noch du Bösewicht?
+
+
+NASCHART.
+Ich wil wol gehen, schlag mich nicht.
+
+
+
+
+
+
+
+
+4. Szene
+
+
+
+
+Scena IIII.
+
+Ian. Traurnicht. Weinholt.
+
+
+Ian egrediens taberna vinaria. Canit partem veteris Cantiunculae: Traut Henßlein vber die Heiden etc. vel aliud. Finito Cantu.
+
+
+Sih! Sih! wie betreugt mich der wein?
+Wolln mich doch nicht tragen mein bein:
+Itzt, da ich in dem glach noch war,
+Daucht mich ich wer noch nüchtern gar:
+Wann ich nu kom in Lufft hinaus,
+Kan ich nicht findn mein eigen haus,
+
+Kan nicht mehr sehn,
+Nicht gehn, nicht stehn.
+
+Muß mich hie legn ein weinig nidr,
+Biß das ich kom zu rechte widr.
+
+
+Procumbens humi obdormit.
+
+
+Interea Compotatores ejus caupona vociferando exeunt, et canunt hoc, vel alio modo.
+
+
+
+TRAURNICHT.
+
+Solt ich so offtmals trauren
+Als es mir vbel geht,
+So müst ich allzeit zagen
+Vnd viel zu schaffen het:
+Laß trawren immer trawren
+Wer gerne trawren thut,
+Ich laß den lieben Gott walten
+Vnd trag einn frischen muth.
+
+
+
+WEINHOLT.
+
+Man sagt wol in den Meyen
+Da sind die Brünnlein gsund:
+Ich glaubs nicht bey meinn trewen,
+
+
+Es schwenckt einm nur den mund,
+Vnd thut im magen schweben,
+Drumb wil mirs auch nicht ein,
+Ich lob die edlen Reben
+Die bringn vns guten wein.
+
+
+
+TRAURNICHT.
+Hoichta: ju, jo.
+
+
+WEINHOLT.
+Hoscha, ho, ho.
+
+
+TRAURNICHT.
+Juch hoscha: tummel dich mutz.
+
+
+WEINHOLT
+
+cernens Ebrium.
+
+
+Sih da! sih da mein huderputz,
+Sih! da ligt er in allr Sewnahmn.
+
+
+
+TRAURNICHT.
+Ho, ho: komm wir so widr zusamn?
+
+
+WEINHOLT
+
+Ebrio illudens canit.
+
+
+Ach wein du schmackst mir also woll,
+Du machest mich offt also voll,
+Das ich nicht heim kan kommen:
+So hebt mein wunder böses weib
+Daheime an zu brommen, ja brommen.
+
+
+
+TRAURNICHT.
+
+Greiff an, wir wolln jhn führen heim,
+Was soll er hie so lign im schleim?
+
+
+
+WEINHOLT.
+
+Er hat die kleien noch im bart,
+Wie wird sein weib jhn küssen zart.
+
+
+
+TRAURNICHT.
+
+Steh auff mein Ian, du bist gar voll,
+Steh auff, du liegst hie traun nicht woll.
+
+
+
+IAN.
+
+Las mich zu fried, vnd schweig nur still,
+So lang als ich hie ligen wil,
+Ists mir gut gnug.
+
+
+
+WEINHOLT.
+
+Laß lign den Geck,
+Eine Saw gehört nur in dreck.
+
+
+
+TRAURNICHT.
+
+Ja wann du mir nicht wilt beystan,
+So wil ichs auch wol bleiben lan.
+
+
+
+WEINHOLT.
+Potz rasperment! wer kompt vns dort?
+
+
+TRAURNICHT.
+Vieleicht die wacht, lauff fort, lauff fort.
+
+
+Aufugiunt.
+
+
+
+
+
+
+
+
+
+5. Szene
+
+
+
+
+
+
+Scena V.
+
+Redit Princeps cum comitatu, loquuntur. Helmschrot. Grimwald. Philippus. Schartdegen. Eisenbart. Wilthelm. Künprecht.
+
+
+
+HELMSCHROT
+
+ad Ebrium.
+
+
+Woll auff, wol auff: du Esel frech,
+Wie legst dich so recht hie in weg?
+
+
+
+GRIMWALD
+
+verberans Ebrium.
+
+
+Halt, halt: ich wil das grobe Schwein,
+Hiemit bald bringen auff die bein.
+
+
+
+PHILIPPUS.
+
+Nicht, nicht Trabant, laß ab vom schlagn,
+Einm truncken man mit Pferd vnd wagn
+Man weichen soll: thut jhm kein leid,
+Bringt jhn zu Hoff auff weitern bscheid.
+
+
+
+Princeps cum Proceribus in Aulam pergit. Satellites Ebrium hastilibus imponentes, eumque deportantes colloquuntur invicem.
+
+
+
+
+SCHARTDEGEN.
+Was mag der Fürst meinen hiemit?
+
+
+EISENBART.
+Das kan ich warlich wissen nicht.
+
+
+WILTHELM.
+
+Nun, Herr Domine, lasset sehn,
+Steth auff, jhr sollet mit vns gehn.
+
+
+
+KÜNPRECHT.
+Der Tülpel wil nicht sprechn ein wort.
+
+
+HELMSCHROT.
+Wie werdn wir jhn dann bringen forth?
+
+
+KÜNPRECHT.
+
+Weill er ist einem Todten gleich,
+Müssn wir jhn tragen wie ein leich.
+
+
+
+WILTHELM.
+Soll man dich tragn du loser Tropff?
+
+
+GRIMWALD.
+Was plauderst viel? nim jhn beim kopff.
+
+
+SCHARTDEGEN.
+
+Ihr andern greiffet auch mit an,
+Einer jhn traun nicht heben kan.
+
+
+
+WILTHELM.
+
+Mücht es gehen nach meinem sin,
+Auffs Schloß wolt jhn nicht tragen hin,
+Eh solten jhn hie fressn die Rabn.
+
+
+
+KÜNPRECHT.
+Wk könn allzeit vnsrn willn nicht habn.
+
+
+HELMSCHROT.
+Hebt auff zugleich: geht fort also.
+
+
+
+SCHARTDEGEN
+
+canit, et duo vel tres cum illo.
+
+
+Nun singen wir: seid fro, seid fro,
+Der Bawr ist todt, der Bawr ist tod:
+Seid fro, seid fro, der Bawr ist todt.
+Wir wollen jhn nicht viel beklagn,
+Sondern mit frewd zu Kirchhoff tragn.
+Er hat vns auch gar wol bedacht,
+Ein reiches Testament gemacht:
+Er hat vns gar reichlich verehrt,
+Dem Küstr ein Kuh, vnd vns ein Pferd.
+
+
+
+
+
+
+
+
+
+6. Szene
+
+
+
+
+Scena VI.
+
+Philippus. Wollrath. Reinart. Gottlieb.
+
+
+
+PHILIPPUS
+
+in area Arcis, ad Proceres.
+
+
+Lieben getrewen, euch vieleicht
+Gar lächerlich vnd seltzam deucht,
+Das wir itzt diesen vollen man
+Zu Hoffe haben bringen lan.
+
+
+
+WOLRATH.
+
+Durchleuchtger Fürst, gnedigster Herr,
+Es nimbt traun vns alle wunder sehr,
+Was Ewer Gnad mein hiemit doch?
+
+
+
+PHIUPPUS.
+
+Ihr werdt es wol erfahren noch,
+Itzt last jhn tragn auffn grossen Saal.
+
+
+
+REINART.
+Er ists nicht werth, der hautler kaal.
+
+
+PHILIPPUS.
+
+Was gehts euch an? wir wollns so habn.
+Nehmt sein recht war jhr Edelknabn,
+Vnd wann er ist hinauff gebracht,
+Wo vnter dessn er nicht erwacht,
+Thut jhm fein ab die kleider sein,
+Ziht jhm forth an ein hembde rein:
+Vnser nachthaub jhm auch auffsetzt,
+Mit wortn odr werckn jhn nicht verletzt.
+Darnach in vnser beth zur ruh
+Ihn legt, vnd machts Gemach dann zu.
+Damit dis alles so gescheh,
+Du Gottlieb mit auffn Saal hingeh.
+
+
+
+GOTTLIEB.
+
+Was Fürstliche Durchleuchtigkeit
+Befehlt, thu ich mit frewd allzeit.
+
+
+
+
+
+
+
+
+
+2. Akt
+
+
+
+
+
+1. Szene
+
+
+
+
+Scena I.
+
+Warner. Friedlieb. Frater Antonius. Christman.
+
+
+
+WARNER.
+
+Was sind das für new' seltzam mehr?
+Hat nächten vnser gnedigr Herr
+Von der gassen einn truncken man
+Auffheben, vnd herbringen lan
+Zu beth in jhrer Gnaden Gmach?
+
+
+
+FRIEDLIEB.
+Glaubt mirs, Er warner, was ich sag.
+
+
+WARNER.
+Ohn vrsach ist das nicht geschehn.
+
+
+FRIEDLIEB.
+Ich mücht doch gern das end ansehn.
+
+
+FRATER ANTONIUS.
+Heut wird sichs geben, seid zu fried.
+
+
+FRIEDLIEB.
+
+Ich hab diß' nacht könn schlaffen nicht,
+Lag in gedancken tieff vnd schwer,
+Vnd spintisirte hin vnd her,
+Kans aber noch ergründen nicht,
+Wohin der handel sey gericht.
+
+
+
+WARNER.
+
+Warlich ich auch gleicher massen,
+Kans nicht verstehen noch fassen.
+
+
+
+FRATER ANTONIUS.
+Es ist vorwar ein seltzam gschicht.
+
+
+FRIEDLIEB.
+Christman wird vns bringen bericht.
+
+
+CHRISTMAN.
+Bonum mane, bonum mane,
+
+
+FRATER ANTONIUS.
+Semper sanè, semper sanè.
+
+
+FRIEDLIEB.
+Wohin so frü?
+
+
+CHRISTMAN.
+
+Zu euch semptlich
+Mein gnedigr Herr hat geschicket mich.
+Er warner in der grossn Capell
+Werdet jhr auff Fürstlich befehl
+Das heilig Ampt halten dißmahl,
+Vnd ordnen das es vberall
+Solenniter et festivè
+Mit Ceremonien zugeh.
+
+
+
+
+WARNER.
+
+Dem Fürstn ich gern gehorsam leist,
+Gott geb dazu sein gnad vnd geist.
+
+
+
+FRATER ANTONIUS.
+Amen.
+
+
+CHRISTMAN.
+
+Ihr aber Don Anton,
+Sollt halten ein kurtzen Sermon.
+
+
+
+FRATER ANTONIUS.
+
+Ich thus gern, Per Deum verum,
+Vel ad plebem, vel ad clerum.
+
+
+
+CHRISTMAN.
+
+Herr Doctor, geht jhr hin auffs Haus:
+Ich hab noch mehr zu richten aus.
+
+
+
+FRIEDLIEB.
+Hats auch befohlen Fürstlich Gnad?
+
+
+CHRISTMAN.
+Ja: geht das jhr nicht kompt zu spat.
+
+
+
+
+
+
+
+
+2. Szene
+
+
+
+
+Scena II.
+
+Warner. Frater Antonius.
+
+
+
+WARNER.
+
+Antoni Frater in Christo,
+Ich fürcht gar sehr.
+
+
+
+FRATER ANTONIUS.
+Wie so? wie so?
+
+
+WARNER.
+
+Das jhr in dieser kurtzen zeit
+Zu predigen nicht werd bereit.
+Will man mit nutz sermocinirn,
+Muß man zuvohr drauff meditirn.
+Insonderheit für Optimatn,
+Für grosse Herrn vnd Potentatn.
+Ihr aber (muß die warheit sagn)
+Seid nüchtern in so vielen tagn,
+Ja wochen, niemahln geworden:
+Da doch ewr streng heilig Orden,
+Vnd Regul gar viel anders lehrt,
+Welch jhr vmbstosset, vnd verkehrt.
+
+
+
+FR.
+
+ ATONIOS.
+Erwürdigr Vater, mein' schwacheit
+Bewein ich stets: seht an mein kleid,
+Das sind nur eitel Lacrymae,
+Et signa Poenitentiae.
+
+
+
+
+WARNER.
+
+Der Wein, aber das weinen nicht,
+Ewr Capp also hat zugericht.
+
+
+
+FRATER ANTONIUS.
+
+Cum cæteris Erroribus,
+Nostrisque quæso Lapsibus,
+Hæc ambulare mittito,
+Mihique nunc ignoscito,
+Inanibus nec tu bibis
+Libenter ipse ex Poculis.
+Einn guten Pater trunck, ich wett,
+Nehmt jhr auch heut noch mit zu bett.
+
+
+
+WARNER.
+
+Senex Ego sum frigidus,
+Et destitutus viribus,
+Vt hauriam meracius
+Quandoque vinum et largius,
+Hoc sanitas vult ipsamet,
+Necessitasque me jubet.
+Istud tuis Excessibus
+Et Helluationibus,
+Patrocinari non putes,
+Qui inebriaris indies.
+
+
+
+FRATER ANTONIUS.
+
+Ich will hernach heilige Pater.
+Mein lebn bessern ter et quater.
+
+
+
+WARNER.
+Dazu hilff euch der Herre Christ.
+
+
+FRATER ANTONIUS.
+Vnd die sein werthe Mutter ist.
+
+
+WARNER.
+
+Nun sagt, was wollet jhr tractirn
+Pro Concione?
+
+
+
+FRATER ANTONIUS.
+
+Will einführn
+Viel Sprüch der Heyden, der Poetn,
+Der Altveter, vnd der Prophetn.
+Aus den Historijs schrecklich gschicht,
+Odr was zur warnung sonst erticht,
+Legenden, Fabeln, alt vnd new
+Erzehlen, vnd die Leut ohn schew
+Zur höll verdammen, wo sie nit
+Erkeuffn vnser werck vnd vorbitt,
+Mit stifften, gifften vnd praebendn
+Im gantzen Land an allen endn.
+Will sagn: wie seid jhr menschen kind
+So toll? so tum? vnd so starblind?
+
+
+Das jhr Golt, Silber, Edelgstein
+Euch samlet, nur zur pracht vnd schein,
+Vnd könnt dessen nimmer satt werdn
+So lang jhr lehr auff dieser erdn?
+Wie könnt jhr so auffs zeitlich bawn?
+Wie könnt jhr so dem Mammon trawn?
+Er kan euch in der letzten noth
+Erhalten nicht: der bitter Todt
+Wird euch wegnehmen allgemein,
+Ihr seid jung, alt, groß oder klein,
+Edel, vnedel, arm vnd reich:
+Im grab der Todt euch machet gleich.
+Da vnten in der finstern Erdn,
+Müsst jhr der würme speise werdn.
+Gleubts doch jhr Fürsten, Graffen, Rittr,
+Der Höllen pein ist grawsam bittr.
+Ich bitt gleubts doch jhr zarten Frawn
+Gleubts doch jhr Tugentreich' Jungfrawn:
+Der infernalisch Schwefelrauch,
+Der Phlegetontisch Dampff vnd schmauch,
+Die Acheruntisch Fewrflam ist
+Sehr scharff, sehr heiß, sehr groß, das wist.
+Trachtet hie nach der Seeligkcit,
+Habt ja in acht diß' kurtze zeit.
+Schröcklich wird es sein, mordio!
+Schröcklich wird es sein, o dio!
+Wann man wird müssn im Fewr dort sitzn,
+Vnd in der quall den angstschweiß schwitzn.
+
+
+
+WARNER.
+
+Ihr müsst euch etwas moderirn,
+Vnd nicht so greßlich intonirn.
+
+
+
+FRATER ANTONIUS.
+
+Ich wils wol treffen, hab wol eh,
+Sermocinirt ex tempore.
+Das wer ein schlimmer Socius,
+Ein grober Rültz vnd Knollius,
+Der nicht solt aus dem ermel fort
+Ein' Predigt schütteln: ich für wort
+Trag sorgn nicht, geh auff mein Cell,
+Das mir ein Textum außerwehl.
+
+
+
+
+
+
+
+
+
+3. Szene
+
+
+
+
+
+
+Scena III.
+
+Warner. Friedebert.
+
+
+
+WARNER
+
+secum.
+
+
+Der ist mir ein Audaculus,
+Et impudens loquaculus!
+Die jungen Leut,
+Sind gar frech heut.
+Wolln oben aus, vnd nirgends an,
+Achten weinig einn Alten Man:
+Meinen sie habn all Künst gefressn,
+Da offt ein alter mehr vergessn,
+Dann solch' Laffen gelernet nie.
+
+
+
+FRIEDEBERT.
+Er Warner, find ich euch noch hie?
+
+
+WARNER.
+Itzt geh ich das ich mich ankleid.
+
+
+FRIEDEBERT.
+
+Warlich es ist auch eben zeit.
+Ihr werdet abr einn andern sehn
+In Fürstlichr Gnaden stelle stehn,
+Darob müsset euch ergern nicht.
+
+
+
+WARNER.
+Ist gut, das ich dessn werd bericht.
+
+
+FRIEDEBERT.
+
+Der Man, den nächten von der strassn
+Auffs Schloß der Fürst hat bringen laßn,
+Wird rühren heut Fürstlichen stand,
+Vnd komm herunter allzuhand.
+
+
+
+WARNER.
+
+Was mag Fürstlich' Durchleuchtigkeit
+Meinen damit?
+
+
+
+FRIEDEBERT.
+Wird gebn die zeit.
+
+
+
+
+
+
+
+
+4. Szene
+
+
+
+
+Scena IIII.
+
+Tytke. Siegesbot. Leuthülff.
+
+
+
+TYTKE.
+Godt groete yuw, gy goede Man.
+
+
+SIEGESBOT.
+Frommer alter, jhr sollt danck han.
+
+
+
+TYTKE.
+
+Weethe gy nicht wo ick ydt mack,
+Dat ick kryg ein Dockar tho sprack?
+
+
+
+SIEGESBOT.
+
+Mein Freund, jhr sollt es habn bedacht,
+Ein par fette Genß' mitgebracht.
+Doctorn haltens für grosse Schand,
+Wann Bawrn komn mit lährer hand.
+
+
+
+TYTKE.
+
+Ja, ja: dat wil ick wol flasken,
+Hab einn Goltgüldn in der Tasken,
+Den wilck em geuen also forth,
+Halpt dat ick en men kryg tho wordt.
+
+
+
+SIEGESBOT.
+
+Mein Freund, den langt jo balt herfür.
+Ihr müsst sonst bleiben für der thür.
+
+
+
+TYTKE
+
+promens aureum.
+
+
+Sehet daer, seht in acht' dagen,
+Hold ick woll, ys he nich schlagen.
+
+
+
+SIEGESBOT
+
+inspiciens nummum.
+
+Warlich der ist recht gut vnd alt.
+
+
+TYTKE.
+Dat hape ick.
+
+
+SIEGESBOT.
+
+Ey das Gott walt,
+Der Doctor kömpt ein guter Man,
+Gehet nur hin vnd sprecht jhn an,
+Er wird euch hören ohn beschwer.
+
+
+
+TYTKE
+
+semiaperto capite.
+
+
+Ein goeden dag, Heer Dockar Heer,
+Wat wold ick yuw?
+
+
+
+LEUTHÜLFF.
+Das weiß ich nicht.
+
+
+TYTKE.
+
+Heer Dockar Heer, ick ward bericht,
+Dat gy dat Water könt besehn,
+Vnd seggen wat dar noch schal scheen,
+Eddr einem Minschen wadderfahrn
+Auer lang' tydt, in vöelen Jahrn.
+Darwegen kam ick thow yuw heer,
+Bring' einn Goldtgülden goeder wehr
+Bidd willn besehn dith Water my,
+Vnd seggn wat yuw doch dünckt daerby.
+Ick bin ein Schult', ein sehr goed Man,
+Heer Dockar Heer, legt yo flyth an.
+
+
+
+Porrigit Medico aureum.
+
+
+
+
+
+LEUTHÜLFF.
+
+Ich hab dazu itzt nicht wol zeit,
+Doch kompt mit mir hie vberseit.
+Haltet mir fein empor das glas?
+Hilff Gott wie ist so heßlich das!
+
+
+
+Rusticus elevat matellionem.
+
+
+
+
+TYTKE
+
+vellicans pallium Doctoris.
+
+Seht yo recht tho, darüm ick bidd.
+
+
+LEUTHÜLFF.
+
+Es soll gesehen, last mich zu fried.
+Das wasser zeigt an groß gebrechn,
+Den Lendenstein vnd Seitenstechn.
+
+
+
+TYTKE.
+
+My ys daran gar veel gelegn:
+Heer Dockar Heer, seht yo tho degn.
+
+
+
+LEUTHÜLFF.
+
+Es zeigt auch an einn kalten magn,
+Der harte speiß' nicht kan ertragn.
+Vnd wann ichs nach der Farb betracht,
+Zeigts an Schwindsucht vnd groß ohnmacht.
+Ja, wann jhrs wissen wolt so ebn,
+Zeiget es an ein kurtzes lebn.
+
+
+
+TYTKE.
+Heer Dockar Heer, dat wehr de plag.
+
+
+LEUTHÜLFF.
+Mein Freund, so ist es wie ich sag.
+
+
+TYTKE.
+
+Heer Dockar Heer, seht so recht tho,
+Ick wil yuw schenckn ein' malcke Koh.
+So gy my könnet rath geeuen,
+Dat ick ein' tydtlanck möcht leeuen.
+
+
+
+LEUTHÜLFF.
+
+Das steht bey Gott, mein lieber Man,
+Doch wil ich gern thun was ich kan.
+
+
+
+TYTKE.
+
+Ick habb tho huß ein schmuck junck wyff,
+Dat bith vnd kyfft my steds upt lyff,
+Vnd secht de mangel stah an my,
+Dat se nicht Kindes Moder sy:
+Dith ys my truwe ein groth besweer,
+Ick bidd: halpt doch, Heer Dockar Heer.
+
+
+
+LEUTHÜLFF
+
+subridens.
+
+
+Vielleicht euch noch zu helffen steht,
+Kompt, mit mir in mein hauß hingeht.
+
+
+
+
+
+
+
+
+
+5. Szene
+
+
+
+
+
+
+Scena V.
+
+Gutbischen. Künprecht. Grimwalt. Wilthelm. Reinart.
+
+
+
+GUTBISCHEN.
+
+Weichet, weichet all vberseit,
+Der Fürst kompt, weicht er ist nicht weit.
+Weichet sag ich, weichet balt, balt:
+Weicht vberseit, weichet.
+
+
+
+KÜNPRECHT
+
+verberans Morionem.
+
+
+Halt, halt,
+Ich will hiemit dem losen Tropffn,
+Das vngehalten maul wol stopffn.
+
+
+
+GRIMWALD.
+Schlag drauff Künprecht.
+
+
+WILTHELM.
+So recht, so recht.
+
+
+GUTBISCHEN.
+Du loser Schelm.
+
+
+KÜNPRECHT.
+Halt jhn Wilthelm.
+
+
+WILTHELM.
+Laß lauffn, laß lauffn, das grobe Rind.
+
+
+KÜNPRECHT.
+Ein ander mahl ich jhn wol find.
+
+
+GUTBISCHEN.
+Du Quackebruch, vnd du Hanrey.
+
+
+REINART.
+Was hat der Narr für ein geschrey?
+
+
+KÜNPRECHT.
+Sein' Büberey, vnd mutwilln treibt.
+
+
+REINART.
+
+Wer sich an Thorn vnd Narren reibt,
+Sie irritirt vnd zerret viel,
+Muß hörn was er nicht hören will.
+
+
+
+Venit putativus Princeps, et à Proceribus ad Sacellum splendidè deducitur.
+
+
+
+
+
+
+
+
+
+
+3. Akt
+
+
+
+
+
+1. Szene
+
+
+
+
+Scena I.
+
+Schmeckebier. Tytke.
+
+
+
+SCHMECKEBIER.
+
+Süh! goeden morgn myn leeff Swager:
+Wo seh gy so bleeck vnd mager?
+
+
+
+TYTKE.
+
+Ick bin vorwaer eine tydtlanck
+Gewesen sehr mack vnde kranck.
+
+
+
+SCHMECKEBIER.
+
+Dat leedig Older,
+Is ein quaet molder.
+
+
+
+TYTKE.
+
+Ick bracht einm Dockr myn water dort,
+Meende he schold my halpen forth.
+Gaff em einn Goldgüldn vp de hand,
+Nu schleit he vör ein selsam quant.
+
+
+
+SCHMECKEBIER.
+
+Men secht: ydt ys ein Salig Man,
+De Arstedy entraden kan.
+
+
+
+TYTKE.
+
+Schal myne Frouw em schickn henin,
+Dat will my noch nich in den sin.
+
+
+
+SCHMECKEBIER.
+Idt hafft sick sehr dull in der Stadt.
+
+
+TYTKE.
+Ick will my drup bedencken wat.
+
+
+SCHMECKEBIER.
+
+De Papen, Dockars, vnd Schryuer,
+Habbn yuw gerne schmucke Wyuer.
+
+
+
+TYTKE.
+
+Ick will myn Fruw woll habbn in acht:
+Wat haffstu hyr tho Marcked bracht?
+
+
+
+SCHMECKEBIER.
+
+Gy weten dat myn Edelman
+Vnd ick als wind vnd Sandberg stan.
+
+
+
+TYTKE.
+Ick löff he leeth dy nehmn ein Peerdt.
+
+
+SCHMECKEBIER.
+Idt was gern veertich daler weerth.
+
+
+TYTKE.
+Hafstud dan noch nicht waddr bekamn?
+
+
+SCHMECKEBIER.
+Hafft my noch ein par Ossn genahmn.
+
+
+
+TYTKE.
+
+Du warst en habbn vortörnet sehr:
+Du scholdest doen na synm begeer,
+Dyn Pächt geeuen tho rechter tydt,
+Verrichten dynen deenst mit flyth,
+Als ick doe, so werstu mit freedn,
+Vnd by dynm Juncker woll geleedn.
+
+
+
+SCHMECKEBIER.
+
+Ick kan myn egen doent nicht wahrn,
+Vnd schall all dag' tho Have fahrn
+Sülff drüd, sülff veerd, mit Ossn vnnd Peerdn,
+Wat wil de leng doch daruth werdn?
+
+
+
+TYTKE.
+
+Wy armen Burn habbn plag genoeg,
+Möthn vaken lyden groeth vnfoeg.
+
+
+
+SCHMECKEBIER.
+De Vögde doen vns voel schalckheit.
+
+
+TYTKE.
+
+Bißwylen id selsam thogeith.
+Wüste idt so de süluest Heer,
+Vörwaer ydt schege nümmermehr.
+
+
+
+SCHMECKEBIER.
+
+Vnse Cöster, Claws Sümetydt,
+De hafft my truwn mit allem flyth
+Ein' höuesch' koppelkatze schreuen,
+De wilck dem Försten auergeuen.
+Dat wil ick doen: gewiß ick weet,
+Ick kryg' darup ein goed bescheed.
+
+
+
+TYTKE.
+
+Dewyl ick habb verricht myn saeck,
+Ißt best dat ick na huß my maeck.
+
+
+
+SCHMECKEBIER.
+
+Neen truwn: ick wil my recht vulsupn,
+Scholde ick ock na huß hen krupn.
+Schold ick nich einen rusch mit nehmn?
+Des möst ick my myn leeffdag schemn:
+Gott loff ick noch woll drincken mag.
+
+
+
+TYTKE.
+Ick denck den dag, dat ickt ock plach.
+
+
+SCHMECKEBIER.
+Segt jo voel goedes yuwer Trinen.
+
+
+TYTKE.
+Groeth du tho huß ock all de dynen.
+
+
+
+
+
+
+
+
+2. Szene
+
+
+
+
+
+
+Scena II.
+
+Schmeckebier. Voland. Grimwalt. Wolrath.
+
+
+
+SCHMECKEBIER.
+
+Nu moth ick hyr ein wenig wachtn,
+Vnde mith flyte darhen trachtn,
+Dat ick den försten kryg tho wort,
+Ick habb wol ehr dat sprickwort hort:
+Dat by der Schmeed tho aller frist,
+Am besten tho beschlagen ist.
+
+
+
+VOLAND.
+Wen sucht jhr hie mein guter Man?
+
+
+SCHMECKEBIER.
+Wold gern den Försten spreken an.
+
+
+GRIMWALDT
+
+ridens.
+
+Das werden sein gar wichtig sachn.
+
+
+SCHMECKEBIER.
+
+Myn Fründ, jdt ys my truwn neen lachn:
+Gy Hoffdeener wethn nicht daruan,
+Wat lyden moeth ein arm Buerman,
+Gy leeuen steeds in goeden dagn.
+
+
+
+GRIMWALT.
+
+Ja wer euch Schelmn noch thet beklagn?
+Man kan euch nicht triblirn genug:
+Wann jhr fried habt ligt jhr im Krug
+Seid Gottloß, roh, frech, keck vnd wilt.
+
+
+
+VOLAND.
+
+Ey Bruder, du redest zu milt,
+Etlich sind from, Gottfürchtig, still.
+
+
+
+GRIMWALT.
+
+Warlich der find man heut nicht viel:
+Trotz, mutwil, freuel, list, vntrew,
+Vnd stoltz ist bey jhnen nicht new.
+
+
+
+SCHMECKEBIER.
+
+Kümpt tho Haue ein arm Buerman,
+Auer den man will vnde kan,
+De moeth hören spöttische wort,
+Vam einem hyr, vam andern dorth.
+Gy Deenre willn vns steeds vaxern,
+Lathn yuw mehr düncken als de Heern.
+Bringn yuw daermeed van deensten aff,
+Geradn offtmahl an Beddelstaff,
+Edder ydt wardt yuw jo so suer,
+Als my vnd einem andern Buer.
+
+
+
+VOLAND
+
+subridens.
+
+Der sagt die warheit vns fein schlecht.
+
+
+
+GRIMWALD.
+Es ist ein knol vnd Tülpel recht.
+
+
+SCHMECKEBIER.
+
+Menger vam andern quades secht,
+De sülfst nicht goeds im boesem drecht.
+Wehr ydt dy vor dynn Kop geschreeuen,
+Wat du dyn dage heffst bedreeuen,
+Du scholdest dy vaken bedenckn,
+Einm andern syne Ehr nicht krenckn.
+
+
+
+GRIMWALD
+
+verberaturus Rusticum.
+
+Du loser Hautler, das maul halt.
+
+
+VOLAND.
+Slag nicht, sie komn: slag nicht Grimwald.
+
+
+SCHMECKEBIER
+
+ad Volandum.
+
+
+Myn goede Fründ, ick bidd gantz sehr,
+Welck ys doch vnse gnedig Heer
+Welck ys he doch? segt my ick bid.
+
+
+
+VOLAND
+
+subridens.
+
+Der ists der dort geht in der mitt.
+
+
+Redit putativus ille Princeps e Sacello, Rusticus ei vult exhibere libellum supplicem, quem accipit Cancellarius.
+
+
+
+
+WOLLRATH.
+
+Kom hin vmb eins auffn nachmittag
+Für die Cantzley: hörst was ich sag?
+
+
+
+SCHMECKEBIER.
+Heer geefft my hyr doch myn Affscheid.
+
+
+WOLRATH.
+Du soltn bekommen zu der zeit.
+
+
+
+
+
+
+
+
+3. Szene
+
+
+
+
+Scena III.
+
+Gebrich. Plumpart, ferens cophinum. Warner. Frater Antonius. Wilbalt.
+
+
+
+GEBRICH.
+
+Es klagen drüber sehr die leut,
+Das es sey tewr in Städten heut:
+Vnd ich muß auch bekennen zwar,
+Das tewrer wird von Jahr zu Jahr.
+Es habn aber selbst schult daran
+Etlich' Bürger: kompt ein Bawrman
+
+
+Bringend was feill, sey was es wil,
+Da kan er fördern nicht zu viel,
+Was er fürspricht mit einem wort,
+Das gebens ohngedungen forth:
+Warten fürm Thor, vnd auff den Strassn,
+Auffs marckt sie nichts hinkommen laßn.
+Reissn alls hinweg, wie aus dem Fewr,
+Vnd kan jhnen nichts sein zu tewr,
+Vnter deß leiden d' Armen noth,
+Wird jhnn entzogn also jhr brot.
+Ich hab daher auch müh vorwahr,
+Das ich versorg, durchs gantze Jahr,
+Meins Herren Küch, muß alls zweyfacht
+Bezahlen was feill wird gebracht.
+
+
+
+Videns Rusticum.
+
+
+Hör du: was tregst im korb so schwer?
+
+
+PLUMPART.
+Ick dreeg' nich voel myn leeue Heer.
+
+
+GEBRICH.
+
+Du leugst du schlimmer Bösewicht:
+Wem wilt es bringn? mirs balt bericht,
+Oder du solt an andern ort
+Mit mir wandern.
+
+
+
+PLUMPART.
+
+Hört doch ein wort:
+Bym Ficial ick habb thoschaffn.
+
+
+
+GEBRICH.
+Das wird außgehn vbr deinen Pfaffn.
+
+
+PLUMPART.
+Ick wold cm dith schock Eyr verehrn.
+
+
+GEBRICH.
+
+Du sollst sie lieber selbs verzehrn,
+Der gute Man weiß, das jhr Bawrn,
+Zum mehrerntheil seid böse laurn,
+Das jhr offtmahl ohne vrsach
+Vbr ewer Pastores bringt klag.
+
+
+
+PLUMPART.
+Ick wilt varsökn.
+
+
+GEBRICH.
+Sih da kompt er.
+
+
+PLUMPART.
+Einn goeden dach weerdige Heer.
+
+
+WARNER.
+Habt danck mein Freund, was wollet jhr?
+
+
+PLUMPART.
+
+Ick was am negermal ock hyr,
+Vnd klagd' auer vnsn Papen war:
+Dat best ick auerst do vorgath.
+
+
+Nu wold ick seggen mehr daervan:
+Idt ys yuw so ein selsam Man.
+Ick bring' yuw ein verehring kleen,
+Vnd bidd' im nahm der gantsen Meen,
+Gy willn doch doen dan basten flyth,
+Dat wy synr moegen warden quyth.
+
+
+
+WARNER.
+Behalt das dein, du grober knoll.
+
+
+GEBRICH.
+Sih du Flegel! ich sagt dirs woll.
+
+
+PLUMPART.
+Dan wy thovörn haddn, Heer Bandex.
+
+
+FRATER ANTONIUS.
+Der war ein rechter Narrifex.
+
+
+PLUMPART.
+
+He was yuw ein goed Heer vorwar,
+Hadd' he moegn leeuen lange Jahr.
+He was still, fraem, barffe vnd lind,
+Varthornd' sick nich mit einem kind.
+He was yuw van so goeden seedn,
+So Haeuisch in all synen Reedn.
+
+
+
+WARNER.
+
+Er hat die warheit nicht gesagt,
+Sonst hett ihr bald vbr jhn geklagt.
+
+
+
+PLUMPART.
+He was ein truw vprichtig Man.
+
+
+FRAU ANTONIUS
+
+ridens.
+
+Ja trew: bey der grossen Bierkann.
+
+
+PLUMPART.
+
+He was ein Man rechter Einfolt,
+In vnsem Dörp nemand tho stolt.
+Wen man en badt, so quam he dradt:
+Id was em nicht tho froe noch spadt.
+He kond' so häuisch körtwyl driuen
+In klaatzien mit vnsen Wyuen.
+Mit en tho snacken, vnd tho singn,
+Rechtschapn mit en heerum tho springn.
+Ho! ick habb' mit ehm mange nacht
+In Häglicheit thom ende bracht.
+He was so lydtsam vnd fründtück,
+Dat was em ock seht prafytlick:
+Wo voel heelt van em myne Lyß!
+He stund by allen Fruwn im pryß.
+Se dedn em mangen Schinckn verehrn.
+
+
+
+FRATER ANTONIUS.
+Solche Pastores habn sie gern.
+
+
+
+PLUMPART.
+
+Dan wy nu habbn, süth alltyd suer,
+Is slim, arg, streng, hart, irrig, stuer:
+Wil vns stedes voel refalmern,
+Auerst wy willn ehm Moritz lehrn:
+He schal tho vnsem Dörp' henuth,
+Wy wardn ehm süs wat pumpn syn' hut.
+
+
+
+WARNER.
+
+Vnter euch Bauren find man heut,
+Viel Gottloser vnd Frecher leut,
+So vmbgehn mit Abgötterey,
+Mit Zauberey vnd Wickerey:
+Sind treg zu Gottes wort vnd Tisch,
+Zu aller Büberey gar risch.
+Sagt der Pastor dauon ein wort,
+So wolt jhr jhm zu Leibe fort.
+Ewr etlich' schrecklich fluchen, schwern,
+Mit Diebstal vnd betrug sich nehrn.
+Etlich' des Festags fressen, sauffn.
+Sich hadern, zancken, schlagen, rauffn.
+Die meisten sind der Obrigkeit
+Von grund jhrs hertzen feind alzeit:
+Ihrem Pastori spot vnd hohn,
+Für trewe dienst' geben zu lohn.
+Beweisen jhm alle vntrew,
+Geben fürs Meßkorn Staub vnd Sprew.
+
+
+
+FRATER ANTONIUS.
+
+Sie halten vom Kuhirten mehr,
+Dan von einm guten Beichtvater.
+
+
+
+PLUMPART.
+De Kohard' deent vns alle daeg.
+
+
+WARNER.
+Ey das dich Rültzen ja Gott plag.
+
+
+PLUMPART.
+
+Wy koenen ahne vnsen schadn,
+Des Koharden mit nicht entradn:
+De Paep' ward vns nütt' seelden twar,
+Woldn syner woll entbehren gar.
+
+
+
+WARNER
+
+facie aversa et in cœlum elevata.
+
+
+Ach Gott! was bistu from vnd gütig,
+Geduldig, gnedig vnd Langmütig!
+Das solch' Gottlose Leut nicht straffst,
+In deinem Grim vnd Zorn wegraffst.
+
+
+
+GEBRICH
+
+pulsaturus Rusticum.
+
+Pack dich du Schelm: du loser Tropff.
+
+
+
+FRATER ANTONIUS.
+
+Man solt jhn nehmen bey dem Kopff:
+Der Gauch ist auff mein Ehr nicht werd,
+Das jhn soll tragen Gottes Erd.
+
+
+
+PLUMPART
+
+stringens pugionē.
+
+
+Ja: hadd' ick yuw buten ver mührn,
+Ick woldt mit yuw woll euenthürn:
+Gy scholden stoerten alle dree.
+
+
+
+Abit.
+
+
+
+
+GEBRICH.
+Geh das dir nimmer gut gesche.
+
+
+WARNER.
+Hilff Gott, was findt man grobe Sluntzn!
+
+
+FRATER ANTONIUS.
+Zu dörff hats itzt viel solcher Cuntzn.
+
+
+WARNER.
+Man muß zu Hoff' traun das berichtn.
+
+
+FRATER ANTONIUS.
+Derschweigen muß man das mit nichtn.
+
+
+WILBALT.
+
+Es lest Fürstlich Durchleuchtigkeit,
+Anmelden euch Herren allbeid,
+Ihr solt zu Tisch komn fort mit mir.
+
+
+
+WARNER.
+Wir wollen alsbald folgen dir.
+
+
+
+
+
+
+
+
+3. Akt [1]
+
+
+
+
+
+1. Szene
+
+
+
+
+Scena I.
+
+NASCHART.
+
+Ich muß mich auch machen hinauff:
+Was hilffst das ich die Stadt durchlauff
+Schmorotzend an der Bürger Tisch?
+Die kleinen Teich gebn weinig Fisch.
+Man halte sich zu grossen Herrn,
+So wird man auch gehaltn in Ehrn.
+Billig trit man mit füßn den Geck,
+Der sich mutwillig legt in dreck.
+Ich bin auch traun ein solcher Man
+Des man z' Hoff nicht entrathen kan.
+Bin von Hoffdienern woll gelittn,
+Kan mich fein schickn in jhre sittn.
+Künt ich das nicht, wer ich verdorbn,
+Für vielen Jahrn Hungers gestorbn.
+Ich nehm mich keines Tadlens an,
+Bin freundlich kegen jederman.
+Lob' alles was sie thun vnd sagn:
+Sie könn das Meistern nicht vertragn.
+Warheit setz ich auch vber seit,
+Sie gilt doch nichts zu dieser zeit.
+Bißweil thut mirs im hertzen weh,
+Wann ich vnbillichs hör vnd seh.
+Den etlich' machens leiden grob,
+Das einem gar eckelt darob:
+Doch laß ich alles hin passiern,
+Vnd thu dazu jhnn noch hofirn:
+Denn wer sich itzund wil bereichn,
+Der muß warlich den Fuchsswantz streichn.
+
+
+
+
+
+
+
+
+
+2. Szene
+
+
+
+
+Scena II.
+
+Gebrich. Degenwerth. Schirmfried. Reinart.
+
+
+
+GEBRICH.
+
+Wie stehts droben? ich hoffe ja,
+Das man nicht mangel spüre da.
+
+
+
+
+DEGENWERTH.
+
+Mangel ist da noch nicht, Gott lob,
+Aber das wir einm Flegel grob
+Auffwarten müssen thut vns weh.
+
+
+
+SCHIRMFRIED.
+Ich heut nicht wider hinauff geh.
+
+
+GEBRICH.
+Weis nicht wie ich das soll verstehn.
+
+
+DEGENWERTH.
+Ey: solts einm nicht zu hertzen gehn?
+
+
+GEBRICH.
+Was hat man euch zu leid gethan?
+
+
+SCHIRMFRIED.
+
+Ein loser Kerl sitzt oben an
+Fürstlicher Taffl, den solln wir ehrn
+An stat vnsers gnedigen Herrn.
+
+
+
+DEGENWERTH.
+Ich zause jhm noch heut sein fell.
+
+
+SCHIRMFRIED.
+
+Wehr er itzt hie der grob' Esell,
+Ich wolt mit jhm also vmbhaltn,
+Das seiner solt alls vnglück waltn.
+
+
+
+GEBRICH.
+Ich glaub jhr wolt vexiren mich.
+
+
+SCHIRMFRIED.
+So ists wie ich bericht warlich.
+
+
+GEBRICH.
+
+Der löblich Fürst mit reiffem rath,
+Diß also selbst verordnet hat.
+Wie würd man sonsten den Kerl forth
+Setzen zu tisch an höhsten orth?
+Es steckt traun dahinter etwas.
+
+
+
+DEGENWERTH.
+Herr Küchenmeister meint jhr das?
+
+
+GEBRICH.
+
+Ja trun: man wirds noch sehen heut,
+Was es in sich hab vnd bedeut.
+
+
+
+REINART.
+
+Ihr Junckern, habt in acht ewr pflicht,
+Was euch gebürt mit fleiß verricht,
+Das nicht vnser gnediger Herr,
+Sich vber euch erzürne sehr.
+
+
+
+DEGENWERTH.
+
+Herr Marrschall, wir dienn allzeit gern
+Vnserm gnedigen Fürstn vnd Herrn:
+Aber dem losen Bösewicht
+Sein wir zu dienen nicht verpflicht.
+
+
+
+REINART.
+
+Wisset jhr doch, das Fürstlich Gnad,
+Vns auffzuwartn befohlen hat:
+
+
+Darumb, rath ich, seht euch woll für,
+Vnd thu ein yeder sein gebür.
+
+
+
+Sequuntur Marschallum in Arcem.
+
+
+
+
+
+
+
+
+
+3. Szene
+
+
+
+
+Scena III.
+
+Frater Antonius. Trine. Warner.
+
+
+
+FRATER ANTONIUS
+
+semipotus ex Aula rediens.
+
+
+Ich hab einn halben rausch vorwar:
+Man wolt zu tod mich haben gar,
+All' Becher kamn zu mir herumb,
+In die leng, in die quer vnd krümb.
+Für andern war einer am Tisch,
+Mit Latein sehr vorschnell vnd risch,
+Der wolt viel disputierens machn,
+Bracht herfür wunderbare sachn,
+Fing an hoch zu Philosophirn,
+Macht Argument: ich solts' solvirn,
+Dabey wolt er mein kunst bald spürn.
+Ja: wolt mich bey der naß vmbführn,
+Mich haben für seinen Stockthorn,
+Wie etlich' spieln mit jhrn Pastorn,
+Die offtmahl müssn vom tisch entlauffn,
+Oder sich gar zu Narren sauffn.
+Ich fast ein Christallinen glaß,
+(Es war darein ein Hypocras:)
+Vnd hielt zwey quartier ohngefehr,
+Brachts jhm gantz zu, sprach: Edler Heer
+Lösst mir den Syllogismum auff:
+Da gab er alßbalt bessern kauff.
+Ander empfieng ich auch dermassn,
+Das sie mich müsten traben lassn.
+Doch gedacht' ich, weil jhr war zu viel,
+Auffhören wer auch gut auffm spiell:
+Machet' herunter heimlich mich,
+Ließ den official im stich.
+
+
+
+TRINE.
+
+Halp Godt! wat ys de list nu groeth!
+Ein Minsche möcht sick wünschen doet.
+
+
+
+
+FRATER ANTONIUS.
+
+Wen hör ich da? schaw, lieber schaw!
+Es ist die Schültzin von Schönaw.
+
+
+
+TRINE.
+
+Men kan so naw sick höden nicht,
+Men wart bedragen: mit der wicht,
+Mit Maet, mit Ellen, mit der Wahr,
+Wo ick mit schaden söliks erfahr.
+
+
+
+FRATER ANTONIUS.
+
+Ich muß treten an diesen ort,
+Anhören was sie fürt für wort.
+
+
+
+TRINE.
+
+Ick kame vaken in de Stadt,
+Ick bringe eddet hale wat,
+Kam nümmer vnvaxeirt henuth:
+Truw ys hüden ein seltsam kruth.
+
+
+
+FRATER ANTONIUS.
+
+Warlich das Weib nicht vnrecht sagt,
+Hievber yederman itzt klagt.
+
+
+
+TRINE.
+
+De Gleerden sind ein deel ock arg,
+Ein deel listig, ein deel sehr karg.
+
+
+
+FRATER ANTONIUS.
+
+Das Weibs triffts, auff mein Seel, gar ebn:
+Wir nehmen lieber, dan wir gebn.
+
+
+
+TRINE.
+
+An mynm Procater spoer ick dat:
+Dem bring ick alle Weeken wat,
+So Eier, Botter, Honnig, Was,
+So Eppel, Beeren, Erffte, Flaß,
+So Zeegen, Koh, efft Schapcskees,
+So ein paar Ent', so ein par Goeß,
+So ein par Hönr, so ein syd Speck,
+He nimpt ydt all: ys truwn neen Geck.
+
+
+
+FRATER ANTONIUS.
+
+Der sack soll sein bereidt, sagt man,
+Wenn man einm beut das Fercklein an.
+
+
+
+TRINE.
+
+Ick deed' gistrn aff ein schön fett Kalff,
+Dat bracht ick em ock hüden halff.
+Fragd' en: wo ißt vm myne sakn?
+Will gy nicht drad' ein ende makn.
+He sprack: kamt morgen wadder heer,
+Vnd bringt ein daler effte veer,
+Wy möthn den Affscheidt lösen in.
+Ick seed': dat doeth wyl ick hyr bin,
+Morgen kan ick nicht wadder kamn.
+Habbe twe gülden mitgenahmn,
+
+
+Ward' gy dartho mehr leggen wath,
+Wil ick tho danck betalen dath.
+He schweeg stock still, vnd sach my an:
+Do kam ein stadtlick Eddelman,
+Den föhrd' he in syn' dörnttze fort,
+Leth my wechgahn sunder antwort.
+
+
+
+FRATER ANTONIUS.
+
+Nicht lenger mich enthalten kan,
+Wil gehen vnd sie sprechen an:
+Ho, wilkommen Schültzin wilkommn,
+Hab' euch lang nicht in arm genommn.
+
+
+
+Interim eam amplectitur.
+
+
+
+
+TRINE
+
+ridens.
+
+
+Ha, ha: helsen vnd nicht genetn,
+Heer dat plecht einm sehr tho vardretn.
+
+
+
+FRATER ANTONIUS.
+Sagt vber wen klagt jhr so sehr?
+
+
+TRINE.
+Schold' ick nicht klagn weerdige Heer?
+
+
+FRATER ANTONIUS.
+Kan man euch helffen nicht womit?
+
+
+TRINE.
+O Heer darum ick flytig bid.
+
+
+FRATER ANTONIUS.
+Was ist ewr anliegen, sagt an.
+
+
+TRINE.
+
+Gy wethen dat mit mynem Man
+Ick rechte nu int veerde Jahr.
+
+
+
+FRATER ANTONIUS.
+Ich meint das wehr zum ende gar.
+
+
+TRINE.
+
+O neen leeffe Heer, myn vörsprack,
+De hölt my lange vp de saeck:
+Ick kan thom ende kamen nicht.
+
+
+
+FRATER ANTONIUS.
+Vieleicht habt jhn vnrecht bericht?
+
+
+TRINE.
+
+Neen Heer, ick hebb' berichtet recht,
+Ick weet wol wat dat sprickwort secht:
+Wol synem Prester vnrecht bicht,
+Vnd synem Artzt nich recht bericht,
+Ock vnwaer secht synm Advocat,
+De bringt sick sülfst in noth vnd schad.
+
+
+
+FRATER ANTONIUS.
+
+Hört Schültzin was ich sagen will,
+Lassts bey euch bleiben in der still:
+Stellt ewer sach in meine hend,
+Ich will sie bringn zum guten end.
+
+
+
+
+TRINE.
+
+Ja Heer das könne gy wol doen,
+Gott ward darvoer geeuen dat lohn.
+
+
+
+FRATER ANTONIUS.
+
+Wofern jhr wollet sein danckbar:
+Sonst rechtet jhr noch woll ein Jahr.
+
+
+
+TRINE.
+
+Heer Tönnes Heer, wat gy begeern,
+Dat wil ick geuen hartlick gern.
+
+
+
+FRATER ANTONIUS.
+
+Ihr habt mir warlich die zwey Jahr,
+Da ich ewer Beichtvater war,
+Erzeigt viel freundtschafft lieb vnd ehr,
+Darumb kein Gelt von euch begehr.
+Ihr wisst auch das kein Ordensman,
+Muß Gelt anrürn, vnd eigens han,
+Bringt mir einn alten Schinckn herein,
+Damit will ich zu frieden sein.
+
+
+
+TRINE.
+
+Dat wil ick doen myn leefe Heer,
+Begehre gy ock süß wat mehr?
+
+
+
+FRATER ANTONIUS.
+
+Ich werd müssen in kurtzen tagn,
+Verreisen nach dem Brüdershagn:
+Wo ich dann bey euch bleiben soll,
+So klopffet mir das bette wol.
+Ich hab wol eh bey euch gelegn:
+Zur Herberg.
+
+
+
+TRINE
+
+ridens.
+
+
+Ja ick will tho deegn,
+Juw Heer dat bedd' so kloppn vnd schlagn:
+Idt schal yuw in dem hartn behagn.
+
+
+
+FRATER ANTONIUS.
+Aber ewr Alt wird darumb murrn.
+
+
+TRINE.
+
+O Heer ick achte nicht syn gnurrn:
+Kämet gy men in Gades nahm,
+Gy sind my alletydt wilkamn.
+Dat kan my jo nemand verkehrn,
+Gads dener schal men leefn vnd ehrn.
+
+
+
+FRATER ANTONIUS.
+
+Dafür wird euch in jennem lebn,
+Der Herr einen grossen lohn gebn:
+Vnd ich wil drumb bitten allzeit.
+
+
+
+Videt Warnerum venientem.
+
+
+Er Warner kömpt: trett vberseit.
+
+
+
+WARNER.
+O Frater! Helt man so Horas?
+
+
+FRATER ANTONIUS.
+
+Hic perbreves feci moras,
+Ignosce, quæso, mi Pater.
+
+
+
+WARNERUS.
+
+Dominicus der heilg' Vater,
+Lehret euch warlich also nicht.
+
+
+
+FRATER ANTONIUS.
+Er, Senior, gebt euch zu fried.
+
+
+WARNER.
+
+Ihr sollt kein Weibsbildt auff der gassn
+Anschawen: fliehen, meiden, haßn,
+Alls was irgent zu einer Sünd
+Anlaß vnd vrsach geben künt:
+Nun haltet jhr hie station,
+Weiß nicht mit was loser Person.
+
+
+
+TRINE
+
+submisse.
+
+
+Ey, ey: nu moth de goede Heer,
+Sick minenthaluen lyden sehr.
+
+
+
+FRATER ANTONIUS.
+
+Erwürdigr Vater, zürnet nicht,
+Hört doch zuvohr was ich bericht.
+
+
+
+WARNER.
+
+Kompt mit mir ein: vns stehts nicht an,
+Das wir hie viel parlierens han.
+
+
+
+Frater Antonius. Warnero non vidente Rusticae innuit. Rustica eum à tergo intrò sequitur.
+
+
+
+
+
+
+
+
+
+4. Szene
+
+
+
+
+Scena IIII.
+
+Ludwig. Christman. Wolffgang. Voland.
+
+
+
+LUDWIG.
+Christmanne, kompt zu vns was nehr.
+
+
+CHRISTMAN.
+Mein dienst' bereidt, gnediger Herr.
+
+
+LUDWIG.
+Der kerll droben wird woll tractiert.
+
+
+CHRISTMAN.
+Ja warlich mehr dann jhm gebürt.
+
+
+LUDWIG.
+
+Was vnser Herr Vetter mein' hiemit
+Können wir zwar noch wissen nicht.
+
+
+
+CHRISTMAN.
+Man setzt am Tisch jhm tapffer zu.
+
+
+
+LUDWIG.
+
+Der Tölpel seufft auch wie ein Kuh.
+Wird bald widrumb werden zum Schwein,
+Vnd legen sich in dreck hinein.
+
+
+
+WOLFFGANG.
+
+Nuh doanck ech Gott mett hohem fleiß
+Does ech glöcklich vollbracht min Reiß:
+Vnd wonsche auch von hertzen grond,
+Doas min Hieren ech find gesond.
+
+
+
+LUDWIG.
+
+Ist das nicht vnser Bott Wolffgang?
+Der Bub ist außgewesen lang.
+
+
+
+VOLAND.
+Es ists gnediger Fürst vnd Herr.
+
+
+WOLFFGANG.
+
+Mech verlangt vß der massen sehr,
+Woas mine Griete dach werd sage,
+Doas ech einn Fäderbusch nu trage,
+Dozuh einn blixenblohen kragn,
+Gott, Gott! wuh werd öhr doas behagn,
+Does ech hae mynen graen barth
+Lah stutzen nach der nühwen arth.
+Mech hoat doas hertzne Wyb vorwahr
+Gesehen nit im hoalben Jahr.
+Wuh höbsch werd sie sech zu mir gselln!
+Wuh frondlich kägen mech sich stelln!
+Sie werd my pfleg mit droanck vnd spiß,
+Doas weiß ech wull, Forstlicher wiß.
+Ech will auch gän sie doanckbor syn,
+Sie nehmen vmb den kopff suh fyn,
+Sie thuet es warlich gerne auch.
+
+
+
+LUDWIG
+
+ridens.
+
+Voland ruff her den alten Gauch.
+
+
+VOLAND.
+Wolffgang, Wolffgang hört, stehet doch.
+
+
+WOLFFGANG.
+
+Wer rüfft mech dann do hingen noch?
+Woas hästu voel for ein geschrey?
+Woat ehs es? süh; syd jhrs Loackey?
+
+
+
+VOLAND.
+Kompt her zu meinem Herren balt.
+
+
+LUDWIG.
+
+Sag Bott, was hats für ein gestalt?
+Du hest gethan ein langsam reiß,
+Kömpst itzt erst wieder von Pareiß?
+
+
+
+WOLFFGANG.
+
+Min Hier, ech bin von hertzen fruo,
+Doas ech vch träffe den alsuo:
+
+
+Will auch etzund vff ewer froagn,
+Met kurtz die reine warheit soagn.
+Ben vßgewesn ohn mynen dranck.
+So loang, loag soeben wochen kranck
+Zuh Poryß, zu Ruahn auch vier:
+Doas es alsuh, glöbt mirs myn Hierr.
+
+
+
+LUDWIG.
+
+Wie leugst doch so du alter Geck?
+Pack dich für vnsern augen wegk.
+
+
+
+CHRISTMAN.
+
+Ewr Gnad woll darumb zürnen nicht,
+Vielleicht künts sein wie er bericht:
+Doch soll man erst die Brieff beschawn,
+Den Boten ist sonst nicht zu trawn,
+Etliche liegen schrecklich ding.
+
+
+
+LUDWIG.
+Die lügen halten sie gering.
+
+
+WOLFFGANG
+
+secum.
+
+
+Hoh: does es truwn myn best zihrgeldt,
+Dometh wangrech fyn dörch die Welt.
+
+
+
+LUDWIG.
+
+Nim du die Brieff' von jhm Voland,
+Vnd folg auff vnser Gmach zu hand.
+
+
+
+Abit cum Secretario.
+
+
+
+
+WOLFFGANG
+
+promens literas ex sacciperio.
+
+Wuh wurd dach suh schällgk vnser Hier?
+
+
+VOLAND.
+Warumb sagt nicht die warheit jhr?
+
+
+WOLFFGANG.
+Die hae ech vff myn Siel geseith.
+
+
+VOLAND.
+Wollan, so hat es gutn bescheid.
+
+
+WOLFFGANG.
+
+Heh sall nach dröbber selbes lache,
+Doas ech suh wuhll vörricht syn sache.
+
+
+
+
+
+
+
+
+
+5. Szene
+
+
+
+
+Scena V.
+
+Schirmfried. Leuthülff. Degenwerth. Künprecht. Grimwalt. Eisenbart.
+
+
+
+SCHIRMFRIED.
+
+Wie kompts Herr Doctor, das jhr heut
+Vns so verlassen?
+
+
+
+
+LEUTHÜLFF.
+
+Ihr wißt beid,
+Mein' liebe Junckern, das ich hab
+Zu trincken durchaus keine gab.
+
+
+
+SCHIRMFRIED.
+Ihr wollet leben Medicè.
+
+
+DEGENWERTH.
+Es mag wol hiessen Miserè.
+
+
+SCHIRMFRIED.
+Auch eben das ich sagen wolt.
+
+
+LEUTHÜLFF.
+
+Ein gsunder leib vbertrifft Golt,
+Vnd ist besser als grosses gut,
+Wer jhn hat halt jhn woll in hut.
+
+
+
+SCHIRMFRIED.
+Der Kerll droben kan tapffer sauffn.
+
+
+LEUTHÜLFF.
+Sagt doch wie ist es abgelauffn?
+
+
+DEGENWERTH.
+
+Das den Flegel der Hencker blend,
+Wir habn mit jhm gebracht zum end
+Den gantzen tag bis an dieß' stund:
+Nun ist der Geck ja einmahl rund.
+
+
+
+LEUTHÜLFF.
+Erzehlt mir die Comœdiam.
+
+
+DEGENWERTH.
+
+Ich wil es fassen kurtz zusam:
+Da er des morgens frü erwacht,
+Ward jhm ein stadtlichs kleid gebracht,
+Vnd ward auch sonst Fürstlich geziert,
+Wie sichs auffs aller best gebürt,
+Mit Ringen, Ketten, Dolch vnd Courd.
+Darnach ward er zur Meß geführt,
+Da gieng es zu solenniter:
+In seinem schmuck kam Er Warner,
+Gleich wie der ander Aoron,
+Gezieret aus der massen schon,
+Bracht jhm auff einen Sammit tuch
+Zu küssn das Euangeli Buch.
+Antonius der Münch geschwind
+That einn Sermon der war nicht lind.
+Als dis also vollendet war,
+Führt man zu Tisch jhn prächtig gar.
+Da war alles köstlich bereit,
+Vnd hielt er ein' Fürstlich' mahlzeit.
+Darnach spielt er im bredt ein' stund,
+Vnd mit der Chart, so gut ers kunt.
+
+
+Hierauff führten wir jhn hinaus
+In Garten hinters Fürstlich Haus.
+Darnach ins Leporarium,
+Entlich zu Tisch auffs Schloß widrum,
+Da es abermahl woll zuging:
+Er aß vnd tranck, war guter ding,
+Biß das er schlaffend nidersanck,
+Vnd schnarckend fiel vnter ein' banck.
+
+
+
+SCHIRMFRIED.
+
+Da liegt er mit seinm Fürstenthumb
+Wie ein zertreten Wiesenblum.
+
+
+
+LEUTHÜLFF
+
+quasi abiturus.
+
+
+Sein Frewd, Macht, Pracht vnd Herligkeit
+Geblühet hat ein kurtze zeit.
+
+
+
+SCHIRMFRIED.
+Herr Doctor, hört es ferner an.
+
+
+DEGENWERTH.
+
+Fürstlich Gnad hat befehl gethan,
+Man soll widrumb sein vorigs kleid
+Ihm anlegen, in still, ohn leid,
+Hintragen an dieselbe stat,
+Da man jhn gestern funden hat.
+
+
+
+SCHIRMFRIED.
+Sih! da komn sie schon mit jhm her.
+
+
+Veniunt Satellites Ianum vino obrutum, in somnum altissimum collapsum, vestimentisque prioribus 
+
+
+indutum, in eundem locum reportantes, quo hesterno vespere repertus fuerat.
+
+
+
+
+KÜNPRECHT.
+Wie ist das biest so leiden schwer?
+
+
+GRIMWALD.
+
+Wir wolln jhn werffn in Bach hinein,
+Hat er gesoffn Claret vnd Wein,
+So mag er sauffen wasser zu,
+Vnd fahren so zur ewign ruh.
+
+
+
+SCHIRMFRIED.
+
+Ihr Gsellen, seht euch für gar ebn:
+Thut nicht nach ewrem vnheil strebn,
+Last euch nicht hören solche wort.
+
+
+
+EISENBART.
+Ey Juncker wir thuns ja nicht fort.
+
+
+DEGENWERTH.
+
+So fasset all sechs zugleich an,
+Ihr mügt ja tragen einen Man.
+
+
+
+
+
+
+
+
+
+5. Akt
+
+
+
+
+
+1. Szene
+
+
+
+
+Scena I.
+
+Güldener. Harman.
+
+
+
+GÜLDENER.
+
+Wie bringt doch heut, o Gott mein Herr,
+Die Haußhaltung so groß beschwer!
+Sich kaum ein armer Handwercks Man,
+Mit Weib vnd Kind erhecken kan.
+Des außgebens ist ohne maß,
+Im muß man haben diß, balt das:
+Brot, Bier, Fleisch, Fisch, Käß, butter, saltz,
+Holtz, Kolen, Speck, Kraut, Wurtz vnd smaltz
+Wer kans so eben rechnen aus,
+Was man ein Jahr muß habn ins haus?
+Mus stets die hand in Beutel han,
+Wunder das mans außhalten kan.
+Nu: Gott verlest die seinen nicht,
+Sein' hülff man teglich spürt vnd sicht.
+
+
+
+HERMAN.
+Wohin so frü? nehmt mich doch mit.
+
+
+GÜLDENER.
+
+Warlich Nachbar euch sah ich nit:
+Kompt, wolln sehn was der Baur gebracht.
+
+
+
+
+
+
+
+
+
+2. Szene
+
+
+
+
+Scena II.
+
+Leutrut. Harman. Güldener. Gyssbert. Ian. Joanniscus. Leutrudula.
+
+
+
+LEUTRUT
+
+lacrymans.
+
+
+Och, och! mir sind diese zwo nacht,
+Geworden eines Jahres lang.
+Wie ist mir doch so angst vnd bang?
+Ich weis die leute werden sagn,
+Ich hab' jhn zu Todt lassen schlagn,
+Vnd heimlich vberseit gebracht.
+
+
+
+HARMAN.
+Was ists Nachbarin das jhr klagt?
+
+
+
+LEUTRUT.
+
+Solt ich nicht klagn? ich armes Weib:
+Ach mein' Kinder! mein junges leib!
+
+
+
+HERMAN.
+Ich mücht gern wissn was es mag sein.
+
+
+LEUTRUT.
+
+Mein Ian bringt mich in diese pein:
+Ging am Sontag nach der mahlzeit
+Außm haus, ich fragt, wohin? nicht weit,
+Sagt er, ich wil balt widerkommn.
+Hab jhn aber noch nicht vernommn:
+Weiß nicht was jhm mag sein geschehn,
+Habt jhr nicht irgens jhn gesehn?
+
+
+
+Güldener et Harman simul.
+
+
+Nein traun.
+
+
+GISSBERT.
+
+Nachbarin weinet nicht;
+Seht ewer Man, seht wie er liegt?
+
+
+
+LEUTRUT
+
+accedens maritum.
+
+
+Sagt doch worumb, mein lieber Ian,
+Habt jhr mir das zu leid gethan?
+
+
+
+IAN
+
+evigilans et surgens.
+
+Was ists?
+
+
+LEUTRUT.
+
+Das jhr aus ewerm hauß
+Zwo nachte seid gewesen aus.
+
+
+
+IAN.
+Leug das der Ritte dich geh an.
+
+
+LEUTRUT.
+
+Ich liege nicht mein lieber Ian
+Ihr seid gewesen aus zwo nacht,
+Schier hett' ich mich vmbs leben bracht.
+
+
+
+IAN
+
+quasi eam verberaturus.
+
+
+Halts maul ich sag,
+Dich rührt die plag,
+
+
+
+GISSBERT.
+Nachbar, seid nicht ein hastig Man.
+
+
+IAN.
+
+Sie solt mich vngenarret lan:
+Sagt ich sey außgewesn zwo nacht.
+
+
+
+GÜLDENER.
+Sie hatts zuvohr vns auch geklagt.
+
+
+IAN.
+Sie leugts in jhren hals henein.
+
+
+LEUTRUT.
+Wollan es mag gelogen sein.
+
+
+JOANNISCUS.
+
+Vater, wo habt jhr gschlaffen heint?
+Wir habn vmb euch so sehr geweint.
+
+
+
+
+LEUTRUDULA.
+
+Vater ich kans nicht vnterlassn,
+Muß euch eins vmb den halse fassn.
+
+
+
+GYSSBERT.
+Habt jhr dann hie gehaltn ewr ruh?
+
+
+IAN.
+
+Liebe Nachbaren hört mir zu:
+Gestern gieng ich aufm nachmittag.
+
+
+
+LEUTRUT.
+Vorgestern wars.
+
+
+IAN.
+
+Hör was ich sag:
+Kam hin auffs marckt, traff d' vngefehr an
+Von Antwerpn einen gutn Man,
+Mit dem ich in meinn jungen Jahrn
+Zu Land vnd Wassr viel meil gefahrn:
+Der nam mich mit sich in Stadtkellr,
+Ließ zapffen Wein vnd Muscatellr
+Macht meinen Ian so satt, so trund,
+Das er die trepff kaum finden kunt
+Doch ging ich hin ohn strauchln vnd falln,
+Biß das ich kam hinter Sanct Galln.
+
+
+
+HARMAN.
+An Kirchhoff dort, bey den Fischbenckn?
+
+
+IAN.
+
+Ja, da man thut den Brantwein schenckn:
+Da kamn zween Kerll, zween vngenantn,
+Doch sinds meine Freund' vnd bekantn,
+Ließen mir nach schreiend': halt, halt,
+Schlepten mich in Kretschmer mit gwalt,
+Soffen mir zu als werens' toll:
+Ich ward so aus der massen voll
+Das diese nacht ich hie allein
+Hab glegen im dreck wie ein Schwein.
+
+
+
+GÜLDENER.
+Es ist woll eh so viel geschehn.
+
+
+LEUTRUDULA.
+Vater laßt vns nach hause gehn.
+
+
+IAN.
+
+Ich muß zuuohr erzehln etwas:
+Ey meine Nachbarn hört doch das.
+Hab' heint gehabt einn seltzam traum,
+Ich fürcht' jhr werdt mirs glauben kaum.
+Doch weiß noch nicht zu dieser zeit,
+Ob mirs widerfahrn in warheit,
+Odr obs nur hat getreumet mir:
+Für warheit künt ichs halten schier,
+So eigentlich noch alles weis
+
+
+Als hett' ichs auffgeschriebn mit fleiß.
+Da man doch sonst nächtlich gesicht
+So eben kan behalten nicht.
+
+
+
+GYSSBERT.
+Nachbar, auff Treum kan man nicht bawn
+
+
+GÜLDENER.
+
+Treum kan man nicht gleuben noch trawn:
+Bringen den Menschen balt in Frewd,
+Balt in gross' Angst vnd Trawrigkeit,
+Wann man erwacht ists Phantasey,
+Betrug vnd eitel Hauteley.
+
+
+
+IAN.
+
+Itzt seh ichs an mir selber woll,
+Das man mit nicht jhnn gleuben soll:
+Mir treumt ich wehr ein Landesherr,
+Nun bin ich ein armer Betler.
+Mir treumt ich leg' im Himmelbett,
+Dazu ein Fürstlichs Hembd an hett:
+Nun seh ich das hie im Rinnstein,
+Mein Bett gewessn der Koht vnrein.
+Mir treumt ich wer Fürstlich staffirt,
+Mein' kleider wern mit Golt bordirt,
+Mit Golt beschlagn Swert vnd Poignard,
+In Perlen gefast mein Plumard.
+Von Golt trüg' ich Ketten vnd Ring,
+Vnd wie ein Fürst zur Meß hinging.
+Nun fehlt es vmb einn Bawrenschrit.
+
+
+
+Vicinos abiturientes revocat.
+
+
+
+Nachbarn hörts doch zum end ich bitt.
+Mich daucht ich hielt Fürstlich Bancket:
+Man trug mich auff das best Wiltpret.
+Herrnbrot, Pasteten, Vogel, Fisch,
+Vnd was mehr ghört aufm Fürsten Tisch:
+Wein, Lautertranck, Meth, Malvasier,
+Englisch, vnd ander' frembde bier.
+Das Trinckgeschir, beid groß vnd klein,
+Die kannen draus man gos den Wein,
+Teller vnd Schüssel allzumahl,
+Warn von Silber: im gantzen Saal
+War aus gezieret vnd bereit
+Fürstlich zur Ehr vnd Fröligkeit.
+Es war da ein' gut' Cantorey,
+Vnd Instrument' gar mangerley:
+Posaunen, Pfeiffen, Lauten, Geign,
+Krumbhörner, Zincken vnd schalmeign.
+
+
+Das ich von andern sage nicht,
+So mir zur Ehr ward angericht:
+Mit zierlich tantzen, künstlich springn,
+Mit artlich fechten, mänlich ringn.
+Der Diener war ein' grosse schar,
+Die meiner person nahmen war,
+In Seide vnd Sammit wol gekleidt.
+Granen, Ritter vnd Edelleut
+Stunden fürm Tisch, vnd sonst vmbher,
+Thaten mir all' Fürstliche ehr.
+Ich spielt im Bredt vnd mit der Chart,
+Gewan viel Cronn in kurtzer farth.
+In summ': ich lebt' vnd schwebt' in frewd,
+In ehr vnd grosser Herrligkeit,
+In fried vnd ruh, in glück zugleich,
+Als wer ich in dem Himelreich,
+Nuh seh ich wie ich bin betrogn,
+Vnd das mein Traum mir fürgelogn.
+
+
+
+HARMAN.
+
+Ey: Treum sind Treum, vnd bleiben Treum
+Muß gehn, das nicht das mein verseum.
+
+
+
+Ridentes dilabuntur.
+
+
+
+
+
+
+
+
+
+3. Szene
+
+
+
+
+Scena III.
+
+Frater Antonius. Lambertus.
+
+
+
+FRATER ANTONIUS.
+
+Sit pax tibi Lamberte, Ego
+Tua salute gaudeo,
+Et plurimum lætor, tuæ
+Si res adhuc sunt integræ.
+
+
+
+LAMBERTUS.
+
+Ah: res meæ sunt pristino,
+Mi Frater Antoni, loco:
+Multis premor molestijs,
+Et versor in quàm maximis
+Angustijs tu, si potes,
+Fratrem tuum quæso juves.
+
+
+
+FRATER ANTONIUS.
+
+Lamberte, Frater optime,
+Meo juvare sanquine,
+Si te queo, citissimè
+
+
+Hoc fiet et promptissimè.
+Dicas rogo quid te mali
+Vexet, taces? Dicas mihi.
+
+
+
+LAMBERTUS.
+Bruder, mich drücket groß' Armuth.
+
+
+FRATER ANTONIUS.
+Ich meint jhr hett ein' Pfarr sehr gut?
+
+
+LAMBERTUS.
+
+Die Pfar hat zwar reiches einkommn,
+Das best abr ist davon genommn.
+
+
+
+FRATER ANTONIUS.
+Ey lieber wer hat das gethon?
+
+
+LAMBERTUS.
+
+Mags schier nicht sagen: mein Patron.
+Ich hab die schaln, er hat die kern,
+Muß es klagn meinm gnedigen Herrn.
+
+
+
+FRATER ANTONIUS.
+
+O: heisset das Patronum sein,
+Geistliche güter ziehen ein?
+Was Gott dem Herrn einmahl verehrt,
+Solt billich bleiben vnuerkehrt.
+
+
+
+LAMBERTUS.
+
+Vmb vnsers Herren Christi Kleid,
+Wirfit man das loß zu aller zeit.
+
+
+
+FRATER ANTONIUS.
+
+Er wird solchs straffen: mir ists leid
+Vmb euch, ewer Auffrichtigkeit
+Ist mir von vielen Jahrn bekandt.
+Sonst findt man etliche auffm Land
+Die haben jhr tegliches Brot,
+Doch pudeln vnd sudeln ohn not:
+Wolln lieber Pferd' vnd Ochsen treibn,
+Dann Beten, Singen, Lesen, schreibn.
+Will man mit jhnen conversirn,
+So mus man nicht viel disputirn,
+Nicht reden Griechisch vnd Latein,
+Man wird sonst nicht willkommen sein.
+
+
+
+LAMBERTUS.
+
+Bey euch ists auch o Bruder mein
+Nicht alles Golt was glentzet fein.
+Man findt so balt einn Glossen Nagr,
+Kahlmeuser vnd Scharteken tragr,
+In der Clöster vnd Städte maurn,
+Als auff den Dörffern bey den Bawrn.
+
+
+
+FRATER ANTONIUS.
+
+Loquare Frater parciùs,
+Et paululum modestiùs:
+Wann jhr im feld dort herumb laufft,
+
+
+Odr mit den Bawrn im Krug euch raufft:
+Sitzen wir still vnd speculirn,
+Vnd in Divinis nur studirn.
+
+
+
+LAMBERTUS.
+
+Bißweilen ist das Bibere,
+Euch lieber als das Scribere:
+Von Tick Tack, vnd vom Frawenspiel,
+Haltet jhr Fratres auch sehr viel.
+
+
+
+FRATER ANTONIUS.
+
+Ich bin ein Mensch, bekenn das mein:
+Vnser keiner ist Engelrein.
+
+
+
+LAMBERTUS.
+
+Vns wirds traun sawr genug auffm Land:
+Wir müßn arbeitn nicht haltn für schand,
+Das Viehe füttern, mist auffladn.
+
+
+
+FRATER ANTONIUS.
+
+Das kan niemand an ehren schadn:
+Feldbaw vnd Vihzucht, wie jhr wisst,
+Die best vnd eltest narung ist.
+Man list von vielen Patriarchn,
+Von Keysern, Könign vnd Monarchn,
+Auch von anderen hohen Leutn,
+So habn gelebt in alten zeitn,
+Das sie im Feldbaw vnd Viehzucht,
+Ihr narung vnd jhr lust gesucht.
+
+
+
+LAMBERTUS.
+
+Wann ich nicht Kuh vnd Ziegen hett,
+Müst offtmahln hungrich gehn zu bett.
+
+
+
+FRATER ANTONIUS.
+
+Man solt' abr den Pastoribus
+Vermachen solche Reditus,
+Das sie ohn müh, ohn sorg, mit frewd
+Zu jhrem Ampt stets wern bereit:
+Das sie nicht dürften schleppen, tragn,
+Mit vielem Gsind vnd Vieh sich plagn.
+
+
+
+LAMBERTUS.
+
+Ja Bruder, das wehr gut vnd recht,
+Aber man leßt trew' Gottes Knecht,
+Den man solt ehrlich notturfft gebn,
+An mangem ort in Armuth lebn.
+
+
+
+FRATER ANTONIUS.
+
+So geht es: die gröbesten Narrn,
+Haben gmeinlich die besten Pfarrn.
+
+
+
+LAMBERTUS.
+
+Was meint jhr aber wie ichs mach,
+Das ich recht angreiff meine sach?
+
+
+
+FRATER ANTONIUS.
+
+Wolln zu Ern Warner gehn alßdradt,
+Stellens zuvohr mit dem in rath.
+
+
+
+
+
+
+
+
+
+4. Szene
+
+
+
+
+
+
+Scena IIII.
+
+Grimwaldt. Güldener.
+
+
+
+GRIMWALDT.
+Glück zu Meister.
+
+
+GÜLDENER.
+Habt danck Grimwald.
+
+
+GRIMWALDT.
+
+Meistr, jhr sollet kommn alßbalt
+Auffs Schloß z'vnserm gnedigsten Herrn.
+
+
+
+GÜLDENER.
+
+Dessen thu ich mich nicht beschwern:
+Soll ich auch etwas bringen mit?
+
+
+
+GRIMWALDT.
+Man hat mir das befohlen nicht.
+
+
+
+
+
+
+
+
+5. Szene
+
+
+
+
+Scena V.
+
+Philippus. Güldener. Warner.
+
+
+
+PHILIPPUS
+
+Proceribus stipatus.
+
+
+Saget jhrs Meister, das der Mann
+Den wir gestern tractieren lan
+Fürstlicher weiß den gantzen tag,
+Sölches itzt für einn Traum aussag?
+
+
+
+GÜLDENER.
+
+Gnediger Herr, aus seinem Mund
+Hab ichs gehört: do ich auffstund
+Heut frü, vnd ging auffs marckt hinaus,
+Zu keuffen Notturfft in mein Hauß,
+Lag er da in einm Rinstein tieff
+Im schlam vnd dreck (mit gunst) vnd schlieff:
+Sein Weib kam an denselben ort,
+Wecket jhn auff, vnd fraget fort,
+Warumb er doch aus seinem haus,
+Zwo nachte wehr gewesen aus?
+Er hieß sie liegen, wolt sie schlagn,
+Das sie sölch nichtig ding thet sagn.
+Sprach er hett nur die eine nacht
+Ausser seinm Hause hingebracht,
+Zum theil dort im Kretschmer beim Wein,
+Zum theil da im schlammign Rinnstein.
+
+
+Erzehlt darnach mit vielen wortn,
+Das es sein Weib vnd Nachbarn hortn
+Alls was jhm gestern hie auffm Schloß,
+Ist widerfahren, klein vnd groß.
+Hielts nur für ein Traum vnd Gesicht,
+Wolt darauff trawn vnd bawen nicht.
+Weil es jhm doch nur fürgelogn,
+Vnd jhn so schendlich hett betrogn.
+
+
+
+PHILIPPUS.
+
+Blieb er bey seiner meinung dan,
+Es wehr ein Traum vnd nichtes dran?
+
+
+
+GÜLDENER.
+
+Gnediger Herr, er bleibt dabey,
+Sagt es auch vnnuerholen frey,
+Einm jedem der jhn nur drumb fragt.
+
+
+
+PHILIPPUS
+
+ad Proceres.
+
+
+Das ists was wir vielmahl gesagt:
+Vnser zeitlichs mühsehlichs lebn,
+Vergleich sich einem Traum gar ebn.
+Reichtumb, Macht, Ruhm, herlicher Nam,
+Ansehen, ehr, vnd hoher Stam,
+Frewd, lust, zier, pracht, köstlicher wat,
+Vnd alles was der Mensch hie hat,
+Was ists? nur ein schatte flüchtig,
+Ein Traum nichtig vnd betrieglich,
+Dessen man sich kaum recht besinnt,
+Wann man vom schlaff zerwachn beginnt.
+
+
+
+WARNER.
+
+Wir Menschen all, sind gleich dem glaß
+Das brüchich ist, ja gleich dem graß,
+Welches itzt blüht vnd grünet schon,
+Bald hats mit jhrer hitz die Sonn,
+Bald hats gelegt der Reiff zur Erd,
+Das wird zutretn von Küh vnd Pferd.
+
+
+
+PHILIPPUS.
+
+Wir Fürstn und Herrn solln nicht stoltzirn,
+Vnser schwacheit zu gemüth vns führn,
+Bey guter zeit lernen verstehn,
+Das wir auch Menschen die vergehn:
+Sollen nicht auff das zeitlich bawn,
+Sondern viellmehr ins ewig' schawn,
+Denn wir hie auch im Elend schwebn,
+Vnd habn nicht eigns in diesem lebn.
+Gott hilff das wir nach dieser zeit
+Ererben fried vnd ewig frewd;
+Aller Welt macht vnd Herrligkeit,
+Ist nur ein traum vnd eitelkeit.
+
+
+
+
+
+
+
+
+
+
+
+Epilogus
+
+
+
+
+Epilogus.
+Wir sagn den Herrn nun danck allsampt,
+Nach jedes würden, Ehr vnd Ampt,
+Das dieselben eigner person
+Habn angeschawt dieß' Action
+Das auch ihr andern zugehört,
+Vnd vns im reden nicht verstört.
+Spüren daraus ewr grosse gunst,
+Vnd lieb, jegn diese nütze kunst,
+Zu agirn woll erdachte spiell,
+Darin man hat der Lehren viel.
+Gott woll' dafür euch allen gebn,
+Gesundheit vnd ein langes lebn:
+Das diese kunst löblich vnd alt,
+Ihre beschützer ja behalt,
+Kegen Neidharti lästermaul,
+Vnd ander' vngenanten faul,
+Die selbs nicht können etwas tichtn,
+Doch andere schmehn vnd vernichtn.
+Wohin sonst diß spiell sey gericht,
+Acht ich zu repetiren nicht
+Nötig: diß ist vnd bleibt die sum:
+Der Welt macht, herrligkeit, Reichtum,
+Gwalt, Ehr, Kunst, Gunst, Gnad, Rhum, Zier, Pracht,
+Vnd alles was hoch wird geacht
+Auff dieser Erd, vnd nicht besteht,
+Ja wie ein Sehem vnd Schatt' vergeht.
+Gottes wort, Gütt, Trew vnd warheit,
+Wehret vnd bleibt in ewigkeit.
+Ein Traum ist nur diß zeitlich lebn,
+Darum soll man nur dahin strebn,
+Das man ererb das Ewig' Gut,
+Erworbn durch Christi thewres blut.
+Ein Narr ists der auff Golt vnd Gelt,
+Vnd was sonst köstlich in der Welt,
+Stoltzieret, trotzet, pochet, trawt,
+Vnd nach dem ewign nimmer schawt.
+Seelig vnd klug wird der geacht,
+Der nur mit fleiß nachm Himel tracht,
+Vnd ist allzeit dahin beflissn,
+
+Das er Glauben vnd gut gewissn
+Behalte vnuerletzt vnd rein,
+Trawet vnd bawt auff Gott allein,
+Lesset die Welt die Welte sein,
+Verriecht was jhm befohlen fein
+Auffrichtig, lustig, fleissig, woll,
+Ist gdültig wann er leiden soll:
+Ist vnd bleibt allzeit Gottes knecht,
+Gleubt an seinen Sohn schlecht vnd recht,
+Befehlt an seinem letzten end
+Sein Seel in Gottes gnad vnd hend.
+Der wird gewis ins Himelsthron
+Vberkommen der Ehren Kron:
+Welches ich euch wünsch allzusamen,
+Der es begert, sprech mit mir, Amen.
+
+Soli Deo Sit Gloria.
+Allein, o Herr,
+Deins Namens ehr
+Ist mein begehr.
+
+
+
+
+
+
+
+
+Nachrede
+
+
+
+
+Dem Guthertzigen Leser,
+wünschet der Tichter Fried und Frewd in
+Christo Ihesv.
+Es ist kein zweiffel, guthertziger Leser, weil ich hie an den weg gebawet, das ich viele Meister haben werde. Sintemahl das Richten vnd Tadlen keine maß noch ende hat. Denn der Lasterteuffel itzt dermassen grassieret vnd tobet, das es nicht gerahten oder sicher ist, wie der hochgelarter Erasmus von Roterdam sagt, ein Büchlein herfür kommen zu lassen, man habe jhm dann eine Gewardi vnd beschirmung von wollgerüsteten Soldaten zugeordnet. Darum ich mich in stich geben, vnd der Sycophanten gifftigen Natterbiß auch werde gewertig sein müssen. Doch wil ichs versuchen, ob derselben etliche künten vermitten vnnd abgelehnet werden.
+Zum ersten werden viele sagen: Es sey eine leichtfertigkeit Reimweiß etwas schreiben. Diesen antworte ich kürtzlich: Ist der Rhythmus ein leichtfertiges ding, wird daraus folgen, das alle Völcker leichtfertig zu halten, Rhythmi enim naturales sunt in omni gente et natione. Thal. lib. 2. Rhet. cap. 15. Insonderheit vnsere alten Teutschen, dz ich von Hebræern nicht sage, welche die rühmliche thaten jhrer Heiden in Reime verfasset vnd gesungen, wie das Heldenbuch, die alten Meistergeseng, vnd Lieder bezeugen. Das aber vnsere Voreltern nicht weichlinge, leichtfertige, verzagte Memmen: Sondern standhafftige, Tapffere, streitbare Menner vnnd vnverzagte kerll gewesen, müssen auch die Römer, jhre feinde, in jhren hinterlassenen Schrifften, bekennen.
+Zum andern werden etliche sagen, ich thu præter profeßionem meam, das ich Comœdias schreibe, es gebühre einem Prediger nicht etc. Diese vnbehobelte Socios, achte ich keiner antwort würdich. Denn alle verständige woll wissen, das Comœdias schreiben eine ehrliche vnnd nützliche arbeit ist, welche auch an den fürnembsten Theologen, vnnd gelartesten Leuten, nie improbieret worden. Ist doch der hocherleuchter vnd vmb vns Teutschen wollverdienter Mann Gottes, Dr. Martinus Lutherus, in der meinung, die Bücher Judith vnd Tobiæ sein keine geschieht, Sondern geticht vnd spiele heiliger Geistreicher Poeten, dieses eine feine Gottselige Comœdia, jennes eine gute, ernste vnnd tapffere Tragœdia. Dennoch haben diese beide bücher in der Bibel, inter Apocrypha, jhre ehrliche stelle vnd lob, das sie feine, gute, heilige, nützliche bücher sein, vns Christen woll zu lesen.
+
+
+Zum dritten wird etlichen Melancholischen Storköpffen vnd sawrtöpffen, der eingemischter schertz, vnd personæ extra argumentum accersitæ nicht gefallen. Etlichen zarten heilligen wird die bittere vnd verhassete warheit gräll in den obren thun. Diesen solte man eine gute pritsche schlagen, jenne solte man ad Antyciras, oder weil zubefürchten, das jhre insania nullo Helleboro könne außgeführet werden, in agrum Reatinum inter pecus Arcadicum religieren. Auff beiden Seiten geben sie, mit jhrem verkehrten vrtheil, jhren groben vnnd grossen vnuerstand an tag. Haben auch die nützen Præfationes in Terentium, vom Melanchthone, Roterodamo, vnd Asulano gestellet, nie gelesen: Viel weiniger verstehen sie Plauti, Terentij vnd anderer sinreichen Poeten intent vnnd meinung: sehen die scripta Comica an wie die Kuh das fenster.
+Zum vierdten sind etliche so vnbesonnen, das sie vnsere selbständige Teutsche sprach verkleinern, da doch Goropius Becanus in seinen Originibus mit vielen Argumenten zu beweisen vermeinet, vnsere AltSächsische vnnd die Niederlendische Sprache, sey vnter allen sprachen der gantzen Welt die eheste, & artificio singulari planè admirabilis. Welchs ich an seinen ort stelle, vnd andere verfechten lasse. Dieses ist vnleugbar, das sie nicht die geringste ist, sich so weit vnnd breit erstrecket, das auch ausserhalb den 10 Provincien, oder Circulen, vnsers Teutschlandes, mit jhr die sprachen dreyer benachbarten, mechtiger Königreiche, (Engeland, Dennemarck vnd Schweden) eine grosse verwandschafft haben, auch wo nicht alle, doch eins theils, wie die collatio idiomatum gibt, auß jhr wie aus einem Brunnen entspringen. Solche Fatui, die es verechtlich halten, in vnser Muttersprach etwas schreiben, mügen sich, jhrem bedüncken nach, Hebraischer, Griechischer, Lateinischer, vnnd wo sie nicht gnug dran haben, Narrabischer vnnd Affreichischer zungen gebrauchen, damit jhre scripta vnd reden also verblümen, zieren, illustrieren vnd illuminieren, so krauß, bunt vnd toll machen, wie sie immer wollen vnnd können. Ich ein geborner Teutscher, scheme mich hie nicht bey den Teutschen teutsch zu reden.
+Zum letzten will ich hiemit den guthertzigen Leser freundlich gebeten haben, er wolle alle præpostera Momoscoporum judicia fahren lassen, vnd von dieser meiner wollgemeinten arbeit aus Christlichem gemüth sincerè & candidè vrtheilen, vnnd nichts darin verkehrlich deuten. Es gäntzlich vnnd gewiß dafür halten, das ich hie niemand perstringieren oder notiren, sondern der Welt lauff, und vnsers mühseligen lebens grosse eitelkeit, gleich in einem Spiegel habe zeigen wollen. Hette ich nach gebür sölchs nicht getroffen, (wie ich das gern bekenne vnd nachgebe) wolle ers mir 
+Brüderlich zu gut halten. Denn wir alle menschen sind, vnnd in dem wirs auch nicht meinen, leichtlich irren können.
+Der allmechtiger, frommer vnd allein getrewer Gott wolle alle vnsere studia zu seines allerheiligsten namens Ehr gnediglich dirigiren, vnd vns ein fröliches, newes Jahr bescheren, vmb seines einigen vnnd lieben Sohns Jhesu Christi vnseres Immanuels willen. Das wünsche ich allen wahren Christen von grund meines hertzen,
+Amen.
+
+
+Nathan Chytræus lib. I.
+Epigram.
+
+Si quis fortè putet nostro se Carmine pungi,
+Agnoscens maculas conscius ipse suas:
+Det veniam melior: licuit, semperque licebit
+Parcere personis, dicere de vitijs.
+
+Pietas
+Sine
+Fine Coronat.
+
+
+
+
+
+

@@ -1,0 +1,6834 @@
+
+
+
+
+Sophia
+
+
+hdl:11858/00-1734-0000-0003-33FA-9textgrid:pj21.0
+ Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). 
+
+Lizenzvertrag
+
+
+ Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache 
+
+
+Hinweise zur Lizenz und zur Digitalen Bibliothek
+
+
+
+
+
+                              Erstdruck: Breslau (Scherffer), 1671. Uraufführung 1671, Breslau.
+                           
+
+
+
+
+Johann Christian Hallmann: Sämtliche Werke. Herausgegeben von Gerhard Spellerberg, Berlin und New York: Walter de Gruyter, 1975.
+Hallmann, Johann Christian
+
+4-
+
+
+Berlin und New York
+
+
+
+
+
+
+
+
+
+
+drama
+
+
+
+
+
+
+
+
+Johann Christian Hallmann
+Sophia
+Trauer-Spiel
+
+
+
+
+
+
+
+[Motto]
+
+
+
+
+
+
+
+Laus Martyrii est in Causæ
+
+
+ Bonitate, non in pœnæ
+
+
+ acerbitate.
+
+
+
+B. Augustin. in Psalm. LXVIII.
+
+
+
+
+
+
+
+
+
+[Widmung]
+
+
+
+
+[Widmung]
+Dem Durchlauchtigen / Hochgebohrnen
+Fürsten und Herren /
+
+Herren Christian /
+
+Hertzoge in Schlesien zur Liegnitz /
+Brieg und Wohlau.
+Der Durchlauchtigen / Hochgebohrnen
+Fürstin und Frauen /
+
+Frauen Louyse /
+
+Hertzogin in Schlesien zur Liegnitz /
+Brieg und Wohlau / Gebohrner Fürstin zu Anhalt /Gräfin zu
+Ascanien / Frauen zu Zerbst und Bärenburg.
+Dem Durchlauchten / Hochgebohrnen Fürsten
+und Herren /
+
+Hn. George Willhelm /
+
+Erb-Printzen in Schlesien zur Liegnitz / Brieg
+und Wohlau.
+Der Durchlauchten / Hochgebohrnen
+Princeßin /
+
+Princessin Charlotte /
+
+Hertzogin in Schlesien zur Liegnitz / Brieg und Wohlau.
+Meinen Gnädigsten Fürsten und Fürstinnen.
+
+
+
+
+
+
+[Widmungsschreiben]
+
+
+
+
+
+
+Genädigste Durchlauchtigkeiten!
+Dje Himmlische Liebe ist eine solche Tugend / welche den Allerhöchsten zum Vater / die Ewigkeit zur Schwester / und die Seraphinen zu Brüdern hat. Jhre sonnenhelle Krone besieget alle Kronen der Welt. Jhre Diamanten sind nicht tödtende Pfriemer / ihre Rubinen nicht geronnenes Menschen-Blut / ihre Schmaragde nicht gefroren Gras / ihre Granaten nicht zornige Feuer-Ballen. Jhr in dem Blutte Christi gefärbter Purpur-Mantel übertrifft Paulinens und Alexanders unschätzbare Kleider. Jhre unverzehrliche Fackel ist der holdseelige Leit-Stern / durch welchen man in das glückseelige Arabien der unvergänglichen Freude gelangen kan. Vor ihrem Scepter erbebet die Welt / erzittert der Tod / erstarret der Teufel. Durch Sie werden die Koloquinthen der bittersten Trübseeligkeiten in süsseste Zucker-Rosen / die kläglichsten Leich-Zypressen in siegprangende Lorber-Kräntze /die erschrecklichsten Folter-Hölen in annehmlichste Paradiese / ja die Hölle selber in einen Himmel verwandelt. Mit einem Worte: Sie ist eine solche Göttin /welche aus Jünglingen Engel / aus Jungfrauen Himmlische Venus-Bilder machet. Denn Christum lieb haben ist besser denn alles wissen.
+
+
+Genädigste Durchlauchtigkeiten!
+
+Meine SOPHIA, welche nebst ihren Töchtern das Zeitliche dem Ewigen / das Vergängliche dem Unvergänglichen / den kostbarsten Scharlach dem Blute Christi / die prächtigsten Kronen der Krone des Lebens / die süssesten Wollüste dieser Welt der Himmlischen Liebe unsers Erlösers so standhaft nachgesetzet / auch sich allbereit auf dem Schau- 
+Platze ihrem JESU zu Ehren mit grosser Vergnügung gezeiget /schätzet sich numehro glückseelig vor Dehro Erlauchtesten Augen zu erscheinen. Sie hätte sich dieser Künheit nicht unterfangen / wann sie nicht wüste / daß die Seele deß Großmüthigen CHRJSTJANS / der witzigen LOVYSE / deß Tapfern GEORGE WJLLHELMS / und der Holdseeligsten CHARLOTTE ein Tempel der Himmlischen Liebe und Weißheit wäre. Ja Sie würde sich nicht in dieses Heiligthum wagen / wenn sie nicht versichert wäre / daß in Selbten die Ampel der Sanftmuth / und die Kertze der Genaden angezündet stünde. Dehrowegen kniet Sie vor das Altar dehro angebohrnen Hoch-Fürstlichen Leutseeligkeit / mit demüthigster Bitte / sie nebst mir unter die Gnadenflügel Jhrer Jrdischen Gottheit genädigst zu nehmen / und wider alle Pfeile der thörichten Mißgunst mächtig zu schützen! Sie suchet hierinnen nichts anders / alß die Ehre unsers Heilandes; sie wünschet nichts anders / alß deß Hoch-Fürstlichen Liegnitz-Anhaltischen Hauses immerblühendes Wolergehen! Wie nun / Durchlauchtigste Fürsten und Fürstinnen / durch sothane meiner Sophie erzeigende Gnade und Liebe die Liebe deß jenigen / welcher sich aus Liebe vor uns am Creutze aufgeopfert / vermehret / zugleich auch der unsterbliche Ruhm deß Glorwürdigsten PJASTUS erweitert wird: also werde ich hiervor unabläßlich verharren /
+
+Genädigste Durchlauchtigkeiten /
+
+Dero unterthänigster Knecht
+Hallmann.
+
+
+
+Standes und Würden nach Geehrtester Leser.
+
+Jn diesem Trauer-Spiele wird dir vorgestellet ein Beyspiel ruhmwürdigster Beständigkeit. Das lüsternde Fleisch / die lockende Welt / der dreuende Tod / der schreckende Teufel werden von einer Ohnmächtigen Frau; unschätzbahres Reichthum und Ehre / annehmlichste Wollüste und Geschencke /grausamste Foltern und Hencker von zärtesten Kindern besieget. Mit einem Worte / die himmlische Liebe überwindet die Jrdische. So heftig hat der Geist Gottes in den schwächsten Werckzeugen damahls /alß die ärmsten Christen in den trübseeligsten Verfolgungs-Zeiten statt des Tempels eine Gruft / des Predigstules einen Sarg / des Altares ein häufflein Erde gebrauchen musten / gewürcket! So heftig hat die Liebe gegen dem gecreutzigten CHRISTO zu selbiger Zeit die Christlichen Seelen beherrschet / daß nicht nur behertzte Männer / sondern auch unmündige Kinder und schwache Weibesbilder ieden Augenblick bereit gewesen / ihr Leben vor den zuckersüssten Nahmen JESUS aufzusetzen / und solch Bekäntniß mit ihrem Blutte zu besiegeln! O unüberwindliche Großmüthigkeit! O unvergleichliche Weißheit! Gewiß wehm solche hertzbrechende Beyspiele nicht durch die Seele dringen / den muß wohl ein Arimaspischer Wolf und Hyrcanischer Tyger gesäuget haben. Jch beklage nur / daß meine Feder sich zu unvermögend befindet / diese so heilige und beständige Liebe gegen unsrem Erlöser nach Würden abzubilden! Sonsten ist die Historie von der SOPHIA aus den Kirchen-Geschichten bekant / und dehrowegen unvonnöthen /dißfalls Asiatische Wort hiervon zu machen. 
+Jedoch werden meine Anmerckungen / welche ich nebst allen meinen in diesem Trauer-Spiele sich ereignenden Erfindungen und ungezwungenen Ein-Monatlichen Arbeit deinem witzigen Urtheil unterwerffe / das jenige hin und wieder mehr erleuchten / was in gebundener Rede nicht geschehen mögen. Wie nun verhoffentlich diese in ihren JESUS hertzlich verliebte SOPHIA dir grössere vergnügung alß etwan eine unzüchtige Messalina erwecken wird: Also laß Uns /Mein Leser / bemühet seyn / (weil wir zwar in Jrdischen Sachen scharffsichtige Luchs- in himmlischen aber nur verblendte Maulwurffs-Augen haben /) die himmlische Weißheit in diesem Thränen-Thal durch beständigen Glauben / Hoffnung / und Liebe iederzeit dermassen zu suchen / damit wir dermahleins aus dieser Streitenden in die Triumphierende Kirche freudig eingehen / und von dem Könige aller Könige die unverwesliche Ehren-Krohne / womit allbereit SOPHIA nebst ihren Kindern geschmücket ist / glückseeligst empfangen mögen. Lebe wol!
+
+
+
+
+
+
+
+Inhalt
+
+
+
+
+Jnhalt der Geschicht.
+
+Sophia eine Hoch-Adeliche Römische Wittib / wird bey damahliger allgemeinen vierdten Haupt-Verfolgung der Christen unter andern auch nebst ihren drey Töchtern Fides / Spes / und Charitas wegen deß Christlichen Bekäntnüsses dem Kaiser Hadriano verrathen und vor Gerichte bracht /welche / nach dem Sie nebst den Kindern weder durch ersinnlichste Geschencke / noch Marter von dem Nahmen JESU abwendig gemacht werden kan / erstlich den Tod ihrer Töchter / dehren die Aelteste kaum das zwölfte / die Mittlere das Zehende / und die Jüngste das Neunde Jahr erlebet / anzuschauen gezwungen /hernach zu ewigem Gefängnüß (deme sie doch durch einen sanften Tod zeitlich entgehet /) verdammet wird.
+Diese Geschicht hat sich begeben zu Rom den 1. August. im 128sten Jahre nach unsers Erlösers Gebuhrt.
+
+
+
+Erfindung deß Trauer-Spieles.
+Die erste Abhandlung.
+
+
+Dje im Christlichen Glauben erleuchtete Sophia rühmet die Gnade deß Drey-Einigen Gottes / beklaget nebst dem Römischen Bischoffe Alexander I. die grausame Verfolgung der Christen / und in dem Sie ihre drey Töchter Fides /Spes / und Charitas zum Christlichen Bekäntnüß trefflich aufmuntert / kommet ihr befreundter Honorius nebst der Palladia / einer Römischen Hof-Dame und Liebhaberin deß Kaisers Hadriani / welche der Sophie die Verlassung des Heidenthums heftig verweisen / aber nichts ausrichten: Weßwegen Sie im Eifer entweichen / mit Bedrohung / solches dem Kaiser anzuzeigen. Jm Reyen streitet die Vernunft mit dem Glauben / worüber die Religion durch allerhand aus dem Abgrunde der Vernunft entspringende und zu Hadriani Zeiten lebende Ketzer in einen Schatten verwandelt wird.
+
+Die andere Abhandlung.
+
+
+Der Kaiser Hadrianus wird von den 
+Heidnischen Priestern Heliodoro und Epicteto /wie auch von seinen Geheimsten Antonino / Svetonio Tranquillo / Salvio Juliano / und Septitio Claro heftig angereitzet / die Christen aufs euserste zu verfolgen. Diese Verbitterung vermehren Palladia und Honorius / in dem Sie berichten / das Sophia den Christlichen Glauben angenommen / und nicht allein ihre Kinder / sondern auch andere Jungfrauen / dehnen Sie 
+zu gleich die immerwehrende Keuschheit gerathen /dazu beweget: welches der Kaiser in höchsten Ungnaden empfindet / und Sie nebst ihren Kindern vor sich zu bringen befihlet. Die Kaiserin Julia Sabina / alß eine heimliche Freundin der Christen / bemühet sich den Kaiser zubesänftigen: aber umbsonst! Die in himmlischen Gedancken entzückte / und von zwey singenden Engeln zur Beständigkeit angefrischte Sophia wird nebst ihren Kindern durch den Hauptmann Septitius Clarus vor den Kaiser gefodert. Jm Reyen beseufzen die in unterirdischen Grüften sich aufhaltende Christen ihr unbegreiffliches Elend / werden aber von der Göttlichen Barmhertzigkeit getröstet.
+
+Die dritte Abhandlung.
+
+
+Hadrianus nimmt Sophiam nebst ihren Kindern vor / und nach dem sie keines weges vom Christlichen Glauben abstehen / noch der Göttin Diana opfern wollen / wird Sophia / in welche sich der Kaiser heimlich verliebet / zweyen Trabanten / umb Sie im Lust-Garten an einen Baum zu binden / Fides / Spes und Charitas aber den Heidnischen Priestern / wie auch Antonino und Septitio Claro übergeben: Welche sie erstlich mit allerhand Geschencken und ersinnlichsten Liebreitzungen / hernach aber / weil nichts verfängt / mit der schärffsten Folter belegen / iedoch nicht bewegen. Der schwermüthige Hadria-nus wird wegen der Tugendschönen Sophia von Liebe und Ehre sehr bekämpfet. Die eifersüchtige Palladia redet deßhalben dem Kaiser ein /wird aber schimpflich abgewiesen. Jm Reyen wird die Jrdische Liebe nebenst der Eitelkeit und vielen geflügelten Liebes-Knaben von der himmlischen Liebe /der Ewigkeit / und vielen Engeln entwaffnet.
+
+
+
+Die vierdte Abhandlung.
+
+
+Dje an einen Baum gebundene Sophia wird vom Fleische / Welt / Tod / und Teufel heftig angefochten / aber vergeblich. Die Kaiserin besuchet Sophiam / und wird durch ihre Beständigkeit dahin gebracht / daß sie sich nebst der Serena und Flavia / alß ihren getreuesten Cammer-Jungfern/ entschleußt das Heidenthum zuverlassen. Der im höchsten Grad verliebte und in gestalt eines Schäffers erscheinende Hadrianus wil Sophiam erstlich durch List / hernach mit Gewalt entehren; wird aber mit einem grausamen Donnerschlage / welcher den Baum zerschmettert / und Sophiam von den Stricken befreyet / hiran verhindert. Der vor Furcht und Rache wüttende Kaiser läßt ihre Kinder vor sich kommen /und versuchet nebst den Priestern und seinen Geheimsten nochmahls durch versprächung der höchsten Wollüste dieser Welt selbte nebst der Mutter auf einen andern Sinn zu bringen; allein umsonst! Worauf Sophia mit Ruthen gestrichen und zu ewigem Gefängnüß; Fides / Spes / und Charitas aber zum Tode verdammet werden. Antoninus und Septitius Clarus vollziehen in Gegenwart der Sophie an ihren drey beständigen Töchtern deß ergrimmten Kaisers Befehl / in dem Fides auf dem Holtz-Stosse / Spes und Charitas aber auf dem Richt Blocke ihre Lilienkeusche Seelen dem Heylande aller Welt hertzhaftig aufopfern. Jrene /eine Christliche Jungfrau singet bey den Leichen dieser unschuldigsten Kinder ein kläglich Sterbe-Lied. Die auf dem ungestümen Meere schiffende Christliche Kirche erhebet im Reyen gegen dehnen von den Heidnischen See-Räubern übelgeplagten und fast wanckelmüthigen Christen die heilige Liebe dieser zwar zarten / iedoch unüberwindlichen Bekenner Jesu Christi.
+
+
+
+
+Die fünfte Abhandlung.
+
+
+Der in einen Pilgram verkleidete Alexander nimmt nebst der gleichfalls verkleideten Kaiserin und ihren Cammer-Jungfern von der eingekerckerten Sophie beweglichen Abschied. Der hönische Kaiser bereitet der Sophie nebst beygefügtem Todten-Ballet eine Traurige Nacht-Mahlzeit / nehmlich das in dreyen Gläsern schwimmende Blut / wie auch die in dreyen Schüsseln liegende Häupter ihrer hingerichteten Töchter / welche Sie zum öftern küsset / und sich über deren erlangten Märtyrer Krone nochmahls höchlich erfreuet. Und in dem Sie sich nach solchem Gelücke / wie auch nach ihrer Kinder liebreichen Gegenwart hertzinniglich sehnet / erscheinen die Geister ihrer Töchter in den Wolcken / welche die Mutter holdseelig trösten / und ihr das vor der Thüre stehende sanfte Ende verkündigen. Worauf Sophia / von dem Pfeile deß Todes sichtbarlich berühret / mit höchster Bestürtzung deß Kaisers und deß gantzen Hofes seelig entschläft. Jm Reyen wird die über Fleisch / Welt / Tod und Teufel triumphirende Beständigkeit des wahren Glaubens / der Hoffnung /und der Liebe gegen GOTT auf einem Sieges-Wagen von den Engeln gekrönet.
+
+
+
+
+
+
+
+
+Personen
+
+
+
+
+
+Personen deß Trauer-Spiels.
+
+Sophia, eine Hoch-Adeliche Römische Wittib.
+
+Fides,
+Spes,
+Charitas, Jhre Töchter.
+
+Alexander I. Bischoff zu Rom.
+
+Palladia eine Römische Hof-Dame und Liebhaberin deß Kaisers Hadriani.
+
+Honorius, ein Römischer Aedelmann / der Sophie befreindter.
+
+Publ. Aelius Hadrianus, Römischer Kaiser.
+
+Julia Sabina, Seine Gemahlin.
+
+Heliodorus,
+Epictetus, Heidnische Priester und Wahrsager.
+
+Antoninus, Stadthalter zu Rom.
+
+Svetonius Tranquillus, Kaiserlicher Cantzler.
+
+Salvius Julianus, Kaiserlicher Rath.
+
+Septitius Clarus, des Kaisers fürnehmster Hauptmann.
+
+Serena,
+Flavia, Der Kaiserin Kammer-Junefern.
+
+Ein Page der Kaiserin.
+
+Zwey Engel.
+
+Das Fleisch.
+
+Die Welt.
+
+Der Tod.
+
+Der Teufel.
+
+Irene, eine Christliche Jungfrau.
+
+Der Geist Fides.
+
+Der Geist Spes.
+
+Der Geist Charitas.
+
+
+
+
+
+Schweigende:
+
+Eine grosse Anzahl Römischer Hofleuthe / Pagen / Freygelassener / Mohren / Kriegesbedienten / und Trabanten.
+Der Blutrichter nebst etlichen Beilträgern und Henckern.
+Vier und zwantzig nackte Cupidines / und so viel Engel.
+
+
+
+Reyen:
+
+Reyen / darinnen die Religion / der Glaube / die Vernunft / und allerhand Ketzer.
+Reyen der Christen und der Göttlichen Barmhertzigkeit.
+Reyen der Jrdisch- und der himmlischen Liebe nebst der Eitelkeit und Ewigkeit.
+Reyen der Christlichen Kirche / der gefangenen Christen / und der Heidnischen See-Räuber.
+Reyen der Beständigkeit / deß Glaubens / der Hoffnung / der Liebe / des Fleisches / der Welt / deß Todes / deß Teufels / und der Engel.
+
+
+
+
+
+
+
+
+
+Ad nobil. Autorem
+
+
+
+
+Ad nobil. Autorem
+Christiani Dramatis Sophiæ
+Filiarumque ejus martyrum
+Fidei, spei, & charitatis.
+Edidit ingenii claros quos dextera foetus,
+Ex meritis famam dexteritatis habent.
+Inclyta sunt laudis vatum monimenta labores,
+Posteritas merces grata laboris erit.
+Halmanne, hos inter vates numeraris, honori
+Slesia castalio laurea serta parat.
+Teutonis effantem vario sub dramate linguam
+Talia, queis cingat tempora, serta decent.
+Urbs haec, quam veteres olim dixere budorgim,
+Ingenii vidit symbola magna tui.
+Prodiit in primo caesar mauritius actu,
+Fortunae speculum qui variantis erat;
+Jmperium phocae miserâ quem morte peremit,
+Conjugis & sobolum sangvine tinxit humum.
+Altera successit funesta tragoedia planctu,
+Viderat italiae quem prius ora typum.
+Rex theodoricus, cujus verona theatrum
+Olim erat, hîc tragicum luctibus implet opus.
+Symmachus innocua, clarus`que böethius orbe
+Morte ruit: nemesis sed fuit ulta necem.
+Tertia deposito felix URANIA luctu
+ordine, sylvani est conjugis ipsa decus.
+schemate sub gracili virtus hîc casta triumphat,
+evictas precibus non dedit illa manus.
+
+Stemmatis Austriaci LEOPOLDO sacra monarchae
+Prosperitas quarto vendicat ire gradu,
+Caesareis placuit dare plausûs omina Taedis,
+Et leopoldino vota secunda throno:
+Namque Leonino dum Margaris indita Cordi,
+Crescat ut austriaco, vota tulere, thoro.
+Classis quinta dedit tristes post gaudia luctus,
+Insontem patitur dum mariamne necem:
+Barbarus herodes maculat sibi sangvine dextram
+Conjugis, hinc laevam cogitur ire viam.
+Sexta Venit Pulchro Fulgens STRATONICA vultu,
+Mutua quae fletûs gaudia miscet aquis:
+Nupserat haec regi syriae regina seleuco,
+Cederet hanc nato jussit amantis amor.
+Septima constanti ROSIBELLA triumphat amore,
+Sub pastoralis schemate vestis adest:
+Illustri placuit constantia parta theatro:
+Virginis excultae cultor adonis erat.
+Nunc postrema sacris comparet avita trophaeis
+Gnatarum triadis diva SOPHIA parens.
+Drama FIDEM, Fortemque Pio SPEM Jungit AMORI,
+Sangvineam christi quas videt ire viam.
+Et divina parens fidei sapientia, natam
+Spem genuit, geminis se sociavit amor.
+Ut spes atque fides genuinum monstret amorem,
+Pro JESU libuit mortis adire tholos.
+Ergo dum celebras sacrati encomia coetûs,
+Et tuus in casto dramate ludit honor;
+Splendida fama tuae nectit praeconia lauro,
+Symbola quae serae posteritatis erunt.
+
+Ita applaudebat è sincero affectu
+Ephraim Ignatius Naso
+â Löwenfels.
+
+
+
+
+
+
+
+1. Akt
+
+
+
+
+Die erste Abhandlung.
+
+Der Schauplatz stellet vor der Sophie Maierhof bey Rom.
+
+
+
+SOPHIA.
+
+Wer in der Eitelkeit stets güldne Stunden zählt /
+Sein Perlenschwangres Haubt den Sternen fast vermählt /
+Mit Göttern dieser Welt alß Brüdern umb mag-gehen
+Den wird der Pöfel zwar biß an den Pol erhöhen.
+Allein diß Glück ist nichts / alß Schatten / Rauch und Schnee /
+Jm fall die Seele fühlt ein unergründtes Weh /
+Ein Weh / das uns verletzt mit Flammen-reichen Pfeilen /
+Und das kein Musa nicht noch Podalir kan heilen.
+Daß mich das grosse Rom auf diese Welt gebracht
+
+
+1
+
+
+Mit angebohrnem Glantz und ungeschminckter Pracht;
+Daß Nerva und Trajan mit güldnen Ehren-Fahnen
+Verewigt hier und dar die Thaten meiner Ahnen /
+Daß Schönheit und Verstand mein zartes Haubt bekräntzt /
+Des Eh-Betts Paradieß mit dreyen Lilgen gläntzt;
+
+
+2
+
+
+Daß ich auf dieser Au bey silberklaren Flüssen
+Kan Speise / Tranck und Schlaff in sanfter Ruh geniessen;
+Das mich die Kaiserin mit Wolthat stets beblühmt /
+Gantz Welschlands kluger Mund Sophiens Tugend rühmt /
+Pechschwartze Sorgen nicht umb meine Glieder schweben;
+Diß alles kan mir zwar verzuckern Zeit und Leben.
+Ach! Aber schau ich an die doppelt' Ewigkeit /
+
+
+Die nach dem Sündenfall der Himmel uns bereit;
+So muß die Thränen-Bach auf beide Wangen flüssen.
+Du lagst / Sophie / du lagst in solchen Finsternüssen /
+Aus derer Labyrinth die Seele schwerlich steigt /
+Wenn nicht der grosse Gott selbst Weg' und Mittel zeigt:
+O wunderseltzam Werck! Der gantze Kreiß wil dienen
+Dem / der unendlich herrscht auf den gestirnten Bühnen;
+Er dienet; aber Ach! Daß Weißheit und Verstand
+Sich so bethören lässt den schlauen Rhadamant /
+Der auf des Schöpfers Macht im Anfang stracks gewüttet /
+Und unsern Bund mit Gott durch grimme List zerrüttet /
+Es sucht ein iedes Thier ja die Vergnügungs Ruh:
+Der Adler fleugt mit Lust der göldnen Sonne zu /
+Die Krocodile spiel'n beym Nilus mit einander /
+Der Flammen-reiche Pful erquickt den Salamander /
+Und Menschen suchen stets bey Gott ihr höchstes Gut.
+Hier strauchelt die Vernunft! Hier wirfft die Andachts-Glut
+Viel tausend Funcken aus / die nichts alß Blitz gebehren /
+Und vor den Himmel uns den Höllen-Pful gewehren!
+Verblendtes Heidenthum! Was hat dich doch bewegt /
+Daß du Stern / Sonn' und Mond; und was der Erdkreiß hegt /
+Zum Abgott dir erkiest? Daß Kräuter / Bluhmen / Steine /
+Gold / Silber / Holtz / Kristall / verdorrte Todten-Beine /
+Ein Athemloses Bild dein Schutzherr bleiben sol?
+Elender Aberwitz! Wie wol und mehr alß wol
+Ist dieser Seele doch / die frey von solchen Keten
+In reiner Andacht kan den wahren Gott anbeten!
+Die / was sein heil'ger Mund der gantzen Welt entdeckt /
+Mit frohem Geist annimmt / und ehret unbefleckt!
+Mit diesem Gnaden-Oel hast du mich nun befeuchtet /
+
+GOTT / dreymal grosser GOTT! Du hast mein Hertz erleuchtet /
+Dein' Allmacht hat an mir ein solches Werck vollführt /
+Daß uns mit Ehren-Preiß und Sieges-Palmen ziehrt /
+In schönsten Himmel kehrt den Traur-Saal dieser Erden /
+
+
+Und uns aus Menschen läßt zu Seraphinen werden!
+Du hast von mir die Nacht des Heidenthums verjagt:
+Wie sol ich Dich erhöhn? Sophie bleibt deine Magd!
+Sophie bleibt deine Magd / die sich und ihre Kinder
+Auf ewig Dir verpflicht / Großmächt'ger Uberwinder!
+
+
+
+Sophia, Alexander.
+
+
+
+
+ALEXANDER.
+GLück zu / Hochwerthe Frau!
+
+
+SOPHIA.
+
+Glück zu! woher so früh?
+So einsam? so betrübt?
+
+
+
+ALEXANDER.
+
+Die Eisenharte Müh /
+Und immerfrische Pein der höchstgequälten Christen
+Treibt mich an diesen Ort! Es lässet sich gelüsten
+Des rothen Drachens Grimm nach unsrem reinen Blut.
+
+
+
+SOPHIA.
+Welch Unstern zeiget sich?
+
+
+ALEXANDER.
+
+Ach! Die Verfolgungs-Glut
+Verzehret Stadt und Land! Faustina ist vergangen
+In siedendheisser Fluth / Seraphia durch Zangen
+Gestürtzet in das Grab; Anthia fiell durchs Beil /
+Eustachius durchs Schwerdt / Theospis durch den Pfeil;
+Und Symphorosa
+
+
+3
+ wird durch jammerreiches Sterben
+Nebst sieben Söhnen itzt die Märtrer-Krohn erwerben!
+Kein Tempel / keine Gruft schützt Christen vor dem Fall!
+
+
+4
+
+
+
+
+
+
+SOPHIA.
+
+O Traurens volle Post! O rauher Donner-Knall /
+Der meine Brust verletzt / doch auch zugleich erquicket!
+Wo rührt solch Ubel her?
+
+
+
+ALEXANDER.
+
+So viel aus allem blicket /
+Sind eintzig und allein die Ketzer schuld hieran.
+Sie weiß / daß Ebion / Zerinthus und Montan
+
+
+5
+
+
+Nebst tausend andern mehr / sich wahre Christen nennen /
+In toller Fantasie: Den Schwarm nun zu zertrennen /
+Wird vom Heliodor der Kaiser stets verhetzt /
+Daß Er den grimmen Stahl auf unsre Nacken wetzt /
+Und in erhitztem Muth auf solche Foltern dencket /
+Wodurch die Kirche werd' ins Todten Meer versencket.
+
+
+
+SOPHIA.
+
+Wahr ists: Die Ketzer sind der Brunnquell solcher Pein:
+Denn die Religion ist ihnen nur ein Schein /
+
+
+6
+
+
+Ein blosses Schatten-Bild und unbeseelter Götze.
+Weh aber / dessen Mund die Himmlischen Gesetze
+So liederlich verkehrt in eine Hand voll Wind!
+Drumb ists kein Wunder nicht / daß Hadrian stets sinnt
+Auf unsern Untergang / daß Er vor Wolfarths Lilgen
+Das Eisenkraut uns reicht / und gäntzlich wil vertilgen.
+Doch hilfft auch sehr hierzu Sveton
+
+
+7
+ und Antonin!
+
+
+
+ALEXANDER.
+
+Ja! Weil diß Paar regiert / so bleibt uns zum Gewien
+Pech / Schwefel / Räder / Strick / Pfal / Mörsel / Creutze / Zangen /
+Ein glüendeisern Pferd! Wehn ihre List kan fangen /
+Umb dessen Ehr' / und Gutt und Leben ists gethan!
+Strahlt etwan ein Comet auf der gestirnten Bahn /
+
+
+Bewegt die Erde sich / wil sich die Tyber breiten /
+
+
+8
+
+
+Wil Hunger / Krieg und Pest so Stand alß Land bestreiten /
+So heist es alsobald: Fort mit den Christen! fort
+Ins düstre Löwen Haus!
+
+
+
+SOPHIA.
+
+Was spricht zu solchem Mord
+Die frohme Kaiserin / die wahre Tugend schmücket /
+Die Christum heimlich ehrt / und oft sein Volck erquicket?
+
+
+
+ALEXANDER.
+
+Sie trägt dem Kaiser zwar der Christen Unschuld vor;
+Er aber hört sie nur mit fest-verstopftem Ohr /
+Gleich Schlangen / welche nichts auf den Beschwerer hören /
+
+
+
+SOPHIA.
+Wie lange wird dann nun diß Wetter uns versehren!
+
+
+ALEXANDER.
+Wie lange wird denn nun die Tyranney bestehn!
+
+
+SOPHIA.
+Wie lange wird diß Schwerdt uns durch die Seele gehn!
+
+
+ALEXANDER.
+Ach Höchster! Steure doch dem Blutbegier'gen Rasen!
+
+
+SOPHIA.
+Ach lasse doch einmahl die Unglücks Flamm ausblasen!
+
+
+ALEXANDER.
+Ach ende doch einmahl die Jammer-volle Pest!
+
+
+SOPHIA.
+Ach schütze deine Schaar / die sich auf dich verlässt!
+
+
+
+ALEXANDER.
+Beweise wer du seyst / du Kaiser aller Kaiser!
+
+
+SOPHIA.
+Beschirme für und für die Dir geweihten Häuser!
+
+
+ALEXANDER.
+Führ aus Aegyptens Nacht uns ins gelobte Land!
+
+
+SOPHIA.
+Daß deine Majestät den Heyden sey bekant!
+
+
+SOPHIA.
+
+ ALEXANDER.
+Erhöre / grosser Gott / was wir so sehnlich bitten /
+Und wende gnädig ab diß ungerechte Wütten!
+
+
+
+Sophia, Alexander, Fides, Spes, Charitas.
+
+
+
+
+FIDES.
+
+ SPES UND CHARITAS.
+Seid tausendmahl gegrüßt ihr Sonnen unsrer Zeit /
+
+
+
+ALEXANDER.
+
+Willkommen liebste Schaar / die Jhr die Ewigkeit /
+Nebst eurer Mutter sucht mit hertzlichem verlangen!
+Jhr Blumen schönster Arth / kommt / laßt mich Euch umbfangen!
+
+
+
+FIDES.
+
+Mein Bischoff / den uns Gott zum Leit-Stern hat geschenckt /
+Als unsre Seele war mit schwartzer Nacht umbschränckt /
+Was könt uns lieblichers auf dieser Welt begegnen /
+Als deine Gegenwart! Du kanst uns eintzig segnen /
+
+
+Du bist der grosse Mann / der unter Jesus Fahn
+Vielmehr als Julius und Alexander kan!
+Ach steh uns ferner bey in den betrübten Zeiten!
+
+
+
+SPES.
+
+Mein Lehrer! Dessen Haubt die Engel selbst begleiten /
+Weil du gleich Engeln strahlst mit Gott geweihter Brunst /
+Wie sol doch unsre Zung' erheben deine Gunst /
+Womit du für und für holdseelig uns erquicket!
+
+
+
+CHARITAS.
+
+Mein Schutz-Herr / dessen Kraft der Höllen mich entrücket /
+Und meine Kindheit stracks zur Sternen-Bahn geführt /
+Wie sol ich danckbar seyn / daß du mich so geziert /
+Das du mit solchem Glantz mein zartes Hertz erleuchtet!
+
+
+
+ALEXANDER.
+
+O Kinder! Derer Brust die Tugend selbst befeuchtet /
+Die Jhr ein wahres Bild der Edlen Mutter seyd /
+Wie hat eur kluger Mund mein Hertze doch erfreut /
+In dem ihr Christus Knecht mit solchem eifer liebet!
+Fahrt fort in dieser Gunst! Wer sich der Lieb' ergiebet /
+Wer solche Flammen hegt in seiner keuschen Brust /
+Dem wird die größte Pein zur aller größten Lust.
+Der kan die Fantasie der vorgemahlten Sünden
+Mit Löwenstarckem Muth großmüttig überwinden.
+
+
+
+SOPHIA.
+
+So ists: verlacht die Welt / folgt seinem treuen Rath!
+Denn wer zum Vater Gott / zu Brüdern Engel hat /
+Dem kan kein rauher Sturm der Eitelkeiten schaden.
+Es mag Fürst Hadrian im stärcksten Balsam baden /
+Ziebeth und Ambra mag durchwürcken sein Gewand;
+Diß Schatten-Werck dient nichts! Wehn das Hochwerthe Pfand
+
+
+Der heil'gen Tauffe schmückt / der kan sich recht vergöttern /
+Der bleibet stets befreyt vor allen Donner-Wettern!
+
+
+
+FIDES.
+
+Es sol kein Teufel mir entreissen diese Kron!
+Mein Glaube stehet fest in der Religion /
+Die eintzig und allein auf Christum ist gegründet!
+
+
+
+SPES.
+
+Frau Mutter / wo sich nicht die wahre Hoffnung findet
+In meiner zarten Brust / so schätzet mich nicht werth
+Der Mütterlichen Gunst!
+
+
+
+CHARITAS.
+
+Wird Charitas begehrt;
+Hier ist sie / die kein Schmertz vom lichten Himmel trennet /
+Die gegen Gott und Euch in heisser Liebe brennet!
+Mich dünckt / ich sehe schon den ädlen Traum erfüllt /
+Der / alß der sanfte Schlaf die müde Seel umhüllt /
+Mir erst ein Paradieß der ird'schen Wollust zeigte;
+Hernach / weil sich mein Geist von diesem abwerts neigte /
+Und nach den Wolcken sah / ins tieffsten Kerkers-Wust
+Ein scharffgeschliffen Beill vorstellte meiner Brust:
+Jch fiell gantz von mir selbst! Doch alß ich nun zerfallen /
+Hört' ich in einem Blick der Engel Stimm' erschallen:
+Mein Haupt / das vor das Beil mit Blut und Sand befleckt
+Ward mit der schönsten Kron' aus Perl' und Gold bedeckt.
+O brechet nur bald an ihr höchstgewündschten Stunden!
+
+
+
+SOPHIA.
+
+Du hast den rechten Zweck / hertzliebstes Kind gefunden /
+Durch solche Bilder prüft der Himmel unsern Geist /
+Wenn etwan das Gelück mit Keilen nach uns schmeißt /
+Und uns der grimme Tod mit seiner Sensen dreuet.
+
+
+
+
+ALEXANDER.
+
+Jch werde gantz entzückt! Jch werde gantz verneuet.
+Daß solcher Helden Muth in zärt'sten Kindern wohnt!
+Ach Liebste! Bleibet treu! Wer treu bleibt / wird belohnt!
+Ja wenn die gantze Welt wird in den Flammen krachen /
+Wird uns die wahre Treu zu Seraphinen machen.
+
+
+
+Sophia. Alexander. Fides. Spes. Charitas. Palladia. Honorius. nebst zwey Pagen.
+
+
+
+
+PALLADIA.
+
+Welch Wunder sehen wir? Verblend't mich mein Gesicht?
+Wie? Träumt mir? Schau ich recht? Ists? Oder ist es nicht?
+Daß sich Sophie erkühnt mit Christen umb-zu-gehen /
+Die stündlich in Gefahr des grimmsten Todes stehen?
+
+
+
+HONORIUS.
+
+Es ist ein Gauckelwerck / ein falschgeschminckter Geist /
+Der sich itzt in Gestalt des Röm'schen Bischoffs weist:
+Sophie ist viel zu klug / die Thorheit zu vollführen /
+Die weder ihrem Stand noch Alter wil gebühren!
+
+
+
+SOPHIA.
+
+Die Thorheit stehet schön / die Fleisch und Welt verlacht /
+Und immer-hellen Tag erkieset vor die Nacht!
+Die Thorheit stehet schön / die Seel' und Sinn erquicket /
+Und mit den Lorbern uns der höchsten Weißheit schmücket!
+Hier schwermet kein Gespenst; schaut Alexandern hier /
+
+
+9
+
+
+Den Brunnquell unsrer Ruh / Sophiens größte Zier /
+Und ihrer Kinder Trost / durch den wir noch auf Erden
+Zum klügsten Seneca / zur schönsten Pallas werden!
+
+
+
+
+PALLADIA.
+
+Welch Dunst umbnebelt dich? Heißt dieses Weise seyn /
+Wenn man vor Ehr' und Lust erkieset Schimpf und Pein?
+Wenn man im düstern Schacht verfluchten Irrthums schwebet /
+Jn tollem Aberwitz dem Kaiser wiederstrebet /
+Und selber sich verkennt?
+
+
+
+HONORIUS.
+
+Entdecke / was du bist!
+Halt uns nicht länger auf!
+
+
+
+SOPHIA.
+
+Sophie ist nun ein Christ!
+Sophie ist nun ein Christ!
+
+
+
+HONORIUS.
+Pfuy! schäm dich so zu nennen!
+
+
+SOPHIA.
+Der darff sich schämen nicht / der Christum wil bekennen:
+
+
+FIDES.
+Der darff sich schämen nicht / der nach dem Himmel schaut /
+
+
+SPES.
+Der darff sich schämen nicht / dem Jesus sich vertraut!
+
+
+CHARITAS.
+
+Der darff sich schämen nicht / der Gott und Engel liebet /
+Und sich der Ewigkeit aus reiner Seel' ergiebet!
+
+
+
+PALLADIA.
+
+Jhr Götter! Jch erstarr / hat diese Pest zu gleich
+Die Kinder auch vergift / die Kinder / die im Reich
+Deß grossen Hadrians zu Sonnen könten werden?
+
+
+
+
+FIDES.
+
+ SPES UND CHARITAS.
+Wir achten nichts den Dunst der Jammervollen Erden?
+
+
+
+HONORIUS.
+Erbärmlicher Verlust! Wo denckt ihr Albern hin?
+
+
+FIDES.
+Ins wahre Paradieß / wo Palm und Lorbern blühn!
+
+
+SPES.
+Wo unser Leib sich kehrt in ewige Narcissen.
+
+
+CHARITAS.
+Wo man das Himmel-Brodt kan für und für genüssen.
+
+
+PALLADIA.
+Weh diesem / der sein Glück so närrisch von sich stösst!
+
+
+HONORIUS.
+Der Zaubrer hat diß Gift den Kindern eingeflößt?
+
+
+PALLADIA.
+Der Hexenmeister ist der Grund-Stein solcher Plagen.
+
+
+ALEXANDER.
+Mein Jesus! Läßt du diß von deinem Diener sagen!
+
+
+HONORIUS.
+Der Diener und der Herr sind eines Titels werth.
+
+
+SOPHIA.
+Beschimpft den Höchsten nicht! Sagt / was ihr dann begehrt?
+
+
+PALLADIA.
+Sie sol sich zu dem Dienst der Alten Götter wenden!
+
+
+
+SOPHIA.
+Die Götzen können mir nicht Schutz und Hülffe senden.
+
+
+HONORIUS.
+Beschützt nicht Jupiter den Kaiserlichen Thron?
+
+
+SOPHIA.
+Vielmehr als Jupiter ist Gottes wahrer Sohn!
+
+
+PALLADIA.
+Gott ist ja nicht ein Mensch / Er zeuget keine Kinder /
+
+
+SOPHIA.
+Wer Gottes Sohn verwirfft / der ist der größte Sünder.
+
+
+HONORIUS.
+Du wirst nicht klüger seyn / als die geweihte Schaar.
+
+
+SOPHIA.
+Jhr blinder Irrthum stürtzt die Seelen in Gefahr.
+
+
+PALLADIA.
+Eur blinder Irrthum stürtzt die Seelen in die Hölle.
+
+
+SOPHIA.
+Wer sich zu Jesu hält / der hat die beste Stelle.
+
+
+HONORIUS.
+Die beste Stelle wird dir zeigen Hadrian.
+
+
+SOPHIA.
+Mein Hertz ist schon vergnügt auf der beblühmten Bahn.
+
+
+
+PALLADIA.
+Was kan diß Hirten-Haus vor grosse Lust dir geben?
+
+
+SOPHIA.
+Hier kan ich früh und spat den wahren Gott erheben.
+
+
+HONORIUS.
+Die Götter kan man mehr im Capitol erhöhn.
+
+
+SOPHIA.
+Das Capitol vergeht / mein Gott wird ewig stehn.
+
+
+PALLADIA.
+Wer bey dem Kaiser steht / kan nimmermehr verschwinden /
+
+
+SOPHIA.
+Der Kaiser wird nebst Euch den Himmel so nicht finden!
+
+
+HONORIUS.
+Den ird'schen Göttern ist ihr Himmel auf der Welt.
+
+
+SOPHIA.
+Wer hier den Himmel hat / kommt nicht zum Sternen-Zelt.
+
+
+PALLADIA.
+Der Himmel dieser Welt wird keinen nicht verdammen.
+
+
+SOPHIA.
+Der Himmel dieser Welt hegt nichts / als Wollusts Flammen!
+
+
+HONORIUS.
+Durch diese Flammen wird erhalten Leib und Geist.
+
+
+SOPHIA.
+Nein! weil die Wollusts-Glut uns von der Andacht reißt.
+
+
+
+PALLADIA.
+Sie können beide blühn in einer klugen Seele.
+
+
+SOPHIA.
+Es kan nur eine blühn in meines Hertzens Höle.
+
+
+HONORIUS.
+So liebet dann Sophie die Gruft der Einsamkeit?
+
+
+SOPHIA.
+Die Unruh herrscht in Rom / hier güldne Sicherheit.
+
+
+PALLADIA.
+Dort schaut sie Gold / und Gipß / und tausend Diamanten.
+
+
+SOPHIA.
+Hier dient mir Luft und Bach stat schönster Musicanten.
+
+
+10
+
+
+
+
+HONORIUS.
+Dort wird der Kaiser dich oft küssen auf den Mund.
+
+
+SOPHIA.
+Auf diesem Kuß beruht nicht meiner Wolfarth grund.
+
+
+PALLADIA.
+Hier deckt sie Laub und Gras / dort köstlichste Tapeten.
+
+
+SOPHIA.
+Kennt auch Palladia des Hofes Blut-Cometen?
+
+
+HONORIUS.
+Ach ändre deinen Sinn! Du bist kein Engel nicht!
+
+
+SOPHIA.
+Honorius / du weist / die Tugend ist mein Licht!
+
+
+
+PALLADIA.
+Die wahre Tugend ist im grossen Rom zu sehen.
+
+
+SOPHIA.
+Die Tugend wohnet nicht / wo Geilheits Lüfte wehen.
+
+
+HONORIUS.
+So läßt Sophia nicht von solchem Irrthum ab?
+
+
+SOPHIA.
+Nein! Christo bleib ich treu biß ins beschwärtzte Grab.
+
+
+PALLADIA.
+Wie wird der Kaiser doch den frechen Abfall straffen?
+
+
+SOPHIA.
+Er brauche / wie er wil / die allergrimmsten Waffen!
+
+
+HONORIUS.
+Du wirst in kurtzer frist den schönen Ausgang schaun!
+
+
+SOPHIA.
+Mir wird vor keiner Qual in dieser Sache graun!
+
+
+PALLADIA.
+Der Kaiser sol alsbald die schnöde That erfahren!
+
+
+SOPHIA.
+Der Kaiser aller Welt wird seine Magd bewahren.
+
+
+
+Reyen
+
+
+Der Religion / der Vernunft / des Glaubens und der Ketzer.
+
+
+Der Schau-Platz verändert sich in einen Tempel.
+
+
+
+
+RELIGION.
+
+Mein weisses Licht beschämt der Sonnen-Glantz /
+Mein silbern Kleid Sapphir und Diamant /
+Die Flammen sind mein schönster Ehren-Krantz /
+Der Sternen Gold mein rechtes Vaterland:
+Gott ist mein Schatz / die Engel meine Brüder.
+Zeit / Höll' und Tod sinckt vor mir bebend nieder.
+Ost / West / Sud / Nord laufft meiner Schönheit nach /
+Ein ieder wil mich heissen seine Braut;
+Doch wehm beliebt mein sanftes Schlaf-Gemach /
+Dem muß so Glaub' alß Liebe seyn vertraut:
+Denn wenn Vernunft den tollen Zepter führet /
+Da wird bey mir nur Ach und Weh verspühret.
+So reicht mir nun den unverfälschten Kuß /
+Die ihr das Licht der Ewigkeit verlangt /
+Das Paradieß / den Zucker-reichen Fluß /
+Wo man mit Palm und Sieges-Kronen prangt /
+Wo für und für die reinen Seraphinen
+Mit Himmel-Brodt und Nectar mich bedienen!
+
+
+
+VERNUNFT.
+
+Wer ist doch die / die sich so hoch erhebt /
+Jn Jhrem Wahn schon bey den Sternen schwebt /
+Jhr stoltzes Haupt mit Perl' und Gold beblühmet /
+Und sich so frech alß eine Göttin rühmet?
+Religion! Was ist doch deine Pracht?
+Elendes Weib! Ein Schwaden-voller Schacht /
+Ein blosser Traum / ein eingebildtes Wesen /
+Wo keiner kan im Leben recht genesen!
+
+
+Jch aber bin die Fürstin dieser Welt /
+Die Luft / See / Glutt / und Erd' und Mensch erhält!
+Mein Glas / mein Stab / mein Zirckel wird bezeigen /
+Daß die Vernunft auch über dich kan steigen.
+
+
+
+GLAUBE.
+
+Schweig Thörichte / und laß die Göttin stehen!
+Ob derer Glantz Dian und Zevs verschwindt!
+Ein Welt-Kind wird dein Schau-Glas zwar erhöhen /
+Doch dieser nicht / der himmlisch ist gesinnt.
+
+
+
+VERNUNFT.
+
+Wer wil doch nicht der grossen Narrheit lachen!
+Ein blinder wil des andern Schutzherr seyn?
+Vernunft muß ja den wahren Abriß machen /
+Wie ieder Mensch geh in den Himmel ein.
+
+
+
+GLAUBE.
+
+Der Abriß ist aus diesem Buch zu nehmen /
+Diß zeiget uns die rechte Sternen Bahn:
+Drumb wollest du doch deine Sinnen zähmen!
+Was hier geschicht / ist alles wolgethan.
+
+
+
+VERNUNFT.
+
+Jst's wolgethan? Laßt uns den inhalt schauen:
+Welch toller Schwarm der Vögel zeigt sich hier?
+Du kanst hinfort auf solches Glätteis bauen /
+So wirst du seyn beglücket für und für!
+
+
+
+GLAUBE.
+
+Djß Grillen-Werck entspringt aus deinen Händen /
+Wenn sie zuvor nicht reiner Glaube wäscht:
+Denn keiner wird hier an den Hafen lenden /
+Der nicht bey mir der Klugheit-Flammen lescht.
+
+
+
+
+VERNUNFT.
+
+Ha! toller Wahn! Ha! ungereimtes sprechen!
+So Schrift / als Wort muß ja auf mir beruhn;
+Sonst würde Gott sein Urtheil selber schwächen /
+Und wüste nicht der Glaube / was zu thun.
+
+
+
+GLAUBE.
+
+Mein brennend Hertz fleugt eintzig nach den Sternen /
+Dahin Vernunft nicht ihre Flügel schwingt.
+
+
+
+VERNUNFT.
+
+Dein Flügel-Paar muß sich vom Pol entfernen /
+Wenn dir Vernunft nicht flug und Beystand bringt.
+
+
+
+GLAUBE.
+Der Glaube siegt durch eig'ne Andachts-Strahlen.
+
+
+VERNUNFT.
+
+Dje Augenblicks mein Fern-Glaß dämpfen kan /
+Schau! Welche Glut in deines Hertzens-Schaalen!
+
+
+
+GLAUBE.
+
+Auch in der Asch seh' ich den Himmel an.
+Die Funcken sind ein Vorspiel neuer Flammen.
+
+
+
+VERNUNFT.
+
+Aus dieser Asch' entsteht kein Phönix nicht;
+Es füge denn mein Richtscheit sie zusammen.
+
+
+
+GLAUBE.
+
+Dein Schau-Glaß wird verwandelt in kein Licht:
+Jch aber kan die Berge selbst bewegen.
+
+
+11
+
+
+
+
+
+VERNUNFT.
+Durch meinen Arm.
+
+
+
+GLAUBE.
+Der Glaube thuts allein.
+
+
+VERNUNFT.
+Auch die Vernunft.
+
+
+GLAUBE.
+Jch bringe Glück und Seegen.
+
+
+VERNUNFT.
+Aus meinem Quell.
+
+
+GLAUBE.
+
+Quillt Sorgen-volle Pein.
+Jch herrsche bloß in Gott geweihten Sachen!
+Jch bin die Perl' in der Religion!
+
+
+
+VERNUNFT.
+
+Jch muß dir nur kund meine Stärcke machen.
+Jhr Söhne auf! Erscheint vor meinem Thron!
+Wir wollen schaun / wer unter uns wird grünen.
+
+
+
+DIE ACHT KETZER
+
+unter der Erden.
+
+Wir werden dich / O Mutter / stracks bedienen!
+
+
+Acht Ketzer steigen aus einer Höle / dehren ieder nach ertheiltem Kusse der Religion ein stücke von ihrem Kleide reisset und sich damit bedecket.
+
+
+
+
+EBIONITA.
+
+Religion / du allerliebste Braut /
+Es hat sich dir mein Ebion vertraut:
+Ist Ebion dein Buhler nun gewesen /
+So laß / auch mich durch diesen Kuß genesen.
+
+
+
+
+CERINTHIANUS.
+
+Religion / mein Zuckersüsses Licht /
+Es hat sich dir Cerinthus ja verpflicht!
+Cerinthus, der dich kühnlich mögen küssen;
+Drumb lasse mich auch solcher Gunst genüssen!
+
+
+
+BASILIDIANUS.
+
+Religion / du Labsal meiner Brust /
+Basilides war dir ja wol bewust /
+Der oft geruht auf deinen Marmel-Wangen:
+Ach lasse mich auch einen Kuß erlangen!
+
+
+
+GNOSTICUS.
+
+Religion / du hochgeschätzter Gast /
+Kein Gnosticus war iemahls dir verhaßt:
+Drumb wo du liebst hochfliegende Gedancken /
+So schleuß mich ein in deinen Liebes-Schrancken!
+
+
+
+MONTANISTA.
+
+Religion / du Engel dieser Welt /
+Wofern dein Witz was vom Montanus hält /
+Der Dir zu Ruhm stets lag in Höl und Klippen /
+So labe mich mit deinen Purpur-Lippen.
+
+
+
+VALENTINIANUS.
+
+Religion / du allerschönster Schwan /
+Dir war ja lieb mein Valentinian:
+Weil dieser nun stets deinen Glantz vermehret /
+So leide auch / daß dich sein Diener ehret!
+
+
+
+OPHITA.
+
+Religion / du Wunder unsrer Zeit /
+Zu deinem Dienst steht dieser Molch bereit;
+Wo du nun nicht verschmähest meine Schlangen /
+So lasse mich auch einen Kuß erlangen!
+
+
+
+
+ADAMIANUS.
+
+Religion / du fruchtbar Paradieß /
+Die du geheilt des Adams Apfel-Biß;
+Ach wärme mich / der ich dir nackend diene /
+Mit einem Kuß auf der geweihten Bühne!
+
+
+
+ALLE KETZER.
+
+Du Sonne darffst auch Stern und Fackel nicht;
+Nihm / Mutter / an die Zeichen unsrer Pflicht /
+Zu welchen auch die Sclavin wird verfüget!
+
+
+
+VERNUNFT UND ALLE KETZER.
+So hat Vernunft dem Glauben obgesieget!
+
+
+Der Schau-Platz wird in einem Augenblick über und über verfinstert / Die entkleidete Religion singet im Schatten also.
+
+
+
+Jhr Heuchler / geht / prahlt nur mit meinem Rocke /
+Auf dessen Kraft ihr gantz vergeblich baut!
+Denn wer Gott dient bloß mit zerstücktem Schmucke /
+Der ist nicht mein noch ich bin seine Braut!
+
+
+
+
+
+
+
+
+2. Akt
+
+
+
+
+
+
+Die andere Abhandlung.
+
+Der Schauplatz stellet vor deß Kaisers-Gemach.
+
+
+Hadrianus. Heliodorus. Epictetus. Antoninus. Svetonius Tranquillus. Salvius Julianus. Septitius Clarus. Unterschiedliche Hofbedienten / Pagen /Freygelassene / Mohren und Trabanten.
+
+
+
+HADRIANUS.
+
+Der Sonnen Majestät erleucht zwar alle Welt /
+So bald ihr göldnes Rad laufft durchs gestirnte Zelt;
+Wie leichtlich aber muß sie Fleck und Nebel leiden /
+Wenn düstre Wolcken sie mit schwartzem Flor bekleiden!
+So gehts auch mit der Sonn' in dem so grossen Reich /
+Vor derer Wunder-Glantz die Sonne selbst wird bleich!
+Uns hat zwar Jupiter den Lorber-Krantz geschencket /
+Nach dehme sich Trajan den Sternen zugelencket /
+Und uns Plotinens Gunst auf diesen Thron gesetzt:
+
+
+12
+
+
+Wir haben Stadt und Land mit höchster Lust ergötzt /
+Der Erden gröstes Theil glückseelig überwunden /
+Der Juden Trotz gestillt
+
+
+13
+ / die Syrer uns verbunden /
+Sicilien beherrscht / Britannien bekriegt /
+Die Gallier gedämpft / gantz Africam besiegt.
+Athen kennt unsre Macht / der Parther muß uns hören /
+Der Bactrianer Fürst deß Kaisers Ausspruch ehren.
+Wir haben selbst beschaut des Aetna Feuer-Kluft /
+Die Stärcke des Euphrats / der Vesta heil'ge Gruft.
+Es zeigt das grosse Rom viel theure Sieges-Bogen /
+Durch die wir im Triumph höchstprächtig eingezogen.
+
+
+Man schleußt zum dritten mahl des Janus Tempel zu;
+Es blüht das Capitol in unbewegter Ruh;
+Kein Donner nahet sich zu unsern Lorber-Blättern.
+Mit kurtzem: Hadrian kan ewig sich vergöttern!
+Allein diß süsse Glück kehrt sich in Gift und Gall /
+Wenn uns der trübe Dunst / der rauhe Donnerknall /
+Und ungeheure Blitz / den Christus Schaar erwecket /
+Umbnebelt Hertz und Sinn! Der Purpur wird beflecket
+Mit Blute für und für; man straft zwar ihren Trotz /
+Jedoch so Straf alß Pein bringt annoch schlechten Nutz.
+Drumb gebt doch treulich Rath / wie diese Pest zu dämpfen!
+
+
+
+HELIODORUS.
+
+Durchlauchtigster Monarch / wenn Nattern mit uns kämpfen /
+Wenn uns ihr stich verletzt / so muß man sich bemüh'n
+Umb stärckstes Gegen-Gift: Sol uns das Glücke blühn /
+Soll Zepter / Kron / und Thron / wie Diamant bestehen /
+So muß fürnehmlich man der Götter Macht erhöhen /
+Erweitern früh und spat ihr hochgeweihtes Haus /
+Was ihnen wiederstrebt / verkehr'n in Asch und Graus /
+Und was sich Christen nennt / mit strumpf und stil vertilgen:
+Denn eher schaun wir nicht die wahren Wohlfarths-Lilgen /
+Biß diese Nattern sind ins Todten-Meer versenckt!
+
+
+
+EPICTETUS.
+
+So ists: Diespiter wird durch nichts mehr gekränckt /
+Alß wenn der tolle Schwarm der Christen aus sich-breitet /
+Und wider sein Altar in blindem Eifer streitet /
+Der / wo man länger schont / uns in den Abgrund stürtzt.
+Denn wer den Ketzern nicht das Leben stracks verkürtzt /
+Eh ihre Fantasie mehr Seelen kan vergiften /
+Der wird kein Ehrenmahl dem göldnen Zepter stiften.
+Drumb wil der Kaiser auch von Göttern seyn beglückt /
+So muß die Schwärmerey der Christen seyn erdrückt /
+Sonst werden nur entweiht die himmlischen Altäre.
+
+
+
+
+ANTONINUS.
+
+Es sind die Tempel ja die besten Schutz-Gewehre /
+Wenn Hunger / Krieg und Pest so Städt alß Ländern dräut.
+Wird nun ihr heil'ger Glantz vom Nebel nicht befreyt /
+Vom Nebel / dessen Nacht die Christen-Hund' erwecken /
+So werden wir uns selbst mit eigner Faust beflecken /
+Denn Kron und Infel muß in gleicher Hohheit stehn.
+Drumb wil Er / grosser Fürst / sich wie Trajan erhöhn /
+Wil Er / daß Jupiter sein edles Glück vermehre /
+So tilg' Er gäntzlich aus der Christen falsche Lehre /
+Die nichts alß Unheil spinnt / und Zanck / und Mord erregt!
+
+
+
+SVETONIUS TRANQUILLUS.
+
+Jm fall diß wicht'ge Werck wird weislich überlegt /
+So muß man frey gestehn / daß nichts dem Röm'schen Reiche
+Mehr Schaden füge zu / alß diese gift'ge Seuche /
+Alß diß verfluchte Volck und Schlangenvolle Schaar /
+Die ihrem Christus baut ein thörichtes Altar /
+Und Dieb und Mördern gleich stets murmelt in den Grüften;
+Drumb weil ihr Aberwitz sich selber muß vergiften /
+Weil unter ihnen selbst nur lauter Zwiespalt ist /
+In dem ein ieder Narr wil seyn ein gutter Christ /
+So trete man in Koth die gift'gen Scorpionen!
+
+
+
+SALVIUS JULIANUS.
+
+Wahr ists: Wie solte man der tollen Hunde schonen /
+Die blosse Fantasie zur Andacht treibt und reitzt?
+Denn wer die weite See bald hier / bald dar durchkreutzt /
+Und mit dem Bleymaß nicht oft wil die Tieffen gründen /
+Der wird wol nimmermehr den rechten Hafen finden:
+So ists auch hier bewandt: Dort schwärmt ein Adamit /
+Hier ein Zerinthian / dort ein Ebionit /
+Hier ein Basilides / dort närr'sche Montanisten;
+Und alle deckt das Kleid der reingesinnten Christen.
+O grause Schwärmerey! Drumb fort mit ihnen! fort!
+
+
+
+
+SEPTITIUS CLARUS.
+
+Kein schöners Richt-Altar / kein angenehmer Mord
+Wird unsern Göttern seyn / alß wenn in Band und Eisen
+Die abgestraffte Schaar der gantzen Welt wird weisen /
+Wie sehr ihr Aberwitz dem Himmel sey verhaßt.
+Wil nun Fürst Hadrian von der so schweren Last /
+Von diesem Zauber-Volck und Jüdischen Geschwüre
+Glückseelig sich befreyn; sol ihm die Gnaden-Thüre
+Der Götter offen stehn / sol Bürger und Soldat
+In steter Wonne blühn / so setz' er unsern Rath
+Doch aus den Augen nicht! Denn weil die Christen leben /
+Kan Friede nicht im Reich / Ruh umb den Kaiser schweben;
+
+
+
+HADRIANUS.
+Ist keine lindre Kuhr zu heilen diesen Brand?
+
+
+HELIODORUS.
+Nein! Wo genesen sol Stadt / Tempel / Thron / und Land!
+
+
+HADRIANUS.
+Stadt / Tempel / Thron und Land wird Jupiter beschützen.
+
+
+EPICTETUS.
+Er schützt nicht / wenn man nicht wil auf die Frevler blitzen!
+
+
+HADRIANUS.
+Vielleicht verändert sich ihr falschgesinnter Wahn.
+
+
+ANTONINUS.
+Es wird kein Rabe nicht zum Kreidenweissen Schwan.
+
+
+HADRIANUS.
+Der Nebel des Gemüths weicht den Gewissens-Sonnen.
+
+
+SVETONIUS TRANQUILLUS.
+Der Nebel des Gemüths wird durch kein Licht gewonnen.
+
+
+
+HADRIANUS.
+Den Nebel des Gemüths vertreibt des Glaubens-Glantz.
+
+
+SALVIUS JULIANUS.
+Ja; wo nicht die Vernunft prangt mit dem Sieges-Krantz.
+
+
+HADRIANUS.
+Das Schau-Glaß der Vernunft wird nicht den Glauben dämpfen.
+
+
+SEPTITIUS CLARUS.
+Der Glaube sinckt ins Grab / wenn die Vernunft wil kämpfen.
+
+
+HADRIANUS.
+Vernunft und Glaube kan in einer Seele stehn:
+
+
+HELIODORUS.
+Sie können beyde nicht der Götter Dienst erhöhn.
+
+
+HADRIANUS.
+Genung! So dienen nichts die angezognen Mittel?
+
+
+EPICTETUS.
+Kein besser Mittel ist / alß nur der Sterbe-Kittel;
+
+
+HADRIANUS.
+Der Sterbe-Kittel wird verdunckeln unsern Schmuck.
+
+
+ANTONINUS.
+Hierdurch vergrößert sich des Kaisers göldner Rock.
+
+
+HADRIANUS.
+Je mehr man auf sie stürmt / ie mehr sie sich erweitern.
+
+
+SVETONIUS TRANQUILLUS.
+Deß Kaisers Sinnen-Schiff muß an dem Fels nicht scheitern.
+
+
+
+HADRIANUS.
+Sie sind an Fruchtbarkeit der gift'gen Hydra gleich.
+
+
+SALVIUS JULIANUS.
+Es wird die Mißgeburt doch endlich werden bleich.
+
+
+HADRIANUS.
+Soll denn das große Rom sich voller leichen schauen?
+
+
+SEPTITIUS CLARUS.
+Vor Christen-äßern muß den Römern gar nicht grauen!
+
+
+HADRIANUS.
+Soll sich der Tyber-Strohm verkehrn in schwartzes Blut?
+
+
+HELIODORUS.
+Solch Blut beflecket nicht die sanfte Tyber-Flut.
+
+
+HADRIANUS.
+Wie wenn sie für und für im düstern Kercker blieben?
+
+
+EPICTETUS.
+Hiedurch wird diese Pest aus Welschland nicht vertrieben!
+
+
+HADRIANUS.
+Wer im Gefängniß sitzt / lebt sonder alle Macht.
+
+
+ANTONINUS.
+Die gröste Büberey herrscht oft ins Kerckers Schacht.
+
+
+HADRIANUS.
+Durch starcke Wache kan diß Unheil man verhütten.
+
+
+SVETONIUS TRANQUILLUS.
+Man muß mit einem Schlag der Christen Schwarm zerrütten.
+
+
+
+HADRIANUS.
+Es läßt die Christen sich nicht tödten auf ein mahl.
+
+
+SALVIUS JULIANUS.
+Dort brenne Zang' und Glut; Hier schneide Strick und Stahl!
+
+
+HADRIANUS.
+Hat sich doch Antonin der Menge kaum erwehret.
+
+
+14
+
+
+
+
+SEPTITIUS CLARUS.
+Rom ist von Schwerdt / und Beil / und Foltern nicht entlehret.
+
+
+HADRIANUS.
+Es sey! Hilfft Gütte nichts / so helffe Grimm und Blitz!
+
+
+HELIODORUS.
+O längst-gewündschter Schluß! So grünt deß Kaisers Sitz!
+
+
+EPICTETUS.
+So wird der Römer Haupt des Himmels Gunst genüssen!
+
+
+ANTONINUS.
+So wird die Themis sich mit Fried' und Eintracht küssen!
+
+
+SVETONIUS TRANQUILLUS.
+So wird das Capitol in schönster Blühte stehn!
+
+
+SALVIUS JULIANUS.
+So wird des Kaisers Ruhm zu keiner Zeit vergehn!
+
+
+SEPTITIUS CLARUS.
+So wird das Krieges-heer in tausend Freuden schweben!
+
+
+HELIODORUS.
+
+ EPICTETUS. ANTONINUS. SVETONIUS TRANQUILLUS. SALVIUS JULIANUS. SEPTITIUS CLARUS.
+So wird Fürst Hadrian auch nach dem Tode leben!
+
+
+
+
+
+Jtztermelte Personen / Palladia. Honorius. Ein Page der Kaiserin.
+
+
+
+
+HADRIANUS.
+Was bringt Palladia mit unsrem Freund' Honor?
+
+
+PALLADIA.
+Der Kaiser gebe nach / daß man ihm trage vor Sophiens Aberwitz!
+
+
+HADRIANUS.
+Was läßt sich die gelüsten?
+
+
+HONORIUS.
+Sie hält sich zu der Schaar der Lastervollen Christen!
+
+
+HADRIANUS.
+Sophie? Die kluge Frau? Die wir stets werth geschätzt Der Kaiserlichen Gunst?
+
+
+PALLADIA.
+
+So ists! Sie ist verhetzt
+Durch das verfluchte Volck! Wir haben selbst geschauet /
+Wie vor den Tempeln ihr der alten Götter grauet /
+Und wie sie Christum rühmt: nicht aber Sie allein
+Hat dieses Gift bethört durch falschgeschminckten schein.
+Die ärmsten Kinder sind auch leider so beflecket!
+
+
+
+HADRIANUS.
+
+Welch Teufel hat doch wohl den grausen Blitz erwecket
+In der so edlen Seel' / und Lilgenreinen Brust?
+
+
+
+HONORIUS.
+Der Alexander ist ihr Labsal / Trost und Lust.
+
+
+
+HELIODORUS.
+Der unverschämte Hund darff sich so viel erkühnen?
+
+
+EPICTETUS.
+
+Sind keine Hencker nicht / sind keine Folter-Bühnen
+Vor diesen Buben dar?
+
+
+
+PALLADIA.
+
+Es ist was grössers noch
+Von der Sophie verübt! Sie hat ins strenge Joch
+Der steten Keuschheit auch viel Nymffen eingespannet /
+Die sonsten nimmermehr die Lust der Eh' verbannet
+Aus dem verliebten Hertz.
+
+
+
+ANTONINUS.
+Jsts möglich / was sie sagt?
+
+
+HONORIUS.
+Nicht anders!
+
+
+SVETONIUS TRANQUILLUS.
+Hat Sophie die schnöde That gewagt?
+
+
+SALVIUS JULIANUS.
+Hat ihre Weißheit sich so freventlich vergangen?
+
+
+SEPTITIUS CLARUS.
+Hat die verdammte Lehr auch ihren Geist gefangen?
+
+
+HADRIANUS.
+Vermaledeites Weib! Was Rath zu dieser Sach?
+
+
+HELIODORUS.
+Hier muß sich zeigen bald die höchst-gerechte Rach!
+
+
+
+EPICTETUS.
+Hier muß man ohn Verzug sie vor den Richtstul fodern!
+
+
+ANTONINUS.
+Wer Laster-Flammen liebt / der mag darin verlodern.
+
+
+SVETONIUS TRANQUILLUS.
+Wer Gott und Kaiser trotzt / der fühle Straf und Pein /
+
+
+SALVIUS JULIANUS.
+Man schlüsse schleunig Sie in strenge Fessel ein!
+
+
+SEPTITIUS CLARUS.
+Die werden zweifelsfrey den Irrthum ihr vermindern.
+
+
+HADRIANUS.
+
+Geh stracks / Septitius / zu den verführten Sündern
+Mit der Trabanten Schaar; entdecke / was uns drückt /
+Daß durch den Abfall wir mit Sorgen seyn bestrickt:
+Und wo sichs so verhält / so führ sie in den Ketten
+Ohnsäumbar zu uns her / damit wir sie erretten /
+Jmfall es möglich ist / aus diesem Labyrinth.
+
+
+
+SEPTITIUS CLARUS.
+
+Was Eure Majestät höchst-gnädig an mich sinnt /
+Sol Augenblicks geschehn.
+
+
+
+HADRIANUS.
+So muß die Rach einbrechen!
+
+
+PAGE DER KAISERIN.
+
+Die Fürstin wünschet Ihn /Durchlauchster/itzt zu sprächen /
+Und zwar gantz in geheim.
+
+
+
+
+HADRIANUS.
+
+Die Fürstin mag uns schau'n!
+Entweicht ins Vorgemach! – – –
+
+
+
+Hadrianus. Julia Sabina.
+
+
+
+
+JULIA SABINA.
+
+– – – Mein Engel! Jch erstaun!
+Jch weiß nicht / wo ich bin! Was hat man doch beschlossen?
+Ach! Ist dann nicht genug unschuldig Blut vergossen?
+
+
+
+HADRIANUS.
+Mein Schatz / was zeigen uns die bangen Seuftzer an?
+
+
+JULIA SABINA.
+Der Christen Jammer macht / daß ich kaum Athmen kan?
+
+
+HADRIANUS.
+Welch toller Aberwitz reitzt sie zu solcher Klage?
+
+
+JULIA SABINA.
+Der grossen Götter Zorn und deß Gewissens Plage.
+
+
+HADRIANUS.
+Die Götter sind erfreut / wenn man die Hunde quält.
+
+
+JULIA SABINA.
+Jch zweifle / daß man so den rechten Zweck erwehlt?
+
+
+HADRIANUS.
+Hier ist kein Irrthum nicht: wir ehren unsre Götter.
+
+
+JULIA SABINA.
+Die Sanftmuth zieret schön deß Kaisers Lorber-Blätter.
+
+
+
+HADRIANUS.
+Die Sanftmuth in dem Fall kommt nicht dem Kaiser zu.
+
+
+JULIA SABINA.
+Die Edle Tugend schafft dem Kaiser Fried und Ruh.
+
+
+HADRIANUS.
+Wir suchen Fried und Ruh in heil'gen Glaubens Sachen.
+
+
+JULIA SABINA.
+Jm Glauben läßt sich's nicht mit Blitz und Donner krachen.
+
+
+15
+
+
+
+
+HADRIANUS.
+Wohl / wenn Halßstarrigkeit sich gar nicht lencken wil.
+
+
+JULIA SABINA.
+Bescheidenheit und Glimpf / ist stets des Glaubens Ziel.
+
+
+HADRIANUS.
+Die Christen lassen sich durch keinen Glimpf bewegen.
+
+
+JULIA SABINA.
+Mehr alß durch Raserey und blutbeströhmte Degen.
+
+
+HADRIANUS.
+Das Richt-Beil muß gewetzt / der Dolch geschlieffen seyn.
+
+
+JULIA SABINA.
+Sie werden nur vermehrt durch angestrengte Pein.
+
+
+HADRIANUS.
+Je mehr das Unkraut wächst / ie mehr muß mans vertilgen.
+
+
+JULIA SABINA.
+Doch mit dem Unkraut nicht die weissen Unschulds-Lilgen.
+
+
+
+HADRIANUS.
+Die Unschulds-Lilge krönt der Christen Scheitel nicht.
+
+
+JULIA SABINA.
+Jch schau nicht / welcher Trotz deß Kaisers Thron anficht.
+
+
+HADRIANUS.
+Ist diß nicht grosser Trotz / daß sie die Götter schmähen?
+
+
+JULIA SABINA.
+Man muß dem albern Volck was durch die Finger sehen.
+
+
+HADRIANUS.
+Es schadet die Gedult / wenns Gottes Ehr' angeht.
+
+
+JULIA SABINA.
+Der Götter Ehre wird durch die Gedult erhöht.
+
+
+HADRIANUS.
+Princeß / es lässet sich nicht mit den Göttern schertzen.
+
+
+JULIA SABINA.
+Die Götter lieben nur die göldnen Eintrachts-Kertzen.
+
+
+HADRIANUS.
+Wir suchen diese Kertz' in der Religion.
+
+
+JULIA SABINA.
+Wie leichtlich ändert sich der Seitenspiele Thon!
+
+
+HADRIANUS.
+Bey solcher änderung ist kein schön Lied zu hoffen.
+
+
+JULIA SABINA.
+Der Götter Tempel stehn so Gutt- alß Bösen offen.
+
+
+
+HADRIANUS.
+Sie gehen zwar hinein / doch mit ungleichem Nutz.
+
+
+JULIA SABINA.
+Die Götter nehmen beid' in ihren Schirm und Schutz.
+
+
+HADRIANUS.
+Wie Fürstin? Schwärmet sie? Was sind das vor Gedancken?
+
+
+JULIA SABINA.
+Der Kaiser wolle doch von seinem Vorsatz wancken!
+
+
+HADRIANUS.
+Der Vorsatz bleibet fest! Die Christen müssen fort!
+
+
+JULIA SABINA.
+Sol denn das grosse Rom nichts sehn alß Rach und Mord!
+
+
+HADRIANUS.
+Viel besser Rach und Mord / alß Feinde unsrer Götter!
+
+
+JULIA SABINA.
+Ach! Sol denn die Sophie auch treffen dieses Wetter?
+
+
+HADRIANUS.
+Es trifft Sie / wo sie nicht den Irrthum von sich stößt.
+
+
+JULIA SABINA.
+Es wird den Frauen leicht ein Irrthum eingeflößt!
+
+
+HADRIANUS.
+Dehn Irrthum können auch die kleinsten Kinder wissen.
+
+
+JULIA SABINA.
+Mein Hertz! Er lasse sie doch Gnad' und Huld geniessen.
+
+
+
+HADRIANUS.
+Es weichet Gnad' und Huld dem Gottgeweihten Recht.
+
+
+JULIA SABINA.
+Es ist ja Hadrian nicht des Gesetzes Knecht!
+
+
+HADRIANUS.
+Das Himmlische Gesetz wird hier den Ausgang zeigen.
+
+
+JULIA SABINA.
+
+Mein Schatz! Ach wo sich darff Sabina vor ihm neigen /
+Sabina / derer Mund – –
+
+
+
+HADRIANUS.
+
+Stell' alle Seuftzer ein!
+Dein Flehen ist umsonst! Es kan nicht anders seyn!
+
+
+
+Der Schau-Platz verwandelt sich in der Sophie Bet-Zimmer. Sophia kniet vor einem Altar.
+
+
+Sophia, zwey Engel. Fides. Spes. Charitas.
+
+
+
+
+SOPHIA.
+
+Mein JESU! Schau ich an die grosse Liebes-Flamme /
+Womit du mich bestrahlt ans Creutzes heil'gem Stamme /
+So muß mein brennend Hertz vor Liebe fast vergehn:
+Denn deine Liebe kan kein Redner satt erhöhn!
+Mein Bräut'gam! Lasse mich doch diese lieb' erfreuen /
+Wann mir der Kaiser wird mit tausend Plagen dreuen.
+Begnade mich / mein Gott / mit unverzagtem Muth!
+Hier opfert dir Sophie Leib / Kinder / Seel' und Guth!
+
+
+
+
+
+Zwey Engel erscheinen in der Luft / welche bey vorstellung einer Diamantenen Lorber-Krone nebst diesen Feuerflammenden Wörtern: Legitime Certantibus. die Sophie also ansingen:
+
+
+
+Sey getreu in aller Noth!
+Uberwinde Welt und Tod!
+So wird man in jenem Leben
+Dir die Ehren-Krone geben!
+
+
+
+Die Engel verschwinden.
+
+
+
+
+SOPHIA.
+
+Welch Sonnenheller Glantz erleuchtet mein Gesicht!
+Wie? Schau ich Engel hier? O gnadenreiches Licht!
+Jedoch was werden mir die blassen Kinder bringen?
+
+
+
+FIDES.
+Soldaten wollen sich durch Hof und Garten dringen!
+
+
+SPES.
+Ach! Laßt uns eilends fliehn / daß uns der Feind nicht find't.
+
+
+CHARITAS.
+Wo sie / Frau Mutter / bleibt / da bleibet auch ihr Kind!
+
+
+SOPHIA.
+
+Getrost! Die Tyranney mag alle Qual entdecken!
+Ein Gottverlobter Geist läßt sich kein Wetter schrecken.
+
+
+
+
+
+Sophia. Fides. Spes. Charitas. Septitius Clarus, Nebst einer Menge Römischer Soldaten.
+
+
+
+
+SOPHIA.
+
+Was bringt Septitius mit der bewehrten Schaar?
+Sucht man Sophiens Tod / und ihrer Kinder Bahr?
+
+
+
+SEPTITIUS CLARUS.
+
+Frau / derer Liebligkeit das grosse Rom erquicket /
+Der Pallas Seel' und Geist / den Leib Dione schmücket /
+Verzeiht / daß Clarus itzt eur Paradies besucht!
+Sie weiß / die Christen sind von Gott und Welt verflucht;
+Sie weiß deß Kaisers Schluß / daß / wer sich wird erkühnen
+Den Hunden beyzufall'n / auf strengen Folter-Bühnen
+In höchster Schmach und Angst sol schliessen Aug' und Mund.
+Hier ist der Fürst bestürtzt / daß den verdammten Bund
+Sophiens kluger Witz so thöricht eingegangen /
+Und daß die gift'ge Pest die Kinder auch gefangen.
+Weil nun ihr scheiternd Heil sein sorgend Hertz bestrickt /
+So hat er seinen Knecht höchstschleunig abgeschickt /
+Zu schau'n / ob nicht Sophie aus dem Morast zu ziehen /
+Wo nichts alß Teufels-Fuß / Napel und Disteln blühen.
+Jch selber bin betrübt / und wündsche / daß ihr Witz
+Die Gnaden-Sonn' erwähl' vor eifer-schwangren Blitz.
+
+
+
+SOPHIA.
+
+Mein Freund! Daß noch der Fürst ist seiner Magd geneiget /
+Daß ihr Gedächtniß ihm noch ins Gemüthe steiget /
+Ist freylich grosse Gunst / die billich rühmens werth!
+Jch bleib' ihm auch verpflicht / biß sich mein Leib verzehrt!
+Allein / daß Sorgen ihm die sanfte Brust durchnagen /
+Weil ich dem Götzendienst der Heiden abzusagen /
+Mich freudig hab erklärt / und Jesu anvertraut /
+
+
+Da kan ich nicht davor! Mein Heil ist nun gebaut
+Auf einen solchen Grund / den weder Sturm / noch Wellen /
+Noch grimme Tyranney kan brechen und zerschellen!
+
+
+
+SEPTITIUS CLARUS.
+Jch fürchte / daß der Grund wird brechen / eh' mans meint!
+
+
+SOPHIA.
+Den Monden acht ich nichts / wenn mir die Sonne scheint!
+
+
+SEPTITIUS CLARUS.
+Welch Irrwisch / welch Comet / reitzt sie zu solcher Lehre?
+
+
+SOPHIA.
+Das innerliche Licht / deß wahren Gottes Ehre.
+
+
+SEPTITIUS CLARUS.
+Sie schaut vor Sonn' und Stern ein falsches Irrlicht an!
+
+
+SOPHIA.
+Diß Irrlicht führet uns zur rechten Sternen-Bahn!
+
+
+FIDES.
+Diß Irrlicht führet uns zur rechten Himmels-Wiese!
+
+
+SPES.
+Diß Irrlicht führet uns zum rechten Paradiese!
+
+
+CHARITAS.
+Diß Irrlicht führet uns ins rechte Bluhmen-Thal!
+
+
+SEPTITIUS CLARUS.
+Die schönste Bluhme prangt im Kaiserlichen Saal.
+
+
+CHARITAS.
+Den Kaiserlichen Saal wird nicht die Zeit verschonen.
+
+
+
+SPES.
+Es fallen leicht entzwey die schönsten Kaiser-Krohnen.
+
+
+FIDES.
+Kein irdisch Paradies wird für und für bestehn!
+
+
+SEPTITIUS CLARUS.
+
+Es wird der Kaiser Euch den Sternen gleich erhöh'n /
+Die Mutter auf den Thron der höchsten Ehre setzen.
+
+
+
+FIDES.
+
+ SPES UND CHARITAS.
+Uns kan der falsche Dunst der Ehre nicht ergötzen!
+
+
+
+SEPTITIUS CLARUS.
+Sophie! Wie hat sie doch die Kinder so verführt!
+
+
+SOPHIA.
+Die Kinder sind nunmehr mit höchstem Schmuck geziehrt.
+
+
+SEPTITIUS CLARUS.
+Wil sie deß Kaisers Gunst / ihr eigen Glück vermindern?
+
+
+SOPHIA.
+Es sol mich beydes nicht an meiner Seele hindern.
+
+
+SEPTITIUS CLARUS.
+Ach! Sie bedencke doch die Wollust unsrer Zeit!
+
+
+SOPHIA.
+Die Wollust leitet uns nicht zu der Seeligkeit!
+
+
+SEPTITIUS CLARUS.
+Der Kaiser sehnet sich nach ihren Marmel-Brüsten.
+
+
+SOPHIA.
+Es darff den Kaiser nicht nach meiner Brust gelüsten.
+
+
+
+SEPTITIUS CLARUS.
+Der ist des Glückes Kind / den Hadrianus liebt.
+
+
+SOPHIA.
+Durch seine Liebe wird mein Hertze nur betrübt!
+
+
+SEPTITIUS CLARUS.
+So wil sie sonder Eh' im düstern Winckel bleiben?
+
+
+SOPHIA.
+Mich werden Engel hier ins Buch des Lebens schreiben.
+
+
+SEPTITIUS CLARUS.
+Genug! So ist Sophie dann zu bewegen nicht?
+
+
+SOPHIA.
+Nein! Christo hab ich mich biß in mein Grab verpflicht!
+
+
+SEPTITIUS CLARUS.
+So wird sie mir verzeih'n / was ich gezwungen thue!
+
+
+SOPHIA.
+Glaubt / daß auf eurem Thun mein gröstes Glück beruhe!
+
+
+SEPTITIUS CLARUS.
+Schlüßt mit den Kindern sie stracks in die Fessel ein!
+
+
+SOPHIA.
+
+ FIDES. SPES. CHARITAS.
+Die werden unser Ruhm und schönster Siegs-Krantz seyn.
+
+
+
+
+Reyen
+
+
+Der Christen und Christinnen mit der Göttlichen Barmhertzigkeit.
+
+
+Der Schau-Platz bildet ab eine unterirdische Höle in Rom.
+
+
+
+
+DIE CHRISTEN.
+
+So können auch in unterird'schen Hölen
+Die Christen nicht mehr sicher seyn?
+Wil Hadrian uns in der Gruft entseelen
+Durch jammer reiche Qual und Pein?
+Ach Weh! Ach Noth! Ach felsenschwere Schmertzen!
+Wem gehet wol diß Elend nicht zu Hertzen?
+
+
+
+DIE CHRISTINNEN.
+
+Wie seelig ist / wer sonder Furcht und Zagen
+Die göldne Sonne schauen kan!
+Der sich getrost darff auf die Strassen wagen /
+Und wandeln auf der freyen Bahn!
+Uns leider ist diß Glücke nicht bescheret:
+Weil Heid' und Neid der Christen Blut verzehret!
+
+
+
+DIE CHRISTEN.
+
+Du göldnes Rom / du Kaiserin der Erden /
+Wie wird dein Capitol verstellt!
+Wil denn dein Glantz zu einer Hölle werden /
+Den man vor einen Himmel hält?
+Sol für und für der Heiden Bosheit rasen /
+Und Gift und Mord auf Christus Kirche blasen?
+
+
+
+DIE CHRISTINNEN.
+
+Die Themis sol uns ärmste nicht mehr kennen /
+Sie trägt nur Säbeln in der Hand!
+Wer einen Christ sich bloß erkühnt zu nennen /
+Der sinckt bluttrieffend in den Sand;
+
+
+Und wer nicht wil die todten Götzen preisen /
+Dem lohnt man ab mit Schwefel / Pech und Eisen!
+
+
+
+DER I.
+
+ CHRISTEN.
+Elender Stand! Ach Leben-loses Leben!
+
+
+
+DIE I.
+
+ CHRISTINNEN.
+Wir sehen nichts / alß Schrecken / Angst und Leid!
+
+
+
+DER II.
+
+ CHRISTEN.
+Was wird man uns für einen Abschied geben?
+
+
+
+DIE II.
+
+ CHRISTINNEN.
+Wer weiß / was uns vor Marter ist bereit!
+
+
+
+DER III.
+
+ CHRISTEN.
+Wird man den Leib auf lichte Kohlen legen?
+
+
+16
+
+
+
+
+
+DIE III.
+
+ CHRISTINNEN.
+Wird fliessend Bley die Lippen schliessen zu?
+
+
+
+DER IV.
+
+ CHRISTEN.
+Wird man die Brust mit Holtz und Bein durchseegen?
+
+
+
+DIE IV.
+
+ CHRISTINNEN.
+Ein glüend Pferd uns bringen in die Ruh?
+
+
+
+DIE I.
+
+ CHRISTINNEN.
+Wird uns ein Rad die morschen Glieder brechen?
+
+
+
+DER I.
+
+ CHRISTEN.
+Ein Eisern Pfal durchbohren in der Luft?
+
+
+
+DIE II.
+
+ CHRISTINNEN.
+Wird man mit Lantz und Pfriemern uns durchstechen?
+
+
+
+
+DER II.
+
+ CHRISTEN.
+Noch lebendig verscharren in die Gruft?
+
+
+
+DIE III.
+
+ CHRISTINNEN.
+Wird man den Geist mit Zangen uns entrücken?
+
+
+
+DER III.
+
+ CHRISTEN.
+Mit einer Klau? Mit Riemen schwer von Bley?
+
+
+
+DIE IV.
+
+ CHRISTINNEN.
+Wird man den Kopf in Mörseln uns zerstücken?
+
+
+
+DER IV.
+
+ CHRISTEN.
+Deß Leibes Bau zermalmen Bäer und Leu?
+
+
+
+DER I.
+
+ CHRISTEN.
+Wird Kett und Strick das Leben uns verkürtzen?
+
+
+
+DIE I.
+
+ CHRISTINNEN.
+Der Geilheit Zwang die Rosen brechen ab?
+
+
+
+DER II.
+
+ CHRISTEN.
+Wird man uns von Tarpejus Felsen stürtzen?
+
+
+
+DIE II.
+
+ CHRISTINNEN.
+Der Tyber Strom seyn unser Sarg und Grab?
+
+
+
+DER III.
+
+ CHRISTEN.
+Wird man bey Nacht alß Fackeln uns gebrauchen?
+
+
+
+DIE III.
+
+ CHRISTINNEN.
+Den zarten Halß durchschneiden Schwert und Beil?
+
+
+
+DER IV.
+
+ CHRISTEN.
+Wird unser Fleisch ins Kessels Glutt verrauchen?
+
+
+
+
+DIE IV.
+
+ CHRISTIN.
+Wird oder uns entseelen Keil und Pfeil?
+
+
+
+DER I.
+
+ CHRIST.
+Ach!
+
+
+
+DIE I.
+
+ CHRISTIN.
+Ach!
+
+
+
+DER II.
+
+ CHRIST.
+Ach!
+
+
+
+DIE II.
+
+ CHRISTIN.
+Ach!
+
+
+
+DER III.
+
+ CHRIST.
+Ach!
+
+
+
+DIE III.
+
+ CHRISTIN.
+Ach!
+
+
+
+DER IV.
+
+ CHRIST.
+Ach!
+
+
+
+DIE IV.
+
+ CHRISTIN.
+Ach!
+
+
+
+ALLE
+
+zusammen.
+
+Ach! Ach!
+
+
+DER I.
+
+ CHRIST.
+Rach!
+
+
+
+DIE I.
+
+ CHRISTIN.
+Rach!
+
+
+
+
+DER II.
+
+ CHRIST.
+Rach!
+
+
+
+DIE II.
+
+ CHRISTIN.
+Rach!
+
+
+
+DER III.
+
+ CHRIST.
+Rach!
+
+
+
+DIE III.
+
+ CHRISTIN.
+Rach!
+
+
+
+DER IV.
+
+ CHRIST.
+Rach!
+
+
+
+DIE IV.
+
+ CHRISTIN.
+Rach!
+
+
+
+ALLE
+
+zusammen.
+
+Rach! Rach!
+
+
+Ach! Heiland / Ach! Schau doch auf deine Sclaven!
+Verlasse nicht das Häufflein so dich ehrt /
+Führ uns doch ein in den gewündschten Hafen /
+Wo man mit Lust das Dreymahl heilig hört!
+So werden wir diß Jammervolle Leben
+Vor dich getrost in die Rapuse geben /
+Und deinen Ruhm erheben!
+
+
+
+DIE GÖTTLICHE BARMHERTZIGKEIT
+
+erscheinet in den Wolcken / und singet die knienden Christen also an.
+
+
+Betrübteste / laßt schwinden Furcht und Leid!
+Jmfall ihr nur liebt die Beständigkeit /
+
+
+So wird die Gruft euch noch auf dieser Erden
+Zum Paradies und schönsten Himmel werden.
+Gold wird durch Glutt / ein Geist durch Angst bewehrt /
+Glaubt / Liebste glaubt / wird schon eur Leib verzehrt /
+Doch muß euch stets die Seele gantz verbleiben /
+Wenn man sie wird ins Buch des Lebens schreiben.
+Schaut diesen Zweig! Schaut diese Lorber-Krohn!
+Diß Sieges-Mahl wird seyn eur schönster Lohn!
+Denn wer hier wird Fleisch / Welt und Tod verhönen /
+Den werden dort die Seraphinen krönen.
+
+
+
+Sie verschwindet.
+
+
+
+
+DIE CHRISTEN UND CHRISTINNEN
+
+zusammen.
+
+
+O süsser Trost / den uns der Himmel giebt!
+Nun werden wir durch keine Qual betrübt!
+Man mag auf uns viel tausend Klingen wetzen /
+Mit Bäer und Löw' uns auf dem Schau-Platz hetzen!
+Doch werden wir stets unter diesem Streit
+Mit grossem Helden-Muth schaun nach der Ewigkeit.
+
+
+
+
+
+
+
+
+3. Akt
+
+
+
+
+
+
+Die dritte Abhandlung.
+
+Der Schau-Platz stellet vor einen grossen Richt-Saal / nebst einer Heidnischen Capelle.
+
+
+Hadrianus. Heliodorus. Epictetus. Antoninus. Svetonius. Julianus. Palladia. Honorius. Septitius. Sophia. Fides. Spes. Charitas. Die Hof-Leute /Pagen / Mohren / Kriegsbediente / und Trabanten.
+
+
+
+HADRIANUS.
+
+Wer sich in tollem Wahn den Göttern widersetzet /
+Deß Kaisers Schlüsse trotzt / das heil'ge Recht verletzet /
+Der Ahnen Glantz beschimpft / das Vaterland betrübt /
+Dem schwartzen Rhadamant die theure Seel' ergiebt /
+Auf dessen Scheitel wird die Themis schrecklich krachen!
+Frau / derer Schönheit kan die Todte lebend machen /
+Die du im grossen Rom von Aedlen bist erzeugt /
+Von Aedlen / derer Lob noch Ost noch West verschweigt /
+Welch Wahn hat dich verblend't / daß du die alten Götter /
+Deß Römschen Kaiserthums hochmächtigste Erretter /
+Vor Galiläer Gift und garst'ges Christen Blut
+So liederlich vertauscht? Ha! unverschämter Muth!
+Ist dir des Kaisers-Schluß ein blosser Dunst und Schatten?
+Wil dein verblendter Geist mit Teufeln sich begatten?
+Wilstu der Kinder Schaar dem höllschen Abgrund weih'n?
+Wilstu in Nacht verkehr'n der Ahnen göldnen Schein?
+Jedoch weil Frauen leicht ein Irrweg kan verführen /
+So wirstu Gnad' und Huld vor Pein und Straffe spühren /
+So wird der Kaiser dich mit steter Gunst umfah'n /
+
+
+Jmfall du lassen wirst die Dornenvolle Bahn /
+Und dich zum Paradies der alten Götter wenden.
+
+
+
+SOPHIA.
+
+Mein Fürst / wer an den Port des höchsten Glücks wil lenden /
+Wem die Narcisse sol der wahren Ehre blüh'n /
+In dessen Seele muß der rechte Glaub' einziehn /
+Denn dieses Kleinod kan noch Zeit noch Tod verletzen.
+Der Schatz beruht nun nicht auf unbeseelten Götzen /
+Die blosser Aberwitz und die Vernunft erdicht!
+Ach nein! Deß Glaubens Glantz und silberklares Licht
+
+
+17
+
+
+Entspringt aus jenem Licht / daß alle Himmels-Kertzen /
+Den dunckeln Kreiß der Welt / der Menschen finstre Hertzen
+Mit Gnadenreichem Strahl erleuchtet für und für.
+Daß nun Sophie erkiest die reine Seelen Zier /
+Daß nebst den Kindern sie des Himmels Erbtheil suchet /
+Und was sie ewig stürtzt / mit guttem Grund verfluchet /
+Da wird der Kaiser Jhr nichts übels mässen zu.
+
+
+
+HADRIANUS.
+Welch Licht ertheilt dir denn die wahre Glaubens Ruh?
+
+
+HELIODORUS.
+Welch Licht ertheilt dir denn die wahre Glaubens-Sonne?
+
+
+EPICTETUS.
+Welch Licht ertheilt dir denn die wahre Glaubens-Wonne?
+
+
+ANTONINUS.
+Welch Licht ertheilt dir denn des Glaubens reinen Glantz?
+
+
+SVETONIUS.
+Welch Licht ertheilt dir denn des Glaubens Sieges-Krantz?
+
+
+JULIANUS.
+Welch Licht ertheilt dir denn die wahre Glaubens-Kertze?
+
+
+
+SEPTITIUS.
+Welch Licht ertheilt dir denn ein solch erleuchtet Hertze?
+
+
+PALLADIA.
+Welch Licht ertheilt dir denn das rechte Glaubens Pfand?
+
+
+HONORIUS.
+Welch Licht ertheilt dir denn des Glaubens Diamant?
+
+
+SOPHIA.
+
+Mich wundert / daß das Licht der Weißheit Euch nicht scheinet /
+Und daß eur hoher Sinn mich nur zu spotten meinet!
+Deß wahren Gottes Sohn / der / alß die Zeit erfüllt /
+Aus grosser Liebe sich in unser Fleisch verhüllt /
+Der sein hochheil'ges Blut am Creutz vor uns vergossen /
+Durch seine Himmelfarth den Himmel aufgeschlossen /
+Der zu der rechten Hand deß Ew'gen Vaters sitzt /
+Der Tugenden bekrönt / und auf die Laster blitzt /
+Und der uns schencken wird deß Paradieses Wonne /
+Der ist mein göldnes Licht / und schönste Glaubens Sonne!
+
+
+
+HADRIANUS.
+Ach Thorheit sonder gleich! Wer hat dich so verblendt?
+
+
+SOPHIA.
+Der siehet mehr alß wol / der Gottes Allmacht kennt.
+
+
+HELIODORUS.
+Du betest diesen an / der an dem Creutz gestorben?
+
+
+SOPHIA.
+Und der die Ehren-Krohn' uns durch sein Creutz erworben.
+
+
+EPICTETUS.
+Wer todt ist / bleibet todt / und steht nicht wieder auf!
+
+
+
+SOPHIA.
+Der Fürst hemmt auch im Tod dem Tode seinen Lauff.
+
+
+ANTONINUS.
+Ein rechter Gott stirbt nicht / nur blosse Menschen sterben.
+
+
+SOPHIA.
+Es muste Gott und Mensch den Himmel uns erwerben.
+
+
+SVETONIUS.
+Wie kan doch Gott und Mensch in einem Leibe stehn?
+
+
+SOPHIA.
+Hier muß sich die Vernunft nicht über'n Glaub'n erhöhn.
+
+
+JULIANUS.
+Der Glaube sol euch stets zu einem Mantel dienen!
+
+
+SOPHIA.
+Wer Christlich glaubt und lebt / wird einst in Eden grünen.
+
+
+SEPTITIUS.
+Wer Christlich glaubt und lebt / ist ärger alß ein Schwein.
+
+
+SOPHIA.
+Ein falsch Geschrey muß nicht der Unschuld Hencker seyn.
+
+
+PALLADIA.
+Es weist's ihr Ausgang aus / wie sich die Christen halten.
+
+
+SOPHIA.
+Oft muß die Tugend selbst in höchster Schmach erkalten.
+
+
+HONORIUS.
+Der Tugend Majestät kennt Hund und Tyger nicht.
+
+
+
+SOPHIA.
+Gott und der Tugend sind die Christen stets verpflicht.
+
+
+HADRIANUS.
+Sophie! Bedencke doch Stand / Schönheit / Kinder / Jugend!
+
+
+SOPHIA.
+Sie gehen alle nach der Gottverlobten Tugend.
+
+
+18
+
+
+
+
+HADRIANUS.
+Geneuß doch dieser Welt! Bequäme dich der Zeit!
+
+
+SOPHIA.
+Ich ziele nach der Lust der wahren Seeligkeit.
+
+
+HADRIANUS.
+Die wahre Seeligkeit beruht auf dem Altare.
+
+
+SOPHIA.
+Wer dem Altare dient / der stürtzt sich auf die Bahre.
+
+
+HADRIANUS.
+Mein Kind! geh! Wirff doch was von Weirauch in die Glutt!
+
+
+SOPHIA.
+Wer diese Flammen ehrt / der kommt umb Seel' und Blutt.
+
+
+HADRIANUS.
+
+Durchaus verwehntes Weib! Durchaus verstockte Sinnen!
+Führt uns die Kinder her! Euch sol die Ehre spinnen
+Den schönsten Purpur Rock! Die Wollust aller Welt
+Sol Euch zu Dienste stehn / wofern ihr willig stellt
+Euch vor den Opfer-Tisch der Göttlichen Dianen.
+Folgt / liebsten Engel / doch den hochberühmten Ahnen /
+Aus dehnen ihr entsproßt! Folgt ihrem Glaubens-Licht!
+Streut Weirauch aufs Altar / und leistet eure Pflicht!
+
+
+
+
+FIDES.
+
+Die Pflicht ist keine Pflicht / die wieder das Gewissen /
+Und Seel' und Glauben kämpft! Sol ich den Abgott küssen?
+Das stumme Götzen-Bild / das weder sieht noch hört?
+Nein / grosser Kaiser! Nein! Mein Glaube wird versehrt
+Durch keine Dünste nicht der falschgeschminckten Erden /
+Noch durch ein Gauckelwerck verliebtester Geberden.
+Jch bleibe dem getreu / der mir die Krohne schenckt /
+Die keine Raserei der tollen Feinde kränckt.
+Drumb wolle mich der Fürst in diesem Werck verschonen!
+
+
+
+SPES.
+
+Mein Herr! Wir achten nichts die Goldbesteinten Krohnen /
+Die Kleider aus Scarlat / so uns dein Mund verspricht:
+Denn dieses Schatten Werck erblaßt ob jenem Licht /
+Das uns den rechten Weg kan zu dem Himmel weisen.
+Wie solte nun mein Hertz den schnöden Abgott preisen?
+Wie solt' ich dehn umb Schutz demüttig ruffen an /
+Der / wenn ein Unglück blitzt / sich selbst nicht schützen kan?
+Und dehm so Zeit alß Neid die Grabe-Lieder singen?
+Nein! Grosser Kaiser! Nein! Spes ist nicht zu bezwingen!
+
+
+
+CHARITAS.
+
+Mein Fürst! Wer treulich liebt / siegt über Höll' und Tod:
+Jch lieb' auch / aber nicht den Lastervollen Koth
+Deß schnöden Götzen-Diensts / der Seel' und Sinn beflecket!
+Ach nein! Jch liebe dehn / der mich vom Tod' erwecket
+Deß düstern Heidenthums / der mir die Krohne reicht /
+Die nimmermehr vergeht / die nimmermehr erbleicht!
+Drumb liebt der Kaiser mich / so lieb er meine Flammen!
+
+
+
+SOPHIA.
+
+Recht so! Jhr Kinder! Recht! So müssen wir verdammen
+Den Nebel dieser Welt / der nichts alß Blitz gebiehrt!
+Fahrt fort in solcher Treu! Wer treu bleibt! wird geziehrt!
+
+
+
+
+FIDES.
+
+ SPES UND CHARITAS.
+Uns sol noch Lust / noch Pein auf einen Irrweg leiten!
+
+
+
+HADRIANUS.
+
+Wie fühl' ich Lieb' und Ehr in meiner Seele streiten!
+Jhr Götter! Ach ich bin / ich bin / ich bin verwund't!
+Jedoch bezwinge dich! O höchst verfluchter Bund!
+Verteufelt falscher Wahn! Wollt ihr den Kaiser pochen?
+Allein was wollen wir der zarten Unschuld fluchen?
+Die ärmsten sind verführt durch ihrer Mutter Wahn:
+Drumb bindet diesen Wurm an eine Ceder an
+Jm Garten unsrer Burg ohn' eintziges verweilen /
+Biß er den Lohn empfängt von uns mit scharffen Pfeilen.
+Jhr aber seid bemüht umb dieser Kinder Glück
+Mit Gaben und Geschenck / und wie man sie erquick:
+Hilfft dann die Gütte nichts / so mag die Pein sie zwingen!
+HELIODORUS, EPICTETUS, ANTONINUS UND SVETONIUS.
+Wir werden ohn Verzug deß Kaisers Schluß vollbringen.
+
+
+
+Heliodorus. Epictetus. Antoninus Septitius. Fides. Spes. Charitas. Hadrianus. Unterschiedliche Soldaten Pagen und Hencker.
+
+
+
+
+HELIODORUS.
+
+Jhr Kleeblat schönster Frucht / Jhr Rosen dieser Welt /
+Bey derer Anmuth selbst Cupido wache hält /
+Ach beugt doch euren Sinn / und laßt die Thorheit fahren!
+Jch schwer' / es sol mit Euch das höchste Glück sich paaren!
+
+
+
+
+EPICTETUS.
+
+Du Lilgenweisses Bild! Ach Fides! Ach! Gib nach!
+Dein Glaube führt dich nicht auf das besternte Dach!
+Dein Glaube wird allein durch diß Altar beglücket.
+
+
+
+Zwey Pagen bringen allerhand Geschencke.
+
+
+
+Schau was der Kaiser dir in diesem silber schicket!
+Wie gläntzt die Kette doch! Wie spielt der Diamant!
+Wie fünckelt dieses Kleid / und Perlenreiche Band!
+Durch diß wil Juno dich zu einer Göttin machen /
+Wo du Dianens Bild holdseelig an-wirst-lachen.
+
+
+
+FIDES.
+
+Weg mit dem Schatten! Weg! Des Glaubens Angesicht
+Darff Schmincke / Steine / Perl' und Gold / und Purpur nicht!
+So Juno alß Dian sind Athemlose Götzen;
+Wir suchen jenes Guth / das niemand kan verletzen /
+Und das noch Zeit noch Tod aus unsrer Seele reißt!
+
+
+
+ANTONINUS.
+
+Ach wunderschöne Spes! Du Hoffnungsvoller Geist!
+Wo deine Klugheit wil auf unsre Göttin hoffen /
+So steht dir auf der Welt ein ird'scher Himmel offen!
+
+
+
+Zwey Knaben treten auf / einer mit einer Schale Zuckerwerck; der ander mit einem Pocal Geträncke.
+
+
+
+Versuche doch den Tranck / diß Genueser Werck /
+Daß deiner Brust ertheilt recht über ird'sche Stärck /
+Und mit Unsterbligkeit dein zartes Hertze kröhnet!
+
+
+
+SPES.
+
+Weg mit dem Nebel! Weg! Mein Hoffnungs Ancker lehnet
+Sich nicht auf dises Eiß / das Augenblicks zerspringt!
+
+
+Diß ist die Angel nicht / die unsern Geist bezwingt!
+Ach nein! Das Himmel-Brod / der Nectar / den wir küssen /
+Kan auch die Koloquinth der schärffsten Pein versüssen!
+
+
+
+SEPTITIUS.
+Ach liebste Charitas! Du Engel unsrer Zeit!
+
+
+Drey Cupidines erscheinen / welche der Charitas trefflich liebkosen / aber nichts ausrichten.
+
+
+
+Schau was vor Freude dir der Römer Haupt bereit!
+Schau / wie umb deine Brust die liebes Götter lachen!
+Sie wollen dich / O Kind / zu ihrer Venus machen!
+Liß einen Bräut'gam dir aus diesem Kleeblatt aus /
+Und ehre neben uns diß Gottgeweihte Haus;
+So wird kein schwartzer Stern dein liebend Hertz betrüben!
+
+
+
+CHARITAS.
+
+Weg mit dem Gauckelwerck! Diß Lieben ist kein Lieben /
+Daß sich bezaubern läßt die Wollust dieser Welt!
+Eur Arbeit ist umbsonst / daß ihr mir Netze stellt /
+Daß ihr durch Mummerey mein Auge wolt verblenden /
+Und einen falschen Gott aus eurem Himmel senden!
+Mein unbeflecktes Hertz hat Jesu sich vertraut:
+Er ist mein süsser Schatz / und ich bin seine Braut!
+
+
+
+HELIODORUS.
+
+O Marmorharter Sinn! Man muß den Schwarm zertrennen:
+
+
+19
+
+
+Führt die zwey Jüngsten weg! Ach! Wilstu nicht erkennen
+Der Warheit helles Licht? Ach Fides! Geh in dich!
+Du trägst in deiner Hand Heil / Leben / Tod / und Stich.
+
+
+
+EPICTETUS.
+Mein Kind! Bedencke doch die tausendfachen Plagen!
+
+
+
+ANTONINUS.
+Mein Kind! Bedencke doch der Mutter herbes Klagen!
+
+
+SEPTITIUS.
+Mein Kind! Bedencke doch den Schimpf der Henckerey!
+
+
+FIDES.
+Der Schluß ist fest gemacht: Jch bleibe Gott getreu!
+
+
+EPICTETUS.
+
+Führt diese Natter weg / und laßt die Mittlre kommen!
+Ist deine Seele nun dem Labyrinth entnommen?
+Beliebt nun deinem Geist der Alten Götter Lehr?
+Ach schone deiner selbst / und gieb uns gutt Gehör!
+
+
+
+HELIODORUS.
+Ach schone deiner selbst! Sonst schaustu Folter-Kertzen!
+
+
+ANTONINUS.
+Ach schone deiner selbst! Sonst fühlstu Pein und Schmertzen!
+
+
+SEPTITIUS.
+Ach schone deiner selbst! Sonst wirstu nicht beklagt!
+
+
+SPES.
+Der Schluß ist fest gemacht: Jch bleibe Christus Magd!
+
+
+ANTONINUS.
+
+Führt diese Schlang' auch weg / und laßt die Jüngst' erscheinen!
+Die Schwestern wollen nun den falschen Wahn verneinen /
+Sie sagen Christo ab / und ehren diß Altar:
+Drumb stürtz dich nicht allein so schändlich in Gefahr!
+
+
+
+
+EPICTETUS.
+Folg' ihrem Beyspiel nach! Dich wird kein Mensch verdammen!
+
+
+HELIODORUS.
+Folg ihrem Beyspiel nach! Und opfre diesen Flammen!
+
+
+SEPTITIUS.
+Folg ihrem Beyspiel nach! So liebt dich alle Welt.
+
+
+CHARITAS.
+
+Ach! Wo der Schwestern Treu so teuflisch sich verstellt /
+Wo sie den wahren Gott so liederlich verlassen /
+So müsse Qual und Angst ihr zitternd Hertz umfassen!
+Alleine glaubt ihr wol / daß Charitas diß glaubt?
+Ach nein! Durch solche List wird mir gar nicht geraubt
+Des Glaubens edler Schatz! Braucht alle Marter-Zeichen!
+Jch werde dennoch nicht von meinem JESUS weichen.
+
+
+
+EPICTETUS.
+
+O Höchst-verfluchter Schluß! Nun! Die Gedult reißt aus!
+Wer Gott und Kaiser trotzt / der fall' in Asch' und Grauß!
+Hohlt die zwey Bestien! Solt ihr uns diß beweisen?
+Auf! Bringet Foltern / Pech / Bley / Pfriemer / Ruthen / Eisen!
+
+
+
+FIDES.
+Der Glaube gegen Gott besieget alle Qual.
+
+
+SPES.
+Die Hoffnung gegen Gott verlachet Strick und Stahl.
+
+
+CHARITAS.
+Die Liebe gegen Gott kan ieden Schmertz bezwingen.
+
+
+
+HELIODORUS.
+Der Muth ist trefflich groß! Jhr werd't bald anders singen!
+
+
+ANTONINUS.
+Es ist kein Schertz dabey / wenn man die Folter fühlt.
+
+
+SEPTITIUS.
+Der würtzt Ihm nur die Pein / der mit der Straffe spielt!
+
+
+EPICTETUS.
+Entblösset diesem Wurm den Felsenharten Rücken.
+
+
+FIDES.
+Hat doch mein Heiland auch sich also müssen bücken.
+
+
+HELIODORUS.
+Peitscht / biß ihr gift'ges Blut aus allen Adern springt:
+
+
+20
+
+
+
+
+FIDES.
+Mein Gott! Schau / wie dein Feind die Unschuld quält und zwingt!
+
+
+ANTONINUS.
+Wofern dein Gott ein Gott / so mag er dich auch schützen!
+
+
+FIDES.
+Er wird / eh mans vermeint / auf eure Häupter blitzen.
+
+
+SEPTITIUS.
+Schaut mir doch den Prophet / die kluge Pallas an!
+
+
+FIDES.
+Mein Jesus steh mir bey / wenn ich nicht Athmen kan!
+
+
+EPICTETUS.
+Genug! Laßt diese Ruhn! Spannt an die andre Schlange!
+
+
+
+SPES.
+Mir ist in diesem Werck vor keiner Marter bange.
+
+
+HELIODORUS.
+Sprützt siedendheisses Bley der Natter auf die Brust:
+
+
+SPES.
+Die Pein vor Christus Ehr' ist meine beste Lust.
+
+
+ANTONINUS.
+Er mag nun Ehr' und Ruhm an dir / du Wurm / beweisen!
+
+
+SPES.
+Jch werde biß ins Grab sein Vater-Hertze preisen.
+
+
+SEPTITIUS.
+Ein Vater läßt sein Kind nicht so verlassen stehn!
+
+
+SPES.
+Er wird auch lassen mich in keiner Angst vergehn!
+
+
+EPICTETUS.
+O blinder Aberwitz! Recht thörichte Gedancken!
+
+
+SPES.
+Mein Jesus / Bleib bey mir / so werd ich auch nicht wancken!
+
+
+HELIODORUS.
+Zerreißt mit Klauen ihr Leib / Wangen / Brüst' und Hand!
+
+
+21
+
+
+
+
+SPES.
+Hiedurch gelanget man ins rechte Vaterland!
+
+
+ANTONINUS.
+Wo Pech und Schwefel rauscht und Kröt- und Schlangen zischen.
+
+
+
+EPICTETUS.
+Man muß (die Ohnmacht kommt!) mit Wasser sie erfrischen!
+
+
+SEPTITIUS.
+Laßt Strick und Folter nach / sonst möchte sie vergehn!
+
+
+SPES.
+Wo bin ich! Leb ich noch! Schau ich hier Engel stehn!
+
+
+EPICTETUS.
+Quält nun den kleinsten Molch! der mag indeß verblasen.
+
+
+CHARITAS.
+Die wahre Liebe steht / wenn tausend Wetter raasen.
+
+
+HELIODORUS.
+Knüpfft den verdammten Leib an dieses Kreutze an!
+
+
+CHARITAS.
+Es ist das Creutze stets der Liebe Sieges-Fahn.
+
+
+ANTONINUS.
+Durchbohrt mit Pfriemen ihr Brust / Armen / Füß' und Seiten.
+
+
+22
+
+
+
+
+CHARITAS.
+Durch die wird Charitas das Paradies beschreiten.
+
+
+SEPTITIUS.
+Wo Tantalus sich quält / und Rhadamantus blitzt!
+
+
+CHARITAS.
+Wo JESUS seine Schaar mit starcker Macht beschützt.
+
+
+EPICTETUS.
+Dieß schwartze Blut zeigt an der Christen schwartze Lehre.
+
+
+
+CHARITAS.
+Dieß Blut vergiesse ich zu meines Bräutgams Ehre.
+
+
+HELIODORUS.
+Der Dorn und Disteln gibt vor eine Lorber-Kron.
+
+
+CHARITAS.
+Der Christen Sieges-Krantz ist ein unschätzbar Lohn.
+
+
+ANTONINUS.
+Streut Saltz aufs Wundenmahl / und waschet sie mit Essig!
+
+
+CHARITAS.
+Wie ist / mein Heyland / man doch deiner Braut gehässig!
+
+
+SEPTITIUS.
+Der Bräut'gam und die Braut sind von sehr schlechter Macht.
+
+
+CHARITAS.
+Erlöser stärcke mich in dieser Unglücks-Nacht!
+
+
+Der Kaiser kommt unverhofft wieder auf den Schauplatz.
+
+
+
+
+HADRIANUS.
+Räumt stracks die Foltern weg / wie? sind sie zubewegen?
+
+
+EPICTETUS.
+Sie achten weder Gold / noch scharffgeschlieffne Degen.
+
+
+HELIODORUS.
+Der Schmertz ist ihnen Schertz / die Marter höchste Lust.
+
+
+ANTONINUS.
+Jch weiß nicht / welcher Geist verhärtet ihre Brust!
+
+
+
+SEPTITIUS.
+Ob etwan Zauberey mit ihnen sich wil pahren.
+
+
+HADRIANUS.
+
+Laßt unterdessen sie im Kercker wol verwahren:
+Vielleicht verändert sich durch ihrer Kinder Pein
+Sophiens toller Wahn. Jtzt lasset uns allein.
+
+
+
+HADRIANUS.
+
+O Felsenharte Schaar! O Diamantne Hertzen!
+Die weder Lust noch Qual gewinnt!
+Wil eur verstockter Sinn mit unsrer Gütte schertzen /
+Die Euch der Ehre Scharlach spinnt.
+Wollt ihr in Schimpf und tausendfachem Leiden
+Von dieser Welt abscheiden?
+Wolan! Der Donner sol auf euren Häubtern stehn!
+Jhr solt in höchster Schmach / und Angst / und Pein vergehn!
+Jedoch wie wird Sophie den schweren Schlag empfinden /
+Sophie / der keine Venus gleich?
+Wird ihre Schönheit auch dem Kaiser sich verbinden /
+Wenn ihre Töchter werden bleich?
+Wird sie uns auch mit Gegenlieb' erquicken?
+Mit holdem Aug' anblicken?
+Wird sie uns auch ertheil'n ein sanft geneigtes Ohr?
+Ach schwerlich! Die Natur geht aller Liebe vor!
+Halt inne / Hadrian! was wilstu dich verlieben
+In ein verfluchtes Christen-Bild?
+Wilstu das grosse Reich durch solche Brunst betrüben?
+Beflecken deinen Thron und Schild?
+Nein sicher! Nein! Die Kinder mögen sterben!
+Ja selbst Sophie verterben!
+
+
+Es wird den Kaiser doch manch Himmlisch Bild erfreun!
+Denn die schätzt sich beglückt / die umb den Fürst mag seyn.
+Ach aber! Schau ich an ihr Englisches Gesichte /
+Das weise Tugend Göttlich macht /
+So schmeckt mein lodernd Mund so angenehme Früchte /
+Daß ich die Zypris selbst veracht!
+Wie solt' ich nun durch ihrer Kinder klagen
+Sophiens Gottheit plagen?
+Es tadle Rom und Reich die Flammen meiner Glut;
+Gnug / daß der Kaiser sucht sein auserkohrnes Gut!
+Allein wo denck ich hin? Wo bleibt des Kaisers Ehre?
+Die Wollust weicht des Reiches Nutz:
+Durch der Sophien Glück kriegt die verdammte Lehre
+Der Christen Freyheit / Luft und Schutz.
+Schweig Hadrian! Sophie kan sich bekehren /
+Und größern Nutz gewehren;
+Denn Frauen ändern leicht auch in dem Glauben sich /
+So bald ihr Geist empfindt den süssen Liebes-Stich.
+Jhr Götter! derer Arm der Römer Feinde dämpfet /
+Wie wird doch Hadrian gequält!
+Schaut / wie in meiner Brust Furcht / Lieb' und Ehre kämpfet:
+Weil man den rechten Zweck verfehlt!
+Doch Venus mag die Oberhand behalten!
+Sophie sol nicht erkalten!
+Wir wollen itzo gleich zu unser Chloris gehn /
+Und schaun / ob ihre Brunst werd' unsre Brunst erhöhn!
+
+
+
+Hadrianus. Palladia.
+
+
+
+
+PALLADIA.
+
+Wo eilt der Kaiser hin? Ach! welche Liebes Strahlen /
+Die nichts als Nebel sind und Perlenleere Schaalen /
+Entzünden seinen Geist? Wil Er Sophiens Brunst /
+
+
+Die Natter unsrer Burg / die nichts als Asch und Dunst
+Den Liebenden gewehrt / zu seiner Sonn' erwehlen?
+Läßt denn Palladia an Wollust ichtwas fehlen?
+
+
+
+HADRIANUS.
+Wie das die Neßel dich der Eiversucht so brennt?
+
+
+PALLADIA.
+Mein Fürst / es jammert mich / daß ihn der Balg verblendt!
+
+
+HADRIANUS.
+Der ist kein schnöder Balg / der uns Vergnügung giebet /
+
+
+PALLADIA.
+Der Tempel und den Fürst / und Stadt und Land betrübet?
+
+
+HADRIANUS.
+Fürst / Tempel / Stadt und Land rühmt ihrer Schönheit Glut.
+
+
+PALLADIA.
+Jhr falschgeschminckter Glantz bezaubert Seel' und Blut.
+
+
+HADRIANUS.
+Die Tugend / so sie krönt / ist keine Zauberschmincke.
+
+
+PALLADIA.
+Ach! daß der Kaiser nicht in diesem Meer ertrincke!
+
+
+HADRIANUS.
+Des Kaisers Auge sieht nur kluge Lorbern an.
+
+
+PALLADIA.
+Die hat Sophie verscherzt durch den verdammten Wahn.
+
+
+HADRIANUS.
+Des Glaubens Unterscheid kan nicht die Liebe dämpfen.
+
+
+
+PALLADIA.
+Die Lust ist sonder Lust / wo Glaub' und Liebe kämpfen.
+
+
+HADRIANUS.
+Weiß auch Palladia der Liebe Wundermacht?
+
+
+PALLADIA.
+Ach! daß der Kaiser sich nicht besser nimmt in acht!
+
+
+HADRIANUS.
+Welch unverschämter Mensch wird unsre Liebe schelten?
+
+
+PALLADIA.
+Mein Fürst / wo jene gilt / so werd' ich wenig gelten?
+
+
+HADRIANUS.
+Die Venus soll Sophie / du unsre Pallas seyn.
+
+
+PALLADIA.
+Die zwey Göttinnen gehn kein füglich Bündniß ein!
+
+
+HADRIANUS.
+Diß holde Götter-Paar kan wohl beysammen stehen.
+
+
+PALLADIA.
+Zwey Sonnen können nicht durch einen Himmel gehen.
+
+
+HADRIANUS.
+Der Himmel unsrer Brunst beherbergt Sonn und Stern.
+
+
+PALLADIA.
+Wenn man die Schal' aufbricht / so zeiget sich der Kern.
+
+
+HADRIANUS.
+Sophiens Sittsamkeit zeigt gute Kern' und Schalen.
+
+
+
+PALLADIA.
+Die stets mit Gall und Gift die Liebenden bezahlen.
+
+
+HADRIANUS.
+Du must den Zucker nicht verkehr'n in bitter Gall'.
+
+
+PALLADIA.
+
+Mein Abgott! Ach mir ahnt ein grauser Donner-Knall /
+Wofern Sophia sol des Kaisers Aug' erquicken!
+
+
+
+HADRIANUS.
+Man muß / Palladia / sich in die zeiten schicken.
+
+
+PALLADIA.
+Ach! Labt den Käiser nicht die Schwanenweiße Brust?
+
+
+HADRIANUS.
+Sophiens Alabast erweckt uns gröss're Lust!
+
+
+PALLADIA.
+Bewegen ihn dann nicht die reinen Mund-Rubinen?
+
+
+HADRIANUS.
+Dein Lippen-Scharlach muß Sophiens Purpur dienen!
+
+
+PALLADIA.
+Cometen sieht der Fürst vor göldne Sonnen an!
+
+
+HADRIANUS.
+Der Kaiser siehet wol; dich blend't ein falscher Wahn /
+
+
+PALLADIA.
+So wil sein lüsternd Hertz die Natter nicht vertreiben?
+
+
+HADRIANUS.
+Schweig! Mägde sollen nicht dem Fürst Gesetze schreiben!
+
+
+
+Reyen
+
+
+Der Himmlischen und der Jrdischen Liebe / nebst der Ewigkeit und Eitelkeit.
+
+
+Der Schauplatz verwandelt sich in eine lustige Gegend mit vielen Gezelten. In diesem Reyen ereignen sich in dem inneren Schauplatze Sechs stille Vorstellungen / welche aus dem Innhalte des Textes leichtlich können ersehen werden.
+
+
+
+
+EIN ENGEL UND EIN CUPIDO.
+
+Verliebter Geist / schau diese Flammen an!
+Schau / welche Glutt dich recht vergnügen kan!
+Hier zeigen sich zweyfache Liebes-Kertzen /
+Hier öffnen sich die Freuden und die Schmertzen /
+Hier wird entdeckt ein doppelt Bluhmen Zelt /
+Hier kan man sich mit Lilg- und Rosen schmücken /
+Das Wolcken-Schloß und auch die Höll erblicken!
+Erkiese was du wilt / und was dir mehr gefällt!
+
+
+
+Der Engel nebst dem Cupido verschwindet.
+
+
+
+
+HIMMLISCHE LIEBE.
+
+Mein brennend Hertz hat Gott selbst zu bereitet /
+Die Krohne schmückt mein Sonnenhell Gesicht /
+Mein Stern-Kleid wird von Sternen stets begleitet /
+Und dieses Gold kenn't die Verwesung nicht.
+Wer mich bedient / der kan noch auf der Erden
+Aus einem Mensch zum schönsten Engel werden.
+
+
+
+JRDISCHE LIEBE.
+
+Laßt diesen Dunst Euch / Liebste / nicht verblenden!
+Jhr Schatten Werck hegt nichts / als Kreutz und Leid:
+Jch aber kan gewündschtes Labsal senden /
+Mich ziert allein der Rock der Herrligkeit:
+
+
+Mein Rosenkrantz besieget jener Lilgen /
+Denn diesen kan noch Zeit noch Tod vertilgen /
+
+
+
+Die 1. Vorstellung.
+
+
+
+Schaut / wenn Adon der nackten Venus küsset
+Den Purpur-Mund / die Alabaster Brust /
+Wird nicht hirdurch das Leben recht versüsset?
+Jst dieses nicht die allerschönste Lust?
+Ein Paradies gantz unerschöpffter Wonne?
+Ein steter Tag / und immerhelle Sonne?
+
+
+
+HIMMLISCHE LIEBE.
+
+Ohnmächt'ge Magd / Was sind doch deine Flammen?
+Ein Irrlicht / das bald auf / bald untergeht.
+Dein Fabelwerck muß selber sich verdammen:
+
+
+
+Die 2. Vorstellung.
+
+
+
+Schau / wie es itz umb den Adonis steht!
+Wie kräncket sich die lüsternde Dione!
+Solch Trinckgeld kriegt die Geilheit stets zu Lohne!
+Jch aber kan die Seele recht vergnügen:
+Mein Tempel ist ein Gott verlobtes Hertz.
+
+
+
+Die 3. Vorstellung.
+
+
+
+Schau / wie Sophie kan zu den Sternen fliegen:
+Weil sie umbarmt mein' überird'sche Kertz:
+Die Kinder selbst verlangen meine Liebe;
+Nur daß kein Feind dort ewig sie betrübe.
+
+
+
+JRDISCHE LIEBE.
+
+O Laue Glutt / so deine Fackel zeiget!
+O falsche Brunst / die nichts als Blitz gebiehrt!
+
+
+
+Die 4. Vorstellung.
+
+
+
+Schau / wie Sophie sich vor den Henckern neiget /
+Wie ihre Schaar zum Richtblock wird geführt!
+Wer wolte nun nicht meine Flammen ehren:
+Weil deine Kertz so schändlich kan versehren?
+
+
+
+
+HIMMLISCHE LIEBE.
+
+Hieraus erscheint / daß ich dich überwinde /
+Weil diese Schaar Gold / Pein und Tod verlacht:
+Der Folter Strick ist ihre Sieges-Binde /
+Der sie im Pol zu Venus-Bildern macht.
+
+
+
+Die 5. Vorstellung.
+
+
+
+Mich dünckt / ich seh sie schon mit Lorbeern prangen:
+Weil du sie nicht durch süsses Gift gefangen.
+
+
+
+JRDISCHE LIEBE.
+
+Nicht du allein kanst Tod und Qual verjagen /
+Mein starcker Pfeil hat eben diese Macht:
+
+
+
+Die 6. Vorstellung.
+
+
+
+Seleucus wird dir meine Stärcke sagen /
+Dem Jch den Sohn rieß aus des Grabes Nacht /
+Nach dem ich Ihm Stratonicen gegeben.
+Drumb müssen ja die Palmen umb mich schweben.
+
+
+
+HIMMLISCHE LIEBE.
+
+Schweig / Geiler Bock / du hast dich nun verrahten /
+Du hast entdeckt die Früchte deiner Brunst!
+Mein keusches Hertz fleucht solche Liebes-Thaten;
+Der Himmel liebt nicht schwartzen Geilheits-Dunst.
+Du bist nicht werth Pfeil / Hertz und Kertz zuführen:
+Weil Mir numehr der Siegs-Krantz wil gebühren.
+
+
+
+JRDISCHE LIEBE.
+
+Was? Mir Gewalt? Sol diß die Göttinn leiden /
+Vor der selbst Zevs den Scepter leget hin?
+Wil meinen Glantz dein Hochmuht so beneiden?
+Wolan! du solst erfahren / wer ich bin!
+Auf! Eitelkeit! Auf! Schwester / Auf! erwache!
+Komm! Steh mir bey in der gerechten Sache!
+
+
+
+
+
+Die Eitelkeit erscheinet.
+
+
+
+
+DIE EITELKEIT.
+
+Wer tastet dich / Hochwerthe Freundin / an?
+Wer ist so kühn / zu schimpfen deine Macht?
+Entdecke nur / wer dir so weh gethan?
+Wir wollen stracks auf Rache seyn bedacht.
+
+
+
+JRDISCHE LIEBE.
+
+Diß freche Weib / die Feindin meiner Flammen /
+Hat Kertz / und Hertz / und Pfeile mir entwandt:
+Drumb ruffe bald mein Krieges-Heer zusammen /
+Daß diesen Wurm wir stürtzen in den Sand!
+
+
+
+EITELKEIT.
+
+Es sol geschehn / was deine Hoheit schafft.
+Kommt schleunig an / ihr Printzen dieser Welt!
+
+
+
+Vier und zwantzig Cupidines treten auf mit Pfeil und Bogen.
+
+
+
+Bringt Seil und Pfeil! beweiset eure Kraft /
+Schießt hurtig loß / biß sie zu bodem fällt!
+
+
+
+Jn dem die Cupidines auf die Himmlische Liebe los schiessen wollen / erscheinet in einer Wolcke die Ewigkeit mit Donner und Blitzen.
+
+
+
+
+EWIGKEIT.
+
+Welch Raasen pocht die Engel-reine Braut /
+Der JESUS sich auf ewig hat vertraut?
+Halt inn! Halt inn! Jhr blinden Eitelkeiten!
+Jhr müsset nicht mit Gott und Himmel streiten!
+
+
+
+24. Engel fliegen aus den wolcken mit flammenden Schwerdten auf die Cupidines los und entwaffnen Sie.
+
+
+
+
+
+Fliegt fort! Fliegt fort / ihr Seraphinen / ihr!
+Strafft ab! strafft ab die schändliche Begier!
+Zeigt aller Welt / daß eure Flammen-klinge
+Den morschen Pfeil der ird'schen Liebe zwinge!
+Jhr toller Trotz ist gäntzlich nun gestillt:
+Jtzt weiset auch der Liebe wahres Bild!
+
+
+
+Die irdische Liebe erscheinet inwendig als ein Todtengerippe.
+
+
+
+Entkleidet sie: Schaut welch ein Todten-Schatten
+Sich mit dem Glantz der Venus wil begatten!
+
+
+
+DIE EWIGKEIT / DIE HIMMLISCHE LIEBE / UND ALLE ENGEL
+
+zusammen.
+
+
+So triumphirt die Gott geweihte Glutt!
+Kein Sturm noch Blitz kan ihre Strahlen tilgen!
+So grünen recht die weissen Unschulds-Lilgen /
+Die fruchtbar macht das theure Märtrer-Blut!
+Drumb wer das Licht der Ewigkeit wil schauen /
+Der muß auf Gott / und nicht auf Menschen bauen.
+
+
+
+
+
+
+
+
+4. Akt
+
+
+
+
+
+
+Die vierde Abhandlung.
+
+Der Schauplatz stellet vor den Kaiserlichen Lustgarten.
+
+
+Sophia. Das Fleisch. Die Welt. Der Tod. Der Teufel.
+
+
+
+SOPHIA.
+
+Wie wenn der rothe Blitz den düstern Wald erleucht /
+Das müde Haselhun zur Bäume Schatten fleucht:
+So flieh' auch ich zu dir / du schatten meiner Seele /
+Du wahrer Lebens Baum / in dieser Folter-Höle!
+Laß diese Zeder mir ein festes Bollwerck seyn /
+Wenn man mich schrecken wird mit unergründter Pein!
+Du weist ja / daß Sophie zu deiner Ehre leidet /
+Und daß kein Donner sie von deiner Liebe scheidet!
+Ach rüste nur mit Kraft auch meine Kinder aus!
+
+
+
+DAS FLEISCH.
+
+Sophie! Bedencke doch dein ädles Glieder-Haus /
+Das auf den Gipfel dich der höchsten Wollust führet /
+Das dich mit Schnecken-Blut und güldnen Lorbern zieret /
+Das dich aus einem Mensch zur Göttin machen kan!
+Du hast ja Fleisch und Blut! ficht dich kein Kitzel an?
+Das dreymahlzehnde Jahr ist kaum bey dir vergangen /
+Die Nelcken auf dem Mund / die Rosen auf den Wangen /
+Die Lilgen auf der Hand / die Tulpen auf der Brust
+Sind ja ein Paradies der allerschönsten Lust /
+Das ieder küssen wil! Wer wolte nun verdammen
+Des fleisches Lieblichkeit / die sanften Liebes-flammen?
+Wilstu die Folterbanck erkiesen vor Scarlat?
+
+
+Ach ändre deinen Sinn / und folge meinem Rath!
+Verlasse / was dich kränckt / und labe deine Glieder
+Durch süssen Liebes-streit / und schönste Buhler-Lieder!
+
+
+
+DIE WELT.
+
+Sophie! Erwege doch die Anmuth dieser Welt /
+Die weit mehr Sclaven hat / als Sternen in dem Zelt
+Des grossen Himmels sind! Erwege doch die Gaben /
+Womit dich meine Gunst im höchsten Grad kan laben.
+Glück' / Ehre / Reichthum / Schertz soll'n deine Diener seyn!
+Es sol bestrahlen dich der immerhelle Schein
+Gantz unerschöpffter Lust / im Fall du mich wirst lieben /
+Des Kaisers brennend Hertz durch Abschlag nicht betrüben /
+Und nebst der Kinder Mund verehren sein Altar!
+Ach geh doch in dich selbst! Du wirst ja Schmertz und Bahr
+Nicht thöricht ziehen vor der zuckersüssen Wonne /
+Die sänft're wärmde giebt / als die beflammte Sonne?
+Du kanst noch lange Zeit genüssen meiner Lust:
+Das Leben ist beliebt! Drumb reiß dich aus dem Wust
+Zukünft'ger Henckerey! Entreisse dich den Wellen!
+Jch kan dein Lebens Schiff in sichre Gräntzen stellen!
+
+
+
+DER TOD.
+
+Sophie! Erkenne doch des Todes grimme Macht /
+Die Gottes wahren Sohn selbst an das Kreutze bracht!
+Erkenne diesen Pfeil / den Bogen / diese Kertze /
+Dadurch ich Sterbende mit tausendfachem Schmertze /
+Mit tausendfacher Qual kan stürtzen in das Grab!
+Der Lustbaum mahlt dir schon ein traurig Vorbild ab /
+Wie dich des Kaisers Grimm / wo du ihm wirst versagen
+Beliebte Gegengunst / wird ädern / martern / plagen.
+Nicht aber dich allein wird treffen solche Noht;
+Die Kinder werden auch durch Jammer-reichen Tod /
+Durch Flammen / Lantz' und Beil in höchsten ängsten büssen /
+
+
+Und nach gehäuffter Pein ihr zartes Leben schlüssen!
+Darumb erwehle doch die Gnade vor den Zorn /
+Das Leben vor den Tod / die Rosen vor den Dorn /
+Die Perlen vor das Glas / das Silber vor das Eisen!
+Sonst wird der Hencker dir mein grauses Rach-Schwert weisen.
+(DER) TEUFEL.
+Sophie! Erzittre nicht / daß Rhadamantus itzt
+Auf dieß beblühmte Feld mit seiner Fackel blitzt!
+Jch bin zu deinem Trost aus sondrer Gunst erschienen.
+Mein Kind / was quählst du dich aufs Glaubens Folterbühnen?
+Was ists / das in dein Hertz der tolle Kummer steigt?
+Jedweder Glaub' ist gutt / der Lust und Ehre zeigt!
+Es wird sich Hadrian nicht selbst ins Unglück stürzen /
+Noch ihm durch falschen Wahn der Götter Straffe würtzen.
+Mein Kind! Geh in dich selbst! Du wirst nicht klüger seyn /
+Als dieser kluge Fürst! Nein! Nein! Sophia / Nein!
+Drumb ändre deinen Schluß / ruff an die alten Götter!
+Sey nicht der Juno Feind / noch der Dianen Spötter;
+So werd' ich für und für dein treuer Schutz-Herr seyn!
+Jm Fall du aber nicht gehst diesen Vorschlag ein /
+So wird dein bebend Hertz stets solche Qual empfinden /
+Davon noch Gott noch Mensch dich glücklich wird entbinden.
+ALLE VIERE:
+Sophie! Auf! Schlummre nicht in der so grossen Noth!
+Auf! auf! Es steht dir bey Fleisch / Hölle / Welt und Tod!
+
+
+
+SOPHIA.
+
+Spart euren Beystand nur / ihr Teuflischen Sirenen!
+Sophie muß eure List und Zauberey verhönen!
+(DAS) FLEISCH.
+So acht Sophia nichts des Fleisches Zuckerkand?
+
+
+
+
+SOPHIA.
+
+Vor Gottes Ehre wird das Fleisch mit Ruhm verbrannt.
+(DIE) WELT.
+So wil Sophia nicht der schönsten Welt geniessen?
+
+
+
+SOPHIA.
+
+Du kanst das Leben nur vergällen / nicht versüssen.
+(DER) TOD.
+So schreckt Sophien nicht des Todes scharffer Pfeil?
+
+
+
+SOPHIA.
+
+Dein Bogen ist mein Glück / dein Licht mein größtes Heil.
+(DER) TEUFEL.
+So fürcht Sophie sich nicht vor Satans Band und Ketten?
+
+
+
+SOPHIA.
+
+Aus deinen Ketten kan mein Jesus mich erretten!
+ALLE VIERE:
+Wird unsre Majestät so liederlich verlacht?
+O überweises Weib! wir scheiden / Gutte Nacht!
+
+
+
+SOPHIA.
+
+Die Feinde sind nunmehr durch dich / O Gott / verjaget!
+Ach schütze ferner Mich / wenn Hadrian Mich plaget
+Durch schnöden Liebes-Reitz / damit mein reines Hertz
+Nicht fall' in Sünd und Schand / und Lastervollen Schertz!
+Dir hab Jch mich verlobt / du wirst mich auch erhalten!
+So wird Sophiens Brunst nie gegen dir erkalten!
+
+
+
+
+
+Sophia. Julia Sabina. Serena. Flavia.
+
+
+
+
+JULIA SABINA.
+
+So schlägt das Unglück nun mit lichtem Donner ein?
+Sol dieses Paradies Sophiens Kirch-Hof seyn?
+Sol deine Tugendbluhm im Bluhmen Feld vergehen?
+Und solstu an dem Baum als eine Sclavin stehen?
+Ach Freundin! Sichre dich / dein überhäuffter Schmertz /
+Dein Leiden / deine Schmach dringt Mir durch Seel' und Hertz!
+Du weisst / das Julia dich für und für geliebet /
+Du weisst auch / daß Jch nie der Christen Schaar betrübet /
+Daß ich den Kaiser nie auf ihren Hals verhetzt!
+Allein weil Hadrian stets aus den Augen setzt
+Dein / und der Kinder Heil / und mein beweglich Bitten /
+Dadurch ich fernre Qual und Marter wil verhütten /
+Mit taubem Ohr' anhört / auch nun auf Plage sinnt /
+Die dir und deinem Stamm den Sterbe-Kittel spinnt /
+So wünscht' ich / daß Sophie in so bewandten Sachen
+Doch glücklich möcht' entgehn des Todes grimmem Rachen /
+Dazu Sabina ihr itzt wil behülfflich seyn.
+
+
+
+SOPHIA.
+
+Daß Mich die Kaiserin mit ihrem Gnadenschein
+In dieser Unglücks-Nacht holdseelig an-wil-blicken /
+Und mein beklemmtes Hertz mit Trost und Rath' erquicken /
+Ist warlich solche Gunst / der ihre Magd kaum wehrt!
+Doch wie der rauhe Nord der Bluhmen Pracht verzehrt /
+Ob schon der Sonnen-Glantz höchstfruchtbahr sie beschienen:
+So kan auch leider nicht die Gnaden-Bluhme grünen
+Der grossen Julien / die Sie auf dieser Bahn /
+Mir ärmsten Sclavin zeigt / weil sie Fürst Hadrian
+
+
+Durch seinen Grimm verweht / der auf die Christen wütet /
+Und auch Sophiens Stamm durch solchen Sturm zerrüttet!
+
+
+
+JULIA SABINA.
+
+Sophie kan blüh'n und stehn / sie kan aus aller Noth
+Glückseelig sich befreyn und trotzen Zeit und Tod /
+Jm Fall Sie – Aber ach! Mein Hertze wil sich regen!
+Seren' und Flavia / schaut / ob sie zu bewegen!
+
+
+
+SERENA.
+
+Ach wertheste Sophie! Wofern Serena darff
+Eröffnen ihren Mund / so sey sie nicht zu scharff
+In ihrem Glaubens-Werck / dadurch des Kaisers Gütte
+In Rache sich verkehrt! Jch bitt! Jch bitt! Jch bitte!
+Sophie / Sie gebe nach! Was kan doch süssres seyn /
+Als wenn bey Printzen man mag gehen aus und ein?
+Als wenn man früh und spat in solchen Zimmern lebet /
+Wo Venus und ihr Sohn Cupido selber schwebet?
+
+
+
+FLAVIA.
+
+Holdseeligste Sophie! Mich jammert ihre Noth!
+Sie glaube / Flavia ist fast vor beyleid todt /
+Daß Sie das Wetter nicht / den Donnerkeil wil meiden /
+Der nebst den Kindern Sie in zentnerschweres Leiden
+Und tieffstes Elend stürtzt! Der Kaiser ist ergrimmt /
+Der tausend Martern ihr und ihrer Schaar bestimmt.
+Man drück ein Auge zu! Der ist nicht zu verdencken /
+Der Malvasier erwehlt / eh' er sich Gift lässt schencken.
+
+
+
+SOPHIA.
+
+Wer in dem Glauben wil ein Auge drücken zu /
+
+
+23
+
+
+Der macht die Seele blind / stöhrt die Gewissens-Ruh /
+Verfehlt den Himmels-Port / und stehet auf dem Falle.
+Es mag der Kaiser nun mit Zucker oder Galle
+
+
+Sophien greiffen an; Er mag vor Malvasier
+Einschencken stärckstes Gift; Er mag die Kinder Mir
+Durch grimmste Tyranney von meinen Brüsten reissen /
+Sophiens morschen Leib vor Beer und Tyger schmeissen /
+Ja es mag selbst die Welt mit Luft und Flut eingehn;
+Sophie wird als ein Felß bey ihrem Jesus stehn!
+
+
+
+JULIA SABINA.
+
+O mehr als ädles Weib! O starcke Amazone!
+Dir weicht Harpalice mit ihrer Sieges-Krone /
+Und Rhodogune legt vor dir die Palmen hin!
+
+
+24
+
+
+Jch werde gantz bestürtzt! Jch weiß nicht wo ich bin!
+Dein Christus muß fürwahr besondre Kräfte haben /
+Der schwache Frauen auch in höchster Angst kan laben!
+Seren' und Flavia! Mein Hertze wird gerührt!
+Auf! Liebt Sophiens Gott / der zu den Sternen führt!
+
+
+
+SERENA.
+
+Durchlauchtigste Princeß / das Demantfeste lieben
+Der Himmlischen Sophie / die keine Qual betrüben /
+Kein Schertz verführen kan / hat eben meinen Geist
+Mit solcher Brunst entzündt / daß Er sich nun entschleusst
+Den Götzen dienst zu fliehn / und den Gott anzubetten /
+Der eintzig brechen kan des Rhadamantus Ketten.
+Nimm / weiseste Sophie mich nur in deinen Bund!
+Dein Christus ist numehr mein Schatz / mein Fels / mein Grund!
+
+
+
+FLAVIA.
+
+O übergrosse Treu! O unbesiegte Sinnen!
+Die keine Tyranney noch Wollust kan gewinnen!
+Sophie! ob ihrem Muth erstaunet Cloelia /
+Und auch Hypsicrate! Sol hier nun Flavia
+Nicht auch im Reyen seyn! Sich von Sophien trennen?
+Ach nein! in meiner Brust soll auch die Liebe brennen.
+
+
+
+
+JULIA SABINA.
+
+Halt inn! Was rauscht? Mich dünckt / der Kaiser ist nicht weit!
+Sophie / gehab dich wol! Hier ist's nicht wartens zeit.
+
+
+
+Sophia. Hadrianus, in Gestalt eines Schäffers.
+
+
+
+
+HADRIANUS.
+Jst meine Chloris dann an diesen Baum gebunden?
+
+
+SOPHIA.
+Welch frembder Unfall macht mir neue Seelen-Wunden!
+
+
+HADRIANUS.
+Sophie! Sophie! Sophie! Erkenne deinen Knecht!
+
+
+SOPHIA.
+Sophie hat über dich zu sprechen gar kein Recht.
+
+
+HADRIANUS.
+Holdseel'ge Schäfferin! Ach! liebe deinen Sclaven!
+
+
+SOPHIA.
+Du seyst auch wer du seyst / hier ist kein Liebes-Hafen!
+
+
+HADRIANUS.
+Sol hier nicht Liebe seyn / wo selbst die Venus wohnt?
+
+
+SOPHIA.
+Wer nach der Venus laufft / wird meistens schlecht belohnt.
+
+
+HADRIANUS.
+Wer kan die Seelen mehr als diese Göttin laben?
+
+
+
+SOPHIA.
+Die Keuschheit führt mit sich weit grössre Wunder-Gaben.
+
+
+HADRIANUS.
+Die Keuschheit herrschet nur bey der geweihten Schaar.
+
+
+SOPHIA.
+Wer nicht die Tugend ehrt / der stürtzt sich in Gefahr.
+
+
+HADRIANUS.
+Die Keuschheit sonder Lust ist Tugend nicht zu nennen.
+
+
+SOPHIA.
+Die Wollusts-Neßel kan die Keuschheit nicht verbrennen.
+
+
+HADRIANUS.
+Bey Lilgen grünet oft ein rauher Nessel-Strauch.
+
+
+SOPHIA.
+Der Keuschheits-Lilge schad't kein gift'ger Schlangen-Hauch.
+
+
+HADRIANUS.
+Kan doch ihr Zungen Stich die Götter selbst verletzen.
+
+
+SOPHIA.
+Die Keuschheit muß sich nicht zu Schlang' und Nattern setzen.
+
+
+HADRIANUS.
+Die Klugheit wird oft eh'r / als Einfalt wundgemacht.
+
+
+SOPHIA.
+Der Geist wird nicht verwund't / der nach dem Himmel tracht.
+
+
+
+HADRIANUS.
+Der schönste Himmel ist in diesem Paradiese!
+
+
+SOPHIA.
+Diß Paradies vergeht / doch nicht deß Himmels Wiese.
+
+
+HADRIANUS.
+Was dorten Sternen sind / das sind die Bluhmen hier.
+
+
+SOPHIA.
+Die Himmels-Bluhmen sind der Menschen höchste Zier.
+
+
+HADRIANUS.
+Du Himmels-Bluhme bist die Fürstin meiner Bluhmen!
+
+
+SOPHIA.
+Gebrauche Rosen nur / und Nelcken aus Idumen!
+
+
+HADRIANUS.
+Dein Purpur übertrifft der Rosen Scharlach Kleid!
+
+
+SOPHIA.
+Mein Purpur ist erblasst durch allzu strenges Leid!
+
+
+HADRIANUS.
+Die Freude folgt auf Leid! Nach plitzen scheint die Sonne.
+
+
+SOPHIA.
+Mein Hertze achtet nichts der Eitelkeiten Wonne!
+
+
+HADRIANUS.
+Es wohnt die Eitelkeit bey Edlen Schäffern nicht.
+
+
+SOPHIA.
+So Printz als Schäffer sind der Eitelkeit verpflicht.
+
+
+
+HADRIANUS.
+Es kan Sophie durch mich zu einer Göttin werden /
+
+
+SOPHIA.
+Sophie verlanget nicht die Gottheit dieser Erden.
+
+
+HADRIANUS.
+Sie sol / wo sie mich liebt / gehn ins Elyser-Feld.
+
+
+SOPHIA.
+Gott hat ein schöner Schloß im Himmel mir bestellt.
+
+
+HADRIANUS.
+So wil nicht meinen Geist ihr göttlich Aug' erquicken?
+
+
+SOPHIA.
+Mein Schäffer lasse sich den Irrthum nicht bestricken!
+
+
+HADRIANUS.
+Diß ist kein Irrthum nicht / wenn man einander liebt.
+
+
+SOPHIA.
+Durch ird'sche Liebe wird Sophia nur betrübt!
+
+
+HADRIANUS.
+Wil sie der Götter Schluß / Natur und Recht verletzen?
+
+
+SOPHIA.
+Die Tugend kan sich nicht mit toller Brunst ergötzen.
+
+
+Er entkleidet sich.
+
+
+
+
+HADRIANUS.
+Hier ist kein Satyrus! Sie schau den Kaiser an!
+
+
+
+SOPHIA.
+Ach dreymahl grosser Gott / nun ists umb mich gethan!
+
+
+HADRIANUS.
+Mein Schatz! Erzitter nicht / du weisst des Kaisers bitten!
+
+
+SOPHIA.
+Durch dieses bitten wird mein Lebensdrat zerschnitten!
+
+
+HADRIANUS.
+Die Kinder tauren mich / und noch viel mehr Sophie!
+
+
+SOPHIA.
+Der Fürst macht dießfalß sich nur gantz vergebne Müh!
+
+
+HADRIANUS.
+Ach ändre deinen Wahn! Bequäme dich den Göttern!
+
+
+SOPHIA.
+Eh'r wil ich lassen mich in tausend Stück zerschmettern!
+
+
+HADRIANUS.
+Ist keine Mutterlieb' in deinen Adern mehr?
+
+
+SOPHIA.
+Die Kinder sind mir lieb / doch mehr des Höchsten Ehr!
+
+
+HADRIANUS.
+Du kanst des Höchsten Ehr' / und auch die Kinder schützen.
+
+
+SOPHIA.
+Nein! weil der Kaiser wil auf meinen Glauben blitzen!
+
+
+HADRIANUS.
+Mein Blitz hat sich verkehrt in einen Liebes-Strahl.
+
+
+
+SOPHIA.
+Der Ausspruch machet mir ein frisches Wundenmahl!
+
+
+HADRIANUS.
+Jch werd' auf deiner Brust dir alle Wunden heilen.
+
+
+SOPHIA.
+Mein Fürst / Er wolle mir kein Pflaster nicht ertheilen!
+
+
+HADRIANUS.
+Das Pflaster meiner Kuhr vergnüget Leib und Geist.
+
+
+SOPHIA.
+Ach daß der Kaiser mir so bittre Myrrhen weis't.
+
+
+HADRIANUS.
+Die Myrrhen sollen dir zum Liebes-Zucker werden.
+
+
+SOPHIA.
+Der Zucker seiner Brunst erweckt mir nur Beschwerden!
+
+
+HADRIANUS.
+Schmeckt deiner Seele nicht der Küsse Marcipan?
+
+
+SOPHIA.
+Die geile Schleckerey geht nichts die Keuschheit an.
+
+
+HADRIANUS.
+Was ist die Schönheit doch / die man nicht sol gebrauchen?
+
+
+25
+
+
+
+
+SOPHIA.
+Ein lieblicher Geruch / der niemahls kan verrauchen!
+
+
+HADRIANUS.
+Ein stummes Götzenbild! Ein Bogen sonder Seil!
+
+
+
+SOPHIA.
+Der Glieder Ehren mahl! Der Tugend Sieges-Pfeil!
+
+
+HADRIANUS.
+Sol Mund / und Brust / und Schoß bey dir so fruchtloß liegen?
+
+
+SOPHIA.
+Mein Gottverlobtes Hertz wird über alles siegen!
+
+
+HADRIANUS.
+Du bist Diana nicht / die keine Buhler acht!
+
+
+SOPHIA.
+Wer weiß / ob nicht Sophie beschämt Dianens Macht!
+
+
+HADRIANUS.
+Genug! So wiltu nicht mein brennend Hertze laben?
+
+
+SOPHIA.
+Der Kaiser lasse mich eh'r lebendig begraben!
+
+
+HADRIANUS.
+Warumb nicht liebstu den / der dich vergöttern kan?
+
+
+SOPHIA.
+Mir steht mein Jesus nur / und nicht ein Kaiser an!
+
+
+HADRIANUS.
+So sol ein scharffer Pfeil durch deine Brüste Krachen!
+
+
+SOPHIA.
+Die Pfeile werden mich zur Himmels-Venus machen.
+
+
+HADRIANUS.
+Wie? Kehrstu trotzig ab vom Fürsten dein Gesicht?
+
+
+
+SOPHIA.
+Jch habe Christo mich / und nicht dem Fürst verpflicht!
+
+
+HADRIANUS.
+Vermaledeites Weib! Jch wil dich bald zerhauen!
+
+
+SOPHIA.
+Hau zu! Mir wird gantz nichts vor Blut und Säbel grauen!
+
+
+HADRIANUS.
+So nehm Jch mit Gewalt / was mir dein Mund versagt!
+
+
+SOPHIA.
+
+Mein JESUS! Schütze doch itzt sichtbar deine Magd /
+Die man entehren wil!
+
+
+
+HADRIANUS.
+Welch Donner fährt hernieder!
+
+
+SOPHIA.
+Dieß ist der Geilheit Lohn!
+
+
+HADRIANUS.
+
+Mir beben alle Glieder!
+Jch zitter! Jch erstarr! Auf! Auf! Trabanten / auf!
+Kommt Eurem Fürst zu Hülff mit flügelschnellem Lauff!
+
+
+
+Hadrianus. Heliodorus. Epictetus. Palladia. Antoninus. Svetonius. Julianus. Septitius. Honorius. Sophia. Fides. Spes. Charitas. Die Hofleute /Pagen / Trabanten / und Hencker.
+
+
+
+
+HELIODORUS.
+Was ficht den Kaiser an!
+
+
+
+EPICTETUS.
+Welch Unheil wil sich rühren?
+
+
+ANTONINUS.
+Welch Unstern lässt sich doch in diesem Himmel spühren!
+
+
+PALLADIA.
+Die Ohnmacht hält den Fürst! Schaut / daß er nicht vergeht!
+
+
+SVETONIUS.
+Bestreicht ihm Schlaff und Puls mit Balsam und Zibeth!
+
+
+JULIANUS.
+Auf! Grosser Kaiser! Auf! Hier stehen seine Knechte.
+
+
+HONORIUS.
+Wol! Er ermuntert Sich! Er kommet nun zu rechte!
+
+
+SEPTITIUS.
+Der Fürst entdecke doch den Zufall seiner Noth!
+
+
+HADRIANUS.
+
+Jhr grossen Götter ihr! leb / oder bin ich todt!
+O Höchst verfluchtes Weib! Verteufelte Sophie!
+In dem Jch von dem Baum sie zu befreyn mich mühe /
+So macht die Zauberin / daß Blitz und Donner schlägt
+In diese Ceder ein / der meine Kraft erlegt /
+Und mich in Ohnmacht stürtzt: Drumb eilet bald von hinnen /
+Jhr Treusten / daß der Wurm mit nichten mög entrinnen!
+Du aber liefre mir die Kinder stracks hieher!
+
+
+
+PALLADIA.
+Empfindet nun der Fürst Sophiens Mord-Gewehr?
+
+
+
+HELIODORUS.
+Soll der verdammte Balg dem Kaiser dieß beweisen?
+
+
+EPICTETUS.
+Wer Höll' und Teufeln dient / der fühle Rad und eisen!
+
+
+ANTONINUS.
+Schaut mehr die Furie vor einen Engel an!
+
+
+SVETONIUS.
+Mich wundert / daß ein Weib das Wetter zwingen kan!
+
+
+JULIANUS.
+Die meisten Christen sind die ärgsten Hexen-meister.
+
+
+26
+
+
+
+
+HONORIUS.
+
+Sie führen stets bey sich Kunstreiche Höllen Geister /
+Die Sie –
+
+
+
+HADRIANUS.
+
+Halt inn! Es kommt die Schlangenvolle Schaar!
+Sucht deine Tugend nun des Kaisers Gruft und bahr?
+Wiltu durch Blitz und Knall den Lorbeer-Krantz zerschmettern?
+Soll dich durch Zauberey dein Christus nun vergöttern?
+Ha! Teuflische Sophie! Du lästerst nicht allein
+Die Götter in dem Pol: Der Kaiser soll auch seyn
+Dein kläglich Trauer-Spiel! Mit was vor Donner-waffen
+Wird man dein Hexenwerck nach Würden wol bestraffen?
+Jedoch auch diese That sol nicht das Rachschwert ziehn
+Auf deinen Mörder-Hals: die Kinder sollen blühn
+Nebst dir in höchster Lust und unbewegter Wonne /
+Es sol dir strahlen stets des Glückes schönste Sonne /
+Du sollst mein Auge seyn / im Fall du Christum lässt /
+
+
+Und unsre Götter ehrst! Wo nicht / so wird die Pest
+Der grimmsten Henckerey dein frevlend Haubt erdrücken /
+Und nebst den Kindern dich in Plutons Abgrund schicken!
+Drumb sage frey heraus / was du zu thun gesinnt!
+
+
+
+SOPHIA.
+
+Der Fürst verzeihe mir! wer JESUM lieb gewinnt /
+Wer seine Reinligkeit aus reiner Seele liebet /
+Der wird durch keinen Dunst der Zauberey betrübet!
+So ists auch hier bewandt! Sophie ist seine Magd!
+Daß aber mich der Fürst durch falsche Laster plagt /
+Und mir aufbürden wil ein Teuflisches Verbrechen /
+Da mag das Urtheil nur selbst sein Gewissen sprächen /
+Denn Jch den Kaiser nicht diß falls beschämen wil.
+Es stehet ihm nun frey / was vor ein Trauerspiel
+An mir und meinem Stamm sein Eifer aus wil führen:
+Man wird Beständigkeit stets bey Sophien spühren.
+
+
+
+HADRIANUS.
+Wie aber stehts mit Euch / hertzliebsten Kinder / doch?
+
+
+HELIODORUS.
+Ach! werfft von eurem Hals diß Felsenschwere Joch!
+
+
+EPICTETUS.
+Ach! zieht doch euren Fuß aus diesen Folter-Ketten!
+
+
+ANTONINUS.
+Ach lasst aus diesem Schimpf / aus dieser Qual Euch retten.
+
+
+PALLADIA.
+Ach seyd nicht so verstockt! Lasst Mutter Mutter seyn!
+
+
+SVETONIUS.
+Ach geht der Götter Schluß / des Kaisers willen ein!
+
+
+
+JULIANUS.
+Ach nehmt diß Glück in acht / das euch mit Lorbern krönet.
+
+
+SEPTITIUS.
+Ach nehmt die Lust in acht / die alle Lust verhönet!
+
+
+HONORIUS.
+Ach schonet eurer selbst! Bequähmt Euch doch der Zeit!
+
+
+ALLE.
+Ach nehmt den Purpur doch vors blasse Todten-Kleid!
+
+
+SOPHIA.
+Lasst / Kinder / lasst Euch nicht der Worte Dunst verblenden!
+
+
+FIDES.
+
+Nein! Mutter! Nein! Mich sol von meinem Heiland wenden
+Auch nicht die grimmste Qual! Was schertz'stu / Wüttrich / viel
+Mit deiner Raserei / mit deinem Trauer-Spiel!
+Vollzeuch / was dir beliebt! Jch bin bereit zusterben!
+Denn Fides wird doch nicht durch solchen Tod verterben!
+
+
+
+SPES.
+
+Sanftmütiger Tyrann! Was spielstu mit der Pein?
+Du schaust ja allbereit / daß wir beständig seyn /
+Daß keine Marter uns kan zu dem Abfall zwingen?
+Drumb mache nur ein End' / und laß uns freudig dringen
+Durchs Todes schwartze Nacht zum ewig-hellen Licht!
+
+
+
+CHARITAS.
+
+Jch bin des Lebens satt! Drumb halt uns länger nicht
+Mit deinem Mummwerck auf! Entblösse nur die Waffen
+Geschminckter Grausamkeit! Die Sonne geht fast schlaffen:
+Laß uns auch schlaffen gehn in die gewüntschte Ruh!
+
+
+Glaubt / es wird Charitas höchstfreudig schliessen zu
+Jhr sterbend Augenlicht und die erblassten Lippen!
+Denn mich erschrecken nicht des Todes rauhe Klippen!
+
+
+
+HADRIANUS.
+
+Wollt ihr / eh kaum das neund' und zehnd' / und zwölfte Jahr
+Des Lebens Euch erquickt
+
+
+27
+ / erkiesen Gruft und Bahr /
+Vor Atlas / Gold und Sammt? Ach! lasst Euch doch erweichen!
+
+
+
+FIDES.
+Nein! Nein!
+
+
+SPES.
+Nein! Nein!
+
+
+CHARITAS.
+Nein! Nein!
+
+
+ALLE DREY.
+wir wündschen zuerbleichen!
+
+
+HELIODORUS.
+Vielleicht beweget sie der Mutter strenge Pein.
+
+
+HADRIANUS.
+
+Wol! peitscht die Bestie / biß ihre Schultern seyn
+Von lauter Striemen roth!
+
+
+
+EPICTETUS.
+
+Sie werden sich wol geben /
+Wenn sie die Mutter schaun in solchen Aengsten schweben!
+
+
+
+FIDES.
+Diß Rasen ist umbsonst! Uns schreckt nicht diese Noht!
+
+
+
+SPES.
+Die Mutter ist uns Lieb / doch mehr der höchste Gott!
+
+
+CHARITAS.
+
+Was kan die Christen wol mit grössrer Lust umbfassen /
+Als wenn sie unverzagt vor Christus Ehr' erblassen?
+
+
+28
+
+
+
+
+
+HADRIANUS.
+
+O Sinnen von Metall! O gantz verstockter Hauff /
+Der die Natur auch trotzt! Hört mit dem Geisseln auf!
+Was ist doch hier zu thun?
+
+
+
+HELIODORUS.
+Die Schlangen müssen sterben!
+
+
+EPICTETUS.
+Soll'n unsre Tempel blüh'n / so muß die Pest verderben!
+
+
+PALLADIA.
+Verlangt der Kaiser Ruh / so tilgt diß Unkraut aus!
+
+
+ANTONINUS.
+Wil sich der Fürst erhöhn / so stürtzt diß Teufels-Haus!
+
+
+SVETONIUS.
+Sol Themis uns erfreu'n / so brauchet ihre Waffen!
+
+
+JULIANUS.
+Jtzt / itzt ists hohe Zeit der Christen Trotz zustraffen!
+
+
+SEPTITIUS.
+Lescht / eh die Feuers-Brunst zu vollen Kräften kömmt!
+
+
+HONORIUS.
+Eh uns die Flamme selbst den Untergang bestimmt!
+
+
+
+HADRIANUS.
+
+Wolan! Der Grimm reisst aus! Weil gar nichts sie kan zwingen /
+So mag der Donnerkeil durch diese Kröten dringen!
+So mag die gift'ge Pest zum Teufel fahren hin /
+Aus welchem Sie entsprosst! Jhr beide / Antonin /
+Und du Septitius / lasst in geschwinder Eile
+Der Nattern jüngstes Paar hinrichten mit dem Beile /
+Wenn Fides wird zuvor in lichter Glut vergehn!
+Doch bey dem Trauer-Spiel muß auch die Mutter stehn /
+Die / wenn sie satt gequält durch ihrer Kinder sterben /
+Hernach ins Kerckers Wust sol bleiben und verderben!
+Diß ist mein ernster Schluß!
+
+
+
+ANTONINUS.
+
+ SEPTITIUS.
+Wir werden uns bemühn /
+Was uns der Kaiser schafft / gehorsamst zu vollziehn!
+
+
+
+Antoninus. Septitius Clarus. Sophia. Fides. Spes. Charitas. Unterschiedliche Trabanten und Hencker.
+
+
+
+
+ANTONINUS.
+
+So geht es / wenn man wil der grossen Götter lachen!
+Jtzt wird Asträens Zorn auf eure Glieder krachen!
+Eur Sterbe-Licht erscheint! Jhr müsset untergehn
+Gleich Sternen / die nicht mehr am blauen Himmel stehn!
+
+
+
+SEPTITIUS CLARUS.
+
+Auf! Bringet Stock und Beil / Pech / Stroh / und Holtzgebünder
+Vor diß verfluchte Volck / vor die verstockten Sünder!
+Pfuy! schäme dich / Sophie / daß du dein Fleisch und Blut
+So zu der Schlachtbanck führ'st! Ha! Teufelischer Muth!
+Du bist nicht werth gewest die Kinder zugebehren!
+
+
+
+
+SOPHIA.
+
+Der Gott / der sie mir gab / dem wil Jch sie gewehren:
+Viel besser / daß ihr blut versprütz' auf diesem Sand /
+Daß ihrer Glieder Schnee fall' in des Henckers Hand /
+Das Hölle / Welt und Tod sich gantz auf sie erbosse;
+Als daß mein Jesus sie aus seinem Reiche stosse!
+Spes! Fides! Charitas! Eur Freyheits Tag kommt an!
+Eur Fessel bricht entzwey! Auf! geht die rauhe Bahn
+Mit heldengleichem Muth! Erschreckt nicht vor dem Sterben!
+Gott muste selbst durch Pein den Himmel uns erwerben!
+
+
+
+FIDES.
+
+Ach! Edler Freyheits-Tag / der Flammen mir gewehrt /
+Wodurch mein Glaube wird wie reines Gold bewehrt!
+Die heiß-entbrannte Glut ist ja des Glaubens-Zeichen!
+Wie könte Fides doch ein schöner Grab erreichen?
+
+
+
+SPES.
+
+Ach Edler Freyheits-Tag / der mir das Eisen zeigt /
+Wodurch ins Wolckenschloß mein Hoffnungs-Ancker fleugt!
+Der Hoffnung Sinnenbild ist Stahl und festes Eisen:
+Drumb kan ja billig Spes sich mit dem Richtbeil weisen!
+
+
+
+CHARITAS.
+
+Ach Edler Freyheits-Tag / der mir den Purpur schenckt /
+Wodurch mein blutend Haubt sich zu den Sternen lenckt!
+Mit Purpurfarbe muß ja stets die Liebe prangen;
+Wie könnte Charitas doch schönern Tod erlangen?
+
+
+
+SOPHIA.
+
+Recht so! Beständigkeit verzuckert allen Schmertz /
+Und macht auch in dem Tod' ein recht erlauchtet Hertz!
+
+
+
+
+ANTONINUS.
+
+Es ist nicht Plauderns Zeit! Die Stunden die verlauffen!
+Fort! Werfft die grösste Schlang' auf diesen Scheiter-Hauffen:
+Und zündt die Reiser an! Es ist des Keisers Schluß!
+
+
+
+FIDES.
+Jch finde mich bereit. Ade mit diesem Kuß!
+
+
+SOPHIA.
+
+Geh / liebste Fiedes! Geh! Dein Glaube wird bestehen /
+Wenn jener grosse Tag des Richters an-wird-gehen!
+Geh / Liebste Fides / Geh! Der Glaube trotzt den Tod /
+Der Glaube bringet dich zum Allerhöchsten Gott!
+
+
+
+FIDES
+
+auf dem Holtz-Stosse.
+
+
+Grosser Fürst / den stets bedienen
+Vielmahl tausend Seraphinen /
+Schaue doch auf deine Magd!
+Du weisst ja / daß dir zu Ehren
+Fides lässt den Leib versehren /
+Und in keiner Angst verzagt /
+Liebster Jesu! Hilff Mir kämpfen!
+Hilff die Pein des Todes dämpfen!
+Denn du bist mein Trost und Licht!
+Steh mir bey in diesen Flammen /
+Wenn die Glut nun schlägt zusammen /
+Und mein Mund kein Wort mehr spricht!
+
+
+
+SEPTITIUS CLARUS.
+
+Welch Wunder sehen wir! Wil nicht der Holtz-Stoß brennen?
+Wil von der Natter sich die lichte Flamme trennen?
+
+
+
+ANTONINUS.
+
+Legt mehr Gebünder an! Werfft Pech und Schwefel drauf!
+Jhr Götter! Jch erstarr! wer hemmt der Glutt den Lauff?
+Jst etwan Zauberey in diesem Werck verborgen?
+
+
+
+
+SOPHIA.
+O blinder Aberwitz!
+
+
+SEPTITIUS CLARUS.
+
+Lasst uns im minsten sorgen!
+Es helffe Spiß und Stahl / wenn nichts verfängt der Brand!
+Nihm Cajus alsobald die Lantze in die Hand /
+Durchbohre diesem Wurm sein gantz-vergiftes Hertze.
+
+
+
+FIDES.
+Erlöser / nim mich auf!
+
+
+ANTONINUS.
+
+Vermehret Schmertz mit Schmertze/
+Und haut der blassen Leich den tollen Schedel ab!
+
+
+
+SEPTITIUS CLARUS.
+Ehrt nun dein stoltzer Sinn des Kaisers Richterstab?
+
+
+SOPHIA.
+Jch ehre zwar den Fürst / mehr aber Gottes-Rechte.
+
+
+ANTONINUS.
+Jtzt köpft die zweite Schlang' aus diesem Mordgeschlechte!
+
+
+SPES.
+
+O Freudenreiches Wort / das meinen Geist anlacht!
+Empfangt den Abschieds Kuß! Und hirmit gute Nacht!
+
+
+
+SOPHIA.
+
+Geh / allerliebste Spes! Dein Hoffen wird bestehen /
+Wenn alle Hoffnung wird der eitlen Welt vergehen!
+Geh / allerliebste Spes! Die Hoffnung hilfft aus Noth!
+Die Hoffnung bringet dich zum allerhöchsten Gott!
+
+
+
+
+SPES
+
+vor dem Richtblocke.
+
+
+Liebster Heiland / dessen Stärcke
+Oft die grössten Wunderwercke
+Auch in zärtsten Kindern zeigt;
+Sey bey mir in dieser Stunde /
+Wenn nun mit erstarrtem Munde
+Sich mein Haubt zur Erden neigt!
+Dir zu Ehren wil ich sterben /
+Und auf diesem Sand verterben
+Recht mit hertzlicher Begier.
+Stärcke mich in solchem Leiden /
+Und wenn Leib und Seele scheiden /
+Nim / O JESU / mich zu dir!
+
+
+
+ANTONINUS.
+Lasst nun dem kleinsten Molch den Nacken auch durchhauen /
+
+
+CHARITAS.
+
+Frau Mutter! Nur getrost! Sie sol ein Lust-Spiel schauen
+An ihrer Charitas! Was ist doch diese Welt?
+Ein grosses Folter-Haus / ein Schlangenvolles Feld /
+Ein Bisamirtes Gift / ein Schau-Platz blasser Leichen!
+Wer wolte freudig nicht aus dem Morast entweichen?
+Wer wolte freudig nicht vor seinen Jesus stehn
+Auf Flammen / Stahl und Pfal? Wolan! Jch wil auch gehn /
+Wohin die Schwestern Mir sind rühmlich vorgegangen!
+Jch wil die Märtrer-Kron' und Palmen auch erlangen!
+In deß nehmt diesen Kuß / und lebet mehr als wol /
+Biß wir einander schaun in dem gestirnten Pol!
+
+
+
+SOPHIA.
+
+Geh / liebste Charitas! dein Lieben wird bestehen /
+Wenn alle Liebe wird der geilen Welt vergehen!
+Geh / liebste Charitas! die Liebe trotzt den Tod!
+Die Liebe bringet dich zum allerhöchsten Gott!
+
+
+
+
+CHARITAS
+
+vor dem Richtblocke.
+
+
+Süsser Bräut'gam meines Hertzen /
+Der durch Marter / Angst und Schmertzen
+Sich auf ewig mir vertraut /
+Laß doch deine Liebes Strahlen /
+Deines Nectars güldne Schalen
+Jtzt erquicken deine Braut!
+Du weist ja / daß lauter Liebe
+Mich mit Gott geweihtem Triebe
+Liefert auf diß Mord-Altar!
+Ach so liebe mich nun wieder /
+Und wenn Charitas sinckt nieder /
+So führ Sie zur Engelschaar!
+
+
+
+SOPHIA.
+
+Wie wird mir! Sind sie todt? Ach nein! Die Kinder leben!
+Schaut / wie sie schon in Gold und Diamanten schweben!
+Wie sie mit Spiß und Stahl den grimmen Henckern dreu'n /
+Und auf der Mutter Brust Narciß und Rosen streu'n!
+Ach seel'ge Märtrer! Ach! Wie wird man Euch begraben!
+Was wird eur blasser Leib vor eine Ruhstätt haben!
+Kein Traurflor deckt Euch zwar; Doch trauret selbst die Luft!
+
+
+29
+
+
+Kein Aedler leuchtet Euch mit fackeln zu der Gruft;
+Doch wil der Himmel selbst mit Sternen Euch bedienen:
+Es heult kein Klage-Weib; Jedoch die Seraphinen
+Erheben ihre Stimm / und singen selber Euch
+Ein lieblich Sieges-Lied in dem Saffirnen Reich!
+
+
+
+SEPTITIUS CLARUS.
+
+Sie raaset! greifft sie an / und führt sie stracks von hinnen /
+Ins Kerckers düstern Schacht / da mögen ihre Sinnen
+Durch tolle Schwärmerey sich quählen für und für!
+Die Leichen aber lasst indeß im Garten hier /
+Wo keine Wache sie vor Räubern darff bewahren /
+Biß uns der Kaiser schafft / wie dißfalls zuverfahren!
+
+
+
+
+
+Die Drey Leichen. Irene.
+
+
+
+
+IRENE
+
+singet in Begleitung etlicher Violen di Braccio und di Gamba höchstlamentirlich folgender gestalt.
+
+
+Reine Sonnenwerthe Leichen /
+Habt ihr nun den Lauff vollbracht
+Durch die grimmen Marter-Zeichen /
+Durch des Todes schwartze Nacht?
+Muß dann / O ihr Princeßinnen /
+In dem schönsten Blumenreich /
+Eure Pracht so schnell zerrinnen /
+Und so schmertzlich werden bleich?
+Fides! Wo sind die Corallen /
+Deiner Wangen Helfenbein?
+Spes! Dein Marmor ist zerfallen!
+Charitas! Dein Glantz geht ein!
+Eure Schönheit ist verschwunden
+Wie beym Sonnenstrahl der Schnee /
+Weil sich Höll' und Welt verbunden
+Wieder Euch! O Schmertz! O Weh!
+Weint ihr Augen! Weint! O Weinet!
+Zeiget einen Thränenfluß!
+Weil solch Traurspiel itzt erscheinet /
+Und die Unschuld sterben muß!
+Sel'ge Kinder / nehmt indessen
+Von Irenens treuer Hand
+Diese wenige Zypressen /
+Als ein letztes Liebes-Pfand!
+Schlaffet wol / ihr ädlen Ritter /
+Die ihr Noth und Tod besiegt!
+Schaut / wie alles Ungewitter
+Jtzt zu euren Füssen liegt!
+Schlaffet wol nach Angst und Streiten!
+Denn der Schlaff kommt Kämpfern zu /
+
+
+Biß die Engel Euch begleiten
+In die ewigsanfte Ruh.
+
+
+Reyen
+
+
+Der Heidnischen Seeräuber / der Flüchtigen Christen / und der Christlichen Kirche.
+
+
+Der Schauplatz bildet ab einen Wald am Meere.
+
+
+
+
+DER I.
+
+ SEERÄUBER.
+Brüder / ihr wisset des Kaisers Versprechen /
+Daß / wer getrost auf die Wellen sich wagt /
+Und Hals und Glieder den Christen wird brechen /
+Dieser so Freyheit / als Reichthum erjagt.
+Drumb lasst uns schaun / wo die Hunde zufinden!
+Glücke wil sich stets der Kühnheit verbinden.
+
+
+
+DER II.
+
+ SEERÄUBER.
+Titan wil heute mit Golde nicht prangen /
+Aeolus stürmet gewaltig aufs Meer;
+Unsere Kühnheit wird schwerlich was fangen /
+Schimpflich ists / wann wir heim kommen gantz leer.
+Rathsamer wär es / im Walde zubleiben /
+Und die durchreisenden schnell auf zureiben.
+
+
+
+DER III.
+
+ SEERÄUBER.
+Zage Gemütter / kleinmüttige Sinnen
+Pflegen das donnernde Wetter zu scheun!
+Wilstu was kriegen und rühmlich gewinnen /
+Muß auch die Hölle nicht schröcklich dir seyn.
+Unsere Segel sind also beglücket /
+Das sie noch blitzen / noch knallen zerstücket.
+
+
+
+
+DER IV.
+
+ SEERÄUBER.
+Harpax / ich schelte dein freches Beginnen /
+Welches auf eigene Stärcke so pocht:
+Thetis bestraffet verwegene Sinnen;
+Unglück ist meist der Vermessenheit Frucht /
+Lasset uns lieber bey Schattichten Bäumen
+Lauren / und also die Christen aufräumen.
+
+
+
+Die Seeräuber verstecken sich hinter die Bäume.
+
+
+
+
+ALLE VIER SEERÄUBER.
+
+Wol! wol! Es sey! Ein ieder theile sich:
+Biß reiche Beut erquicket mich und dich.
+
+
+
+Vier flüchtige Christen / als ein Vater / nebst seinem Weibe / Söhn- und Töchterlein.
+
+
+
+
+ALLE VIER.
+
+Ach Schmertz! Ach Leid! wie werden wir geplagt /
+Seit wir von Rom ins Elend sind verjagt!
+
+
+
+DAS WEIB.
+Wir sind im Wald; Was ist nun hier zu thun?
+
+
+DER MANN.
+
+Das Wetter braust / last uns ein wenig ruhn.
+Setzt / Kinder / Euch auf dieses grüne Feld /
+Biß wieder sich die sanfte Luft einstellt.
+
+
+
+DAS SÖHNLEIN.
+Ach Mutter! Ach! Gebt mir ein Stückchen Brodt!
+
+
+DAS TÖCHTERLEIN.
+Mir auch! Mir auch! Jch leide grosse Noth!
+
+
+
+DAS WEIB.
+
+Esst / Liebsten / esst / was Euch die Mutter giebt /
+Die sich nebst Euch biß in den Tod betrübt!
+
+
+
+DAS SÖHN- UND TÖCHTERLEIN.
+Ach tränckt uns auch! Sonst müssen wir vergehn!
+
+
+DAS WEIB UND DER MANN.
+Schaut euren Tranck auf unsern Wangen stehn!
+
+
+ALLE VIER SEERÄUBER.
+Wir müssen Euch so speis' als Tranck gesegnen!
+
+
+ALLE CHRISTEN.
+Ach weh! Ach weh! was wil uns itzt begegnen!
+
+
+DIE SEERÄUBER.
+Gebt Geld! Gebt Geld! wo nicht / so seid ihr todt!
+
+
+DIE CHRISTEN.
+Wir haben nichts / als nur diß liebe Brodt.
+
+
+DIE SEERÄUBER.
+
+Jhr Bestien! Jhr garst'ge Christen-Hunde /
+Die ihr mit Höll' und Teufeln steht im Bunde /
+Die Jhr in Rom nichts schafft als Zanck und Weh /
+Fort mit Euch / fort in die erzörnte See!
+
+
+
+DIE CHRISTEN.
+
+Ach! Ach! Ach! Ach! Ach! sollen wir nun sterben!
+Jm grimmen Meer so jämmerlich verterben!
+Ach lasst uns loß! Wir woll'n vor eur Altar
+Uns ohn Verzug mit Opfern stellen dar.
+
+
+
+
+
+Der innere Schauplatz eröffnet sich / und stellet die auf dem ungestümen Meer schiffende Christliche Kirche vor / welche die Christen also singende anredet.
+
+
+Ritorn. von Posaunen und Flöten.
+
+
+
+Freunde / lasst euch nicht erschrecken /
+Durch gedreute Qual und Pein!
+Wolt ihr euren Geist beflecken
+Und dem Teufel dienstbar seyn?
+Wolt ihr vor das kurtze Leiden
+Engel / Gott / und Himmel meiden?
+Liebste / dencket was zurücke!
+Schaut doch eure Mutter an:
+Raset schon das Ungelücke
+Auf den schwachen Kirchen-Kahn /
+Glaubet fest / er wird beschützet /
+Ob gleich Welt und Hölle blitzet.
+Kan Euch nicht Sophie bezeugen /
+Wie man durch Beständigkeit
+In den Sternen-Saal kan steigen
+Zu der wahren Herrligkeit?
+Jhrer Kinder Heil'ge Sinnen
+Werden ja eur Hertz gewinnen.
+Es wird nimmermehr vergehen
+
+Fides / Spes und Charitas /
+
+Jhr Lob wird auch stets bestehen /
+Weil sich zeiget Laub und Gras:
+Denn durch Marter / Angst / und Wunden /
+Haben sie den Himmel funden.
+
+
+
+
+
+
+
+
+5. Akt
+
+
+
+
+
+
+Die fünfte Abhandlung.
+
+Der Schauplatz bildet ab einen Kercker.
+
+
+Sophia. Alexander in gestalt eines Pilgrams. Julia Sabina, Serena, und Flavia, ebenfalls also verkleidet.
+
+
+
+SOPHIA.
+
+Nun ist der grosse Streit / der harte Kampf vollbracht!
+Die Kinder haben Gold / und Quaal / und Tod verlacht!
+Jch habe sie mit Lust dem wieder zugeschicket /
+Der mich in keuscher Eh' mit solcher Frucht beglücket!
+Dir JESUS / sey gedanckt / daß in so schwerem Werck
+Dein Allmacht / deine Gnad und Wundervolle Stärck'
+Der Kinder zartes Hertz holdseelig überschattet /
+Als Flammen / Lantz' und Beil mit ihnen sich begattet!
+Allein! Welch Traur-Spiel wird Sophien seyn bereit!
+Der Fessel Todten-Klang / des Kerckers Ewigkeit /
+So auch die Helden selbst – Jedoch wer kommt gegangen?
+Wie? Wollen Pilgrams-Leut' itzt meine Brust umbfangen?
+
+
+
+ALEXANDER.
+
+Beständige Sophie! bewehrtes Mutterhertz!
+Dein Löwenstarcker Muth / der auch den grössten Schmertz/
+Den eine Mutter ie auf dieser Welt empfunden /
+Mit höchstem Ruhm besiegt / macht / daß sich unterwunden
+Jtzt Alexander hat / dich in vermummter Tracht
+Noch einmahl anzuschaun in dieses Kerckers-Nacht:
+Denn aus dem Blitzen ist der Donner leicht zuspühren /
+Der deinen keuschen Leib und Seele sol berühren /
+Wo unser JESUS nicht aus dieser Qual dich reisst!
+
+
+
+
+JULIA SABINA.
+
+Großmüttige Sophie! Dein unbesiegter Geist /
+Dein Helden-gleiches Hertz / die ädle Märtrer-Krone /
+So dir und deinem Stamm der Himmel giebt zu lohne /
+Hat Julien gereitzt in reisender Gestalt /
+Eh' deiner Tugend Glut ins Kärckers Wust erkalt /
+Aus unverfälschter Gunst / dich / Freundin / zubesuchen.
+Es mag der Kaiser mir viel tausend plagen fluchen /
+Sabina liebet doch Sophiens Glaubens-Licht /
+Biß ihr der bleiche Tod das Lebens-Glas zerbricht!
+
+
+
+SERENA.
+
+Hier zeigt sich auch Seren' / O Spiegel kluger Frauen /
+Die durch Beständigkeit ein solches Grabmahl bauen
+Jhr und den Kindern wird / das man in Demant ätzt /
+Das weder Zeit noch Tod mit seinem Stahl verletzt /
+Und daß dich in das Buch des Lebens ein wird schreiben!
+
+
+
+FLAVIA.
+
+Hier steht auch Flavia / der keine Nacht vertreiben
+Die Glaubens-Flamme wird / die sie / Sophie / erweckt
+In meiner keuschen Brust! Jch werde nur erschreckt /
+Daß ihre Schönheit sol so sonder Ursach büssen /
+Und in der düstren Gruft das Edle Leben schlüssen!
+
+
+
+SOPHIA.
+
+Daß mir eur Gnadenliecht auch in dem Kercker gläntzt /
+Und mein verfinstert Haubt mit neuer Sonn' umkräntzt /
+Ist ein solch ruhmbar Werck / das sattsam nie zu preisen!
+O übergrosse Gunst / die sich durch Stahl und Eisen
+Zu den Gefangnen dringt! Sagt doch / auf was vor Art
+Ließ Euch die Schildwach' ein?
+
+
+
+ALEXANDER.
+
+Wo Glimpf und Gold sich paart /
+
+
+Da muß die Ohnmacht selbst durch Ertzt und Felsen dringen:
+Denn iede Schlösser kan ein güldner Schlüssel zwingen!
+
+
+
+SOPHIA.
+
+O mehr als kluge List! O wol verstelltes Kleid!
+Was sind wir Menschen doch in dieser Eitelkeit /
+Als stete Wanderer
+
+
+30
+ / als solche Pilgrams-Leute /
+Die gestern auf der Welt / und auf der Bahre heute!
+Hier ist kein festes Schloß / kein ewiger Palast!
+Drumb ist der Kercker auch Sophien nicht verhass't /
+
+
+
+ALEXANDER.
+
+So ists! wir reisen stets durch dieses Rund der Erden /
+Biß unsre Glieder dann vom Reisen müde werden /
+Und sincken in das Grab / doch wol und mehr als wol
+Dem / der gelangen kan in den Saphirnen Pol
+Nach wol vollbrachter Reis' / und wie Sophia reisen!
+Den werden Engel dort mit Ambrosinen speisen /
+Und sein verklährtes Haubt mit Kron und Palm erhöhn /
+Wenn jener grosse Tag des Richters an-wird-gehn.
+Drumb ist Sophie beglückt / daß sie so reisen müssen.
+
+
+
+JULIA SABINA.
+
+O Reise / derer Müh' kan alle Pein versüssen!
+O Reise / derer Last des Kerckers schwartze Nacht
+Zum allerschönsten Tag / aus Kindern Engel macht /
+Und selbst Sophiens Brust in einen Himmel kehret!
+Wem solche Pilgramschafft wird auf der Welt gewehret /
+Wer also reisen muß durch dieses Thränenthal /
+Der kommt mit höchstem Glück' in den gestirnten Saal!
+
+
+
+SERENA.
+
+O Reise / derer Bahn zwar Dorn und Disteln zeiget /
+Jedoch durch die man auch zum Paradise fleuget /
+Wo ew'ge Kaiser Kron' / und Lilg' / und Rosen stehn!
+
+
+Wie wird sich nun Sophie durch solche Reis' erhöhn /
+Die nebst den Kindern sie muß itzund auf sich nehmen!
+
+
+
+FLAVIA.
+
+O Reise / derer sich kein wahrer Christ darff schämen!
+O werthe Pilgramschafft / die Bley in Gold verkehrt /
+Und uns vor grobes Garn Scarlat und Sammt gewehrt!
+Wie seelig muß man nun Sophiens Wallfahrt preisen /
+Auf der Sie und ihr Stamm kan zu dem Himmel reisen!
+
+
+
+ALEXANDER.
+
+So reise demnach wol auf dieser Dornenbahn /
+Biß du mit Freuden schaust des Höchsten Antlitz an!
+
+
+
+JULIA SABINA.
+
+So reise demnach wol auf diesen Folter-Wegen /
+Biß sich auf deinen Mund dein JESUS selbst wird legen!
+
+
+
+SERENA.
+
+So reise demnach wol auf diesem Unglücks-Meer /
+Biß dich mit Nectar tränckt der Cherubinen-Heer!
+
+
+
+FLAVIA.
+
+So reise demnach wol auf diesen Zwietrachts-Gräntzen /
+Biß dich dein Heiland schmückt mit Palm- und Lorberkräntzen!
+
+
+
+SOPHIA.
+
+Ja Liebste! Ja ich wündsch' aus dem Morast zugehn /
+Und nebst der Kinder Schaar bey meinem Gott zu stehn:
+Der uns bekrönen wird mit solchen Ehren-Lilgen /
+Die nie kein Hadrian / kein Nero wird vertilgen!
+Und der uns schencken wird ein solches Purpur-Kleid /
+Vor dem erzittern muß Tod / Hölle / Welt und Zeit!
+
+
+
+
+ALEXANDER.
+
+Mich dünckt / es rauschet was! Wir werden scheiden müssen!
+Laß dich zu gutter Nacht / hochwerthe Freundin / küssen!
+
+
+
+JULIA SABINA.
+Auf diesem Kuße ruht das Siegel unsrer Treu!
+
+
+SERENA.
+Ade mit diesem Kuß! Der Himmel steh dir bey!
+
+
+FLAVIA.
+Dein JESUS helffe dir glückseelig überwinden!
+
+
+SOPHIA.
+Fahrt wol! Fahrt wol! und eilt / eh Euch der Fürst lässt binden!
+
+
+Sophia. Hadrianus. Heliodorus. Epictetus. Palladia. Antoninus. Svetonius. Julianus. Septitius. Honorius. Die Pagen und Trabanten.
+
+
+
+
+HADRIANUS.
+
+Strahlt unsre Sonne nun in dieses Zimmers Pracht?
+Herrscht in dem Paradies Sophiens Wundermacht?
+Wil unsre Fürstin uns in diesem Lustwald küssen /
+Und uns die bittre Zeit mit Spiel und Schertz versüssen?
+Schaut mir die Pallas doch / den klugen Engel an /
+Der durch die Weißheit sich so schön vergöttern kan!
+Betrachtet doch genau die Venus unsrer zeiten /
+Die sich in dem Gemach das Brautbett lässt bereiten!
+Wie geht dirs doch / mein Schatz / mein auserwehltes Licht!
+Entdecke deinem Knecht / ob ichtwas dir gebricht /
+Das deine Göttligkeit nicht sattsam könn' erquicken!
+
+
+Es wird sich Hadrian vor deinem Antlitz bücken /
+Dein Wort wird sein Befehl / dein Blitz sein Schrecken seyn!
+Wir gehen / was du schaffst / in tieffster Demuth ein!
+Du bist mein Sonnen-Rad / ich deine Sonnen-Wende /
+
+
+31
+
+
+Dein Leib ist mein Altar / mein Abgott deine Hände!
+Ach! Laß uns schlaffen gehn! Doch nein! Mein Engel muß /
+Eh' ich auf meinem Mund empfange Gruß und Kuß /
+Zuvor mit Speis' und Tranck die zarten Glieder laben!
+
+
+
+Der innere Schauplatz eröffnet sich / in welchem die Todtenmahlzeit gezeiget wird / nehmlich die drey Köpfe der Kinder mit drey Gläsern Blut.
+
+
+
+Schau / wie Diana dich und Bacchus wil begaben
+Mit einem Lustpanquet! Nehmt von den Schüsseln weg
+Das Seidenreiche Tuch! Mein Engel kost' und schmäck /
+Wie dich diß Himmelbrodt / der Nectar wird vergnügen!
+Hier schaust du Hirsch und Reh / ja solches Wildprät liegen /
+Daß kein Smindyrides auf seiner Tafel hat!
+
+
+32
+
+
+Geh! Schneide dir was ab! verschmäh nicht meinen Raht!
+Jhr aber / derer Treu zu unserm Trost erschienen /
+Helfft eure Kaiserin nach Mögligkeit bedienen!
+
+
+
+HELIODORUS.
+
+Versuche doch / Sophie! Diß ist der Schönheit Lohn!
+Du bist Cleopatra / der Fürst ist dein Anton!
+
+
+
+EPICTETUS.
+
+Versuche doch / Sophie / die wolgewürtzten Speisen /
+Die Artaxerxes selbst wird höchlich müssen preisen!
+
+
+
+PALLADIA.
+
+Versuche doch Sophie den süssen Nectar saft /
+Den Ganymedes selbst auf diesen Tisch geschafft!
+
+
+
+
+ANTONINUS.
+
+Versuche doch / Sophie / was von den ädlen köpfen /
+Bey denen selbst Vitell die höchste Lust kan schöpfen!
+
+
+
+SVETONIUS.
+
+Versuche doch / Sophie / den Rosenrothen Wein /
+Der den Lucullus selbst und Nero kan erfreu'n!
+
+
+
+JULIANUS.
+
+Versuche doch / Sophie / die wundervollen Trachten /
+Die Ptolemäus selbst und Straton hoch muß achten!
+
+
+
+SEPTITIUS.
+
+Versuche doch / Sophie / diß reine Krystallin /
+Dem selbst Sardanapal den Siegs-Krantz reichet hin!
+
+
+
+HONORIUS.
+
+Versuche doch / Sophie / diß köstliche Gerichte /
+Vor dem Cambyses Gold und Gastmahl wird zu nichte!
+
+
+
+HADRIANUS.
+
+Wie? Schmeckt nicht deinem Mund diß angestellte Mahl?
+Erkiese / was du wilt! Du hast hier freye Wahl!
+Geneuß doch dieser Lust / so dir der Fürst bereitet /
+Und auf den Gipfel dich der höchsten Ehre leitet.
+
+
+
+SOPHIA.
+
+Welch Mummwerck giebt der Fürst mit seiner Magd doch an /
+Mit seiner armen Magd / die kaum noch athmen kan?
+Was wil Er einem Weib' ein solches Traur-Spiel weisen?
+Ein hochgesinnter Leu kämpft nicht mit schwachen Mäusen /
+Ein grosser Elephant mit keiner Hündin nicht!
+Wahr ists / diß Trauer-Spiel / diß blutige Gericht /
+Dadurch der Kaiser mir die Plagen meint zu würtzen /
+Würd' einen blöden Geist leicht in Verzweiflung stürtzen /
+
+
+So / daß sein Lebens-Schiff zu scheitern müsste gehn:
+Allein bey welchem Gott und seine Diener stehn /
+Bey welchem JESUS sich mit Gnaden ein-wil-finden /
+Der kan auch solche Pein glückseelig überwinden!
+So denck' auch nicht der Fürst / daß mich diß Traurspiel schreckt /
+Und etwan grössern Schmertz in meiner Seel' erweckt!
+Ach nein! Jch bin erfreut / daß nun durch Beil und Wunden
+Der Töchter zarte Schaar den sichern Port gefunden
+Der wahren Seeligkeit! Hönt immer wie ihr wollt!
+Diß Traurmahl acht' ich mehr als tausend Kisten Gold /
+Als Ahasverus Pracht und Sybariter Speisen.
+Ach liebste Häubter! Ach! Jch muß euch ewig preisen!
+Schaut / wie ihr Purpur-Mund in reinem Silber lacht /
+Daß sie des Kaisers List / der Hencker Grimm veracht!
+Ach werthe Märterer! Ach unbesiegte Kinder!
+Wenn komm' ich doch zu Euch / ihr seel'gen Ueberwinder!
+
+
+
+HADRIANUS.
+
+Du andre Niobe / du Kinder-reiches Weib /
+Hat sich dein Auge nun / dein aufgeblasner Leib
+Durch dieses Freudenspiel zur Gnüge recht erquicket?
+Hastu so Speis' als Tranck nun sattsam angeblicket?
+Jedoch weil meistentheils beym prächtigen Pancquet
+Ein wolgezierter Tantz nicht unannehmlich steht /
+So sol auch diese Lust mein Augentrost itzt spühren:
+Auf! Lasset alsobald die süssen Seiten rühren!
+
+
+
+Es erscheinen zwey Todte mit Pfeilen / welche ein höchsttrauriges Ballet nebst untergemischten grausamen geberden gegen die Sophie tantzen.
+
+
+
+
+HADRIANUS.
+
+Gefiell dir dieser Tantz? Diß ist die neuste Art /
+Die man zu sondrer Pracht und höchster Wollust spahrt!
+
+
+
+
+HELIODORUS.
+So hat sich zu Athen Epaminond' erhoben!
+
+
+EPICTETUS.
+Wer wil den Pilades und den Bathyll nicht loben?
+
+
+33
+
+
+
+
+PALLADIA.
+Der zuckersüsse Tantz ist Göttern selbst geweiht!
+
+
+ANTONINUS.
+Der zuckersüsse Tantz verzuckert alles Leid!
+
+
+SVETONIUS.
+Der zuckersüsse Tantz / beweget Stein' und Eisen!
+
+
+JULIANUS.
+Den zuckersüssen Tantz muß Plato selber preisen!
+
+
+SEPTITIUS.
+Der zuckersüsse Tantz besieget alle Lust!
+
+
+HONORIUS.
+Der zuckersüsse Tantz erquicket Seel' und Brust!
+
+
+SOPHIA.
+
+Ach daß ihr also schwärmt! Der blasse Todten Reyen
+Kan mich im minsten nicht erschrecken / nur erfreuen!
+Hierdurch wird vorgebildt die Eitelkeit der Welt /
+Wie der entlarvte Tod so Lust als Leid zerschellt:
+Ja eure Seiten sind ein Vorspiel meiner Freuden!
+Mein JESU! Lasse mich doch aus dem Traursaal scheiden!
+Laß' aus Egyptens Nacht in Canaan mich ziehn!
+Laß nebst den Kindern mich im Paradiese blühn!
+Mich dünckt / ich sehe schon in über-ird'scher Wonne
+Der Töchter Kleeblatt stehn bey der Saphirnen Sonne.
+
+
+
+
+
+Sophia. Hadrianus. Heliodorus. Epictetus. Palladia. Antoninus. Svetonius. Julianus. Septitius. Honorius. Die Pagen und Trabanten. Der Geist Fidei, Spei und Charitatis in den Wolcken.
+
+
+
+
+FIDES.
+
+ SPES UND CHARITAS.
+Ja / Mutter! du siehst recht! wir sind numehr beglückt!
+Der dreymalgrosse Gott hat unsre Seel' erquickt!
+Wir haben nun erlangt die Edle Märtrer-Krone /
+Die JESUS seiner Schaar aus Gnaden giebt zu Lohne!
+Drumb freue dich / Sophie! Du hast durch uns gesiegt!
+Schau' / wie Welt / Höll und Tod zu unsern Füssen liegt!
+Inzwischen lasse dich / O Mutter / nicht verlangen /
+Du wirst in dieser Nacht uns auch / wir dich umbfangen!
+
+
+
+Die Geister verschwinden.
+
+
+
+
+SOPHIA.
+
+Jhr Himmels-Gratien. Jhr Kleeblat in dem Pol!
+Verzieht! Verzieht! Verzieht! Ach! Wie ist mir so wol!
+Wie werden mir beseelt mein' abgekränckte Sinnen!
+Wie wollen doch auf mich die Freuden-ströhme rinnen!
+Seid tausendmahl gegrüsst / ihr zarten Märtrer / ihr!
+
+
+34
+
+
+Jhr Spiegel wahrer Treu! Der Mutter höchste Zier!
+Seid tausendmahl gegrüsst / ihr schönsten Himmels-Lilgen!
+Nun wird kein Hadrian eur Alabast vertilgen /
+Eur reines Alabast / das in der lichten Höh
+Mit grössrer Klarheit gläntzt als der Demantne Schnee!
+Seid tausendmahl gegrüsst / ihr güldnen Himmels-Rosen /
+Umb dehrer Scharlach Kleid die Engel selbst liebkosen!
+Ach! seel'ge Kinder! Ach! Ach unbefleckte Schaar!
+
+Spes! Fides! Charitas! Spielt vor dem Richt-Altar
+Des grossen Gottes! Spielt mit Edlen Siegeszeichen /
+Mit Kronen / derer Gold die Seraphinen reichen!
+
+
+
+
+HADRIANUS.
+
+Was schwärmt von Kronen sie? Von Rosen / Lilg' / und Schnee?
+Ja! Sie sol Krohnen schaun / die nichts als Pein und Weh!
+Jedoch welch Scheusal wil itzt in den Kercker dringen!
+Wil uns der grimme Tod schon umb das Leben bringen!
+
+
+
+Sophia. Hadrianus. Heliodorus. Epictetus. Palladia. Antoninus. Svetonius. Julianus. Septitius. Honorius. Die Pagen und Trabanten / Der Tod.
+
+
+
+
+DER TOD.
+
+Sophie! Ermuntre dich! Dein Freyheitstag bricht an!
+Dein Traurflor kehret sich ins schönste Siegesfahn!
+Dein düstres Folterhaus ins Kaiserliche Zimmer!
+Dein schwartzes Sterbe-Licht in Diamanten Schimmer.
+Es ist nun Zeit / Sophie / daß du in sanfter Ruh
+Nach rauhem Kampf und Streit die Augen schlüssest zu.
+Es ist nun Zeit / Sophie / dich aus dem Schacht zu führen /
+Und dein großmächt'ges Haupt mit Lorbern zubezieren!
+Es ist nun zeit / Sophie / daß sich dein Märtrer-Krantz /
+Dein Sieges-Zweig verkehr' in Sonnenhellen Glantz!
+Drumb nim mit Freuden an des Pfeiles sanfte Spitze /
+Wodurch dein Leib sich schwingt zum auserwehlten Sitze /
+Wo keine Seele nicht vor Spiß und Schwertern zagt!
+Dich aber / dessen Grimm die Christen also plagt /
+
+
+35
+
+
+Hoffärtiger Tyrann / wird nicht mein Pfeil erquicken!
+Nein! Sondern deine Brust mit Ach und Weh erdrücken!
+
+
+
+SOPHIA.
+
+Willkommen / süsser Tod! Du Labsal meiner Brust!
+
+
+36
+
+
+Dein Anblick ist mein Trost / dein blitzen meine Lust /
+
+
+Dein Pfeil mein höchster Schatz / dein Bogen meine Wonne /
+Jch wünsche frey zu seyn! Jch sehne nach der Sonne
+Der wahren Freude mich! Jch sehne mich zu gehn /
+Wo meine Kinder sind / wo meine Töchter stehn!
+Dein Pfeil berührt mich zwar; iedoch ie mehr ich fühle
+Desselben starcke Kraft / ie mehr zum Freuden Spiele
+Mir dieses Traurfest wird! Mein JESU! Lasse nun
+Sophiens keuschen Geist in deinen Wunden ruhn!
+Es wollen mir numehr erstarren Mund und Worte!
+Mein JESU! öffne mir die süsse Lebens-pforte!
+Erhalt' im Tode auch die dir verlobte Magd!
+Ade / Fürst Hadrian! Ade! Die Jhr mich plagt
+In blinder Fantasie! Gott woll' Euch auch erleuchten /
+Und mit dem Gnadenöl / wie meine Seel / befeuchten!
+Nim /JESU / mich zu dir!
+
+
+
+HADRIANUS.
+
+Wie? ist Sophia todt?
+Sol sie so schnell entgehn der wolverdienten Noth?
+
+
+
+HELIODORUS.
+So ists: Jhr Christus wil ihr selbst zum Hencker werden!
+
+
+EPICTETUS.
+Es kan nicht länger blühn das Unkraut dieser Erden.
+
+
+PALLADIA.
+Sie athmet! Sie erstarrt! Jhr schwartzer Geist ist fort!
+
+
+ANTONINUS.
+So fährt der Kaiser ein in den gewündschten Port.
+
+
+SVETONIUS.
+An was für einen Ort wird man den Leichnam schmeissen!
+
+
+
+JULIANUS.
+Es mag der Hunde Grimm den todten Hund zerreissen!
+
+
+SEPTITIUS.
+Wer als ein Vieh gelebt / verdient nicht Flamm' und Bahr.
+
+
+HONORIUS.
+So kan sich spiegeln recht der Christen tolle Schaar.
+
+
+HADRIANUS.
+
+Schimpft nicht Sophiens Leib / noch die erblassten Kinder!
+Verfahrt mit ihrer Leich und Gliedern ichtwas linder!
+Sie hätten zwar verdient / daß unser Richterstab
+Sophien stellte dar ein höchst-beschimpftes Grab:
+Allein weil Tugend auch in Feinden ist zu preisen /
+Weil der Sophien Muth besieget Blitz und Eisen /
+Und selber die Natur uns hier Gesetze schreibt;
+So werde diese Schaar der Erden einverleibt.
+Denn wer das güldne Fahn des Nachruhms wil erlangen /
+Der muß verächtlich nicht mit blassen Leichen prangen!
+
+
+Reyen
+
+
+Der Beständigkeit / des Glaubens / der Hoffnung /der Liebe / des Fleisches / der Welt / des Todes / des Teufels / und der Engel.
+
+
+
+
+DIE BESTÄNDIGKEIT.
+
+
+Bestandigkeit trotzt alle Donner-wetter /
+Sie steht / obschon Luft / See / und Erde kracht;
+Sie ist allein der mächtigste Erretter /
+Wenn Satan sich an Seel und Glieder macht.
+Schaut / wie mein Arm den Höllen-Hund gebunden /
+Weil ihn SOPHIE großmüttig überwunden!
+
+
+
+
+DER TEUFEL.
+
+Ach! Ach! Ach! Ach!
+Wie quählt mich diese Rach'!
+
+
+
+DER GLAUBE.
+
+
+Der Glaube treibt den schwartzen Rauch von sammen /
+Der oft entsteht aus der Begierden Licht /
+Diß werthe Creutz erwecket heil'ge Flammen /
+Wenn Fleisch und Blut den müden Geist anficht.
+Schaut / wie vor mir die schnöde Magd sich bücket /
+Weil durch ihr Garn nicht FIDES ward berücket!
+
+
+
+DAS FLEISCH.
+
+Ach! Ach! Ach! Ach!
+Wie quählt mich diese Rach'!
+
+
+
+DIE HOFFNUNG.
+
+
+Die Hoffnung ist das Labsal aller Schmertzen /
+Jhr Ancker wird durch keinen Sturm zerschellt;
+Sie achtet nichts das falschgesinnte Schertzen /
+Das uns zeigt die Sirene dieser Welt:
+Schaut / wie sich itzt die tolle Sclavin kräncket /
+Weil SPES durch sie nicht abwerts ward gelencket!
+
+
+
+DIE WELT.
+
+Ach! Ach! Ach! Ach!
+Wie quählt mich diese Rach'!
+
+
+
+DIE LIEBE.
+
+
+Die Liebe bleibt das Wunder aller Wunder /
+Sie kehrt in Lust das allergrimmste Weh;
+Je grössre Qual / ie heller wird ihr Zunder /
+Bis Sie sich schwingt auf die gestirnte Höh.
+Schaut / wie der Tod vor meinen Füssen lieget /
+Weil CHARITAS dem Riesen obgesieget!
+
+
+
+
+DER TOD.
+
+Ach! Ach! Ach! Ach!
+Wie quält mich diese Rach'!
+
+
+
+DER TEUFEL.
+Ach!
+
+
+DAS FLEISCH.
+Ach!
+
+
+DIE WELT.
+Ach!
+
+
+DER TOD.
+Ach!
+
+
+ALLE VIER
+
+zusammen.
+
+
+Wie quählt uns diese Rach'!
+Ey! Lasset uns doch aus den Ketten gehen!
+Man wird hinfort stets eure Macht erhöhen!
+BESTÄNDIGKEIT, GLAUBE, HOFFNUNG UND LIEBE.
+Was heulet ihr? Nein / Sclaven! Nein! Ach nein!
+
+Die Tugend siegt! Es kan nicht anders seyn!
+
+
+
+Der Schauplatz eröffnet sich oben / und stellet vor einen helleuchtenden Himmel / aus welchem sich vier und zwantzig Engel nebst einem prächtigen Triumphs-Wagen / vielen Fackeln / Kronen und Palmzweigen auf die Erde lassen.
+
+
+
+Jedoch welch Glantz umstrahlet unsre Glieder?
+Wie? Lassen sich die Engel bey uns nieder?
+
+
+
+ALLE ENGEL.
+
+Wir kommen aus dem Sternen-Saal
+Mit hellem Schein / mit Kron- und Palmenzweigen
+
+
+Auf dieses threnenreiche Thal /
+Des Höchsten Macht und grosse Gunst zu zeigen.
+Jhr Sterblichen / erschrecket nicht /
+Daß Engel sich zu euren Gräntzen machen!
+Es fodert unsre Lieb' und pflicht /
+Die Tugenden holdseelig an-zu-lachen.
+
+Sophia lockt uns aus der Höh /
+Die Schertz und Schmertz dem Himmel nachgesetzet:
+Drumb ist sie werth / daß sie nach Weh
+Mit Lorberreiß und Palmen werd' ergötzet.
+
+
+
+ZWEY ENGEL.
+
+Steigt / Liebste / nun auf dieses Wagens-Pracht /
+Die ihr Fleisch / Welt / und Höll' / und Tod bezwungen!
+Sitzt auf! Sitzt auf! So wird der Geist bedacht /
+Der sich durch Gott biß in den Pol geschwungen!
+
+Beständigkeit / nihm an den Lorberkrantz /
+Den selber wir mit eigner Hand gewunden;
+Den Palmenzweig / durch dessen güldnen Glantz
+Die wahre Ruh der Seele wird gefunden.
+Des Glaubens Gold und reiner Diamant
+Vergrössert sich durch diesen Zweig und Krone:
+Drumb nihm ihn an von unsrer Siges-Hand.
+Solch Kleinod kriegt der Glaube stets zu Lohne!
+Nim / Hoffnung / an das Merckmahl unsrer Gunst /
+Den Ehrenkrantz / diß grüne Sieges-Zeichen!
+So wird begabt / der nicht den schwartzen Dunst
+Der Eitelkeit lässt in die sinnen schleichen!
+Du ädles Bild / das Höll' und Tod bezwingt /
+Nim freudig an / was dir der Himmel schencket!
+So wird erquickt / der sich zun Sternen schwingt /
+Und niemahls sich mit ird'scher Wollust kräncket!
+Spannt numehr an Fleisch / Hölle / Welt / und Tod!
+Kein schöner Thier kan zieren disen Wagen:
+
+
+So kan man sich befreyn von aller Noth /
+Wann unter uns die Feinde müssen zagen!
+
+
+
+DER I.
+
+ ENGEL:
+Jo Triumph! Beständigkeit besteht!
+
+
+
+DER II.
+
+ ENGEL:
+Jo Triumph! Der Glaub' ist durchgedrungen!
+
+
+
+DER III.
+
+ ENGEL:
+Jo Triumph! Der Hoffnung ists gelungen!
+
+
+
+DER IV.
+
+ ENGEL:
+Jo Triumph! Die Liebe wird erhöht!
+
+
+
+Alle Engel / in deme sie sich nebst denen auf dem Triumphs-Wagen sitzenden Vier Tugenden widerum in den Himmel schwingen /schlüssen nebst untergemischten Violinen / Trompeten und Heerpaucken also.
+
+
+
+»Drumb welcher hier und dort den Himmel wil erblicken /
+Den muß Beständigkeit / Glaub' / Lieb' und Hoffnung schmücken!«
+
+
+
+
+
+Fußnoten
+
+
+
+1 V. 9. Sophia ist zu Rom aus hochädlem Stamm entsprossen / sintemahl ihre Vorfahren iederzeit die höchsten Ehren-Aempter in Italien verwaltet / wie solches EX SIMEON. METAPHR. LAUR. SUR. IN VIT. SANCT. TOM. IV. M. AUG. IN MARTYR. SOPHIÆ FILIARUMQUE EJUS c. 3. ingleichen BARON. ANNAL. IN HADR. LUCIUS IN HADR. und andere bezeugen.
+
+
+
+
+2 V. 14. Durch diese drey Lilien werden ihre drey Töchter FIDES, SPES, und CHARITAS, welche als schönste Lilien der unbefleckten Keuschheit gegrünet / verstanden. Hieher gehöret das fürtreffliche EPIGRAMMA des Sinnreichen Jesuitens BIDERMANNI, wenn er LIBR. 3. EPIGR. 4. die Sophie also redende einführet:
+
+Tres peperi obstetrice Parens Virtute puellas,
+
+
+Quarum quaeque sua digna parente fuit.
+
+
+His tria felici sunt indita nomina partu,
+
+
+Nec sua cassa tribus Nomina Rebus erant.
+
+
+Accepit FIDEI Natarum maxima Nomen,
+
+
+Jussa fuit Nomen ferre secunda SPEI;
+
+
+Indidit aetherei sibi tertia Nomen AMORIS,
+
+
+Et docuit Nomen quaeque puella suum.
+
+
+Sic Ego Virtutes peperi, quot pignora. Partus
+
+
+(Parcite!) Debuerat crebrior esse mihi.
+
+
+
+
+
+3 V. 67. 68. 69. 70. 71. Diese alle haben in damahliger Verfolgung zur zeit Sophia: nach ausgestandener vielfacher Marter und Pein ihr Leben vor den Nahmen JESUS unverzagt aufgesetzet: wie hiervon IN CHRONOGRAPH. PETR. OPMEER. P.M. 426. und andern mit mehren zusehen.
+
+
+
+
+4 V. 73. So erbärmlich ist der Christen Zustand damahls gewesen / daß sie auch in den unterirdischen Grüften / wohin sie sich vor der Heiden Grausamkeit geflücht und heimlich ihrem Jesu gedienet / nicht Ruhe gehabt; sondern entweder ausser denselbten auf offentlicher Strasse durch tyrannische Waffen / wie dem Christlichen Bischoffe SIXTO I. und dem H. CYPRIANO wiederfahren; oder in denselbten durch Entziehung aller Lebensmittel / wann nehmlich die Gruft von den Verfolgern feste zugestopffet worden /wie dem Gottseeligen Bischoffe DIODORO begegnet / ihre gequählte Seele ausblasen müssen. Besiehe hievon EUSEB. LIB. 8. HIST. C. 6. imgleichen PAUL. ARINGH. ROM. SUBTERR. TOM. 1. LIB. 1. C. 2.
+
+
+
+
+5 V. 78. Alle dise Ketzereyen / so allhier / wie auch in folgenden Reyen HUJUS ACT. 1. vorgestellet /und IN JUR. CANON. CAUS. 24. Q. 3. C. QUIDAM AUTEM HAERETICI. imgleichen IN JUR. CIV. L. 5. C. DE HAERET. & MANICH. nebst vielen andern mehr ordentlich erzählet werden / sind zu Hadriani zeiten im schwange gegangen / und haben der Christlichen Kirche durch sothane irrige Zerspaltungen mehr Schaden zugefüget / als die Verfolgung selber / wie EUSEBIUS hiervon gar vernünftig urtheilet.
+
+
+
+
+6 V. 86. HAERETICI PLERUMQUE SUNT HYPOCRITAE. VID. RICHT. IN AXIOM. ECCLES. AX. 215. wie auch der Grundgelehrte SAVEDRA SYMB. 27.
+
+
+
+
+7 V. 93. SVETONIUS ist ein abgesagter Feind der Christen gewesen / allermassen solches aus dem schönen Titel / den Er ihnen IN VIT. NERON. C. 16. giebt / erhellet: AFFLICTI, INQUIT, CHRISTIANI, GENUS HOMINUM SUPERSTITIONIS NOVAE AC MALEFICAE. Ja er scheuet sich nicht CHRISTUM unsern Erlöser ofters CHRESTUM zu nennen. VID. CHRIST. MATTH. THEATR. HISTOR. LIB. 4. IN HADR. P. 184.
+
+
+
+
+8 V. 99. Hier wird gezielet auf diß / was TERTULL. IN APOLOG. C. 40. von der Heiden Grausamkeit wider die Christen erzählet: SI TIBERIS ASCENDERET IN ARVA, SI CŒLUM STARET, SI TERRA MOVERETUR, SI FAMES, SI LUES, STATIM: CHRISTIANOS AD LEONES! Also hat der Satan damahls gespielet! Alles Ungemach / so etwan im Römischen Reiche ohne eintzige Ursache der Christen entstund / wurde ihnen aufgebürdet. Denn ihre Widersacher gaben vor / sie wären rechte Mißgebuhrten und flüche der Erden / und weil sie der Kaiser ungestrafft lisse / so zürneten die Götter / und würde Er derowegen samt ihnen mit Erdbeben /Krieg / Pestilentz / und andern Drangseeligkeiten heimgesucht. Welches aber weitläufftig und gründlich widerleget hat D. AUGUSTIN. LIB. 2. SEQQ. DE C.D.
+
+
+
+
+9 V. 197. Diser Bischoff / nach dem er der Christlichen Kirche zu Rom biß ins Eilfte Jahr löblich vorgestanden / hat ebenfalls in dieser Hauptverfolgung nebst zweyen DIACONIS, EVENTIO und THEODORO auf der Nomentinischen Strasse durch Vergiessung seines Blutes die Märtyrer Krone erlanget /wie disfalls berichten PLATIN. & STELLA IN VIT. ALEXANDRI I. ingleichem OPMEER. CHRONOGR. P.M. 415. und ARINGH. ROM. SUBT. TOM. 2. LIB. 4. C. 22.
+
+
+
+
+10 V. 256. Die Sonne der Italiänischen Poeten MARINO, auf welchen ich hier gesehen / beschreibet unter andern in seinem zuckersüssen ADONIS CANT. 1. OTTAV. 149. das Dorffleben mit köstlichsten Worten / in dem er den vergnügten Landmann also redende einführet:
+LUNGE DA' FASTI AMBITIOSI È VANI,
+M' È SCETTRO IL MIO BASTON, PORPORA IL VELLO,
+AMBROSIA IL LATTE, A CUI LE PROPRIE MANI
+SCUSANO COPPA, E NETTARE IL RUSCELLO.
+SON MINISTRI BIFOLCHI, AMICI I CANI,
+SERGENTE IL TORO, E CORTIGIAN L' AGNELLO,
+MUSICI GLI AUGELLETTI, E L'AURE, E L'ONDE,
+PIUME L'HERBETTE, E PADIGLION LE FRONDE.
+Welches ich also übersetzet:
+Von mir ist weit entfernt der Ehrgeitz dieser Erden /
+Mein Scepter ist ein stab / mein Purpurrock ein Fell;
+Mir muß die reine Milch zu Ambrosinen werden /
+Den Nectar reichet mir ein silberklahres Quell.
+Bock / Ochsen / Hund / und Lamm sind meine Hof-Trabanten /
+Auf die mein Hertze mehr als Spieß und Schwerdter baut:
+Luft / Vögel / und die Bach sind meine Musicanten;
+Mein Pfühl ist Laub und Graß / die Decke Blum und Kraut.
+Besihe auch hiervon LES HARANG. HEROIQ. DE MONS. DE SCUDERY EN SECOND. PART. HAR. 5. allwo unter verblühmten Nahmen die Schäfferin Amaryllis gegen ihrem Tityro die Fürtreffligkeit des Feldlebens über die massen schöne ausführet.
+
+
+
+
+11 V. 339. Aus heiliger Göttlicher Schrift / und insonderheit MATTH. 17. V. 20. LUC. 17. v. 6. 1. CORINTH. 13. V. 2. ist der wunderthätige Stärcke des wahren Glaubens gegen Gott / durch welchen auch Berge versetzt werden können / mehr als zuwohl bekant. Hieher schicket sich nicht uneben das ausbündige EPIGRAMMA, welches ein gelehrter Kopf über den aus einem Steine gehauenen / und weiland den Heidnischen Kaisern AUGUSTO und TIBERIO, numehro aber vom Babst SIXTO V. ANNO 1586. aus dem CAMPO MARTIO IN CAMPUM FLAMINIUM versetzten / und dem heiligen Creutze gewiedmeten OBELISCUM folgender Gestalt abgefasset hat:
+ECCE CRUCI EXCELSAE NUNC SUBJICIUNTUR HONORES
+INDUPERATORUM, MUNERE, SIXTE, TUO.
+DUM TRANSFERS MONTES MONTALTI E MONTE RECISOS,
+ILLUD, SIXTE, FACIS, QUOD FACIT IPSA FIDES.
+Von diesem OBELISCO besiehe KIRCHER. IKN OEDIP. AEGYPT. TOM. 3. SYNT. 3.
+
+
+
+
+12 V. 9. Hadrianus ist durch Hülffe der Plotinen /Trajani Gemahlin / von welcher er geliebet ward /zum Kaiserthum befödert worden: Dannenhero er ihr auch nach ihrem tode einen kostbaren Tempel erbauet / und sie hefftig betrauret: wie solches DION. IN HADR. §. 1. & 5. ingleichem SPARTIAN. und XIPHIL. bezeugen.
+
+
+
+
+13 V. 12. Was vor eine erschreckliche Niederlage die wider HADRIANUM unter eines verwegenen Menschens / welcher nach der Weissagung Bileams NUM. 24. v. 17. sich Barchochab / das ist / ein Sternkind genennet / auch deßwegen vom RABBI AKIBA zu ihrem Messia und Könige gesalbet worden / Anführung rebellirende Juden mit ihrem unverwindlichen Schaden und Spott erlitten / solches beschreibet ausführlich JOSEPH. DE B.J. EGESIPP. EUSEB. LIB. 4. HIST. ECCL. C. 6. und andere. Hiervon kan auch gesehen werden SANHEDRIM FOL. 97. ZEMACH. DAVID. FOL. 41. ECHTA RABTHI FOL. 77. und BERESCHIT RABBA FOL. 74.
+
+
+
+
+14 V. 127. Diser als er von Hadriano zum Land Vogte in Asia gemachet wurde / und scharff nach den Christen forschen ließ / kam eine sehr grosse Menge derselbten vor seinen Richt-Stuhl gelauffen / welche einmüttig / daß sie Christen wären / bekannten / und zusterben verlangten. Worüber Antoninus bestürtzet /bloß etliche von den Fürsnehmsten gefangen nahm /den andern aber andeutete / wo sie ja sterben wolten /so könten sie sich selbst mit Stricken erhencken / oder von Thürmen herab stürtzen; Sie dürfften sich deßwegen nicht ferner bey ihm angeben. SPARTIAN. & TERTULL. AD SCAPUL. C. 5. Welche preiswürdige Begierde der Christen vor ihren JESUS zu sterben PRUDENTIUS IN HYMN. DE S. ROM. gar tröstlich also beschrieben:
+CONSPIRAT UNO FŒDERATUS SPIRITU
+GREX CHRISTIANORUM AGMEN IMPERTERRITUM
+MATRUM, VIRORUM, PARVULORUM, VIRGINUM;
+FIXA & STATUTA EST OMNIBUS SENTENTIA:
+FIDEM TUERI, VEL LIBENTER EMORI.
+OCCUMBEBANT ENIM, NON SUCCUMBEBANT; TRIUMPHABANT & MORTUI, saget BERNHARD. LIB. 3. DE CONVERS. AD EVANG.
+
+
+
+
+15 V. 192. RELIGIO SVADENDA, NON COGENDA. COACTA ENIM VOLUNTAS NON EST VOLUNTAS, JUXTA REG. JUR. Hieher gehöret der schöne Ort LACTANTII LIB. 5. INSTIT. DIVIN. C. 19: QUIS JMPONAT MIHI NECESSITATEM VEL CREDENDI, QUOD NOLIM; VEL QUOD VELIM, NON CREDENDI? NIHIL TÀM VOLUNTARIUM, QUÀM RELIGIO; IN QUA SI ANIMUS AVERSUS, JAM SUBLATA, JAM NULLA EST. Also hat Theodoricus an den Rath zu Rom geschrieben: RELIGIONEM JMPERARE NON POSSUMUS: QUIA NEMO COGITUR, UT CREDAT INVITUS: wie beym CASSIODORO dißfalls zu lesen. Und der Glorwürdigste Kaiser MAXIMILIANUS II. hat pflegen zu sagen: NULLAM ESSE TYRANNIDEM INTOLERABILIOREM, QUÀM CONSCIENTIIS DOMINARI VELLE: QUIA SOLUS DEUS SIT CONSCIENTIARUM DOMINUS. Welcher gestalt sonsten ein Fürst in solchen Fällen klüglich verfahren solle / weiset / vieler anderer zugeschweigen / gar schöne BODIN. LIB. 4. DE REPUBL. C. 7.
+
+
+
+
+16 V. 341. Alle diese erschreckliche martern und Hinrichtungen der ärmsten Christen / so in diesem Reyen und sonsten vorkommen / erzählet TERTULL. IN APOLOG. C. 12. CYPRIAN. LIB. DE LAPS. EU SEBIUS EX DIONYS. ALEXANDR. LIB. 2. HIST. C. 21. 24. OROS. L. 7. C. 7. ARINGH. IN ROM. SUBT. TOM. 2. LIB. 6. C. 50. und insonderheit ANTON. GALLON. IN TR. DE CRUCIAT. MARTYR. Wie grausam noch heutiges Tages die Ungläubigen Japaner und Sineser mit den gefangenen Christen umgehen / und wie diese / bevorab die zarten Kinder / so beständig über ihrem Christo halten / berichtet nebst andern ERASM. FRANC. in seiner Schaubühne / QUEM VIDE.
+
+
+
+
+17 V. 28. Sophia thut hier vor dem Kaiser ihr Glaubens-Bekenntnüß von Christo / und nennet Ihn ein Licht / sehende auf die heilige Schrift / worinnen unser Erlöser hin und wieder / fürnehmlich aber Johann. 1. v. 9. c. 8. v. 12. τὸ φῶς τὸ ἀληθινόν, ὁ φωτίζει πάντα ἀνθρωπον, ἐρχόμενον εἰς τὸν κόσμον, das warhafftige Licht / welches alle Menschen erleuchtet / die in diese Welt kommen / genennet wird. Und deßwegen bekennen wir auch im Nicenischen SYMBOLO, daß der Sohn Gottes sey LUMEN DE LUMINE, & DEUS VERUS DE DEO VERO. Auf wievielerley Art sonsten das Wörtlein LUX in heiliger Göttlicher Schrift verstanden werde / zeiget gar schöne und gründlich WALTHER. IN HARMON. BIBL. SUPER MATTH. C. 5. V. 15. P.M. 740. 741.
+
+
+
+
+18 V. 79. Wer dieses that / und den Heidnischen Götzen auf ihr brennend Altar Weirauch streute / der hatte schon hierdurch seinen Herren JESUM verläugnet / und ward vor einen Abgefallenen gehalten / gestalt solches aus EUSEBIO, THEODORETO, SOCRATE, und andern sattsam zuersehen. Besiehe auch hiervon die von dem seel. GRYPHIO, in seiner Anmerckung über die FELICITAS ACT. 3. V. 159. angeführte CONCILIA und AUTORES, in welchen alle umbstände der damahligen Verleugnungen Christi ausführlich beschrieben werden.
+
+
+
+
+19 V. 173. Daß die Heidnischen Priester die drey Töchter der Sophie / nach dem sie an ihnen zugleiche nichts ausrichten können / hernachmahls getrennet /und iede absonderlich vorgenommen / auch mit köstlichen Worten und Geschencken zum Abfall bewegen wollen / erwehnet SUR. und LUCIUS D.L.
+
+
+
+
+20 V. 215. Daß Fides / nach dem sie der DIANA keinesweges opfern wollen / hefftig mit Ruhten gestrichen worden / bezeuget SUR. C. 7. und LUC. IBID.
+
+
+
+
+21 V. 231. Das Spes also gepeiniget worden / erwehnet SUR. C. 11. Dieses Werckzeug der Marter wird auf Lateinisch UNGULA genennet / weil es in gestalt einer wilden Thieres Klau aus Eisen und Stahl verfertiget gewesen / allermassen dessen nicht allein beym CYPRIAN. LIB. DE LAPS. AUGUSTIN. IN EPIST. AD MARCELL. TERTULL. IN SCORPIAC. ITEM IN EJUSD. LIB. DE JEJUN. & IN APOL. C. 12. & 30. sondern auch IN L. UN. C. DE EMEND. SERV. SUB VERB. FERARUM UNGUIBUS LATERA PERSECANDO. & IN L. 7. C. DE MALEFIC. & MATHEM. IBIQUE GOTHOFRED. IN NOT. ingleichem IN C. THEODOS. EOD. TIT. SUB. VERB. FERARUM VESTIGIIS LATERA PERSECANDO. und IN BARON. NOT. AD D. 16. MART. erwehnet wird. Mit dieser eisernen Thieres-Klau sind die armen Christen elendiglich am Gesichte und an allen Gliedern zerrissen und zerfleischet worden: wie solches unter andern PRUDENT. IN PERIST. HYMN. 10. andeutet:
+IMPLET JUBENTIS DICTA LICTOR IMPROBUS,
+CHARAXAT AMBAS UNGULIS SCRIBENTIBUS
+GENAS, CRUENTIS & SECAT FACIEM ROTIS;
+HIRSUTA BARBIS SOLVITUR CARPTIM CUTIS,
+AD MENTUM AD USQUE VULTUS OMNIS SCINDITUR.
+Hiervon ist insonderheit zusehen ARINGH. ROM. SUBTERR. TOM. 1. LIB. 2. C. 4. & TOM. 2. LIB. 6. C. 1. allwo dergleichen Werckzeug / so verwichener Zeit in CALEPODII unterirdischem Begräbnisse zu Rom gefunden und ausgegraben worden / abgebildet zu finden.
+
+
+
+
+22 V. 241. Daß die unschuldige Charitas an ein höltzernes Creutze gebunden und allenthalben an ihrem zärtesten Leibe mit spitzigen pfriemen durchstochen worden / berichtet SUR. C. 13.
+
+
+
+
+23 V. 141. SIMULATIO RELIGIONIS IPSIS SIMULATORIBUS RARÒ BENÈ CEDIT. Hiervon handelt weitläufftig PETR. GREG. THOLOSAN. LIB. 13. DE REPUBL. C. 12.
+
+
+
+
+24 V. 152. Die Kaiserin vergleichet allhier Sophien wegen ihrer unbeweglichen Großmüttig- und Beständigkeit diesen zweyen berühmten Amazonen. Jener zwar / nehmlich der Harpalice / gedencket VIRGIL. LIB. 1. ÆNEID. mit diesen Worten:
+– – VEL QUALIS EQUOS THREISSA FATIGAT
+HARPALICE. – – –
+Dieser aber / nehmlich der Rhodogune / POLYAEN. LIB. 8. VID. QUOQUE ZWING. IN THEATR. VIT. HUM. LIB. 4. P.M. 458.
+
+
+
+
+25 V. 239. Fast auf gleichen Schlag redet die verbuhlte CORISCA beym GVARINI NEL PASTOR FIDO ATT. 1. SC. 3:
+CHE VAL BELTÀ NON VISTA? E SE PUR VISTA
+NON VAGHEGGIATA? E SE PUR VAGHEGGIATA.
+VAGHEGGIATA DA UN SOLO? – –
+LA GLORIA, E LO SPLENDOR DI BELLA DONNA
+E L' HAVER MOLTI AMANTI. – –
+Dieses verdeutsche ich also:
+Was gilt die Schönheit doch / die keine Seel erblickt?
+Und so man sie erblickt / nicht würcklich kan genüssen?
+Was hilfft auch der Genieß / der einen nur erquickt /
+Wenn nicht ein andrer auch kan ihren Purpur küssen?
+Der schönen Frauen Lob und Ansehn ruht auf dem /
+Daß eine Vielen sich / nicht Einem nur / bequähm.
+
+
+
+
+26 V. 283. Derogleichen abscheulicher Laster / als Aufruhres / Blutschande / Kindermordes / Kirchenraubes / Zaubereyen / &c. wurden die unschuldigen Christen damahls von den Heiden fälschlich bezüchtiget; welches alles aber TERTULLIANUS und JUSTINUS in Jhrer Schutzrede stattlich widerleget.
+
+
+
+
+27 V. 341. Fides hat im zwölften / Spes im zehnden /und Charitas im Neunden Jahre ihren Geist vor den Heiland aller Welt hertzhafftig aufgegeben / wie SUR. C. 6. meldet.
+
+
+
+
+28 V. 351. Als der Kaiser nochmahls an diese drey Töchter setzte / und weder durch Gaben noch Marter sie zur Verläugnung ihres Erlösers bringen konnte /befahl er in ihrer Gegenwart die Mutter hefftig zu geisseln / umb sie durch dieses Trauerspiel wegen angebohrner kindlichen Liebe zum Abfall zu bewegen; worauf aber die beständigen Kinder mit freudigem Gemühte also antworteten: AMAMUS BONA, IN QUAE NON CADIT INTERITUS, & SPONSUM, QUI NON PERIT. QUOD AUTEM MINARIS, MATREM TE ESSE FLAGELLATURUM, TANQUAM HOC MODO NOS TERRITURUS PROPTER NATURALEM SYMPATHIAM, NIHIL CURAMUS. QUID ENIM CHRISTIANIS POTEST ESSE JUCUNDIUS, QUÀM PATI PRO CHRISTO? SUR. IBID.
+
+
+
+
+29 V. 493. In diesem und den folgenden fünf Versen habe ich mein Absehen gehabt auf die unvergleichliche Grabschrift der hingerichteten MARIAE STUARDAE, Königin in Schottland / welche der Hochgelehrte Cardinal MAPHAEUS BARBERÎNI, so hernachmahls auf dem Bäpstlichen Stule den Nahmen URBANI VIII: angenommen / nebst etlichen andern seinen sinnreichen Getichten P.M. 51. der Nachwelt folgender gestalt hinterlassen:
+TE QUANQUAM IMMERITAM FERIT, Ô REGINA, SECURIS,
+REGALIQUE TUUM FUNUS HONORE CARET;
+SORTE TUA GAUDE, MŒRENS NEQUE SCOTIA PLORET;
+EN TIBI POMPA, TUAS QUÆ DECET EXEQUIAS:
+NAM TIBI NON PARIES ATRO VELATUR AMICTU;
+SED TERRAS CIRCUM NOX TENEBROSA TEGIT.
+NON TIBI CONTEXTIS LUCENT FUNALIA LIGNIS,
+SED CŒLI STELLÆ. NÆNIA TRISTIS ABEST;
+SED CANIT AD PHERETRUM SUPERÛM CHORUS ALIGER, & ME
+CŒLESTI INCIPIENS VOCE SILERE JUBET.
+Solches habe ich also übersetzet:
+Muß gleich / O Königin / das Richtbeil dich verletzen /
+Wird dein Begräbnüß schon nach würden nicht geziert;
+Doch wohl dir! Schottland darff sich nicht in threnen netzen;
+Schau / was vor Pracht dich schmückt / so deinem Sarch gebührt:
+Denn dein Gemach sol zwar kein Traurgewand beschwärtzen /
+Doch traurt die Erde selbst im Boi pechschwartzer Luft;
+Kein Aedler wartet auf mit güldnen Todten-Kertzen /
+Doch leucht der Himmel dir mit Sternen selbst zur Gruft:
+Man hört kein Klageweib umb deine Bahre schreien;
+Doch machen Engel uns selbst solche Wehmuth kund;
+Und weil diß heil'ge Volck stimmt an den schönsten Reien /
+So muß ich sterblicher verschlüssen meinen Mund.
+
+
+
+
+30 V. 50. Hierüber hat gar schöne Gedancken B. AUGUSTIN. DE DOCTRIN. CHRIST. LIB. 1. C. 1.
+
+
+
+
+31 V. 115. Hier zielet zwar hönisch / doch warhafftig / Hadrianus auf die schönen Augen und wolgebildtes Antlitz / womit Sophia begabet gewesen. Hieher gehöret die Sinnreiche Beschreibung schöner Augen /welche IN ASSARINI STRATONICA LIB. I. CIRCA FIN. zubefinden: SONO GLI OCCHI MI RACOLI DEL VOLTO, ABBOZZO DELLA DIVINITÂ. POTREBBESI ANCO DIRE, CHE SONO HOROLOGI D'AMORE CHE FITTI NELLA PARETE D'UN VOLTO, MOSTRANO COLLA LANCETTA DEL GVARDO I PUNTI DELL'HORE FELICI Ò INFELICI À GLI AMANTI. Das ist: die Augen sind ein Wunderwerck des Gesichtes / ein Entwurff der Göttligkeit. Ja man könnte sagen / daß sie Sonnen-Uhren der Liebe sind / angehefftet auf die Tafel des Gesichtes / zeigende mit dem Weiser der Blicke denen Verliebten die Minuten ihrer glückseelig – oder unglückseeligen Stunden. Die Majestät aber eines schönen Antlitzes bildet ab der Fürtreffliche LOREDANO NE' SCHERZI GENIALI NEL ANTONINO CARACALLA AMANTE, allwo der Verliebte Antoninus die JULIAM also anredet: IL TUO VOLTO È UN ABBOZZO DI QUELLI DEL PARADISO; ANZI È UN PARADISO ISTESSO, PROVANDO I MIEI OCCHIO LA BEATITUDINE NEL RIMIRARTI. H.E. Dein Antlitz ist ein Entwurff der Antlitzer im Paradise: ja es ist ein Paradieß selber: sintemal meine Augen in deiner Beschauung die Seeligkeit empfinden. Besiehe Selbten mit mehrem NELLA LUCRETIA VIOLATA IN MED.
+
+
+
+
+32 V. 125. Smindyrides ein Sybariter hat so viel auf das niedliche Fressen gehalten / daß er / als er des Clisthenis Tochter Agaristiam ehlichen wolte / vorhero nacher Sicyonien reisete / und von dannen tausend Köche / tausend Vogelsteller / und tausend Fischer mit sich auf die Hochzeit brachte / wie ÆLIAN. LIB. 12. VAR. HIST. solches bezeuget.
+
+
+
+
+33 V. 148. Dise zwey sind berühmte Täntzer zu Augusti zeiten in Rom gewesen / DE QUIBUS VID. DION IN AUGUST.
+
+
+
+
+34 V. 213. Also redet PRUDENTIUS die unschuldige Bethlehemitische Knäblein an:
+SALVETE FLORES MARTYRUM,
+QUOS LUCIS IPSO IN LIMINE
+CHRISTI INSECUTOR SUSTULIT,
+CEU TURBO NASCENTES ROSAS!
+VOS PRIMA CHRISTI VICTIMA
+GREX IMMOLATORUM SACER,
+ARAM ANTE CHRISTI SUPPLICES
+PALMA & CORONIS LUDITE!
+
+
+
+
+35 V. 242. Welcher gestalt Hadrianus / auf dessen zukünftigen Tod hier gesehen wird / seine abscheidende Seele angeredet und kläglich ausgehauchet / ist aus den Römischen Geschicht-Schreibern bekant. Dieses aber ist denckwürdig / was die CENTUR. MAGDEBURG. CENT. 2. CAP. 12. von ihme erzehlen / daß er nehmlich in seinen Todes-Nöhten unter grösster Qual und Schmertzen / der Sophie und ihrer Töchter indenck / also geseuftzet und geruffen habe: O DEUS TRIUM VIRGINUM & EARUM MATRIS, VELOCIUS ANIMAM MEAM EDUC È CORPORE! SCIO ENIM, QUOD PROPTER ILLAS OMNIA HÆC MALA IN ME IRRUERUNT.
+
+
+
+
+36 V. 245. Daß Sophia bey den Leichen ihrer Töchter nicht aus Kummer und Hertzeleid / wie LUCIUS meldet / sondern aus heiliger Begierde mit ihnen bey ihrem Jesu zu seyn / sanft und seelig verschieden /auch hernachmals nebst den Kindern in ein Grab geleget worden / bezeuget ofterwehnter SUR. C. 14. Sonsten ist die ruhmwürdige Sterbensbegierde der Frantzösischen Jungfer GENOFEVA, wie auch des Herren DE LA THOU, in dem er auf der Trauerbühne den Hencker mit diesen Worten geküsset: Jch liebe dich /weil du mich zum Paradiese beföderst! und anderer mehr aus den Jahrbüchern bekant. Wer wolte derowegen nicht auch mit der heiligen Monica ausruffen und sagen:
+Evolemus, Evolemus ad beata Gaudia!
+Tantum.
+Δ. T. Θ.
+
+
+
+
+
+

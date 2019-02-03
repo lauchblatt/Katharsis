@@ -1,0 +1,1464 @@
+
+
+
+
+Ein Deutsches Vorspiel
+
+
+hdl:11858/00-1734-0000-0004-5FE6-0textgrid:stt4.0
+ Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). 
+
+Lizenzvertrag
+
+
+ Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache 
+
+
+Hinweise zur Lizenz und zur Digitalen Bibliothek
+
+
+
+
+
+                              Erstdruck: Leipzig (Bernhard Christoph Breitkopf) 1734.
+                           
+
+
+
+
+Friederike Caroline Neuber: Ein Deutsches Vorspiel verfertiget von Friederica Carolina Neuberin (1734). Zur Feier ihres 200jährigen Geburtstages 9. März 1897 mit einem Verzeichnis ihrer Dichtungen herausgegeben von Arthur Richter, Leipzig: G. J. Göschen’sche Verlagshandlung, 1897 [Deutsche Litteraturdenkmale des 18. und 19. Jahrhunderts, herausgegeben von August Sauer, No. 63, N. F. No. 13].
+Neuber, Friederike Caroline
+
+2-
+
+
+Leipzig
+
+
+
+
+
+
+
+
+
+
+drama
+
+
+
+
+
+
+
+
+Friederike Caroline Neuber
+Ein Deutsches Vorspiel
+
+
+
+
+
+
+
+[Vorspruch]
+
+
+
+
+Versuch Schweizerischer Gedichte.
+Vom Wohl des Vaterlands entschlossen nie zu scheiden,
+Kann er das Laster nicht, noch ihn das Laster leiden.
+
+
+
+
+
+
+
+
+Personen
+
+
+
+
+
+Personen.
+
+Melpomene.
+
+Thalia.
+
+Euphrosyne.
+
+Vigilantia.
+
+Apollo.
+
+Tharsus.
+
+Themis.
+
+Arete.
+
+Alethea.
+
+Obseqvenz.
+
+Sedulius.
+
+Meletander.
+
+Silenus.
+
+Pseudolus.
+
+
+
+
+
+
+
+
+
+[Vorrede]
+
+
+
+
+Lieber Leser!
+Hier hast du was zu lesen. Nicht etwan von einem grossen gelehrten Manne; Nein! nur von einer Frau, deren Namen du aussen wirst gefunden haben, und deren Stand du unter den geringsten Leuten suchen mußt: Denn sie ist nichts, als eine Comödiantin; von Geburt eine Deutsche. Sie kann von nichts, als von ihrer Kunst Rechenschaft geben: Wenn sie gleich so viel wissen sollte, daß sie einen jeden Künstler verstehen könnte; wenn er von seiner Kunst redet. Fragst du: Warum sie auch schreibt? So antwortet sie dir das, dem Frauenzimmer gewöhnliche, Darum! Fragt dich jemand: Wer ihr geholfen hat? So sprich: Ich weis es nicht; oder: Es könnte doch wohl seyn, daß sie es selbst gemacht hätte. Das Werk ist in Reimen abgefasset. Ob die Verse rein, und die Gedanken richtig sind; werden diejenigen wissen, die es verstehen. Was die Sache betrifft: So gehören theils bekannte Geschichte, theils unbekannte Gedichte darzu. Alles zu erklären schickt sich nicht vor sie. Alles zu verschweigen ist hier nicht nöthig. Genung, daß sie sonst wohl schweigen kann. Diejenigen; die von ihren Umständen etwas wissen, werden dieses leicht glauben können; wer aber nichts von ihr weis, dem wird auch dieses nichts schaden: Wenn er es gleich nicht glauben kann. Sie hat zwar niemalen durch Schriften bekannt seyn; sondern nur, als eine Comödiantin anderer Leute Leidenschaften bescheiden, vorsichtig, aufrichtig und natürlich 
+vorstellen wollen: Itzt aber, da sie ihre eigene Rolle auf, und vor der ganzen Welt zu spielen genöthiget wird; so schämet sie sich auch nicht, ihren ersten sichtbaren Auftritt in diesen Blättern gedruckt zu geben. Hat sie wo gefehlet; so wird sie die Fehler nicht entschuldigen: Denn dadurch werden sie nicht besser. Sie wird um Verzeihung bitten, und ein andermal so wenig fehlen, als es ihr nur möglich ist. Im übrigen überläßt sie sich mit Freuden dem Urtheile dererjenigen, die da richtig denken, zu rechter Zeit reden, und behutsam schweigen. Die übrigen werden denken, was sie wollen; reden, wenn sie können; und schweigen, wenn sie müssen. Sie bleibet beydes, der guten und bösen Welt verpflichtet: Der guten; weil sie es würdig ist, der bösen; weil sie an ihrer Besserung nicht zweifelt.
+
+Die Verfasserin.
+
+
+
+
+
+
+
+1. Auftritt
+
+
+
+
+
+
+Erster Auftritt
+
+Thalia und Silenus.
+
+
+
+SILENUS.
+
+
+Melpomene muß fort! du must sie nur verklagen,
+Und alles, was du kanst, mit derben Lügen sagen.
+Die Leute, die dich hörn, die haben mehr zu thun,
+Als nur auf sie zu sehn. Du darfst nunmehr nicht ruhn.
+Nun ist es hohe Zeit. Lauf, eile, renne fliehe!
+Ich steh dir treulich bey.
+
+
+
+THALIA.
+
+Nunmehr soll alle Mühe
+Auf ihr Verderben gehn. Das böse schlaue Thier
+Verderbt mir meine Kunst; deßwegen will ich ihr
+Den Fall, so bald ich kan, geschwinde zubereiten.
+Sie muß verstossen seyn, und zwar von allen Leuten.
+Ich hasse sie so sehr, als du die Tugend haßt.
+Ihr Fleiß und ihre Kunst wird mir zur schwersten Last;
+Ich soll die Leute nicht mit Possen mehr betrügen,
+Und nicht mit leichter Müh viel Geld in Kasten kriegen;
+Ich soll, nach ihrer Art, nach strengen Regeln gehn,
+Und jede Leidenschaft recht aus dem Grund verstehn.
+Der Teufel plagt sie doch! den Leuten weiß zu machen:
+Man müßt im Lustspiel nicht, so, wie ein Bauer lachen;
+Und auf dem Schauplatz dürft kein Possenreisser seyn.
+Das nasenweise Ding bildt sich wahrhaftig ein,
+Sie thät noch recht daran, und fragt die klügsten Leute
+
+
+Wohl gar um Rath darum, und raubt mir meine Beute.
+Denk nur, Silenus, denk an alles, was sie spricht,
+Und was sie meiner Kunst für Schaden zugericht!
+Ich soll so viel verstehn: Kein Laster sey zu dulden;
+Kein Fehler soll geschehn, und zwar durch mein Verschulden.
+Ich soll den Leuten, die auf meiner Bühne stehn,
+Mit Vorsicht und Vernunft und Rath entgegen gehn:
+Ja, wenn ich wo gefehlt, so soll ichs nicht bedecken;
+Mich bessern, und zugleich vor meiner That erschrecken.
+
+
+
+SILENUS.
+
+Das ist ja grausam viel! Das kan kein Doctor nicht!
+Es fehlt dem Besten wohl, daß er sich wo verspricht.
+Geschweige dir mein Kind. Wir haben nichts vergessen,
+Und jede Wissenschaft nach unsrer Kraft gemessen.
+Deßwegen bleib auch so. Der Mühe wär zu viel.
+Das ist in Wahrheit nicht ein blosses Kinderspiel!
+
+
+
+THALIA.
+
+Ey! wenns das alles wär! das sind die ersten Stuffen.
+Sie spricht: Man müste sich selbst zur Erkänntniß ruffen,
+Hernach mit Wissenschaft und Treue weiter gehn;
+In jedem Schauspiel soll kein leerer Possen stehn,
+Und auch kein Zötgen nicht; der Harlekin soll schweigen;
+Der wäre nur ein Ding, die Thorheit anzuzeigen;
+Der Pöbel dürfte nicht noch mehr verdorben seyn;
+Er wär der Beßrung werth.
+
+
+
+SILENUS.
+
+Ich aber sage nein!
+Denn ist der Pöbel klug; So komm ich nicht zu rechte.
+Wir haben so zu thun, daß wir bey dem Geschlechte,
+Das alle Fehler kennt, aus Mitleid noch bestehn.
+Das redet schon zu klug.
+
+
+
+THALIA.
+
+Man soll noch weiter gehn.
+
+
+Sie sagt: Man müsse sich mit allem Fleiß bestreben,
+Als ein vernünftger Mensch nach dem Gesetz zu leben.
+
+
+
+SILENUS.
+Das ist mir lächerlich. Das geht ja gar nicht an!
+
+
+THALIA.
+
+Man soll, zum wenigsten, so viel thun, als man kan.
+Nicht wahr, das schickt sich nicht? Das hat zu viel zu sagen?
+Wer wird sich so gezwängt mit dem Gesetze plagen?
+
+
+
+SILENUS.
+
+Ey! freylich! bleibe nur so, wie du itzo bist.
+Und fehlt dir der Verstand; So brauche deine List.
+Zu dem so weist du nicht, was in den Rechten stehet.
+
+
+
+THALIA.
+
+Sie tadelt; wenn man sich in einem Stück vergehet.
+Sie will: Ich soll so gar mit aller Höflichkeit,
+Bescheiden, ruhig seyn; und die Gelegenheit,
+Den Leuten mit Betrug die Thaler abzulügen,
+Nicht weiter suchen; Ja mich nur an dem Begnügen,
+Was ich mit wahrem Fleiß und Ehre haben kan.
+
+
+
+SILENUS.
+
+Will denn Melpomene gar endlich oben an?
+Was denkt sie denn von mir? Ich hab auch drein zu sprechen.
+Ich wollt ihr eher gleich den Hals in Stücken brechen;
+Stünd nur nicht Straf und Recht für meinen Vorsatz drauf:
+Ich henkte sie gewiß noch diesen Abend auf.
+
+
+
+THALIA.
+
+Das ist ein Glück für sie, daß wir nicht viel bedeuten,
+Und daß sie noch darzu von redlich klugen Leuten
+Gar unterstützet wird.
+
+
+
+
+SILENUS.
+
+Ey! das mag immer seyn!
+Ich bilde mir gewiß ihr ganz Verderben ein.
+Je mehr sie Vorsicht braucht; je mehr will ich ihr schaden.
+Ich setze sie durch dich aus Schutz und aus Genaden.
+Und eh sie sich erholt; so ist sie hingericht.
+Nur fein geschwind daran, daß man das Urtheil spricht!
+Sie soll verstossen seyn, und hier nicht mehr erscheinen,
+Aus diesen Ländern ziehn, und den Verlust beweinen.
+Wir nehmen was sie hat, und sprechen: Es gehört
+Von alten Zeiten dir. Eh sie sich nun beschwert,
+Und uns verklagen kan: So haben wir gewonnen,
+Und ihre Kunst vergeht, wie Butter an der Sonnen.
+Dann haben wir das Spiel in unsrer klugen Hand,
+Und unser Harlekin wird erstlich recht bekannt.
+Man wird den Nutzen erst von seinen Schwänken sehen,
+Was er bedeuten soll.
+
+
+
+THALIA.
+
+Wär es nur schon geschehen!
+Mein Herze wird mir schwer!
+
+
+
+SILENUS.
+
+Sey du nur unverzagt!
+Wir haben sie zeither ja hart genug verklagt.
+Die Leute glauben nicht, was sie für Zeugniß bringet.
+Und, wenn sie gar zu stark auf ihre Hülfe dringet;
+So macht sie sich verhaßt. Der Grund ist schon gelegt.
+Ich weis nicht, was dich doch für Zweifel noch bewegt?
+Wir haben ihr ja schon mit lauter derben Lügen
+Das Werk sehr schwer gemacht. Sie wird nichts weiter kriegen,
+Als daß sie gehen soll, woher sie kommen ist;
+Daß sich das ganze Werk zu unserm Vortheil schließt.
+Ich will noch einen Streich zu ihrem Fall versuchen:
+Da muß sie mich gewiß in Abgrund nein verfluchen;
+Und wäre sie auch sonst gelassen in Geduld:
+
+
+Denn dieses schmerzt sie hoch. Ich such die Gnad und Huld
+Ihr von Apollens Herz noch so weit zu entziehen,
+Daß er sie gar nicht hört.
+
+
+
+THALIA.
+
+Du magst dich recht bemühen.
+Denn das ist ja bekannt: Er ist gerecht. Ich weis,
+Er ist den Lügnern feind.
+
+
+
+SILENUS.
+
+Ich kriege doch den Preis.
+Ich will die Lügen schon mit solchem Glanz bestreichen,
+Daß sie der Wahrheit soll an diesem Orte gleichen.
+
+
+
+
+
+
+
+
+
+2. Auftritt
+
+
+
+
+Andrer Auftritt
+
+Melpomene. Tharsus. Sedulius. Alethea vorher. Obsequens folget nach. Silenus. Thalia.
+
+
+
+SILENUS.
+
+Hier kommt Melpomene! Geschwind versteck dich dort!
+Daß sie uns hier nicht sehn.
+
+
+
+Silenus und Thalia verstecken sich auf beyden Seiten.
+
+
+
+
+MELPOMENE.
+
+Ach aller liebster Ort,
+Voll Schönheit, und noch mehr, von ganz besondern Gaben!
+Was hab ich dir gethan? Willst du mich nicht mehr haben?
+Kan meine Schwachheit dir nicht mehr gefällig seyn?
+Warum verstößt du mich? Du ladest mich hier ein;
+Zu was? das kan ich dir für Thränen itzt nicht sagen.
+Doch wiß, ich werde mich nicht über dich beklagen.
+Mein Elend würde mir zur Strafe, wenn ich dich
+Nur etwas schuldig spräch. Ja ich erkläre mich:
+Du mustest mich hieher zum Richter-Stuhl beruffen;
+Du hattest den Befehl. Wenn ich nun diese Stuffen
+
+
+Aus meiner wahren Noth gleich nicht betreten hab;
+So fordre mir ja nicht deswegen Rechnung ab.
+Ich liebt und flohe dich. So gern ich folgen wollte;
+So hieß mich doch die Noth, daß ich mich schützen sollte.
+
+
+
+THARSUS.
+
+Hast du geliebtes Kind nicht hier das Paar gesehn,
+Das dich verjagen will?
+
+
+
+SEDULIUS.
+
+Es ist noch nicht geschehn.
+Ihr Drohen hat nichts mehr als Unwahrheit zum Grunde.
+Das findt sich endlich schon.
+
+
+
+MELPOMENE.
+
+Aus einem Lügen-Munde
+Ist oft das stärkste Gift der Tugend zubereit.
+
+
+
+THARSUS.
+
+Ach sey doch nicht verzagt! bey der Gerechtigkeit
+Entdeckt sich alles klar.
+
+
+
+SEDULIUS.
+
+Du must nichts unterlassen.
+Thu deine Schuldigkeit auf recht und offner Strassen.
+Sey fleissig in dem Werk, und redlich in dem Stand!
+Das andre übergieb des Himmels starker Hand!
+
+
+
+THARSUS.
+Behalte Muth zum Recht! die Zagheit thut ihm Schaden.
+
+
+MELPOMENE.
+
+Ich fürcht, ich stehe nur in lauter Ungenaden.
+Und da fällt alles schwer.
+
+
+
+THARSUS.
+
+Die Tugend macht es leicht,
+Die aus der Eigenschaft der höchsten Würde steigt.
+
+
+
+
+MELPOMENE.
+
+Ja das erkenn ich wohl. Doch unbekannte Leute
+Die stöst man insgemein bey Höfen auf die Seite;
+Man sieht sie sauer an. Und dieses kränket mich.
+
+
+
+THARSUS.
+
+Bey der Gerechtigkeit thut man nicht fürchterlich.
+Ihr reiner Glanz wird dir die Zagheit schon benehmen.
+Leg Furcht und Schrecken hin! du darfst dich nun nicht schämen.
+Wisch deine Thränen ab! Geh ohne Furcht dahin,
+Wohin du gehen sollst! So wahr ich bey dir bin!
+So frölich wirst du auch von dort zurücke kommen!
+Du hast des Himmels Huld mit dir dahin genommen.
+Und deine Schuldigkeit, die dich darzu verpflicht
+Der Wahrheit nachzugehn, glaub, die beschämt dich nicht.
+Und wenn dich weder Furcht noch Hoffnung darzu triebe;
+So würket doch in dir die ganz besondre Liebe,
+Die du für deinen Schutz im Lande haben mußt.
+Nicht die Belohnung, nein! nicht einmal der Verlust
+Muß Grund und Ursach seyn. Apollo muß es wissen:
+Denn wird er schon für dich gerecht und billig schliessen.
+
+
+
+SEDULIUS.
+
+Ja Tharsus hat ganz recht! Setz alle Furcht beyseit,
+Und suche Recht und Gnad fein mit Bescheidenheit,
+Und wahrer Zuversicht. Du würdest dich vergehen:
+Wenn du in diesem Fall in Zweifel wolltest stehen.
+Denn dieses wäre schon der größten Strafe werth.
+Du bist in einem Land, wo man nach Recht verfährt.
+So bald die Wahrheit sich am rechten Ort entdecket;
+Sind alle Lügner stumm und werden abgeschrecket.
+
+
+
+MELPOMENE.
+Doch Alethea schweigt bey meinen Klagen still?
+
+
+
+ALETHEA.
+
+Weil ich zu rechter Zeit nur für dich reden will.
+Ich muß den wahren Grund von deiner Klage wissen:
+Alsdann werd ich ihn selbst für dich entdecken müssen.
+
+
+
+MELPOMENE.
+Ach warum säumest du und kränkest mich noch mehr?
+
+
+ALETHEA.
+
+Du machst aus Schwachheit dir die Sache selber schwer.
+Hör auf zu klagen! komm! Ich will dich dahin führen,
+Wo die Gerechtigkeit durch klug und recht regieren
+Am Thron dir Dienste thut. Der Muth verläßt dich nicht;
+Weil selbst die Wahrheit hier für deine Sache spricht,
+Und zwar an ihrem Platz, da, wo sie hin gehöret,
+Allwo sie weder Neid noch stolze Bosheit störet.
+An meiner Stelle kommt kein andrer Redner dran.
+Komm herzhaft! hab Gedult! du hast ja nichts gethan.
+Dein Fleiß wird Zeuge seyn, und dein Gehorsam sagen:
+Wie wohl und redlich ihr euch alle habt betragen.
+
+
+
+THARSUS.
+
+Dein Trost ist rein und wahr; komm mache dich bereit
+Und hoff bey diesem Werk nur in Gelassenheit.
+Sey nicht so ungestüm. Du kanst dich sonst ja fassen:
+Wie? hat dich itzo denn die Einsicht gar verlassen?
+Du machst ja andern sonst zur Hoffnung Muth und Herz?
+
+
+
+MELPOMENE.
+
+Ach mich qvält itzo nichts als ein geheimer Schmerz.
+Die Ehrfurcht hält mich ab. Die Bosheit thut mir Schaden,
+Und schreyet über mich von lauter Ungenaden.
+Ich weis wohl, daß sie lügt: Allein wer glaubt mir gleich?
+Sie übertäubt mich ganz. Seht, das vertrau ich euch.
+Das streitet nun in mir: Die wahre Pflicht, und Treue,
+Und auch die Blödigkeit; das kränket mich aufs neue.
+
+
+
+
+
+
+
+
+
+
+3. Auftritt
+
+
+
+
+Dritter Auftritt
+
+Melpomene. Tharsus. Sedulius. Alethea. Obsequens. Silenus und Thalia. Die zwey letztern treten auf beyden Seiten heraus; bleiben aber an den Flügeln stehen, und thun, als hörten sie zu.
+
+
+
+MELPOMENE.
+
+Was hat ein böser Mensch nicht öfters schon gethan?
+Daß auch die Tugend selbst es nicht verhindern kan.
+
+
+
+OBSEQUENS.
+
+Komm laß uns ruhig seyn, gehorchen, klagen, bitten!
+Dein Recht kommt selbst zu dir noch mit geschwinden Schritten.
+Versäume nichts an dem, was deine Pflicht gebeut.
+Und was du machen sollst, das thu zu rechter Zeit!
+
+
+
+THARSUS.
+
+Dein Leid muß deine Pflicht gar niemahls übersteigen;
+Du must sie, auch verklagt, ja gar verstossen, zeigen:
+Denn diese hört nicht auf. Es kommt dir durchaus zu
+Sie allezeit zu thun. Weswegen klagest du?
+Wirf dich in Demuth nur gehorsamlich zu Füssen!
+Laß durch die Wahrheit hier der Sachen Umstand wissen!
+Und sey vergnügt mit dem, was man dir lassen will!
+Getrost! Gedult! und schweig mit deinen Klagen still!
+
+
+
+SEDULIUS.
+
+Dein thränend Angesicht schickt sich nicht vor Gerichte:
+Da muß man munter seyn. Ein redlich Angesichte
+Schlägt unverschuldt alsdenn die trüben Augen zu:
+Wenn es sich schützen soll. Begieb dich nun zur Ruh!
+
+
+
+ALETHEA.
+
+Nun ist es hohe Zeit. Dein Weinen wird sich enden:
+Denn die Gerechtigkeit hat dich in ihren Händen.
+
+
+Komm! denn dein Gegentheil hat meine Gegenwart
+Niemahls für sich verlangt. Ich war für ihn zu hart
+Und wußte seine List; drum floh er meine Lehre
+Und machte, daß ich dich itzo bedachtsam höre.
+Komm! gehe mit mir fort, und klag nicht länger hier!
+Ermuntre deinen Geist!
+
+
+
+MELPOMENE.
+
+Ganz wohl! Ich folge dir
+Mit Ehrfurcht, Pflicht und Treu, getrost und ganz gelassen.
+
+
+
+THARSUS.
+
+Komm! laß uns standhaft seyn, und beßre Meynung fassen!
+
+Alethea gehet vorher. Tharsus und Sedulius führen
+
+Melpomene in der Mitten bey der Hand. Obsequens
+
+folget nach. Und gehen also ab. Thalia und Silenus haben
+unter der Zeit gelacht, aber nicht alles verstehen können.
+
+
+
+
+
+
+
+
+
+4. Auftritt
+
+
+
+
+Vierter Auftritt
+
+Thalia. Silenus.
+
+
+
+THALIA.
+
+Ja! ja! da kommt ihr recht. Itzt ist es eben Zeit.
+Du gute Närrin, geh! Die Sachen sind zu weit
+Du kommest viel zu spat: Die Thüren sind verschlossen.
+Gelt! ich hab dich gekriegt. Hat dich das nun verdrossen?
+Nicht wahr, wir haben uns vortrefflich vorgesehn?
+Nun kann ihr weder Recht noch Gnade mehr geschehn.
+
+
+
+SILENUS.
+
+Wir haben ihr den Paß vollkommen gut verennet.
+Nun fehlt nur, daß sie sich noch selbst das Maul verbrennet.
+Hernach ist alles klar.
+
+
+
+THALIA.
+
+Ich schleich ihr hinten nach.
+
+
+Hör du von weiten zu, und sag mir, was sie sprach:
+Womit sie sich denn wohl ihr Recht zu suchen meynet;
+Und ob sie selbsten hier an diesem Ort erscheinet?
+
+
+
+SILENUS.
+
+Halt! stille! hör ich recht? Wer kömmt? Wer nähert sich?
+Gieb achtung! gehts nicht gut, ach so versteck ich mich.
+
+
+
+THALIA.
+
+Nein! ich bleib ihr zu trotz in diesem Winkel stehen,
+Und lache: Wenn sie wird beschämt zurücke gehen.
+
+
+
+
+
+
+
+
+
+5. Auftritt
+
+
+
+
+Fünfter Auftritt
+
+Apollo auf dem Throne. Zur Rechten stchet Arete, Vigilantia und Meletander. Zur linken stehet Themis und Euphrosyne. Die ersten drey haben einander bey den Händen. Die zwey andern haben einander auch bey den Händen. Hierauf bringt Alethea die Melpomene und tritt zwischen der Themis und Euphrosyne. Dabey ist Tharsus und Sedulius.
+
+
+
+ALETHEA
+
+zur Arete.
+
+Hier ist Melpomene.
+
+
+ARETE.
+
+Tritt näher, armes Kind!
+Was bittest du von uns?
+
+
+
+MELPOMENE.
+
+Daß ich Genade find;
+Und daß die Themis ja nicht länger mehr erlaube,
+Daß mir der Neid die Ruh und mein Vermögen raube.
+
+
+
+VIGILANTIA.
+Wo denn so langsam her?
+
+
+MELETANDER.
+
+Erschrecke sie doch nicht!
+
+
+Und höre, was sie doch noch weiter von sich spricht!
+
+
+
+VIGILANTIA.
+
+Ey! was? Man muß die zeit in keinem Stück versäumen,
+Und seine Schuldigkeit nicht nur in leeren Träumen
+Und in Gedanken thun. Die Thaten müssens seyn.
+Sie kommt fast allzu späth. Man sag ihr kühnlich, nein.
+Um solche Kleinigkeit macht sie so grosses Wesen.
+Wer hier am ersten kömmt, hat auch erst auszulesen.
+
+
+
+EUPHROSYNE.
+
+Wenn ich dich bitten darf: So habe noch Geduld.
+Vielleicht ist sie nicht selbst an der Verzögrung schuld.
+Hab Mitleid! höre sie! ich sprech für ihre Sache:
+Denn sie verfolget nur der Neid und böse Rache.
+Die Bosheit selber ist ihr allerärgster Feind.
+Sey du indessen doch ihr gut und wahrer Freund!
+Sie hat dir nichts gethan. Hör sie doch mir zu Liebe!
+Daß sie sich länger nicht in ihrer Noth betrübe.
+Dein Wort kommt auch mit dran. Mein ja! hat sie für sich.
+
+
+
+VIGILANTIA.
+Ja! ja! dieß kan wohl seyn.
+
+
+ARETE
+
+zu Vigilantia.
+
+Warum bedenkst du dich?
+
+
+VIGILANTIA.
+
+Ich muß sie erst bey mir um alles recht befragen;
+Dann will ich auch allhier schon meine Meynung sagen.
+
+
+
+ARETE
+
+zu Vigilantia.
+
+Das sey dir wohl erlaubt: Du wachst für aller Heil.
+
+
+MELETANDER.
+
+Sprich nur dein Urtheil nicht zu hitzig und in Eil;
+Und warte, ob sie nicht Apollo selbst wird hören.
+
+
+
+
+ARETE.
+Sie ist ja ganz bestürzt.
+
+
+EUPHROSYNE.
+
+Sie will dich nicht verstören;
+Und ist für Ehrfurcht nur erstaunet und betrübt:
+Dieweil sie dich gewiß mit tiefster Demuth liebt.
+Es jammert mich ihr Schmerz. Kanst du denselben heilen;
+So laß doch ihrer Noth geschwinden Rath ertheilen.
+
+
+
+ARETE.
+
+So fasse nur ein Herz! tritt näher doch heran!
+Und sage frey heraus, wie man dir helfen kan!
+Du dauerst mich gewiß. Ich wollt dir gerne rathen.
+Bist du denn gänzlich frey von allen Laster-Thaten?
+Und hast du nichts versehn, das dir selbst schaden könnt;
+So sey dir auch allhier mein Vorspruch wohl gegönnt.
+Du mußt nur deine Noth der Themis recht erzählen.
+Dein Elend jammert mich. Du mußt dich so nicht qvälen.
+
+
+
+APOLLO
+
+zur Themis und Alethea.
+
+
+Ihr schweigt ja beyderseits. Melpomene schweigt still.
+Ihr wißt doch, daß ich Recht und Wahrheit hören will:
+Warum verstummt ihr denn? Entdecket mir die Sachen.
+
+
+
+ALETHEA
+
+zum Apollo und zur Themis.
+
+
+So will ich denn für sie hier meinen Vortrag machen:
+Die Bosheit, der Betrug, und die Unwissenheit
+Sind voller Neid und Geiz, und sind der Redlichkeit
+Und auch der Tugend feind. Die haben hier gebeten:
+Man möcht Melpomenen im Lande nicht vertreten;
+Und was sie sich gebaut, durch Fleiß erhalten hat,
+Ihr aus den Händen ziehn. Man hat an meiner statt
+Den Pseudolus gebraucht und alle hintergangen,
+
+
+Daß man auch endlich ihm zu glauben angefangen.
+Nun stell, Apollo, ich dir diese Muse dar,
+Die schon vorlängst bey dir geschützt und fleißig war,
+Eh dieser Affterschein zu glänzen angefangen.
+Ich bin ihr allemal so fleißig nachgegangen,
+Und finde sie gewiß von jedem Laster frey.
+Das Zeugniß geb ich ihr. Steh ihr nur kräftig bey:
+Weil sie dich redlich ehrt, und dich mit Ehrfurcht liebet.
+Vergieb ihr! wenn sie schweigt. Sie ist zu sehr betrübet.
+
+
+
+APOLLO
+
+zur Themis.
+
+
+So sey sie deiner Hand zur Aufsicht ausgestellt.
+Vollbringe du an ihr, das, was mir wohl gefällt!
+Wie du sie finden wirst: So kanst du sie auch richten.
+Die Sache soll, nebst dir, die Alethea schlichten.
+Gebt Achtung, daß ihr nicht im mindsten was gebricht.
+Das Recht, das ihr gehört, und wer sonst für sie spricht,
+Verbleib ihr Schutz und Trost. Sie soll die Klagen führen,
+Und an Gerechtigkeit gar keinen Mangel spüren.
+
+
+
+THEMIS
+
+zum Apollo.
+
+
+Mein Urtheil ist mit dem, was dein Befehl gebeut,
+So gar Melpomenen zu retten, gleich bereit.
+Die Wahrheit steht ihr bey. Der Fleiß will für sie zeugen.
+Die Unschuld bringt ihr Muth. Das Recht soll auch nicht schweigen.
+Und ihr Gehorsam wird damit zufrieden seyn,
+Was du beschliessen willst: Der Ausspruch bleibet dein.
+Den wollen wir für uns mit allen Freuden ehren,
+Und sie wird ihn von dir mit tiefster Ehrfurcht hören.
+
+
+
+
+
+
+
+
+
+6. Auftritt
+
+
+
+
+Sechster Auftritt
+
+Apollo, Arete, Vigilantia, Meletander, Themis, Euphrosyne, Alethea, Melpomene und Pseudolus. Dieser kommt geschwinde und will sich zwischen allen, die einander bey den Händen haben, durchdringen. Weil er aber nicht durchkommen kan; so dringt er sich endlich zwischen Apollo und Areten ein.
+
+
+
+
+PSEUDOLUS
+
+zur Arete.
+
+
+Halt ein! Was machst du da? Wirst du so leichtlich weich?
+Glaubst du denn dieser Frau und ihren Worten gleich?
+Ach halte ja zurück! Das ist die böse Sieben:
+Die hat mich schon einmal von einem Ort vertrieben.
+Das lastervolle Thier, der Affe der Natur
+Ist nicht des hörens werth. Glaub! sie betrügt dich nur.
+Sie hat ein Schlangen-Maul. Sie ließt so viele Bücher:
+Da grübelt sie, und schließt von ihren Sachen sicher.
+Sie fragt bald den und den: Ob sie sich recht verhält?
+Auf Ehre denkt sie nur, und sucht kein grosses Geld;
+Und fragt auch nichts nach mir. Sie will sich nur mit Ehren
+Von einem guten Ruff aus leerer Luft ernähren.
+Damit verderbt sie die. Sey der alleine hold!
+Ich bitte dich recht sehr. Du hast ja schon gewollt,
+Daß sie mit ihrer Kunst dich künftig sollt erfreuen.
+Versprich ihr dieses Glück itzunder doch von neuen,
+Und sieh mich freundlich an! Gieb mir doch diesen Trost!
+
+
+
+Zum Apollo.
+
+
+
+Und du sey ja recht sehr auf diese Frau erboßt!
+Du glaubst nicht, was das Thier für mich für Schaden bringet,
+Und wie sie, mir zum Trotz, von guten Lehren singet.
+
+
+
+ALETHEA.
+
+Du bist, verlogner Gast, fast keiner Antwort werth.
+Du schämst dich warlich nicht. Das, was dir wiederfährt,
+Geschieht durch deine Schuld. Weist du nicht, daß die Lügen:
+Wenn ich zugegen bin, den rechten Ausspruch kriegen?
+
+
+
+PSEUDOLUS
+
+zur Melpomene.
+
+
+Ist Alethea da? Nun gute Nacht, o Welt!
+Ich habe schon für dich ein ander Bad bestellt.
+
+
+
+Geht ab.
+
+
+
+
+
+
+
+
+
+
+
+7. Auftritt
+
+
+
+
+Siebender Auftritt
+
+Apollo, Arete, Vigilantia, Meletander, Themis, Euphrosyne, Alethea, Melpomene und Thalia.
+
+
+
+VIGILANTIA.
+
+Die Sache sollte mir doch bald verdächtig scheinen.
+Silenus ist beherzt. Melpomenen ihr Weinen
+Geht wohl von Herzens Grund; Allein die Thränen sind
+Auch öfters nur verstellt.
+
+
+
+MELETANDER.
+
+Kan dir das arme Kind
+Denn wohl verdächtig seyn?
+
+
+
+VIGILANTIA.
+
+Man kan es doch nicht wissen,
+Und muß in diesem Fall auf alle Fälle schliessen.
+Wen man so hart verklagt, und mit so kühnem Muth,
+Auf diesen giebt man acht, auf alles was er thut
+Und wie er sich bezeigt. Sein reden, weinen, lachen,
+Sein schweigen muß so gar uns ein Bedenken machen.
+Es ist wohl freylich hart: Allein wer kan davor?
+Man gönnet jedem hier ein willig offnes Ohr.
+
+
+
+ARETE.
+
+Fragt beyde Theile recht. Mein Mitleid will mir sagen:
+Daß man Melpomenen mit Unrecht will verklagen.
+
+
+
+APOLLO
+
+zur Themis und Alethea.
+
+
+Ihr wisset, was das Recht von eurer Schuldigkeit
+Geleistet haben will, das nehmt zu aller Zeit
+Mit Vorsicht wohl in acht. Auch in der kleinsten Sache
+Ists nöthig, daß man sie nach Recht und Ordnung mache.
+Ihr wißt den Willen schon. Er ist euch längst bekannt.
+Vollbringt ihn allemal in unserm treuen Land!
+
+
+
+
+THEMIS
+
+führt Alethea zur Melpomene.
+
+
+Hier will ich dir, mein Kind, nun alles wiedergeben.
+Dein Recht wird untersucht. Nach diesem kanst du leben.
+Die Wahrheit findet nichts, das dich hier schuldig spricht;
+Und die Gerechtigkeit verstößt dich also nicht
+Drum muß dein Klagen auch sich mit Gehorsam mindern:
+Denn man verfährt nicht hart mit wohlgezognen Kindern.
+Es kommt zuweilen wohl, daß sie ein Knecht verklagt,
+Und bald von diesem das vom andern jenes sagt:
+Alleine wenn sie sich nur recht bescheiden zeigen,
+Wenn man sie drum befragt; So muß der Knecht wohl schweigen.
+
+
+
+APOLLO
+
+zur Arete und Themis.
+
+
+Nun thut nach eurer Pflicht! Ich laß euch itzt allein.
+Melpomene! es bleibt die Alethea dein.
+Die Themis rettet dich; Arete wird dich lieben.
+Was wilst du weiter mehr? Mich kan auch nichts betrüben:
+
+
+
+Zu Meletander.
+
+
+Denn Meletander bleibt an meiner Seiten stehn.
+
+
+MELETANDER.
+Ich will gehorsam seyn und niemahls von dir gehn.
+
+
+APOLLO.
+
+Silenus aber soll sich bessern, und mit Lügen
+Mich nicht mehr hintergehn, und niemand mehr betrügen.
+Und wenn er ja zur Lust nicht zu entrathen ist:
+So habt wohl acht auf ihn, daß er sich nicht vergißt,
+Und weiter um sich greift als wir es haben wollen.
+Thalia wird hinfort noch viel mehr lernen sollen,
+Sowohl in ihrer Kunst, als in der Redlichkeit.
+Gebt ihr zur Beßrung Raum: Sie brauchet lange Zeit.
+Deßwegen will ich ihr Gelegenheit verstatten,
+Und hoffen, wo wir fast nichts mehr zu hoffen hatten.
+
+
+
+
+
+Zur Thalia.
+
+
+
+Wiewohl mit Recht verdienst du bey uns keinen Platz:
+Allein wir gönnen dir den unverdienten Schatz.
+Vielleicht bekehrst du dich, und merkest diese Lehre:
+Daß man durch eignen Fleiß sich selber wohl ernähre,
+Melpomene mag dir indessen dankbar seyn:
+Sie wird durch dich bekannt. Stell dein Verfolgen ein,
+Und plag sie weiter nicht! das will ich dir befehlen.
+
+
+
+Apollo und Meletander gehen ab.
+
+
+
+
+
+
+
+
+
+8. Auftritt
+
+
+
+
+Achter und lezter Auftritt
+
+Arete, Themis, Alethea, Melpomene, Thalia, Sedulius, Tharsus.
+
+
+
+ALETHEA.
+
+Was sagst du nun darzu? Wilst du dich weiter qvälen?
+Kanst du nun nicht vergnügt und wohl zufrieden seyn?
+Du bist so wohl beschützt, und was du hast, bleibt dein.
+
+
+
+MELPOMENE.
+
+Nun krieg ich Luft, die Noth, die fast mein Herz durchschnitten,
+Ganz frey und ohne Furcht aus meiner Brust zu schütten.
+Ich weis nicht, wem ich nun am ersten danken soll.
+Der eingepreßte Schmerz, der reißt sich Freudenvoll
+Aus meinem Herzen los. Die Freuden-Thränen rinnen
+So heftig, als zuvor ein klägliches Beginnen
+Sie aus den Augen zwang. Die Freude hemmet mich
+So sehr, als wie der Schmerz.
+
+
+
+THALIA.
+
+Es ist ein Glück für dich,
+Daß Themis dich gehört und selbst für dich gesprochen:
+Sonst wäre dir der Stab wahrhaftig schon gebrochen.
+Nur das verdreußt mich itzt, daß ich so viele Zeit
+Vergebens angewandt, und die Gerechtigkeit,
+Darbey vergessen hab.
+
+
+
+
+MELPOMENE.
+
+Du ungerathne Muse!
+Geh, fall der Themis hier aus Schuldigkeit zu Fusse,
+Und beßre dich durch sie! Du bist selbst schuld daran.
+Ich Arme habe dir gar nichts zu Leid gethan.
+Ich hatte Noth genug, daß ich mich schützen konnte.
+Dein Neid, der mir die Luft niemalen rein vergonnte,
+Hat, dir zur Schande, mir zwar Müh genung gemacht.
+
+
+
+SEDULIUS
+
+zur Thalia.
+
+
+Ach hättest du dafür an deine Kunst gedacht,
+Und dieses neidische, verlogne, böse Wesen,
+Zu unserm Schaden nicht, zu deiner Lust erlesen.
+
+
+
+MELPOMENE.
+
+Du hättest Brod genug für dich, auch neben mir.
+Denn das was dir gehört, gewiß das gönn ich dir.
+Ich will dich noch darzu mit vielen Freuden lehren,
+Wie du dich rühmlich, wohl und redlich solst ernähren.
+Alleine, wenn du blind in deiner Bosheit bist,
+Und aller Menschen Pflicht aus Hochmuth nur vergißt;
+So kan ich nichts dafür. Ich suche dir zu rathen,
+Und du verfolgest mich durch lauter Frevel-Thaten.
+
+
+
+SEDULIUS
+
+zur Thalia.
+
+
+Du bist als wie der Wolf, der an der Qvelle stund
+Und reines Wasser trank. Ein Lamm hat seinen Mund
+Am Ende aus dem Fluß zur Nothdurft kühlen wollen.
+Jedoch der Wolf wollt nicht: Drum hat das Lamm nicht sollen.
+Er fuhr es ganz ergrimmt im vollen Eifer an:
+Du machst das Wasser trüb! Das hab ich nicht gethan:
+Der Fluß der läuft ja nicht zurück in deine Quelle.
+Ja, sprach der Wolf, du bist ein rechter Diebs-Geselle;
+Vor einem Viertheil Jahr da redtst du schlimm von mir.
+Ach allerliebster Wolf! da war ich noch nicht hier,
+Auf dieser Welt zu sehn, sprach dieses Lamm dargegen.
+
+
+Du willst dich, hies es drauf, nun gar aufs leugnen legen:
+Und wenn auch du von mir schon still geschwiegen hast;
+So wars dein Vater doch. Ich hab dir aufgepaßt,
+Und hab noch alte Schuld von deiner lieben Mutter
+Und Grosse-Mutter her. Vorietzt bist du mein Futter.
+Es half kein Bitten nicht: der Wolf zerriß das Lamm.
+
+
+
+MELPOMENE.
+
+Der Apfel fällt nicht weit von seinem alten Stamm.
+Die Wölfe haben nichts als Wölfe noch gezeuget,
+Und Menschen böser Art die bleiben bös geneiget.
+
+
+
+THARSUS.
+Du hast uns zwar wohl matt, doch nicht verzagt gemacht.
+
+
+SEDULIUS.
+Ach hättest du dafür an deine Pflicht gedacht!
+
+
+MELPOMENE
+
+zu Thalia.
+
+
+Die hat das böse Kind mit Willen ganz vergessen.
+Wie oftmals hab ich nicht besorgt bey dir gesessen?
+Wie hab ich dir den Neid, die Hoffart vorgestellt,
+Als wie den stärksten Gift, das Unkraut dieser Welt?
+Wie hab ich dich gelehrt, warum wir Menschen leben;
+Und daß uns unsre Kraft von oben nicht gegeben,
+Daß man sie nur allein zum Schaden brauchen soll?
+Du selber warest oft betrübt und thränenvoll:
+Wenn ich dich von der Bahn der stärksten Laster zoge,
+Und dich zu Tugenden aufs zärtlichste bewoge.
+Du schienest dazumal ein Kind von guter Art;
+So daß ich selbst dadurch so stark bewogen ward,
+Dich aus besonderm Trieb recht mütterlich zu lieben.
+Doch sagte mirs mein Herz: Du würdest mich betrüben;
+Wie aber? wußt ich nicht. Erinnre dich der Zeit!
+Ich sagt es dazumal ganz in Gelassenheit,
+Und mehr besorgt für dich, daß dich es rühren sollte:
+Wenn deine Schwachheit sich an mir vergehen wollte.
+
+
+Mein Kind, ich sinne nach, was deine Eigenschaft
+Besonders in sich hat, daß sie mit solcher Kraft
+Mich dich zu lieben zwingt. Ich will dich doch betrachten.
+Du aber hör mir zu! Ich will dich nicht verachten.
+Denn daß du erstlich nicht gar wohl erzogen bist,
+Das ist nicht deine Schuld. Dein Wesen aber ist
+Gleichwohl von böser Art. Mehr will ich itzt nicht sagen:
+Daß dich es nicht betrübt, und daß du nicht darfst klagen.
+Du selber aber bist voll Hochmuth und voll Neid,
+Unwissend, faul und stolz; und die Geschicklichkeit,
+Die du von oben hast, willst du nicht recht gebrauchen.
+Das gute lässest du ganz ohne Frucht verrauchen.
+Und zieht der stolze Trieb dich etwas nachzuthun;
+Fehlt doch der rechte Grund. Mein Kind! was sagst du nun?
+Du mustest selbst gestehn: daß alle diese Gaben
+Wahrhaftig schlechte Kraft, ein herz zu rühren haben.
+Und dessen ungeacht gieng meine Liebe fort.
+Ich sagte dir zuletzt noch ein bedenklich Wort:
+Entweder wird durch dich mein Glücke höher steigen:
+Wo nicht; So wirst du mich gewiß zur Erden beugen
+Durch vieles Ungemach, Was mir itzt Kummer macht,
+Hat dich allein zum Grund. Wer hätte das gedacht?
+
+
+
+THALIA.
+
+Da sagst du nun das Ding so her vor allen Leuten.
+Das sind ja Sachen noch von alten langen Zeiten.
+Da war ich noch ein Kind, und ehrte dich zu sehr,
+Mehr, als du würdig bist. Itzt aber fällt mirs schwer,
+Die Lection von dir, als wie ein Kind, zu hören.
+
+
+
+MELPOMENE.
+
+Nun gut! Ich will dich nicht durch mein Ermahnen stören.
+Das soll das letzte seyn. Jedoch damit du dich
+Erst besser kennen lernst, und dann hernach auch mich;
+Uns beyde aber auch die kluge Welt kan richten,
+Und unsern Unterscheid mit Wahrheit weislich schlichten;
+
+
+So red ich dich nicht mehr in dem Verstande an,
+Als hättest du mir was damit zu leid gethan.
+Ich ändre itzt den Thon, und kan dich nun beschämen.
+Dein frevelhaftes Thun, dein kühnes Unternehmen
+Hat mehr Apollens Reich, als mich, dadurch verletzt,
+Und seiner Herrlichkeit vermessen zugesetzt;
+Um nur für dich von ihm Genade zu erzwingen,
+Und mich indessen nur gewaltsam drum zu bringen.
+Du hast dich wie ein Thier nach einem Raub bezeigt,
+Das gar nicht eher ruht und auch nicht eher schweigt,
+Als bis es voller Wuth das alles hat erjaget,
+Was ihm Gesetz und Pflicht, ja die Natur versaget.
+
+
+
+THEMIS
+
+zur Thalia.
+
+
+Meynst du, Verstockte, denn die ganze Welt sey blind,
+Daß sie die Wahrheit nicht in deinen Thaten find?
+Ihr Schweigen darf dich nicht zu Hochmuth ferner treiben.
+Sie schätzt dich gar nichts werth und läst dich willig bleiben
+So dumm, als wie du bist. Man fragt gar nichts nach dir,
+Und deiner Raserey.
+
+
+
+MELPOMENE.
+
+Und auch nicht viel nach mir.
+Es kan uns beyde noch die Welt gar wohl entrathen;
+Doch den am meisten, der sich durch viel Laster-Thaten
+Verhaßt und strafbar macht. Was bildest du dir ein?
+Mit wem hast du zu thun? Weist du wer diese seyn,
+Die vor Apollens Reich behutsam wachen müssen,
+Und auch nach Recht und Pflicht, nach redlichem Gewissen,
+In allem ihre Pflicht gerecht und willig thun?
+Die hast du angeklagt. Was sagst du? rede nun!
+
+
+
+THALIA.
+
+Ich denke: Mags doch seyn! Wenn ich nur das kan haben,
+Was ich für mich verlang. Ich brauch so hohe Gaben,
+
+
+So grosse Einsicht, nicht. Mein Nutzen ist mein Recht.
+Auf diesen dring ich nur gerade zu und schlecht.
+Ich brauche weder dich, noch jemand sonst, zu schonen.
+Was gehet ihr mich an? Ihr müsset mich belohnen,
+Daß ich nichts ärgers noch für euch ersonnen hab.
+Es stund ja auch bey mir. Und sprechet ihr mir ab,
+Was ich von euch verlangt; So könnt ihrs doch nicht wehren,
+Daß ich darüber schrey.
+
+
+
+ALETHEA.
+
+Du läst dich nicht belehren?
+Ey nun so fahre hin! der Schaden bleibt auch dein.
+
+
+
+Zur Melpomene.
+
+
+
+Du must ihr aber doch dafür noch dankbar seyn.
+Ihr Drohen wird dir nun in Zukunft nicht mehr schaden.
+Geh! setze dich durch Fleiß in vorige Genaden!
+Bleib immer ohne falsch, gehorsam, redlich, treu,
+Und halt dich schlecht und recht, und ordentlich darbey!
+Vergiß dein Unglück nur, und danke recht mit Freuden,
+Und sey hinfort getrost auf dein gehabtes Leiden!
+
+
+
+SEDULIUS.
+Und hierdurch hab ich nun auch neue Kraft gekriegt.
+
+
+THARSUS.
+Und mein beherzter Muth hat diesen Schmerz besiegt.
+
+
+MELPOMENE.
+
+Nun will ich alle Pflicht nach Möglichkeit bezeigen,
+Und meine Dankbarkeit soll Lebenslang nicht schweigen.
+Itzunder bin ich matt, und kan nichts weiter thun,
+Als einen treuen Wunsch. Mein Herze wünschet nun:
+
+
+GOtt geb dem König Sieg, und beßre seine Feinde,
+Erhalte Stadt und Land, und segne meine Freunde!
+
+
+
+Versuch Schweitzerischer Gedichte.
+
+
+
+Kein Reitz sey stark genung, der deine Pflicht verhindert,
+Kein Nutzen groß genung, der den des Staates mindert;
+Such in des Landes Wohl und nicht beym Pöbel Ehr,
+Sey jedem Bürger hold, dem Vaterland noch mehr.
+
+
+
+
+
+
+

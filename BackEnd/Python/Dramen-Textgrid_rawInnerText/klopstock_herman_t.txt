@@ -1,0 +1,5000 @@
+
+
+
+
+Hermanns Schlacht
+
+
+hdl:11858/00-1734-0000-0003-B409-7textgrid:r1hd.0
+ Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). 
+
+Lizenzvertrag
+
+
+ Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache 
+
+
+Hinweise zur Lizenz und zur Digitalen Bibliothek
+
+
+
+
+
+                              Entstanden 1766–1767. Erstdruck: Hamburg und Bremen (Cramer), 1769.
+                           
+
+
+
+
+Friedrich Gottlieb Klopstock: Sämmtliche Werke. Leipzig: Verlag von Georg Joachim Göschen, 1844.
+Klopstock, Friedrich Gottlieb
+
+39-
+
+
+Leipzig
+
+
+
+
+
+
+
+
+
+
+drama
+
+
+
+
+
+
+
+Friedrich Gottlieb Klopstock
+Hermanns Schlacht
+Ein Bardiet für die Schaubühne
+
+
+
+
+
+
+
+[Widmung]
+
+
+
+
+
+
+An den Kaiser.
+Ich übergebe Unserm erhabnen Kaiser dieses vaterländische Gedicht, das sehr warm aus meinem Herzen gekommen ist. Nur Hermann konnte seine Schlacht wärmer schlagen. Sie, gerecht, überdacht und kühn, wie jemals eine für die Freiheit, und deutscher, als unsre berühmtesten, ist es, die gemacht hat, daß wir unerobert geblieben sind.
+Niemanden oder dem Kaiser mußte ich ein Gedicht zuschreiben, dessen Inhalt uns so nah angeht. Und diese Zuschrift soll zu denen seltnen gehören, welchen man ihr Lob glaubt. Was sage ich, ihr Lob? Wenn der Geschichtschreiber redet, so lobt nicht er, sondern die That. Und ich darf That nennen, was beschlossen ist und bald geschehen wird.
+Der Kaiser liebt sein Vaterland, und Das will Er, auch durch Unterstützung der Wissenschaften, zeigen. Nur Dieß darf ich sagen.
+Aber ich wage es noch hinzu zu setzen, daß Er die Werke, welchen Er Unsterblichkeit zutraut, bei den Bildnissen Derer, die sie geschrieben haben, aufbewahren wird.
+Mit gleichen Gesinnungen schätzte Karl der Große die Wissenschaften, indem er die Geschichte zu seiner Wegweiserin machte, die Bewegung der Gestirne untersuchte, die Sprache bildete und die Gesänge der Barden nicht länger der mündlichen Ueberlieferung anvertraute, sondern sie aufschreiben ließ, um sie für die Nachkommen zu erhalten.
+Die Zeiten Karls waren seiner nicht würdig; ihr eigner geringer Nachlaß und der Verlust des von ihm gesammelten 
+Aelteren zeigen Dieses genug. Ob es unsre Josephs waren, entscheiden zwar nur die künftigen; aber wir dürfen doch, wie mir es vorkommt, gute Ahnungen von dieser Entscheidung haben.
+Ich kenne keinen stärkern Ausdruck der Verehrung, mit dem ich mich, bei Ueberreichung dieses Gedichts, Ew. Kaiserlichen Majestät nähern könnte, als daß ich meinem Vaterlande und Ew. Majestät Selbst zu Dem, was Sie für die Wissenschaften thun wollen, Glück wünsche. Niemals bin ich stolzer aus mein Vaterland gewesen, als bei dieser Vorstellung. Und mich däucht, ich höre schon mit dem frohen Beifalle Aller, welche von Werthe urtheilen können, die unentweihte Leier der Dichtkunst erschallen und sehe die Geschichte aufstehn, sie den goldnen Griffel nehmen und sich dem dauernden Marmor nahen. Dieser ganze Erfolg wird desto gewisser seyn, je gerechter es ist, Die, welche sich zudrängen, zu entfernen, und je edler, Die aufzusuchen, die unbekannt zu seyn glauben. Diese wird die schönste der Blumen in dem Kranze Ew. Kaiserlichen 
+Majestät seyn.
+Ich würde es nicht wagen, hier von mir zu reden, wenn ich nicht zugleich Ew. Majestät den Namen eines großen Mannes nennen könnte. Ich war Wenigen bekannt, und ich kannte den Grafen Bernstorff gar nicht; dennoch war er es, er mich zu dieser Zeit einem Könige empfahl, dessen Andenken mir auf immer theuer und unvergeßlich seyn wird.
+Ich bin mit jeder Empfindung der Aufrichtigkeit und des Vergnügens, welche die freieste Verehrung hat,
+
+Ew. Kaiserlichen Majestät
+
+
+allerunterthänigster
+Friedrich Gottlieb Klopstock.
+
+
+
+
+
+
+Tacitus
+
+
+
+
+
+
+Tacitus.
+Unsre Stadt hatte sechshundert und vierzig Jahre gestanden, als wir, unter Cäcilius Metellus und Papirius Carbo Consulate, das erste Mal hörten, daß die Cimbrer gegen uns in Waffen wären. Von dieser Zeit an bis zu dem zweiten Consulate Trajans sind zweihundert und zehn Jahre. So lange überwinden wir Deutschland. In diesem großen Zeitraume, welcher Verlust auf beiden Seiten! Nicht der Samnit, nicht der Karthager, nicht der Spanier oder Gallier, selbst der Parther hat uns nicht öfter an sich erinnert. Denn der freie Deutsche ist kriegerischer, als der beherrschte Parther. Und kann uns der Orient, der durch den Sieg des Ventidius sogar seinen Pacorus verlor, etwas Anderes vorwerfen, als Crassus Niederlage? Aber die Deutschen haben die Consuln Carbo und Cassius und Scaurus Aurelius und Servilius Cepio und Marcus Manlius geschlagen oder gefangen genommen, ihre fünf Armeen der Republik und Varus mit drei Legionen dem Kaiser vertilgt. Und nicht ohne Verlust haben Cajus Marius in Italien, der große Julius in Gallien und Drusus, Nero und Germanicus sie in ihrem eigenen Lande besiegt. Hierauf wurde Cajus Cäsar wegen seiner 
+unausgeführten Drohungen verlacht. Nach einiger Ruhe eroberten sie, durch unsern Zwiespalt und unsre bürgerlichen Kriege eingeladen, die Winterlager der Legionen und wagten es, in Gallien einzudringen. Sie wurden zwar wieder daraus vertrieben, aber gleichwohl triumphirten wir in den folgenden Zeiten vielmehr über sie, als daß wir sie überwanden.
+
+
+
+
+
+
+
+
+
+Personen
+
+
+
+
+
+Personen.
+
+Hermann.
+
+Siegmar, sein Vater.
+
+Flavius, Hermanns Bruder.
+
+Segest, Fürst der Cherusker.
+
+Siegmund, sein Sohn.
+
+Horst, einer von Siegmars Kriegsgefährten.
+
+Deutsche Hauptleute.
+
+Zwei Centurionen.
+
+Brenno, Oberdruide.
+
+Druiden.
+
+Kedmon, ein Druide.
+
+Werdomar, Führer des Bardenchors.
+
+Barden.
+
+Opferknaben.
+
+Thusnelda mit ihren Jungfrauen.
+
+Bercennis, Hermanns Mutter.
+
+
+
+
+
+
+
+
+
+1. Szene
+
+
+
+
+Erste Scene
+
+Siegmar. Horst.
+
+
+
+HORST.
+ Ja, Siegmar, hier ist der Fels eben, auch sind Trümmer eines zerfallenen Altars darauf, wie du mir es sagtest.
+
+
+SIEGMAR
+
+der noch nicht gesehen wird.
+
+ Ist das Thal unten breiter, als die andern Thäler?
+
+
+HORST.
+ Viel breiter, Siegmar. Ha! dort unten also wird's völlig entschieden werden!
+
+
+SIEGMAR.
+ Deinen Arm, Jüngling, und reiß mich durch das Gebüsch herauf!
+
+
+HORST.
+ Weiter zu deiner Linken hin, wo es weniger unwegsam ist, findest du die Felseneingänge, die wir fehlten.
+
+
+SIEGMAR
+
+der jetzt heraufgekommen ist.
+
+ Mein Auge reicht so weit nicht mehr. Blick' hinab, stürzt ein Quell in das Thal?
+
+
+HORST.
+ Ein Schaumquell stürzt in der Kluft herab.
+
+
+SIEGMAR.
+ Es ist das Thal, Horst! Nun, Wodan und alle Götter, dort unten aus diesem Quell sollen sie mir das letzte Blut abwaschen! Römerblut, Jüngling, und meins! Hier ist die Opferstätte. Rufe nun den Druiden und den Barden, hier wollt' ich sie herführen.
+
+
+HORST
+
+er ruft nach der Seite hin, wo er hergekommen ist.
+
+ Hauptleute aus Cheruskawald! Wer den schroffen Abhang genau kennt, wer den Strauch am Schnellsten haut, Der halle durch, gerad' aus durch, und führe die heiligen Priester und Sänger heraus! Hier, hier ist der Opferfels!
+
+
+
+EINE ENTFERNTE STIMME.
+ Horst, sage Siegmarn: Drei Hauptleute gehn mit gehobner Axt!
+
+
+SIEGMAR.
+ Sieh nach dem Ende des Thales hin. – Siehst du nirgends ein Cohortenbild? oder gar einen Adler?
+
+
+HORST.
+ Fünf Reiter sprengen das Thal herauf! Die Weichlinge mit dem Kissen auf dem Rosse! Sie sehn sich überall ängstlich um. Einer fällt von einem Wurfspieß aus dem Busch – nun noch Einer, noch Einer, Siegmar!
+
+
+SIEGMAR.
+ Flog der Wurf von uns oder von drüben her?
+
+
+HORST.
+ Von drüben her.
+
+
+SIEGMAR.
+ Die guten Katten! Das sind Katten drüben, Horst! Hast du einen Spieß fehlen gesehn?
+
+
+HORST.
+ Keiner fehlte.
+
+
+SIEGMAR.
+ Nun, wir Cherusker, meine ich, wollen auch nicht fehlen, wenn wir erst unten sind; meinst du nicht auch, Horst?
+
+
+HORST.
+ Wie ich's meine, Cberuskafürst? Wurf! und Tod! so meine ich's. Ha, nur Varus kann diese Lanze suchen! Sie ist scharfgespitzt! Meine Barthild spitzte sie mir an dem röthlichen Hange des Sandberges, als sie mir nach meinem letzten Schlafe unsern Sohn mit den großen trotzigen Augen zum Abschiedskusse gebracht hatte. Aber auch nur Varus kann sie treffen! Denn er, der uns diesen stolzen Urtheilsprecher mit Stab und Beil hersandte, hält es für sicherer, daß er im Capitol für seine Legionen opfert, als daß er sie führt!
+
+
+SIEGMAR.
+ Siehst du noch keine Lanze? Hörst du nichts von der Schlacht? Lege dein Ohr an den Felsen. Der Waffenklang der Sinkenden und der Huf der Rosse schallt besser aus der Erde herauf.
+
+
+HORST.
+ Ich höre dumpfes Geräusch; ich habe noch keine Schlacht in der Ferne gehört.
+
+
+
+SIEGMAR.
+ Hörst du nicht etwas, das aus dem Geräusch' hervortönt? Mein Sohn ruft sehr laut in der Schlacht!
+
+
+HORST.
+ Ich höre Hermanns Stimme nicht.
+
+
+SIEGMAR.
+ Die Römer halten irgendwo länger Stand als vorher; sonst würdest du die Schlacht lauter hören. Du weißt, daß es unsre kühnste Jugend ist, die ich führe. Was sagten sie von der Schlacht, da du sie verließest?
+
+
+HORST.
+ Sie sagten: Siegmars Silberhaar glänzt heller, als der Mähnenbusch auf der Römer Helm! Aber vorn, vorn sollst du nicht seyn! Sie wollen vorn seyn und sich nach deinem Blick' umsehn, wenn ihr Arm die Mähnen in das Blut stürzt.
+
+
+SIEGMAR.
+ Ihr, liebe Cherusker, ihr seyd die Freude meines Herzens! Aber vorn soll euer Siegmar auch mit seyn!
+
+
+HORST.
+ Das sollst du nicht, du theurer Alter! Wenn der Beifall deines Auges die Jünglinge entflammt, darin ist mehr Römertod, als wenn dein Arm wirft.
+
+
+SIEGMAR.
+ Enkel meiner Brüder, sprich nicht von der Schwere meines Arms! Sobald mein Auge den Blick gegen mir über sieht, so fehlt mein Arm das Herz gegen mir über nicht. Rächen soll an der Hand des unerbittlichen Todes diese Schlacht die Schlacht des Artovist! Ich will ihre Blume brechen! Mein Hermann sogar soll mich neiden! Da, wo das Thal am Breitesten ist, wo die Legionen, mit ihrer letzten Hoffnung Seufzer, nach dem Wodan hinseufzen werden, der auf dem Capitol die Donner hält, da, Jüngling, ändert die Schlacht durch mich ihre Gestalt! Tod war bisher auf beiden Seiten: dann ist auch diesen Beilträgern gerade gegenüber Tod!
+
+
+HORST.
+ Siegmar, ich lerne mit Ehrfurcht, wie man sterben muß.
+
+
+
+SIEGMAR.
+ Gut denn! Wenn ich dort unten die Adler in meines Sohnes Hand nicht sehe, so seh' ich sie von oben her, aus der glänzenden Mondwolke, näher bei den Göttern!
+
+
+HORST.
+ Ach, mein Vater, es däuchte mir, als ob du schon unter den Barden Walhalla's sängst! Ihr Götter, bei denen er so nah seyn will, erfüllt die Weissagung von seinem Tode nicht!
+
+
+SIEGMAR.
+ Wenn ich herunterblicke, so schimmern mir Augustus Adler heller, und röther wird mir das Römerblut an der Lanze meines Sohns! Wodan und alle Götter! habe ich geweissagt, so habe ich Sieg geweissagt! Mein Leben oder mein Tod war keiner Weissagung werth!
+
+
+HORST.
+ Ich will noch mehr von dir lernen, ehrwürdiger Greis. Hermann ist jetzt mitten in der Schlacht. Denkst du an seinen Tod?
+
+
+SIEGMAR.
+ Ich muß mich der Freude enthalten, an seinen Tod zu denken. Denn ich lebe nicht lange mehr, und so wäre ich bald wieder bei ihm! Fiele er jetzt, so siegten wir vielleicht nicht! Mit dem Träger des letzten Adlers, den wir nehmen, mag auch er fallen, aber eher, eher nicht! Von dort an, wo die Schlacht anfing, bis dicht an seinen Grabhügel müssen alle Thäler einst von Gebeinen weiß seyn! Wenn Hermann umkommen soll, so falle er zuletzt!
+
+
+HORST.
+ Zu diesem Grabe, an dem die letzte weiße Legion liegt, will ich jeden Frühling meines Lebens hinziehn, es mit Blumen ohne Zahl bestreun und des besten Barden besten Gesang mit allen meinen Freunden, die dich und einen solchen Sohn gekannt haben, unter der glänzenden Mondwolke singen!
+
+
+SIEGMAR.
+ Jüngling, du weißt nicht, wie lieb du mir bist! Du labst einen alten guten Mann, Jüngling! Es war 
+mir jetzt eben so, als da ich in der Schlacht des Ariovist, wie wir noch gegen den stolzen Cäsar zu siegen glaubten, mit dem Helm' eines Römers, den ich hingestürzt hatte, aus einem kühlen Quell seitwärts blickend schöpfte. Denn ich suchte mir bei der süßen Labung das Herz eines der Fabier, den ich auch traf! Ha! wär's das Herz des Dictators gewesen! Aber, dieß Blut fließen zu sehn, war dem erhabnen Manne vorbehalten, wie heißt doch sein Name? Das ist wahres Leiden des Alters, daß man sogar solche Namen vergißt! Nenn' ihn mir, diesen ehrenvollen Mann, der werth wär', ein Nachkomme Thuiskons zu seyn.
+
+
+HORST.
+ Brutus!
+
+
+SIEGMAR.
+ Du nanntest einen großen Namen, Jüngling!
+
+
+HORST.
+ Edler, bester Mann! Siegmar! Jetzt nannte ich noch einen großen Namen!
+
+
+SIEGMAR.
+ Hörst du die Schlacht noch nicht näher?
+
+
+HORST.
+ Mich däucht, daß das Getöse lauter wird.
+
+
+SIEGMAR.
+ Und was siehest du?
+
+
+HORST.
+ Einzelne Flüchtlinge, die der Wurfspieß hinstürzt.
+
+
+SIEGMAR.
+ Sie wollen hier durch! Das sind keine Flüchtlinge, es sind Ausgeschickte, die untersuchen sollen, wo die Legionen nun hinkommen; aber sie bringen die Botschaft dem Minos! Wie furchtbar wird euch die Urne des ernsten Gottes tönen, wenn er's euch nun sagen wird, daß euer Krieg ein Krieg der Herrschsucht und nicht der Gerechtigkeit ist.
+
+
+HORST.
+ Aber, ach, mein Vater, könnten die Legionen nicht auch zurückgehn? Welcher Schmerz für dich und deine Jünglinge unten im Walde!
+
+
+SIEGMAR.
+ Zurück in das schmälere Thal, wo noch mehr Tod auf sie wartet? Sie wollen, und sie müssen vorwärts. 
+Sorge nicht, Horst, nach uns her müssen sie! Hier unten an dem Felsen täuscht sie die Hoffnung das letzte Mal! Hier breiten sie sich aus und fechten mit allen ihren Kriegskünsten; allein verwünscht seyd Wodan zum Opfer!
+
+
+Es wird Barden-Musik von ferne gehört.
+
+
+
+
+HORST.
+ Die Druiden kommen.
+
+
+SIEGMAR.
+ Nahm Hermann Barden mit sich?
+
+
+HORST.
+ Wenige.
+
+
+SIEGMAR.
+ Denn wir müssen auch hier die meisten haben, jetzt bald zum Opfergesang und zur Aufmunterung meiner lieben Cherusker unten im Walde, die da fechten werden, wo die Schlacht am Blutigsten seyn wird, und hernach für alle unsre Heere! Denn, sobald sich die Legionen unten im Thal' ausbreiten, tönt der Gesang hinunter in die Schlacht.
+
+
+
+
+
+
+
+
+2. Szene
+
+
+
+
+Zweite Scene
+
+Gewaffnete Opferknaben.
+
+
+
+SIEGMAR
+
+zu dem ältsten Knaben.
+
+ Wer ist dein Vater, mein Sohn?
+
+
+DER KNABE.
+ Der Führer des Bardenchors Werdomar. Bist du nicht der alte Siegmar, Hermanns Vater?
+
+
+SIEGMAR.
+ Kennst du mich schon, Knabe?
+
+
+DER KNABE.
+ Ach, Hermanns Vater! Streit wie Wodan, Hermanns Vater! Zu den andern Opferknaben. Stellt euch zum Kriegstanze!
+
+
+
+ZWEI BARDEN
+
+Der eine spielt, der andere singt.
+
+
+
+ Die Knaben tanzen.
+
+Trocknet die Wunden der Streitenden!
+Sauget, Mütter und Weiber, das schöne Blut der Schlacht!
+Flechtet, Mädchen, das heilige Laub des Eichenhains
+Für die Schläfe des Siegers!
+
+
+
+Die Bräute warteten auf ihn: nun ist er da, der große Tag!
+Windet, Bräute, nun Blumen zu Kränzen
+Um euer fliegendes Haar.
+Die blutigere Lanze der Geliebten verkündet den nahen Sieg!
+
+
+
+BRENNO.
+ Ist Dieß der Platz zum Opfer, Siegmar?
+
+
+SIEGMAR.
+ Ja, und auch zum Kriegsgesang. Denn dort unten ist das Thal, von welchem ich mit dir sprach, und hier gingest du mitten durch meine Cherusker. Die letzte Nacht, Barden, da ihr näher bei den Römern wart, machten sie die Bardenburg, und ihr habt gewiß daran gedacht, daß ich euch sagte, sie müßten heut' an der blutigsten Stelle der Schlacht lang' aushalten!
+
+
+BRENNO.
+ Was sagst du, weiser Greis? werden wir in dieser furchtbaren Schlacht siegen, die nun schon über den dritten Mittag fortdauert?
+
+
+SIEGMAR.
+ Wenn die Götter mit uns sind, und wenn unsre Söhne fechten!
+
+
+BRENNO.
+ Es ist ein ernstvoller Tag!
+
+
+SIEGMAR.
+ Mit dem Niedergange der Sonne ist es entschieden, oder ich kenne meinen Sohn Hermann nicht.
+
+
+BRENNO.
+ Also heut noch Sieg oder Sklaverei!
+
+
+SIEGMAR.
+ Oder Tod! wolltest du sagen.
+
+
+
+BRENNO.
+ Bringt bemooste Steine und baut den Altar wieder auf.
+
+
+Einige Druiden gehen ab.
+
+
+
+
+EIN DRUIDE.
+ Was willst du für ein Opfer haben, Brenno?
+
+
+BRENNO.
+ Wer hat unter euch den schärfsten Blick und den schnellsten Pfeil?
+
+
+EIN BARDE.
+ Sieh diesen au, wie er blinkt. Er überholt aber auch den Sturm aus dem hohen Nord.
+
+
+BRENNO.
+ Einen Adler, schwarz, groß, mit der Flamme im Blick.
+
+
+Der Barde geht.
+
+
+
+
+SIEGMAR
+
+zu Horst.
+
+ Steig' an dem Felsen hinab. Es ragt da ein Ueberhang hervor, von dem du weiter an dem Walde hinuntersehen kannst. Sobald du eine Cohorte erblickst, die nicht flieht, sondern in Schlachtordnung vorrückt, so komm wieder herauf.
+
+
+Horst geht.
+
+
+
+
+BRENNO
+
+zu Siegmarn.
+
+ Ein Adler soll heut Wodans Opfer seyn.
+
+
+SIEGMAR.
+ Hermann, denk' ich, legt auch Adler bei dem Altar nieder. Und vielleicht, daß Wodan meinen Cheruskern und mir auch einen gewährt.
+
+
+BRENNO.
+ Willst du denn auch in die Schlacht gehen?
+
+
+SIEGMAR.
+ Du hättest mich fragen sollen, warum ich noch nicht darin gewesen bin, und so hätte ich dir vielleicht geantwortet, vielleicht auch nicht!
+
+
+BRENNO.
+ Ich seh, du hast dich und deine kühnen Jünglinge für die blutige Stunde der Entscheidung aufbehalten. Ehrwürdiger Greis, es ist genug, wenn du Befehl hinunter sendest.
+
+
+
+SIEGMAR.
+ Der todesnahe Befehl, dem der Wurf der Lanze folgt, hat mehr Gehorsam.
+
+
+BRENNO.
+ Trifft denn dein Arm noch?
+
+
+SIEGMAR.
+ Nah trifft er.
+
+
+BRENNO.
+ Aber, wenn Hermann auch fällt, wer soll dann Führer unsrer Heere seyn?
+
+
+SIEGMAR.
+ Wer Muth genug hat, Hermann zu gleichen. Denn, ach, mein Sohn – ich mag weder den Namen, den ich ihm gab, aussprechen, noch den sie ihm gaben – er ist unter den Römern.
+
+
+BRENNO.
+ Flavius meinst du?
+
+
+SIEGMAR.
+ Warum sprachst du den Namen eines Verräthers an diesem großen Tage aus?
+
+
+BRENNO.
+ Du mußt nicht in die Schlacht gehn, Siegmar.
+
+
+SIEGMAR.
+ Und du nicht opfern, Brenno.
+
+
+BRENNO.
+ Also bist du völlig entschlossen?
+
+
+SIEGMAR.
+ Bei Wodan! frag mich nicht mehr.
+
+
+Die wiederkommenden Druiden fangen an den Altar zu baun.
+
+
+
+
+BRENNO.
+ Aber, wenn du nun gefallen bist, und Hermann auch, was sollen dann wir thun?
+
+
+SIEGMAR.
+ Fliehn.
+
+
+BRENNO.
+ Stolzer Mann! streiten können wir nicht, wie ihr, aber sterben können wir. Verwünschungen will ich den Römern mit meinen Barden von Wodans Altar entgegen singen und sterben!
+
+
+SIEGMAR.
+ Die Römer zucken ihre Schwerter auf Priester nicht.
+
+
+BRENNO.
+ Wir haben auch Schwerter! Soll ich der erste Druide eines unterjochten Volkes seyn?
+
+
+SIEGMAR.
+ Unterjocht nicht, denn sie können nur sehr kümmerlich siegen, wenn sie siegen. Und werden sie denn 
+etwa siegen? Sterben sollen sie! Die Schlacht des Ariovist und ihrer Beile Klang rufen ihnen laut den Tod zu!
+
+
+BRENNO.
+ Du bist ein kühner Mann, Hermanns alter Vater! Ich neide dich, ehrenvoller Greis!
+
+
+SIEGMAR.
+ Dank sey's den Göttern, daß mein Sohn noch kühner ist! Die Römer kannten diesen Jüngling nicht: nun lernen sie ihn kennen; jetzt in diesem Augenblick, da ich von ihm rede, Brenno, lernen sie ihn immer mehr kennen!
+
+
+BRENNO.
+ Und was willst du denn thun?
+
+
+SIEGMAR.
+ Man sagt nicht, was man thun will, man thut!
+
+
+BRENNO.
+ Du weißt, wie ich dich ehre. Red' also mit mir davon.
+
+
+SIEGMAR.
+ Du bist kein Krieger, ich kann mit dir davon nicht reden.
+
+
+BRENNO.
+ Du führst, wer in Cheruskawald am Kühnsten ist. Du willst sterben, ehrenvoller Mann!
+
+
+SIEGMAR.
+ Wenn die Götter es wollen, so will ich es auch. Ich werde wie in meiner Jugend streiten, mich wagen, wie ehmals, nicht mehr und nicht weniger!
+
+
+BRENNO.
+ Aber du wirfst die Lanze nicht mehr wie vordem.
+
+
+SIEGMAR.
+ Spielen denn die schnellen Jünglinge, meine Kriegsgefährten, mit ihren Lanzen?
+
+
+BRENNO.
+ Ich seh', ich muß einen bittern Abschied von dir nehmen, wenn du zur Schlacht hinunter gehst.
+
+
+SIEGMAR.
+ Abschied auf einige Stunden oder auf einige Jahre, Das ist, däucht mich, fast einerlei.
+
+
+BRENNO.
+ Bringst du das Opfer schon?
+
+
+DER BARDE.
+ Es war schön anzusehn, wie er hoch aus der Luft mit dem blutigen Pfeil' herunterfiel; aber nun ist sein Flammenblick verloschen, mit dem er Römerleichen suchte.
+
+
+BRENNO.
+ Fördert den Altar, Druiden!
+
+
+
+SIEGMAR.
+ Reich mir den Adler, Barde. Er hält den Adler in die Höhe. Nun, Wodan, laß die andern des Bluts der Säuglingsmörder trinken!
+
+
+Ein Druide nimmt den Adler von Siegmarn und legt ihn vor den Altar.
+
+
+
+
+BRENNO.
+ Ihr Druiden! und ihr Barden! es ist heut' ein feierlicher Tag. – Ich bin alt geworden und habe noch keinen solchen Tag erlebt! – Wir müssen heut mit mehr Ernst, als jemals, opfern. Wodan fließt viel Römerblut, aber Jupitern auch deutsches.
+
+
+EIN DRUIDE.
+ Brenno, der Altar ist gebaut!
+
+
+BRENNO.
+ Breitet den Adler zum Opfer aus. Weihet die Flamme und bringt sie in der großen Opferschale. Einige Druiden gehen ab. Opfert sehr ernstvoll, Druiden! und ihr, o Barden, überlaßt euch heut' eurer Begeistrung ganz! Unsre Väter und Brüder bluten! Eure Gesänge stärken des Streitenden Arm. Viel Blut der Eroberer müsse heut durch eure Gesänge fließen! Die wiedergekommenen Druiden setzten die Schale mit dem Feuer vor dem Adler nieder. Auf beiden Seiten des Altars stehen die Druiden, und bei den Felseneingängen die Barden. Brenno tritt vor den Altar. Beginnt, Chöre!
+
+
+Indem die Musik der Instrumente gehört wird, heben zwei Druiden die Schale mit dem Feuer, und zwei andre den Adler auf; vor ihnen tanzen die Opferknaben. Sie und die andern Druiden gehen zweimal um den Altar, Brenno zuletzt. Sobald sie still stehn, wird der Adler in das Feuer geworfen.
+
+
+Die Barden. Alle.
+
+
+O Wodan, der im nächtlichen Hain.
+Die weißen siegverkündenden Rosse lenkt,
+Heb' hoch mit den Wurzeln und den Wipfeln den tausendjährigen Eichenschild.
+Erschüttr' ihn, daß fürchterlich sein Klang dem Eroberer sey!
+
+
+
+
+
+Ruf' in des Widerhalls Felsengebirg
+Durch das Graun des nächtlichen Hains,
+Daß dem Streiter vom Tiberstrom'
+Es ertöne wie ein Donnersturm!
+
+
+
+Wink deinen Adlern, die mehr als ein Bild
+Auf einer hohen Lanze sind!
+Flamm' ist ihr Blick und dürstet nach Blut!
+Sie verwandeln Leichen in weißes Gebein!
+
+
+
+Die Räder an dem Kriegeswagen Wodans
+Rauschen wie des Walds Ströme die Gebirg' herab!
+Wie schallt der Rosse gehobener Huf!
+Wie weht die fliegende Mähn' in dem Sturm!
+
+
+
+Der Adler Heerzug schwebet voran,
+Sie blicken herab auf die Legionen.
+Wie schlägt ihr Fittig, wie tönt ihr Geschrei:
+Laut fordert es Leichen von Wodan!
+
+
+
+Wodan! unbeleidigt von uns,
+Fielen sie bei deinen Altären uns an!
+Wodan! unbeleidigt von uns,
+Erhoben sie ihr Beil gegen dein freies Volk!
+
+
+
+Weit halle dein Schild! dein Schlachtruf töne,
+Wie das Weltmeer an dem Felsengestade!
+Furchtbar schwebe dein Adler und schreie nach Blut und trinke Blut!
+Und die Thale des heiligen Hains decke weißes Gebein!
+
+
+
+
+SIEGMAR.
+ Der Gesang hat mein Herz erquickt. Es ist seit langer Zeit der erste, den ich wieder in einer Römerschlacht höre. Denn in unsern Schlachten mit uns blutet mir mein Herz, und ich mag dann den Bardengesang nicht hören. Schneidet mir den Eichenzweig: ich will mein Haupt, heut das erste Mal zu früh, mit dem heiligen Laube kränzen.
+
+
+Ein Druide geht.
+
+
+
+
+BRENNO.
+ Da die Barden mit Hermann in dem Lager der Römer gewesen waren, und hernach mit uns bei dem Opfermahl, wo Hermann den großen Eid zu Mana schwur, da dichteten sie gegen die Römer ein heißes Vaterlandslied. Ich habe das Rasen ihrer Hörner gehört, als sie es sich einander sangen.
+
+
+SIEGMAR.
+ Singt's, Barden!
+
+
+WERDOMAR.
+ Wir müssen erst das heilige Laub um deine Schläfe sehn. Er ruft es in den Wald. Komm! komm! schneid' eilend den Zweig! Nachdem der wiedergekommene Druide den Kranz um Siegmars Haupt gewunden hat. Siegmar, dein Silberhaar schmückt den heiligen Kranz.
+
+
+SIEGMAR.
+ Mach mich in meinem Alter nicht stolz, Werdomar. Nun denn! ich will heut' auch stolz seyn: denn Augustus soll es nicht seyn, wenn er von dieser Schlacht hört, aus der wir ihm der Boten nicht allzuviel schicken wollen. Aber, wenn es denn der Kranz nicht thut, Werdomar, Blut würde doch das graue Haar des alten Mannes schmücken? Doch beginnt euer Lied, Barden.
+
+
+ZWEI CHÖRE.
+
+In Thuiskons Hainen gehöret ihr Wodan!
+Er erkor sich euch zum Opfer in dem Thal!
+Wie Schlangen zischt in dem Opfer die Flamme nicht!
+Doch raucht es im Thal'! es raucht von Blut!
+
+
+
+
+
+Todt gehöret ihr Jupiter!
+Zehntausend nehm' er seiner Donner
+Und send' euch des Abgrunds Richtern,
+Rhadamanthus und Minos, zu!
+
+
+
+DREI CHÖRE.
+
+Göttinnen Diren, Alekto Furie!
+Schwingt eure Fackeln hoch, wie sie ihr Beil,
+Und treibt sie, Gespielen des Donners,
+Vor des Abgrunds Richter!
+
+
+
+Flammen stürzt aus der Urne Kocytus,
+Der Hölle Strom!
+Töne dumpf, o Strom, in den Richterausspruch
+Der ernsten Götter!
+
+
+
+ALLE.
+
+Von hier, von hier, es rufet von hier
+Der Mütter und Säuglinge Blut euch nach!
+Und Keiner entflieht dem Geschrei des Bluts,
+Und Keiner entflieht.
+
+
+
+ZWEI CHÖRE.
+
+Aber in der Stadt des hohen Capitols
+Leben der Tyrannen Bruder noch!
+Wie ein Meer, braust ein zahllos Volk um die sieben Hügel her,
+Tyrannen des Aufgangs und des Niedergangs!
+
+
+
+ZWEI BARDEN.
+
+Die Druiden warfen der Lebenden Los
+Bei Mana's Altar!
+Fluch war das Los!
+Sprecht, Barden, den Fluch der Lebenden aus!
+
+
+
+
+ZWEI CHÖRE.
+
+Entartet, Romulus Enkel, und gleicht
+Bei dem Wollustmahle dem Thier'!
+Es entnerve den Arm, der die Lanze männlich warf!
+Und früher ruf' es den Tod!
+
+
+
+Bildet eure Götter euch immer gleicher und feiert,
+Also getäuscht, das taumelnde Fest!
+Hinter dem Rebenstabe laure Verderben!
+Verderben hinter der Myrthe!
+
+
+
+Ein Hauptmann kommt.
+
+
+
+
+DREI CHÖRE.
+
+Kriecht um den hohen Augustus!
+Macht ihn um Gott' und weihet ihm Priester!
+Räuchert auf dem Altar
+Des hohen Augustus!
+
+
+
+Kein Scipio werd' euch geboren,
+Kein Gracchus geboren,
+Geboren kein Cäsar!
+Flucht Brutus Gebein!
+
+
+
+ALLE.
+
+Wir hören, hören die Barden Walhalla's,
+Sie ruhn auf ehernen Stühlen, mit heiligem Laube gekränzt.
+Sie rauschen in den Harfen und singen mit uns
+Den Römern Verwünschungen zu!
+
+
+
+SIEGMAR.
+ Wer bist du, Hauptmann?
+
+
+DER HAUPTMANN.
+ Ein Katte. Zu Brenno. Unser Fürst sendet mich zu dir herauf, ich bringe dir seinen Dank, daß du hier opferst und hier singst. Wir haben die hohe Flamme gesehn und den Gesang in den Felsen des Widerhalls gehört. Ihr habt unsre Jünglinge so entflammt, daß sie aus 
+dem Gebüsch' heraus gestürzt wären, hätte unser Fürst sich nicht mit seinem ganzen Ansehn gegen sie gestellt. Ich ging mitten durch deine Cherusker, Siegmar. Sie schlagen an ihre Schilde und rufen sich mit wüthender Freude laut zu, und doch stehn sie wie die Eiche eingewurzelt. Deine Hauptleute übertreffen heut sogar die unsern. Sie halten den heißen Durst nach der Schlacht besser aus.
+
+
+SIEGMAR.
+ Du hast den Blutring noch, Hauptmann?
+
+
+DER HAUPTMANN.
+ Es ist der fünfte! Meine Todten sind Römer.
+
+
+SIEGMAR.
+ Ließ euer Fürst Kriegshaar zu unsrer Befreiung wachsen?
+
+
+DER HAUPTMANN.
+ Du weißt, mit welchem Blick' er schwieg, da Hermann bei Mana schwur. Sein Gesicht ist seitdem wie in einem Gewölk', und er will's nur über liegenden Adlern enthüllen.
+
+
+SIEGMAR.
+ Ha, Das wußt' ich von dem Schweiger nicht, daß ihm so viel Feindesblut fließen sollte. Weh den Cohorten auf eurer Seite! Höre, Hauptmann, sage deinen Jünglingen und meinen, daß heut' ein sehr festlicher Tag ist! Ihr sollt noch mehr Gesang hören! Und der Thaten, weissage ich euch, werdet ihr nicht weniger thun, und Das, eh der heilige Mond aufgeht. Der Hauptmann geht ah. Singt meinen Jünglingen, Barden!
+
+
+ZWEI BARDEN.
+
+Hinter euch hält Thusnelda,
+Mit dem Köcher der Jagd.
+Jung und leicht und lichtbraun
+Stampfen die Erde vor dem eisernen Wagen die Rosse Thusnelda's.
+
+
+
+
+ZWEI ANDRE.
+
+Hinter euch hält Bercennis
+Mit ruhevollem Gesicht
+Ihr schützet, ihr schützet, Cherusker,
+Hermanns Mutter und Weib!
+
+
+
+EIN CHOR.
+
+Gesang, verschweig's den kühnen Jünglingen nicht!
+Froh werden sie hören die Götterbotschaft!
+So schöpfet die labende Schattenquelle
+Der Weidner, da er endlich in den Klüften sie fand.
+
+
+
+ALLE.
+
+O Söhne der Alten, die Kriegesnarben
+Tragen im hohen Cheruskawald'!
+O Jünglinge mit den Blumenschilden,
+Die das heilige Los erkor und Siegmar führt!
+
+
+
+Ihr seyd es, ihr seyd's, ihr werdet in breiterem Thal'
+Entgegen den Legionen gehn,
+Werfen den schnellen Wurf, gerad' in das Antlitz der Römer,
+Die Schilde von Erz vorbei!
+
+
+
+Gerad' in das Herz, von Siegmar geführt,
+Zu rächen die Frühlingstänze, zerstäubt durch Waffenklang,
+Die Thräne der Braut, den hülferufenden Knaben,
+Des Greises sterbenden Blick, geführt von Siegmar!
+
+
+
+SIEGMAR.
+ Die Legionen säumen lange! Wenn ich nur erst euer Lied unten im Thal' hörte! Dort, denke ich, soll es noch besser hinunter schallen, als es hier durch den dicken Wald den Cheruskern zuschallt.
+
+
+WERDOMAR.
+ Der Wald hält das Rufen der Hörner nur wenig auf. Ich habe deinen Namen in der Kluft des Widerhalls gehört.
+
+
+
+SIEGMAR.
+ Nun, Barden, fahrt fort und laßt die Namen der Tyrannen und unsre Namen in allen Felsen des Widerhalls laut tönen. Ihr helft uns siegen, edle Jünglinge! Euer Gesang fliege den blutigen Flug der Lanze!
+
+
+EIN HAUPTMANN.
+ Hermann schickt dir diesen Helm, Siegmar. Es ist des kühnen Eggius Helm. Er bittet dich, daß du nicht eher mit deinen Jünglingen hervorbrecht, als bis die Legion bei dem großen Quell' ist. Er hat auch zu den Katten und Marsen gesandt. Er hofft, ihre Fürsten werden, ehe die Legion bis zum Quell kömmt, nicht wenig in ihren Seiten gewüthet haben. Er hat Einen von uns auf einen Felsen gestellt, von dem man in das ganze Thal hinab sehen kann. Sobald du angreifst, will auch er, durch einen neuen Angriff, den sechs Cohorten im Rücken der Legionen den Beistand wehren. Diese Cohorten sind lauter Veteranen und haben die wenigsten Todten. Hermann ruht jetzt und läßt die Wunden saugen.
+
+
+SIEGMAR.
+ Ist Eggius todt?
+
+
+DER HAUPTMANN.
+ Hermann hat auch seine Lanze.
+
+
+SIEGMAR.
+ Das hab' ich auch um meinen Sohn verdient, daß er mir diese Erstlinge des Siegs zuschickt. Denn ich lieb' ihn. Ha, Brenno, Das ist reiche Beute, wie sie der Römer Jupiter bringt. Wodan soll auch reiche Beute haben, Brenno!
+
+
+Er legt den Helm an den Altar.
+
+
+
+
+
+
+
+
+
+3. Szene
+
+
+
+
+Dritte Scene
+
+HORST.
+ Siegmar, sie kommen! Eine Cohorte rückt kühn vor. Er und Hermanns Hauptmann geben sich die Hand. Wie geht's uns?
+
+
+DER HAUPTMANN.
+ Wie es kaum den Parthern gegangen ist!
+
+
+
+SIEGMAR
+
+zu dem Hauptmann.
+
+ Jüngling, ja bein Quell! geh! Nun, so kommen sie denn endlich! – Kühn, sagtest du? Taumelt's in ihren Seiten nicht?
+
+
+HORST.
+ Ja, die Seiten schwanken, und der Helme sinken dort viele ins Blut; aber der Lebenden seyn nach den Todten nicht hin.
+
+
+SIEGMAR.
+ Bald sollen sie noch mehr vorwärts sehn! Die erflehte Stund' ist gekommen, Wodan. Jüngling, Jüngling, du sangst mir ein Walhallalied! Sie kommen! Gehab dich wohl, mein alter Freund.
+
+
+BRENNO.
+ So muß ich denn den bitteren Abschied nehmen.
+
+
+SIEGMAR.
+ Du scherzest, alter Mann. Abschied? ein Greis von einem Greise? Laß mir die Opferknaben ... Kommen noch mehr Cohorten, Horst?
+
+
+HORST.
+ Noch eine kömmt sehr blutig und sehr langsam.
+
+
+SIEGMAR.
+ Brenno, laß mir die Opferknaben das Lanzenspiel tanzen! Ich muß es noch einmal sehn. Es könnte ja wohl seyn, daß ich es nicht wieder säh'.
+
+
+DER ÄLTSTE OPFERKNABE.
+ Es ist Niemand hier, der die Lanzen werfen kann.
+
+
+SIEGMAR.
+ Tanzt nur ohne Wurf.
+
+
+Sie legen die Schilde und die Lanzen weg.
+
+
+
+
+EIN BARDE.
+
+Blinkt, Lanzen, ihr schreckt sie nicht!
+Die Väter lächeln sie an, und schneller tanzen sie durch!
+So seht ihr, o Väter, sie einst
+Im ernsteren Reihn der Schlacht!
+
+
+
+SIEGMAR.
+ Es ist genug. Brenno, sag meinem Sohn' Hermann, daß mich Wodan endlich auch der Schlacht gewürdigt hat!
+
+
+BRENNO.
+ Ich soll es ihm sagen?
+
+
+
+SIEGMAR.
+ Nun, vielleicht sage ich es ihm selbst. Kommen noch mehr Cohorten, Horst?
+
+
+HORST.
+ Die beiden Cohorten halten und richten Manipeln gegen den Wald.
+
+
+SIEGMAR.
+ Stehst du den Adler schon?
+
+
+HORST.
+ Ich seh' ihn noch nicht.
+
+
+SIEGMAR.
+ Brenno, du erlebst eine schöne Nacht!
+
+
+BRENNO.
+ Erleb', erlebe sie auch, du Freund meiner Jugend und meines Alters! Ach, Siegmar, etwas Trübes, eine Ahnung schwebt vor mir. Mich dünkt, ich werde dich nicht wiedersehn.
+
+
+SIEGMAR.
+ Und mich ahnet's, daß du mich wiedersehn wirst.
+
+
+BRENNO.
+ Wiedersehn denn, aber nicht lang! Wo willst du, daß ich dich begrabe?
+
+
+SIEGMAR.
+ Drei Grabstätten wären.
+
+
+BRENNO.
+ Warum siehst du deine Lanze mit diesem besondern Lächeln an?
+
+
+SIEGMAR.
+ Weil sie blutig besser aussehn wird! und Das bald! und weil ich mehr an Varus Tod denke, als an meinen. – Drei Grabstätten wären mir lieb. – Ich kann jetzt darunter nicht wählen. Entweder hier bei Wodans Altar – oder da, wo ein Adler vor den Cheruskern sinken wird oder auf dem Felsen, wo mir Bercennis meinen Sohn Hermann geboren hat.
+
+
+BRENNO.
+ Wo gebar sie dir den edeln Jüngling?
+
+
+SIEGMAR.
+ Auf dem hohen Berge Cheruska's entspringt ein Bach. Der stürzt durch den Bergwald herunter. Der zweite Fels des Thalwaldes, bei dem der Bach vorbeifließt, ist der Geburtsfels meines Sohns.
+
+
+HORST.
+ Drei Cohorten rücken schneller vorwärts!
+
+
+
+SIEGMAR.
+ Siehst du den Adler noch nicht?
+
+
+HORST.
+ O Siegmar, Siegmar, eben seh' ich ihn!
+
+
+SIEGMAR.
+ Nun gehab dich wohl, mein alter Freund! Der Adler schwebt!
+
+
+Sie geben sich die Hand.
+
+
+
+
+BRENNO
+
+nachdem Siegmar weg ist.
+
+ Ach, mein Freund Siegmar! Nun ist er hingegangen. – Jetzt gilt's Entscheidung. – Kommen die Katten schon aus dem Wald' hervor?
+
+
+EIN BARDE.
+ Sie ziehn sich, wie ein dicker Nebel, langsam in den Vorderbusch. Ihr kühner Fürst ist vorn. Ich seh' ihn rufen!
+
+
+BRENNO.
+ Blutig, blutig wird's entschieden werden! Kedmon, in der Bardenburg bist du näher bei den Legionen. Geh' hinab, o, bring' mir oft Botschaft, wie Wodan die Schlacht lenkt. Kedmon geht. Barden, tretet mehr seitwärts, dicht an den Rand des Felsen, daß der Kriegsgesang lauter ins Thal schalle. Wartet noch: bekränzt euch mit dem heiligen Laube, eh' ihr anfangt. Unsre Krieger unten sollen euch bekränzt sehn, wenn sie herauf sehn. Geht, Druiden, schneidet ihnen den Zweig. Mein Herz schlägt mir laut vor Freuden, Druiden! Einen Tag, wie dieser ist, erlebt man nur einmal! Aber, ach, mein alter Freund, Siegmar! Ich hört' ihn oft von der Schlacht des Ariovist erzählen. Er konnte das Blut der Jünglinge nicht vergessen, mit denen er das Lanzenspiel getanzt hatte. Ihr habt's gehört, mit welcher Rache er es rächen will. Die Barden und Druiden kommen nach und nach zurück. Ach, wenn er nur nicht auch von dieser Schlacht heut' in Walhalla erzählt! Nun, ich höre ihn ja bald wieder erzählen! So ist es recht, so ganz vor an den Rand des Felsen. Von daher rufen eure Hörner lauter ins Thal. O Schlacht, Schlacht, blutige schöne Todesschlacht, wie ungestüm klopft mein Herz nach dir hin! Singt, Barden!
+
+
+
+DIE BARDEN
+
+sie bekränzen sich, indem der Gesang anfängt.
+
+
+
+ZWEI CHÖRE.
+
+Mit leichten blutigen Spielen begann die Schlacht.
+Wenig einsame Wolken zogen herauf,
+Bis auf Einmal der ganze Himmel
+Bedeckt ward von dem Wetter.
+
+
+
+Da stürzte von allen Seiten herab sein Donner!
+Und stürzt'! Euch wurde kein Ahnungsblick.
+
+In diese Ankunft!
+Wie hat euch des Stolzes Taumel getäuscht!
+
+
+
+EIN CHOR.
+
+Ihr schlummertet auf dem Lager der Blumen,
+Die wir euch streuten.
+Wir streuten sie hin; bei jeder wüthete heißer in uns
+Die Flamme des gerechten Zorns!
+
+
+
+EIN ANDRES CHOR.
+
+Nun verkennet ihr endlich nicht mehr
+Thuiskons kühnes Volk!
+Sie wüthet, sie wüthet nun auch an der Spitze der Lanze,
+Die Flamme des gerechten Zorns!
+
+
+
+DIE BEIDEN CHORE.
+
+Laßt Botschaft leben, ihr Fürsten!
+Daß laut es erschall' im Capitol,
+Wie über dem furchtbaren Rhein in den heiligen Wäldern
+Wüthe die Flamme des gerechten Zorns.
+
+
+
+ZWEI BARDEN.
+
+Ihr Töchter der Fürsten, brecht Zweige zu dem Fest'
+Im innersten Schatten des Hains!
+Nun führen sie euch mit der goldenen Fessel nicht
+Vor dem Wagen des Triumphs!
+
+
+
+
+EINER.
+
+Tochter Siegmars, tritt du voran!
+Tritt, Hermanns Weib, Thusnelda, voran!
+Nun führen sie dich mit der goldenen Fessel nicht
+Vor dem Wagen des Triumphs!
+
+
+
+ALLE.
+
+Dumpf tönt durch das Graun der Nacht daher der Wagen des Todes;
+Vor ihm geht Varus; der Wagen rasselt
+Walhalla vorbei, kracht hinab
+Zu dem Strom Kocytus!
+
+
+
+BRENNO.
+ Wo säumt Kedmon? Sieht Keiner von euch dort, die am Anhange stehn, wie sich die Schlacht wendet?
+
+
+ZWEI BARDEN
+
+fast zugleich.
+
+ Ueberall blutig! Blut überall! nichts entschieden!
+
+
+BRENNO.
+ Warne sie, Werdomar!
+
+
+ZWEI CHORE.
+
+Stolz auf Feldherrnweisheit,
+Rufet der heilige Bardengesang euch zu:
+Haltet es nicht Sieg,
+Daß ringsumher sie Wasser und Wald, und ihr sie einschließt!
+
+
+
+So lauge noch eine der Legionen
+Mit ausgebreiteten Armen hertritt
+Oder blutig schwankt,
+So streite dort das Hundert, das Heer,
+
+
+
+Wie mit den ersten Waffen der Jüngling,
+Schnell, mit gehaltnem Ungestüm,
+Mit wählendem Blick' und gemess'nem Sprung,
+Kalt und kühn, des heiligen Laubes werth!
+
+
+
+
+DREI CHÖRE.
+
+Es schwebe vor euch der Tag der Schmach
+Und des weiseren Siegmars Thräne,
+Da, den ihr liebtet und verfluchtet,
+Drusus euch entrann!
+
+
+
+In tieferem Thal' und vor jedem Tritt' umringt,
+Stand des Römers schweigendes Heer.
+Mit Stolz, der verachtete,
+Spieltet ihr gegen ihn hin; er schlug und entrann!
+
+
+
+Er hat Denkmale der Schmach gebaut,
+Die vom fernen Gebirge der Wanderer Galliens sieht.
+Am Zusammenfluß der Ströme steht Aliso
+Gleich der Eiche, die andern wie Tannen am Rhein' hinab.
+
+
+
+ALLE.
+
+Dann erst habt ihr gesiegt,
+Wenn lauggestreckt und stumm in dem Thale liegt
+Roms Heer, der Riese, mit keiner Cohorte mehr zuckt,
+Und den Mond verdunkelt in Fliehn sein Schatten!
+
+
+
+BRENNO.
+ Noch immer kommt Kedmon nicht! Werdomar, sing nun dem Heere von den Thaten seiner Väter.
+
+
+EIN CHOR.
+
+Höret Thaten der vorigen Zeit!
+Zwar braucht ihr, euch zu entflammen, die Thaten der vorigen Zeit nicht;
+Doch tönen sie eurem horchenden Ohr,
+Wie der Jägerin Geschrei, die triefen das Blut des Wildes sieht.
+
+
+
+ZWEI CHORE.
+
+Von Römerrossen bebte die Erde!
+Funfzig waren der kommenden Hunderte!
+
+
+Wir waren acht der Hunderte nur
+Und hörten ihn wohl, den dumpfen Todeston!
+
+
+
+Lauter wie der Schlag des Hufs
+Ward auf Einmal unser Kriegsgeschrei!
+Wir flogen daher
+Gegen die Tausende!
+
+
+
+Wie weheten die Mähnen! wie wölkte sich der Staub!
+Wie schäumten die kleinen Heerden des Felsenwalds!
+Ueber dem Strome wieherten die andern und weideten
+An des Ufers Schilfgeräusch.
+
+
+
+Noch wurde kein Römerrücken gesehn!
+Noch sprengten sie hoch gegen uns her!
+Zum Tode trafen die fliegenden Lanzen.
+Auch Deutsche sanken blutend ins Gefild!
+
+
+
+DREI CHÖRE.
+
+Da sprangen wir herab von den Rossen!
+So stürzt aus der Höh sich der Geier herab!
+Auf Einmal wütheten wir unter ihnen!
+Von schwarzem Blut troff ihr sinkend Roß.
+
+
+
+Die stolzen Turmen flohn!
+Nach uns her flatterten die Mähnen!
+Nach uns her wölkte sich der Staub
+Der stolzen Turmen!
+
+
+
+Schon hatten wir auf die Heerden des Felsenwalds
+Uns wieder geschwungen!
+Wir trieben die Geschreckten vor uns her,
+Auf langen Gefilden, durch Bach und Strauch vor uns her,
+
+
+
+
+
+Bis dicht an die Lanzen der Legionen,
+Bis hin, wo der Adler Flügel schatteten,
+Nah' hin vor den verwunderten finstern Blick
+Des Stolzesten unter Romulus Söhnen!
+
+
+
+EIN BARDE
+
+er ruft.
+
+ Wir helfen siegen! Ich seh es! ich seh's!
+
+
+EIN ANDERER BARDE.
+ Bei Wodan und Braga, Das thun wir!
+
+
+EIN CHOR.
+
+Höret Thaten der vorigen Zeit!
+Zwar braucht ihr, euch zu entflammen, die Thaten der vorigen Zeit nicht,
+Doch tönen sie eurem horchenden Ohr,
+Wie das Säuseln im Laube, wenn die Mondennacht glänzt.
+
+
+
+ZWEI CHÖRE.
+
+Mit dem Frühlingssturm schwamm über den Rhein
+Der Deutschen Heer,
+Der Jüngling auf dem Ross' und ohn Roß, der Greis im Kahn,
+Nach des Stromes hohem Ufer hin!
+
+
+
+Die fliehende Legion
+War uns nicht schnell genug!
+Wir kamen dicht an ihren Rücken heran
+Und verstreuten und tödteten sie!
+
+
+
+Er hatte des Windes Eil,
+Der Adlerträger!
+Doch der Lanzen eine stürzt' ihn hin, und der Adler schwebte
+Unter dem schimmernden Flugel des Nachtgefährten!
+
+
+
+
+
+Roß und Mann sendete Roms Feldherr
+Gegen uns her. Es waren der hohen Turmen viel!
+In dem ganzen Lager wieherte kein Roß,
+Als nur das Lasten trug.
+
+
+
+Still war der Hinterhalt,
+Wie es unter den Espen der Gräber ist.
+So war nicht das Kriegsgeschrei,
+Da von allen Seiten das Heer auf die Turmen fiel!
+
+
+
+Wir rötheten weit umher den Sand!
+Wenige nur entrannen in des Feldherrn Lager!
+Schnell sahn wir das Lager vor uns, doch schreckt' es uns nicht!
+Der Feldherr entfloh mit den Legionen!
+
+
+
+EIN CHOR.
+
+Höret Thaten der vorigen Zeit!
+Zwar braucht ihr, euch zu entflammen, diese Thaten nicht,
+Doch tönen sie eurem horchenden Ohr,
+Wie die Stimme der Braut, wenn sie Blumen euch bringt.
+
+
+
+ALLE.
+
+Der Donnerer des Capitols
+Legt' in dem Gefilde Pharsalia
+Auf seine furchtbare Wage
+Cäsars Schicksal und Pompejus Schicksal und wog.
+
+
+
+DREI CHÖRE.
+
+Die Ritter Pompejus und des Senats saßen im hohen Zelt'.
+In dem durch Epheu die Kühlung und durch Myrthen wehte!
+Sie saßen und siegten und tranken aus Golde
+Falernergift!
+
+
+
+
+
+Da rufte die Trompete zu der Schlacht!
+Die Ritter schwangen sich schnell auf die brausenden Rosse
+Und zogen sich dicht an den linken Arm der Legionen,
+Gleich einem finstern Walde.
+
+
+
+Da suchte der fliegende Blick
+Des künftigen Dictators
+Die Blumenschild' in dem Heer,
+Die leichten Lanzen in dem Heer.
+
+
+
+Wir folgten mit freudigem Tanz' ihm nach:
+Denn wir sahen's, er dachte groß von uns!
+Ihm nach, mit lautem freudigem Tanz, sechs deutsche Cohorten:
+Denn gegen die Edelsten Roms stellt' er uns hin!
+
+
+
+Die Ritter kamen, und Pharsalia scholl!
+Wir stürzten in den Wald hinein!
+Kein Schonen war! kein Schonen war!
+Sie starben oder entflohn in das ferne Gebirg!
+
+
+
+ALLE.
+
+Der Donnerer des Capitols
+Legt' in dem Gefilde Pharsalia
+Auf seine furchtbare Wage
+Cäsars Schicksal und Pompejus Schicksal und wog.
+
+
+
+Die Söhne Romulus stritten, und gleich schwebten die Schalen.
+Da eilten die Söhne Thuiskons herzu:
+Da sank, mit schnellem Uebergewicht,
+Die Schale Cäsars!
+
+
+
+
+
+
+
+
+
+4. Szene
+
+
+
+
+
+
+Vierte Scene.
+
+SEGEST.
+ Erhabner Priester Wodans, ich habe geglaubt zu einem Opfer zu kommen, denn der Sieg hat sich nun zu den Römern gewandt.
+
+
+BRENNO.
+ Ist Siegmar noch unter den Jünglingen, die er den Römern entgegenführte?
+
+
+SEGEST.
+ Er ist darunter, aber es schien gleichwohl, als ob sie sich zurückziehn wollten.
+
+
+BRENNO.
+ Sie scheinen sich zurück zu ziehn – um mit mehr Tode umzukehren, meinst du doch? Warum willst du bei dem Opfer seyn, Segest? und es nicht lieber von unten her aus der Schlacht sehn?
+
+
+SEGEST.
+ Ich nahm nicht viel Antheil an der Schlacht. Das Los hat meine kühnsten Jünglinge Siegmarn zugeführt. Ich fürchte, daß es ein Todeslos gewesen ist.
+
+
+BRENNO.
+ Sind denn deiner Hunderte so wenig?
+
+
+SEGEST.
+ Das sind sie nicht, aber es sind zu viel Alte darunter.
+
+
+BRENNO.
+ Ich kenne unsre benarbten Alten. Sie lieben die Schlacht! Und du .. Heut liebst du sie nicht.
+
+
+SEGEST.
+ Die Klugheit gebot mir, mich nicht weit vom Gebüsch zu entfernen.
+
+
+BRENNO.
+ Segest! gehört dein Herz deinem Vaterlande ganz zu?
+
+
+SEGEST.
+ Vielleicht ist mehr Vaterlandsliebe darin, als du glaubst, wenn ich immer gewünscht habe, daß wir Bundsgenossen der zu mächtigen Römer seyn möchten.
+
+
+BRENNO.
+ Bundsgenossen? Einen alten Mann und Wodans Priester unternimmst du durch Worte zu täuschen? Weichheit ist in diesem Wunsch' und zu heiße Lebensliebe.
+
+
+
+SEGEST.
+ Ja, alt bist du und denkst wie unsre jungen Fürsten!
+
+
+BRENNO.
+ Unglück über mich, wenn ich nicht wie unser ganzes Volk, Jugend und Alter, dächte!
+
+
+SEGEST.
+ Wenn du so fortfährst, so habe ich nicht viel mehr mit dir zu reden.
+
+
+BRENNO.
+ So habe denn wenig mit mir zu reden.
+
+
+KEDMON.
+ Die Götter sind mit uns. Die Römer arbeiten vergebens, vorzudringen!
+
+
+BRENNO.
+ Geh zurück.
+
+
+SEGEST.
+ Aber, o Brenno, wenn du die Römer kennen lernen wolltest, wie ich sie kenne, so würdest du die Sicherheit des Friedens dem ungewissen Kriege vorziehn.
+
+
+BRENNO.
+ Dein ganzes Volk will Freiheit, und du willst Sklaverei! Laß mich keine harte Worte gegen dich aussprechen.
+
+
+SEGEST.
+ Was wüthest du denn? Ich ließ mich ja überreden und nahm Antheil an dem Kriege.
+
+
+BRENNO.
+ Ein Fürst, und hast nicht selbst überredet! Doch, es war Keiner da, der Deß bedurfte. Warum bist du nicht in der Schlacht? und zwar jetzt, da sich der Sieg wendet, wie du glaubst? Ich seh' es, du traust keiner der Anworten, die du mir geben möchtest. Ich will meine Frage noch kürzer und dir die Antwort entweder leichter oder schwerer machen. Bist du ein Verräther, Segest?
+
+
+SEGEST.
+ Wie kannst du jetzt so heftig seyn, da du sonst so gesetzt bist?
+
+
+BRENNO.
+ Kanu ich bleiben, wer ich bin, da ich einen Fürsten der Cherusker vor mir sehe, der zur Zeit der Entscheidung nicht in der Schlacht ist, und in dessen Herzen es vielleicht von dem Entschlusse, zu den Römern überzugehen, 
+eben jetzt, jetzt hier vor mir, kocht und schäumt? Geh' über und thu' es gleich, damit wir ganz und bald wissen, was du uns bist.
+
+
+SEGEST.
+ Du nennest mich einen Verräther; betrugen sich denn etwa die andern Fürsten weniger schmeichelhaft gegen die Römer, als ich? Durst' ich sie denn nicht mit einschläfern helfen?
+
+
+BRENNO.
+ Hilf ihnen auch das Blut dieser Tyrannen vergießen, und ich will dir mit Reu gestehn, daß ich ein ungerechter Beschuldiger bin.
+
+
+SEGEST.
+ Wie kannst du Den einen Tyrannen nennen, welcher seine Freunde belohnt und, die es nicht seyn wollen, mit Weisheit und sanfter Strenge beherrscht?
+
+
+BRENNO.
+ Ist hier kein Hauptmann, durch den ich seine alten Cherusker bei den Wunden ihrer Söhne anflehen kann, daß sie den Benarbtesten unter ihnen zum Führer machen und sich in die Legionen stürzen?
+
+
+SEGEST.
+ Du bist sehr kühn, Druide.
+
+
+BRENNO.
+ Und du sehr zaghaft, Fürst, wenn du kein Verräther bist! Bleib', ich bin besänftigt.
+
+
+SEGEST.
+ Warum bist du auf Einmal besänftigt?
+
+
+BRENNO.
+ Beantworte mir meine Frage erst, so will ich dir deine auch beantworten. Wenn ich dir denn zugestehen soll, daß du deßwegen nicht in der Schlacht bist, weil du zu viele Alte unter deinen Hunderten hast, warum kamst du gleichwohl hierher, da du weißt, daß wir an einem Tage nur sehr selten zweimal opfern?
+
+
+SEGEST.
+ Konnte ich denn nicht au einem solchen Tage wie der heutige ist, das seltne Opfer vermuthen?
+
+
+BRENNO.
+ Warte, ich habe dich noch mehr zu fragen. Bist du nicht gekommen, um zu sehn, ob hier noch Hinterhalte 
+sind? Du fandest keine. So geh denn und geneuß deiner Hoffnung, bald wieder vor Varus zu kriechen! Ich verlange keine Antwort von dir! Und nun will ich dir auf deine Frage Antwort geben. Ich ward auf Einmal besänftiget, weil ich dich verachtete! Barden, dieser Verräther hat uns zu lang gehindert, den Sieg zu beschleunigen!
+
+
+SEGEST
+
+im Weggehen.
+
+ Spätes Blut ist auch Blut.
+
+
+BRENNO.
+ Was sagte er?
+
+
+EIN BARDE.
+ Er sprach von Blute.
+
+
+BRENNO.
+ Er hat dafür gesorgt, daß seins nicht fließen kann. Laßt ihn den fürchterlichen Klang unsrer Lieder hören. Sie helfen seiner Freunde Blut vergießen.
+
+
+ZWEI BARDEN.
+
+Sie erkühnten sich und legten sie an,
+Die friedliebende Toga,
+In der Deutschen Hainen,
+Die friedliebende Toga!
+
+
+
+Sie floß auf unsre Flur und wallt' empor
+Vom rauheren West!
+Doch wehet' er ihnen den Waffenklang
+Aus der Haine Schatten nicht zu.
+
+
+
+EIN CHOR.
+
+Ha, stolzes Beil, wir hörten deinen Klang,
+Wenn dich mit den Stäben der Lictor niederwarf!
+Du fordertest, stolzes Beil,
+Zu Todestönen die Lanzen auf!
+
+
+
+Sie tönen, die Lanzen, tönen nun die Todestöne
+Im Thale der ernsten Schlacht!
+Schon lange blinken die Lanzen nicht mehr,
+Sie bluten.
+
+
+
+
+
+Hell, wie der bildende Bach,
+Wenn er über den grünlichen Kiesel herabfällt,
+Blinken die Beile des Prätors
+Und bluten nicht mehr!
+
+
+
+ZWEI CHÖRE.
+
+Ihr mußtet sie nehmen, sie nehmen,
+Der Väter Bilder!
+Das Auge der Väter sieht nun trauernd nieder
+Auf eure Leichen.
+
+
+
+ZWEI ANDRE CHÖRE.
+
+Ihr mußtet sie nehmen, sie nehmen,
+Die hohen Adler!
+Jetzo schweben sie langsam fort
+Ueber euren Leichen.
+
+
+
+ALLE.
+
+Viel anders breiten den Flug um der Eiche Wipfel
+Die Adler Wodans!
+Ihr Auge blicket glühend herab
+Auf das Blut, das im Thale raucht!
+
+
+
+Ihr schattender Flügel schlägt, ihr durstendes Geschrei ertönt
+In dem Felsenhain.
+Weit hallen die Klüfte des Wiederhalls
+Von des Fluges Schlag und dem Todesgeschrei'!
+
+
+
+Horcht herauf, ihr Fürsten!
+Die Adler singen den Rachegesang,
+Um der Eiche Wipfel, an den Klüften des Hains
+Den lauten, schrecklichen Rachegesang!
+
+
+
+
+
+
+
+
+
+5. Szene
+
+
+
+
+
+
+Fünfte Scene.
+
+THUSNELDA
+
+mit zwei Hauptleuten.
+
+ Verzeih, Brenno, daß ich zum Altar komme, da nicht geopfert wird. Ein gefangner Römer hat uns mit der Nachricht geschreckt, daß Hermann verwundet sey. Der Ruf breitet sich immer weiter aus. Ich will von mir nicht reden; aber, wenn ihn nun die Cherusker hörten, die Siegmar zur Schlacht hinunter geführt hat!
+
+
+BRENNO.
+ Todesrache, Thusnelda, wie die wegen Hermann wäre, machte ihnen den eisernen Arm schwerer, stärker, die Lanze blutiger!
+
+
+THUSNELDA.
+ Ach, Brenno, Brenno! ist er denn wirklich verwundet?
+
+
+BRENNO.
+ Wann wurde der Gefangne gebracht?
+
+
+THUSNELDA.
+ Eben jetzt. Ich komme aus der nahen Bardenburg.
+
+
+BRENNO.
+ Es ist nicht lang' her, da Hermann zu Siegmar sandte. Der Hauptmann sprach von der Schlacht mit Siegmar.
+
+
+THUSNELDA.
+ Also ist er nicht verwundet?
+
+
+BRENNO.
+ Der Hauptmann sprach nur von der Schlacht. Du weißt, daß Hermann und unsre Hauptleute von der Wunde nicht reden, die nur blutet, und die ihnen ihre Stärke läßt.
+
+
+THUSNELDA.
+ Ich kenne dieß fürchterliche Aushalten. Wie oft wurde es tödtlich! Ach, Brenno, du verschweigst mir doch nichts?
+
+
+BRENNO.
+ Ich habe gesagt, was ich weiß. Aber warum glaubt ihr denn diesem Römer? Entweder kennt er Hermann nicht, oder er will uns zaghaft machen. Hermann 
+ist in nicht kleiner Gefahr, allein Das ist er, seitdem er bei Mana schwur. Und damals zittertest du ja nicht. Ich erinnere mich's sehr wohl, wie du in seine Arme liefst, die vom Schwur' heruntersanken.
+
+
+THUSNELDA.
+ Und ich erinnre mich, wie Die denken müsse, die Hermann gewählt hat! Sein Schicksal sey Wodan überlassen!
+
+
+EIN BARDE.
+ Ich seh' einen römischen Priester durch die Felsspalten heraufsteigen.
+
+
+BRENNO.
+ Du triffst sehr sicher, Werdomar. Nimm deine schnellste Lanze. Wenn der Priester still steht und herauf sieht und dann umkehrt, so tödt' ihn.
+
+
+WERDOMAR
+
+nach einigem Stillschweigen.
+
+ Jetzt scheint er mich zu sehn. Er arbeitet seitdem noch lebhafter durch das Gesträuch, um herauf zu kommen.
+
+
+THUSNELDA.
+ Schreckt ihn deine Lanze nicht?
+
+
+WERDOMAR.
+ So nachlässig, wie ich sie halte, kann sie ihn nicht schrecken. Er hat kein Römergesicht.
+
+
+
+
+
+
+
+
+6. Szene
+
+
+
+
+Sechste Scene
+
+SIEGMUND
+
+indem er herauf steigt.
+
+ Brenno! Brenno! ich überlasse mich ..
+
+
+THUSNELDA.
+ Ach, mein Bruder Siegmund!
+
+
+SIEGMUND.
+ Du bist hier, Thusnelda! Sey denn auch du Zeugin, meine Schwester! Brenno, ich überlasse mich dir ganz! Tödte mich auch ohne Los, aber erst nach der Schlacht. Die wenige Zeit, die sie noch dauern kann, will auch ich fechten! Habt ihr keine Waffen hier? Endlich, endlich haben mich die Götter hierher gebracht. Ich entschloß mich schon 
+damals, als ich Hermanns Schaaren und ihn das erste Mal aus dem Walde hervorkommen sah.
+
+
+BRENNO.
+ Welche Götter, Jüngling? der Römer? oder der Deutschen?
+
+
+SIEGMUND.
+ Unsre Götter hab' ich angefleht, und sie haben mir geholfen. Auf welcher Seite ist die Bardenburg? Dort werd' ich Waffen finden.
+
+
+Er reißt die Stirnbinde ab und wirft sie hin.
+
+
+
+
+BRENNO.
+ Bleib'!
+
+
+SIEGMUND.
+ Ach, Brenno! würdigst du meinen Arm keiner deutschen Lanze? Das ist hart. Das verdien' ich nun nicht mehr. Ich will ja nach der Schlacht sterben, wenn sie mich leben läßt. Wenn ich ein Schwert hätte, so schwür' ich euch laut bei dem Schwert', daß ich nach der Schlacht um die Lose nicht bitten will.
+
+
+BRENNO.
+ Da du Augustus Priester wurdest, schwurst du ihm da bei dem Schwert' oder bei dem Donnerkeil' in des Adlers Klaun? Bleib!
+
+
+SIEGMUND.
+ Peinige mich armen Jüngling nicht so. Ich bin ohne Das elend genug. Ach, ich bin umsonst wiedergekommen, wenn ich nicht in die Schlacht gehen darf!
+
+
+THUSNELDA.
+ Ach, versag' ihm dein Mitleid nicht länger, Brenno! Er ist ja wiedergekommen.
+
+
+BRENNO.
+ Wir haben sehr warnungsvolle Beispiele, Thusnelda! Ich führe nur eins an. Deines Hermanns Bruder, Flavius, ficht jetzt unter den Römern, wenn anders Wodans Rache den Verräther bis heut leben ließ.
+
+
+SIEGMUND
+
+er reißt einem Barden das Schwert von der Seite und hält's in die Höh.
+
+ Ich schwör' es euch Allen: Gleich nach der Schlacht will ich ohne Loswurf sterben. Er gibt das Schwert zurück. Ohne deinen Willen, Brenno, will ich keine Waffen haben.
+
+
+
+BRENNO.
+ Ich will dir denn traun und den Siegern sagen, wenn sie aus der Schlacht kommen, daß ich dich für redlich halte. Dieß wird dir bei ihnen für Thaten gelten, deren ohne Das wenige zu thun übrig sind.
+
+
+SIEGMUND.
+ Ich halte den Anblick der Sieger nicht aus, wenn ich nicht mit ihnen aus der Schlacht komme. Tödte mich jetzt hier.
+
+
+THUSNELDA.
+ Nimm ihn an, Brenno! Er ist nur in der Irre gewesen; ich hab' ihn edel gekannt.
+
+
+BRENNO.
+ Flavius, Flavius! und .. Du kennst die Menschen noch nicht, Thusnelda! Ich bin ein Greis geworden, ehe ich sie habe kennen gelernt. Die Menschen drüben über den Eisgebirgen meine ich: auch die meine ich, die unter ihnen ihre deutsche Stammart ausrotteten. Ha, Jüngling, ist dir noch Muth zu sterben übrig geblieben? Führt ihn hinunter an den Bach, weit von dem Auge seiner Schwester weg, und tödtet ihn!
+
+
+SIEGMUND.
+ Tritt heraus aus dem Haufen, mein Freund, der mich tödten will, daß ich dich umarme!
+
+
+BRENNO.
+ Gib ihm Waffen, gib ihm Waffen, Thusnelda! Such' ihm die besten Waffen aus, Thusnelda! Er ist unschuldig! Siegmund! Siegmund umfaßt Brenno's Knie. Steh' auf, mein Sohn! Ich will dich mit deinen deutschen Waffen sehn, Thusnelda's Bruder! Komm' hieher zurück. Du kannst von hier, die Felsen hinunter, in die Schlacht gehn! Waffen, wie sie Siegmar und Hermann tragen, sind schön. Ich will dich damit sehen. Gebt ihm den Blumenschild! Windet ihm den Eichenkranz um! Er hätte schon Thaten gethan, wenn er sich früher hätte losreißen können. Thusnelda und Siegmund gehen ab. Ich erschrecke noch davor, Druiden! Bald hätte ich diesen reuvollen Jüngling verurtheilt, 
+sein Volk und sich nicht an den Römern zu rächen. Saht ihr seinen Blick, mit welchem er nach Dem umher suchte, der ihn tödten sollte? Sein Todesentschluß war fest! Und wir haben dieser Jünglinge mehr! Wie ist euch dabei, meine Freunde? Mir wallt mein Herz dem nahen Siege mit Ungestüm entgegen. Wenn nur der alte ehrenvolle Siegmar nicht stirbt. O du Freund meiner Jugend, möchtest du das frohe Siegsgeschrei deines Volks erleben!
+
+
+KEDMON.
+ Die Römer dringen nicht vor, aber sie weichen auch nicht. Siegmar ist immer dicht bei dem Tode.
+
+
+BRENNO.
+ Nun, ich hab' ihn Wodan überlassen! Geh zurück. Komm, komm, mein lieber Siegmund, den ich verkannt habe! Hat dir Thusnelda diesen Schild gewählt? Laß mich ihn sehn. Er nimmt den Schild. Warum schattet's nicht auf deine Stirn? Bringt mir einen Kranz des heiligen Laubes. Diese Blumen hier sinken vor der Sichel. Ja, so sollen deine Feinde sinken!
+
+
+SIEGMUND.
+ Ach, mein Vater Brenno, ich bin des Kranzes noch nicht werth, und ich muß eilen!
+
+
+WERDOMAR.
+ Kranz und Lied gehören dir jetzt schon.
+
+
+BRENNO.
+ Was sucht dein Auge so ungeduldig?
+
+
+SIEGMUND.
+ Ich suche den kürzesten Weg hinunter.
+
+
+Ein Druide bringt einen Eichenkranz.
+
+
+
+
+BRENNO.
+ Tritt näher zum Altar. Du weißt nicht, wie sehr du mir in den Waffen deines Vaterlands gefällst! Aber dein Haar fliegt!
+
+
+SIEGMUND.
+ Ich mußte eilen. Es mag fliegen. Es ist mir genug, daß ich den Schild und die Lanze meines Vaterlands habe.
+
+
+BRENNO.
+ Tritt ganz dicht an den Altar, Siegmund! Hier hat vor Kurzem ein weissagendes Opfer geflammt, ein 
+Adler, und hier winde ich dir den Kranz der Sieger um. Verdiene ihn nicht zu sehr. Du mußt nun auch wiederkommen, Siegmund!
+
+
+SIEGMUND.
+ Mein ganzes Herz dankt dir, mein Vater Brenno! Ach, wie wird mir nun der Gesang von dem Altar' heruntertönen!
+
+
+Er geht.
+
+
+
+
+BRENNO.
+ Euer Gesang begleit' ihn hinunter, Barden!
+
+
+EIN CHOR.
+
+Wir kühnes Volk, wir haben Jünglinge
+Mit leichten Blumenschilden und schönen Wunden,
+Die lieber sterben, als leben,
+Wenn's gilt für die Freiheit!
+
+
+
+EIN ANDERES CHOR.
+
+Wir kühnes Volk, wir haben Männer und Greise
+Mit großen, schönen Narben der Schlacht,
+Die lieber sterben, als leben,
+Wenn's gilt für die Freiheit!
+
+
+
+ZWEI CHÖRE.
+
+Der Eroberer Kette tönte laut!
+Viel lauter tönet nun der Waffenklang
+Der siegenden Deutschen
+Und der fallenden Römer!
+
+
+
+Ruf, ferner Fels des dunkeln Hains,
+Den lauteren Waffenklang!
+Wie leise, wie leise klirret sie jetzt,
+Die Kette der Eroberer!
+
+
+
+ZWEI BARDEN.
+
+Die Cohorten schwenken sich kühn,
+Beweglich in ihren Centurien,
+
+
+Wie auf der Harfe des Siegsgesangs
+Des Barden eilende Hand.
+
+
+
+DREI CHÖRE.
+
+Und dennoch wanken die Bilder der Fabier
+Mit der hohen Lanze!
+Nacht wird's um das Auge des Trägers, er taumelt hin,
+Und die Fabier mit ihm!
+
+
+
+ALLE.
+
+Wohin, wohin entflogen die Adler,
+Der Legionen Stolz?
+Umsonst verbergt ihr euch in den Wasserstrauch,
+Ihr müsset dennoch herauf zu Wodans Altar!
+
+
+
+Wohin, wohin entflogen die Götter,
+Die sie inniger ehren, wie des Olymps Donnerer?
+Verbergt euch! dennoch müßt ihr herauf und schwer von des Deutschen Pfeil
+Bluten und flattern und sterben an Wodans Altar!
+
+
+
+KEDMON.
+ Brenno, Brenno! Siegmar ist von einer Lanzenwunde hingestürzt. Kaum konnten sie ihn aus der Schlacht führen.
+
+
+BRENNO.
+ O Wodan! Mein Freund Siegmar! Wo haben sie ihn hingeführt?
+
+
+KEDMON.
+ Zum Bache. Sie kühlen ihm die Wunde.
+
+
+BRENNO.
+ Wichen die Jünglinge?
+
+
+KEDMON.
+ Sie wichen, aber der junge Bojorich ließ sich schnell hervortragen. Kaum sahn ihn die nächsten Hunderte oben auf dem Schilde stehn, als sie ihm gleich zuriefen: Wodan mit dir, Bojorich! Er sprang schnell herab und eilte mit dem schreckenvollen Blicke seiner großen Augen vorwärts. 
+Aber nicht lang' – o Brenno! ich sah den kalten Römer zielen, – nicht lange, so stürzt' er in sein Blut, wie die junge schlanke Eiche der Donnersturm bricht. Ich kann nicht sagen, daß die Jünglinge wichen; aber sie stutzten, und der Lanzen flogen weniger.
+
+
+BRENNO.
+ Wurde Keiner wieder hervorgetragen?
+
+
+KEDMON.
+ Sie trugen Keinen hervor, aber die Hauptleute ruften sehr laut.
+
+
+BRENNO.
+ Es ist ein heißer Augenblick, Barden! Laßt den Kriegsgesang laut tönen, Barden!
+
+
+Kedmon geht zurück.
+
+
+
+
+WERDOMAR.
+ Barden, so oft sich der Gesang wendet, so ertönen eure Hörner von Ausrufen des Kriegsgeschreis! Barden, ihr müßt keins der Völker Deutschlands vergessen! Meine Cherusker sind es zwar, die sich vor Allen und in großen Schaaren dem Tode fürs Vaterland hingestellt haben; aber auch aus vielen andern Völkern sind nicht kleine Haufen da, diesen elenden Tod zu sterben, und aus Allen rief unser gerechter Zorn und Hermanns Heldenname die Jünglinge herbei, welche die ersten Waffen oder Blutringe tragen.
+
+
+EIN CHOR.
+
+Herbei, herbei, wo der Kühnsten Wunde blutet!
+Wo ein Fabius
+Mit dem helleren Schilde strahlt,
+Dort hinein ins Gedräng der Schlacht!
+
+
+
+EIN ZWEITES CHOR.
+
+Herbei, herbei, wo der Kühnsten Wange bleich wird!
+Ein Aemilius
+Mit dem höheren Helme glänzt,
+Dort hinein ins Gedräng der Schlacht!
+
+
+
+
+EIN DRITTES CHOR.
+
+Herbei, herbei, wo der Kühnsten Haupt sich senket!
+Wo ein Julius
+Das geröthete Schwert erhebt,
+Dort hinein ins Gedräng der Schlacht!
+
+
+
+ALLE.
+
+Ha, ihr Cherusker! ihr Katten! ihr Marsen! ihr Semnonen!
+Ihr festliche Namen des Kriegsgesangs!
+Ihr Brueterer! ihr Warner! ihr Gothonen! ihr Lewover!
+Ihr festliche Namen des Kriegsgesangs!
+
+
+
+Ihr Friesen! ihr Fosier! ihr Chazer! ihr Longobarden!
+Ihr festliche Namen des Kriegsgesangs!
+Ihr Reudinen! ihr Hermundurer! ihr Narisken! ihr Quaden!
+Ihr festliche Namen des Kriegsgesangs!
+
+
+
+Ihr Trevirer! ihr Nervier! ihr Nehmeter! ihr Wangionen!
+Ihr festliche Namen des Kriegsgesangs!
+Todeslos falle den Sklaven Roms,
+Den Ubiern!
+
+
+
+Ihr Angrivaren! ihr Bojomer! ihr Sikainbrer!
+Ihr festliche Namen des Kriegsgesangs!
+Sie sinken, sie sinken, von Fabius Stamm,
+Von Aemilius, ha, und von Julius Stamm, sie sinken!
+
+
+
+Sie schlummern hin und denken nicht mehr
+An Karthago!
+Sie schlummern hin und erblicken die Schreckengestalt
+Der edeln Parther!
+
+
+
+
+ZWEI CHÖRE.
+
+Schnell wuchs der Sprößling im Hain,
+Gewunden dem Sieger zu werden um sein Haupt!
+Es verwelkt', es verwelkte der Lorber
+An dem hohen Capitol!
+
+
+
+DREI CHÖRE.
+
+Seht ihr nicht auf der Mondglanzwolke
+An der Eiche Wipfel
+Eure Brüder schweben und eure Väter,
+Bei Thuiskon und Mana sie schweben?
+
+
+
+Sie eilen im Kriegestanz' einher
+Nach dem Bardengesang
+Sie blicken auf euch herab:
+Ihr streitet und siegt, und sie beflügeln den freudigen Tanz!
+
+
+
+ALLE.
+
+Die Wolke zieht, in dem Haine weht's
+Von der glänzenden Wolke!
+Sie hören, sie hören Walhalla's Lobgesang!
+Denn sie stritten und siegten!
+
+
+
+BRENNO.
+ Haltet nun ein Wenig inne, Barden! Wir zeigten ihnen bisher durch unsre Lieder, was für Thaten wir von ihnen erwarteten. Wir müssen sie auch durch unser Stillschweigen ehren!
+
+
+EIN OPFERKNABE
+
+zu dem ältesten.
+
+ Hörtest du, was sie wieder sangen? Ich halte es nicht mehr aus!
+
+
+EIN ANDRER.
+ Geh, geh nun gleich hin!
+
+
+DER AELTSTE.
+ Ich zittre vor ihm. Und ich denke doch, daß ich unten nicht zittern werde!
+
+
+DER ZWEITE.
+ Und ich sage dir, daß du unten auch zittern wirst, wenn du nicht gleich hingehst!
+
+
+
+DER AELTSTE.
+ Erster Priester und erster Richter unsers Volks, verzeih', daß ich dich anrede! Wir drei können der Barden Lieder nicht mehr aushalten. Ach, dürfen wir nicht hier den Felsen hinunter steigen und hinter den Schilden unsrer Väter irgend einem fallenden Römer auch unsre Lanzen ins Herz werfen? Ach, du blickst uns sehr ernstvoll an! Sieh nur, wie blank und wie leicht unsre Lanzen sind! Dürfen wir nicht wenigstens einen Helm aufnehmen und ihn uns an dem Felsen herauf reichen und ihn dir bringen? r soll nur dort wo in die Sträuche hingelegt werden und nicht an den heiligen Altar.
+
+
+BRENNO.
+ Ihr seyd zu kühn, Knaben. Tretet zurück. Euer Blut muß noch nicht fließen.
+
+
+DER KNABE.
+ Ach, wir stehen ja hinter unsern Vätern! und, kommen wir auch einmal hervor, wird einer von diesen Männern mit den schweren Wurfspießen nach uns zielen?
+
+
+BRENNO.
+ Du bist viel kühner, als du sprichst. Ich seh' es in deinem Auge. Tritt zurück.
+
+
+DER KNABE
+
+zu Werdomar.
+
+ Lieber, bester Vater, willst du nicht für deinen armen Sohn bei dem heiligen Manne bitten?
+
+
+WERDOMAR
+
+nachdem er ihn umarmt hat.
+
+ Dank sey's Wodan, daß dich mir mein Weib geboren hat! Aber hinunter in die Schlacht sollst du nicht gehn! Sie ist heut zu blutig!
+
+
+DER KNABE.
+ Auch du, mein Vater, verlässest mich? Er weint. Nun, o Hertha, eine solche Römerschlacht erlebe ich nie wieder, wenn ich auch alt wie Siegmar werde, und ich Aermster darf sie nicht sehn! keine Rüstung tönen hören! keine Rüstung eines fallenden Römers tönen hören. Mein Vater? mein bester Vater?
+
+
+
+WERDOMAR.
+ Brenno, nun kann ich nicht mehr! Er nimmt ihn bei der Hand. Ich bring' ihn Wodan und dir! Thu, was du willst.
+
+
+DER KNABE
+
+er wirft Schild und Lanze schnell weg und fällt vor Brenno nieder und faßt mit Ungestüm sein Kleid.
+
+ Erhabner, großer Richter und Priester!
+
+
+BRENNO.
+ Knabe! Nach dem Altar gewandt und leiser. Ich dank' euch, Götter, für diesen Knaben.
+
+
+WERDOMAR.
+ Ich, mein Sohn, wenn dich Hermann jetzo säh'!
+
+
+BRENNO.
+ Halt mich nicht so! Reich mir deine Hand und versprich mir: Du wirfst deine Lanze nur nach Römern, die schon bluten!
+
+
+DER KNABE
+
+lebhaft.
+
+ Ja, mein Vater!
+
+
+BRENNO.
+ Du kömmst mit dem ersten Helme wieder, den du findest!
+
+
+DER KNABE
+
+etwas traurig.
+
+ Ja.
+
+
+BRENNO.
+ Du bleibst hinter den Schilden!
+
+
+DER KNABE.
+ Erhabner Priester Wodans, ich kann keine Unwahrheit sagen! Das Blut glüht mir ins Gesicht herauf, ich habe schon eine gesagt! Ich kann hinter den Schilden nicht bleiben!
+
+
+BRENNO.
+ Was soll ich thun, Werdomar?
+
+
+WERDOMAR.
+ Die Götter rufen ihn! Lass' ihn gehn!
+
+
+BRENNO.
+ Geh, Knabe, der mein ganzes Herz bewegt hat!
+
+
+DER KNABE
+
+zu den beiden andern.
+
+ Ha, kommt! kommt! hier den Fels hinab! Nachdem sie schon nicht mehr gesehen werden, kehrt er wieder um und nimmt Schild und Lanze. Ich bringe meiner Mutter goldne Ringe mit, mein Vater! Dank dir, großer Richter deines Volks!
+
+
+WERDOMAR.
+ Mein Sohn, mein Sohn, komm zurück! 
+Ach, er hört mich nicht mehr! Komm zurück, mein Sohn! Indem er sich umwendet. Ihr Götter, diese zarte Blume soll doch nicht jetzt schon wegblühn?
+
+
+KEDMON.
+ Die Cherusker Hauptleute führten gut, aber sie hatten keinen Feldherrn. Mit kleinen Schritten zwar und mit toddrohendem Stillschweigen, allein sie wichen gleichwohl zurück. Die Hauptleute der Bardenburg riefen mir zu: Eil' hinauf und fordre Schlachtgesang! Indem kamen Reiter über die Büsche hergesprengt, einer stürzte und starb. Sie schrien: Hermann kommt! Gleich darauf sah ich ihn mit seinem jüngsten Kriegsgefährten kommen. Ich hab' ihn noch nie so gesehn. Lang, wie die junge Tanne, war sein gestrecktes Roß! Sein Haarbusch wehte fürchterlich! Er hatte Thusnelda's Brautschild mit den Purpurblumen. Eine Römerlanze, denke ich, hatte er; aber er flog zu schnell vorbei, und die Lanze war zu blutig. Ich konnt's nicht unterscheiden.
+
+
+Er geht.
+
+
+
+
+
+
+
+
+
+7. Szene
+
+
+
+
+Siebente Scene.
+
+Siegmar. Horst.
+
+
+
+HORST.
+ Seine Wunde ist noch tödtlicher dadurch geworden; aber wir mußten ihn herauf führen. Er will bei Wodans Altar sterben.
+
+
+BRENNO.
+ Ach, Siegmar! Also kömmst du wieder! Ist denn keine Hülfe, Horst? gar keine?
+
+
+SIEGMAR.
+ Führt mich zum Altar'. Ich fühle sie schon nicht mehr! Es ist eine Todeswunde, Brenno! Lehnt mich an den Altar.
+
+
+
+BRENNO.
+ Bringt einen Teppich, daß der ehrenvolle Greis darauf ruhe.
+
+
+SIEGMAR.
+ Ich will keinen Teppich. Halt mich, Horst. Ich will nicht eher liegen, als bis ich todt bin. Was weißt du von der Schlacht, Brenno? Wie rächt mich mein Sohn?
+
+
+BRENNO.
+ Hermann ist durch den Wald herauf geeilt und führt deine Jünglinge wieder gegen die Römer heran.
+
+
+SIEGMAR.
+ Wodan, ich bin (ja, es ist eine Todeswunde!), ich bin zu deinem Altar gekommen. Laß meinen Sohn nicht zu früh sterben! Welche Glückseligkeit meines Lebens, ein letzter Labetrunk im heißen Durste würde mir Das seyn, wenn ich die Botschaft von unserm völligen Siege noch hörte!
+
+
+EIN HAUPTMANN
+
+indem er die Felsen mit Mühe heraufsteigt und seinen Spieß im Heraufsteigen vor sich hinwirft.
+
+ Brenno! Ach, Siegmar, du bist todesbleich von deiner Wunde! Brenno, Hermann sendet mich zu dir herauf, er sagt: Die Legionen können noch durchkommen, und er sterben! Er wählt dich Er tritt herauf. ich soll Das vor allen diesen Zeugen hier oben sagen, er wählt dich zum Wergobreth!
+
+
+SIEGMAR.
+ Ist mein Sohn verwundet, Hauptmann?
+
+
+DER HAUPTMANN.
+ Er ist nicht verwundet. Ich komme dicht von seiner blutigen Lanze her.
+
+
+SIEGMAR.
+ Wie viel Adler habt ihr?
+
+
+DER HAUPTMANN.
+ Wir haben einen Adler.
+
+
+SIEGMAR.
+ O Wodan, die andern auch! Jüngling, sage meinem Sohne nicht, daß du mich gesehen hast.
+
+
+DER HAUPTMANN.
+ Nicht lange, hoffe ich, und ich kann es ihm nicht mehr sagen: denn rächen, rächen will ich dein Blut, edler Greis!
+
+
+
+HORST.
+ Siegmars Blut zu rächen gehört mir zu, Hauptmann!
+
+
+DER HAUPTMANN.
+ Mir auch. Er geht.
+
+
+
+SIEGMAR
+
+nach einigem Stillschweigen.
+
+ Was trauerst du denn, Brenno? Es sind zu viele Römer verwundet, zu viele todt! Wir siegen gewiß. Die Zeit ist ganz nah, daß Hermann auch fallen kann. Auch sagt mir mein Herz laut, daß Wodan den alten Siegmar aus keiner Niederlage seines Volks nach Walhalla hinübergehen läßt! Barden, singt mir den Gesang Derer, die ihr Vaterland mehr als ihr Leben liebten. Nein, singt nicht mir, singt hinunter in die Schlacht. Ermuntert sie nicht zum Siege. Davon singt, daß kein Römer entrinnen muß!
+
+
+WERDOMAR
+
+zu den Barden.
+
+ Ihr hört, er meint, wie wir dann singen, wenn die Schlacht am Blutigsten ist.
+
+
+BRENNO.
+ Ich kenne deinen Muth, Siegmar, der dich auch im Tode nicht verläßt. Ich kenne aber auch den oft schnellen Umsturz menschlicher Dinge. Ihr wißt den unbekannten Weg, Druiden, der um den spitzen Felsen herum zum Walde führt. Den nehmt, wenn die Römer noch siegen. Vielleicht nehme ich ihn auch, vielleicht sterbe ich lieber hier. Ich bin noch nicht entschlossen, ob ich Wergobreth seyn will.
+
+
+HORST.
+ Es ist nun Zeit, Siegmar, daß ich hinunter geh' und deinen Tod räche. Ich sterbe lieber in der Schlacht, als bei deinem Grabe.
+
+
+SIEGMAR.
+ Diese Sitte unsers Volks liebe ich nicht, daß der Freund mit dem Freunde stirbt! Du sollst nicht sterben, Horst!
+
+
+HORST.
+ Wie kannst du Das von mir fordern, edler Greis, daß ich nicht mit dir sterben soll?
+
+
+SIEGMAR.
+ Du sollst aber wegen der Legionen leben, die 
+Augustus senden wird. Du sollst nicht sterben, sag' ich! Schwör mir's bei dem Schwert'!
+
+
+HORST.
+ Ich liebe die Sitte unsers Volks und kann Das nicht schwören.
+
+
+SIEGMAR.
+ Meine letzte Bitte an dich schlägst du mir ab? Schwör'!
+
+
+HORST.
+ Und man sollte von mir sagen, daß ich vielleicht aus Zaghaftigkeit (auch nur Vermuthung ist bitter!) länger gelebt hätte, als Siegmar?
+
+
+SIEGMAR.
+ Und ich sag' hier laut, daß dieser Jüngling wegen der Legionen, die kommen werden, leben bleibt! Schwöre mir's, oder ich hasse dich in meinem Tode!
+
+
+HORST
+
+leise, indem er sein Schwert zieht und niedersenkt.
+
+ Mein Vater, ich gehorchet. Laut. Ihr hörtet, was Siegmar von mir sagte!
+
+
+WERDOMAR.
+ Barden, Kriegsgeschrei bei den Wendungen des Gesangs und Wodan!
+
+
+EIN CHOR.
+
+Ihr stammet von Mana, ihr stammet von Thuiskon!
+Reißt die Lanzen aus den Todten und stürzet die Lebenden hin!
+Es schlägt sonst euren jungen Sohn, den Blüthenzweig,
+Ihr Schwert herab!
+
+
+
+ALLE.
+Wodan, Wodan! Römerblut, Wodan!
+
+
+ZWEI CHÖRE.
+
+Ihr stammet von Mana, ihr stammet von Thuiskon!
+Werft die blutigeren Lanzen schnell, wie den Blick!
+Sonst müssen eure Mütter ihnen tragen
+Ihre Kriegesbrüder!
+
+
+
+ALLE.
+Wodan, Wodan! Römerhelme, Wodan!
+
+
+
+DREI CHÖRE.
+
+Ihr stammet von Mana, ihr stammet von Thuiskon!
+Die Lanze den Römern in die stolze Stirn'!
+Und, senkt ihr müder Schild sich nieder.
+Die Lanz' in das Herz!
+
+
+
+Sonst nehmen sie euch das edle Weib
+Und führen sie fort, in der Kette fort!
+Ach, eine Sklavin,
+Das edle Weib!
+
+
+
+ALLE.
+Wodan, Wodan! Römerschilde, Wodan!
+
+
+ALLE.
+
+Volk, das männlich ist und keusch,
+Es wüthe dein Herz, es tödte dein Arm!
+Die Lanze gerad' in das Antliz der Römer,
+Gerad' in das Herz!
+
+
+
+Sonst führen sie eure Bräute,
+Die hohen, stolzen Blumen des Frühlings,
+Zum Traubenmahle dahin,
+Zum nächtlichen schrecklichen Traubenmahle!
+
+
+
+ALLE.
+Wodan, Wodan! Cohortenbilder, Wodan!
+
+
+EIN CHOR.
+
+Ihr habt doch blinkend Dolche, Bräute?
+Schnell, wie der Schwelger Blick,
+Ist euer Entschluß!
+Ihr habt doch blinkende Dolche, Bräute
+
+
+
+ALLE.
+Wodan, Wodan! Adler, Wodan!
+
+
+
+ALLE.
+
+Ha, sie wüthen, die Jünglinge wüthen!
+Umsonst winkt in der goldenen Schale der Traube Saft!
+Die Schwelger bluten, sie bluten und trinken die goldene Schale nicht!
+Werft, Bräute, die Dolche weg!
+
+
+
+ALLE.
+
+Wodan! Wodan, Tyrannenblut
+Wegen der heiligen Freiheit!
+Blut, wegen der heiligen Freiheit Blut der Tyrannen!
+Wodan! Wodan!
+
+
+
+SIEGMAR.
+ Wißt ihr, Barden, wie mir gewesen ist, daß ich diesen Leichengesang der Legionen noch gehört habe? Es ist mir gewesen, wie dem Jünglinge, der am Tage seiner ersten Waffen die Waffen blutig sieht. Ach, es war schon der dritte Tag, da einst meine bluteten. Aber ich hatte gleichwohl auch der Freuden viel! Ich zögerte, da ich zum Bache gehn mußte, das Blut von meiner schönen Lanze zu spülen. Ich mußte hin! Mein Vater wollt's! Sein Vater hatt' es auch so gewollt! Es ist gleichwohl eine gute Sitte! Ich mußte hin. Aber ich fiel in jedem Strauche, weil ich die schöne blutige Lanze immer ansah. Ich hab' es wohl eher erzählt. Erst mit dem letzten Strahle der Sonne floß das letzte Blut in dem Bache fort. Und so kam ich mit blinkender Lanze zum Siegsmahle! Aber singt mir nun das Lied Derer, die ihr Vaterland mehr als ihr Leben liebten. Denn ich sterbe!
+
+
+ALLE.
+
+O Vaterland, o Vaterland!
+Mehr als Mutter und Weib und Braut'
+Mehr als ein blühender Sohn
+Mit seinen ersten Waffen!
+
+
+
+
+SIEGMAR
+
+er winkt mit der Hand.
+
+ Mildert den Schall der Hörner nicht und wendet euch von mir mehr nach dem Thal' hin. Denn das Lied ist auch für Die, welche unten in der Schlacht sterben.
+
+
+ALLE.
+
+Du gleichst der dicksten, schattigsten Eiche
+Im innersten Hain,
+Der höchsten, ältesten, heiligsten Eiche,
+O Vaterland!
+
+
+
+EIN CHOR.
+
+Die Blum' auf dem Schilde des Manns,
+Auf welche das Blut des Todes troff,
+Ist schön wie Hertha
+Im Bade des einsamen Sees!
+
+
+
+ZWEI CHÖRE.
+
+Wer des Schildes Blume sich röthen sah
+Von Todesblute,
+Hat an Hertha's geweihtem Wagen gestanden und die Göttin gesehn
+Im Bade des einsamen Sees!
+
+
+
+DREI CHÖRE.
+
+O du, der starb für das Vaterland,
+Dir bringt in dem kühlsten der Haine Walhalla's,
+Dir, der wieder Jüngling ward,
+Die ersten Waffen Thuiskon!
+
+
+
+SIEGMAR
+
+er winkt mit der Hand.
+
+ Stärker! stärker! daß es meine Gefährten nach Walhalla auch hören!
+
+
+WERDOMAR.
+ Bester Mann des Vaterlands, unser Gesang wüthet hinab!
+
+
+
+SIEGMAR.
+ Stärker! sag' ich. Verzeih mir, Werdomar! Ich schlummre schon hin! Wenn ich hinauffühle, so däucht mich's, daß der Kranz in der Schlacht gewelkt ist. Ja, es däucht mich, daß ich auch Blut daran fühle! Bringt mir andres Laub, bringt mir junges Laub, bringt mir frisches, helles Sommerlaub von Thuiskons großer Schatteneiche!
+
+
+BRENNO.
+ O du lieber Siegmar, ich will hingehn und dir Thuiskons Laub bringen!
+
+
+SIEGMAR.
+ Du guter Brenno, ja, ich sterbe! Reich mir deine Sichel her! Das ist eine große, goldne Sichel! Die Tribunen haben nun goldne Schilde! Ich hab' einen solchen Tribun gesehn, Brenno! Sterben sollen sie auch! sterben! Brenno geht. Wo ist mein alter Freund Brenno hingegangen?
+
+
+WERDOMAR.
+ Er schneidet dir frisches, helles Sommerlaub von Thuiskons Eiche.
+
+
+SIEGMAR.
+ Ist er in die Schlacht gegangen? Will er auch sterben? Wo ist mein Sohn Hermann? Ist er schon todt? Nun, Hermann, Hermann! Siegmar und Bercennis Sohn! (Flavius muß zu Minos hinunter! Lass' ihn Walhalla selbst nicht von fern sehn, Wodan: denn zu furchtbare Ahndung träfe ihn dann!) Nun, Hermann, mein Sohn Hermann, du Knabe mit dem großen blauen Auge! Habt ihr einen Jüngling das Lanzenspiel tanzen gesehn, wie ihn? Du guter Hermann, wärst du bei mir gewesen, so hätte ich sie nicht, diese Todeswunde! Nun, so bist du denn mein Genoß bei dem Siegesmahle Wodans!
+
+
+BRENNO
+
+er flicht den Kranz.
+
+ Den Kranz, den du in der Schlacht getragen hast, wollen wir bei dem ersten Opfer mit in die Flamme werfen! Siegmar, ich bin glücklich in meinem Leben gewesen. Weil ich Das war, so habe ich mir wenig 
+Wünsche erlaubt. Aber heut' hätte ich, wie du, vorn in der Schlacht seyn mögen!
+
+
+SIEGMAR.
+ Du! und ich! und Hermann! meinst du? Aber du kömmst uns ja bald nach. Barden, ihr habt den Grabgesang nicht vollendet.
+
+
+DREI CHÖRE.
+
+Dir singen nach die Barden an Wodans und Hertha's Altar',
+Entgegen dir die Barden Walhalla's.
+Ohne deinen Namen wäre den Barden hier,
+Ohn' ihn den Barden dort die dankende Saite stumm!
+
+
+
+
+
+
+
+
+
+8. Szene
+
+
+
+
+Achte Scene
+
+Die beiden Opferknaben führen den ältesten und tragen zugleich sein Schild und Lanze und einen römischen Helm.
+
+
+
+ALLE.
+
+Und, hast du bei Waffentänzen und Siegesmahlen
+Die zweite lange Jugend gelebt!
+So nimmt dich auf in seinen strahlenden Hain
+Allvater!
+
+
+
+BEIDE OPFERKNABEN.
+ Wir sind unschuldig, Brenno! wir sind unschuldig! Wir konnten ihn nicht halten.
+
+
+EINER.
+ Wir wollten ihm das Blut saugen, aber er wollte nicht haben.
+
+
+WERDOMAR.
+ Ach, mein armer Sohn! Er hält ihn. Sieh mich an. Kennst du mich nicht, mein Sohn?
+
+
+DER KNABE.
+ Wer bist du?
+
+
+WERDOMAR.
+ Ich bin dein Vater!
+
+
+
+DER KNABE.
+ Du mein Vater? Du bist der blutige Centurio! Geh'! Ist Das der schreckliche Varus dort am Altar? Warum faßt Varus Wodans Altar an? Du sollst Wodans Altar nicht anfassen, du Feldherr der Tyrannen!
+
+
+SIEGMAR.
+ Was naht sich mir für eine Jünglingsgestalt aus Walhalla? Ist Das der Geist meines Sohns Hermann? Ist mein Sohn nun todt? Mein Sohn Hermann, geht der Weg nach Walhalla hier bei dem Altar vorbei, so nimm mich mit, mein Sohn Hermann!
+
+
+BRENNO.
+ O Siegmar, sieh' hin! Es ist Werdomars Sohn. Wodan würdigt sogar diesen Knaben, daß er ihn aus der Schlacht zu sich ruft.
+
+
+DER KNABE.
+ Soll denn Varus immer hier bei dem Altare stehn? Er sprach von Walhalla. Er muß nicht von Walhalla sprechen. Hat er die Barden alle getödtet? Hat er meinen Vater auch nach Walhalla gesandt? Soll er denn immer noch hier bei dem Altare stehn? Die Jünglinge haben genug geblutet, daß er den heiligen Altar nicht anfassen sollte. Ich hab' auch geblutet!
+
+
+SIEGMAR.
+ Geist meines Sohns Hermann, warum ist dein Blick so wild? Haben wir die Schlacht verloren?
+
+
+DER KNABE.
+ Ja, du blutiger Varus! Verloren hast du sie, die Schlacht, und alle deine Schilde und alle deine Adler verloren und alle deine Lanzen und alle deine Beile! Gleichwohl dulden sie dich immer noch hier bei Wodans Altar! Was haltet ihr mich so? Wer hat meine Lanze? Der blutige Mann ist ohne Schild! Wer hat meine kleine, schöne Lanze? Ich traf wohl eher den Geier im Fluge! Ich will's nicht fehlen, dieß Römerherz. Denn hat ihm nicht Hertha den Schild vom Arm heruntergeschlagen?
+
+
+
+SIEGMAR.
+ Verloren, sagst du? was denn verloren? Wo bin ich denn? Verloren hätten wir sie, diese lang berathschlagte, kühne Schlacht, die so schön begann und so schön fortschlug? Nein, o Erscheinung dort, du bist der Geist meines Sohns Hermann nicht! Ha, bei Wodan, der bist du nicht! Von seinem Stammeln an hat mein Sohn Hermann keine Unwahrheit gesagt, und er sollte auf dem Wege nach Walhalla eine sagen?
+
+
+WERDOMAR.
+ Am Abhange, denke ich, sind Mooshügel, daß ich mein armes Kind darauf legen kann und ihm die Wunde saugen.
+
+
+EIN BARDE.
+ Sobald du durch die Felsen gegangen bist, findest du gleich einen zur Rechten.
+
+
+DER KNABE.
+ Was faßt ihr mich nun so stark an? Ja, stoßt mich nur hinunter, weil ihr den blutigen Varus nicht hinunter stoßen wollt.
+
+
+SIEGMAR.
+ Nun, so bist du denn endlich entflohn, du täuschende Erscheinung!
+
+
+EIN DRUIDE
+
+der am äußersten Hange des Felsen sieht und hinuntersieht, für sich.
+
+ Nein, nein, mein Auge trügt mich nicht! Sie weichen, auf allen Seiten weichen sie! Ja, ja! Ihr Götter, ihr täuscht mich doch nicht, o ihr Götter? Ja, sie weichen!
+
+
+BRENNO.
+ Was bewegt dich so, Druide? was siehst du? was sagst du?
+
+
+DER DRUIDE.
+ Ach, Brenno!
+
+
+BRENNO.
+ Was zitterst du, Druide?
+
+
+DER DRUIDE.
+ Ach, Brenno, ich weiß nicht, ob ich im Taumel der Freude recht sehe. Sie fliehn, Brenno, sie fliehn!
+
+
+BRENNO
+
+zu einem andern Druiden.
+
+ Hin du! Tritt vor! Blick' hinab!
+
+
+
+DER DRUIDE.
+ Bei Hermanns rothem Schwert, Brenno, sie fliehn! sie fliehn auf allen Seiten!
+
+
+SIEGMAR.
+ Was führt ihr mich denn auf dem Schlachtfeld' umher, wenn ihr die Bilder und die Adler zwischen den Leichen nicht aufheben wollt? Was zögert ihr denn? Sollen die großen Denkmale unsers Siegs nicht in den Hain gestellt werden? Das ist ein schwerer Schlummer gewesen! Ich weiß nicht, wie lang' er gedauert hat, Brenno. Werden wir bald siegen? oder haben wir schon gesiegt?
+
+
+BRENNO.
+ Zwei Druiden haben eben jetzt die Römer auf allen Seiten fliehn gesehn!
+
+
+EINIGE DRUIDEN UND BARDEN
+
+zugleich.
+
+ Sie fliehn, sie fliehn!
+
+
+DER ZWEITE DRUIDE.
+ Nur Wenige ziehn sich zurück.
+
+
+SIEGMAR.
+ O Wodan, dem wir opferten! Sie fliehn! sagt ihr? sagt ihr? O Wodan! nur Wenige. Bei der Mäßigkeit, in der auch unsre Söhne nach mir leben werden, brauchen sie auch der Sklaven nicht viel.
+
+
+KEDMON.
+ Wodan und allen Göttern sey's gedankt! Sie fliehn, sie fliehn überall!
+
+
+BRENNO.
+ Mein theurer Siegmar, vernimm der Siegsfreuden eine! Sogar unsre Knaben sind nah bei den Römerlanzen gewesen! Werdomar saugt seinem Sohne eine Todeswunde!
+
+
+SIEGMAR.
+ Ihr Götter, ihr gebt mir liebe Gefährten nach Walhalla mit! Das thun die Götter, daß wir solche Knaben haben! O mein Vaterland, an uns, an uns wollen sie die Kette nicht klirren hören!
+
+
+EIN HAUPTMANN
+
+Werdomar kömmt mit ihm.
+
+ Hermann sendet mich. Es ist geschehn! Sie ist vollendet, die blutige Schlacht, wie keine war! Fürchterlich war unser letzter 
+Angriff, und fürchterlich die Gegenwehr. Keine Wunde ohne Tod! Nur vier schwache Cohorten sind übrig. Hermann ruft laut durch alle Lanzen her, daß kein Deutscher mehr sterben soll. Sie werfen schon ohne unser Blut die Schilde weg! ruft er. Allein die Katten wollen die Cohortenbilder haben. Sie rückten nah gegen die Cohorten heran, als mich Hermann herauf sandte.
+
+
+SIEGMAR.
+ Bleib', Hauptmann. O Wodan! Dank dir, o Wodan! Einen schönern Tag konnte kein Deutscher erleben, und den lassest du mich sterben! Wie sanft wird der Mond auf meine Leiche scheinen! Barden, vergeßt meines Namens nicht! Ich liebte mein Vaterland, ich liebt' euch auch, und ihr mich!
+
+
+EIN BARDE.
+ O du theurer Siegmar! o du Harfentonsname! du Name für Walhalla's Gesang!
+
+
+SIEGMAR.
+ Ich weiß nicht, ist es die Freude oder die Wunde, daß ich schon jetzt sterbe? Deine Hand, deine Hand, Brenno! Ich fühle den Tod, Brenno! Nun, bis zum Wiedersehn! Laß meinen Sohn Hermann erst das Siegsmahl halten, eh du ihm meinen Tod ...
+
+
+Er stirbt.
+
+
+
+
+BRENNO
+
+nach langem Stillschweigen.
+
+ Nein, nein! – denn du hast Recht, Siegmar, – du bist an dem schönsten Tage deines Lebens gestorben – nein, ich will nicht weinen! Bleib', Hauptmann, du sollst es seinem Sohn nicht sagen! Keiner soll es seinem Sohne sagen. Ich will Das thun. Geh du, Druide, zu Bercennis, daß sie ihre Thränen schnell trockne und es ihrem Sohne nicht sage. Bringt einen Teppich. Legt ihn hier seitwärts, hier weiter hin nach dem Gesträuche zu. So, Horst. Der Schild und die Lanze müssen bei dem gefallnen Sieger liegen!
+
+
+HORST.
+ Ach, mein Vater Siegmar!
+
+
+
+BRENNO.
+ Breitet den Teppich über ihn aus. O Siegmar, Siegmar, nun kann es deines Volkes Dank nicht mehr, nun kann dich nur Wodan belohnen!
+
+
+HORST.
+ Und er belohnt dich! Du bist nun da, wo die Freude keine Wolken hat. So kennen wir sie nicht. Mir bewölkt sich sogar die Freude über unsern Sieg. Mir erfochten sie ihn nicht! Ich kann seiner nicht genießen! Denn ich weiß nicht, ob Hermann nach diesem Traueranblick' es können wird, weiß nicht, ob der furchtbare Jüngling, um den Genuß zurückzurufen, beschließt, daß er durch die Schatten der Legionen, welche Augustus senden wird, seinem Vater Leichenbegängniß halten will.
+
+
+
+
+
+
+
+
+9. Szene
+
+
+
+
+Neunte Scene
+
+Die Vorigen. Ein Gefangener.
+
+
+
+EIN BARDE.
+ Sie bringen einen Römer herauf. Ja, Alles, alles ist entschieden, weil sie Zeit haben, Gefangene zu führen.
+
+
+BRENNO.
+ Siehst du Hermann noch in der Schlacht?
+
+
+DER BARDE
+
+der von der Seite nach dem Thale zu zurückkömmt.
+
+ Es ist keine Schlacht mehr. Ganze Manipeln werfen die Schilde und die Lanzen weg. Der Gefangne kömmt. Dieser Römer muß nicht weit vorgedrungen seyn. Er hat keine Wunde.
+
+
+SEIN FÜHRER.
+ Er hat gewollt, daß wir ihn zu Hermann führen sollten. Wir bringen ihn hier herauf, weil Hermann bald hierher kommen wird.
+
+
+BRENNO.
+ Wer bist du, Römer?
+
+
+DER GEFANGNE.
+ Ich bin kein Römer.
+
+
+BRENNO.
+ Und wer bist du denn?
+
+
+
+DER GEFANGNE.
+ Ich bin aus einem Volke, das nicht kriegen sollte, sondern sich unterwerfen.
+
+
+BRENNO.
+ Und mit wem nicht kriegen?
+
+
+DER GEFANGNE.
+ Mit den Beherrschern der Welt.
+
+
+BRENNO.
+ Heut' herrschen sie hier nicht. Wer bist du, verwegner Sklav?
+
+
+DER GEFANGNE.
+ Ich bin ein Deutscher.
+
+
+BRENNO.
+ Du bist kein Deutscher! Wir fechten nicht gegen unser Volk! Und ohne Blut kommst du aus einer solchen Schlacht?
+
+
+DER GEFANGNE.
+ Wenn es dir scheint, daß ich nicht sterben gelernt habe, so werde ich hier bei euch bald zeigen können, daß ich es weiß.
+
+
+BRENNO.
+ Wenn du wirklich ein Deutscher bist und also wider dein Volk gestritten hast, so bist du uns zu gleichgültig, um zu bemerken, wie du stirbst! Aber wer bist du?
+
+
+DER GEFANGNE.
+ Hermanns Bruder.
+
+
+BRENNO.
+ Der Verräther Flavius?
+
+
+FLAVIUS.
+ Flavius, der glaubt, daß wir eure Beherrscher sind!
+
+
+BRENNO.
+ Wir, sagst du? Ich sehe, daß du uns durch diesen deinen Stolz noch verächtlicher werden und so dem Tode entgehen willst! Fliehn hast du gelernt, aber nicht sterben! Sehet den Verworfensten unsers Volks, weil er Hermanns Bruder ist!
+
+
+WERDOMAR.
+ Was dachtest du, Elender, da du den Kriegsgesang unten hörtest?
+
+
+FLAVIUS.
+ Ich dachte, unsre Lanzen würden euch bald in das Reich des Stillschweigens hinabsenden, weil auch ihr dieß kleine Volk – klein ist es gegen die Römer – anfeuert, sich immer unglücklicher zu machen.
+
+
+
+WERDOMAR.
+ Dieß kleine Volk, elender Mann, hat heut die drei ältesten Legionen Roms vertilgt! Bald wirst du eure Adler sehn und unsern Hermann, der dein Bruder nicht mehr ist!
+
+
+FLAVIUS.
+ Alles, was ich euch zugestehen kann, ist, daß dieser volkschmeichelnde stolze Jüngling die drei Tage her nicht wenig kühn gewesen ist. Mein Blut wallet mir heiß auf, wenn ich daran denke, daß ich diesen jüngeren Sohn meiner Mutter jetzt sehen muß.
+
+
+BRENNO.
+ Das Eine nur will ich dich würdigen dir noch zu sagen: du hast keine Mutter mehr!
+
+
+FLAVIUS.
+ Ist meine Mutter todt?
+
+
+BRENNO.
+ Die Mutter Hermanns lebt! Er muß sterben, Werdomar!
+
+
+WERDOMAR.
+ Meinst du, die siegenden Fürsten werden sich zu dieser Aufmerksamkeit auf ihn herablassen? Sie, die das Todesurtheil über drei Legionen so laut aussprachen, daß es in allen Palästen Augustus und um jeden Altar des Capitols wiederhallen wird!
+
+
+BRENNO
+
+er naht sich Flavius schnell.
+
+ Der Tod schwebt über dir! Ein Wort, und keins der Schwerter hier, das nicht gleich gegen dich wüthe! Soll ich seinen Namen nennen, Werdomar?
+
+
+FLAVIUS.
+ Können die Druiden jetzt die Gefangnen der Schlacht tödten?
+
+
+BRENNO.
+ Nah schwebt der Tod über dir, sage ich. Ein Name, sage ich, oder auch ein Anblick, und du bist nicht mehr!
+
+
+WERDOMAR.
+ Mitleid! Mitleid! Sterben muß er, aber Mitleid!
+
+
+BRENNO.
+ Laß mich! Gegen ihn?
+
+
+
+FLAVIUS.
+ Womit drohst du mir?
+
+
+BRENNO.
+ Mit Dem, der alle diese Schwerter hier gegen dich zücken kann. Ich weiß nicht, wie hart das Herz eines Verräthers ist, aber auch dem härtesten unter allen könnte der Tod selbst nicht bittrer seyn!
+
+
+FLAVIUS.
+ Ich versteh dich nicht.
+
+
+BRENNO.
+ Hier wandeln Geister, welche auf dem Wege nach Walhalla sind: die verstehn mich.
+
+
+
+
+
+
+
+
+10. Szene
+
+
+
+
+Zehnte Scene
+
+Thusnelda mit ihren Jungfrauen.
+
+
+
+THUSNELDA.
+ Nun, nun bin ich wieder die Glücklichste unter allen meinen Gespielinnen! Denn Hermann lebt, und den größten von allen Siegen über die Römer erfochten Deutsche! Gestatte mir, Brenno, daß ich mich dem heiligen Altar nähere. Ich will hier unsern Hermann erwarten. Denn so muß ich den Liebling des Vaterlandes heut nennen, obgleich mein Herz ihn niemals lauter meinen Hermann genannt hat! Glücklicher, glücklicher war nie ein Weib eines ehrenvollen Mannes, als ich heute bin! O Hertha, welch ein Tag ist dieser! Jungfrauen, eure Blumen sind doch die schönsten unter allen Blumen?
+
+
+BRENNO.
+ Stolz deines Mannes, so wie der edle Jüngling der Stolz seines Volkes ist, Thusnelda, ja, du bist sehr glücklich, Thusnelda!
+
+
+THUSNELDA.
+ Ungestüm schlägt mir mein Herz, daß ich kaum weiß, wo ich mich hinwenden soll! Eure Blumen, Jungfrauen, sind doch die schönsten unter allen Blumen? 
+und eure Stimmen so frohen Tons, wie die Stimme des Wiederhalls in den Felsen des Rheins? Denn heut', heut muß unser Siegslied den Gesang der Barden übertreffen! Erwarte ich ihn hier bei dem Altar? Trete ich in den Felseneingang vor? Ich bin dir Ehrfurcht schuldig, erhabner Jüngling, der eine Schlacht geschlagen hat, wie keiner deiner Väter schlug. Kommt, Jungfrauen, wir wollen hier in diese Schatten zurücktreten. Meint ihr etwa, Druiden, daß die Partherschlacht wie unsre war? Selbst Brenno ist ihm heut' Ehrfurcht schuldig!
+
+
+BRENNO.
+ Das bin ich, Thusnelda!
+
+
+THUSNELDA.
+ Ihr Gefährtinnen meines Lebens, meine Gespielinnen, als ich ihm den ersten Kranz wand, habt ihr's gehört, was Wodans oberster Priester von ihm sagte? O Mond, wie gehest du heut' in unsern Hainen auf! Hat er jemals so schön durch das heilige Laub geschimmert, meine Gespielinnen? Wer ist dieser Römer in der Kette?
+
+
+BRENNO
+
+nach einigem Stillschweigen.
+
+ Dieser Gefangne heißt jetzt Flavius.
+
+
+THUSNELDA.
+ Ihr Götter! Hermanns Bruder? und er ist hier? und er entweiht Wodans Altar so nah'? Er soll doch nicht sterben, Brenno?
+
+
+BRENNO.
+ Ich weiß nicht, wie es die Fürsten entscheiden werden.
+
+
+THUSNELDA.
+ Ach, er muß nicht sterben, Brenno. Heut muß kein Deutscher mehr sterben!
+
+
+BRENNO.
+ Er ist kein Deutscher mehr.
+
+
+THUSNELDA.
+ Auch wenn er es nur war, muß er heut nicht sterben.
+
+
+BRENNO.
+ Wenn ihn unsre Heerführer in der Freude des Siegs vergessen, so werfe ich das Todeslos über ihn.
+
+
+
+THUSNELDA.
+ Aber, o Brenno, er ist ja Siegmars Sohn und Hermanns Bruder!
+
+
+EIN HAUPTMANN.
+ Gesiegt, gesiegt, wie sie selbst niemals siegten, bis zur Vernichtung der Legionen gesiegt! Römerschilde, Barden! Er schlägt sie zusammen. Römerschilde! Doch ich bin nah bei dem Altar. Verzeih, Brenno, daß ich seiner und deiner vergaß. Ich glaube, ich vergaß in dieser Freude des Gottes selbst, wenn er hier stand!
+
+
+EIN ANDRER HAUPTMANN.
+ Hermann kömmt! O Vater Brenno, welch ein Sieg! Hermann, der ihn erfochten hat, Hermann der Retter seines Vaterlands, kömmt, Vater Brenno! Hier sind die Beile der Blutrichter.
+
+
+Er wirft die Fasces weit von sich weg.
+
+
+
+
+THUSNELDA.
+ Er kömmt! Es wird Bardenmusik von fern gehört. Er kömmt! Wo wende ich mich hin?
+
+
+BRENNO.
+ Lebt Varus?
+
+
+DER HAUPTMANN.
+ Er ist todt!
+
+
+Hermanns Barden fahren fort zu singen.
+
+
+
+Denn, o Vertilger der Legionen,
+So hat noch Keiner Wodan geopfert!
+Gewaffnete Hekatomben waren die Opfer'
+
+
+
+
+
+
+
+
+
+11. Szene
+
+
+
+
+Eilfte Scene.
+
+Hermanns Barden. Valerius und Licinius. Hauptleute, die Varus Schild, Cohortenlanzen und zwei Adler tragen. Siegmund Hermann.
+
+
+
+HERMANN
+
+indem er im Eingange sich nach einem Hauptmanne umwendet.
+
+ Die kühlsten Quellen sind die besten für die Wunden.
+
+
+
+THUSNELDA
+
+die mit ausgebreiteten Armen auf ihn zuläuft.
+
+ Hermann!
+
+
+Nachdem sie ihn umarmt hat, fällt sie vor ihm nieder und hält seine Hand und seine Lanze.
+
+
+
+
+HERMANN
+
+er reißt seine Hand von ihr los und hält seine etwas blutige Lanze gegen den Altar.
+
+ Wodan! Dieß war der dritte Tag, und ich lebe! Haltet mir die Lanze in den Bach.
+
+
+Er gibt sie weg.
+
+
+
+
+THUSNELDA.
+ Kommt, kommt und bringt die Blumen!
+
+
+Thusnelda und ihre Jungfrauen streuen Blumen um Hermann.
+
+
+
+
+HERMANN.
+ Wo sind meine Kriegsgefährten? Wo ist Hawart?
+
+
+EIN KRIEGSGEFÄHRTE.
+ Er ist todt!
+
+
+HERMANN.
+ Wo ist Geltar?
+
+
+EIN ANDRER.
+ Er ist todt!
+
+
+HERMANN.
+ Wo ist Horst?
+
+
+HORST.
+ Hier bin ich, Hermann.
+
+
+HERMANN.
+ Horst! Vala will mit den Reitern entrinnen! Mein Vater, sagen sie mir, hat eine leichte Wunde.
+
+
+HORST.
+ Er fühlt keine Schmerzen mehr.
+
+
+HERMANN.
+ Meine Mutter pflegt des ehrwürdigen Greises, sonst wäre sie gewiß hier. Horst, erst an Mana's Felsen herum! Dann durch die Wasserkluft! Dann durch den Bach bei der neunten Eiche! Dann das verwachsne steinige Thal hinauf. Am Ende des Thals kömmt Vala vorbei. Arbeiten sich euer Viele durch, so fesselt Sklaven; aber, sind eure Haufen nur klein, so müssen er und seine Reiter ohne Schonen alle sterben. Du hast mich gehört, Horst? Bei der neunten Eiche. Denn der Bach ist sonst überall zu reißend und zu steinig im Grunde.
+
+
+Horst geht.
+
+
+
+
+THUSNELDA.
+ Du bist noch so wild von der Schlacht, Hermann!
+
+
+
+HERMANN
+
+er ruft Horst nach, der sich umkehrt.
+
+ Horst! das Steinthal, das sich schmal öffnet. Dicht daran ist ein großer Moosfels!
+
+
+THUSNELDA.
+ Ach, Hermann, du siehst deine Thusnelda nicht einmal an!
+
+
+HERMANN.
+ Edles Weib meiner Jugend! Ja, ich lebe, meine Thusnelda! Steh' auf, du freie Fürstin Deutschlands! Es war heiß und blutig in der Schlacht! Steh' auf, Thusnelda! ich habe dich noch nie geliebt, wie heut! Blumen hat mir meine Thusnelda gebracht?
+
+
+THUSNELDA.
+ Nein, Hermann, deine Thusnelda, die freie Fürstin Deutschlands, soll noch nicht aufstehn. Meine Liebe zittert hier wohl in meinem Herzen; aber ich wage es heut nicht, dich anders als mit Ehrfurcht anzusehn!
+
+
+HERMANN.
+ Steh' auf, mein edles Weib! Bald will ich bei dir in deinem Kriegswagen sitzen. So eilen wir an dem Rhein hinauf und sehen vor uns und hinter uns die Schlösser der Römer brennen. Barden! Ihr habt noch nie so viel Theil an den Ehren der Schlacht gehabt. Doch, ich erzähle euch Das alles bei dem Mahle. Eilt jetzt und singt Wodan den Siegsgesang!
+
+
+ALLE.
+
+Geschlagen ist die blutige Todesschlacht!
+Erkämpft der Sieg!
+Der Legionen drohendes Kriegsgeschrei, der Felsherrn stolzes Rufen
+Ist stumm wie das Grab!
+ZWEI CHÖRE
+Wodan hat den hohen Wagen gewandt.
+Hinüber nach Walhalla.
+
+
+Wie des Widerhalls in der Sommernacht war seines Schilds Ton,
+Wie des vollen Mondes der Glanz.
+
+
+
+ZWEI ANDRE CHÖRE.
+
+Flieget den Flug
+Des Kriegeswagen Wodans
+Ihr Seelen, deren edles Blut
+Floß in der blutigen Todesschlacht!
+
+
+
+Folget ihm nach mit den Barden Walhalla's.
+In seinen Hain
+Und singet, wie wir,
+An dem Rauschen der heiligsten Quelle des Hains Siegsgesang!
+
+
+
+ALLE.
+
+Ha, Streiter auf dem donnernden Kriegeswagen.
+Sie liegen und schlummern im Thal'!
+Ha, Streiter mit dem tausendjährigen Eichenschilde,
+Sie liegen und schlummern im Thal'!
+
+
+
+Ha, Streiter Wodan,
+Die stolzen Tribunen im Thal'!
+Ha, Streiter Wodan,
+Die stolzen Legaten im Thal!
+
+
+
+Wodan Streiter Wodan,
+Der Feldherr im Thal'!
+Ha, Wodan, Wodan, Streiter Wodan.
+Augustus komm' und lieg' im Thal!
+
+
+
+HERMANN.
+ Ist hier kein Felsensitz? Die Legionen haben mich müde gemacht. Wer den schattigsten Quell kennt, Der 
+schöpfe mir daraus! Die erste Kühlung, wie sie aus dem Felsen stürzt.
+
+
+THUSNELDA
+
+sie setzt sich bei Hermann.
+
+ Was ist Das für ein glänzender Schild dort, Hermann?
+
+
+HERMANN.
+ Das ist Varus Schild.
+
+
+THUSNELDA.
+ Bring' ihn mir, Hauptmann. So groß, und hat doch nicht gerettet! Sie legt ihn vor Hermann nieder.
+
+
+
+HERMANN.
+ Brenno, die Götter haben es gut gemacht. Diese Schlacht war heiß, und sie dauerte!
+
+
+BRENNO.
+ Jupiter hatte Rom hoch erhöht. Unsre Schlacht lehrt mich von Neuem, daß es über seinen Gipfel weg ist und herunter steigt. O du Edelster unsrer Fürsten, unterjochen sollen sie uns nun nicht!
+
+
+HERMANN.
+ Wähl' und weihe die Eichen, Brenno, in deren Schatten du diese hohen Adler und diese Cohortenbilder hinstellen willst. Ich verberge es euch nicht, meine Stirn glühet mir, und mein Herz schlägt mir laut, wen ich diese Denkmale unsers Siegs ansehe.
+
+
+Seine Lanze wird ihm wieder gebracht.
+
+
+
+
+THUSNELDA.
+ Ich kann dir's nicht aussprechen, Hermann, was mir diese Adler jetzt für ein Anblick sind. Wie furchtbar kamen sie mir vor, wenn ich ins Lager der Römer hinunter sah! Und wie wenig sind sie es hier! Gib mir deinen Adler, Hauptmann! Sie besieht ihn mit Aufmerksamkeit. Hermann wird Wasser in einem Helme gebracht. Nimm ihn, nimm ihn! er hat im Blute gelegen!
+
+
+HERMANN.
+ Der dritte fehlt, aber seine Legion ist vertilgt! Er mag fehlen! Wie nahmst du den Adler, Cherusker?
+
+
+DER CHERUSKER.
+ Wie ich ihn nahm? Wir waren Zwölf, sieben Brüder und fünf Brüder. Wir schwuren bei Thuiskon, daß wir einen Adler nehmen wollten. Da nun mein 
+sechster Bruder auch todt war, da wurde die Rache so heiß bei mir, als der Schwur. Ich schonte meiner und sah nur nach dem Adlerträger. Die Jünglinge warfen mir's vor, daß ich nicht stritt. Ich ließ mir's vorwerfen: denn ich wußte wohl, daß ich sterben wollte! Aber endlich, endlich, da ich wieder drei Lanzen bei einander hatte, und die Cohorten sehr schwankten, da stieß ich dem Träger die dritte Lanze ins Herz. Denn werfen wollt' ich sie nicht, sonst hätt' ein Andrer den Adler genommen.
+
+
+HERMANN.
+ Und du, Bructerer?
+
+
+DER BRUCTERER.
+ Meine Braut sagte zu mir: Einen Adler, oder ich mag dich nicht wiedersehn! Es war mir, als sänge sie mir Bardengesang; aber ich antwortete ihr nicht. Ich hab' auch nur in der Schlacht gespielt, als wär's Waffentanz gewesen. Allein, da die Adlercohorte von Neuem vordrang, und der Kriegsgesang eben sehr stolz herunter scholl, da wüthete ich, daß ich nicht mehr weiß, wie ich ihn nahm! Nun habe ich ihn, und meine Braut seh' ich auch wieder.
+
+
+HERMANN.
+ Diese Jünglinge, Brenno, müssen künftig dicht hinter den Fürsten stehen, wenn du opferst. Thusnelda, den Adler des Bructerers hatte die neunzehnte Legion. Sieh' ihn an, Thusnelda! Er ist uns merkwürdig. Sie erzählen seine Geschichte wie eine Göttergeschichte. Ich begleitete einmal Varus zu der Legion, die in Waffen stand, und er war kühn genug, sie mir zu erzählen!
+
+
+THUSNELDA.
+ Bei Hertha, dieser Adler muß sehr merkwürdig seyn. Denn dein Auge glüht ja, und du bewegst die Lanze, als du thust, wenn du es bei meinem Wagen nicht mehr aushalten kannst und zurück in die Schlacht sprengen willst!
+
+
+HERMANN.
+ Bewegte ich die Lanze, Thusnelda? Einer der Adler aus jener Vertilgungsschlacht, da Marius ... da 
+wir keine Feldherrn hatten! Du bist gerächt, o Blut meiner Väter, du bist gerächt! Brenno, wenn du mit den Weissagerinnen über das Schlachtfeld zeuchst, so rufe den Schatten dieses Cajus Marius herauf, daß er dort wehklage, wie einst, noch lebend, unter den Trümmern Karthago's! Ja, du bist gerächt, o meiner Väter Blut! Gerächt bist du, und rings umher verstummt dir der Ueberwundnen Tod!
+
+
+THUSNELDA.
+ Liebenswürdigster und Geliebtester! Ja, du hast die edeln Krieger und ihre Fürstinnen gerächt!
+
+
+HERMANN.
+ Wem rinnt deine Thräne, Thusuelda?
+
+
+THUSNELDA.
+ Sie rinnt der Freude und dem Blute, dem der Tod verstummt! Nach einigem Stillschweigen. Aber sage mir, wer sind diese Römer auf den Cohortenlanzen? Sind's Kriegsgefährten Marius'? oder ihre Söhne? Wer sind sie?
+
+
+HERMANN.
+ Es sind große Männer, wenn ungerechte Krieger große Männer seyn können.
+
+
+VALERIUS.
+ Ich sehe, Hermann, du schmücktest deine Empörung gern mit dem Namen eines gerechten Kriegs!
+
+
+HERMANN.
+ Du sprichst unsre Sprache, Centurio?
+
+
+VALERIUS.
+ Ja, um besser durch eure Gebirge und Wälder fortzukommen. Hätte Varus die Legionen geführt, wie wir jungen Hauptleute unsre Manipeln, so stünde ich nicht hier!
+
+
+HERMANN.
+ Der Sieg war also euer, wenn Einer von euch die Legionen führte? Höre, Centurio, eh wir die Gerechtigkeit unsers Kriegs und eures Kriegs ausmachen, werden erst noch andre Dinge ausgemacht: Ob du, und zwar jetzt gleich, sterben sollst? Oder ob ich die Druiden das Todeslos über dich werfen lassen soll? Ob ich dich, als Hüter einer meiner kleinsten Heerden, in eine Hütte oder nach Rom schicken soll, damit Augustus durch den Ausforscher unsrer Wälder recht genaue Botschaft von der Schlacht höre?
+
+
+
+VALERIUS.
+ Was nennst du einen ungerechten Krieg?
+
+
+HERMANN.
+ Was, wenn ihr nun aus dem Taumelkreise eurer Herrschsucht herausgestoßen seyd, was dann Jupiter, die Rache des Donners in der rechten Hand, zehntausend Meilen in den Abgrund hinunter so nennen wird!
+
+
+VALERIUS
+
+nach einigem Stillschweigen.
+
+ Ich bin jung; aber du irrst, wenn du glaubst, die Begierde, in dem Taumelkreise zu bleiben, sey so heiß bei mir, daß ich, von ihr verführt, aufhören werde zu reden, wie ich denke. Gerecht ist ein Krieg, wenn ..
+
+
+HERMANN.
+ Schweig' hiervon. Du sollst bei Wodans Altare von dieser ernstvollen Sache nicht sprechen, von der du ohne Das nicht sprechen kannst. Sonst irrst du auch noch so sehr in einer andern, und die, da du glaubst, es liege mir daran zu wissen, wie du denkst. Ich habe mit dem Feldherrn und den Legaten geschlagen: sie und die Legionen sind vertilgt: wie kann ich auf das Geschwätz einiger Hauptleute hören, die das Schwert vergaß?
+
+
+BRENNO.
+ Jüngling, käme Scipio selbst aus seinem Walhalla herauf und träte hier vor uns hin, so antwortete ich ihm, daß der stärkste und der tiefste Grundpfeiler eurer Größe Ungerechtigkeit ist, daß ein Sturmwind der Götter das Felsengebäu niederstürze wird, und daß der dann vielleicht aus dem Norde stürmt!
+
+
+VALERIUS.
+ Zu stolzer Sieger, ich bin aus einem Stamm großer Männer, ich heiße Valerius und kann ein Feldherr werden, der weder sich, noch seine Legionen vertilgen läßt.
+
+
+HERMANN.
+ Und du fühltest nicht, daß mir der Römer sehr gleichgültig seyn müsse, der an einem Tage, wie dieser ist, seine Zuflucht dazu nimmt, daß er von künftigen Feldherrn und von künftigen unzuvertilgenden Legionen spricht? 
+Hättest du mit dieser Valeriusmiene, die du hast (ich kenne euch wohl!), still geschwiegen, wie das Grab, so hätt' ich viel anders von dir gedacht. Aber so mußtest du auch sterben! Nun hast du dein Leben gerettet und bringst die Botschaft nach Rom!
+
+
+VALERIUS
+
+etwas leise zu Licinius.
+
+ Ha, er ist fürchterlich stolz, dieser deutsche Jüngling!
+
+
+LICINIUS.
+ Ich schwieg, Hermann!
+
+
+HERMANN.
+ Wie heißest denn du? Bist du auch aus dem Stamm großer Männer?
+
+
+LICINIUS.
+ Ich heiße Licinius.
+
+
+HERMANN.
+ Du willst mich überreden, daß du Muth zu sterben hast. Aber du wußtest so gut als ich, daß es das Schweigen nicht allein ausmacht. Du bringst auch Botschaft!
+
+
+VALERIUS.
+ Du überlassest dich dem Taumel deines Sieges sehr, Heerführer der Cherusker!
+
+
+THUSNELDA.
+ Ihr Jünglinge von hohem Geschlecht – denn viel andre Vorzüge habt ihr nicht, ihr Jünglinge ohne Wunden – Hermann, der Liebling seines Vaterlands, ist diese drei furchtbaren Tage Heerführer der Deutschen gewesen!
+
+
+VALERIUS
+
+zu Licinius etwas leiser.
+
+ Sie hat die hohe Miene einer Römerin.
+
+
+HERMANN.
+ Ihr wollt, daß ich mit dem Stolz' eurer Triumphatoren nur leise und einsylbig von meinem Siege reden soll. Vor der Schlacht red' ich niemals; aber nach der Schlacht rede ich, wie mir's aus dem Herzen zuströmt. Nennt mir ein Volk, das euch besiegt hat, wie wir heut? Die Parther etwa? Mein ganzes Herz dankt den edeln Parthern für ihre Schlacht; aber wie wir fochten sie nicht! Crassus und seine Legionen starben in der Sandwüste vom. Durste, und so tödteten sie die Parther vollends, die ohne 
+Das viel weiter trafen, als sie getroffen wurden Und, wenn euer todtes Heer ja gegen sie vordrang, so flogen sie auf ihren schnellen Rossen davon und tödteten sogar im Fliehn. Und dann, wenn auch Sandwüste nicht war und Durst und ferntreffender Pfeil: waren denn Crassus Legionen wie diese, die nun unten in Teutoburgs Thälern schlafen? Bei deinem Stammvater, Valerius! habt ihr jemals, hat Cäsar selbst so tapfere und durch die Zucht und die Kunst und die Erfahrung des Kriegs so furchtbare Legionen gehabt? Antworte, wenn du kannst! Vielleicht werft ihr mir unsre dicken Wälder und wasservollen Thäler vor. Aber öffneten sich unsre Wälder nirgends? und bracht ihr nicht gestern durch eine solche Oeffnung hervor und nahmt euch mit blutiger Lanze ein Schlachtfeld, wo ihr euch ausbreiten konntet? Allein duldeten wir euch lange dort? Und mußtet ihr nicht bald wieder in die Eichenschatten zurück? Und mit welchen Waffen thaten wir, was wir gethan haben? Was sind sie gegen die Waffen der Legionen? Wenn unser zu kühnes Volk jemals meine Bitte hört, so sollen unsre Waffen künftig viel anders seyn. Seht nur diese kurzen Lanzen an und diese leichten bunten Schilde. Sie sind im Walde gehaun und nicht aus der Erzgrube gegraben. Wenn ihr uns nicht kenntet, so müßtet ihr glauben, wir hätten sie nur zum Kriegstanze! Aber ihr habt uns schon ehmals ein Wenig gekannt, und heut' habt ihr uns endlich recht vertraut kennen gelernt!
+
+
+VALERIUS.
+ Du schmeichelst dir doch nicht etwa, daß Tiberius säumen werde, mit neuen Legionen zu kommen? Darum rathe ich dir, daß du deine Bitte um andre Waffen bald erhören lassest.
+
+
+LICINIUS
+
+etwas leise.
+
+ Willst du sterben, Valerius?
+
+
+
+VALERIUS.
+ Und hoffst du denn, daß er uns leben läßt?
+
+
+HERMANN.
+ Du sprichst wieder von Dem, was geschehen soll. Weil du so gern vom Künftigen sprichst, so sage mir: Wie wird Augustus die Boten von Teutoburg aufnehmen? Werdet ihr ihm das neue Kriegslied bei dem Nektar nach der lydischen Flöte vorsingen? oder ihm bei Livia's geheimsten Hausgöttern die unvermuthete Staatsvorfallenheit ins Ohr anvertraun?
+
+
+VALERIUS.
+ Bei dem Nektar und bei Livia beschließt er, daß er diese deutschen Empörer vertilgen will!
+
+
+HERMANN.
+ Wird er die Beschließung selbst ausführen? Höre, Sohn der Valere, bring' uns euren großen Imperator in unsre Wälder, und du sollst belohnt werden, wie man selten belohnt wird. Einen Blumenschild sollst du tragen, sollst bei dem Opfer nah' am Altare stehn, und im Bardengesange soll dein Name tönen! Führt diese Gefangnen zu den andern, doch legt ihnen keine Ketten an.
+
+
+VALERIUS.
+ Lass' uns lieber hier tödten, als unten.
+
+
+HERMANN.
+ Erst bringt ihr Botschaft. Wenn ihr sterben wollt, so kommt mit Tiberius wieder! Indem sie weggeführt werden. Bleibt. Zu Valerius. Du wärst unten in Gefahr! denn du würdest des Gesprächs zu viel machen!
+
+
+LICINIUS
+
+etwas leise zu Valerius.
+
+ Ich mag nicht sterben. Wenn du deinen Freund noch liebst, so schweig nun!
+
+
+HERMANN.
+ Wer ist jener Römer in der Fessel, der sich nach dem Walde hinwendet?
+
+
+BRENNO.
+ Ich muß dir meinen Fehler gestehn, Hermann. Ich hätte ihn wegführen sollen. Es ist dein Bruder Flavius.
+
+
+HERMANN.
+ Ach, Thusnelda! Siegmars ältester Sohn, Flavius! O, hätte dich die Schlacht getödtet! Das wäre mir und dir besser gewesen!
+
+
+
+FLAVIUS
+
+der sich umkehrt.
+
+ Denke daran, Sieger, wie ich gegen dich handeln würde, wenn du in Rom so in meiner Gewalt wärst, wie ich hier in deiner bin!
+
+
+BRENNO
+
+zu Flavius.
+
+ Lass' uns nicht daran denken, wie der Verräther seines Volks gegen seinen Bruder handeln würde! Hättest du ihn von der Begleitung des Triumphwagens befreit? Doch ich mag deine Antwort nicht hören.
+
+
+THUSNELDA.
+ Ach, rett' ihn, Hermann!
+
+
+HERMANN.
+ Du weißt, ich kann ihn freilassen. Aber spreche ich ihn dadurch von dem furchtbaren Lose der Druiden los?
+
+
+THUSNELDA.
+ Ach, Brenno!
+
+
+HERMANN.
+ Ich lasse dich frei, Flavius.
+
+
+Sein Führer macht ihm die Kette los.
+
+
+
+
+BRENNO.
+ Bringt die Lose des Lebens und des Todes!
+
+
+HERMANN
+
+der von seinem Sitz aufspringt.
+
+ Halt noch ei Wenig inn, Brenno. Hauptleute, geh' Einer von euch unserm Vater und rede mit ihm.
+
+
+BRENNO.
+ Hermann, würde der verwundete Greis diese Nachricht aushalten?
+
+
+HERMANN.
+ Bleibt Hauptmann!
+
+
+FLAVIUS.
+ O, daß mein Vater verwundet ist! Du böser Stolz meines Herzens, der mich zu den Römern geführt hat!
+
+
+BRENNO.
+ Hattest du etwa Mitleid mit Denen unter deinem Volk, deren Blut deine Lanze heut geröthet hat? Bringt die Lose! Zu einem der Opferknaben. Was zitterst du, Knabe? Du sollst sie werfen! Lerne früh, daß man gut ist, wenn man gerecht ist.  Zu einem Druiden. Führet das Roß zur Götterfrage in das Schlachtfeld hinab keins von unsern geweihten, ein Römerroß: seine Rosse werden ihm schon antworten! Führt's über .. Wie viel deines Volkes hast du getödtet? rede! wie viel? Führt's über fünf Leichen!
+
+
+
+FLAVIUS.
+ Ach!
+
+
+BRENNO.
+ Hast du mehr getödtet, Blutiger? Ueber neun Leichen! Geh, Druide.
+
+
+Kedmon bringt einen Helm.
+
+
+
+
+THUSNELDA.
+ Ach, Hermann, die fürchterlichen Lose!
+
+
+BRENNO.
+ Sind sie drin?
+
+
+KEDMON.
+ Sie sind drin!
+
+
+BRENNO.
+ Breitet den Teppich aus, Druiden! Ein weißer Teppich wird ausgebreitet. Wie viel Lebenslose sind drin?
+
+
+KEDMON.
+ Sechs.
+
+
+BRENNO.
+ Und wie viel Todeslose?
+
+
+KEDMON.
+ Sechs.
+
+
+BRENNO.
+ Nimm drei Lebenslose heraus.
+
+
+THUSNELDA.
+ Das ist hart, Brenno!
+
+
+BRENNO.
+ Gegen einen Hasser seines Volks? und der noch dazu Hermanns Bruder ist? Zu Kedmon. Hast du sie?
+
+
+KEDMON
+
+nachdem er einigemal Lose zurückgeworfen und andre auf den Altar gelegt hat.
+
+ Hier sind sie.
+
+
+BRENNO.
+ Bewege den Helm, Kedmon.
+
+
+THUSNELDA.
+ Wie schreckenvoll klingt dieser Helm!
+
+
+BRENNO.
+ Reiche ihn mir. Ich hebe dir die Lose empor, Wodan. Drei sind Rettung. Laß keines von diesen fallen! Die sechs sind den ruhenden Lanzen gleich, das eine geworfne gleichet der blutigen. Gewähr' uns ein solches Los, Wodan, Gott der Schlacht! Denn hier stehet ein Deutscher vor dir, der sein Volk verrieth und von Sonne zu Mond, noch ein Mal von Sonne zu Mond, das dritte Mal noch mit der sinkenden wider uns focht, da es uns Allen für die Freiheit bis zum Tode galt, und so Viele (Thränen euch, die hinwandelten!) Er sieht mit halbem Blicke nach Siegmar. so Viele von uns der Tod traf! Tritt herzu, Knabe? Das Gesicht ganz von den Losen weg! Greif hinein und wirf hinter dich!
+
+
+
+THUSNELDA.
+ Nein, nein, ich halt' es nicht aus.
+
+
+Sie geht weg.
+
+
+
+
+HERMANN.
+ Um dieses Tages willen, Brenno, laß den Knaben nicht werfen.
+
+
+BRENNO
+
+nach einigem Stillschweigen.
+
+ Tragt den Helm weg. Wer kann dir, Hermann, heut nicht gehorchen? Zu einem Druiden. Ruf' hinunter, daß das Roß nicht geführt werde.
+
+
+FLAVIUS
+
+der Hermanns Knie umfaßt.
+
+ Ach, mein Bruder Hermann! Im Weggehen. Rom, Rom! o, daß du mich so fest an dich gekettet hast! Er geht.
+
+
+
+HERMANN.
+ Und mich, o mein Vaterland, sollst du ewig in deinen sanften Banden halten!
+
+
+THUSNELDA.
+ Ach, Hermann! ach, Brenno! nun bin ich wieder ganz glücklich! Er lebt. Was säumen wir, meine Gespielinnen, unser Siegslied zu singen?
+
+
+HERMANN.
+ Aber nun sollt' ich weggehn, meine Thusnelda!
+
+
+THUSNELDA.
+ Soll der große Sieger nicht bleiben, Brenno, und hören, wie warm das Herz seines ganzen Volkes von ihm ist? Bleib, mein Hermann! Deine röthere Wange wird die Sängerin deiner Thaten noch mehr begeistern.
+
+
+Ich stand am Hange des Felsen und sah
+Hinunterschäumen den Strom und springen am Strome das Reh,
+Da ruften auf Einmal im Thal' herauf die Hirten sich zu:
+Siegmars Sohn ist wiedergekommen von den Heeren Roms!
+
+
+
+Er hatte Spiele der Waffen gelernt
+Ans Vaterland dachte der schöne, heftige Jüngling,
+Da er lernte den neuen Lanzentanz!
+
+
+
+
+
+So fleugt am Haine Semaan durch die jungen Maien der Donnersturm!
+So erschütterte mich die Freude mit ihrem ganzen Ungestüm!
+Dank dir noch einmal, o Hertha, daß ich damals nicht
+Von dem Felsenhange stürzt' und starb!
+
+
+
+Leer war sein Köcher, er jagte nach unseren Rehen herauf
+Den pfeilevollen Ur!
+Er sah mich stehn! Die Töchter der Fürsten standen um mich.
+Er eilte zu mir und nannte mich das erste Mal Braut!
+
+
+
+O Tag, dem keiner glich! Nur dieser Tag des Siegs
+Gleicht meiner bebenden Freuden Tage!
+Heut nennet der schone, heftige Jüngling mit der blutigen Lanze
+Mich wieder das erste Mal Braut!
+
+
+
+Der Knabe, dein Sohn, stammelt nur erst,
+Sonst hätt' er schon bei Mana Rache geschworen;
+Doch greift er fest in den Griff des Schwerts! Ihr Töchter der Fürsten,
+Heut nennt sein Vater mich wieder das erste Mal Braut!
+
+
+
+EIN CHOR JUNGFRAUEN.
+
+Dieses Tages Waffenklang
+Scholl bis in Hertha's Hain!
+Hell glänzt der weiße Teppich in dem Graun des Hains!
+Sauft wallet der Staub an dem Friedenswagen der Göttin!
+
+
+
+DAS ANDRE CHOR DER JUNGFRAUEN.
+
+Mit Zorne denn, allein begleitet den Wagen Hertha's,
+Göttinnen, Töchter Jupiters!
+Wie wehet der Teppich, wie tönt der Friedenswagen
+Ihr Töchter Jupiters!
+
+
+
+
+THUSNELDA.
+
+Die Fürstinnen sahn um das Haupt des Triumphators den Lorbeer schon,
+Hörten schon die goldene Fessel klirren!
+Ich sah den Lorbeer nicht, ich hörte die Fessel nicht klirren:
+Denn Hermann führte die Deutschen!
+
+
+
+Mein Hermann mit dem nervigen Arm,
+Der schnelle Jäger und schnellere Krieger,
+Mein Hermann mit dem feurigen Blick voll Todesbefehl
+Führte die Deutschen!
+
+
+
+EIN CHOR JUNGFRAUEN.
+
+Gern flogen der Deutschen Lanzen dem Todesbefehl!
+Zu Tausenden schweben nun die Schatten
+Aus den Haine Wodans
+Hin nach Minos dunkelm Throne,
+
+
+
+Wie am Ufer der stolzen Elbe
+Der Spreen schwarze Wolke
+Vom Gesträuch' auftönt,
+Zum Gesträuch' niedertönt,
+
+
+
+BEIDE CHÖRE.
+
+Nicht Schatten, Jünglinge wieder,
+Schweben die Edleren, welche den Tod der Freiheit starben,
+Hinüber nach Walhalla
+Zu Lanzentänzen und Siegesmahlen.
+
+
+
+THUSNELDA.
+
+Wo Hermann war, da sanken Schaaren
+In den schweren Schlummer!
+Allein, o ihr, die noch nicht der Schlummer lastete,
+Was warft ihr so schnell die Lanzen weg? die Schilde weg?
+
+
+
+
+
+Täuscht' euch ein Gott, und war der Wodan,
+Daß ihr, mit diesem Todesgeschrei sich senken den letzten der Adler saht?
+Daß ihr, wie in Angsttraume der Schlummernden, saht
+Die Schreckengestalt der Sueven über den Bergen?
+
+
+
+Denn nicht Mitternacht schwebt' im Thal' unsrer Schlacht!
+Schwarz war nicht des dumpfen Schildes Last!
+Wir waren kein grauenvolles Würgerheer
+Wie mit Blut bemalt!
+
+
+
+Es strahlte der Tag
+In dem Thale der Schlacht,
+Und dämmernde Schatten
+Zitterten nur im wehenden Haine.
+
+
+
+Um Mitternacht halten wir Mahl und Rath,
+Und die Barden singen uns Siegsgesang
+Die Krieger singen ihn nach, dann wandelt das Horn des Urs umher,
+Oder ein Jüngling tanzt das Waffenspiel.
+
+
+
+Purpurblumen sind auf dem Schilde
+Meines Hermanns!
+Blühend ist seine Wange bei dem Fest, blühender in der Schlacht!
+Schön flammt's ihm von dem blauen Auge, wenn es Tod gebeut!
+
+
+
+Tod hat's drei Tage geboten,
+Ihr blutigen Eroberer, euren Tod!
+Habt ihr etwa mit Deutschlands Säuglingen und Bräuten
+Mitleid gehabt? ja, euren Tod drei Tage lang!
+
+
+
+
+EINE DER JUNGFRAUEN.
+
+Reich mir den Kranz des heiligen Laubes,
+Daß ich der Fürstin Hermanns ihn bringe.
+
+
+
+EINE ANDRE.
+
+Ich reich dir den Kranz des heiligen Laubes,
+Daß du der Fürstin Hermanns ihn bringest.
+
+
+
+THUSNELDA.
+
+Empfang von Thusnelda den Kranz des heiligen Laubes,
+Befreier deines Vaterlands!
+Ihn nahm mit der goldenen Sichel Brenno
+Von des Haines ältester Eiche!
+
+
+
+BEIDE CHÖRE.
+
+Dieses Tages Waffenklang
+Scholl bis in Hertha's Hain!
+Hell glänzt der weiße Teppich in dem Graun des Hains!
+Sanft wallet der Staub an dem Friedenswagen der Göttin!
+
+
+
+Mit Zorne denn, allein begleitet den Wagen Hertha's,
+Göttinnen, Töchter Jupiters!
+Wie wehet der Teppich, wie tönet der Friedenswagen,
+Ihr Töchter Jupiters!
+
+
+
+HERMANN.
+ Thusnelda, meine Thusnelda! Aber Das verdiente ich nicht! Du weißt nicht, wie unsre Fürsten gefochten haben. Und hat nicht mein Vater sogar eine Wunde? Geh' Einer von euch hin, Druiden, und nehme Heilungskräuter mit und helfe Bercennis. Ein Druide geht. Warum säumen die Fürsten? Hast du sie noch nicht zum Siegsmahl eingeladen, Brenno? Ein Siegsmahl, wie unser heutiges seyn wird, hielten wir nie. Augustus ist ein Gott geworden! Ihm mag Hebe den Taumelsaft in der goldenen Schale reichen. Reicht ihr uns nur das rathschlagende Trinkhorn, 
+Jünglinge, und wir, seine sterblichen Besieger, wollen den Gott nicht neiden!
+
+
+BRENNO.
+ Ich habe in der großen Freude noch nicht daran gedacht, die Sieger einzuladen. Geht, ihr vier Barden dort, in das Schlachtthal hinab. Singt ihnen Brautlieder, indem ihr sie einladet.
+
+
+Die Barden gehn.
+
+
+
+
+THUSNELDA.
+ Da die Römer gestern in den Wald umkehren mußten, konnte ich in der Bardenburg nicht mehr bleiben. Mein Köcher klang mir viel zu schön, und meine Pfeile kamen mir viel zu leicht vor. Ich mußte fort und ein Wenig unter dem Wilde spielen. Erzähl' es den Fürsten, Hermann, daß deine Thusnelda so gut für das Siegsmahl gesorgt hat, als sie dafür, daß es könnte gehalten werden. Aber, wie du, hab' ich nicht gesorgt. Ich floh vor einem Ur, der durch das Gebüsch herabrauschte.
+
+
+HERMANN
+
+zu Brenno.
+
+ Willst du die Eichen nicht wählen und weihn, daß wir die Denkmale des Siegs aufstellen können?
+
+
+BRENNO.
+ Weihen muß ich sie; aber wählen sollst du sie heut'!
+
+
+HERMANN.
+ Ich danke dir, Brenno. Wodan ehre dich, wie du mich ehrst! Wenn ich wählen soll, so werd' ich unter denen wählen, die nach dem Thale zu stehn. Denn dort hinunter sollen diese Römer auf den Lanzen sehn! Mich däucht, unsre Denkmale hier um uns her werden den Fürsten noch mehr gefallen, wenn ich einen Nachtgefährten darunter stelle. Ich nähme gern einen von unsern Cheruskern; aber werden die Fürsten den frohen Blick des Festes behalten, wenn der Nachtgefährt den Cheruskern zugehört?
+
+
+THUSNELDA.
+ Nimm ihn, nimm ihn. Du mußt heut stolz seyn, Hermann! Wer darf es denn jemals seyn, wenn du es heut nicht seyn darfst?
+
+
+
+HERMANN.
+ Kennst du den Fürsten der Katten? und der Semnonen? Nur der Fürst der Bructerer wird es dulden, denn er hat einen Adler!
+
+
+THUSNELDA.
+ Und hat denn nicht dein Vater bei dem Nachtgefährten der Cherusker geblutet? Geh', Hauptmann, und bring' ihn! Der Hauptmann geht. Sie ruft ihn zurück. Hauptmann! den großen schimmernden, der aus die festeingezogne Klaue herabsieht, und den Hermann seinem alten Vater aus dem Feldzug in Illyrien mitbrachte! Er geht. Lehre mich diese Römer ein Wenig kennen, die nach dem Thal' hinunter sehn sollen.
+
+
+HERMANN.
+ Papirius Carbo! Das ist der tapfre Consul, den wir sehr blutig von Noreja zurücksandten. ... Lucius Cassius! Auch diesem Consul kam eine unsrer Schlachten sehr ernsthaft vor. ... Dieser ist Cäsar!
+
+
+THUSNELDA.
+ So sah er aus, der Stolzeste dieser schwindelnden Eroberer?
+
+
+HERMANN
+
+nachdem er Verschiedne angesehn und nicht genannt hat.
+
+ Jener ist Marcus Junius Silanus! Auch er und seine Legionen lernten unsre Lanzen kennen. Cajus Manlius! Servilius Cäpio! Wir sind dicht und lang' an ihrer Ferse gewesen. Ihre Flüchtigen stürzten in den Rhodan. Aurelius Scaurus! Unser zu jugendlicher Fürst Boler tödtete ihn, weil er zu viel von Künftigem sprach.
+
+
+VALERIUS.
+ Hätte mir mein Freund Licinius das Reden nicht untersagt, so würd' ich dir eine Frage thun.
+
+
+HERMANN.
+ Thu sie.
+
+
+VALERIUS.
+ Waren diese großen Männer, die du genannt hast, auch ungerechte Krieger?
+
+
+HERMANN.
+ Cäsar war's.
+
+
+
+VALERIUS.
+ Du gestehst viel zu. Du scheinst ein gerechter Krieger seyn zu wollen.
+
+
+HERMANN.
+ Mehr als scheinen, Römer! Ihr scheint! Ich bin, und ich will seyn (schließ' hiermit deine Botschaft an Augustus) ein Krieger für die Freiheit meines Vaterlands; kennst du einen gerechteren? aber auch – denn wie sehr seyd ihr Das – ein blutiger! Du siehst, Thusnelda, wie sie die Cohorten zur Rache entflammen wollten, weil sie ihnen diese Bilder gewählt haben.
+
+
+THUSNELDA.
+ Künftig also Varus auch mit vor den Cohorten, damit der Reizung zur Rache noch mehr sey! Doch sey du nur wieder vorn unter den Fürsten, Hermann, so wollen wir den Brauttanz ruhig hinter dem Heere tanzen!
+
+
+HERMANN.
+ Ich liebe dich, meine Thusnelda, ich liebe dich! Welch einen fröhlichen Tag hab' ich er lebt! Ha, Thusnelda, nun können die Bräute wieder Blumenkränze winden! Tanz mir zum alten Liede von Mana! Ein Barde soll's singen, und, weil's Thusnelda tanzt, so will ich auch ein Wenig mit drein singen. Du weißt, daß ich den Kriegern in der Schlacht besser zurufe. Barden, wurd' Einer von euch verwundet, da ihr gestern mit euren Beschützern zwischen die Cohorten kamt?
+
+
+EIN BARDE.
+ Ich wurde verwundet.
+
+
+HERMANN.
+ Komm, wir wollen mit einander zu Thusnelda's Tanze singen.
+
+
+Auf Moos', am luftigen Bach,
+Saß Mana mit seinen ersten Waffen,
+Ein röthlicher Jüngling.
+
+
+
+
+
+Komm, Jägerin, komm von des Widerhalls Kluft;
+Das Wild ist erlegt! das Wild ist erlegt!
+Er ruft' es und spült' in dem Bach von des Riesen Helme das Blut!
+
+
+
+Die Jägerin kam von dem Felsen herab.
+Das Wild lag im Thal! das Wild lag im Thal'!
+Er spült' in dem Bach von des Riesen Schilde das Blut!
+
+
+
+Sie sprang zu ihm hin, wie im Fluge des Pfeils,
+Weit über das Wild mit wehendem Haar!
+Da sank in den Bach ihm des Riesen Panzer voll Blut!
+
+
+
+Der Nachtgefährt wird gebracht, und zwischen die beiden Adler gestellt.
+
+
+
+Sie wand das heilige Laub
+Dem Jüngling mit seinen ersten Waffen,
+Dem röthlichen Jüngling.
+
+
+
+HERMANN.
+ Was meinst du, Thusnelda, wenn die hohen Römerinnen den Nachtgefährten der Cherusker, zwischen der Weser in der Kette, und der Elbe in der Kette, vor den Triumphwagen gesehn hätten?
+
+
+THUSNELDA
+
+sie singt und tanzt.
+
+
+Die Jägerin kam von dem Felsen herab.
+Das Wild lag im Thal! das Wild lag im Thal'!
+Er spült' in dem Bach von des Riesen Schilde das Blut!
+
+
+
+HERMANN.
+ Wie würden Brenno und Deutschlands Fürsten sich freun, ließe sich mein ehrwürdiger alter Vater, wie kurze Zeit es auch seyn möchte, zum Siegsmahl herauftragen! Denn er hat ja, wie ihr Alle sagt, nur eine leichte Wunde. Ich kenne diese Art des Ernstes nicht an dir Brenno, mit dem du mich ansahst. Warum seht ihr mich Alle mit diesem 
+Mitleid' an? Es ist ja nur eine leichte Wunde, und dann bat er ein frisches Alter! Und dann ist seine Freude groß! Die allein wird ihn heilen! Hast du ihn gesehn, Brenno? Du antwortest mir nicht? Dein Blick wird ernster! Rede, rede, Brenno, bei Wodan, rede! Redet! wer hat meinen Vater gesehn? Warum seyd ihr so bestürzt? Will mir Keiner sagen, ob er meinen Vater gesehen hat? Warum liegt denn meines Vaters Lanze dort unter dem Teppich'? Ich nehme sie, bringe sie ihm und sehe seine Wunde! Sagt den Fürsten, wenn sie kommen, daß ich dort hingegangen bin!
+
+
+BRENNO.
+ Ach, dort sollst du noch nicht hingehn, Hermann!
+
+
+HERMANN.
+ Du weinst, Brenno! Ich habe dich nie weinen gesehn! Ich will hingehn! Indem er die etwas hervorragende Lanze schnell aufnimmt, entdeckt er den Todten, wirft seine und seines Vaters Lanze weg, stürzt sich auf ihn und küßt ihn. Nach ziemlich langem Stillschweigen. Todt ist er? Ich, mein Vater! O Wodan, Wodan, du gabst mir der Freuden viel. Aber dieser Schmerz ist wüthend wie eine Todeswunde ... Ach, mein Vater! ... ach, mein Vater Siegmar! ... Wo hat er die Wunde? Er springt auf. Wer warf ihm die Wunde? Ist er todt, der sie ihm warf? ist er todt? ... Ach, mein Vater, an diesem Tage ... du ... todt! ... Wer hat ihm die Wunde geworfen? Will mir Keiner sagen, wer ihm die Wunde geworfen hat? und ob er todt, todt, todt ist, dieser Verhaßteste unter diesem verhaßtesten aller Völker? dieser Letzte unter allen Thronkriechern Augustus?
+
+
+EIN HAUPTMANN
+
+er drängt sich zwischen den Andern hervor.
+
+ Die Lanze flog ..
+
+
+HERMANN.
+ Ha, die Lanze flog, und du stelltest dich ihr zum Tode nicht hin?
+
+
+
+DER HAUPTMANN.
+ Ich war weit von dem hohen Tribun.
+
+
+HERMANN.
+ Schweig'! Ach, mein Vater, an diesem Tage. Hat mein Vater den Sieg erlebt, du dort, der der Lanze nicht entgegen sprang? Sage mir, Brenno, ob mein Vater den Sieg erlebt hat, oder dieser Zögerer muß sterben!
+
+
+DER HAUPTMANN.
+ Wenn du noch ein solch Donnerwort sprichst, so sieh nur her! Er legt sein Cohortenbild nieder und weist auf seine Lanze. Sieh' her! sie kann's auch! und dieß Herz hier fürchtet sie nicht!
+
+
+BRENNO.
+ Ja, Hermann, dieser ehrenvolle Mann, der nun in Walhalla ist, hat den größten unsrer Siege erlebt!
+
+
+HERMANN.
+ Hat seinen Sieg erlebt! Reiche mir deine Hand, Hauptmann, du bist unschuldig. Du weinest gewiß mit mir über unsern Vater! Aber ist der Tribun todt?
+
+
+DER HAUPTMANN.
+ Ob er todt ist? Meinst du, daß von dieser Lanze kein Blut in den Bach floß?
+
+
+THUSNELDA.
+ Ach, mein Hermann, dein edler Vater!
+
+
+HERMANN.
+ Bringt mir diese Römer weg, sie sollen meinen todten Vater nicht sehn! Indem er schnell auf Valerius zugeht. Ha, Valerius, bist du eines Tribuns Sohn?
+
+
+VALERIUS.
+ Mein Vater war kein Krieger.
+
+
+HERMANN.
+ Das gab ihm Jupiter ein, seiner Kinder Leben zu retten, daß er kein Tribun ward! Geh'! Sie werden weggeführt. Ach, Siegmar! Mein Vater Siegmar! Und todt lagst du schon damals hier, als ich mit allen Freuden des Sieges herauf kam? todt hier, als über Flavius das Todeslos nicht geworfen ward? Aber deins haben die Götter, um Wodan her versammelt, geworfen! Fürchterlich hat Wodans hohler Schild geklungen, als ihn die Götter mit den Losen darin schüttelten. In Wolken hüllte sich Hertha, griff in den Schild und warf und Tod fiel aus ihrer Hand! Denn 
+sonst wäre deine Lanze, Tribun, von meines Vaters Blute nicht blutig geworden!
+
+
+BRENNO.
+ Wenn du wüßtest, mit welchen Freuden über unsern Sieg dieser große Mann, der dein Vater und der Freund meiner Jugend war, den Tod herankommen sah, so trauertest du nicht.
+
+
+HERMANN.
+ Wie starb mein Vater? Schweig'! ich will es nicht hören. Ich halte seinen Anblick nicht mehr aus. Deckt ihn zu ... Nein! nicht mit dem Teppiche, deckt ihn mit den Adlern zu! ... Nein, nicht ihr! Gebt mir die Adler. Er wirft sich nieder und küßt ihn und bedeckt ihm das Gesicht mit den Adlern. Indem er aufsteht. Ach, Wodan, und all ihr Götter! der älteste und der kühnste und der furchtbarste deiner Krieger, o mein Vaterland, hat diese Adler nur in der Schlacht und nicht hier gesehen!
+
+
+SIEGMUND.
+ Nicht er, ich hätt' in dieser Schlacht sterben sollen, ich allein unter allen Söhnen der Fürsten!
+
+
+HERMANN.
+ Brenno, du Freund seiner Jugend, begrab' ihn bei einer der Eichen, die ich für die Adler wählen werde. Welcher ist der Adler der Legion, unter der der Tribun war?
+
+
+DER CHERUSKER.
+ Dieser.
+
+
+HERMANN.
+ Brenno, bei der Eiche dieses Adlers! Ach, mein Vater Siegmar, an diesem großen Triumphtage!
+
+
+BRENNO.
+ Der der schönste seines Lebens war, auch deßwegen, weil er sein letzter war! ... Geht hinunter zu den Fürsten und sagt ihnen, daß heut kein Siegsmahl ist.
+
+
+Einige Druiden gehn.
+
+
+
+
+HERMANN.
+ Ja, und daß Der, welchen sie zu ihrem Feldherrn erhuben, den schönsten Tag seines Lebens mit Trauern endiget!
+
+
+
+BRENNO.
+ Hat es denn nicht Wodan gethan, Hermann?
+
+
+HERMANN.
+ Meinest du, daß ich Wodan nicht verehre, weil ich traure? Warum verbargst du mir seinen Tod, Brenno? Warum ließest du mir zu, daß ich mich freute?
+
+
+BRENNO.
+ Dein Vater wollte es so, als er starb. Mein Sohn Hermann soll erst das Siegsmahl halten! sagte er. Es war sein letztes Wort.
+
+
+HERMANN.
+ O du bester aller Väter!
+
+
+
+
+
+
+
+
+12. Szene
+
+
+
+
+Zwölfte Scene
+
+Werdomar und sein Sohn.
+
+
+
+DER KNABE.
+ Wo ist denn mein Schild und meine Lanze? Führe mich nicht, ich wanke nun nicht mehr. Nur ist mir's noch ein Wenig dunkel vor den Augen. Wo ist meine Lanze und der Römerhelm, den ich nahm? Wer ist denn Das dort? Ach, Hertha, es ist Hermann! Indem er zu Hermann hineilt, wankt er. Er sinkt bei Hermann nieder und küßt ihm sein Schwert und hält's mit beiden Händen. Ach, Hermann, Hermann, dich seh' ich wieder! Bist du auch verwundet, Deutschlands großer Heerführer?
+
+
+HERMANN.
+ Brenno! was will dieser Knabe mit dem trüben kühnen Auge?
+
+
+BRENNO
+
+etwas leise.
+
+ Ich habe den Göttern für ihn gedankt. Er ist in der Schlacht gewesen! Er ist zum Tode verwundet!
+
+
+DER KNABE.
+ Warum sagst du es nicht laut, was du zu Hermann sagst? Darf's Hermann nicht wissen, daß ich 
+in der Schlacht gewesen bin? Hab' ich armes Kind nicht genug darin gethan? Hab' ich nicht eine heiße Wunde hier? Schämt sich Hermann meiner? Warum sagst du nicht laut, was du sagst?
+
+
+HERMANN.
+ Hat mein Vater diesen Knaben in der Schlacht gesehn?
+
+
+BRENNO.
+ Nein, aber ich hab' es ihm erzählt.
+
+
+HERMANN.
+ Nun so sieht ihn sein Geist von der Abendwolke! Knabe, Bruder meines Sohns, wenn mein Sohn deiner würdig wird, wie liebe ich dich!
+
+
+Er hebt ihn in die Höhe und küßt ihn.
+
+
+
+
+DER KNABE.
+ Ach, Hermann!
+
+
+SIEGMUND
+
+der sich schnell naht.
+
+ Laß mich ihn auch küssen, Hermann. Nein, nein! Er tritt zurück. Ich bin unter den Römern gewesen.
+
+
+HERMANN.
+ Bei dem Blute, das ich an deiner deutschen Lanze gesehen habe, küss' ihn! Siegmund bückt sich nieder und küßt ihn auf die Stirne. Ihr Götter, welch ein Tag ist dieser! und Siegmar ist todt!
+
+
+DER KNABE.
+ Ist Siegmar todt?
+
+
+THUSNELDA.
+ Mein edler Sohn! siehst du es denn nicht, daß er dort unter den Adlern liegt?
+
+
+DER KNABE.
+ Ach, so haben wir denn die Adler! Mein Auge wird manchmal so dunkel. Aber ich mag ihn auch nicht sehn. Darf ich mich wohl noch ein Wenig an deinem Schwert' halten, Hermann? denn ich wanke wieder so sehr. Wie ist mir denn jetzt wieder? und wo bin ich denn wieder?
+
+
+WERDOMAR.
+ Da, sieh, mein Sohn, da hast du deine Lanze und deinen Schild und den Römerhelm, den du nahmst!
+
+
+HERMANN.
+ Ist er dein Sohn, Werdomar?
+
+
+
+WERDOMAR.
+ Er ist mein Sohn.
+
+
+HERMANN.
+ Glücklicher Vater!
+
+
+WERDOMAR.
+ Ach, ich werde bald ...
+
+
+DER KNABE.
+ Ja, Das ist meine kleine schöne Lanze! Ha, du Mähnenbusch, wie wehtest du in der Schlacht! Nein, nein! Das ist meine Lanze nicht! Das ist das Schwert des Centurio, welches er mir in die Brust stieß!
+
+
+WERDOMAR.
+ Ach, bald werde ich ein so unglücklicher Vater seyn, als du ein unglücklicher Sohn bist.
+
+
+BRENNO.
+ Verzeih' es seinem Schmerze, daß er dich unglücklich nennt. Das bist du nicht. Denn dein ehrenvoller Vater ist aus der größten unsrer Schlachten nach Walhalla gegangen.
+
+
+HERMANN.
+ Wie ist der kühne Knabe umgekommen?
+
+
+DIE BEIDEN ANDERN KNABEN.
+ Ein Centurio wollte sinken ...
+
+
+HERMANN.
+ Knaben, seyd ihr auch in der Schlacht gewesen?
+
+
+BEIDE.
+ Ja!
+
+
+EINER.
+ Aber wir sind unschuldig: wir konnten ihn nicht zurückhalten! Ein Centurio wollte sinken, da rannte er ihm mit seiner Lanze gerade nach dem Herzen zu und traf ihn auch; aber der Centurio riß die Lanze heraus und stieß sie ihm in die Brust: allein er nahm dem Römer doch den Helm, so sehr er auch selbst blutete.
+
+
+HERMANN.
+ Ach, daß mein Vater diese Knaben nicht sieht! Kühne Knaben, ihr helft meines Vaters Tod rächen! Ihr Blumen des Vaterlands, ihr seyd dann vorn und fechtet mit den Veteranen! Wo sind eure Lanzen?
+
+
+EINER.
+ Sie sind auch blutig geworden, aber die Schlach' ward auf Einmal so heiß, daß wir sie nicht wieder finden konnten, und die großen Lanzen konnten wir nicht werfen.
+
+
+
+DER AELTESTE.
+ Das ist nur ein Spiel, über diesen Bach zu springen, denn ich will meine Lanze an dem Felsen drüben wetzen. Mein Vater, bitte du Brenno, daß er mir nur drei Blätter des heiligen Laubes in die Locken flechte! Nun, so weht nur ohne heiliges Laub, meine Locken! Aber blutig soll Hermann, soll Siegmar, soll Brenno, sollen alle Hauptleute der Narisker, soll Thusnelda, sollen alle Hauptleute der Semnonen, blutig sollen sie meine Lanze sehn. Ach, ach, welch ein Schmerz! Aber wo bin ich denn? Welcher Todte liegt dort, auf den die Adler aus der Wolke heruntergestürzt sind? Tanzt zum Siegsliede, Knaben! Das sind die Adler Wodans! Das ist Varus! Das bist du, Varus, auf dem die Adler sitzen. Nein! nein, er ist es nicht, er lebt noch! dort stehet er! Er weist auf Hermann. O du Römerfeldherr, warum sitzen Wodans Adler nicht auf deiner Leiche? Ha, nimm nur dem Centurio sein Schwert und stoß' es mir noch einmal ins Herz! Wie kriegerisch tönen die Hörner der Barden! Ich will auch singen, Barden! Ich kann nun nicht wieder in die Schlacht gehn.
+
+
+Er bemüht sich zu singen.
+
+
+
+Ha! ihr Cherusker, ihr Katten, ihr Marsen, ihr Semnonen!
+Ihr festliche Namen des Kriegsgefangs!
+O Schmerz in meinem Herzen hier!
+
+
+
+THUSNELDA.
+ Kaum hatte ich's länger aus, Hermann! Druiden, habt ihr denn gar keine Heilungskräuter für ihn?
+
+
+BRENNO.
+ Er stirbt ja schon, Thusnelda.
+
+
+DER KNABE.
+ Einen Blumenschild hast du, Varus? Wem hast du den Blumenschild genommen, Tyrannenfeldherr? Ihr Götter, Das ist ja Hermanns Schild! Ist Hermann todt? Nun, so will ich auch sterben!
+
+
+
+HERMANN.
+ Bringt ihn mir her, daß ich's ihm recht sagen kann, daß ich lebe. Er setzt sich.
+
+
+
+DER KNABE.
+ Zu Varus schleppt ihr mich hin? zu Varus?
+
+
+HERMANN
+
+der ihn in seine Arme nimmt.
+
+ Guter, kühner, tapfrer, liebenswürdiger Knabe! ich bin Hermann, und ich lebe. Sieh' her! dieser ist mein Schild, der Schild, den mir Thusnelda gab, da sie meine Braut war.
+
+
+DER KNABE.
+ Ja! Das ist der schöne Schild mit den Purpurblumen! Aber bist du Hermann?
+
+
+HERMANN.
+ Kennest du meine Stimme nicht? Ich bin Hermann, und ich sage dir mit dieser Stimme, die du kennst, daß ich dich sehr lieb habe, und daß ich dir danke, daß du in der Schlacht gewesen bist!
+
+
+DER KNABE.
+ Ach, du bist Hermann und nicht Varus! Hermann küßt ihn. Warum weinest du denn, da du doch gesiegt hast?
+
+
+HERMANN.
+ Sprich etwas weniger, mein Liebling, mein Kriegsgefährt, mein Sohn! Wenn du zu viel sprichst, so blutet deine Wunde wieder. O Brenno, könntest du mir sagen, daß du Hoffnung hättest!
+
+
+DER KNABE.
+ Ich will dir gern gehorchen, du großer Feldheer Deutschlands: denn ich trage heut meine ersten Waffen.
+
+
+HERMANN.
+ Du bist nicht mehr, mein Vater! ach, und ich kann mit dir nicht mehr von den Freuden reden, die ich habe!
+
+
+THUSNELDA.
+ Wenn nur dein Herz erst nicht mehr von dieser heftigen Wehmuth fortgerissen wird, so rede ich mit dir von den Freuden dieses Tages und vornehmlich von dieser größten unter ihnen, daß dein Vater an diesem Tage 
+so altdeutsche Thaten gethan hat. Hermann, willst du nicht seinen unsterblichen Namen im Bardenliede hören? Singt, Barden, sein Stillschweigen scheint es zu erlauben.
+
+
+ZWEI CHÖRE.
+
+O Vaterland, o Vaterland
+Du warst ihm mehr als Mutter und Weib und Braut,
+Mehr als sein blühender Sohn
+Mit seinen ersten Waffen.
+
+
+
+Du warst ihm die dickste, schattigste Eiche
+Im innersten Hain.
+Die höchste, älteste, heiligste Eiche,
+O Vaterland!
+
+
+
+ZWEI STIMMEN.
+
+Die Blum' auf dem Schilde Siegmars,
+Da auf sie das Blut des Todes troff,
+Da ward sie schön wie Hertha
+Im Bade des einsamen Sees.
+
+
+
+ZWEI CHÖRE.
+
+Die Cherusker haben gesehn, daß des Schildes Blume sich röthete
+Von Siegmars Todesblume
+Sie haben an Hertha's geweihtem Wagen gestanden und die Göttin gesehn
+Im Bade des einsamen Sees.
+
+
+
+HERMANN
+
+der den Barden mit der Hand gewinkt hat.
+
+
+ Brenno!
+Einst seh' ich, daß diese Purpurblumen sich röthen
+Von meinem Todesblute!
+
+
+Dann steh' ich an Hertha's geweihtem Wagen und sehe die Göttin
+Im Bade des einsamen Sees.
+
+
+Weine nicht, Thusnelda! denn dazu hat mich meine Mutter geboren. Fahrt fort, Barden.
+
+
+EIN BARDE.
+
+Einst sieht Hermann, daß seines Schildes Blume sich röthet.
+Von seinem Todesblute
+Dann steht er an Hertha's geweihtem Wagen und siehet die Göttin
+Im Bade des einsamen Sees.
+
+
+
+DREI CHORE.
+
+Siegmar, du starbst fürs Vaterland!
+Nun bringt dir in dem kühlsten der Haine Walhalla's
+Dir, der wieder Jüngling ward,
+Die ersten Waffen Thuiskon!
+
+
+
+Dir singen nach die Barden an Wodans und Hertha's Altar,
+Entgegen dir die Barden Walhalla's!
+Ohne deinen Namen wäre den Barden hier,
+Ohne ihn den Barden dort die dankende Saite stumm!
+
+
+
+ALLE.
+
+Und, hast du bei Waffentänzen und Siegesmahlen
+Die zweite lange Jugend gelebt,
+So nimmt dich ans in seinen strahlenden Hain
+Allvater.
+
+
+
+DER KNABE.
+ Sind diese Schatten um mich her die Schatten der Haine Walhalla? Und sind es die Barden dieser Haine, die von Siegmar singen? Haben die Römer meinen Vater auch zu ihren Chören ...
+
+
+
+
+
+
+
+
+13. Szene
+
+
+
+
+
+
+Dreizehnte Scene.
+
+Ein Marser Hauptmann, der einen losgerissenen Adler trägt, und ein Cherusker Hauptmann.
+
+
+
+DER MARSE.
+ Ich habe dem Römer die Todeswunde geworfen, und dieser Cherusker Jüngling hier streitet mir's, daß uns Marsen der Adler zugehöre!
+
+
+DER CHERUSKER.
+ Hermann, Hermann, o du bester Fürst unsers Volks, der Adler ist unser! Ich rannte dem Träger den Spieß in das Herz!
+
+
+DER MARSE.
+ Ja, ja, aber viel zu spät, da der Römer schon hinschlummerte, da! Sprich nur nicht viel mehr, du Jüngling, der nur von der Jagd und nicht von der Schlacht sprechen sollte, dieser fürchterlichsten von allen unsern Schlachten. Schweig, sag' ich! Den Marsen, sag' ich, gehört der Adler und nicht den Cheruskern!
+
+
+BRENNO.
+ Wüthe nicht so, Hauptmann! Siehst du nicht, daß Siegmar hier todt vor uns liegt?
+
+
+DER MARSE.
+ Ist er todt, so kann er die Schlacht in Walhalla erzählen! Wenn du den Adler deinen Cheruskern zusprichst, Hermann, so eile ich hin und erzähle dort mit Siegmar, erzähle, daß du sehr ungerecht gegen die Marsen gewesen bist!
+
+
+DER CHERUSKER.
+ O Siegmar, du Krieger, wie Mana war! Dieser Stolzeste, dieser Ungerechteste unter Marsens Jünglingen will mir den Adler nehmen, der dir gehört!
+
+
+HERMANN.
+ Sprecht mir diesen theuren Namen nicht wieder aus, Jünglinge! Mein Herz blutet, wenn ich ihn 
+höre. Zu dem Marsen. Du warfst die Todeswunde? und hast den Adler?
+
+
+DER CHERUSKER.
+ Näher bei die Schulter warf er; ich stieß in das Herz! Glück war's und nicht mehr Schnelligkeit, als ich habe, daß er ihn zuerst ergriff. Ich rang ihn dir aus deiner schwächeren Faust, machte mich die Wuth über deine Ungerechtigkeit nicht kraftlos! Bleich, wie die Espe bei den Grabhügeln, ward ich! Du hast es gehört! Sie sagten es laut, die Hauptleute, die um uns her standen! ... Siegmar, Siegmar, der Adler gehört unserm Volke zu!
+
+
+DER MARSE.
+ Ha, ich habe den Adler, ich hab' ihn! Das ist genug! Sprich du nun von der Todeswunde, bis der Mond untergeht!
+
+
+HERMANN.
+ Hauptleute, ich freue mich, daß ihr uns mit dieser ungestümen Hitze siegen halft! aber reden müßt ihr anders, sonst kann ich nichts entscheiden, und der Adler wird bei dem Altare niedergelegt, bis ich euch wieder zu mir rufe.
+
+
+DER MARSE.
+ Verzeih mir's, wenn ich nicht rede, wie ich soll. Aber todt, todt will ich lieber seyn, als den Adler lassen, den ich genommen habe. Deine Cherusker taumeln heute vor Stolz! Was brauchen sie Adler? Sie haben dich!
+
+
+DER CHERUSKER.
+ Ja, Hermann haben wir, und den habt ihr nicht ...! und der Adler ist auch unser, du wüthender Jüngling! Ich habe den Römer getödtet!
+
+
+DER MARSE.
+ Du ihn getödtet? O, daß du hingeschlummert wärst, wie er hinschlummerte, da ich ihn tödtete!
+
+
+HERMANN.
+ Brenno! ... o Brenno! wie würde mir dieser Streit gefallen, wenn ihn der ehrenvolle Greis dort erlebt hätte und ihn entschiede! Jetzt nimmt mein Herz zu wenig Antheil daran. Untersuche du ihn, Brenno.
+
+
+
+BRENNO.
+ Hauptleute! Ihr seyd bei dem Altar', und dort ist Siegmar, und hier Hermann! Redet nicht mehr mit einander! Antwortet mir.
+
+
+DER MARSE.
+ O Priester Wodans! Wenn ich an Dieß alles denken muß, so laß mich zu unserm Fürsten hinuntergehn, aber mit dem Adler! Wenn er ihn den Cheruskern zusenden will ... Er kann thun, was er will, und ich auch, was ich will!
+
+
+BRENNO.
+ Und was würdest du denn thun?
+
+
+DER MARSE.
+ Durch Hülfe dieser Lanze, die den Adlerträger mit seinem Todesblute gefärbt hat, hingehn und Wodan und Mana und Siegmar fragen, wessen Forderung gerechter war.
+
+
+BRENNO.
+ Sank der Römer gleich hin, da du ihn getroffen hattest?
+
+
+DER MARSE.
+ Er hatte den Adler an den Gürtel befestigt und ließ sich zwischen Sträuchen in das Wasser. Ich warf und sah gleich die Todesblässe in seinem Gesicht.
+
+
+DER CHERUSKER.
+ Die kam erst, als ich ihm gleich daraus meine Lanze ins Herz stieß. Ich rief gleich: Der Adler ist mein! Denn er war mein! Wir zogen den Römer zugleich aus dem Wasser. Da über unserm Ringen der Gürtel riß, rang mir dieser Marse den Adler aus der Hand, weil ich zu sehr vor Zorn zitterte!
+
+
+DER MARSE.
+ Meinest du, Brenno, daß ich nicht auch zornig war?
+
+
+HERMANN.
+ Heb Varus' Schild auf, Thusnelda. Zu dem Cherusker. Lebt dein Vater noch, Hauptmann?
+
+
+DER CHERUSKER.
+ Er lebt.
+
+
+HERMANN.
+ Geh zu deinem Vater und sage ihm von mir, daß ihm sein Weib einen edeln Sohn geboren hat! Nimm diesen Schild mit! Er ist dein!
+
+
+
+DER CHERUSKER.
+ Du hast ein fürchterlich Urtheil gesprochen, o Hermann!
+
+
+DER MARSE.
+ Dank dir im Namen meines Volks, Gerechtester und Tapferster unsrer Fürsten!
+
+
+HERMANN.
+ Gib ihm den Schild, Thusnelda. Einige unsrer Kühnsten sind nah dabei gestorben, Hauptmann!
+
+
+DER CHERUSKER.
+ Ich mag den Schild nicht! Er war nur Varus Stolz und würde nur meiner seyn. Der Adler war der Stolz der ganzen Legion und würde der Stolz unsers ganzen Volks gewesen seyn! Er geht.
+
+
+
+HERMANN.
+ Dieser edle Jüngling ist künftig mein Kriegsgefährt! Bewahrt ihm den Schild, Hauptleute!
+
+
+DER MARSE.
+ Er verdiente von dir, Hermann, und so belohnt zu werden.
+
+
+THUSNELDA.
+ Ich und meine Jungfrauen bewahren ihm den Schild. Bei dem ersten Brauttanze des Frühlinges soll er ihn nicht verschmähn. Sie gibt ihn einer ihrer Jungfrauen.
+
+
+
+DER MARSE.
+ Thusnelda, Belohnerin der Tapfern, ich vertraue dir den Adler an, steige die Klippe hinab und sage meinen Marsen, daß er unser ist.
+
+
+THUSNELDA.
+ Reich' ihn mir her, Hauptmann! Der Marse geht. Das sind gute Jünglinge, Hermann! Und dieser Adler ist schön. Sieh, wie er schwebt, Hermann!
+
+
+HERMANN.
+ Ja, Thusnelda! Aber Siegmar sieht ihn nicht! Horst kömmt zurück. Wie ist dir's gegangen, Horst?
+
+
+HORST.
+ Er liegt unter seinen Turmen! Denn ich hatte Lust zu sterben! Nun weißt du, ich seh' ihn dort wohl, den ich blutig heraufführte; nun weißt du, warum ich Lust zu sterben hatte.
+
+
+
+HERMANN.
+ Ach, Horst! Ja, Das ist mein Vater! Doch ich muß mich von diesem bitteren Schmerze losreißen, wenn ich kann. Focht Vala vorn? oder bei den letzten Turmen?
+
+
+
+
+
+
+
+
+14. Szene
+
+
+
+
+Vierzehnte Scene.
+
+BERCENNIS.
+ Ach, dort! ... Nun darf ich kommen. Nun weißt du, daß er todt ist!
+
+
+HERMANN.
+ Ach, meine Mutter! Er ist todt!
+
+
+BERCENNIS.
+ Wir haben Gefangne, Sohn!
+
+
+HERMANN.
+ Ach, dort unter den Adlern!
+
+
+BERCENNIS.
+ Wir haben viel Gefangne, vier Tribune! zwanzig Centurione und mehr als zweihundert andre Tyrannensklaven!
+
+
+HERMANN.
+ Meine arme Mutter, wie wirst du geweint haben!
+
+
+BERCENNIS.
+ Geweint? Ich hört's, und mein Auge starrte hin! ... Sie hauen die Tannen schon um zu seinem Todtenfeuer. Ich lasse diesmal der Tannen viel mehr als sonst in den Bach stürzen!
+
+
+HERMANN.
+ Ich habe wie du gelitten, meine Mutter!
+
+
+BERCENNIS.
+ Vier! sage ich, und Zwanzig! und Zweihundert! Verstehest du nicht, was Die von dir fordert, deren Auge nicht geweint hat, und die sein Weib und deine Mutter ist? Thusnelda legt vor Schrecken den Adler vor sich nieder.
+
+
+
+HERMANN.
+ O du Weib seiner Jugend und meine theure Mutter!
+
+
+
+BERCENNIS.
+ Sie sollen doch nicht etwa leben?
+
+
+HERMANN.
+ Wie kann ich Die tödten, die nicht mehr streiten?
+
+
+BERCENNIS.
+ Die unsre Knaben erwürgt, die unsre Jungfrauen gezwungen haben, daß sie gegen ihr eignes Leben wütheten, die ihn getödtet haben, Die lägen nicht um seine Leiche her in dem Dampfe des Todtenfeuers?
+
+
+HERMANN.
+ Ich kenne Wodan, und ich weiß, daß er das Mitleid liebt! Und Dieß rufet mir mein Herz laut zu!
+
+
+BERCENNIS.
+ Und ich weiß, daß die Göttin der Rache mit glühendem Blicke geschworen hat, daß kein Römer leben soll, der den Bluttritt in unsre Haine wagt!
+
+
+HERMANN.
+ Ich zücke das Schwert gegen waffenlose Krieger nicht!
+
+
+BERCENNIS.
+ Siegmar! Sie geht auf die Leiche zu. Ach, er ist todt! Siegmar, dein Sohn will dein Blut nicht rächen!
+
+
+HERMANN.
+ Ich will es rächen, aber an den neuen Legionen!
+
+
+BERCENNIS.
+ Weh mir! Leben sollen die Tyrannensklaven?
+
+
+HERMANN.
+ Ja, und deine Sklaven seyn, deine Heerden hüten, deine Hürden tragen, dir den Bach leiten, den Strauch durchhauen diese Söhne der hohen Geschlechte, diese künftigen Senatoren!
+
+
+BERCENNIS.
+ Diese künftigen Feldherrn! denn frei lässest du sie auch, die wiederkommen und mich und dich zu ihren Triumphwagen fortschleppen!
+
+
+HERMANN.
+ Wegen der Triumphwagen hat diese Schlacht gesorgt, und sie wird weiter sorgen.
+
+
+BERCENNIS.
+ Lebend soll ich Die vor mir sehn, die deinen Vater getödtet haben? Liegt etwa den andern Völkern Deutschlands unten ein Siegmar im Blute? Und doch müssen ihre 
+Gefangnen sterben! Ja, wenn diese Söhne der Fabier aus ihrem Schattenreich' herauf wandeln und mir dienen müßten, dann!.. Lebend sie? Druiden! wo sind die Fürsten? Sie lebend, die in unsre Haine das Richterbeil trugen, die deinen Vater in sein letztes Blut stürzten!
+
+
+HERMANN.
+ Bei Mana, meine Mutter, ich tödte die entwaffneten Römer nicht!
+
+
+BERCENNIS.
+ Dank sey's Hertha, daß ich nicht vor dir niedergefallen bin! denn ich wollt's thun, du Unerbittlicher, Unerbittlicher gegen dein Volk und deine Mutter und deinen todten Vater! Sie geht.
+
+
+
+HERMANN
+
+nach einigem Stillschweigen.
+
+ Nein, ich halte diesen Anblick nicht mehr aus! Entfernt meines Vaters Leiche von mir! .. Legt die Adler auf den Altar! .. Eilt! .. Du, Horst, und dreihundert Cherusker, ihr umringt diese Nacht den Felsen. Du sollst bei der Leiche stehn! Ich kann jetzt die Eichen nicht wählen, Brenno.
+
+
+BRENNO
+
+nachdem die Leiche weg ist.
+
+ Druiden, deckt meinen todten Freund mit einem weißen Teppiche zu!
+
+
+HERMANN.
+ Ruf mir, Brenno, wenn du wieder opferst, so will ich die Eichen wahlen! Ich kann jetzt hier nicht mehr weilen! Ich bin immer noch dem Todten zu nah! Er geht hin und her. Du sollst gerächt werden, mein Vater! ja, du sollst gerächt an den neuen Legionen werden, an allen ihren Tribunen und Legaten und Feldherrn! ... Ha, an ihren hohen Tribunen gerächt mit Todesrache! Horst, eile, fleug hinunter zu den Cheruskern und sag' ihnen, ruf' es ihnen laut zu, daß es alle, alle wissen! Dieß ruf' unter die blutigen Lanzen hinein: Wenn ihr auf dem Altarfelsen die Hörner wüthen hört und singen hört aus Wodans Gesang, dann schwören Hermann und Alle, die um ihn sind, bei dem
+ Schwert, zu rächen Siegmars Tod an allen Römern, die kommen werden! Schreckliche, nie vergessende, nie verzeihende Rache, Blut oder Ketten, schwören wir bei dem Schwert'! Eile nun gleich fort und komm' eben so schnell zurück! Hermann reißt einem Barden das Schwert von der Seite. Horst, bring Segest dieß Schwert von mir! Horst geht. Ha, Das erluftet mein Herz, daß wir Cherusker Dieß schwören. Er geht hin und her. Nein, nein, Das ist noch nicht genug! Werdomar, tritt ganz auf dem Felsen vor und ruf's in das Thal hinab den Fürsten Deutschlands zu, daß kein Schonen seyn soll, und daß wir's bei dem Schwert schwören!
+
+
+Der Marse kömmt zurück. Er nimmt den Adler wieder.
+
+
+
+
+WERDOMAR
+
+zu einem Barden.
+
+ Komm du, dein Horn wüthet, komm! Indem er den Barden schnell mit sich fortführt, etwas leiser. So stell dich! so! blas jetzt ins Thal hinunter. Kriegsgeschrei, Barde! Nachdem der Barde geblasen hat. Ihr Sieger, ihr Rächer, ihr Fürsten Deutschlands! wenn hier die Hörner wüthen, hier oben bei dem Altar, wenn's tönt ans Wodans Gesang: dann schwört Hermann bei dem Schwert, schwört Siegmund, schwört der Bructerer, der den Adler nahm, der Marse, der den Adler nahm, schwört der Cherusker, der den Adler nahm, schwören alle Jünglinge mit den Cohortenlanzen, alle Kriegsgefährten Hermanns, schwören alle Cherusker bei dem Schwert, bei dem Schwert, zu rächen an den neuen Legionen Siegmars Tod, der ein Mann de Vaterlands war, ein ganzes Heer er, der Eine, mit nie vergessender, nie verzeihender Rache, durch Fessel oder Blut, zu rächen Siegmars, Siegmars Tod! Siegmars Tod!
+
+
+HERMANN.
+ Werdomar, so im Walhallaton' hat mir nie eins deiner Lieder geklungen! Beschließ' es auch, o Wodan, was wir beschließen!
+
+
+
+HORST.
+ Hermann, alle deine Cherusker haben ihre Hand an das Schwert gelegt! Sie drücken fest am Griffe und werfen glühende Blicke der Rache umher!
+
+
+Die Barden erheben auf Werdomars Wink ihre Hörner.
+
+
+
+
+HERMANN.
+ Noch nicht, Werdomar, noch nicht. Die Fürsten Deutschlands müssen es erst ihren Heeren zurufen.
+
+
+HORST.
+ Seyd ihr Alle meine Zeugen: Ich trage diesen Blutring bis an meinen Tod!
+
+
+HERMANN.
+ Halt' Einer meinem jungen Kriegsgefährten dort ein Schwert in der Hand! Er soll's auch schwören! Vielleicht lebt er, und, wenn nicht –
+
+
+WERDOMAR.
+ Ach, wie kann er? Seine Hand sinkt und ist schon kalt vom nahen Tode!
+
+
+HERMANN.
+ Wenn denn nicht, so erzählt er Siegmar, was er mitgeschworen hat. Sein Vater hält ihm das Schwert.
+
+
+
+DER KNABE.
+ Was soll das schwere Schwert hier? Ist es das Schwert des Centurio? Will mich der blutige Mann vollends tödten?
+
+
+WERDOMAR.
+ Hörtest du nicht, du lieber Sohn, was ich hinunterrief? Du sollst Das auch bei dem Schwerte schwören. Hermann hat's geboten.
+
+
+DER KNABE.
+ Ja, ich hörte es wohl, wie du auf der Harfe herunter rauschtest und meiner Mutter ein Siegslied vorsangst.
+
+
+HERMANN.
+ Wodan, Wodan, beschließ' es auch! Nun, nun, Werdomar, nun.
+
+
+So lange die Barden singen, halten Alle das Schwert in die Höh.
+
+
+
+Wodan, unbeleidigt von uns,
+Fielen sie bei deinen Altären uns an!
+Wodan, unbeleidigt von uns
+Erhoben sie ihr Beil gegen dein freies Volk!
+
+
+
+
+
+
+

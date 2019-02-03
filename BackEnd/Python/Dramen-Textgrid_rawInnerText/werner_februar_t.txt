@@ -1,0 +1,3558 @@
+
+
+
+
+Der vierundzwanzigste Februar
+
+
+hdl:11858/00-1734-0000-0005-9C40-5textgrid:x5bv.0
+ Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). 
+
+Lizenzvertrag
+
+
+ Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache 
+
+
+Hinweise zur Lizenz und zur Digitalen Bibliothek
+
+
+
+
+
+                              Text nach dem Erstdruck: Leipzig (Brockhaus) 1815. Uraufführung am 13.10.1809 in Coppet im Privattheater der Madame de Stael.
+                           
+
+
+
+
+Das Schicksalsdrama. Herausgegeben von Jakob Minor, Berlin und Stuttgart: Spemann, [o.J.] [Deutsche National-Literatur, Band 151].
+Werner, Zacharias
+
+241-
+
+
+Stuttgart
+
+
+
+
+
+
+
+
+
+
+drama
+
+
+
+
+
+
+
+
+Zacharias Werner
+Der vierundzwanzigste Februar
+Eine Tragödie in einem Akt
+
+
+
+
+
+
+[Motto]
+
+
+
+
+
+ Führe uns nicht in Versuchung!
+
+
+
+
+
+
+
+
+Prolog an deutsche Söhne und Töchter
+
+
+
+
+Prolog an deutsche Söhne und Töchter
+
+
+1
+
+
+Dieweil ich jetzt, vor dem erwachten Volke,
+Gereint mich habe durch ein frei Bekennen
+Dessen, was ich an ihm verbrach und irrte;
+Will ich mich noch vom Schreckgedichte trennen,
+Das mir, bevor ich's sang, als Wetterwolke
+Den düstern Sinn, den trunknen Geist verwirrte,
+Und als ich sang es, schwirrte
+Gleich Eulenflügeln! – Mög' es euch verkünden,
+Was, habt ihr Reinen es auch nicht erlebet,
+Doch tief im leichtgereizten Abgrund bebet;
+Auf daß ihr euch bewahrt vor Todessünden
+Und, wie der Urfeind jeden auch versuche,
+Vor dem auf Erden immer regen Fluche! –
+
+Ward dies Gedicht gleich in der Nacht gesponnen,
+Als Nachhall gleichsam eines Sterberöcheln,
+Das, leise zwar, ins Mark, das inn're, dröhnet:
+
+So dankt es sein Erscheinen doch dem Lächeln
+Deß, den ich Helios, das Bild der Sonnen,
+Zu nennen liebe, weil ihn Klarheit krönet,
+Und weil, als unversöhnet
+Ich irrte noch, mich hat sein Strahl erquicket!
+Zwar muß mein Pfad von seinem streng sich trennen,
+Doch macht sein Blick mich immer noch entbrennen,
+Ob, ach, mein Aug' ihn gleich nicht mehr erblicket,
+Und seinem Flammenauge nicht darf sagen:
+Daß nie ein Herz ihm treuer hab' geschlagen! –
+
+Auch ward dies Lied, das nächtliche, gesungen
+Am heitern weinumkränzenden Gestade
+Des Lemans, den die ros'gen Gletscher grenzen.
+Ein fräulich Bildnis weilte dort der Gnade;
+Doch seit der Freiheit Oriflamm' geschwungen,
+Entwand es sich zertret'nen Alpenkränzen,
+Dem freien Meer zu glänzen! –
+Mein Helios, der nicht mir wird entrissen,
+Und die Aspasia, wer edel, nannte,
+Weib, deren Herz den Weltgeist übermannte,
+Ihr zwei, mir mehr als alle, sollt es wissen,
+Wie meiner Thränen Strom um euch, der reine,
+Ringt, daß er, teuren, euch dem Quell vereine! –
+
+Ihr aber, Söhne, Töchter von dem Lande,
+Das Kern sein wird erfrischter Kraft und Wahrheit,
+Ihr Wächter an der hohen Zukunft Hallen!
+Seht ihr den Helios der deutschen Klarheit
+Leuchten an untergangner Weltzeit Rande
+Mit Majestät, so dankt ihm, ehrt sein Walten!
+Hört ihr Drommeten schallen,
+Triumphesschwangre, denkt, daß er's gewesen,
+Der, in der Unzeit, die jetzt wird zu Spotte,
+Den Blick euch rein wusch, der jetzt flammt zu Gotte:
+»Im Anfang war die That!«
+
+
+2
+ Ihr habt's gelesen!
+
+Der Obermeister zwar wird Meister meistern,
+Doch darf sie Schülerwitz nicht überkleistern! –
+
+Und Deutschlands fromme Söhne, sinn'ge Töchter,
+Denkt ihr, daß Deutschland neu soll Deutschland werden,
+Das heißt, das Deutungsland der Weltgeschichte:
+So denkt des Weibes, die, auf fremder Erde
+Geboren, doch geweckt hat unsre Wächter,
+Und folget mir, der ich mit dem Berichte
+Zum Danken euch verpflichte!
+Aspasia, die den Leman hat geschmücket,
+Dankbar ertön' ihr deutsches Lied vom Rheine,
+Und sei ihr Bote von dem Gnadenscheine,
+Der ab auf uns und sie die Strahlen drücket,
+Und der, weil sie der frömmsten Töchter beste,
+Sie nicht wird schließen aus vom Völkerfeste! –
+
+Nachdem ich dieses hab' euch vorgehalten,
+Will ich euch noch von meinem Werke sagen,
+Aus welchem nackend euch entgegen schauert
+Was, dem gerechten Feuerroß und Wagen,
+Im ungerechten Frevelthun und Schalten
+Den dauernden Verbrecher überdauert,
+Und sicher ihn erlauert!
+Eisernes Schicksal nannten es die Heiden;
+Allein seit dem hat Christus aufgeschlossen
+Der Höllen Eisenthor den Kampfgenossen,
+So schafft das Schicksal weder Lust noch Leiden
+Den Weisen, die, mag Hölle blinken, blitzen,
+In treuer Brust des Glaubens Schild besitzen!
+
+Jedoch wir andern, die wir uns noch wollen,
+Nicht Gott allein, sind leicht im Netz bestricket,
+Und leicht des wilden Jägers arme Beute;
+Und daß ihr seine Jagd von fern erblicket,
+Den stets gespannten Bogen, immer vollen
+
+Köcher des Erzfeinds, drum biet' ich euch heute
+Dies Lied, das nie mich reute.
+Heut' biet' ich's euch; wer will die Völker retten,
+Wie ihr es wollt und, weil ihr's recht wollt, könnet,
+Der, eh' dies Heilandtum ihm wird vergönnet,
+Muß ab sich reißen erst des Frevels Kletten,
+
+Und heute muß er das, dieweil das Morgen
+Uns allen, heut zumal, hält Nacht verborgen!
+Und heute kann er's; denn die alte Kunde
+Vom Fluch, gottlob, ist uns ein Märlein worden;
+Ein Kind, ein Christenkind, kann drüber spotten,
+Und welcher ist getreten in den Orden
+Des Herrn, der für uns litt die Todeswunde,
+Kann aus den Fluch und alle Sünden rotten,
+Mit einer Thräne rotten!
+Drum unverzagt, ihr meine Schmerzgesellen!
+Macht solcher Thränen Strom
+
+
+3
+ mein Lied euch weinen,
+Heil euch und mir, dann eilt das Land zu reinen,
+Dann ist's nicht Nacht mehr, dann in eurem hellen,
+Gereinten Blick leuchtet der Morgen wieder
+Befruchtend auf das deutsche Land hernieder!
+
+Doch ihr, die, längst belastet vom Verbrechen,
+Und schon gewohnt, die Centnerlast zu tragen,
+Euch selbst belüget, daß ihr nicht sie fühlet;
+Ihr, die ihr: »bist du thöricht?« sprecht zum Zagen,
+Und wagt's, den Eumeniden Hohn zu sprechen,
+Da doch ihr Schlangenheer schon in euch wühlet!
+Weil euch der Quell noch kühlet,
+Die Luft noch labt, noch süße Lichter scheinen,
+Eilt, eh' die Nacht euch ewig hält gebunden,
+Eilt, knieend fleh' ich's, eilt zu Jesu Wunden,
+Gleich! eh' zu spät ist euer reuig Weinen!!! –
+O Thoren, mögt ihr mich für thöricht halten,
+Nur flieht (ich kenne sie!) die Nachtgewalten! –
+
+Und endlich ihr, die ihr im stillen Frieden
+Des Hauses, oder auch des Kampfgefildes,
+
+(Denn überall ist er den Seinen eigen!)
+Bewahrt euch habt ein treues, reines, mildes,
+Schuldloses Herz; (auch mir ward's einst beschieden,
+Doch ich verlor's im wilden Lebensreigen!)
+Ihr, die ihr frei euch zeigen
+Vor Gott und Menschen dürft, noch nicht gedrücket
+Durch Schuld, und wenn ihr redlich habt gestritten,
+Heimkehren könnt noch in des Hauses Mitten
+An Mutterbrust, die euch mit Segen schmücket;
+Bleibt, Söhne, Töchter, bleibt ihr treu vereinet!
+So spricht, der unbehaus't und unbeweinet! –
+
+Lebt alle wohl! – Ein Lied hab' ich gesungen
+Dir, Volk, ein heidnisch noch vom alten Fluche,
+Doch dürfte bald die Zeit, die hohe, kommen,
+Die (rasseln hört man schon vom Schicksalsbuche
+Die Blätter!) wo, wenn erst die That gelungen,
+Das Lied auch wieder neu wird angeglommen,
+Ich meine das im frommen
+Christlichen Glauben blüh'nde Lied vom Segen!
+Nach langem eitlen Thun und Spiel und Reden
+Wird wecken Gott den christlichen Tragöden,
+Der dir, o Volk, wird tragen das entgegen
+Im freud'gen Spiel, was mir muß mißgelingen:
+Ein reiner Sänger wird's mit Gott vollbringen! –
+
+Bis dahin unverdrossen
+Ringe, mein Volk, das Possenspiel zu enden,
+Das, schon seit vielen Jahren angefangen,
+Mit blut'gen Fratzen hat die Welt behangen;
+Dazu thut euch der Herr, ihr Deutschen, senden!
+Euch, mir und meinem Bußgesange geben
+Mög' er – (nein, nicht dem letzten!!!) – ew'ges Leben!
+
+Geschrieben am Abend des Tages des heiligen
+Apostels Matthias, 1814.
+
+
+
+Fußnoten
+
+
+
+1 Prolog. Es wird zum Verständnisse dieses Prologs bemerkt, daß meine demselben beigefügte Tragödie, im Februar 1809 unter den Auspicien Seiner Excellenz des Herrn Geheimen Rats von Goethe zu Tage gefördert, von diesem größten Kunstkenner und Musageten Deutschlands und Europas einer huldvollen Aufnahme gewürdigt, ja sogar unter seiner Leitung und auf eine seiner würdige, nämlich vollkommen und durchaus meisterhafte Weise späterhin zu Weimar dargestellt worden ist. Auch hat meine tragische Erscheinung auf einer Bühne zu Coppet, unter gütiger Mitwirkung eines hochverehrten Meisters und teurer Kunstfreunde, das Glück genossen, der Frau Baronin von Stael-Holstein, dieser an Geist und Herz gleich großen Mitbefreierin Deutschlands und Europas, kostbare Thränen zu entlocken, als sie (es war im Spätjahr 1809) noch nicht nach England verscheucht die Ufer des Genfersees noch zum Asyl würdiger Freude machte. – Übrigens darf ich, zur Steuer der Wahrheit, hinzufügen, daß, den Titel und wesentlichsten Umstand meiner Tragödie ausgenommen, die Katastrophe derselben, gottlob, erdichtet, und muß ich auch, um den unschuldigen Ort (wo ich sie, des zu ihr sehr passenden und von mir treu geschilderten Lo 
+kals wegen, vorgehen lasse) nicht zu verleumden, bemerken, daß sie dorthin von mir nur versetzt ist.
+
+
+
+
+2 Aus Goethes Faust. Eine Parallelstelle zu dieser lautet folgendergestalt:
+»Wer Großes will, muß sich zusammenraffen,
+In der Beschränkung zeigt sich erst der Meister,
+Und das Gesetz nur kann uns Freiheit geben!«
+Welche drei Verse für jeden, insofern er nur die darin enthaltenen allerwichtigsten Substantiva nicht mißversteht, und überhaupt (was lange äußerst selten gewesen ist) wollen kann, goldene Worte sind, die wir Deutschen zumal uns bei jedem Morgen- und Abendgebete überhören sollten! Freilich: »Im Anfange war das Wort«; und weil der Anfang ewig und das Ende überhaupt eine Lüge ist, so ist und bleibt das Wort auch ewig »im Anfange«! Das beginnt aber für den Einzelnen mit dem Willen, und für eine Gesamtheit, z.B. für ein Volk, mit der (aus dem Zusammenraffen aller Einzelnen entspringenden) That. Daher ist allerdings und bedingter Weise »im Anfange die That«; und deshalb ist, anderer Sachen nicht zu erwähnen, unser deutsches Volk z.B. (so gern man so etwas auch, wenn eben der Himmel voller Geigen hängt, vergessen möchte) gegenwärtig, gottlob (für Viele dürfte es auch Gott sei's geklagt heißen), im Anfange!
+
+
+
+
+3 Jeremias, der Prophet, nennt einen solchen Strom einen Felsenstrom (deduc quasi torrentem lacrymas, Thren. 2. v. 18), weil er sein Wasser von oben her erhalten muß!
+
+
+
+
+
+
+
+Personen
+
+
+
+
+
+Personen.
+
+Kunz Kuruth, ein schweizerischer Landmann.
+
+Trude, dessen Frau.
+
+Kurt, ihr Sohn (als Reisender unerkannt).
+
+
+
+
+
+
+
+
+
+1. Auftritt
+
+
+
+
+Erster Auftritt
+
+Bauernstube und Kammer, durch eine Seitenwand getrennt, an der eine kleine Wanduhr, eine Sense und ein großes Messer hangen. Im Hintergrunde ein Strohlager und ein alter Lehnstuhl. Die Stube ist durch eine auf dem Tische brennende Lampe erleuchtet.
+
+
+Es ist Nacht. Die Wanduhr schlägt eilfe.
+
+
+
+TRUDE
+
+allein, am Spinnrocken sitzend.
+
+
+Schon eilf, und Kunz noch immer nicht zu Haus:
+Er ging nach Leuk doch heute früh schon aus. –
+Wenn er nur nicht verunglückt! – Welch Getöse
+Der Föhn heut wieder treibt! Als ob der Böse
+Vom Gellihorne pfeift, es zu zerreißen,
+Und es dem Gemmi nach dem Kopf zu schmeißen,
+Wie Kunz das Messer schmiß! – Was fällt mir ein! –
+Ja, um die Zeit just wird's gewesen sein;
+Es war ja, glaub' ich, auch im Februar,
+Als Vater, seliger, gestorben war. –
+'s ist lang schon her, und dennoch denk' ich dran,
+Es überläuft mich kalt! – Wo bleibt mein Mann?
+Vielleicht – ach Gott! – riß eine Schneelawine
+Ihn mit sich fort! – Mich grauselt's! – Im Kamine
+Ist auch kein Spänlein Holz – kein Bissen Brot
+Im ganzen Haus – und Jammer nur und Not! –
+Sie haben uns ja fast das letzte Hemd genommen,
+Die harten Gläubiger! – Wie ist mir's heut beklommen!
+Schwer ist der Fluch erfüllt; – es ist ein schwer Gebot
+Das vierte! – Andre Mütter haben einen Sohn;
+Doch unsrer, der als Kind schon in die weite Welt entfloh'n,
+Verflucht vom fluchbeladnen Vater, rot
+Vom Schwesterblut – längst hieß es: er sei tot! –
+Wär' ich's nur auch erst, dann wär' ich der Qual entkommen! –
+
+
+Ich will eins singen – der Gesang soll frommen,
+Wenn mit dem Schuldbuch und der böse Feind bedroht! –
+
+
+
+Singt.
+
+
+
+Wovon ist dir dein Schwert so rot?
+Eduard, Eduard! –
+Ich hab' geschlag'n 'nen Geier tot,
+Davon ist mir mein Schwert so rot!
+O weh, o weh! –
+
+
+
+Ein garstig Lied! – Es hat 'nen dummen Schluß!
+Brr! – Welch Geräusch? – Es klopft ans Fenster! – Muß
+Doch zusehn; ganz gewiß ist es mein Mann!
+
+
+
+Sie geht an das Fenster.
+
+
+
+'ne Eule klammert sich ans Fenster an!
+Auch sie sucht Schutz vorm Sturm! – Was das Ding glotzen kann! –
+Sie starrt mich an! – Weg da! – Sie flieht und kreischt: komm mit! –
+O meinst du mich, dann wär' ich sorgenquitt! –
+
+
+
+Sie setzt sich wieder an den Rocken.
+
+
+
+Die Eulen, sagt man, wittern nahe Leichen;
+Auch mir ist's leichenhaft – die Angst will nimmer weichen! –
+'s ist auch so einsam auf dem Gemmi hier!
+Dies Häuschen steht allein; drei Stunden in die Runde
+Kein menschlich Wesen, als nur wir!
+Wird's Winter, siedelt alles sich an im sichern Grunde,
+Nur wir, wie von den Geistern der Alp gefesselt schier,
+Sind hier – und heut' nur ich und meine Qual mit mir! –
+Ein munter Liedel scheucht vielleicht die düstre Stunde!
+
+
+
+Singt.
+
+
+
+Und wenn der Bau'r ein Bauer ist,
+So führt er seinen Pflug,
+Und wenn er ein Hütli und Hemdli hat,
+So hat er Kleider g'nug! –
+Hütli auf,
+Federli drauf;
+Hirthemdli dran! –
+Bunt Bänderli an!
+Der Bauer ist kein Edelmann,
+Der Bauer ist ein Bau'r;
+Das Leben wird ihm sau'r! –
+
+
+
+
+
+Herr Jesus! war's dies Lied nicht, das er pfiff,
+Der Kunz, als er die Sense schliff?
+
+
+
+Man hört an der Thüre klopfen.
+
+
+Es klopft! – Mach' auf ich?! –
+
+
+Zur Thür eilend und sie öffnend.
+
+
+Ha, es ist mein Mann!
+
+
+
+
+
+
+
+
+2. Auftritt
+
+
+
+
+Zweiter Auftritt
+
+Trude, Kunz ganz beschneit, einen Krückstock und eine fast ausgebrannte Laterne in der Hand.
+
+
+
+TRUDE
+
+indem sie dem Kunz den Schnee abklopft.
+
+Du böses Täteli, wie lange bleibst du dann! –
+
+
+KUNZ.
+Bin bis aufs Hemde naß! – Mach Feu'r! –
+
+
+TRUDE.
+Womit?! –
+
+
+KUNZ.
+
+Ja so,
+Wir haben ja kein Holz! – Nun laß das, sei nur froh! –
+
+
+
+TRUDE.
+Froh? –
+
+
+KUNZ.
+Weil's entschieden nun mit uns ist! –
+
+
+Ein Papier aus der Tasche ziehend.
+
+
+
+Dies Mandat
+Gab mir der Vogt zu Leuk, als ich ihn knieend bat,
+Uns nur 'nen Monat lang noch Zahlungsfrist zu geben! –
+
+
+
+TRUDE.
+Er that's?
+
+
+KUNZ
+
+ihr das Papier gebend.
+
+Nun, lies nur! –
+
+
+TRUDE.
+Mensch, du machst mich beben!
+
+
+Lesend.
+
+
+»Dieweil der abgedankte eidgenössische Soldat, vormaliger Wirt und dermaliger Einlieger des Wirtshauses Schwarrbach 
+auf der Gemmialpe, Kunz Kuruth, die von dem Sennhirten, Johann Jugger, gegen ihn eingeklagte Wechselschuld von dreihundert Gulden Berner Währung, der mehrmaligen ihm bewilligten Prolongationen und Zahlungsfristen ohnerachtet nicht-zahlen kann, als wird beklagten Kunz Kuruth'schen Eheleuten angedeutet: daß dieselben morgen den 25sten Februar früh um acht Uhr, wenn sie bis dahin den Kläger nicht klaglos gestellt haben, mit ihren irrelevanten Einwendungen nicht weiter gehört, sondern vom Gerichtsdiener ausgepfändet, ihr Haus und Wiesenstück zu Schwarrbach, nach Abzug der darauf bereits haftenden Schulden, zur Befriedigung des Wechselgläubigers an den Meistbietenden verkauft, sie selbst, beklagte Eheleute aber, zur Abarbeitung der durch ihre Habseligkeiten nicht zu tilgenden Schuldenmasse, morgen in die Fronfeste gebracht werden sollen. Wie recht ist von Rechtswegen!«
+Leuk, den 24. Februar 1804.
+»Untervogt und Schöppen
+hiesigen löblichen
+Oberwallisischen Ortsgerichts.«
+
+
+O Gott! – Warst du beim harten Jugger nicht,
+Und bat'st ihn noch um eine Frist? –
+
+
+
+KUNZ.
+
+Der Wicht!
+Was hab' ich nicht versucht, um ihn zu rühren:
+Nur vierzehn Tage Frist uns noch zu leih'n.
+Umsonst! – Kein Stein kann mehr gefühllos sein,
+Als dieser reiche Klotz! – »Ich hab' nichts zu verlieren.«
+So sprach er, »satt bin ich der Bettelei'n;
+Hab' ich bis morgen früh mein Geld nicht, wohl, so führen
+Die Schergen euch in Schuldturm ein!« –
+
+
+
+TRUDE.
+Warst bei den Nachbarn nicht, bei unsern Vettern, Basen?
+
+
+KUNZ.
+I – alle sperrten sie die Thür mir vor der Nasen!
+
+
+TRUDE.
+Und das sind Blutsverwandte! –
+
+
+
+KUNZ.
+
+Ein Blutsverwandter heißt,
+Der dir am letzten hilft und dich am ersten beißt!
+
+
+
+TRUDE.
+Sie haben, als wir reich, sich oft hier satt gegessen!
+
+
+KUNZ.
+Nach der Verdauung ist so was vergessen!
+
+
+TRUDE.
+So bringst du nichts mit?
+
+
+KUNZ
+
+indem er ein halbes Brot aus der Tasche zieht und es auf den Tisch wirft.
+
+
+Nichts, als dieses halbe Brot!
+Mir gab's der arme Heini; er kennt des Hungers Not,
+Drum brach er's mit mir! – Heute schützt es uns noch vorm Tod! –
+
+
+
+TRUDE.
+Und morgen?!
+
+
+KUNZ.
+
+Wenn die Schergen kommen – dann –
+Ein Schelm erträgt mehr, als er kann –
+Dann – wie ich lebte, sterb' ich – ein freier Schweizermann! –
+
+
+
+TRUDE.
+Du bist entsetzlich! – Hast du denn alles schon versucht? –
+
+
+KUNZ.
+
+Alles umsonst! – Wer einmal ist verflucht,
+Der bleibt's! –
+
+
+
+TRUDE.
+
+Was meinst du? – Sieh mich nicht so gräßlich an! –
+Drei Stunden nur von hier – gleich vorn im Kanderthal –
+Wohnt doch der reiche Stöffli, der Kühe sonder Zahl
+Und Käse hat, genug die Alp damit zu pflastern,
+Und Geld, wie Heu! – Er lebt in Schand' und Lastern,
+Ist immer abends schon betrunken – wohnt allein –
+Wie wär's – du schlichst dich heute nacht noch bei ihm ein,
+Und –? – Starr mich nicht so an! – Kannst ihm's ja wiedergeben,
+Wenn Gott uns segnet. –
+
+
+
+
+KUNZ.
+Uns Verfluchte?! –
+
+
+TRUDE.
+
+Wie ein Leih'n
+Ist solch ein Nehmen! – Diebstahl, Gott soll behüten! – Nein! –
+Doch sich im Notfall Ehr' und Leben
+Durch solch ein – Nehmen retten, was man durch Fleiß und Streben
+Zu seiner Zeit ersetzt! Kann das wohl Sünde sein?
+
+
+
+KUNZ.
+
+Weib! – Wagst du's, schändlich Weib, die Augen aufzuheben? –
+Ich, ein gewes'ner eidgenössischer Soldat,
+Der auf der Tagesatzung mitgestanden hat,
+Und, was er satzen half, mit Gut und Blut vertrat!
+Der lesen, schreiben kann, die Chronik hat gelesen,
+Und weiß, wer Tell und Winkelried gewesen,
+Und was, in alter Zeit, fürs allgemeine Wesen,
+Mit eig'nem Nachteil oft, ein jeder Schweizer that!
+Ich, den vor dreißig Jahren die Herrn vom Berner Rat
+Beim Abschied gaben das Certifikat:
+Daß ich dem Feind allein 'ne Fahne abgenommen! –
+Ich – stehlen? – Wag's mir nicht noch einmal so zu kommen! –
+
+
+
+TRUDE.
+Um Gotteswillen, sei nur wieder gut!
+
+
+KUNZ.
+
+Dein Vater war ein Pfarrherr, und du 'ne solche Brut,
+Die – stehlen will! – Pfui, schäm dich! –
+
+
+
+TRUDE.
+
+Dein wilder Jammer thut
+Mir's Herz zerreißen! – Ach, könnt' ich mit meinem Blut
+Dich retten! –
+
+
+
+KUNZ.
+
+Sei du nur auf deiner eig'nen Hut!
+Ich weiß, was mir gebührt! – Noch keiner hieß Kuruth,
+Und saß im Turm! – Ich sollt' der erste, sollt' allein
+Der sein, der seiner Väter Namen schändet? – Nein! –
+Mein Entschluß ist schon fest genommen;
+Ich kann nicht anders! – Wenn sie mich morgen holen kommen
+
+
+Zum Schuldturm – geh' ich mit, bis wo sich beuget ein
+Der Weg vom Lämmerngletscher über das Gestein
+Zum Daubensee – dann – mag Gott mir Sünder gnädig sein! –
+Dann – anders geht's nicht! – stürz' ich mich in den See hinein! –
+
+
+
+TRUDE.
+Gerechter Gott! –
+
+
+KUNZ.
+
+'s ist besser doch zu sterben
+Wenn gleich ein solcher Tod ist hart! –
+Als auszuschlagen aus der Väter Art,
+Und stehlen, oder Schande sich erwerben!
+
+
+
+TRUDE.
+
+O lebe, und wir wollen betteln geh'n
+In allen fern entlegenen Kantonen,
+Ich will die Heimat nimmer wiederseh'n,
+Wo solche eis'ge Menschengletscher wohnen;
+Auch da, wo nicht die Alpenlüfte weh'n,
+Wird man Erbarmen kennen und Verschonen!
+Komm, laß uns flieh'n! Laß dieses Haus des Fluchs allein,
+'s ist so verschuldet ja – kein Nagel drin ist dein;
+Laß uns bei Fremden betteln – sie werden menschlich sein! –
+
+
+
+KUNZ.
+
+Jetzt – betteln geh'n! – Bist du von Sinnen?
+Soll ich dein Mörder werden, Weib? –
+Das würd' ich, führt' ich jetzt im Winter dich von hinnen,
+Dich schwächlich Wesen! Meinst du, es sei ein Zeitvertreib,
+Wenn überall die Schneelawinen rinnen,
+In jedem Alpenpaß der Waldbach losgelassen saust,
+Und wie des Vaters Fluch – dir Tod entgegenbraust? –
+Des Vaters Fluch! – Du halfst ihn mir gewinnen,
+Ich teilt' ihn mit dir, und du trugst ihn treu,
+Durch achtundzwanzig Jahr – jetzt laß mich ihn entsühnen! –
+Bist du von mir, dem Fluchbeladnen, frei,
+Kannst besser du allein dein Brot verdienen;
+Verdienen, sag' ich – nicht durch Bettelei
+Erjammern! – Nein, das Weib des braven Kuruth sei
+Verachtet nicht! –
+
+
+
+
+TRUDE.
+Und du?! –
+
+
+KUNZ.
+
+Ich will es mich erkühnen,
+Vor Gott zu treten – fluchentsühnt! –
+
+
+
+TRUDE.
+
+Und um
+Den Fluch, den nichts entsühnt, dir zu erringen,
+Zu schänden deiner Väter Ruhm,
+Und mich, dein teu'r erkauftes Eigentum,
+Verzweifelnd in die Gruft zu bringen!
+
+
+
+KUNZ.
+Du meinst, es sei ein Schimpf, sich töten? –
+
+
+TRUDE.
+
+Flieh die Schlingen,
+Die dir der Böse legen thut!
+Des Mittlers Blut, es floß auch dir zu gut! –
+O nimm die Bibel; laß uns beten, singen,
+Und waschen unsre Schuld in bittrer Thränenflut!
+Wenn jetzo Dunkel auch auf unsern Augen ruht,
+Kann uns zu retten doch – vielleicht uns noch gelingen!
+
+
+
+KUNZ.
+
+So meinst du? – Freilich, 's ist ein schwerer Schritt!
+Ich dachte nicht noch so was zu erfahren!
+
+
+
+TRUDE.
+Drum bet! –
+
+
+KUNZ.
+
+Das kann ich nicht seit achtundzwanzig Jahren,
+Seitdem der Alte starb! – Bet du nur für mich mit! –
+
+
+
+TRUDE.
+So hol die Bibel! – Gott, wie ist mein Herz voll Bangen! –
+
+
+KUNZ.
+Ich will sie gleich herunterlangen! –
+
+
+Indem er eine auf dem Kamingesimse liegende Bibel herunternimmt und, sie Truden reichend, ein Blatt aus derselben fallen läßt.
+
+
+Da!
+
+
+TRUDE.
+'s fällt ein Blatt heraus! –
+
+
+
+KUNZ
+
+das Blatt aufhebend.
+
+
+Es ist beschrieben gar,
+Laß seh'n! –
+
+
+
+Das Blatt lesend.
+
+
+
+»Am vierundzwanzigsten Februar
+Siebzehnhundert sechsundsiebenzig um zwölf Uhr nachts es war,
+Als, seines Alters vierundsiebzig Jahr,
+Herr Christoph Kuruth starb, mein Vater seliger,
+Am« – – und ein großes Kreuz nun! – Sieh 'mal her!
+Ist's groß genug, das Kreuz, den Fluch zu decken? –
+
+
+
+TRUDE.
+O mein Gebein durchfährt des Todes eis'ges Schrecken! –
+
+
+KUNZ.
+Was für ein Datum ist denn heute? –
+
+
+TRUDE.
+
+Laß die That
+Gethan sein! –
+
+
+
+KUNZ.
+
+Zeig doch einmal das Mandat
+Vom Amt! –
+
+
+
+TRUDE
+
+indem sie das Mandat vom Tische nimmt und es dem Kunz giebt.
+
+O bet zu dem, der alle Schuld vertrat! –
+
+
+KUNZ.
+Von heut ist's. –
+
+
+Das Datum des Mandats lesend.
+
+
+
+»Leuk, den vierundzwanzigsten Februar.«
+Heut' ist sein Sterbenstag! – Nun ist mir alles klar! –
+
+
+
+TRUDE.
+Auch mir! –
+
+
+KUNZ.
+
+Horch auf! – Als ich heut' abends kam gegangen
+Von Leuk, und nun den Alpenpaß gewann,
+Der immer höher, steiler sich, wie Schlangen,
+Im Zickzack dreht! – Du weißt: ich bin ein Mann,
+Und fürchte nichts, als Schmach! – Auch hab' ich diesen Gang
+Wohl tausendmal, bei Tag und Nacht, gethan;
+Doch heute, wie es immer so entlang
+Und wieder rückwärts ging, und stets die Felsenwand
+Kein Ende nahm – da ward mir's, wie soll ich sagen, bang! –
+Mein ganzes Leben drehte sich, wie ein Klippenband,
+
+
+Um mich herum, wie'n Alpenpaß der Qual,
+Aus dem ich Ausweg, immer suchend, nimmer fand!
+'s war wie ein Traum mir, wo man Schritte sonder Zahl
+Mit Angst thut und doch liegen bleibt! So kam
+Ich durch die Kluft zur Höhe; ich sah hinab ins Thal;
+Wie mein Gewissen düster war's! – Ich nahm
+Den Fußpfad westwärts. – Als ich einmal aufsah,
+Stand – in dem flockenschwangern Wolkenrahm –
+Der Lämmerngletscher plötzlich vor mir – nah
+Mit seinem eisbedeckten Haupt, er war
+Wie Vater sel'ger, als er da saß, – da!
+
+
+
+Auf den Lehnstuhl zeigend.
+
+
+
+Im Todesschlafe, blau! – Mir fiel der Februar,
+Der vierundzwanzigste, aufs Herz! – Im Nacken
+Traf es mich, wie ein Henkersbeil! – Und klar
+Glomm's auf – wie Gluten, die mich wollten packen! –
+So war ich übern Daubensee gerannt,
+Der, wie mein starrend Blut, zu Eis gebacken!
+So wie mein Leben, war schier ausgebrannt
+Das Licht in der Laterne! – Da, mit Krächzen,
+Fliegt eine Dohle – wie an Sees Rand
+Sie hausen – zur Latern'; als trieb ein Lechzen
+Zur Flamme sie! – Mit beiden Klauen klammert
+Sie dran sich – schnarrend, wie des Vaters Ächzen,
+Als er den Todeskampf nun bald hat ausgejammert!
+Und ihren Schnabel, gelb, wie dort die Schal'
+Des Unglücksmessers
+
+
+
+Auf das an der Wand hängende Messer zeigend.
+
+
+
+wetzend, pickt und hammert
+Sie am Laternenrande! – Frau, zum erstenmal
+Hab' ich gezittert wie ein Kind! – Es klang
+Wie Sensenschleifen! –
+
+
+
+TRUDE.
+Halt! – Es tötet mich die Qual! –
+
+
+KUNZ.
+
+Da – tief durch meines Herzens Kammern – drang
+Der Fluchgedanke: Mörder! und das Huhn,
+Das unsern Sohn zum Mörder machte, schwang
+Vor meines Geistes Aug' sich auf! –
+
+
+
+
+TRUDE.
+
+Laß ruh'n
+Die Hölle! – Bete! –
+
+
+
+KUNZ.
+
+Nein! – das Frevelthun
+Schleußt mir den Himmel! Mit Geschrei, mit Graus
+Erfüllt des Vaters Fluch dies unheilschwangre Haus! –
+
+
+
+Man hört an die Thür klopfen.
+
+
+
+
+TRUDE.
+Es klopft!
+
+
+KUNZ.
+Sein Geist ist's! –
+
+
+TRUDE.
+
+Nein! Es scheint ein Wandersmann!
+Lass' ich ihn ein? –
+
+
+
+KUNZ.
+
+Und wär's der Teufel selbst – was kann
+Er noch uns thun? – Mach auf! –
+
+
+
+Trude öffnet die Thür.
+
+
+
+
+
+
+
+
+
+3. Auftritt
+
+
+
+
+Dritter Auftritt
+
+Die Vorigen. Kurt in etwas abenteuerlicher, beschneiter Reisekleidung; er hat eine Weidtasche umgehangen, einen Hirschfänger an der Seite und eine Geldkatze, in der zwei Pistolen stecken, um den Leib geschnallt; in den Händen hat er eine ausgebrannte Laterne und einen langen Alpenstock.
+
+
+
+KURT.
+Gott grüß' euch!
+
+
+KUNZ.
+Nun heran!
+
+
+KURT.
+
+Wollt ihr mir wohl –
+Vor sich.
+Kaum kann ich vor Entzücken
+Mich halten, sie an mein gepreßtes Herz zu drücken! –
+
+
+
+KUNZ.
+Was soll ich wollen?
+
+
+KURT.
+
+Wollt ihr für diese Nacht Quartier
+Mir gastfrei wohl vergönnen hier? –
+
+
+
+
+KUNZ.
+
+Quartier? – Recht gern! – auch noch ein Bündel Stroh!
+Wenn Ihr euch damit wollt begnügen, so –
+So könnt Ihr bleiben!
+
+
+
+KURT.
+
+Ach, beim traulichen Kamin,
+Beim herzlichen Gespräch, vergißt der Reise Müh'n
+Der Wanderer! –
+
+
+
+KUNZ.
+
+Herzlich Gespräch? – Recht gern! –
+Auch das Kamin steht frei dem Herrn! –
+Doch Feuer drin – damit kann ich nicht dienen,
+Ich hab' kein Holz und auch kein Bissen Brot,
+Als dieses, kaum genug uns heut vor'm Hungerstod
+Zu fristen noch! –
+
+
+
+KURT
+
+vor sich.
+
+
+Wie mir der Eltern Not
+Das Herz zerreißt! – Wie gern möcht' ich mich ihnen
+Entdecken! – Aber, nein; erst muß ich unerkannt
+Sie prüfen: ob sie schon den Fluch zurückgenommen! –
+
+
+
+TRUDE
+
+leise zu Kunz.
+
+Er scheint so gut! –
+
+
+KUNZ.
+Scheint! – Ist er's?! –
+
+
+TRUDE
+
+indem sie den Schnee abklopft.
+
+
+Wie glücklich, daß Lawinen
+Euch nicht begruben, Herr! Eu'r Licht ist ausgeglommen!
+Seid Ihr bei Nacht allein den Berg herangeklommen?
+
+
+
+KURT.
+
+Es war noch Schneelicht! – Auch bin ich hier aus dem Land,
+Im Klettern gut geübt an steiler Alpenwand!
+
+
+
+KUNZ.
+Ein Eidgenosse? Landsmann, seid willkommen! –
+
+
+Er reicht ihm die Hand.
+
+
+
+
+KURT.
+O diese Hand! – O laßt mich küssen Eure Hand!
+
+
+
+KUNZ.
+
+Laßt das! – Die Hand – 's ist keine von den frommen! –
+'s ist eine garst'ge rasch zur bösen That gewandt; –
+Wenn Ihr noch fluchlos – meidet sie!
+
+
+
+KURT
+
+vor sich.
+
+
+Das Band
+Der Zunge bindet fest des Vaters wildes Wort!
+
+
+
+KUNZ.
+
+Nun, Ihr seid müde; streckt Euch nieder dort,
+Und hungert, friert mit uns zur Gesellschaft fort!
+
+
+
+KURT.
+
+Damit hat's keine Not! – Ich hab' den Schnappsack voll:
+Gebratnes und Gebacknes – ein Fläschchen Kirschenwasser,
+Zwei Flaschen welschen Wein! –
+
+
+
+Er nimmt die Flaschen und Eßwaren aus seiner Weidtasche und setzt sie auf den Tisch.
+
+
+
+
+KUNZ.
+Ihr scheint ein reicher Prasser! –
+
+
+KURT.
+
+Ein jeder nährt sich wie er kann und soll –
+Nun setzt euch! – Mutter Trude, kommt hierher! –
+
+
+
+Sie setzen sich alle an den Tisch.
+
+
+
+
+TRUDE.
+Wo wißt Ihr meinen Namen?
+
+
+KURT.
+
+Die Kreuz und Quer
+Da giebt es Truden ja die Menge!
+
+
+
+KUNZ
+
+vor sich.
+
+Ein wunderlicher Kauz! –
+
+
+KURT
+
+vor sich.
+
+
+Wie rett' ich im Gedränge
+Von Lust und Schmerz mich! –
+
+
+
+KUNZ
+
+vor sich.
+
+Seltsam! –
+
+
+KURT
+
+vor sich.
+
+Wie ist das Herz mir schwer!
+
+
+
+
+Laut.
+
+
+Herr Wirt, ich trink' Euch zu! – Thut mir Bescheid! –
+
+
+Er langt drei Becher aus der Weidtasche und schenkt sich und den Eltern ein, was er, so oft Kunz, der während des folgenden Gespräches viel trinkt, einen Becher geleert hat, immer wiederholt.
+
+
+
+
+KUNZ.
+
+Nicht recht
+Ist, wenn der Wirt auf Gastes Kosten zecht! –
+
+
+
+TRUDE.
+
+Der Herr ist gut – er giebt dir's gern! – O fände
+Dein Herz den Frieden drin! –
+
+
+
+KUNZ.
+Wohl! – Auf ein sel'ges Ende! –
+
+
+KURT.
+Und auf Versöhnung – drauf gebt mir die Hände! –
+
+
+TRUDE.
+O wende Fluch dich! –
+
+
+KURT
+
+vor sich.
+
+Wende Fluch dich! –
+
+
+KUNZ.
+Wende –?
+
+
+TRUDE.
+
+Wie sie das Herz erquickt, die lang entwöhnte Glut
+Der süßen Reben! – Wie sie wohl mir thut! –
+
+
+
+KURT.
+
+Nun eßt auch! – Hier ist Schinken, Wurst, ein Huhn;
+Das wird dem alten Magen gütlich thun! –
+
+
+
+TRUDE.
+Vom Huhn da ess' ich nicht! –
+
+
+KURT.
+Ach! – ich darf's auch nicht essen! –
+
+
+KUNZ.
+Warum? –
+
+
+KURT.
+Nun langt nur zu indessen! –
+
+
+
+KUNZ.
+
+Nein – doch, wenn Ihr's erlaubt, halt' ich mich an den Wein;
+Er wärmt! –
+
+
+
+KURT.
+
+Eins müßt Ihr, Mütterchen, mir leih'n:
+Ein Messer! Mein's hab' unterweges ich verloren.
+
+
+
+KUNZ.
+Lang's mal herunter! –
+
+
+Trude steht auf, nimmt das große Messer vom Nagel herunter und reicht es, indem sie sich wieder an den Tisch setzt, dem Kurt.
+
+
+
+
+KURT.
+Das! – habt Ihr kein andres? –
+
+
+TRUDE.
+
+Nein,
+'s ist unser einz'ges!
+
+
+
+KURT
+
+vor sich.
+
+
+Oh, noch immer sitzt er drein,
+Der Blutfleck! – Wär' ich, Unglücksel'ger, nie geboren! –
+
+
+
+KUNZ.
+Bemerkt Ihr's auch?! –
+
+
+KURT.
+Den Blutfleck?! –
+
+
+KUNZ.
+
+Blutfleck? – Hm!
+Daß dieser Fleck ein Blutfleck – wißt Ihr drum? –
+
+
+
+KURT.
+Nein – nur so rötlich scheint er! –
+
+
+KUNZ.
+
+Eingeschenkt,
+Herr Gast! – Vergangen ist vergangen! – Wer dran denkt:
+Ein Thor ist's! –
+
+
+
+KURT.
+
+Trinkt! – den Frieden eurem Sohn! –
+Wenn ihr noch einen habt. –
+
+
+
+TRUDE.
+Oh! –
+
+
+
+KURT.
+Mutter! –
+
+
+KUNZ.
+
+G'nug davon!
+Er ist am Ziel! – Auch uns sei es beschieden,
+Das Ziel, das uns gebührt! –
+
+
+
+TRUDE.
+Nicht das, was wir verdient! –
+
+
+KURT.
+Auf einen sel'gen Tod, der allen Fluch versühnt! –
+
+
+KUNZ.
+
+Das trank ich schon! – Ihr scheint mir ein besondrer Gast;
+Mit Eurem Weidemesser und Sackpistolen fast
+Wie 'n wilder Jäger! – Wie seid nachts Ihr hergekommen?
+
+
+
+KURT.
+
+Ich komm' von Kanderstäg. – Ich hatt's mir vorgenommen,
+Morgen in Leuk zu sein; drum schritt ich sonder Rast.
+
+
+
+KUNZ
+
+ihm die Hand reichend, mit einem Händedrucke.
+
+Dann geh'n wir morgen früh zusammen, Landsmann!
+
+
+KURT.
+
+Faßt
+Ihr mich doch an, so eisig wie der Tod! –
+
+
+
+KUNZ.
+Scheut Ihr den? –
+
+
+KURT.
+
+Nein! – Er hat mich oft schon nah' bedroht;
+Ich war Soldat –
+
+
+
+KUNZ.
+
+Stoß an, Kam'rad, das Schweizerkorps! –
+Ich war dabei – ich kenn's! – Ihr müßt mir was erzählen,
+So was zum Kämpfen, ich muß auch zum Kampf mich stählen!
+
+
+
+KURT.
+Ihr hattet einen Sohn? –
+
+
+KUNZ.
+Ach, laßt das! –
+
+
+
+TRUDE.
+
+Er verlor
+Als Kind sich.
+
+
+
+KUNZ.
+Schweig! – von dem nichts!
+
+
+KURT.
+
+Geht mir mit Beispiel vor,
+Wenn ich erzählen soll. – Ich bin oft hier gewesen,
+In diesem Haus; – im ganzen Leuker Amt
+Gab's kein solch Wirtshaus, als zu Schwarrbach.
+
+
+
+KUNZ.
+
+Ei, verdammt!
+Ihr wißt ja alles!
+
+
+
+KURT.
+
+Jetzt scheint's hier ein ärmlich Wesen;
+Ihr sprecht von Dürftigkeit – von Not!
+
+
+
+KUNZ.
+
+Kann's Euch was frommen? –
+Stoßt an: – der Krieg!
+
+
+
+KURT.
+Wie seid Ihr herunter so gekommen?
+
+
+KUNZ.
+
+Nun, weil Ihr doch so vieles wißt – wohlan! –
+Ihr war't Soldat, Kam'rad, wißt, was ein Mann
+Ertragen und, kommt's arg – wohl auch verschulden kann! –
+Ihr scheint so unstät auch! – so 'n halber Fluch-Kumpan! –
+
+
+
+TRUDE.
+Verzeiht! Der Wein hat ihm den Kopf benommen!
+
+
+KUNZ.
+
+In früh ergrauten Haaren
+Bin ich ein Kerl noch! – Mehr war ich's vor Jahren.
+Ich bin Soldat gewesen –
+Im Krieg da macht man nicht viel Federlesen! –
+Hab' wacker mich gehalten,
+Und manchem Feinde wohl den Kopf gespalten;
+Drauf gab der Berner Rat,
+Beim Abschied, mir gedruckt 's Certifikat! –
+
+
+Mein Vater Christoph Kuruth –
+Gott tröst' ihn! – Er war auch so'n wildes Blut! –
+Dies Wirtshaus war sein eigen;
+Mir gab man Abschied – nun, wir wollen davon schweigen!
+
+
+
+KURT.
+Dies Glas für Eures Vaters Seele!
+
+
+KUNZ.
+Nein!
+
+
+TRUDE.
+Stoß an! Versöhnung!
+
+
+KUNZ.
+
+Weib, wie kann das sein?!
+Der Tropfen würd' wie Feuer
+Mir glüh'n! – Ja, Herr, der Vater ward mir teuer!
+Ich ging dem Kugelregen
+Oft, ohne Zittern, freudig kühn entgegen;
+Doch, wen der Fluch that rühren,
+Der zittert! –
+
+
+
+KURT.
+Laßt das! –
+
+
+KUNZ.
+
+Nein! – Ihr selbst sollt judicieren! –
+Als den Abschied ich bekommen,
+Hatte Vater seliger
+Mich zu sich ins Haus genommen;
+Denn die Wirtschaft war ihm schwer.
+Ich, ein Kerl von dreißig Jahren
+Damals, kraftvoll noch und rot,
+Wollte, teilend Lust und Not,
+Mich mit einem Weibe paaren;
+Manche stand mir zu Gebot!
+Aber immer zog mein Sinn
+Mich dort zu der Trude hin! –
+Sie war schön, kann schreiben, lesen:
+Beide hatten wir uns gern!
+Und ihr Vater ist gewesen
+Pfarrherr im Kanton von Bern.
+Solche fromme Herren lassen
+
+
+Bücher nur und Kinder nach;
+Sie war arm, doch Dach und Fach
+Hatt' ich – konnt' ich drum sie hassen,
+Sie verlassen – weil sie schwach?! –
+Herr – wer A sagt, muß auch B
+Sagen! – Kurz, ich schloß die Eh'! –
+
+
+
+TRUDE.
+
+Wider seines Vaters Willen;
+Ach, das hat mich oft gequält!
+
+
+
+KUNZ.
+
+Ja, wir hatten uns vermählt,
+Ohne daß er's wußt', im stillen. –
+Herr, das gab mir viel zu schaffen!
+Vater war ein böser Mann;
+Täglich er auf Hader sann:
+Bastard nannt' er sie des Pfaffen!
+Herr, das griff ans Herz mir an!
+Wer schimpfiert euch euer Weib,
+Nimmt euch mehr als Gut und Leib!
+Einst – heut sind es akkurat
+Achtundzwanzig volle Jahr',
+Seit die fluchbeladne That
+Sich begab – Glock zwölf es war,
+Mitternacht im Februar,
+Am vierundzwanzigsten: da trat
+Ich ins Zimmer hier, und klar
+Schien der Mond zur düstern That! –
+Ich war auf der Fastnacht gewesen
+Zu Leuk, und fröhlich im Mut!
+Mein Weib trieb zu Hause ihr Wesen;
+Der Alte, voll Hader und Wut,
+Hatt' ihr das Kapitel gelesen,
+Wie's täglich sein Brauch war! – Das Blut
+Schoß mir in Adern wie Flammen –
+Ich ballte die Fäuste zusammen –
+Sie weinte –! – Gott mag mich verdammen!
+Ich weiß es, ich that nicht gut;
+Doch schmähen sein Weib seh'n das hilflos geliebte, das thut
+
+
+Doch weh! – Was meint ihr? – Ihre Augen schwammen
+In Thränen! –
+
+
+
+KURT.
+
+Immer muß der Mensch sein auf der Hut
+Vor den Gedanken, die dem Höllenschlund entstammen! –
+Doch laßt –
+
+
+
+KUNZ.
+
+Ihr seid ein weiser Mann! –
+O hätt' ich das bedacht! –
+Doch war der Wut ich unterthan;
+Ich that, als ob ich lacht'!
+Mein Vater schimpfte, liss und schalt,
+Ich, innen kochend, zeigt' mich kalt!
+Der Alte wütete! – ich sah
+Ihn lachend an und griff nach jener Sense da:
+»Bald wächst das Gras, man muß sie schleifen,«
+Rief ich, »Herztätli mag nach seiner Weise keifen,
+Ich mach' Musik dazu!« – Als drauf die Sens' ich schliff,
+Ich mir ein Schelmenliedel pfiff:
+»Hütli auf,
+Federli d'rauf;
+Hirthemdli an,
+Bunt Bänderli d'ran!«
+So fang ich lustig! – Der Alte zu schäumen begann,
+Ein Lärm zu machen, zu stampfen, zu toben, zu dräu'n –
+'s war nicht zu tragen! – Metze! rief er zu meiner Frau'n! –
+Das traf ins Herz, Herr! – Länger konnt' ich mich nicht mehr halten! –
+Das Messer – mit dem ich die Sense geschliffen – dies Unheilsding – traun!
+Ich warf's nach ihm, und hätt' es den Kopf ihm mögen spalten! –
+Doch traf's ihn nicht! – Nicht war, Weib, 's traf ihn, gottlob, nicht?! –
+
+
+
+TRUDE.
+Nein!
+
+
+KUNZ.
+
+Doch der Alte bekam vor Ärger das Höchste, und blau
+Ward er! – »Fluch dir!«, so rief er zuckend, »und deiner Frau,
+Und eurer Leibesfrucht!« – (Sie war in erster Schwangerschaft
+
+
+Im dritten Monat!) Und noch einmal zusammen sich rafft
+Der Alte – da saß er im Lehnstuhl! »Fluch euch und eurer Brut!«
+Heult' er – »auf sie und euch komme eures Vaters Blut! –
+Des Mörders Mörder seid – wie mich ihr morden thut!« –
+Da rührt' der Schlag ihn, – und die ganze Hölle
+Glomm auf in mir! – Er starb dort auf der Stelle! –
+
+
+
+TRUDE.
+Was ist Euch? – Ihr verblaßt, Herr! –
+
+
+KURT.
+
+Laßt nur sein!
+Die Grausgeschichte und vielleicht der Wein
+Es wird schon besser! – Trinkt! – Dort über jenen Sternen
+Verstummt der Fluch! –
+
+
+
+TRUDE.
+Hörst du's? –
+
+
+KUNZ.
+
+Von Euch kann man was lernen!
+Ich denk' es auch! – Der Alte, es war ein grämlich Mann;
+Als junger Kerl hat er wohl Ärgers noch gethan!
+Er hat uns Kindern selbst im Weinrausch einst erzählt,
+Daß seinen eig'nen Vater, der ihn oft gequält,
+Er bei den Haaren hab' zur Erde hingerissen! –
+Ich hab's ihm doch nur nach dem Kopf geschmissen,
+Das Messer! – Freilich starb er; – doch starb er denn davon?
+Er war ja alt genug – wer kann das wissen! –
+Sie sagen: wer den Vater schlägt, der Sohn,
+Dem wächst die Hand, mit der er schlug, zum Grabe
+Heraus! – 's ist dummer Wahn, ich habe
+Wohl tausendmal des Vaters Grab geseh'n!
+Gras sah ich drauf, doch keine Hand nicht steh'n! –
+
+
+
+KURT.
+
+Ihr wolltet vor mir sagen,
+Wie Ihr die Wirtschaft hier Euch habt verschlagen. –
+
+
+
+KUNZ.
+
+Ja, seltsam war's, seit jenem Augenblick,
+Seit Vaters Tod, hatt' ich nicht Stern noch Glück!
+Wir fuhren fort, einander treu zu lieben;
+
+
+Doch war's, als ob sein Geist – sich zwischen uns that schieben,
+Seit er den Fluch gesprochen! –
+Nicht lang' nachher kam die da in die Wochen;
+Sie kriegte einen Sohn – daß Gott erbarm'!
+Der bracht' das Kainszeichen schon, auf dem linken Arm,
+Mit auf die Welt – 'ne Sense, blutigrot! –
+Wahrscheinlich hat sie sich's in Kopf genommen
+In ihrer Schwangerschaft – so hat er's denn bekommen,
+Der Bube! – Herr, mit dem, da hatt' ich einmal Not! –
+Nun – ich verzeih's ihm! –
+
+
+
+KURT.
+Thut Ihr's?
+
+
+KUNZ.
+
+Gottlob, nun ist er tot! –
+Fünf Jahr' darauf gebar
+Mein Weib ein Mädel. – Wie ein Engel war
+Das Kind! –
+
+
+
+Kurt steht auf.
+
+
+
+
+KUNZ.
+Was sucht Ihr? –
+
+
+KURT.
+
+Nichts! – Ich kann auf einer Stelle
+Nicht lange sein! –
+
+
+
+Er geht während Kunzens folgender Erzählung immer auf und ab.
+
+
+
+
+KUNZ.
+
+Wie unser Kurt! – Die Hölle
+Trieb immer ihn! – Sonst war der Jung' nicht dumm,
+Auch schlecht nicht – aber immer trieb's ihn im Kreis herum,
+Unstät und flüchtig! – War das wohl der Fluch? –
+
+
+
+KURT.
+Was weiß ich! – 's ist doch kalt bei euch! –
+
+
+KUNZ.
+
+Genug! –
+Einstmals im Februar,
+Als 's Mädel just zwei Jahr' alt war,
+Der Bube sieben – 's war auch grad' am Sterbenstag
+Des Vaters! – Dort das Unglücksmesser lag
+
+
+Am Boden – beide Kinder spielten auf der Schwelle.
+Die Alte da, die hatte eben
+Ein Huhn geschlachtet –
+
+
+
+TRUDE.
+
+Ach, noch denk' ich dran mit Beben!
+Entgegen krisch es mir, das Huhn,
+Wie Fluch, wie Vater, als er röchelnd nun
+Im Sterben lag! –
+
+
+
+KUNZ.
+
+Der Bube hat's geseh'n:
+Das Huhn abschlachten! – »Komm,« rief er zum Schwesterlein:
+»Wir wollen Küche spielen ich will die Köchin sein,
+Sei du das Huhn!« Ich seh' ihn sich nach dem Messer dreh'n;
+Ich spring' hinzu! – Doch – schon war es gescheh'n!
+Das Mädel lag im Blut – der Hals ihr abgeschnitten,
+Vom Bruder! – Weint Ihr? – Ja! Viel hab' ich, Herr, gelitten!
+
+
+
+KURT.
+Da habt Ihr ihn verflucht! –
+
+
+KUNZ.
+
+Merkt Ihr es? – Das Gericht,
+Weil er ein Kind noch war, es straft' ihn nicht;
+Da mußt' ich denn dem Recht zu Hilfe kommen! –
+Ich flucht' ihm – ja! –
+
+
+
+KURT.
+
+Habt Ihr den Fluch zurückgenommen,
+Den raschen?! –
+
+
+
+KUNZ.
+
+Freilich! Gott schenk' ihm die ew'ge Ruh'! –
+Nicht war – dort drückt er nicht – der Fluch mehr? –
+
+
+
+KURT
+
+vor sich.
+
+Vater, du! –
+
+
+Laut.
+
+
+Und käm' der Arme reuig wieder? –
+
+
+KUNZ.
+
+Nein! –
+Vergeben – ja! – Doch, seh'n ihn – nein! –
+
+
+
+KURT
+
+vor sich.
+
+O Pein!
+
+
+Laut.
+
+
+Ist Euch seitdem von ihm nicht Kunde worden?
+
+
+
+TRUDE.
+
+Der wilde Vater wollt' im ersten Zorn ihn morden! –
+Ich wußt' nicht, was vor Angst ich sollt' beginnen;
+Um ihn zu retten, schickt' ich ihn meinem Ohm nach Thun,
+Der schrieb mir, – Rektor war er, ein tief studierter Mann! –
+»Euer Sohn hat Herz und Kraft, und Kopf zum Lernen;
+Doch muß ihm was in seinen Sternen
+Konträr sein – immer treibt's ihn nach ungemeßnen Fernen!
+Kein Fleiß, kein Urteil, wüst, zerstreut! – Und wann
+Ich's ihm verweise, hört er starr und weinend zu,
+Und sagt: die Sens' am Arm, die lass' ihm nirgends Ruh'!«
+So schrieb der gute Ohm mir! – Ihm hatten wir's nicht kund
+Gethan, wie keinem, dieses Kainszeichens Grund!
+
+
+
+KURT.
+Als er entlief – da weintet ihr wohl? –
+
+
+TRUDE.
+Oh! –
+
+
+KUNZ
+
+leise.
+
+
+Trude, nimm dich in acht! – der Jäger da,
+Wie 'n Hexenmeister weiß er alles, was geschah! –
+Gott geb', daß ich dem Kerl nicht einmal komm' zu nah'! –
+
+
+
+TRUDE.
+Ihr wißt, daß er entlief?! –
+
+
+KURT.
+Ich meinte nur so –
+
+
+KUNZ.
+So?! –
+
+
+TRUDE.
+
+Ja, seines Lebens ward er nimmer froh! –
+Schon oft war aus der Schule er entsprungen:
+Mein Ohm that in die Lehr' ihn bei einem Handwerksmann,
+Auch dem entlief er öfters – doch kam er wieder dann.
+Weil alles nun mit ihm schien mißgelungen,
+That ihn der Ohm zu seiner Korrektion,
+Ins Arbeitshaus – da lief er ganz davon! –
+Es war gerad' am vierundzwanzigsten Februar,
+Alt war er damals höchstens vierzehn Jahr'! –
+
+
+Drauf ist er in der Revolution –
+Wie aus Paris an meinen Ohm sie schrieben –
+Ich glaube, als Soldat – geblieben! –
+
+
+
+KURT.
+Und käm' er wieder, der unstäte Sohn?! –
+
+
+TRUDE.
+Wer kommt von dort zurück! –
+
+
+KUNZ.
+
+Ich glaub', Ihr sprecht uns Hohn! –
+Ihr hört es ja – er ist ja tot! –
+Nichts mehr von ihm – beim Teufel! –
+
+
+
+KURT
+
+der bisher immer in der Stube auf und ab gegangen ist.
+
+Ja – wie kamt denn ihr in Not? –
+
+
+KUNZ.
+
+Was ist da dran viel zu erzählen?! –
+Mit Eurem Fragen, Blicken, Laufen thut
+Ihr ordentlich 'nen Menschen quälen! –
+Die Scheune brannt' uns ab; ins Vieh, da kam das Sterben;
+Die Schneelawine that das Wiesenstück verderben,
+Das große, das ich that vom Vater erben!
+Ihr saht den Schneesturz noch am Weg,
+Wenn Ihr gekommen seid vom Kanderstäg;
+Zwei Stunden lang nur wüstes wild Gestein,
+Sonst eine fette Alptrift – die war mein!
+Zwölf Jahr' sind's, seit vom Rinderhorn er fiel,
+Der Schneesturz. – Volk und Vieh sind dort begraben,
+Schier sonder Zahl – es war kein Kinderspiel! –
+Das und, zum Überfluß, der letzte Mißwachs haben
+Uns ganz herunter und in Schulden dann gebracht;
+Zu Bettlern hat es uns gemacht! –
+Und kam ein Unfall, der das Herz traf, war
+Es stets am vierundzwanzigsten Februar! –
+
+
+
+KURT
+
+sich wieder zu ihnen an den Tisch setzend.
+
+Wie kränkt mich eure Not – könnt' ich sie lindern! –
+
+
+
+KUNZ.
+
+Na,
+Wenn Ihr viel Geld habt – borgt's uns! –
+
+
+
+KURT.
+
+Geld, das – ja,
+Das hab' ich g'nug – ich möcht's euch mehr als borgen! –
+Doch – nun seid ruhig; bis zum nächsten Morgen
+Kann Gott noch sattsam für euch sorgen! –
+
+
+
+KUNZ.
+So – sattsam? – Morgen? – Gott? – Wie – oder gar der Teufel?! –
+
+
+TRUDE.
+Du quälst dich immer! –
+
+
+KUNZ.
+
+Ja, ich hab' so meine Zweifel! –
+Ihr scheint so'n Mittelding von Zaubrer und von Pfaffen;
+Mit beiden, Herr, mach' ich mir gern nicht viel zu schaffen! –
+
+
+
+KURT.
+Ach, Vater Kunz! –
+
+
+KUNZ.
+
+So heiß' ich! – Nun, euer Wein ist gut! –
+Wie kommt's, daß Ihr so um Mitternacht auf Felsen klettern thut?
+
+
+
+KURT.
+Ach, düster ist auch meines Lebens Kunde! –
+
+
+KUNZ.
+Das ist mir lieb – dann seid Ihr mein Kumpan!
+
+
+KURT.
+
+Als Knabe hab' ich auch, zur bösen Stunde,
+Wie Euer Sohn just, einen – Mord gethan! –
+
+
+
+KUNZ.
+Hoho! – Wie kam das? –
+
+
+KURT.
+
+Ritzt des Herzens Wunde
+Nicht tiefer – schon fängt sie zu bluten an! –
+Die That verfolgte mich – ich floh! – In Bern
+Nahm ich als Jockey Dienst bei einem Herrn.
+Er traute mir, ob er mich gleich nicht kannte,
+
+
+Als Landsmann auf mein ehrliches Gesicht;
+Hauptmann war er beim Schweizerregimente,
+Mit dem nachher die schreckliche Geschicht'
+Sich in Paris begab! – Zwar ungern trennte
+Er sich vom Vaterland – doch rief die Pflicht.
+Für den bedrängten König mußt' er streiten! –
+Er ging – ich mußt' ihn nach Paris begleiten. –
+
+
+
+KUNZ.
+Da ging's wohl bunt zu? –
+
+
+KURT.
+
+Denkt euch losgelassen
+Die Gletscher, auf dem ganzen Alpenrund,
+Herunter rollen, sich einander fassen,
+Und eisig, glüh'nd, sich stürzen in den Grund;
+Und unten Hirten, welche nicht erblassen,
+Und nah'n seh'n – ruhig – der Verheerung Schlund;
+Und Freudenfeuer überm Abgrund wehen!
+Vereint das – und ihr habt Paris gesehen! –
+
+
+
+KUNZ.
+
+Ihr saht sie fallen, unsre Eidgenossen,
+Die Garden; saht die Tuilerienschlacht?
+
+
+
+KURT.
+
+Ich sah die Nacht, der so viel Qual entsprossen! –
+Schwarz, sternleer war die schwüle Sommernacht,
+Als habe sie die Lampen umgestoßen,
+Um nur zu leuchten nicht der düstern Macht! –
+Laßt von der Nacht, die ewig wird bezeigen
+Den Völkerfluch, mich Fluchbeladnen schweigen! –
+
+
+
+KUNZ.
+Nun? –
+
+
+KURT.
+
+Als nun unsre Brüder schön gefallen,
+Fern von der Heimat und dem Vaterland,
+In Königs Dienst, von dem sie nicht Vasallen,
+An den nur Ehr' und Bundestreu' sie band,
+Des Königs, der vor seiner Väter Hallen,
+Volksvater selbst, durch seiner Kinder Hand
+Den Tod erlitt! –
+
+
+
+
+KUNZ.
+
+Das kann im Menschenleben
+Sich auf des Satans Antrieb wohl begeben! –
+
+
+
+KURT.
+
+Da wollt' mein Herr, den mir's gelang zu retten
+Durch eine Seitenthür der Tuilerien, –
+Ertragen konnt' er nicht des Pöbels Ketten! –
+Hin in ein ander Weltteil wollt' er flieh'n.
+Die gleiche Not und Heimat zog, wie Kletten,
+Uns an einander; mich, die Gier zu zieh'n! –
+Und wär' er außerhalb der Welt gegangen,
+Ihm nach hätt' mich getrieben Treu' und Bangen! –
+Wir schifften uns mit dem, was er am Baren
+Beiseit' gebracht, nach San Domingo ein;
+Wir kamen an, aus mancherlei Gefahren
+Gerettet, ohne dessen uns zu freu'n! –
+
+
+
+KUNZ.
+Ihr seid durchs Meer – zur neuen Welt gefahren? –
+
+
+TRUDE.
+Da müssen wohl glücksel'ge Menschen sein! –
+
+
+KURT.
+Ja, wenn sie hier und hier
+
+
+Auf Kopf und Herz zeigend.
+
+
+
+sich rein erhalten;
+Sonst geht's in neuer Welt, wie in der alten! –
+Mein Herr ward Pflanzer – ich ihm täglich lieber:
+»Va banque, das Leben« – scherzt' er oft – »den Rest!!« –
+Hätt' er nicht mich genommen mit hinüber,
+Wohl lebt' er noch! – Ansteckend ist, wie Pest,
+Der Fluch! – Mich traf das grause gelbe Fieber;
+Er, heilend mich, sog ein das Pestgift! – Fest
+Mich herzend, – starb er! –
+
+
+
+KUNZ.
+
+Der, da's Messer fiel,
+Ward blau! – Der Maler Tod kennt's Farbenspiel! –
+
+
+
+KURT.
+
+Ach, warum hat nicht mich der Tod genommen?!
+Mich, den ein Mord vom Leben schon getrennt!
+Des Herren Pflanzung war an mich gekommen;
+Denn er verschrieb sie mir im Testament.
+
+
+Reich war ich nun, doch immerfort beklommen! –
+Wenn das Gewissen uns im Innern brennt,
+Kann alles Gold – der ganzen Schöpfung Wonnen,
+Sie können löschen nicht den Flammenbronnen! –
+
+
+
+KUNZ
+
+halbleise zu Truden.
+
+Da hörst du's – Muß ich nicht –?
+
+
+KURT.
+
+Doch immer schreitet
+Die Hoffnung leise der Verzweiflung nach;
+Und wie die Henne ihre Flügel breitet
+Auf ihre Brut, wenn durch der Geier brach,
+So über uns die Gnad' entgegenspreitet
+Ihr Schild dem Pfeil der immer wachen Rach'! –
+So lispelt's mir, daß aller meiner Sünden
+Im Vaterland ich würd' Entsühnung finden!
+Die Schweizerseen, die Wasserfälle klangen
+Aus duft'ger Fern' zu mir hinüber: »Komm!«
+Die starren Gletscher – ähnlich meinem bangen
+Erstarren – schrie'n: »Wir werden schmelzen! – Komm!« –
+Und Alpenglöcklein wunderselig sangen:
+»Wir Friedenskinder künden Frieden! – Komm!« –
+Es trieb mich heim der Sterne wildes Walten
+Aus wilder neuer Welt zur frommen alten! –
+So kam ich her, die Eltern zu erfreuen,
+Die ich seit zwanzig Jahren nicht geseh'n;
+Viel Barschaft bring' ich aus der Welt, der neuen! –
+In Kanderstäg ließ ich mein Maultier steh'n! –
+Man bringt's mir morgen; – dann will ich mit treuen
+Sohnsherzen Segen mir statt Fluch erfleh'n!
+Schon morgen denk' ich in der Eltern Armen
+Zu einem neuen Leben zu erwarmen! –
+
+
+
+Kunz steht vom Tische auf.
+
+
+Trude, die schon früher aufgestanden ist und in der Kammer das Strohlager zurecht gemacht hat, tritt während der folgenden Reden wieder in die Stube.
+
+
+
+
+KUNZ.
+Wo sind die Eltern?
+
+
+KURT.
+
+Hier – nur eine Stunde
+Von hier –
+
+
+
+
+KUNZ.
+
+So – so! – Es ist mir nicht bekannt! –
+Ich dachte stets, drei Stunden in die Runde
+Von hier, da gäb's nur nackte Felsenwand! –
+Nun – lassen wir's! – Ihr scheint ein pfiff'ger Kunde,
+Seid viel schon in der Welt herumgerannt;
+Ihr hört die Seen schrei'n, die Gletscher singen! –
+Ja – mancher kann es weit mit – manchem bringen! –
+
+
+
+TRUDE.
+
+Ist in Paris vielleicht Euch Kunde worden
+Von unserm Sohn? –
+
+
+
+KURT.
+Vom armen Kurt Kuruth?! –
+
+
+KUNZ
+
+vor sich.
+
+Das weiß er auch! –
+
+
+TRUDE.
+
+Sie thaten ihn ermorden,
+Hieß es – er fiel ein Opfer auch der Wut! –
+
+
+
+KURT
+
+vor sich.
+
+Ich muß sie prüfen! –
+
+
+Laut.
+
+
+
+Ja, die wilden Horden
+Erwürgten ihn – hin strömt' er aus sein Blut
+In meinem Arm –
+
+
+
+TRUDE.
+
+O wär' er noch am Leben,
+Wie gerne wollt' ich alles ihm vergeben! –
+
+
+
+KURT
+
+wie im Begriffe, ihr zu Füßen zu stürzen.
+
+Oh! –
+
+
+KUNZ.
+
+Keine Fratzen, Herr! denn wir erschrecken
+So leicht nicht! – Legt Euch schlafen! – Gute Nacht! –
+Ihr könnt Euch dorten in die Kammer strecken!
+
+
+
+TRUDE.
+Ich hab' die Streu Euch schon zurecht gemacht!
+
+
+KURT.
+Wollt morgen früh ihr wohl um acht mich wecken?
+
+
+
+KUNZ.
+
+Wenn ich's nicht thu', so wird es wohl die Wacht,
+Die morgen früh zum Schuldturm mich kommt holen! –
+
+
+
+KURT.
+Gerechter Gott! –
+
+
+KUNZ.
+Schrie'n das Euch nicht die Dohlen? –
+
+
+KURT.
+Wann kommt die Wacht? –
+
+
+KUNZ.
+
+Bis daß Ihr ausgeschlafen,
+Um acht!
+
+
+
+KURT.
+O dann weckt mich um sieben Uhr! –
+
+
+KUNZ.
+
+Ihr habt mit dem Gericht nicht gern zu schaffen?
+War's Euch vielleicht schon manchmal auf der Spur?! –
+
+
+
+KURT
+
+vor sich.
+
+
+O meine Nerven, wollet nicht erschlaffen
+Vor Schmerz und Lust!
+
+
+
+KUNZ.
+Nun – legt Euch schlafen nur! –
+
+
+KURT.
+Gut' Nacht! –
+
+
+KUNZ.
+Schon gut! –
+
+
+KURT.
+
+Es wird sich alles lösen,
+Der Trug, der Fluch! –
+
+
+
+TRUDE.
+Schlaft sanft! –
+
+
+Sie steckt Kunzens Laterne an der auf dem Tisch stehenden Lampe an und giebt sie dem Kurt.
+
+
+
+
+KUNZ.
+Und – kreuzt Euch vor dem Bösen! –
+
+
+Kurt geht mit der Laterne in die Kammer.
+
+
+
+
+TRUDE.
+Er geht! –
+
+
+
+KUNZ.
+
+Nun – räum nur ab indessen! –
+Das war ein rechtes Henkersmahl! –
+Nun – morgen ist's vorbei, die Thorheit und die Qual! –
+
+
+
+Er setzt sich in den Lehnstuhl an den Tisch.
+
+
+
+
+TRUDE
+
+indem sie das Messer vom Tische nimmt und es wieder an den Nagel zur Sense hängt.
+
+Ich kann den Fremden immer nicht vergessen! –
+
+
+KURT
+
+der nun immer in der Kammer bleibt und vor sich spricht.
+
+
+In einem Haus und unter selbem Dache
+Mit ihr, die mir mein ruhlos Leben gab! –
+O brich entzwei, mein morscher Wanderstab,
+Und wende dich, du Fluch der Rache! –
+
+
+
+Er entkleidet sich während des folgenden.
+
+
+
+
+KUNZ
+
+zu Truden, die durch die Ritze der Bretterwand guckt.
+
+Pfui, horchen! – Schäm dich, Weib! – Der Horcher an der Wand! –
+
+
+TRUDE.
+
+Jetzt schnallt er sich die Katze los –
+Er legt sie auf den Tisch – die ist gespickt und groß! –
+
+
+
+KUNZ.
+Dem, denk' ich, thut der Kopf nicht weh, dem er sie ab einst band!
+
+
+TRUDE.
+Wie meinst du das? –
+
+
+KUNZ.
+Geh nur zu Bette! –
+
+
+KURT
+
+in der Kammer.
+
+
+In dieser Kammer still und klein,
+Da wiegten oft als Kind mich Alpenhörner ein! –
+O daß der goldne Traum mich nie verlassen hätte! –
+
+
+
+Er wirft sich, halbentkleidet, in einen alten in der Kammer stehenden Strohstuhl.
+
+
+
+
+TRUDE.
+Jetzt spricht er mit sich selbst – vom Golde! –
+
+
+KUNZ.
+Scher dich schlafen! –
+
+
+
+TRUDE
+
+zu Kunzen an den Tisch tretend.
+
+
+Nun, sei nur nicht so wild! ich geh' ja schon! –
+Kommst du nicht auch? –
+
+
+
+KUNZ.
+Noch nicht! –
+
+
+TRUDE.
+
+Er sprach von unserm Sohn,
+So viel –, so oft –
+
+
+
+KUNZ.
+
+Gott soll mich strafen!
+Wenn du nicht schweigst – ich lauf' noch diese Nacht davon! –
+
+
+
+TRUDE.
+
+Kunz – Gott, was fällt mir ein! – Ach, wenn er selbst es wäre,
+Der totgeglaubte Sohn – wenn er zurückgekehrt,
+Wenn er – ach, immer war er meinem Herzen wert! –
+O zürne nicht der mütterlichen Zähre! –
+
+
+
+KUNZ.
+
+Weib, länger, auf Soldatenehre,
+Ertrag' ich's nicht! – Ich glaub', du thust es mir zum Hohn! –
+Las't du's gedruckt nicht, daß vom ganzen Bataillon
+Der Schweizer, wo der Kurt in Dienst genommen,
+Auch nicht ein einz'ger Mann entkommen?
+Daß sie in jener Nacht, bei der Revolution –
+Von der der Fremde log, er sei dabei gewesen –
+Ermordet all'? – Der längst im Grabe modert schon,
+Der Sohn soll kommen! – Recht, als sollt' uns wieder droh'n
+Der Vater, wieder schrei'n, und wieder 's böse Wesen
+Bekommen! – Nein, mein Kind! Tod ist der Sünder Lohn!
+Wer übern Alpenpaß des Grabes ist entfloh'n,
+Hat ihn noch nie zurückerklommen! –
+
+
+
+KURT
+
+in der Kammer.
+
+
+Was hielt mich ab, mich heut' schon zu entdecken?! –
+Wir saßen da, so traulich, so vereint! –
+Wie gern hätt' ich mich heut' schon ausgeweint
+An elterlicher Brust! – Doch war's, als ob das Schrecken
+Der Hölle zwischen sie und mich sich drang,
+
+
+Und das Geständnis, das sich oft zur Lippe rang,
+Gewaltsam immer wieder rückwärts zwang! –
+
+
+
+TRUDE
+
+die sich unterdessen auf das Strohlager im Hintergrunde wie zum Schlafen hingeworfen, halb aufgerichtet auf demselben sitzend.
+
+Wer er nur war – der Fremde?!
+
+
+KUNZ.
+
+Wer er war? –
+Ein Kerl, an dem kein gutes Haar! –
+
+
+
+TRUDE.
+Die Eltern, sprach er, wohnen von hier nur eine Stunde!
+
+
+KUNZ.
+
+Gelogen ist's! – Hier auf dem Alpenrunde,
+Zumal im Winter, wohnen nur Eulen noch und wir! –
+
+
+
+TRUDE.
+Er ist so sanft! –
+
+
+KUNZ.
+
+So? – schien er's dir? –
+Sahst ihn nicht unstät immer hin und wieder geh'n?
+Mit glüh'nden Augen auf uns seh'n?! –
+Ich war Soldat, Weib, ich muß das versteh'n!
+Wie mancher Kerl ist mir begegnet,
+Der fest war, ob's auch Kugeln hätt' geregnet!
+So was erkennt man an dem Augendreh'n,
+Am immer ängstlich flücht'gen nach allen Seiten Späh'n;
+In so 'nem Kerl da thut der Böse leibhaft brennen!
+D'rum muß er immer glupen, immer rennen! –
+
+
+
+TRUDE.
+
+Dort hat er auch den Wein noch lassen steh'n! –
+Trink noch ein Schlückchen – 's wärmt dich! –
+
+
+
+KUNZ.
+Auf sein Wohlergeh'n! –
+
+
+Er schenkt sich ein und trinkt, was er während der folgenden Reden, wie in Gedanken, immer wiederholt.
+
+
+
+
+TRUDE
+
+indem sie sich auf das Strohlager ausstreckt, halb schon im Schlafe.
+
+Das walte Gott, wenn Seel' und Leib sich trennen! –
+
+
+Sie schläft ein.
+
+
+
+
+
+KUNZ.
+
+Ich möchte Amen sagen; doch seit die That gescheh'n,
+Die fluchbeladne, kann ich's nicht! – Werd' ich's noch einmal können?! –
+
+
+
+KURT
+
+in der Kammer.
+
+
+Laß mich im Strudel der Gedanken
+Versinken nicht, du Gott der Huld!
+Laß es zurück zum Abgrund wanken,
+Das Bild der blut'gen Mordesschuld! –
+Laß mich der Schwester Geist versöhnen,
+Die jetzt vielleicht, mitleidig, auf mich schaut,
+Und auf des Herzens Gletscher mir warmes Leben taut! –
+Schon schmilzt das Eis! – Gottlob, es kommen Thränen! –
+
+
+
+KUNZ
+
+nach der Wanduhr blickend.
+
+
+'s ist zwölfe bald! – Wenn morgen mittag hier
+Der Zeiger zwölf zeigt, ist es aus mit mir! –
+Denn morgen früh – hei, wie die Eulen schrei'n! –
+Da heißt's: Marsch, Kuruth, in den See hinein! –
+'s ist seltsam! – Muß denn das so sein?! –
+
+
+
+TRUDE
+
+im Schlafe tief aufseufzend.
+
+Ah! –
+
+
+KUNZ.
+
+Auch die stöhnt da! 's ist ein Haus der Pein,
+Dies alte Fluchhaus, wo sich Sünd' an Sünden reih'n.
+Verfluchte Väter stets verfluchten Söhnen dräu'n:
+Kein Wesen d'rin darf sich erfreu'n! –
+Der wilde Jäger dort, der könnt's allein!
+Er hat ja Gold! – Nun, hab' er's, hab' ich doch seinen Wein! –
+Du, Wein, du, könntest du vom Wasser mich befrei'n!
+Befrei'n – des Jägers Gold, das könnt's – mich retten! – Nein!
+Welch neuer Teufel blies mir den Gedanken ein?!
+
+
+
+
+TRUDE
+
+im Schlafe singend.
+
+
+»Warum ist dir dein Schwert so rot,
+Eduard –?« –
+
+
+
+KUNZ.
+Sie singt im Schlaf – 's ist närrisch anzuhören! –
+
+
+TRUDE
+
+wie vorher.
+
+»Ich hab' geschlag'n 'nen Geier tot –«
+
+
+KUNZ.
+
+'s ist grauerlich! – Sie atmet tief und schwer! –
+Es scheint ein böser Traum – ich muß sie stören! –
+
+
+
+TRUDE
+
+wie vorher.
+
+»Darum ist mir mein Schwert –«
+
+
+KUNZ
+
+laut.
+
+Trude! –
+
+
+TRUDE
+
+sich aus dem Schlafe ermunternd.
+
+Wa – was?
+
+
+KUNZ.
+Was fehlt dir? –
+
+
+TRUDE.
+Ach, mir ist beklommen sehr! –
+
+
+KUNZ.
+Du sangst im Schlafe! –
+
+
+TRUDE.
+Ich? –
+
+
+KUNZ.
+Von g'schlag'n 'nen Geier tot! –
+
+
+TRUDE.
+Das Lied spukt mir im Kopf heut' ohne Unterlaß!
+
+
+KUNZ.
+
+Ist's nicht das alte Lied, wo's heißt am Ende da:
+»Ich hab' geschlag'n meinen Vater tot!
+Davon ist mir mein Schwert so rot;
+Daran seid ihr schuld, Mutter?« –
+
+
+
+TRUDE.
+Ja – ach ja! –
+
+
+
+KUNZ.
+Ein dummes Lied! –
+
+
+TRUDE.
+Komm doch zu Bett' – mich graut –
+
+
+KUNZ.
+Bald!
+
+
+TRUDE.
+
+Nun so steh' ich auf – kann doch nicht ruhig schlafen! –
+Ach Gott, wie schwer sind doch der Sünden Strafen! –
+
+
+
+Sie steht weinend vom Strohlager auf.
+
+
+
+
+KUNZ.
+Ja – Fluch, das ist ein böses Kraut! –
+
+
+KURT
+
+in der Kammer, sich betend auf ein Knie niederlassend.
+
+
+Wenn ich einmal soll scheiden,
+So scheide nicht von mir!
+Wenn ich den Tod soll leiden,
+Schleuß auf des Himmels Thür!
+Wenn mir am allerbängsten
+Wird um das Herze sein,
+So reiß mich aus den Ängsten,
+Kraft deiner Angst und Pein! –
+
+
+
+Er bleibt, wie leise fortbetend, auf den Knieen.
+
+
+
+
+KUNZ.
+
+Ein albern Liedel das, vom roten Schwert! –
+Wie'n Beil, das eiskalt übern Nacken fährt! –
+Mich friert!
+
+
+
+TRUDE.
+Mich auch!
+
+
+KUNZ.
+
+Das Fieber – hätt' er's uns angethan,
+Der Golddieb! – Wüßt' ich das, er fände seinen Mann!
+Im Krieg hab' ich wohl andern den Kopf vom Rumpf getrennt!
+
+
+
+TRUDE
+
+zusammenschaudernd.
+
+Den Kopf vom Rumpf! –
+
+
+KUNZ.
+
+Dich grauselt's – denkst an Vaters Testament? –
+
+
+Brr! –
+
+
+
+Indem sein Blick auf die Wanduhr fällt.
+
+
+
+Wie der Perpendikel rennt! –
+Mich friert – mach Feuer! –
+
+
+
+TRUDE.
+Hab' ich Holz denn? –
+
+
+KUNZ.
+
+Nimm nur da
+Die Sense – werden doch sie nicht mehr brauchen können! –
+Das Unheilsding – längst hat's verdient zu brennen! –
+
+
+
+TRUDE.
+Mir schaudert immer, komm' ich ihr zu nah! –
+
+
+Sie nimmt die Sense vom Nagel herunter und macht mit dem morschen Stiele derselben, den sie zerbricht, im Kamin Feuer an.
+
+
+
+
+KURT
+
+in der Kammer, indem er von den Knieen aufsteht.
+
+
+Ich bin entsühnt – die Ahnung ist erfüllt;
+Wie Alpenglöcklein tönt's von oben: Frieden! –
+Schon naht der Schlummer mir – und tröstend hüllt
+Er bald auf heim'schem Boden mich, den Müden! –
+An dieser längst ersehnten Bretterwand
+Hat oft mein fröhlich Hirtenhorn gehangen;
+Noch steckt der Nagel drin, an den ich's band! –
+Mir naht die Kinderzeit mit blüh'nden Engelswangen;
+Mein Schwesterchen mit kindisch zarter Hand,
+Beut wieder Alpenröslein mir! – Das Bangen,
+Beschwichtigt ist's – erreicht der Heimat Land! –
+
+
+
+Er hängt seine Kleider und Gerätschaften an einen Nagel der die Kammer von der Stube scheidenden Bretterwand, dieser biegt sich und die Sachen fallen herunter.
+
+
+
+
+KUNZ.
+Was fiel?! –
+
+
+TRUDE.
+Ich weiß nicht –
+
+
+KUNZ.
+
+Seltsam wird mir's schwer
+Und angst! – Du, reich doch mal die Bibel her! –
+
+
+
+Trude bringt Kunzen die Bibel und geht dann wieder an das Feuer zum Kamin.
+
+
+
+
+KURT
+
+in der Kammer.
+
+
+Der Nagel will mein Kleid schon nicht mehr tragen! –
+Nun – 's ist auch größer jetzt! – Komm, laß dich grade schlagen! –
+
+
+
+
+KUNZ
+
+in der Bibel lesend.
+
+
+»Des Vaters Segen bauet den Kindern Häuser,
+Aber der Mutter Fluch reißt sie wieder nieder.« –
+Nicht wahr! – Der Mutter Segen baut allein
+Sie auf; des Vaters Fluch, der reißt sie ein!
+
+
+
+Kurt hat unterdessen in der Kammer den Nagel gerade geschlagen und seine Kleider daran gehangen; von der dadurch bewirkten Erschütterung fällt das an der andern Seite der Bretterwand hängende große Messer herunter und Truden vor die Füße.
+
+
+
+
+TRUDE
+
+entsetzt zu Kunzen an den Tisch eilend.
+
+Ach! –
+
+
+KUNZ
+
+vom Stuhle, auf dem er bisher immer gedankenvoll gesessen ist, schnell aufspringend.
+
+Halt – was fällt mir ein! –
+
+
+TRUDE.
+Das Messer fiel! –
+
+
+KUNZ.
+Sprach nicht der Kerl, er sei ein Mörder?! –
+
+
+TRUDE.
+Nein!
+
+
+KURT
+
+in der Kammer zum Schlafengehen sich bereitend.
+
+
+Nun dann – gottlob, ich bin am Ziel! –
+Mein Maultier, das am nächsten Orte
+Ich wohl bepackt zurücke ließ,
+Mein Knecht bringt's morgen früh – dann schließt mein Gold die Pforte
+Mir auf vom ird'schen Paradies! –
+
+
+
+Indem er die Geldkatze vom Tische nimmt und sie unter das Kopfende des im Hintergrunde der Kammer befindlichen Strohlagers schiebt.
+
+
+
+Komm, liebes Gold, durch dich ist Rückkehr mir gelungen! –
+Durch Gold, das in des Abgrunds Tiefen wohnt! –
+Denn ehrlich hab' ich es errungen,
+Und treues Streben wird belohnt! –
+Aus neuer Welt bring' ich's zur alten,
+Leg' es in meiner Eltern Hand;
+Dann mag Gott mit uns allen walten! –
+
+
+
+Sich auf das Strohlager streckend.
+
+
+Gegrüßet sei mir, Vaterland! –
+
+
+Er schläft ein. Das Licht in der auf dem Tische in der Kammer stehenden Laterne verlischt.
+
+
+
+
+
+KUNZ.
+
+Er sprach: – er hab' 'nen Mord begangen! – Ei!
+So ist der Kerl ja vogelfrei! –
+Ein jeder kann ihn plündern, ihn berauben;
+Weil die Gesetze das erlauben,
+Sie heißen's gar –
+
+
+
+TRUDE.
+Um Gotteswillen, Mann! –
+
+
+KUNZ.
+
+Ihn töten könnt' ich – darnach kräht kein Hahn!
+Beim Mörder steht das jedem frei! –
+
+
+
+TRUDE.
+Um Jesu Wunden! –
+
+
+KUNZ.
+
+Nun,
+Mach kein Geschrei! – Ich werd' ja das nicht thun! –
+Ich will ja nur – die Zeit die thut uns eilen! –
+Daß er ein Räuber ist – nun, das ist sonnenklar!
+Ein Zaubrer gar vielleicht! – So'n Kerl, der bringt Gefahr
+Der Eidgenossenschaft! – den Raub mit ihm zu teilen,
+Nur dazu hätt' ich Lust! –
+
+
+
+TRUDE.
+O laß den Frevel sein!
+
+
+KUNZ.
+
+So soll ich springen in den See hinein,
+Und gottlos Unrecht thun; – jetzt, wo mir's Recht erlaubt,
+Mich, dich zu retten, wenn ich raube was geraubt?! –
+Gut, lassen wir's! – Ich kann auch sterben! –
+
+
+
+TRUDE.
+Nein! –
+
+
+KUNZ.
+Soll ich –! –
+
+
+TRUDE.
+Thu – was – du willst –
+
+
+KUNZ.
+So leucht' mir! –
+
+
+TRUDE
+
+die Lampe vom Tische nehmend.
+
+Höllenpein! –
+
+
+
+KUNZ.
+
+'s ist Mitternacht! Das ist 'ne gute Stunde! –
+Da hat man Mut; wenn auch der Vater blau
+Vom Schlagfluß da liegt! – Nun, was zitterst, Frau? –
+
+
+
+TRUDE
+
+in der einen Hand die Lampe haltend und sich mit der anderen an Kunzens Arm klammernd.
+
+O laß –
+
+
+KUNZ
+
+indem er, an Truden angeklammert zur Kammerthür schleichend, mit dem Fuße an das zuvor auf die Erde gefallene große Messer stößt.
+
+
+Hoho! liegst du da, alter Kunde? –
+Dich nehm' ich mit –
+
+
+
+Er hebt das Messer auf.
+
+
+
+
+TRUDE.
+
+Du willst doch nicht sein Blut
+Vergießen?! –
+
+
+
+KUNZ.
+
+Nein! – Sieh, das verstehst du nicht! –
+Ich bin Soldat gewesen – sieh nur – da braucht man Vorsicht!
+So'n scharfes Ding – es ist auf alle Fälle gut! –
+
+
+
+Indem er nebst der sich immer an ihn klammernden Trude in die Kammer tritt.
+
+
+Du! – ist's nicht, als ob's hier nach Leichen riechen thut?! –
+
+
+TRUDE.
+O, komm zurück! –
+
+
+KUNZ.
+
+Er schläft! – wo hat er seine Katze
+Mit Geld? – Dort guckt sie vor – unter der Strohmatratze!
+Nun, nimm sie! –
+
+
+
+TRUDE.
+Nein! –
+
+
+KUNZ.
+
+Du schämst dich? – Ja freilich, 's ist nicht fein! –
+'ne Schmach ist's! – Hör, was meinst du? – Wir lassen's lieber sein! –
+
+
+
+TRUDE.
+O, das gab dir dein Engel ein! –
+
+
+
+KUNZ
+
+indem er das Messer in die Brusttasche steckt.
+
+Ja – laßt uns schuldlos sterben! – Schuldlos? – Nein! –
+
+
+Die Wanduhr schlägt zwölf.
+
+
+
+
+KUNZ
+
+während die Uhr schlägt, jeden der Schläge nachzählend.
+
+
+Eins, zwei, drei, vier, fünf, sechs, sieb'n, acht, neun, zehn,
+Elf, g'nug! – Zwölf! – Keif nicht, Alter, es ist einmal gescheh'n! –
+
+
+
+TRUDE
+
+ihn zur Thür ziehend.
+
+O komm! –
+
+
+KUNZ
+
+die Thür leise öffnend und sie plötzlich wieder zuziehend, indem er schaudernd zurückfährt.
+
+Brr! –
+
+
+TRUDE.
+Gott! – Was ist dir? –
+
+
+KUNZ.
+Da hinein kann ich nicht geh'n! –
+
+
+TRUDE.
+Warum?
+
+
+KUNZ.
+
+Hast nicht den Alten im Lehnstuhl sitzen seh'n,
+Blau, mit gebrochnen Augen, nach mir herum sich dreh'n? –
+
+
+
+TRUDE
+
+die Thür öffnend und in die Stube hinein sehend.
+
+'s ist nichts! –
+
+
+KUNZ
+
+Truden dicht an sich ziehend.
+
+
+Bleib hier – mich graut! – dicht bei mir hier bleib steh'n!
+So! –
+
+
+
+Indem er Trudens Arme umklammert und sie mit den seinen wie zum Beten emporhält.
+
+
+Hilf mir beten! – Hilf mir! –
+
+
+TRUDE
+
+die Lampe auf den Boden setzend und ihre Arme mit Kunzens Armen verschlungen gefaltet empor hebend.
+
+O, könnt' ich uns Hilf' erfleh'n! –
+
+
+KUNZ.
+Vater unser, der mich hat verflucht! –
+
+
+
+
+Zu Truden.
+
+
+
+Sieh – wie dort der Fremde höhnisch lacht!
+Aus mich lacht er, weil nur ich verflucht
+Und nicht er's ist! –
+
+
+
+TRUDE
+
+ihn zur Thür ziehend.
+
+Flieh die düstre Macht!
+
+
+KUNZ
+
+noch einmal die Hände zum Gebet zusammen klammernd.
+
+Vater! –
+
+
+Zu Truden immer nach Kurt hin schielend.
+
+
+
+Horch! – Sein Gold – 's ist auch verflucht! –
+Komm mit! ruft's. – Komm! ruft's durch die Mitternacht,
+Wie ihm die Gletscher! – hörst's? –
+
+
+
+TRUDE.
+Die Eulen schrei'n.
+
+
+KUNZ.
+
+Nein – sein Gold ist's! – Ich soll's, es will mich befrei'n!
+Retten will mich's von der Höllenpein! –
+Wie er lächelt mit den roten Wangen – er allein
+Sollt', ein Schwelger, sich des Lebens freu'n,
+Reich und unverflucht und selig sein;
+Und nur ich! – Hab' ich nicht Fleisch und Bein,
+Bin ich Mensch wie er nicht; stand ich tapfer nicht in Glied und Reih'n,
+Wenn der feige Mörder da nachts sich schlich auf Räuberei'n;
+Und nur ich sollt', schmachbeladen, in den Daubensee hinein,
+Bloß weil ich verflucht und arm bin? – Nein!
+
+
+
+Sich aus Trudens Armen, die, ihn umklammernd, ihn nach der Thür ziehen will, losarbeitend.
+
+
+Nein, mich retten muß ich – retten! Sollt's auch ewig mich gereu'n! –
+
+
+Aufschreiend und zu Kurts Strohlager hineilend.
+
+
+Hexenbold, dein Gold ist mein! –
+
+
+KURT
+
+während Kunz sich über ihn hinbeugt, um ihm die Geldkatze unter dem Kopfende des Strohlagers fortzuziehen, erwachend und noch schlaftrunken aufschreiend.
+
+Ha, Diebe! – Mörder! –
+
+
+
+KUNZ
+
+wütend das Messer herausreißend und dem Kurt zwei Stiche versetzend.
+
+Mörder selber! Du! –
+
+
+KURT.
+Mich – Euren Sohn – bringt Ihr – zur Ruh'!? –
+
+
+TRUDE.
+Mein Sohn! – –
+
+
+Kunz fährt entsetzt zurück.
+
+
+
+
+KURT
+
+mit letzter Kraftanstrengung vom Lager aufstehend und ein Papier aus dem Brustlatze hervorziehend.
+
+Ich bin's – da les't –! –
+
+
+Er sinkt Truden in den Arm.
+
+
+
+
+KUNZ
+
+dem Kurt das Papier aus der Hand reißend, damit zu der auf der Erde stehen gebliebenen Lampe eilend und das Papier aus einander faltend.
+
+Ein Paß ist's! –
+
+
+Lesend.
+
+
+
+»Kurt Kuruth
+Aus Schwarrbach –!« –
+
+
+
+Das Papier entsinkt seinen Händen.
+
+
+Ha, Verfluchter! 's ist deines Sohnes Blut! –
+
+
+Er wirft das Messer mit solcher Gewalt an den Boden, daß es zerspringt.
+
+
+
+
+TRUDE
+
+dem Kurt den linken Hemdärmel aufstreifend.
+
+Er hat die Sens' am Arm! – Mein Sohn ist's!
+
+
+Indem sie, den sterbenden Sohn immer im Arme haltend, ermattet auf die Kniee sinkt, zu Kunz.
+
+
+
+Bring um's Leben
+Mich auch, du Kindermörder du –! –
+
+
+
+KURT
+
+zu Kunz und Trude.
+
+
+Vergeben –
+Hat euch – der Vater –! – Ihr seid fluchentsühnt –! –
+
+
+
+KUNZ
+
+vor Kurt hinknieend.
+
+Und du – vergiebst du? –
+
+
+KURT.
+Ja –! –
+
+
+KUNZ.
+Und Gott – vergiebt er?! –
+
+
+
+KURT.
+Amen –! –
+
+
+TRUDE.
+Er stirbt! –
+
+
+KUNZ
+
+von den Knieen aufstehend.
+
+
+Wohlan – in Gottes Namen! –
+Ich büße gern das, was ich schwer verdient! –
+Ich geh' zum Blutgericht und geb' die Mordthat an! –
+Wenn ich durch's Henkerbeil bin abgethan,
+Dann mag Gott richten – ihm ist alles offenbar!
+Das war ein vierundzwanzigster Februar! –
+Ein Tag ist's! – Gottes Gnad' ist ewig! Amen! –
+
+
+
+
+
+
+
+

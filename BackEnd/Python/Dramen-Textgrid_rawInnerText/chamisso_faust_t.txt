@@ -1,0 +1,917 @@
+
+
+
+
+Faust
+
+
+hdl:11858/00-1734-0000-0002-4E8D-Etextgrid:kw56.0
+ Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). 
+
+Lizenzvertrag
+
+
+ Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache 
+
+
+Hinweise zur Lizenz und zur Digitalen Bibliothek
+
+
+
+
+
+                                    Entstanden 1803. Erstdruck unter dem Titel »Faust. Eine Tragödie in einem Akt. Ein Versuch« in: Musenalmanach auf das Jahr 1804 [»Grüner Musenalmanach«], Leipzig (Carl Gottlob Schmidt) 1803.
+                                 
+
+
+
+
+Adalbert von Chamisso: Sämtliche Werke. Nach dem Text der Ausgaben letzter Hand und den Handschriften. Textredaktion: Jost Perfahl, Band 1–2, München: Winkler, [1975].
+Chamisso, Adelbert von
+
+500-
+
+
+München
+
+
+
+
+
+
+
+
+
+
+verse
+
+
+
+
+
+
+
+
+Faust
+
+
+Ein Versuch
+
+
+
+1803
+
+
+
+
+ Doch wozu ist des Weisen Torheit nütz?
+
+
+ Schlegels Shakespeare
+
+
+ (»Was ihr wollt.« III. 1)
+
+
+
+
+
+
+Faust. Sein Guter und sein Böser Geist, zwei Stimmen
+
+
+
+
+
+Faustens Studierzimmer, von einer einzigen Lampe erleuchtet.
+
+
+
+
+
+Faust.
+
+
+
+Der Jugend kurze Jahre sind dahin,
+Dahin die Jahre kräft'ger Mannheit, Faust!
+Es neigt sich schon die Sonne deines Lebens –
+Hast du gelebt? hier, fremd in dieser Welt,
+Verträumtest du die karggezählten Stunden,
+Nach Wahrheit ringend, die Pygmäenkräfte
+Anstrengend in dem Riesenkampf – o Tor!
+
+
+
+Du, der in wildem Jungendfeuer schwelgend,
+Uneingedenk der Zukunft, deiner selbst,
+Des großen Weltalls, das um dich sich kreist,
+Genuß nur kennst, Genuß nur kennen willst;
+Beglückter Liebling du der Gegenwart,
+Dich muß ich weis, so wie du glücklich bist,
+Auch preisen. – Weis! – und Tor? – Sinnleere Namen!
+Nur Kranke gibt's, ich kenne keine Toren.
+Ein Funke glomm im Busen mir, (ihn legte
+Die fremde Hand,) er mußte hoch entlodern,
+Und ewig ungelöschten Durst mir flammen; –
+Vom Allerschaffer fordr ich alle Schuld,
+Wir müssen wollen, ja wir müssen! – müssen?
+Nicht frei denn? – also, wollend, nur ein Stein,
+Der in die Tiefe fällt, und fühlt – er wolle.
+
+
+
+Was bist du Mensch denn? gier'ger Allumfasser
+Des Universums kühner Freier du,
+Der blind, in Nacht, in zwiefach ew'gem Dunkel
+Gebannt zu irren, nichts erkennen kannst,
+Ein ewig ungelöstes Rätsel dir;
+
+Erschaffer deiner Welt nach ewigen
+Gesetzen, selbst von ihr erschaffen,
+Was bist du mächt'ger, nicht'ger Erdenwurm?
+Ein Gott in Banden, oder nur ein Staub?
+Was ist des Denkens, was der Sinnen Welt?
+Die Zeit, der Raum, die Allumfassenden,
+Und ihre Schöpfungen, durch die sie werden?
+Was außer ihnen, das Unendliche?
+Was ist die Gottheit, jeder großen Kette
+Ein erstes ewig unbegriffnes Glied,
+Das, nicht getragen, alle Glieder trägt? –
+Erscheinung nur und Wahn ist alles mir.
+Es wirft das Licht, das innre, dort hinaus
+Auf ausgespannte Nacht die Bilder hin,
+Ein leerer Widerschein des eignen Ichs,
+Und so entsteht die Welt, die ich erkenne.
+So hat – vielleicht der Zufall es geordnet,
+Der große Bildner, den sie Gottheit nennen.
+Und wenn, nicht bloß gedacht, dort Geist und Körper
+Und Gottheit sind, – wie faß ich sie? – umsonst!
+Es treten ewig zwischen sie und mich
+Der Sinne Lügen, der Vernunft Gesetze.
+
+
+
+Ihr ew'ge Rätsel, schrecklich grimm'ge Nattern,
+Die stets ihr euch erzeugt und euch verzehrt,
+Und mir das Herz verzehrt im grausen Spiele
+Der stets verschlungnen und erzeugten Kreise;
+Ich kann euch nicht verscheuchen, nicht erdrücken,
+Ihr stürmet rastlos mir die bange Seele;
+Weh dem, den ihr zum ernsten Kampfe reizet!
+Es furchet tief des Denkers Stirne sich,
+Und Zweifel ist der schwererrungne Preis.
+
+
+
+Nein! länger soll der Schlangenbiß des Zweifels
+Nicht langsam mir am kranken Herzen nagen,
+Nicht giftig reizen mehr der Wunden Schmerzen.
+Ich will gesunden in der Wahrheit Scheine,
+Erschwingen kühn das sternenferne Ziel,
+Das eitel strebend nimmer ich erklommen.
+
+
+
+
+
+
+
+Er sucht eine magische Rolle hervor, entfaltet sie auf seinem Tische und spricht, indem er die Hand auf die Zauberschrift legt.
+
+
+
+
+Sind's keine Träume, die du hingezeichnet,
+So folg ich, Seher, deiner Riesenspur,
+Ich schreite deine Bahn und zage nicht.
+Wenn horchend deinem mächt'gen Rufe, Geister,
+Dir dienend, ihres Reiches Nacht entstiegen;
+Wird mir die Geisterwelt sich auch eröffnen.
+Belehrung zollen mir die finstern Mächte.
+
+
+
+
+Die Geisterbeschwörung
+
+
+
+Die ihr, gehüllt in furchtbar dunklen Schleier,
+Die Seele mir umwallt, gehorchet, Geister,
+Dem ernsten, festen Willen, der euch ruft.
+
+
+
+
+
+Böser Geist Eine Stimme zur Linken.
+
+
+
+Dem ernsten, festen Willen wird gehorchet.
+Du Sohn des Staubes, ihm entschwungen kühn
+Und ähnlich uns, sprich dein Begehren aus.
+
+
+
+
+
+Guter Geist Eine Stimme zur Rechten.
+
+
+
+Faust! Faust!
+
+
+
+
+
+Faust.
+
+
+
+Auch du! Dir hab ich nicht gerufen, fleuch!
+Abschütteln will ich deiner Knechtschaft Joch,
+Entfleuch! Nicht du, Unmächtiger, vermagst
+Den heißen Durst des Lechzenden zu stillen,
+Die sturmgeschlagnen Wellen zu besprechen.
+Du lähmst den Flug mir, hebe dich von dannen!
+Ich will ihn männlich fliegen und nicht zagen.
+Ich wende mich von dir, ich folge dem;
+Belehrung fordr ich, Wahrheit und Erkenntnis.
+
+
+
+
+
+Böser Geist.
+
+
+
+Nicht menschlich sprichst du Worte hohen Sinnes.
+Hast du mit Mannes Ernst mich hergebannt.
+So schwöre mir den Preis zu – deine Seele;
+Und öffnen will ich dir der Wahrheit Schätze,
+Und was der Mensch vermag, sollst du erkennen.
+
+
+
+
+
+Guter Geist.
+
+
+
+Faust, Faust!
+Den seligen Menschen
+Gewährte der Vater,
+Von allen den Früchten
+Des Gartens zu kosten;
+Den seligen Menschen
+
+Verwehrte der Vater
+Die einzige Frucht.
+
+
+
+Und listig schmeichelnd hob die Schlange sich:
+Ihr würdet Göttern gleich, wenn ihr die Frucht,
+Die herrliche, zu kosten euch erkühntet,
+Die euch der Vater streng verwehrt zu brechen,
+Nicht Vater er, der neidische Tyrann!
+
+
+
+Faust, Faust!
+Dem kindlichen Menschen,
+Die Freuden des Lebens,
+Sie knospen ihm alle.
+Er weilet, wo duftend
+Die Rosen ihm blühen,
+Die Früchte ihm winken.
+Geflügelten Schrittes
+Leicht hin über Dornen
+Zu schweben, zu eilen,
+Gesellt' ihm der Vater
+Die holden Gefährten,
+Den Glauben, die Hoffnung,
+Treu ihm in wechselndem Glück.
+
+
+
+Faust, Faust!
+Es gab zu ahnden das Unendliche
+Der Vater dir den Geist,
+Gab, liebend anzubeten, dir das Herz:
+Und, rechtend mit dem Vater, wagest du,
+Vom Strahle seiner Liebe mild beschienen,
+Zu fordern jene Frucht, des Todes Frucht.
+Verschmäh, verschmäh des Lebens Glück und Kronen,
+Und ringe nach der Gottheit fernem Ziele;
+Des Rächers Rache trifft den schuld'gen Scheitel!
+
+
+
+
+
+Faust.
+
+
+
+Erschuf zu ausgesuchten Qualen mich
+Ein Gott des Hasses, den der Schmerz erfreut?
+
+
+
+
+
+Guter Geist.
+
+
+
+Das Glück umblühte deines Lebens Pfade.
+
+
+
+
+
+Faust.
+
+
+
+Es ist Erkennen mir das einz'ge Glück.
+
+
+
+
+
+Guter Geist.
+
+
+
+Die Hoffnung blüht dem Dulder, lern entbehren.
+
+
+
+
+
+Faust.
+
+
+
+Sie welkte in der schwer erkrankten Brust.
+
+
+
+
+
+
+
+Guter Geist.
+
+
+
+Der Tugend Kranz umgrüne deine Locken.
+
+
+
+
+
+Faust.
+
+
+
+Auch diesen Kranz entriß der Zweifel mir.
+
+
+
+
+
+Guter Geist.
+
+
+
+Du willst, du willst, und deine Freuden welken.
+
+
+
+
+
+Faust.
+
+
+
+So wähl ich denn, nicht frei, das eigne Weh.
+
+
+
+
+
+Guter Geist.
+
+
+
+Faust! handle glaubend, wie du frei dich fühlest.
+
+
+
+
+
+Faust.
+
+
+
+Nein, nein! ich bin nicht frei, ich will's nicht sein.
+
+
+
+
+
+Guter Geist.
+
+
+
+So treffe denn die schwere Schuld den Frevler.
+
+
+
+
+
+Faust.
+
+
+
+Die schwere Schuld wälz ich dem Schöpfer zu,
+Der mich zu hoch begabt, zu tief gedrückt,
+Der feindlich mir den regen Geist gegeben.
+
+
+
+
+
+Guter Geist.
+
+
+
+Und ihn zu bändigen, den Willen dir.
+Des Rächers Rache trifft den schuld'gen Scheitel!
+
+
+
+
+
+Faust.
+
+
+
+Dich, Geist der frühen Rache, schrecklicher,
+Der furchtbar ahndend nicht begangne Sünden,
+Gedanken nur des Herzens, angstumzischend
+Der Hölle Schlangen furchtbar um mich schlingst,
+Erschütternd nicht des Mannes ernsten Willen,
+Dich straf ich Lügen; nein, ich bin nicht frei;
+Ein ehrnes Schicksal waltet über mir
+Und unaufhaltsam reißt es mich dahin,
+Und eisern fällt, und trifft das grause Los.
+
+
+
+
+
+Böser Geist Halb laut.
+
+
+
+Der Falsche lügt sich deinen guten Geist.
+
+
+
+
+
+Faust.
+
+
+
+Du lügst dich meinen guten Geist, entfleuch!
+Ich wende mich von dir, ich folge dem.
+Belehrung fordr ich, Wahrheit und Erkenntnis.
+
+
+
+
+
+Böser Geist.
+
+
+
+Wohlan! so schwöre mir den Preis zu, Faust;
+Und öffnen will ich dir der Wahrheit Schätze,
+Und was der Mensch vermag, sollst du erkennen.
+Selbst brich den Stab denn über deine Seele.
+
+
+
+
+
+Der Stab des Gerichtes wird Fausten in die Hand gezaubert, er erschrickt, und faßt sich rasch wieder.
+
+
+
+
+
+
+
+Faust.
+
+
+
+Du, rascher Sohn des Augenblickes, Wille,
+Gebäre rasch die Tat.
+
+
+
+
+
+Guter Geist.
+
+
+
+Die ernste Tat.
+Die spät fortwirkend in der Zeiten Schoße,
+Entfallen dir, ein Raub der fremden Mächte,
+Gehöre ewig der Notwendigkeit.
+
+Noch, Faust, gehört des Herzens Willen dir.
+
+
+
+
+
+Böser Geist Halblaut und langsam.
+
+
+
+Und öffnen will ich dir der Wahrheit Schätze
+Und was der Mensch vermag, sollst du erkennen.
+
+
+
+
+
+Faust.
+
+
+
+Gehört noch mir, – gedacht, gewollt, gehandelt!
+
+
+
+
+
+Guter Geist.
+
+
+
+Und wagtest du zu denken ihn, den großen,
+Den schrecklichen Gedanken: Ewigkeit?
+
+
+
+
+
+Faust.
+
+
+
+Ich dacht ihn, ja! doch der Moment allein
+Gehört dem Menschen, im Momente lebt er,
+Drum kauft er um der Zukunft teuren Preis
+Des Augenblickes rasch entflohne Lust.
+Es kann die Zukunft auch ein Traum nur sein.
+
+
+
+
+
+Guter Geist.
+
+
+
+Und wenn auf Wahrheit jener Traum hindeutet?
+
+
+
+
+
+Faust.
+
+
+
+So mag der Schreckenstraum sich dann entfalten.
+Du wetzest selbst des Zweifels gift'gen Zahn,
+Der mich zerfleischt. Nicht Wahrheit kann das Herz
+Zermalmend treffen, das für sie nur schlägt,
+Nur schrecklich ist die Qual mir, die ich dulde;
+Sie muß sich enden. Stählern ist die Brust,
+Und jedes Schmerzes Pfeil entprallt unmächtig,
+Den nicht des Zweifels Schreckensarm geschnellt.
+Ich will der ew'gen Rache männlich harren,
+Und festen Blickes ihr entgegen sehn.
+Ich fluche dir, und deinem Gott, und breche
+Entschlossen selber des Gerichtes Stab.
+
+
+
+
+
+Guter Geist.
+
+
+
+Wehe dem Menschenerzeugten!
+Wehe! zerbrechet die Krone.
+Er stürzet, nachhallend
+Empfängt ihn die Tiefe
+Zerschmettert vom jähligen Fall.
+
+
+
+Es wandle im Tale
+Der Menschenerzeugte,
+
+Und weide die Blicke
+An blumigen Auen.
+Nicht wag er zu heben
+In blendende Höhen
+Zur Sonne den Blick.
+Vom lieblichen Kleide
+Der nährende Erde
+Rückstrahlt ihm die Farbe,
+Ein sanfteres Licht.
+Ihm g'nüge der bunte,
+Der liebliche Schein.
+Nicht gierigen Herzens
+Erheb er die Wünsche
+Zur Sonne empor.
+Erklimmt er der Berge
+Beschneiete Gipfel,
+Zu nahen der Sonne
+Verzehrendem Licht;
+Nicht näher der fernen,
+Erblindet das Aug ihm,
+Und schwankenden Schrittes
+Entgleitet der Fuß.
+Der schwindlichten Höhe
+Entstürzt er, nachhallend
+Empfängt ihn die Tiefe
+Zerschmettert vom jähligen Fall.
+
+
+
+Wehe dem Menschenerzeugten!
+Wehe! zerbrechet die Krone.
+Entwunden den Armen
+Der sorgenden Liebe,
+Hin eilt er – und stürzet;
+Er stürzet, nachhallend
+Empfängt ihn die Tiefe
+Zerschmettert vom jähligen Fall.
+
+
+
+
+
+Faust den Stab zerbrechend.
+
+
+
+Zerbrochen ist der Stab.
+
+
+
+
+
+Guter Geist.
+
+
+
+Er ist zerbrochen.
+
+
+
+
+
+Böser Geist.
+
+
+
+Er ist zerbrochen.
+
+
+
+
+
+Lange Stille
+
+
+
+
+
+Faust.
+
+
+
+Nun?
+
+
+
+
+
+
+
+Böser Geist.
+
+
+
+Ich lache deiner, leichtes Spielwerk du
+Der gier'gen Wünsche deines stolzen Herzens;
+Ich lache deiner, Tor, den ich verachte,
+Und zolle dir den Preis, den du bedungen.
+
+
+
+Der Zweifel ist menschlichen Wissens Grenze,
+Die nur der blinde Glaube überschreitet.
+Dich bann ich, ohne Anker, ohne Segel
+Zu irren auf dem feindlich dunklen Meere,
+Wo dir kein Grund, wo keine Ufer dir,
+Dem ohne Hoffnung Strebenden erscheinen;
+Bis vor dir nächtlich sich das Tor eröffnet,
+Das furchtbar dir geahndete, des Todes,
+Und neue Schauder schrecklich dich ergreifen;
+Denn mir gehöret deine Ewigkeit:
+Ich zolle dir den Preis, den du bedungen.
+
+
+
+Des Glaubens Blume blühte kindlich dir,
+Du hast sie stolz zertreten, forderst Wahrheit.
+Wohl! schreckend ruf ich dir die Wahrheit zu:
+Aus deiner Weisen Widersprüchen strahlte
+Sie dir entgegen, die geahndete:
+Der Zweifel ist menschlichen Wissens Grenze,
+Es kann der Staubumhüllte nichts erkennen,
+Dem Blindgebornen kann kein Licht erscheinen.
+
+
+
+So wie die Sprache, wie des Wortes Schall
+Dir Mittler des Gedankens ist und Zeichen;
+So ist des Sinns Empfinden, der Gedanke selbst
+Dir Sprache bloß und eitles leeres Zeichen
+Der ewig dir verhüllten Wirklichkeit.
+Du kannst nur denken durch den Mittler Sprache,
+Nur mit dem Sinne schauen die Natur,
+Nur nach Gesetzen der Vernunft sie denken.
+Und hättest hundert Sinne du und tausend,
+Du kargbegabter, und erhöbe freier
+Sich dein Gedanke ins vielseitiger –
+Befühlte All; so würdest immer du,
+Getrennt, vereint mit ihm durch Körpers Bande,
+Nur eigne Schatten schaun und nichts erkennen.
+
+Es strebe, trachte angestemmt der Mensch;
+Ihm fiel das Los. Der reine Geist allein,
+Der ruhende, erkennt; nicht ihn umfaßt
+Die ew'ge Mauer, die sich zwischen dir
+Und der ersehnten Wahrheit trennend hebt.
+Die Mauer stürzt der Tod; die Rächerin,
+Sie harret furchtbar deiner in dem Lande,
+Wo nicht gestrebet, nicht getrachtet mehr,
+Wo zollen einer wird des Lebens Lohn.
+
+
+
+Nachhallen muß ich deiner Worte Schall,
+Nachspiegeln deines Denkens Schatten dir,
+Nachlügen deiner Weisen Traumgebilde,
+Dir, einem Menschen, ich, ein Geist, zu nahen;
+Gedanken, Worte, Menschenträume fassen
+Kein ähnlich Bild der ewig dir Verhüllten.
+Doch Wahrheit, Wahrheit hast du dir bedungen;
+Nun! was der Mensch vermag, sollst du erkennen:
+
+
+
+Der Zweifel ist menschlichen Wissens Grenze, –
+Ist furchtbar rächend deines Lebens Schlange.
+Verzweifle, niedrer Erdenwurm, den tiefer
+In seinen Staub zurück ich niedertrete;
+Nicht heben darfst du jenen dunklen Schleier,
+Es bringt die Zeit dir keine Blume mehr,
+Und mir gehöret deine Ewigkeit.
+So öffn ich rächend dir der Wahrheit Schätze,
+So zoll ich dir den Preis, den du bedungen.
+
+
+
+
+
+Faust im Begriff, sich niederzuwerfen gegen die Seite, woher die Stimme des guten Geistes hallte, erhebt sich rasch wieder und spricht.
+
+
+
+
+Nein! niederknieen nicht vor dir, Verkünder
+Des siebenmal erfüllten schweren Fluches,
+Der mir das Haupt umflammt, und nicht vor ihm.
+Vernichtung heißt der Gott, den ich anrufe.
+Ihr seid unmächtig, der Vergangenheit
+Ihr leicht erworbnes Eigentum zu rauben.
+
+
+
+O könnt ich wieder fluchen euch! o könnt ich
+In Menschenqualen euch verzagen sehn,
+In ew'gen Menschenqualen euch verzweifeln,
+
+Und laut auflachend gräßlich euch verhöhnen!
+Fluch selber mir, daß ich ohnmächtig bin,
+Daß nur ein leiser, eitler Laut der Lippe
+Entbebet, in dem Winde zu verhallen!
+
+
+
+Ersehnte Spornerin der eitlen Wünsche,
+Ich habe, Wahrheit, deine Dunstgestalt
+Verfolgt, und unermeßlich weit verfolgt,
+Und ihr geopfert jeden Hoffnungsschimmer;
+Gestrandet steh ich nun auf schroffer Klippe,
+Rings um mich her die dunkle tiefe Flut,
+Und um das Haupt mir donnerschwangre Wolken.
+Ich werde nimmer, nimmer sie umfangen,
+Um die ich hin den teuren Preis geworfen!
+
+
+
+
+Böser Geist.
+
+
+
+Die Mauer stürzt der Tod; die Rächerin,
+Sie harret furchtbar deiner in dem Lande,
+Wo nicht gestrebet, nicht getrachtet mehr,
+Wo zollen einer wird des Lebens Lohn.
+
+
+
+
+
+Faust.
+
+
+
+Die Mauer stürzt der Tod; – sie harret meiner
+In jenem Lande... – Schlange meines Lebens!
+Wo nur das Aug ich wende, starrest du
+Mich gräßlich an. – Verdammnis, – Ewigkeit,
+Laßt eure Qualen nicht den Zweifel sein!
+Umstürze du, Erfüllung, jene Mauer;
+Verhüllte Rächerin, sei Rettung mir,
+Ich will in jenem Lande dich verfolgen.
+
+
+
+
+
+Wie er sich gegen den Geist wenden will, den Tod zu erflehen, wird ihm ein Dolch in die Hand gezaubert, er wendet die Spitze gegen sein Herz, und stößt ihn langsam hinein.
+
+
+
+
+Verdammnis, ewige, in deinen Schoß! –
+Vielleicht Vernichtung nur, vielleicht Erkenntnis,
+Gewißheit doch.
+
+
+
+
+Er stürzt, die Lampe erlischt, das Theater ist tief verfinstert. Langsam fällt der Vorhang.
+
+
+
+
+
+
+
+
+

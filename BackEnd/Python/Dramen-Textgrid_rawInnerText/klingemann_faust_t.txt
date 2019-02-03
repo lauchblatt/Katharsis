@@ -1,0 +1,10769 @@
+
+
+
+
+Faust. Ein Trauerspiel in fünf Acten
+
+
+hdl:11858/00-1734-0000-0003-B288-Ctextgrid:r121.0
+ Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). 
+
+Lizenzvertrag
+
+
+ Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache 
+
+
+Hinweise zur Lizenz und zur Digitalen Bibliothek
+
+
+
+
+
+                              Erstdruck: Leipzig und Altenburg (F. A. Brockhaus) 1815.
+                           
+
+
+
+
+Klingemann, August: Faust. Ein Trauerspiel in fünf Acten. Leipzig und Altenburg: F. A. Brockhaus 1815 [Nachdruck Wildberg: Belser Wissenschaftlicher Dienst, 1996].
+Klingemann, August
+
+1-
+
+
+Wildberg
+
+
+
+
+
+
+
+
+
+
+drama
+
+
+
+
+
+
+
+
+August Klingemann
+Faust
+Ein Trauerspiel in fünf Acten
+
+
+
+
+
+
+[Motto]
+
+
+
+
+
+»Kein Aberglaube hat herrschend und weit durch Zeiten und Völker verbreitet seyn können, ohne eine Grundlage in der menschlichen Natur zu haben: an diese wendet sich der Dichter, und ruft aus ihren verborgenen Tiefen hervor, was die Aufklärung gänzlich beseitigt zu haben meint, jenen Schauer vor dem Unbekannten, jene Ahnung einer nächtlichen Seite der Natur und Geisterwelt.«
+
+
+
+A. W. Schlegel.
+
+
+
+
+
+
+
+
+
+Vorerinnerung
+
+
+
+
+Vorerinnerung.
+So viel auch die alte Legende von Faust schon bearbeitet worden ist, so mangelt es doch der Bühne bis jetzt immer noch an einem ächt dramatischen Faust, und Lessing scheint den Ton angegeben zu haben, den Gegenstand überhaupt so sehr in das Gebiet der Philosophie hinüberzuspielen, daß die mystischen Beziehungen bei den spätern Bearbeitern sich bis zum Allegorischen aufgelös't haben, und das geheimnißvolle Grauen, das durch die alte Legende waltet, in den neueren Darstellungen gänzlich verschwunden ist. Die Herrlichkeiten des Götheschen Faust sind anerkannt, aber Göthe's Gedicht hat nur dramatische Momente und ist nie für die Bühne bestimmt worden. – Wenn ich deßhalb mich an eine neue Bearbeitung dieses Gegenstandes gewagt habe, so geschah es aus dem oben angeführten Grunde, und weil ich versuchen wollte, die alte Legende ächt dramatisch auszuführen und jenes Gothische, Geheimnißvolle und Schauerliche in meine Darstellung zu übertragen, das vor der Aufklärung anderer Dichter dieses Stoffes daraus entflohen ist.
+
+
+
+
+
+
+Personen
+
+
+
+
+
+Personen.
+
+Doctor Johann Faust.
+
+Käthe, sein Welb.
+
+Diether Faust, sein blinder Vater.
+
+Wagner, sein Famulus.
+
+Helene.
+
+Ein Fremder.
+
+Erster Student.
+
+Zweiter Student.
+
+Dritter Student.
+
+Erster Leichenträger.
+
+Zweiter Leichenträger.
+
+Erste Maske.
+
+Zweite Maske.
+
+Dritte Maske.
+
+Anführer der Gerichtsdiener.
+
+Ein Kellner. Leichenträger. Gerichtsdiener.
+
+Masken. Erscheinungen.
+
+
+
+
+
+
+
+
+
+1. Akt
+
+
+
+
+
+1. Scene
+
+
+
+
+Erste Scene.
+
+Diether Faust, der von Käthe geführt eingetreten ist.
+
+
+
+DIETHER.
+
+Es weht hier eine dumpfe Kellerluft,
+Und doppelt hallt der Fußtritt durchs Gewölbe!
+
+
+
+KÄTHE.
+
+Wohl ist's hier schauerlich und nicht geheuer,
+
+
+Denn Todtenbein steht ringsum an den Wänden,
+Und überall giebt's solche Gegenstände
+Vor deren Anblick man sich fürchten möchte!
+
+
+
+Die schaudernd ein Skelett betrachtet.
+
+
+
+Hu, welch ein widrig Konterfai der Mensch,
+Wenn seine Erdenschönheit Staub geworden,
+Und wie er grinsend in das Leben schaut!
+
+
+
+DIETHER.
+Was ist es, meine Tochter?
+
+
+KÄTHE.
+
+Ein Gerippe!
+Behüt uns Gott! – 'S ist doch so lieb das Leben,
+Und süß und freundlich, selbst wenn Sorgen drücken!
+Ich möcht' nicht gerne sterben, guter Vater;
+
+
+
+Schaudernd.
+
+
+
+Doch trägt schon jeder sein Gerippe in sich,
+Und seinen Todtenschädel, bis es Zeit wird!
+
+
+
+DIETHER.
+
+Die Stund' ist eilf! – Mach dir nicht schwarze Träume!
+Und führe mich zu Bette, Tochter Käthe;
+Denn Faust kehrt heute nun auch nicht zurück.
+
+
+
+KÄTHE.
+
+Wenn gleich! Verweilt nur noch ein weniges;
+
+
+Denn ist der Faust auch selber nicht daheim,
+So liegt doch hier so mancherlei Geräthschaft,
+Die sein gehört und die er oft berührte,
+Daß ich mich näher schon hier bei ihm wähne!
+
+
+
+DIETHER.
+Du treues Kind!
+
+
+KÄTHE.
+
+Ach könnt' ich's ihm nur sagen,
+Wie sehr ich ihn so tief im Herzen liebe;
+Doch liegt's zu tief und findet keine Worte,
+Und drum kann ich's dem Faust auch nicht erklären;
+Mit vieler Rede ist's mir nicht gegeben. –
+
+
+
+Legt die Hand auf Fausts Studirstuhl.
+
+
+
+Hier steht sein Stuhl, auf dem er einsam sitzend,
+Ernst nachsinnt über tief geheimen Dingen!
+
+
+
+DIETHER
+
+halb in sich hinein.
+
+Gott geb' auch über guten!
+
+
+KÄTHE.
+
+Ei, mein Vater,
+Die Kunst des Buchdrucks, die er ausgefunden,
+Ich denke – ist ein gutes Ding zu nennen!
+Denn, wie der Faust erzählt, wird nun in Zukunft
+Durch die Erfindung manches wackre Wort,
+
+
+Das vormals eingeschlossen und verborgen,
+Vervielfacht ausgehn in die weite Welt
+Und tausend Herzen trösten und erquicken!
+
+
+
+DIETHER
+
+wie vorher.
+
+Auch manches Wort des Fluches!
+
+
+KÄTHE
+
+schaudernd.
+
+
+Weh', mein Vater!
+Erschreck mich nicht! – Dein Faust ist brav und gut!
+
+
+
+DIETHER.
+
+Von Gott dem Herrn aus – ja! – Doch liegt in ihm
+Viel Stolz und Hochmuth und ein wilder Sinn; –
+Der zieht zum Bösen!
+
+
+
+Er schlägt ein Kreuz.
+
+
+Weiche von uns, Unhold!
+
+
+KÄTHE
+
+erschweckend.
+
+Herr Gott!
+
+
+DIETHER.
+Was giebt's?
+
+
+KÄTHE.
+
+Es war der Sturmwind draußen!
+Er fuhr hernieder an den Fensterscheiben,
+Sie klirrten! –
+
+
+
+Wieder auf den Tisch blickend.
+
+
+
+Drüben steht der Druckerkasten,
+
+
+Worin die neu erfundne Schrift! – O nein,
+Das kann ja nimmer Böses seyn, mein Vater,
+Ist's doch das heil'ge Bibelbuch, woran
+Der Faust zuerst die neue Kunst verherrlicht,
+Und das er jetzt gedruckt dem Kaiser vorlegt! –
+O ja, fürwahr, das wird uns Segen bringen,
+Und alle alte Sorgen schnell verscheuchen,
+Die hier in diesen finstern Mauern nisten!
+Faust selbst hat seine Hoffnung drauf gesetzt,
+Denn immer drückender wird das Bedürfniß,
+Und wie ich auch als treue Hausfrau walte,
+So will's doch nicht mehr langen, nicht mehr reichen!
+
+
+
+DIETHER
+
+unwillig.
+
+Das ist's! Ein Feind der Ordnung wohnt in ihm!
+
+
+KÄTHE.
+
+Klag' ihn nicht immer an! – Die Wissenschaft
+Hat viel hinweggenommen; – was noch übrig,
+Ward für die neu erfundne Kunst geopfert;
+Sie wird's belohnen, so vermeint der Faust!
+
+
+
+DIETHER
+
+finster.
+
+Wer weiß!
+
+
+KÄTHE
+
+hat das Feuergewehr ergriffen.
+
+Ein zweites Werk von seinem Scharfsina!
+
+
+
+DIETHER.
+Was ist's?
+
+
+KÄTHE.
+
+Das Feuerrohr für Berthold Schwarz!
+Faust hat es für sein Pulver ihm erfunden;
+Man kann damit aus weiter Ferne treffen.
+
+
+
+DIETHER.
+Ein Höllenwerk!
+
+
+Er hat es ihr genommen.
+
+
+
+Es brennt in meiner Hand!
+Hinweg damit – schwer ist's, wie Vatermord!
+
+
+
+Er wirft es auf den Boden.
+
+
+
+
+KÄTHE
+
+die es wieder an seinen Ort legt.
+
+
+O wehe, Vater! Wenn du es versehrt,
+Wird Faust der Neugier seines Weibes zürnen!
+
+
+
+DIETHER
+
+wild.
+
+
+Versehrt, zerstört, für jetzt und alle Zeiten,
+Die Welt, die Nachwelt würde mich noch segnen! –
+
+
+
+Ausbrechend.
+
+
+
+Nein, nein – das ist mir nimmer etwas Gutes!
+Du armes Weib – komm her an meine Brust.
+
+
+
+Er zieht sie zu sich.
+
+
+
+
+
+Dein Faust – das Wort erstirbt – doch meine
+Ahnung. –
+
+
+
+Heftig.
+
+
+O Herre Gott!
+
+
+KÄTHE
+
+zitternd.
+
+Du ängstest mich, mein Vater!
+
+
+DIETHER
+
+sehr bewegt.
+
+Mein frommes Käthchen – hast erst heut gebeichtet –!
+
+
+KÄTHE
+
+herzlich.
+
+Man fehlt ja stets! –
+
+
+DIETHER.
+
+Und Er?! – Du armes Weib! –
+O könnt' ich dich doch sehn! – – Nein blind ist besser!
+Ich müßte sonst ja auch auf seiner Stirne
+Den Unhold schauen – –
+
+
+
+KÄTHE
+
+dichter an ihm.
+
+Schütze mich, mein Vater!
+
+
+DIETHER
+
+steigend.
+
+Den Unhold –
+
+
+KÄTHE.
+
+Weh' der Sturm umtobt das Haus,
+
+
+Und heult und pfeift durchs dunkele Gewölbe;
+Mich schaudert's so mit dir allein!
+
+
+
+DIETHER
+
+der sich faßt.
+
+
+Du zitterst
+Wie eine Espe!
+
+
+
+KÄTHE.
+
+Deine Schreckensworte –
+Was willst du damit –
+
+
+
+DIETHER
+
+sie beruhigend.
+
+
+Nimm es nicht so schwer,
+Ich sprach in Vaterangst!
+
+
+
+Zum Himmel.
+
+
+
+Du dort bist mächtig,
+Und dir hab' ich ja stets ihn anvertraut!
+
+
+
+KÄTHE
+
+beklommen.
+
+
+Mir wird's so bang' in diesen dumpfen Mauern,
+Die Wände rücken eng auf mich zusammen,
+Die Schädel grinsen mir aus hohlen Augen,
+Und alles lebt und winkt und wird beweglich –!
+
+
+
+Zu Diether schaudernd.
+
+
+
+Und du bist blind, und siehst nicht, wie so heimlich
+Sich alles an mich wendet und mir zuspricht!
+
+
+
+Ihr Blick fällt auf eine kleine Phiole mit einer Signatur, die auf dem Tische steht.
+
+
+
+
+Sogar –
+
+
+Sie ergreift es.
+
+
+Gift! –
+
+
+Schaudernd.
+
+
+
+Gift ist dieses Fläschchens Aufschrift!
+
+
+DIETHER.
+Gift denn und Mord –! Es liegt gut bei einander!
+
+
+KÄTHE
+
+innerlich ergriffen.
+
+
+Herr Gott, wozu bedarf der Faust denn Gift?
+Das kann durch Unvorsicht viel Unheil stiften;
+Und wenn ich denke – –
+
+
+
+Sie setzt schaudernd das Fläschchen wieder hin.
+
+
+
+Fort aus meinen Händen!
+Man sagt der Tod durch Gift sei fürchterlich. –
+Ach hätten wir die Thür doch nicht geöffnet;
+Mir wird so ängstlich in dem düstern Zimmer!
+
+
+
+DIETHER.
+
+Ich warnte dich; der Faust zürnt so darüber,
+Wenn man in seine – schwarze Werkstatt tritt.
+
+
+
+KÄTHE.
+
+Das eben ist's; – ich sah den Schlüssel stecken,
+Den er sonst immer sorgsam bei sich führt.
+Da überlief mich's, wie im alten Mährchen
+
+
+Vom Ritter Blaubart, mit geheimer Neugier,
+Daß ich die schwere Thüre öffnen mußte! –
+Hast Recht, ich habe Sünde dran gethan,
+Weil Faust es ungern sieht! –
+
+
+
+DIETHER.
+
+So laß uns gehen!
+Ich aber will in's Nachtgebet ihn schließen.
+
+
+
+KÄTHE
+
+nimmt die Lampe.
+
+
+Schon recht! – Hu! wie beim matten Lampenscheine
+Sich's überall umher zu regen scheint!
+
+
+
+Nach dem linken Tische schauend.
+
+
+
+Hier linker Hand – da in der dunkeln Ecke,
+Schau doch – was flammt da auf?
+
+
+
+DIETHER
+
+sie erinnernd.
+
+Ich soll es schauen?
+
+
+KÄTHE.
+
+Ich dachte nicht an deine blinden Augen!
+Doch macht's mir Furcht, daß ich allein hier sehe.
+
+
+
+Sie betrachtet den globus coelestis.
+
+
+Welch wunderbare Kugel voller Kreise!
+
+
+DIETHER
+
+der ihn betastet.
+
+
+Das ist der Himmelsglobus, meine Tochter,
+Und in den Kreisen laufen die Planeten,
+
+
+Die auf die Complexion der Menschen wirken!
+Von früh her trieb der Faust Astrologie,
+Und schaute frech die Zukunft aus den Sternen!
+Ich hab' ihn oft verwarnt; denn solche Kunst
+Ist schon Geschwisterkind mit Teufelswerken. –
+Der Mensch soll knieen und die Augen schließen;
+Will er dem Herrgott in's Geheimniß schauen,
+So überspringt er toll die sichern Grenzen!
+
+
+
+KÄTHE
+
+beleuchtet das Buch.
+
+Welch schweres Buch, mit einer Kett' umwunden!
+
+
+DIETHER
+
+er faßt danach und zieht die Hand schnell zurück.
+
+Was sagst du, Käthe?
+
+
+KÄTHE
+
+hat die Kette berührt, die rasselnd auf den Boden fällt.
+
+Ha, das Schloß ist offen!
+
+
+DIETHER
+
+aufschreckend.
+
+Was rasselt da?
+
+
+KÄTHE.
+Die Kette fiel zu Boden!
+
+
+DIETHER.
+Die Kette?
+
+
+KÄTHE.
+Von dem Buche!
+
+
+
+DIETHER
+
+hastig.
+
+Oeffn'es nicht!
+
+
+KÄTHE
+
+schlägt das Buch auf.
+
+Ich kann's nicht lassen!
+
+
+DIETHER
+
+schaudernd.
+
+Hier ist's nicht geheuer!
+
+
+Er will sie fort ziehen.
+
+
+Du wirst versucht!
+
+
+KÄTHE
+
+in das Buch mit hastigen Blicken schauend.
+
+
+Ha, welche seltne Zeichen,
+In Roth und Schwarz – es blendet fast die Augen –
+Die Farben leben, brennen, glühen, flammen –
+Die Zeichen winken –
+
+
+
+Als Diether sie zurückziehen will.
+
+
+nicht doch! – Laß mich schauen!
+
+
+Sie blickt fortwährend in das Buch.
+
+
+
+
+DIETHER
+
+stark, indem er ein Kreuz schlägt.
+
+Im Namen Gottes!!
+
+
+KÄTHE
+
+taumelt ermattet zurück.
+
+Welcher Todesschwindel!
+
+
+DIETHER
+
+heftig.
+
+Das ist –
+
+
+
+
+
+
+
+
+
+2. Scene
+
+
+
+
+Zweite Scene.
+
+Wagner mit einer Lampe. Die Vorigen.
+
+
+
+WAGNER
+
+hereintretend.
+
+Nehmt mich in Schutz, ihr guten Geister!
+
+
+DIETHER.
+Wer redet da?
+
+
+WAGNER
+
+um sich blickend.
+
+
+Gottlob, ihr seid's, Herr Diether!
+Ich schaute Licht hier durch das Bogenfenster,
+Drob furcht' ich mich in meiner Kammer drüben,
+Dieweil's fast Mitternacht, und mir's bewußt war,
+Daß Würden, unser Doctor, nicht daheim!
+Doch da ich öfter schon zur selben Stunde
+Hier Lichtschein in dem Zimmer wahrgenommen,
+So faßt' ich mir ein Herz, schlug guten Muthes
+Mein Kreuzlein vor der Thür, mich benedeiend,
+Und schritt so, wohl gerüstet, kühn herein,
+Nach Licht und Feuer sorgsam umzuschauen!
+
+
+
+KÄTHE
+
+die sich allmählig erholt hat.
+
+Jetzt wird die enge Brust mir wieder frei!
+
+
+Zurückfahrend, als sie das noch offene Buch erblickt.
+
+
+Was hab' ich angeschaut!
+
+
+
+WAGNER
+
+schlägt es heftig zu.
+
+
+Ihr guten Geister! –
+Kehrt euren Blick hinweg von diesen Zeichen;
+Das ist – auch mich trieb neulich solcher Vorwitz! –
+O schlingt die Kette wieder fest darum –
+Gebt her –
+
+
+
+Er windet die Kette wieder um das Buch.
+
+
+Das muß in starken Fesseln liegen!
+
+
+DIETHER.
+Ich ahnte es! –
+
+
+KÄTHE
+
+ängstlich.
+
+Erklärt euch deutlicher!
+
+
+WAGNER.
+
+Nur was mir wiederfuhr, kann ich berichten!
+Sonst pflegte Würden, unser Doctor, immer
+Dies Schreckensbuch in sicherm Schloß zu halten,
+Und wenn ich oft ihn um den Inhalt fragte,
+So gab er dies und jenes mir zur Antwort,
+Das nimmer auf den Grund der Sache führte.
+Drob brannte mich die Neugier immer mehr –
+Man ist ein Menschenkind – und als ich neulich
+Die Kette offen fand und unverschlossen,
+So wollt' ich rasch mich an den Inhalt machen;
+
+
+Doch ob ich gleich in Sprachen wohl bewandert,
+So war hier meine Wissenschaft am Ende,
+Denn nie sah ich vorher dergleichen Zeichen.
+Indeß verspürt' ich heimliches Gelüsten,
+Und mußte wider Willen weiter blättern,
+Und immer krauser wurden die Figuren,
+Und wie ein Rausch stieg mir's empor zum Haupte,
+Daß ich fürwahr von Wildheit fast ergriffen;
+Bis mir, gleichsam ein Schreckniß vor mir selber,
+Der Name Gottes von den Lippen fuhr;
+Da knistert' es wie Flammen aus dem Buche,
+Und mich ergriff ein fürchterliches Grauen,
+Daß sich die Haare auf dem Schädel sträubten,
+Und ich hinweg floh, wie verfolgt vom Bösen!
+
+
+
+DIETHER
+
+tief erschüttert.
+
+Der war's fürwahr!
+
+
+KÄTHE.
+O redet nicht so schrecklich!
+
+
+DIETHER.
+
+Was ich mit bangem Schauder oft geahnt,
+Es ist gewiß – der Faust treibt schwarze Kunst!
+
+
+
+KÄTHE
+
+bebend.
+
+Welch finstrer Name!
+
+
+
+DIETHER.
+
+Das sind ihre Zeichen!
+Die locken ihn, die garnen ihn hinein,
+Bis endlich er, vom Argen überlistet,
+Hinunterstürzt in Hölle und Verdammniß!
+
+
+
+WAGNER
+
+ängstlich.
+
+Behüt' uns Gott!
+
+
+KÄTHE
+
+außer sich.
+
+
+Du tödtest mich, mein Vater!
+O laß uns fort von diesem Schreckensorte!
+
+
+
+DIETHER
+
+zu Wagner.
+
+Ihr seid sein Schüler – ihr müßt darum wissen!
+
+
+WAGNER.
+
+Behüte! – Ich bin frommer Leute Kind,
+In Armuth und in Gottesfurcht erzogen;
+Und weil ich Würden, unserm Doctor, diene
+Als Famulus in den Collegiis,
+So räumt er mir mein Plätzchen gratis ein,
+Daß ich umsonst bei ihm mich klug studire!
+Der Herr hat einen grundgelehrten Geist,
+Und ist in Metaphysicis bewandert,
+Wie weiland Plato selbst es nicht gewesen!
+Doch geht mit Gott dem Herrn das Ganze zu!
+
+
+
+
+DIETHER.
+So habt ihr nimmer mehr etwas bemerkt?
+
+
+WAGNER.
+
+Bis auf das Schreckensbuch und meinen Schwindel,
+Auch oftermal'gen Lichtglanz hier zur Nachtzeit,
+Den ich auf Electricität geschoben,
+Nicht das Geringste weiter, Ehrenfester!
+Obgleich ich auch bescheidentlich bekenne,
+Daß mancher Satz in Metaphysicis,
+Den ich vernahm, noch nicht von mir ergründet.
+So grübelt' ich noch jetzo ob dergleichen,
+Als ich das Licht durchs Fenster hier erblickte.
+
+
+
+KÄTHE.
+
+Umsonst hast du mir Furcht gemacht, mein Vater!
+Wie kannst vom Faust so Schreckliches besorgen?
+
+
+
+DIETHER.
+
+Gott gebe, daß die inn're Stimme log;
+Allein sein wilder Sinn, der zu den Sternen
+Und zu dem Himmel kühn empor ihn stürmt,
+Kann ihn zur Hölle auch hinunterstürzen!
+
+
+
+WAGNER
+
+erschreckend.
+
+Wer nahet da so spät zur Mitternacht?
+
+
+
+KÄTHE
+
+freudig auffahrend.
+
+Das ist der Gang des Faust! – Er ist's! Er ist's!
+
+
+
+
+
+
+
+
+3. Scene
+
+
+
+
+Dritte Scene.
+
+
+Faust in einem bis auf die Knie hinabreichenden weiten schwarzen Ueberkleide und mit einem viereckten schwarzen Barette auf dem Haupte.
+
+
+Die Vorigen.
+
+
+
+FAUST
+
+tritt, die Bibel in der Hand, finster und wild in sich grollend, ein.
+
+Da bin ich wieder! Jetzo nimm mich hin!
+
+
+KÄTHE
+
+die auf ihn zueilt.
+
+Mein Faust! Mein lieber Faust!
+
+
+FAUST
+
+blickt erst jetzt düster auf.
+
+
+Ihr seid noch wach –
+Und hier an diesem Ort –?
+
+
+
+KÄTHE.
+
+Wir harrten dein
+Bis in die Nacht!
+
+
+
+FAUST.
+Wozu?
+
+
+KÄTHE.
+
+Selbst Vater Diether
+Entsagte deinetwegen seiner Ruhe!
+
+
+
+
+DIETHER
+
+murrend.
+
+Er grüßt den Vater nicht!
+
+
+FAUST
+
+kurz.
+
+Ich grüße euch!
+
+
+DIETHER.
+
+Gott grüße euch! So heißt der rechte Spruch!
+
+
+FAUST
+
+wie vorher.
+
+Mein'twegen!
+
+
+DIETHER.
+Hörst du, Käthe?
+
+
+KÄTHE
+
+Faust liebkosend.
+
+
+Lieber Faust! –
+Du bliebst so lange fort!
+
+
+
+FAUST.
+Inspruck ist weit!
+
+
+KÄTHE.
+Hast du denn keinen Blick für deine Käthe?
+
+
+FAUST.
+Verlaß mich, ich will schlafen!
+
+
+KÄTHE.
+Gott, wie wild! –
+
+
+Sehr erschüttert.
+
+
+So träumt' ich mir das Wiedersehen nicht.
+
+
+
+FAUST.
+
+Ich auch nicht! – Hörst du meine Rosse schnauben,
+Womit ich heimzukehren dir versprach?
+
+
+
+WAGNER.
+Der Sturm saus't draußen, Rosse scheinen's nicht.
+
+
+FAUST
+
+wild lachend.
+
+
+Der Sturm? Haha! – Du witterst die Naturen,
+Mein Freund! – Der Sturm, ganz recht, hat mich zerpeitscht;
+Die Rosse aber sind noch weit dahinten,
+Und ich bin ihnen immer vorgelaufen,
+Mit meiner Bibel unterm Arm, von Inspruck!
+
+
+
+DIETHER
+
+schaudernd.
+
+Wie ist sein Ton verändert!
+
+
+FAUST.
+
+Auch das Kettchen,
+Das ich zum Sonntagsschmucke dir gelobte;
+Ich hatt' es wohl mir um sein Wort verdient,
+Daß in der Kirche dich das Kettchen zierte –
+
+
+
+Er wirft grollend einiges Geld auf den Boden.
+
+
+
+Hier hast du meine letzten Kupferdreier,
+Die laß dir sein auf einen Faden reihen,
+
+
+Und häng sie um den Hals; – ein theurer Schmuck!
+Ist's doch fürwahr des Faustes ganze Habe!
+
+
+
+KÄTHE.
+So ist dir deine Hoffnung fehl geschlagen?
+
+
+FAUST.
+
+Ja fehl und dreimal fehl! – der Kaiser Mar
+Braucht Geld zum Türkenzuge! – Kunst und Wissen,
+Die wirft man zu den Bettlern aus der Thüre!
+Und mich nun gar, mit meiner Druck-Erfindung,
+Mich zählt man zu den Ketzern, und die Mönche,
+Sie schreien laut aus ihren Klosterlöchern,
+Daß ich dadurch sie um den Wein bestehle
+Für ihren Schreiberlohn; – und noch um mehr,
+Sobald die Menschen wirklich lesen lernen.
+
+
+
+KÄTHE
+
+schmiegt sich an ihn.
+
+O rolle nicht so wild die dunkeln Augen!
+
+
+FAUST
+
+etwas vortretend.
+
+
+So hab' ich denn mein Hirn und meine Habe
+Umsonst vergeudet – ja für Haß und Undank!
+Die Wissenschaft betrog mich um den Preis,
+Und gab statt Wahrheit mir den ew'gen Zweifel! –
+
+
+Die Kunst – verdammt! Die Kunst macht mich zum Bettler,
+Und was ich für die Nachwelt kühn errungen,
+Zahlt mir den Lohn voraus im Hungertode!
+Noch mehr der Himmel selbst – –
+
+
+
+Er schleudert wild die Bibel auf den Boden.
+
+
+Ha Trotz geboten!
+
+
+Ein donnerähnlicher Sturm fährt durch das Zimmer.
+
+
+
+
+KÄTHE
+
+aufschreiend.
+
+Was thust du, Faust!
+
+
+FAUST
+
+wild und heftig.
+
+Es gibt noch andre Mächte!
+
+
+DIETHER
+
+haftig.
+
+Was ist geschehn?
+
+
+WAGNER.
+
+Ein Donnersturm erschüttert
+Den Grund des Hauses!
+
+
+
+KÄTHE
+
+behend.
+
+
+Weh', es ist die Bibel,
+Die du zu Boden warfst! – Das bringt dir Unglück!
+
+
+
+DIETHER
+
+will auf ihn zu.
+
+Die Bibel – Bube!
+
+
+
+KÄTHE
+
+drängt sich ihm entgegen.
+
+Er that's ohne Wissen!
+
+
+WAGNER
+
+schaudernd.
+
+Das ist entsetzlich!
+
+
+KÄTHE
+
+die Fausts Hand ergriffen.
+
+
+Ich will für dich beten,
+Ob dieser Sünde!
+
+
+
+FAUST
+
+grimmig.
+
+
+Beten? Weiber beten!
+Ein Mann kann trotzen, drohen!
+
+
+
+KÄTHE
+
+angstvoller in ihn dringend.
+
+Weh! Nicht lästern!
+
+
+FAUST
+
+wild fortfahrend.
+
+Kann zürnen, donnern –
+
+
+KÄTHE
+
+wie vorher.
+
+Faust!
+
+
+FAUST
+
+stößt sie heftig von sich.
+
+Zurück von mir!
+
+
+DIETHER.
+Ha, laßt mich zu ihm!
+
+
+KÄTHE
+
+außer sich.
+
+Welcher Augenblick!
+
+
+
+WAGNER.
+Hört ihr den Sturm –
+
+
+DIETHER.
+Wie Weltenuntergang!
+
+
+FAUST.
+
+Und wenn ihm Erd' und Himmel treulos werden,
+So wagt er's mit der Hölle gegen beide!
+
+
+
+Er stürzt ab.
+
+
+
+
+DIETHER.
+O wehe!
+
+
+KÄTHE.
+Faust!
+
+
+WAGNER.
+Welch fürchterliche Stunde!
+
+
+Alle ihm nach.
+
+
+
+
+
+
+
+
+
+4. Scene
+
+
+
+
+Vierte Scene.
+
+Finstere Gegend; im Hintergrunde zur rechten Seite ein Kirchhof mit einer Kapelle, deren altgothische Fenster erleuchtet sind.
+
+
+
+CHORALARTIGER GESANG
+
+in der Kapelle.
+
+
+
+Tuba mirum spargens sonum
+
+
+Per sepulchra regionum
+
+
+Coget omnes ante thronum!
+
+
+
+
+FAUST
+
+tritt auf.
+
+Was will der finstre Sang um Mitternacht?
+
+
+Erblickt die Kapelle.
+
+
+
+Ja so – es ist St. Clarens Todtenacker! –
+Warum mußt' ich die Kirche nicht vermeiden?
+Gab's doch der Wege mehr zum Spessar Walde!
+
+
+
+GESANG
+
+wie vorher.
+
+
+
+Mors stupebit et natura,
+
+
+Cum resurget creatura
+
+
+Judicanti responsura!
+
+
+
+FAUST.
+
+Man singt das Requiem für einen Todten!
+Ein mitternächtlich grauses Werk – wie meins!
+
+
+
+Zusammenschaudernd.
+
+
+
+Was flüstert um mich her? – Nicht doch, es war
+Der Wiederhall von meiner eignen Stimme,
+Der leise rückruft aus den Grabgewölben! –
+Ha, todt ist todt! – Was wollen denn die Todten,
+Daß sie mich hier an ihre Schwelle bannen?
+Noch ist die Brüderschaft zu früh, ihr Herren
+Mit euern nackten Glatzen; Faust verhungert
+Der Welt und euch fürwahr nicht zu Gefallen!
+Zu kühn hab' ich gestrebt, zu hoch gewaltet,
+
+
+Um drunten schon den Tanz mit euch zu klappern!
+Vollkräftig steh' ich da, und zwingen will ich
+Das Leben, mir zu dienen, wenn sich's weigert!
+
+
+
+Heftiger.
+
+
+
+Ja zwingen, zwingen – denn die Macht ist mein!
+Und frei ist auch hier in der Brust der Wille!
+
+
+
+Er will fortschreiten, hält aber plötzlich wieder inne.
+
+
+
+Doch künftig? – Wenn ich künftig zu cuch komme?
+Was grinset ihr mir euer künftig zu?
+Giebt's dann ein künftig jenseit eurer Schwelle?
+Ich habe darum Höhere befragt,
+Als euch Geschorne in den Zellen drunten;
+Das ganze Wissen hab' ich durchgestürmt –
+Doch Nichts! ist mir zur todten Antwort worden!
+
+
+
+Mit größerer Heftigkeit.
+
+
+
+So soll denn eine andre Pforte springen,
+Wozu ich mir den Schlüssel kühn erobert,
+Und wollte man mich droben nicht erhören,
+Ha denn – so soll man unten mir gehorchen!
+
+
+
+Er will abgehen.
+
+
+
+
+GESANG
+
+wie vorher.
+
+
+
+Quid sum miser tunc dicturus,
+
+
+
+
+Quem patronum rogaturus,
+
+
+Cum vix justus sit securus!
+
+
+
+FAUST
+
+zurücktaumelnd.
+
+
+Was soll der Zuruf? – Warum grade jetzo?
+Könnt ihr nicht eure Todten still begraben,
+Statt uns so fürchterlich dabei zu mahnen? –
+
+
+
+Er versinkt in Nachdenken.
+
+
+
+Wohl gab es eine Zeit – ich denke ihrer –
+Wo jene Töne mir zum Herzen sprachen! –
+Du schönes Traumbild meiner Jugendjahre,
+Der süßen Unschuld frommer Kinderglaube,
+Du bist dahin, und kehrst mir nimmer wieder!
+Hier war mein Spielplatz, am St. Claren Kirchhof,
+Der Mutter Grab schuf ich zum Blumengarten,
+Und als ihm eine Lille entsprossen,
+Erschien sie mir der Lichtglanz ihrer Seele! –
+
+
+
+Ergriffen.
+
+
+Die Mutter ruht dort auch!
+
+
+
+
+
+
+
+
+5. Scene
+
+
+
+
+Fünfte Scene.
+
+Ein Fremder, ganz in einen dunkeln Mantel verhüllt. Faust.
+
+
+
+FAUST
+
+aufschreckend.
+
+Wer nahet drüben!
+
+
+
+
+Das Licht erlischt in der Kapelle, und es wird ganz finster.
+
+
+
+
+DER FREMDE
+
+der in der Nacht wie ein ungewisser Schatten erscheint, tritt etwas näher.
+
+
+
+FAUST
+
+unwillkührlich grausend.
+
+Ein Nächtlicher vom schwarzen Grabgefolge!
+
+
+Es donnert dumpf.
+
+
+
+Nicht also! – Ha, was spricht mit solcher Wildheit
+Zu meinem Geiste? Worte hör' ich nicht,
+Doch sind's Gedanken, glühend, wie die Rache,
+Die innerlich den meinigen begegnen! –
+
+
+
+Zurückbebend.
+
+
+Hier ist was Schreckliches in meiner Nähe!
+
+
+DER FREMDE
+
+deutet zur linken Hand hinaus.
+
+
+
+FAUST.
+Dort liegt der Spessar! –
+
+
+Er fährt sich über die Stirn.
+
+
+
+Ha, was ist es denn,
+Das mir die Haare grausend aufwärts sträubt,
+Und kalten Schweiß aus meinen Poren preßt! –
+Wer bist du – rede!
+
+
+
+Es donnert stärker.
+
+
+
+Ha, im Innern wieder!
+
+
+Und immer wilder! – Donnert nicht der Zorn
+Schon laut in mir?
+
+
+
+Mit steigender Leidenschaft.
+
+
+
+Ja, rächen möcht' ich mich!
+Nach Rache brennt's, wie Feuer in dem Busen! –
+Betrogen von dem Himmel und der Erde,
+Möcht' ich verderbend durch das Leben stürmen,
+Und allen Haß in meiner Brust erschöpfen,
+Und wenn ich meiner Wuth genug gethan,
+Dann hoch und königlich darüber herrschen,
+Und seinen vollen Freudenbecher schwingen!
+Ha, nieder denn mit diesen engen Schranken,
+Ich fühl' mich im Bewußtseyn meiner Macht,
+Und wenn ich's will, so kann ich's auch vollbringen!
+
+
+
+DER FREMDE
+
+lacht halblaut und höhnisch.
+
+
+
+FAUST
+
+heftiger.
+
+
+Was soll das Gaukelspiel – weg die Vermummung!
+Zeig dich mir selbst – so schrecklich wie du bist;
+Ich bin der Faust – dein Herrscher und Gebieter!
+
+
+
+Es wetterleuchtet.
+
+
+
+
+DER FREMDE
+
+deutet nach der linken Seite.
+
+
+
+FAUST.
+
+
+Zu früh! Rufst du in mir? – Ha, Schattenbildung,
+
+
+Du zitterst nicht vor meiner Uebermacht?
+Das Wort ist mein, und hab' ich's ausgesprochen,
+So liegst du wie ein Sklav zu meinen Füßen,
+Mein Wink stürmt dich von einem Pol zum andern,
+Und fröhnen mußt du meinem Herrscherwillen! –
+Heraus denn aus den Nebeln, die dich bergen,
+Ich bin ein Mann für dein Entsetzlichstes,
+Und will dich schauen!
+
+
+
+Indem er auf ihn zustürzt.
+
+
+Ha, gehorche mir!
+
+
+Ein Donnerschlag.
+
+
+
+
+DER FREMDE
+
+streckt den Arm aus.
+
+
+
+FAUST
+
+taumelt zu Boden.
+
+
+
+Der Donner verhallt langsam.
+
+
+
+
+FAUST
+
+rafft sich wüthend empor.
+
+
+
+DER FREMDE
+
+deutet wieder nach der linken Hand.
+
+
+
+FAUST.
+
+Zu viel! Ha, Lügenbildung – Trotz sei dir!
+Hinaus zum Spessar! – Eh der Tag beginnt,
+Sollst du, ein Sklav, zu meinen Füßen zittern!
+
+
+
+Der Fremde schreitet voran. Faust folgt verwegen.
+
+
+
+
+
+
+
+
+
+
+
+6. Scene
+
+
+
+
+Sechste Scene.
+
+Nach einer kurzen Pause treten Diether, Käthe und Wagner von der Seite der Kirche auf.
+
+
+
+KÄTHE.
+Hier ging sein Weg hinaus!
+
+
+Es donnert fort.
+
+
+
+
+DIETHER.
+Gott sei ihm gnädig!
+
+
+Er tappt um sich.
+
+
+
+Das wilde Wetter wüthet über uns;
+Die Nacht gehört dem Bösen!
+
+
+
+KÄTHE.
+
+In Verzweiflung
+Floh er von hinnen! – Weh, wo find' ich ihn?
+Ich ahne Schreckliches!
+
+
+
+Es blitzt stark.
+
+
+
+
+WAGNER.
+
+Dort gehen zwei –
+Seht nur – am Spessar! –' Sist schon wieder Nacht!
+
+
+
+KÄTHE.
+Er war es selbst! – Hinaus, laßt uns ihm folgen!
+
+
+DIETHER.
+
+Ich kann nicht weiter! Meine Kniec brechen!
+Willst du mich in das Ungewitter stoßen!
+
+
+
+
+KÄTHE.
+Doch Faust – o Gott, dein Sohn!
+
+
+DIETHER.
+Er ist verloren!
+
+
+Erhebt den Stab.
+
+
+Ich fluche ihm!
+
+
+KÄTHE
+
+außer sich.
+
+O halte ein, mein Vater!
+
+
+DIETHER.
+Es ist zu spät! – Sein Wort trat er mit Füßen!
+
+
+Schwach.
+
+
+
+Mein graues Haupt! – Will mich denn niemand stützen?
+Verläßt mich Käthe, ob des Buben?
+
+
+
+KÄTHE
+
+ringt die Hände.
+
+Gott!
+
+
+WAGNER.
+
+Ich will ihm nach! – Auf meinem Herzen trag' ich
+Ein Sprüchlein, noch ererbt vom Urgroßvater,
+Das mich vor allem bösen Wesen schützt! –
+Bleibt bei dem Vater, Frau!
+
+
+
+Er geht links ab.
+
+
+
+
+
+
+
+
+
+
+
+7. Scene
+
+
+
+
+Siebente Scene.
+
+Die Vorigen ohne Wagner.
+
+
+
+DIETHER
+
+den Käthe auf einen Rasensitz geleitet hat.
+
+Wo sind wir hier?
+
+
+KÄTHE.
+Am Clarenkirchhof!
+
+
+DIETHER
+
+ergriffen.
+
+
+Wo mein Weib begraben!
+Das ihn gebar! –
+
+
+
+Zu dem Kirchhofe hinüber rufend.
+
+
+Hörst du mich, Margarethe?
+
+
+KÄTHE
+
+schaudernd.
+
+O Gott – wie fürchterlich!
+
+
+DIETHER
+
+wie vorher.
+
+
+Hörst du, der Hans –
+Er ist verloren! Ich bring' ihn nicht mit!
+Bald komm' ich zu dir! Gretchen, ruhst wohl süß?
+Ich läge gern da bei dir in dem Kühlen,
+Könnt' ich den Jungen auch nur zu dir bringen!
+
+
+
+Tief.
+
+
+Den hat der Schwarze!
+
+
+Es donnert stark.
+
+
+Gott sei uns genädig!
+
+
+
+KÄTHE
+
+die neben ihm betend auf die Knie gesunken ist.
+
+O höre mich in meiner tiefen Angst!
+
+
+DIETHER
+
+legt die Hand auf ihr Haupt.
+
+Du betest, Kind! – Recht so!
+
+
+Wieder nach dem Kirchhofe zu redend.
+
+
+
+Sein Weib ist gut;
+Die bringe ich einst mit mir, Margarethe!
+Der Junge freilich lag dir unterm Herzen. –
+
+
+
+Als es sehr heftig blitzt.
+
+
+Ist das dein Geist – es strahlt in meine Nacht!
+
+
+Das Gewitter wird heftiger.
+
+
+
+
+
+
+
+
+
+8. Scene
+
+
+
+
+Achte Scene.
+
+Wagner. Die Vorigen.
+
+
+
+WAGNER
+
+athemlos auf die Bühne stürzend.
+
+
+Gott schütze uns! Die Höll' ist losgegeben!
+Im Spessar-Wald – ha nimmer wieder Vorwitz!
+Ein Donnersturm saus't durch die alten Eichen,
+Der Boden zittert – Feuer –
+
+
+
+KÄTHE
+
+heftig.
+
+Wo ist Faust?
+
+
+WAGNER.
+Ach fragt mich nicht – laßt uns von hinnen fliehen!
+
+
+
+KÄTHE.
+Wo ist der Faust?
+
+
+WAGNER.
+
+Ich hab' ihn nicht gesehen!
+Die Welt geht hinter mir in Flammen auf
+Entsetzlich – fürchterlich –
+
+
+
+Der Blitz schlägt in die Kirche.
+
+
+
+
+WAGNER
+
+schreiend.
+
+Gott sei uns gnädig!
+
+
+DIETHER
+
+aufrufend.
+
+Ich sehe!
+
+
+KÄTHE
+
+taumelt zurück.
+
+Hülfe!
+
+
+WAGNER.
+Weh! das hat gezündet!
+
+
+FAUSTS STIMME
+
+aus der Ferne.
+
+Weh! Wehe!
+
+
+KÄTHE
+
+strengt die höchste Gewalt an, sich fort zu reißen.
+
+Das ist Faust!
+
+
+WAGNER.
+Die Kirche brennt!
+
+
+KÄTHE
+
+streckt die Arme nach der Ferne hin.
+
+Zu Hülfe!
+
+
+Sie sinkt in Ohnmacht.
+
+
+
+
+
+DIETHER
+
+um sich her tappend.
+
+Faust!
+
+
+WAGNER
+
+außer sich.
+
+Entsetzlich!
+
+
+FAUSTS STIMME
+
+wie vorher, sehr laut.
+
+Wehe! Wehe!
+
+
+Der Vorhang fällt.
+
+
+
+
+
+
+
+
+
+
+
+2. Akt
+
+
+
+
+
+1. Scene
+
+
+
+
+Erste Scene.
+
+Faust allein in einer anderen und stattlichen Kleidung.
+
+
+
+FAUST
+
+wild auftretend.
+
+
+Nehmt ihr mich auf, ihr wilden Felsgeklüfte,
+Mit meinem Unmuth – ha! mit meinem Groll!
+Hier unterm Himmel in dem Sturm der Lüfte,
+Hoch ob den Menschen, wird mir wieder wohl,
+Hier hör' ich Töne, die mir wiederklingen,
+Und zürnend in das innre Zürnen dringen! –
+Wer bin ich jetzt – ha! stehe ich am Ziele,
+Mit diesem Grimm, den ich im Busen fühle?
+Als mir die Freiheit, als mir die Macht gegeben,
+
+
+Da stürzt' ich hinaus in das Leben,
+Wollte zürnen, wollte mich rächen,
+Unter meinem Fußtritt die Welt zerbrechen;
+Doch als ich den Donner in Händen schwang,
+Da schien mir der Mensch zu klein
+Für meinen Zorn zu seyn,
+Und die erhobene Rechte sank! –
+Und von neuem stürmt' ich ins Leben,
+Seinem Hochgenusse mich hinzugeben,
+Schlürfte der Traube Feuergluth,
+Bis der Becher überschäumte,
+Ich mich zum König, zum Gotte träumte
+In meinem kühnen verwegenen Muth!
+Doch als der wilde Rausch verflogen,
+Fand ich mich wieder, wie ich war;
+Um alle die goldenen Preise betrogen,
+Blieb ich der alte immerdar! –
+Ha, mußt' ich darum mein höheres Leben,
+Darum mein Heil und die Seele vergeben?
+
+
+
+Er betrachtet tiefsinnig seine linke Hand.
+
+
+
+Hier ist noch die Wunde verblieben;
+Nimmer heilt sie an dieser Hand,
+Woraus ich mein Herzblut ihm unterschrieben,
+
+
+Der Hölle zum sichern Unterpfand! –
+Zwar kann ich getrost seyn, kann seiner lachen!
+»Vier Todessünden – so lautet der Pact –
+
+Sollen mich erst zum Leibeignen 
+ihm machen!«
+Da trotz' ich auf meinen geschloss'nen Contract!
+Doch wurmt mich's, für so ein alltägliches Leben
+Ihm auch nur die Hoffnung des Preises zu geben!
+
+
+
+Wilder.
+
+
+
+Genießen will ich, glühend heiß genießen,
+Und nimmer welken soll mir der Genuß;
+In's Herz des Lebens will ich überfließen,
+Berauschen mich an seinem schönsten Kuß;
+Doch Dauer sei dem Augenblick gegeben,
+Rauscht er hinweg, mag ich ihn nicht durchleben!
+
+
+
+Der Kuhreigen erschallt sanft aus der Ferne.
+
+
+
+Der Sturm verstummt, die goldnen Töne klingen,
+Der Hirte bläs't sein heimisch Abendlied! –
+Ha, wie sie freundlich zu dem Herzen dringen,
+Aus dem der düstre Groll von hinnen flieht;
+Mit ihnen möchte sich die Seele schwingen
+Zur Ferne, wo die Sonne unterglüht,
+Mit jenen Feuerwogen sich vereinen,
+
+
+Die purpurn an dem Himmel wiederscheinen!
+Sie tönen fort – ha wie auf leichten Flügeln
+Die Nachtigall zu ihren Lieben eilt,
+Sie hold begrüßend auf den fernen Hügeln! –
+Nur wo das Herz sich mit dem Herzen theilt,
+Kann in der Freude sich die Freude spiegeln!
+Des Lebens Hochgenuß – ha, er verweilt,
+Wenn sich zwei Geister liebend eng verbinden,
+Aus Seele ihn in Seele zu empfinden!
+
+
+
+Der Kuhreigen hat aufgehört. Faust schaudert 
+
+
+zusammen.
+
+
+
+Dahin!! – – Wo ist denn meine Seele,
+Mit der ich mich vermähle?
+Wer ist mein Freund –
+Der Finstere, der Feind? –
+Mit ihm bin ich verwandt,
+An ihn gebannt,
+Und will der Geist zum Himmel sich beflügeln,
+Muß er in Hölle sich und Abgrund spiegeln!
+
+
+
+Der Kuhreigen beginnt wieder, und Faust fährt nach einer Pause mit Innigkeit fort.
+
+
+
+O holder Traum, als du mir einst erschienen,
+Mein treues Weib – – die Töne denken dein!
+Der Andacht Ernst in deinen frommen Mienen,
+Verklären sie zu einem Heil'genschein;
+
+
+Du könntest mit mir selber mich versühnen,
+Im engen Hause möcht' ich bei dir seyn,
+Einfältig treu in deiner Nähe weilen,
+Und fromm mit dir die fromme Seele theilen!
+
+
+
+Heftig auffahrend.
+
+
+
+Ha Hölle, sende meinem Herrscherwillen
+Zum Dienste denn die dunkle Macht empor,
+Die Heimath tönt – ich muß die Sehnsucht stillen!
+
+
+
+Indem er wild auf den Boden stampft.
+
+
+
+Die Kraft des Faust schlägt an dein ehrnes Thor!
+Gedankenschnell mein Wollen zu erfüllen
+Ist dein Gesetz! – Schwing dich im Sturm hervor:
+Denn immer wilder glühen diese Schmerzen,
+Es brennt mein Herz nach einem zweiten Herzen!
+
+
+
+DUMPFE STIMME
+
+
+
+
+1
+
+aus der Höhle.
+
+
+Fluch und Verderben! Wer stürmet hernieder!
+Ungestümer, was willst du schon wieder?
+
+
+
+FAUST.
+
+Boten der Liebe sollst du mir senden,
+Schnell wie der Lichtstrahl eile ihr Lauf!
+
+
+
+
+STIMME
+
+wie vorher.
+
+
+Heische zerstörend das Gute zu enden,
+Ruf zum Vernichten mich lieber herauf!
+
+
+
+FAUST.
+
+Finsterer Unhold, der Tugend zu fröhnen,
+Werde zur Qual dir – so will ich dich höhnen!
+
+
+
+Es donnert wild in der Höhle.
+
+
+Tobe und stürme – du mußt es vollbringen!
+
+
+Heftiger, als es noch fortdonnert.
+
+
+Mangelt der Bann noch –? Ha soll ich dich zwingen?
+
+
+
+STIMME
+
+mit tiefem Grimme.
+
+
+Teufel der Teufel! – Vollende das Wort!
+Glühend vergelte den Trotz ich dir dort!
+
+
+
+FAUST.
+
+Juble zu früh nicht! du kennst den Contract,
+Unerschüttert besteht unser Pact,
+Bis ich vier Todessünden vollbracht;
+Dann erst erzittr' ich der höllischen Macht!
+
+
+
+Es rollt dumpf durch die Höhle.
+
+
+
+Winde dich murrend – dein Donner verhallt;
+Mein ist der Wille und mein die Gewalt!
+
+
+Auf zeige mir im lichten Aetherspiegel
+Mein frommes Weib, das in der Heimath weilt;
+Gib ihren Tönen, ihren Worten Flügel,
+Vereine, was durch weiten Raum getheilt,
+Daß ihr Gedanke über Berg' und Hügel
+In treuer Liebe zu dem meinen eilt,
+Die Fernen zwischen uns in Nichts zerrinnen,
+Und fromm ich schaue in ihr still Beginnen!
+
+
+
+Ein aufzürnender Donnerschlag; dann erschallt aus der Ferne eine sanfte kirchliche Musik, und in dem Grunde der Höhle zeigt sich hinter einem durchsichtigen Schleier Käthens knieende Gestalt in einer milden Beleuchtung.
+
+
+Indem er auf die Knie sinkt.
+
+
+
+Für mich! Für mich! Ha töne zu den Höhen
+Vereint mit ihr du mein Gebet empor!
+Dort wo des Abends Purpurflammen wehen,
+Da ist –
+
+
+
+Indem sich seine Worte wild verwirren.
+
+
+
+Ha Fluch – der Hölle Feuerthor!
+Erhöre – nimmer! – Dorthin muß ich gehen! –
+
+Ave – Verderben schallt der Jubelchor –
+Dort wo die Felsen himmelan sich thürmen,
+Will ich hinauf – – hinunter will ich stürmen!
+
+
+
+Er reißt sich wild empor.
+
+
+
+
+
+Ha Unhold, was verwirrst du meine Worte,
+Daß sie zum Fluche das Gebet verwandeln?
+Nein beten kann ich nicht in deiner Nähe,
+Ich kann nicht beten – nimmer wieder beten!
+Der Gnade ew'ger Quell ist mir verschlossen,
+Und wenn die Engel Thränen um mich weinten,
+Er würde dennoch nie sich wieder öffnen!
+
+
+
+Gegen die Erscheinung gekehrt.
+
+
+
+O kniee nicht für mich – – das ist vergebens!
+Zum Himmel schwingst du nie mich mit dir auf;
+Doch laß der Erde Freuden uns genießen,
+Und fühle glühend mit in meine Seele,
+Wenn sie des Lebens Hochgenuß berauscht! –
+
+
+
+Indem er auf die Erscheinung zu eilen will, verschwindet sie mit einem Donnerschlage. Er stürzt zurück.
+
+
+
+Ein Schatten nur – wie Rauch in Luft zerronnen!
+Nichts Wahres, das ich heiß an meine Brust
+In diesem wilden Sturme drücken könnte,
+Das meine Pulse mir entgegen klopfte! –
+Ha fort – hinweg aus dieser Einsamkeit,
+Starr und gefühllos sind die Felsenklüfte,
+Gleichgültig fährt der Sturm an mir vorüber,
+Gleichgültig geht die Sonne auf und nieder,
+
+
+Gleichgültig tönen mir der Vögel Lieder,
+Gleichgültig ist's, wem die Natur erblüht –
+Ich will ein liebend Herz, das mit mir glüht!
+
+
+
+Wild gegen die Höhle rufend.
+
+
+Herauf aus deiner Nacht!
+
+
+Ein dumpfer Donn er antwortet.
+
+
+
+Flüchtig schnell wie Blitze glühn,
+Eil' zu meiner Heimath hin,
+Mach den Lichtstrahl dir zur Bahn,
+Künde meine Rückkehr an!
+
+
+
+Ein Blitz fährt über die Bühne.
+
+
+
+
+STIMME
+
+aus der Höhle.
+
+Schon vollbracht ist dein Verlangen!
+
+
+FAUST.
+
+Goldne Ketten, goldne Spangen,
+Brust und Arme schön zu zieren,
+Magst du bei dem Gruße spenden!
+
+
+
+STIMME.
+
+Dank! da gibt es zu verführen!
+Gold trägt Zins in Weiber Händen.
+
+
+
+FAUST.
+Unhold, nimmer in den ihren!
+
+
+
+STIMME
+
+höhnisch lachend und mit verändertem frivolen Tone.
+
+
+Stammt doch auch aus Eva's Blut;
+Es gefällt ihr wahrlich gut! –
+Wie sie äugelt,
+Wie sie lacht,
+Wie sie sich spiegelt
+In blitzender Pracht!
+Glühend die Wangen
+Von heißem Verlange!
+Auszustellen den glänzenden Leib! –
+Meine Schlange verstand sich auf's Weib!
+
+
+
+FAUST.
+
+Ha schweig Verfluchter! Geifre deinen Gift
+Auf meinesgleichen – nicht auf solche Unschuld!
+Die Lügenzunge bind' ich dir fortan,
+Und stumm nur sollst du meinem Wink gehorchen!
+Auch feßl' ich dich von jetzt an meine Fersen;
+Doch daß du nicht das Ebenbild des Herrn
+Durch trügerisches Konterfei entehrst,
+So wandele den Abscheu deiner selbst
+In eines Hunds verworfene Gestalt,
+
+
+Und winde dich im Staub zu meinen Füßen,
+Daß ich dich trete, wenn mein Grimm entbrennt –
+
+
+
+Es donnert wüthend in der Höhle.
+
+
+Heftig rufend.
+
+
+Ha Ruhe jetzt! – Und führe mich von hinnen!
+
+
+Er eilt ab, indem noch ein krachender Donnerschlag hinter ihm her erfolgt.
+
+
+
+
+
+
+
+
+
+2. Scene
+
+
+
+
+Zweite Scene.
+
+Ein im besten Geschmacke jener Zeit ausgeschmücktes Zimmet. An der Wand hängt ein großes weibliches Konterfei.
+
+
+Diether Faust an seinem Stabe hereintappend. Käthe von der andern Seite.
+
+
+
+DIETHER.
+Wo bist du Tochter Käthe?
+
+
+KÄTHE
+
+in besserer Kleidung, eine goldene Kette um den Hals.
+
+Hier, mein Vater!
+
+
+DIETHER.
+Du ließest mich allein!
+
+
+KÄTHE.
+Ihr schlummertet!
+
+
+
+DIETHER.
+
+Ich hörte Lärmen und Geräusch im Hause,
+Man rannte hin und wieder –
+
+
+
+KÄTHE
+
+im Zimmer umherblickend.
+
+
+Ha was seh' ich?
+Schon alles hier in Ordnung – und wie glänzend!
+
+
+
+DIETHER.
+Was gibt es?
+
+
+KÄTHE.
+
+O wie soll ich's euch erzählen! –
+Ich betete zu unsrer lieben Frauen
+Für meinen Faust das angelobte Ave;
+Da wurd' ich plötzlich wie mir selbst entnommen
+Und in der Phantasei hinaus geführt
+In einen Wald voll finstrer Felsenklüfte;
+Und wollte mir's allda seltsam bedäuchten,
+Als hört' ich seine Stimme zu mir schallen;
+Doch wieder war das ganze Bild zerronnen,
+Und ich lag knieend an dem vor'gen Orte,
+Und kalter Angstschweiß rann mir von der Stirne! –
+Wie ich mich von dem Schrecken nun erholt,
+Trat auf der Heimkehr jemand mir entgegen,
+Der brachte einen Brief –
+
+
+
+
+DIETHER
+
+rasch.
+
+Mit Gold!
+
+
+KÄTHE
+
+scheu.
+
+Ihr wißt es?
+
+
+DIETHER
+
+wie vorher.
+
+Es brennt, wirf es von hinnen!
+
+
+KÄTHE.
+Nicht doch, Vater!
+
+
+DIETHER.
+War es nicht Gold?
+
+
+KÄTHE
+
+ängstlich.
+
+Nur leichter Schmuck, mein Vater!
+
+
+DIETHER
+
+der in dem Augenblicke ihre Halskette berührte.
+
+
+Leicht sagst du? Nicht doch – schwer – fürwahr sehr schwer!
+Ist das die Kette von dem Höllenbuche?
+
+
+
+Käthe tritt erschrocken zurück.
+
+
+
+Wo nicht – so ist es Gold. Und du belogst mich!
+Der Bube hat dich wieder neu versucht. –
+Verhungre lieber, Käthe! Wirf es von dir!
+
+
+
+
+KÄTHE
+
+legt sich an seine Brust.
+
+
+Ach, nur für ihn hab' ich es angenommen!
+Er hat mich nie um meiner selbst geliebt,
+Zu einfach ist mein Wort und meine Sitte;
+Da dacht' ich, würde dies mir Reize leihen,
+Der Glanz für seine Kathe ihn bestechen!
+
+
+
+DIETHER.
+Du armes Weib! – – Wirf diese Kette von dir!
+
+
+KÄTHE
+
+sie legt sie ab.
+
+Du willst's, mein Vater!
+
+
+DIETHER.
+Fühlst du dich jetzt leichter?
+
+
+KÄTHE
+
+aufathmend.
+
+Es wälzt sich tiefe Angst von meiner Brust!
+
+
+DIETHER
+
+feierlicher.
+
+Denkst du an Gott den Herrn?
+
+
+KÄTHE.
+Mit Heiterkeit!
+
+
+DIETHER
+
+küßt sie auf die Stirn.
+
+So ist es gut, mein Kind!
+
+
+KÄTHE.
+
+Doch in dem Briefe
+Hat unsern Argwohn treu er widerlegt! –
+
+
+Verzweiflung trieb in jener Wetternacht
+Ihn weit hinaus – so lauten seine Worte –
+Doch eben als die Noth am höchsten drängte,
+War Hülfe nahe, und ein reicher Herr
+Nahm ihn zum Führer mit in's ferne Welschland. –
+Das übrige schreibt er auf unsre Angst
+Und Phantasei!
+
+
+
+DIETHER.
+Doch hörtest du nicht selbst –
+
+
+KÄTHE.
+Ich war betäubt – und Stimmen täuschen leichtlich!
+
+
+DIETHER.
+Und was sein Famulus –
+
+
+KÄTHE.
+
+Den kennt ihr ja; –
+Die Furcht schuf Teufel ihm in's wilde Wetter!
+
+
+
+DIETHER
+
+warnend.
+
+O trau' ihm nicht!
+
+
+KÄTHE
+
+innig.
+
+
+Es ist dieselbe Hand,
+Mit der er schrieb so treue gute Briefe!
+Die liebe Hand kann mich ja nicht betrügen!
+
+
+
+
+DIETHER.
+
+O Käthe – – und was hier im Innern vorgeht!
+Ich hör' es wohl, wenn gleich mein Auge schlummert.
+
+
+
+KÄTHE.
+
+Für neuen Hausrath hat er sich bemüht;
+Und wie er meldet, werden hohe Herren,
+Ob der Verbindung, öfter hier verkehren!
+
+
+
+DIETHER
+
+schwer wiederholend.
+
+Ob der Verbindung!
+
+
+KÄTHE.
+Nimm es nicht so finster!
+
+
+DIETHER.
+
+Nimm du's so leicht nicht! – Deine blauen Augen
+Sind – Ihm! ein Zugang, der bei mir verschlossen!
+
+
+
+KÄTHE
+
+umherschauend.
+
+
+Wie schnell es sich im Hause hier verwandelt,
+Und wie so reich und köstlich jedes glänzt;
+Es muß ein hoher Herr seyn, der's bescherte! –
+
+
+
+Sie erblickt das Gemälde.
+
+
+Ein weiblich Konterfei – – ha, wunderschön –
+
+
+Indem sich ihre Augen darauf heften.
+
+
+
+So wunder – schrecklich – –! Welches süße Lächeln –
+
+
+Nein, tückisch – schneidend –! Himmel, diese Augen –
+Sie flammen, stechen – – wie sie mich verfolgen!
+Hu, wie sie schleichen – wie sie nach mir zielen!
+
+
+
+Angstvoll aufrufend, indem sie sich an Diethers Brust wirft.
+
+
+Ha, schütze mich! – Sie wollen mich ermorden!
+
+
+DIETHER.
+Was ist dir, Käthe?
+
+
+KÄTHE
+
+schaudernd.
+
+
+Schütze mich, mein Vater!
+Vor diesen Mörderaugen! – Welch ein Bild!
+
+
+
+DIETHER.
+Sprich deutlicher!
+
+
+KÄTHE.
+
+Ach könntest du's nur sehen,
+Wie schön und furchtbar! – Sagen kann ich's nicht!
+Doch zielt mir's, wie mit Dolchen, nach dem Herzen!
+Ich halt's nicht aus –!
+
+
+
+Indem sie außer sich einen Schleier ergreift und ihn halb abgewendet und schaudernd über das Konterfei hängt.
+
+
+So! – So bin ich gerettet!
+
+
+DIETHER.
+Wie deut' ich das?
+
+
+
+KÄTHE
+
+noch grausend.
+
+
+Seh' ich die Augen wieder,
+So tödten sie dein treues Kind, mein Vater!
+
+
+
+
+
+
+
+
+
+3. Scene
+
+
+
+
+Dritte Scene.
+
+Wagner. Die Vorigen.
+
+
+
+WAGNER
+
+eintretend.
+
+Mit Urlaub, Ehrenvester, und Ehrsame!
+
+
+DIETHER
+
+aufhorchend.
+
+Das ist –
+
+
+WAGNER.
+
+Des Wagners Stimme, alter Herr!
+Ihr habt sie lange bei euch nicht vernommen;
+Das macht, ich steckte in der Wissenschaft,
+Und glaubte nahe dran seyn, sie zu fassen, –
+Die liebe Wahrheit mein' ich! – Seht, Herr Faust,
+Ein andrer Doctor lehrte hier seit kurzem,
+Und hatte mich zum Famulus erwählt;
+Ich habe mich auch tüchtig dran gehalten,
+Daß oft der Schädel vor Gedanken dampfte;
+Allein nachdem der Cursus jetzt beendigt,
+
+
+Entdeckt sich mir, zum herzlichen Erstaunen,
+Daß ich so wenig weiß, als wie vorher!
+
+
+
+DIETHER.
+So bleibt dabei! – Viel Wissen ist gefährlich!
+
+
+WAGNER.
+
+Ja, guter Gott! Man will denn doch erfahren,
+Wie man zuletzt daran ist mit sich selber;
+Das drückt und quält, wenn mit der lieben Nase
+Man stets sich an die alte Mauer stößt!
+
+
+
+DIETHER.
+
+Der Herrgott hat sie weislich aufgeführt,
+Für Nasen eures gleichen!
+
+
+
+WAGNER.
+
+Nein, mit Gunsten,
+So dachte Würden, unser Doctor, nicht!
+Drum hält man ihn auch hoch und schätzt den Mann,
+Seitdem er fort ist aus dem deutschen Lande;
+Und wird er gar einmal gestorben seyn,
+So möchte leicht der Ruhm noch lauter schallen,
+Dieweil der Deutsche erst die Todten ehrt! –
+Indessen druckt man wacker schon drauf los,
+Und zieht den Zins von dem, was er erfunden;
+Ja, was man auch vom schwarzen Bündniß munkelt,
+
+
+So scheut doch niemand seine schwarzen Zeichen,
+Und Guttenberg pflügt dreist mit seinem Kalbe! –
+Doch redet, hat mein Ohr es recht vernommen?
+Er kehrt zurück! so lautet das Gerücht!
+
+
+
+KÄTHE.
+Es ist gewiß!
+
+
+WAGNER.
+Fürwahr?
+
+
+Gerührt.
+
+
+Mein lieber Meister!
+
+
+Er küßt Käthens Hand.
+
+
+
+
+KÄTHE
+
+bewegt.
+
+Die Hand ist naß!
+
+
+WAGNER.
+
+Vergebt den schwachen Augen,
+Es kommt vom Lesen bei der Abendlampe!
+
+
+
+KÄTHE
+
+drückt ihm die Hand.
+
+Ihr Guter! – Ihr verdammt den Faust doch nicht!
+
+
+WAGNER.
+
+Ehrsame Frau – den Herrn, ich ihn verdammen?
+Seht, mir sind hohe Worte nicht verliehen;
+Doch hab' ich ihn so treu einfältig lieb,
+
+
+Daß, wenn er sich dem Feind fürwahr ergeben,
+Ich, ihn zu retten, selbst mich opfern könnte!
+
+
+
+DIETHER
+
+der nach außen hin hörte.
+
+Horcht! Wie das stürmt!
+
+
+WAGNER
+
+am Fenster.
+
+
+Nicht doch, es ist ein Wagen!
+Vier schwarze Rosse toben dort herauf!
+
+
+
+KÄTHE
+
+aufschreiend.
+
+Jesus Maria! Der Faust!
+
+
+DIETHER
+
+bewegt.
+
+Der Hans!
+
+
+WAGNER
+
+rufend.
+
+
+Der Meister!
+Ich muß hinaus!
+
+
+
+Er eilt ab.
+
+
+
+
+KÄTHE
+
+mit einer Bewegung gegen die Thüre.
+
+Ich kann nicht fort! Der Freudenschreck erstarrt mich!
+
+
+DIETHER.
+Ist es denn wahr?
+
+
+KÄTHE
+
+in einem Taumel, ohne zu wissen, wohin, nach dem Fenster zu.
+
+O wie so hoch und stattlich!
+
+
+
+
+
+
+
+
+
+4. Scene
+
+
+
+
+Vierte Scene.
+
+Faust. Die Vorigen.
+
+
+
+FAUST
+
+auf sein Weib zueilend.
+
+Da bist du!
+
+
+KÄTHE
+
+schlingt die Arme um ihn.
+
+Faust!
+
+
+FAUST.
+Hier ist mir wieder wohl!
+
+
+DIETHER.
+Im Namen Gottes!
+
+
+FAUST.
+Seid gegrüßt, mein Vater!
+
+
+DIETHER.
+Ein Amen! wär' mir lieber!
+
+
+FAUST
+
+leicht hin.
+
+
+Noch der Alte! –
+Ihr wißt, ich halt' es ungern mit den Worten! –
+Mein Weib kam ich zu sehn!
+
+
+
+KÄTHE
+
+an seiner Brust.
+
+Du lieber Mann!
+
+
+FAUST.
+
+Zu küssen und zu herzen! – Glühend, Käthe,
+
+
+Hat mein Verlangen sich nach dir gesehnt!
+
+
+
+Indem er sie wild umschlingt.
+
+
+Ha, Feuer auf die Wangen! Brenne mit mir!
+
+
+KÄTHE
+
+bebend.
+
+Gott, wie du wild bist!
+
+
+DIETHER.
+
+Laß die Weltlust schweigen,
+Und steh mir Wort! – Wo triebst du dich umher?
+
+
+
+FAUST.
+
+Mit einem reichen Herrn, wie ich geschrieben;
+Herüber und hinüber ging der Lauf;
+Aus Frankreich hin nach Welschland, über Ströme
+Und über Berge, durch die Pyrenäen,
+Und wo die Gletscher himmelhoch sich thürmen!
+
+
+
+KÄTHE
+
+sieht ihn ängstlich an.
+
+Die Sonne hat dich wild und roth gebrannt!
+
+
+DIETHER.
+In Welschland warst du – also auch in Rom?
+
+
+FAUST.
+Vor allen Dingen!
+
+
+DIETHER.
+
+Wo der heil'ge Vater
+
+
+Im Namen Gottes frommen Haushalt führt!
+Du kehrst von ihm gesegnet uns doch wieder?
+
+
+
+FAUST
+
+unwillig.
+
+
+Nicht doch; für eine Beifahrt ging's zu eilig;
+Sanct Peters Fuß ist mir nicht klein genug
+Zum Küssen! Laßt das!
+
+
+
+DIETHER
+
+ergriffen.
+
+
+Käthe, weh! mir schwindelt!
+Hinweg!
+
+
+
+KÄTHE
+
+bange.
+
+Mein Vater!
+
+
+DIETHER.
+
+Hörtest du es nicht!
+Es wird mir heiß und bang in seiner Nähe!
+
+
+
+FAUST
+
+unwillig auf den Boden stampfend.
+
+In's Teufels Namen!
+
+
+KÄTHE
+
+hebend.
+
+Wehe!
+
+
+DIETHER
+
+außer sich.
+
+
+Führ' mich fort!
+Soll ich nicht selbst mich durch das Dunkel tappen!
+
+
+
+KÄTHE
+
+in großer Bewegung.
+
+O Faust!
+
+
+
+DIETHER
+
+dringend.
+
+Zum Lager! Mein Gebein erzittert!
+
+
+Käthe führt den Alten ab.
+
+
+
+
+FAUST
+
+legt die Hand an die Stirn und steht einen Augenblick tiefsinnig; – dann fährt er auf.
+
+Was soll das Träumen? – Ist es doch zu spät!
+
+
+
+
+
+
+
+
+4. Scene [2]
+
+
+
+
+Vierte Scene.
+
+Wagner. Faust.
+
+
+
+WAGNER.
+
+Ich wollte bei dem Wagen Dienste leisten;
+Doch euer Führer saus'te schnell von hinnen.
+Wenn er im Orte nur zurecht sich findet!
+
+
+
+FAUST.
+Laß den, mein Freund, der kennt schon seine Wege!
+
+
+WAGNER.
+
+Im übrigen verblieb ein Hund zurück,
+Ein schwarzer Pudel, fast ein häßlich Thier,
+Er knurrte bös mich von der Seite an,
+So höflich ich auch mit der Zunge schnalzte,
+Und fletschte, als ich fortfuhr, wild die Zähne.
+
+
+
+FAUST.
+Laßt ihn zufrieden; er gehorcht nur mir!
+
+
+
+WAGNER.
+
+Jetzt hat er tief im Winkel sich verkrochen,
+Doch grüne Augen leuchten aus dem Dunkel! –
+Nun aber laßt, mein lieber guter Meister,
+Noch einmal eure Hand mich herzlich küssen!
+
+
+
+FAUST
+
+mit Innigkeit.
+
+Mein Freund!
+
+
+WAGNER.
+
+Ach, wie ich mich nach euch gesehnt!
+Zur Nachtzeit oft in meiner engen Kammer,
+Wann mir die Wissenschaft das Haupt verwirrte,
+Da dacht' ich eurer, wie ihr mich berathen,
+Mit tiefen Lehren, die zum Herzen drangen!
+Die neuen Herren haben's nur in Worten,
+Das klingt und schallt denn wohl recht hochgelahrt,
+Doch flieht's vorüber ohne Frucht und Ernten!
+
+
+
+FAUST.
+
+Frisch auf, mein Freund! Drum trenne dich vom Wissen!
+Minervens Schild ist ein Medusenhaupt,
+Vor dessen Blick das Leben sich versteinert;
+Doch Aphrodite, Phöbus und Lyäus,
+
+
+Die schließen einen heitren Zauberkreis,
+In dessen Mitte Feuerblüthen prangen!
+
+
+
+WAGNER.
+Doch ließ ich's nie am guten Willen fehlen!
+
+
+FAUST.
+
+Du zählst dich nicht zu jenen Herrschergeistern,
+Die kühn erobernd rastlos vorwärts dringen,
+Obgleich sie dennoch an der Laufbahn Ziele
+Ihr Banner nur in öde Trümmer pflanzen! –
+Drum schlag das Buch des finstern Wissens zu,
+Und folge mir hinaus in's freie Leben!
+
+
+
+WAGNER.
+Das klingt so dreist und wild!
+
+
+FAUST.
+
+Schulfüchserei
+Ist alles Uebrige! – Ich bin dir gut,
+An dich gewöhnt seit jener düstern Zeit!
+Darum bleib bei mir, mehr als Freund, denn Diener;
+Ich habe Gut und Wohlseyn für dich übrig,
+Und alles läuft zuletzt doch darauf hin!
+
+
+
+WAGNER.
+Wenn man so Böses nur nicht munkelte!
+
+
+
+FAUST.
+Was munkelt man? Die alte Leier wieder!
+
+
+WAGNER.
+
+Ich sah ja selbst die blauen Höllenflammen,
+Im Spessar drüben!
+
+
+
+FAUST.
+
+Thor! Gewitterstrahlen! –
+Auch scheue dich so ängstlich nicht vorm Brennen;
+Ist doch das Feuer wohl ein gutes Ding,
+Es kocht den goldnen Wein uns an den Bergen,
+Es röthet Wang' und Lippen zum Genusse,
+Und wenn Begeisterung uns glühend naht,
+Wenn hell und weit das Leben sich eröffnet,
+Dann steigen wir empor auf Feuerschwingen!
+
+
+
+WAGNER
+
+ernst.
+
+Auch in der Tiefe brennt's –
+
+
+FAUST
+
+kühn einfallend.
+
+
+Die Erde schwängernd!
+Daß sie den Frühling schwellend in sich trage,
+Und ihn gebäre an das Licht der Sonnen,
+In Duft und Farben und in tausend Blüthen!
+
+
+
+WAGNER.
+O ihr betäubt mich!
+
+
+
+FAUST.
+Leiste kühn den Handschlag!
+
+
+
+
+
+
+
+
+5. Scene
+
+
+
+
+Fünfte Scene.
+
+Käthe zurückkehrend. Die Vorigen.
+
+
+
+KÄTHE
+
+sehr beängstigt.
+
+O Faust, was thatest du?
+
+
+FAUST.
+
+Der Alte reizt mich!
+In Hitze bin ich nicht des Wortes Meister!
+
+
+
+KÄTHE.
+So hart und wild nur – –
+
+
+FAUST.
+
+Warum gönnt er mir
+Des Wiedersehens kurze Freude nicht!
+Es drängte mich so glühend zu euch her;
+Ich sah dich, Käthe – – meine Phantasei –!
+Und zu dir flog ich mit des Sturmes Eile;
+Doch kalt und herzlos sind' ich's hier wie vormals!
+
+
+
+KÄTHE.
+Machst du ihm seine Vaterangst zum Vorwurf?
+
+
+
+FAUST.
+
+Des Alters Irrwahn – er wird mir zur Last!
+Die Jahre machten ihn zum zweiten Kinde.
+
+
+
+WAGNER
+
+besorgt.
+
+Doch wenn er krank ist, will ich seiner hüten!
+
+
+Er geht ab.
+
+
+
+
+
+
+
+
+
+6. Scene
+
+
+
+
+Sechste Scene.
+
+Faust und Käthe.
+
+
+
+KÄTHE
+
+nahet sich ihm, sanft und innig.
+
+O lieber Mann!
+
+
+FAUST
+
+legt ihre Hand auf sein Herz.
+
+Hier schlägt es heiß und glühend!
+
+
+KÄTHE
+
+bang.
+
+Wild, wie im Fieber!
+
+
+FAUST.
+Gieb mir Gluth für Gluth! –
+
+
+KÄTHE.
+Ich leide Todesangst!
+
+
+FAUST
+
+wild und scheu.
+
+
+Was will ich denn?
+Ein Herz begehr' ich nur, das meines fühlt,
+
+
+Allein will ich nicht stehn auf dieser Erde,
+Nicht ewig in ein todtes Echorufen; –
+Nur eine Seele, die in meine glüht,
+Und ich bin fromm und mild!
+
+
+
+KÄTHE.
+Mein lieber Faust!
+
+
+FAUST
+
+mit innerer Angst.
+
+Dann kann noch alles wohl und gut sich enden!
+
+
+KÄTHE
+
+in ihn dringend.
+
+O höre mich! – Dein Blick ist wild und schrecklich! –
+
+
+FAUST
+
+aufstürmend.
+
+
+Doch warf er mich mit dieser Feuerseele
+In eine Wildniß, wo nichts Nahrung giebt,
+Nichts meinen innern Hunger je befriedigt; –
+Dann wär' es besser, wenn ich nie geboren!
+
+
+
+KÄTHE
+
+wie vorher.
+
+Verzweifle nicht! Noch giebt es einen Ausweg!
+
+
+FAUST.
+Was willst du?
+
+
+KÄTHE
+
+hastig zu ihm redend.
+
+
+Folge mir zum Gotteshause!
+So lange ist es, daß du nicht gebeichtet! –
+
+
+
+
+FAUST.
+O weg damit!
+
+
+KÄTHE.
+
+Stoß mich so hart nicht von dir!
+Erinn're dich der frommen süßen Stunden,
+Wo Hand in Hand wir zu dem Altar gingen,
+Vereint dem Himmel unsre Schuld bekannten
+Und seine Gnade uns vereint versöhnte!
+
+
+
+Dringend.
+
+
+Folg mir dahin – der Angst dich zu entladen!
+
+
+FAUST
+
+wild und heftig.
+
+Nein! Nein! –
+
+
+KÄTHE
+
+schaudernd.
+
+Herrgott! –
+
+
+Als sie seine linke Hand faßt.
+
+
+Du blutest an der Hand!
+
+
+FAUST.
+Das ist – –
+
+
+Indem er auf die Hand starrt.
+
+
+Ja so!
+
+
+KÄTHE
+
+ängstlich.
+
+
+Wer hat dich so verwundet? –
+Der Schnitt geht grade durch die Lebenslinie!
+
+
+
+
+FAUST
+
+wild auflachend.
+
+Ha! ha! –
+
+
+KÄTHE.
+Du blutest stark!
+
+
+FAUST.
+
+Ein alter Schaden!
+Wenn's in mir stürmt, bricht er stets wieder auf,
+Und macht mir Luft! –
+
+
+
+KÄTHE
+
+die unverwandt darauf hinblickt.
+
+
+Es ist die linke Hand,
+Die kommt vom Herzen – –
+
+
+
+Tiefsinnig und langsam.
+
+
+es ist Herzensblut!
+
+
+FAUST
+
+entreißt ihr die Hand.
+
+Nun doch – was starrst du drauf!
+
+
+KÄTHE
+
+wie wenn sie sich ein Mährchen wiederholte.
+
+
+»Es war ein Graf
+Der ging hinaus in einen finstern Wald,
+Alldort er sich dem Bösen übergab.«
+
+
+
+FAUST
+
+erschüttert und bewegt.
+
+Ha denn, was soll das alte Ammenmährchen?
+
+
+KÄTHE
+
+monoton fortfahrend.
+
+
+»Der Finstre aber schnitt mit einem Eisen
+
+
+Ihm in die linke Hand, gerad' durch's Leben,
+Und ließ den Pact mit Blut sich unterschreiben;
+Als das vollbracht, begann die Feuertaufe,
+Und schloß das Werk der Nacht; drauf ward der Grafe
+Ein reicher Mann, allein die Wunde heilte
+Nie wieder zu, und nach der Feuertaufe
+Blieb sein Gesicht –«
+
+
+
+Bricht in dem Augenblicke Faust anblickend ab, verlaßt den vorigen Ton und schreit außer sich auf.
+
+
+– Ha, glühend, wie das deine!
+
+
+FAUST
+
+unwillkührlich zurückbebend.
+
+Ha – glühend?
+
+
+KÄTHE
+
+stürzt die Hände ringend vor ihm nieder.
+
+
+O in aller Heil'gen Namen!
+Gieb mir die Wahrheit – deine Linke blutet,
+Dein Auge brennt wie sein's!
+
+
+
+FAUST
+
+reißt sie heftig empor.
+
+
+Was soll das Mährchen,
+Womit die Amme einst in Schlaf dich lullte;
+'S ist Tollheit – weiter nichts!
+
+
+
+KÄTHE
+
+bebend.
+
+Und wär' es mehr!?
+
+
+
+FAUST
+
+wilder und kühner.
+
+
+Beim Teufel, wollt' ich's doch! – Mich trieb es längst,
+Mit ihm da drunten wacker anzubinden,
+Denn ihm zu trotzen fühl' ich Kraft in mir!
+Zu Schanden macht' ich ihn mit seiner Tücke –
+Und hätt' er auch mein Herzblut roth auf weiß!
+
+
+
+KÄTHE
+
+wirft sich an seine Brust.
+
+O Faust, es ist nicht so!?
+
+
+FAUST.
+
+Was so? Was soll es?
+Ihr träumt euch närrisch durch die Phantasei –
+
+
+
+Ablenkend, indem sein Blick auf das verschleierte Konterfei fällt.
+
+
+Was ist denn dort?
+
+
+KÄTHE
+
+die seinem Blicke nicht gleich folgt.
+
+Wo meinst du?
+
+
+FAUST.
+Hinterm Schleier!
+
+
+KÄTHE
+
+aufschreckend.
+
+Um Gottes willen!
+
+
+FAUST.
+Nun?
+
+
+
+KÄTHE
+
+schnell und hastig.
+
+Enthüll' es nicht!
+
+
+FAUST.
+Was ist's? Warum nicht?
+
+
+KÄTHE.
+Weh! Entsetzliches!
+
+
+FAUST
+
+will hinzutreten.
+
+Laß mich!
+
+
+KÄTHE
+
+die ihn zurückhält.
+
+Ein Haupt!
+
+
+FAUST
+
+mit flüchtiger Laune.
+
+Nun denn – doch nicht des Teufels?
+
+
+KÄTHE
+
+außer sich, ihn hinwegdrängend.
+
+O mehr – ein Mörderhaupt!
+
+
+FAUST
+
+reißt den Schleier gewaltsam fort.
+
+Hinweg den Schleier!
+
+
+Eine Pause. Käthe taumelt zurück. Faust ist gewaltsam ergriffen und streckt die Arme aus. Dann fährt er begeistert und außer sich fort.
+
+
+
+Was ist geschehn! – Ha, welch ein heiß Entzücken,
+Das feurig mir durch alle Adern glüht,
+Das Leben thront in diesen Flammenblicken,
+
+
+Auf dieser Lippe, die zum Kusse blüht,
+O könnt' ich wild an's wilde Herz dich drücken,
+Ha, wie dein Auge meines zu sich zieht! –
+
+
+
+KÄTHE
+
+blaß und schwankend.
+
+Es mordet mich – den Dolch seh' ich's erheben!
+
+
+FAUST
+
+feurig.
+
+Ha, lebend steig herab in's helle Leben! –
+
+
+KÄTHE
+
+bebt zurück.
+
+Schau, wie es flammt!
+
+
+FAUST.
+
+In heißen Liebesgluthen! –
+Blick zu mir her!
+
+
+
+KÄTHE.
+
+Es kündet mir den Tod!
+Hinweg! –
+
+
+
+FAUST.
+
+Für dich stürzt' ich hinab in Fluthen!
+Der Frühling blüht in diesem Wangenroth!
+Hin, zu dir hin! –
+
+
+
+KÄTHE
+
+jammernd.
+
+Und mich läßt du verbluten?
+
+
+FAUST.
+Es reißt mich fort!
+
+
+
+KÄTHE
+
+streckt die Arme nach ihm.
+
+Bleib mir in dieser Noth!
+
+
+FAUST
+
+zu dem Bilde gekehrt.
+
+Dich suchte ich!
+
+
+KÄTHE.
+O weh! mein Herz gebrochen!
+
+
+FAUST.
+Du hast mein Leben glühend ausgesprochen!
+
+
+Käthe sinkt in Ohnmacht, Faust tritt gegen das Gemälde vor, der Vorhang fällt.
+
+
+
+
+
+
+
+
+
+
+
+3. Akt
+
+
+
+
+
+1. Scene
+
+
+
+
+Erste Scene.
+
+Studenten sitzen an der rechten Seite um einen Tisch und singen und trinken. Zur linken Hand abseits ein Fremder einsam bei seinem Glase mit einem hochrothen wilden, von der Sonne verbrannten Gesichte. Während des Chors treten Faust und Wagner ein. Kellner.
+
+
+
+STUDENTENCHOR.
+
+
+Mihi est propositum
+
+
+In tabeina mori,
+
+
+Vinum sit appositum
+
+
+Morientis ori,
+
+
+
+
+
+Ut dicant cum venerint
+
+
+Angelorum chori:
+
+
+Deus sit propitius
+
+
+Huic potatori!
+
+
+
+STUDENTEN
+
+schwingen die Gläser, als sie ausgesungen.
+
+Runda! Hoch!
+
+
+FAUST
+
+unwillig.
+
+Was führst du mich in diese Schlemmerei?
+
+
+WAGNER.
+
+Mit Gunsten, Würden! Ihr lauft mir zu hastig
+Durch's liebe Leben, und stets kreuz und quer!
+Dazu nach einem Bilde – Gott verzeih' mir's!
+'S ist Phantasei ein Bild, und nichts Reelles!
+
+
+
+FAUST.
+Ha! Nichts davon!
+
+
+WAGNER.
+
+Ich bin schon mäuschenstill!
+Der Widerspruch erhitzt euch! – Doch mit Gunsten,
+Der übereilte Lauf hat mich ermattet,
+Und hier ist ein Hospitium für Müde!
+
+
+
+FAUST.
+Du fügst dich gut und schnell!
+
+
+
+WAGNER.
+
+Den Wein belangend,
+Das geb' ich zu, der ist ein gutes Ding,
+Und süßer als der Quell, woraus ich vormals
+Mich beim Studiren zu begeistern suchte! –
+
+
+
+Dreist rufend.
+
+
+Drum Wein herbei!
+
+
+Der Kellner bedient ihn.
+
+
+
+
+FAUST
+
+halblaut und beißend, indem er ihn betrachtet.
+
+
+Wie das Charakterlose
+So leicht in jede Form sich gießen läßt!
+Ja wett' ich doch, daß eh' ein Jahr vergangen,
+Der Bursche dreist dem Teufel selbst sich zutrinkt!
+
+
+
+WAGNER
+
+indem er trinkt.
+
+Was murmelt ihr gedankenvoll?
+
+
+FAUST.
+
+Ich meine,
+Da mit dem Trinken dir's so gut gelungen,
+So wagst du's auch mit meinen raschen Fahrten!
+
+
+
+WAGNER
+
+kreuzt sich.
+
+Behüte Gott!
+
+
+DER FREMDE
+
+stößt sein Weinglas auf den Tisch, daß es zerbricht.
+
+
+
+
+WAGNER
+
+zusammenfahrend.
+
+Was giebt's?
+
+
+DER FREMDE
+
+kurz und tief.
+
+Ein andres Glas!
+
+
+Der Kellner bringt es ihm.
+
+
+
+
+WAGNER
+
+schüttelt nach ihm hinsehend den Kopf.
+
+Der Mann ist heftig –
+
+
+Mit einer Pantomime, die Betrunkenheit andeutet.
+
+
+
+exaltirt, wie's scheint! –
+Doch wieder auf die Fahrt zu kommen: – Nein,
+Dafür bedank' ich mich – es ist gefährlich!
+Und ob ihr's weiße Kunst gleich titulirt,
+So fürcht' ich doch, daß mehr dahinter steckt!
+
+
+
+ERSTER STUDENT.
+
+Nun munter, Brüder! Gebt was Frisches an!
+Ich bin vergnügt – der Teufel soll mich holen!
+
+
+
+ZWEITER STUDENT
+
+halb betrunken.
+
+Eins singen, Brüderchen!
+
+
+DRITTER STUDENT.
+Der Ton versagt dir!
+
+
+ZWEITER STUDENT
+
+trinkt.
+
+Ich frische an!
+
+
+
+DRITTER STUDENT.
+
+Du singst dich untern Tisch!
+Laßt lieber Schwänke an die Reihe kommen!
+
+
+
+ERSTER STUDENT.
+
+Ja, Schwänke, Bruderherz? Da kann ich dienen
+Aus Leipzig her – der Teufel soll mich holen!
+
+
+
+ZWEITER STUDENT
+
+lallend.
+
+Aus Leipzig, ja!
+
+
+ERSTER STUDENT.
+
+Und zwar vom Teufelskerl,
+Vom Doctor Faust!
+
+
+
+DRITTER STUDENT.
+Du hast den Faust gesehen?
+
+
+ERSTER STUDENT.
+
+Gesehen? Pah! Wir sind auf du und du!
+Der Teufel soll mich holen!
+
+
+
+FAUST.
+Wohl bekomm's!
+
+
+Indem er ihm zutrinkt.
+
+
+
+
+ERSTER STUDENT
+
+stößt mit ihm an.
+
+Zum schuld'gen Dank!
+
+
+WAGNER
+
+halblaut zu Faust.
+
+Der Bursche lügt sich schwarz!
+
+
+
+ERSTER STUDENT.
+Wir waren dorr ein Herz und eine Seele!
+
+
+Mit Wohlbehagen.
+
+
+
+Es ist ein Kerl – früh Morgens schon betrunken,
+Zu Mittag niemals nüchtern, und am Abend
+Mit durst'ger Kehle vor dem Zapfen sterbend!
+
+
+
+FAUST
+
+zu Wagner mit Laune.
+
+Der macht den Bruder Lüderlich aus mir!
+
+
+ERSTER STUDENT.
+
+Wir tranken oft uns in Gesellschaft voll,
+Und dann gab's immer Händel, tolle Streiche!
+So, eines Tages, als beim Auerbach
+Im Keller drunten brav wir commercirt,
+Fährt draußen uns ein Fuder Heu entgegen,
+Worüber unser Mann sich hoch erzürnt,
+Und wild dem Bauer droht, ihm auszuweichen,
+Doch als der ruhig in dem Gleise leiert,
+Da sperrt mein Faust – der Teufel soll mich holen!
+Den Mund gleich einem Wallfischrachen auf,
+Und frißt das Fuder Heu, sammt Pferd' und Wagen.
+
+
+
+DRITTER STUDENT
+
+erstaunt.
+
+Hoho!
+
+
+
+ZWEITER STUDENT
+
+mit aufgerissenen Augen.
+
+Das ist ein starkes Stück!
+
+
+DRITTER STUDENT.
+Nicht möglich!
+
+
+ERSTER STUDENT.
+
+Ich war dabei – der Teufel soll mich holen!
+So auch ein andres Mal, als er ein Weinfaß
+Beritten machte in demselben Keller,
+Und hopsasa! darauf hinaus trottirte!
+
+
+
+ZWEITER STUDENT
+
+lallend.
+
+Haha! das hätt' ich sehen mögen Bruder!
+
+
+DRITTER STUDENT.
+Der Kerl ist ja des Teufels ganz und gar!
+
+
+FAUST
+
+zu Wagner.
+
+Da hörst du's, was der Pöbel aus mir macht!
+
+
+Ergrimmt.
+
+
+
+Ich hätte Lust, dem Kerl mein Fratzenbild
+Mit heiß gemünztem Golde zu bezahlen,
+Bedenk' ich, daß er's so zur Nachwelt liefert!
+
+
+
+ZWEITER STUDENT
+
+noch immer mit aufgerissenen Augen.
+
+Das geht doch nie mit rechten Dingen zu!
+
+
+
+ERSTER STUDENT.
+
+Bewahre Brüderchen! Der Teufel hilft ihm;
+Sein Diener nennt sich Mephistopheles,
+Das ist der Freund quaestionis – hu ein Kerl
+Mit rothem Haar, auf beiden Augen schielend,
+Und in dem Stiefel steckt der Pferdefuß! –
+Er hat mit mir auch Brüderschaft getrunken!
+
+
+
+DRITTER STUDENT
+
+schaudernd.
+
+Du bist ja ruchlos!
+
+
+ZWEITER STUDENT
+
+mit schwerer Zunge.
+
+Ein verwegner Kerl!
+
+
+ERSTER STUDENT
+
+renomirend.
+
+
+Von Alters her! – Der Teufel soll mich holen! –
+So fuhr ich auch auf Doctor Fausti Mantel
+Einmal im Fluge mit ihm durch die Luft
+Nach Merseburg, das Bier dort anzuzapfen!
+
+
+
+ZWEITER STUDENT
+
+starrt ihn, den Kopf auf beide Arme gestützt, an.
+
+Die Möglichkeit –!
+
+
+ERSTER STUDENT
+
+schlägt auf den Tisch.
+
+Der Teufel soll mich holen!
+
+
+FAUST
+
+klopft ihm in dem Momente stark auf die Schulter.
+
+
+
+
+ERSTER STUDENT
+
+fährt heftig erschrocken in die Höhe.
+
+O wehe mir!
+
+
+FAUST
+
+hält ihm gebietend seinen Becher entgegen.
+
+Stoßt an!
+
+
+ERSTER STUDENT
+
+bemüht sich, wieder Fassung zu erlangen.
+
+Was – soll das, Herr?
+
+
+FAUST
+
+wie vorher.
+
+Stoßt an! – Nun wird's – der Teufel soll mich holen!
+
+
+ERSTER STUDENT
+
+greift zitternd nach dem Becher.
+
+Ja so – ha, ha!
+
+
+FAUST
+
+stark.
+
+Der Faust bringt euch das Glas!
+
+
+In dem Augenblicke schlängelt sich eine blaue Flamme aus der Seitencoulisse über den Tisch hin, und entzündet den Becher des Studenten, daß er in Flammen auflodert, und mit einem Knalle zerspringt. Zugleich fährt ein Blitz durch's Gewölbe, auf den ein starker Donnerschlag folgt.
+
+
+
+
+ERSTER STUDENT
+
+zurückstürzend.
+
+Der Faust – es brennt!
+
+
+FAUST
+
+mit lauter Stimme.
+
+Der Teufel soll dich holen!
+
+
+
+ZWEITER STUDENT
+
+auftaumelnd.
+
+Der Teufel!
+
+
+DRITTER STUDENT
+
+eben so.
+
+Hülfe!
+
+
+ERSTER STUDENT
+
+reißt aus.
+
+Er hat mich in Klauen!
+
+
+Die Studenten stürzen fort. Der Kellner ist schon früher abgegangen.
+
+
+
+
+
+
+
+
+
+2. Scene
+
+
+
+
+Zweite Scene.
+
+Die Vorigen ohne die Studenten und den Kellner.
+
+
+
+WAGNER
+
+bebend, mit gefaltenen Händen.
+
+
+Joseph, Maria! Meine Glieder beben! –
+Mein armes Trommelfell – der Donnerschlag –
+Der blaue Blitz – nein, das sind schwarze Künste!
+
+
+
+FAUST
+
+lachend.
+
+
+Electrische Versuche, Thor! Nichts weiter!
+Log doch der Kerl – –
+
+
+
+Indem er den Fremden erblickt.
+
+
+Wir sind hier nicht allein!
+
+
+DER FREMDE
+
+der ruhig sitzen blieb und sorttrank.
+
+Ihr donnert brav!
+
+
+
+FAUST
+
+betroffen.
+
+Verzeiht, – mein Herr!
+
+
+DER FREMDE
+
+ruhig.
+
+
+Ich liebe
+Experimente und Physik, als Spielwerk
+Zur Unterhaltung!
+
+
+
+FAUST
+
+wie vorher.
+
+So!?
+
+
+DER FREMDE
+
+ruhig fortfahrend.
+
+
+Und kann auch donnern;
+Noch besser blitzen! – Denn mein Katzenfell –
+Wenn man's zu streichen weiß – sprüht ächte Funken!
+
+
+
+WAGNER
+
+der den Fremden betrachtete, leise zu Faust.
+
+Ein Physicus! – Er sieht mir ganz verwildert!
+
+
+FAUST
+
+betroffen in sich hinein.
+
+Ich weiß nicht recht!
+
+
+FREMDER
+
+wie in einem halben Rausche, trinkend.
+
+Wohlauf! Der Wein soll leben!
+
+
+FAUST
+
+beruhigt für sich.
+
+Der Trunk läßt ihn so im Gesichte glühen!
+
+
+FREMDER
+
+hält ihm das Glas entgegen.
+
+
+Nun bringt mir's wieder – auf des Weins Gesundheit! –
+
+
+Wenn er nur nicht so wild im Haupte machte;
+Ich tränke sonst noch heut ein Stückfaß aus!
+
+
+
+WAGNER
+
+faltet die Hände.
+
+Gott schütze uns!
+
+
+FREMDER
+
+zerschmeißt heftig sein Glas.
+
+
+Ei, in des Teufels Namen –
+Was schwatzt der Herr von schützen–!
+
+
+
+WAGNER
+
+zieht sich zurück.
+
+Ei, wie hitzig!
+
+
+Für sich.
+
+
+Dem trunknen Mann soll man den Weg nicht sperren!
+
+
+FREMDER
+
+gießt sich ein anderes Glas voll.
+
+Das kostet neu Krystall! –
+
+
+Zu Faust.
+
+
+
+Macht's euch bequem!
+Und klingt mit an: Der Feuergeist soll leben!
+
+
+
+Er stößt mit Faust an.
+
+
+Ihr wißt schon, was ich meine!
+
+
+FAUST
+
+halb gezwungen.
+
+Er soll leben!
+
+
+WAGNER
+
+für sich.
+
+
+Der Feuergeist – was für ein Doppelsinn;
+So könnte man den Teufel auch benennen!
+
+
+
+
+FREMDER
+
+zu Wagner, ihm das Glas entgegenhaltend.
+
+Nun Freund, thut auch Bescheid!
+
+
+WAGNER
+
+zieht sich zurück.
+
+
+Ich hab' mein Theil;
+Ein Tropfen mehr läßt mich im Kreise drehen!
+
+
+
+FREMDER
+
+fixirt ihn.
+
+Ein Neuling noch – wird mit der Zeit schon werden!
+
+
+WAGNER
+
+für sich.
+
+
+Der Kerl verbrennt mich fast mit seinen Augen!
+Mir wird so heiß und bang!
+
+
+
+FREMDER
+
+zu Faust.
+
+
+Euch mundet's auch nicht!
+Wohlauf denn – eine andere Gesundheit:
+Die Weiber!! – Doch da muß der Wein erst brennen!
+
+
+
+Er zündet den Spiritus im Glase an.
+
+
+Das ist die Feuertaufe! –
+
+
+Das Glas schwenkend.
+
+
+Hoch die Weiber!!
+
+
+FAUST
+
+stößt erhitzt an.
+
+Die Weiber! hoch!
+
+
+WAGNER
+
+sieht dem Fremden angstvoll zu.
+
+Herrgott, er säuft die Flammen!
+
+
+
+FREMDER.
+
+Ha! das ertönt wie eine Glocke – hoch! –
+Ich hab' auch eins mit rosenrothen Wangen,
+Mit schwarzen Ringellocken, dunkeln Augen,
+In denen Nacht und Inbrunst heimlich glühen,
+Indeß die weiße Brust vor Sehnsucht schwellt!
+
+
+
+FAUST
+
+macht eine Bewegung und blickt dann heiß vor sich hinaus.
+
+
+
+WAGNER
+
+für sich.
+
+Er malt recht reizend in der Trunkenheit!
+
+
+FREMDER.
+
+Um ihrentwillen spornte ich mein Roß,
+Die Reise zu ihr stürmend zu vollenden,
+Und wenn der Wein nicht so im Haupte braus'te,
+So schwelgt' ich schon zur Nacht in weichen Armen;
+Doch der macht mich so dumpf – so heiß – und wüst!
+
+
+
+Er reißt sich das Brustwamms auf, aus dem ein weibliches Portrait fällt.
+
+
+
+
+FAUST
+
+erblickt es, und reißt es außer sich vor seine Augen.
+
+Was ist das?!
+
+
+FREMDER
+
+dehnt sich wie in steigender Trunkenheit.
+
+
+Nun, mein Weib – wißt ihr es anders? –
+Nicht wahr – haha? – das heiß' ich Feueraugen –
+
+
+Und solche Lippen –! – Küßtet wohl schon manche?
+Doch nur auf solchen Lippen – heißt's ein Kuß!
+
+
+
+FAUST
+
+kaum der Sprache mächtig.
+
+Sie ist –?
+
+
+FREMDER
+
+noch betäubter.
+
+
+Mein Weib – ja, Herr, in's Teufels Namen!
+Helene heißt sie – heidnisch noch getauft! –
+Ihr Landhaus, dicht vor Wittenberg gelegen,
+Ist neu erbaut – ich häuste Gold auf Geld,
+Es blitzschnell zu vollenden! Drinnen prangt sie –
+Und –
+
+
+
+In stärkerer Trunkenheit.
+
+
+
+wenn der Wein nicht immer wilder braus'te,
+So tauscht' ich meine Nacht – mit keinem König!
+
+
+
+Er stützt den schweren Kopf auf die Hand und scheint einzuschlummern.
+
+
+
+
+FAUST
+
+stürzt mit dem Bilde in den Vordergrund.
+
+Sie ist's! Sie ist's! – Sie lebt – ich weiß es, wo!
+
+
+Außer sich.
+
+
+Sie lebt! Sie lebt!
+
+
+WAGNER
+
+besorgt.
+
+
+Herr, mäßigt eure Stimme!
+Der wilde Mensch dort –
+
+
+
+
+FAUST
+
+hinblickend.
+
+Er erliegt dem Weine!
+
+
+Das Portrait anschauend.
+
+
+Sie ist's! – Der Mund – die Lippen und die Augen!
+
+
+Küßt das Bild.
+
+
+
+Der süße Mund – ha, fühlte ich dich glühen,
+Mein Leben gäb' ich drum! – Die seidnen Locken,
+Wie sie mit Liebesbanden mich umgarnen,
+Wie dieser Augen heiße Feuergluth
+In mir zu Flammen sich entzündet –
+
+
+
+WAGNER
+
+angstvoll einfallend.
+
+
+Wehe!
+Ihr brecht die Ehe euerm treuen Weibe!
+
+
+
+FAUST
+
+wild.
+
+
+Was soll mein Weib! – Es giebt nur eins auf Erden –
+Und dieses ist's! –
+
+
+
+WAGNER
+
+wie vorher.
+
+Gott, wenn der Mann es hörte!
+
+
+FAUST.
+
+Der Mann? – Wer ist ihr Mann? – Ha, jener dort?
+Mit tausend Männern wollt' ich um sie kämpfen!
+
+
+Und dieser Trunkene – hat er's verdient,
+In allen Lebensreizen frech zu schwelgen? –
+
+
+
+Er zieht außer sich den Dolch.
+
+
+Hin opfr' ich ihn! –
+
+
+WAGNER
+
+fällt ihm in den Arm.
+
+Bei Gott und allen Heil'gen!
+
+
+FAUST
+
+wüthend.
+
+Was Gott! – Hinweg! – Der soll sich ihrer freuen?
+
+
+WAGNER
+
+hält ihn zurück.
+
+Ihr wollt ermorden!
+
+
+FAUST
+
+vordringend.
+
+
+
+Eine Sünde erst!
+Der Himmel ist damit zu leicht erworben!
+
+
+
+WAGNER
+
+außer sich.
+
+O was beginnt ihr!
+
+
+FAUST
+
+nicht mehr seiner mächtig.
+
+Fort! Ich tödte dich!
+
+
+WAGNER.
+Entsetzlich – schrecklich! – Weh', ich kann's nicht schauen!
+
+
+Er stürzt fort.
+
+
+
+
+
+
+
+
+
+
+
+3. Scene
+
+
+
+
+Dritte Scene.
+
+Faust. Der Fremde.
+
+
+
+FAUST
+
+indem er hinzustürzt, innehaltend.
+
+
+Er schläft! – Was ist es denn? Was liegt an ihm?
+Ein wildes Thier in seiner Sinne Taumel,
+
+
+
+Indem er ihn schaudernd betrachtet.
+
+
+
+Entstellt und gräßlich! – Und er sollte schwelgen
+Am Lebensquelle, wo ich glühend dürste? –
+Er sollte zu dir eilen –
+
+
+
+Indem er das Bild betrachtet.
+
+
+
+Ha, zu dir!
+An diesen Rosenlippen Wonne trinken,
+An diese Brust – in diese weichen Arme –
+
+
+
+Außer sich.
+
+
+
+Die ganze Hölle brennt in meinem Busen!
+Das Ungeheuer – ha, hinweg mit ihm!
+
+
+
+Er führt einen kräftigen Dolchstoß auf die Brust des Fremden.
+
+
+
+
+FREMDER
+
+richtet sich ruhig auf.
+
+Nun denn, was soll's?
+
+
+FAUST
+
+indem er wild einen noch kräftigern Stoß führt.
+
+Hinab mit dir zur Hölle!
+
+
+FREMDER
+
+gelassen.
+
+Das hat noch Zeit! – Was stoßt ihr auf mich ein?
+
+
+
+FAUST
+
+betäubt zurückstürzend.
+
+Ha, was ist das?
+
+
+FREMDER
+
+wie vorher.
+
+Ermorden wollt ihr mich?
+
+
+FAUST
+
+ihn anstarrend, indem der Dolch seiner Hand entsinkt.
+
+Das ist –
+
+
+FREMDER
+
+einfallend.
+
+
+Unmöglich Ding, mein guter Freund!
+Seht, ich bin fest – vor Hieb und Schuß und Stich;
+Auch Gift verschlägt mir nichts – ich kann's genießen,
+Und trinke mich darin oft wieder nüchtern
+Von starken Räuschen! –
+
+
+
+FAUST
+
+faßt sich an die Stirne.
+
+Ha, wo bin ich denn?
+
+
+FREMDER.
+Die Sache kostet freilich nichts Geringes! –
+
+
+Gelassen fragend.
+
+
+
+Doch redet mir – was hab' ich euch gethan?
+Wir tranken ja ganz friedlich mit einander!
+
+
+
+FAUST
+
+noch betäubt.
+
+Ich weiß es nicht!
+
+
+
+FREMDER
+
+lächelnd, indem er das Bild in seiner Hand sieht.
+
+
+Aha! Jetzt merk' ich schon!
+Helenens Feueraugen – so, mein Freund? –
+Warum ließ ich euch auch das Bildniß schauen;
+Hat mir's doch oft schon Händel zugezogen!
+
+
+
+FAUST
+
+faßt glühend seine Hand.
+
+Ihr liebt sie?
+
+
+FREMDER.
+Pah! Erst kommt der Wein – dann sie!
+
+
+FAUST.
+Ich laß euch schwelgen!
+
+
+FREMDER.
+
+Sprecht nur bei mir ein!
+Ich führe einen ausgesuchten Keller!
+
+
+
+FAUST
+
+stürmischer.
+
+Ha, fordert alles denn; – ihr kennt mich nicht!
+
+
+FREMDER
+
+mit einem grinsenden Lächeln.
+
+Gilt's hier denn einen Handel um mein Weib?
+
+
+FAUST
+
+betäubt und außer sich.
+
+Beim Teufel!
+
+
+
+FREMDER.
+
+Ah! das ist ein andres Wort!
+Das respectir' ich! –
+
+
+
+Nach seiner linken Hand deutend.
+
+
+
+Laßt die Hand doch sehen!
+Der Schnitt durch's Leben –
+
+
+
+FAUST.
+Ha!
+
+
+FREMDER
+
+ausrufend.
+
+
+Wir sind ja Brüder
+Des Feuerbundes! –
+
+
+
+Hält ihm seine eigene Linke hin.
+
+
+
+Mein Mysterium
+Dasselbe Stigma! –
+
+
+
+Indem er seine Hand gewaltsam faßt.
+
+
+
+Wir sind unzertrennlich
+In Zeit und Ewigkeit!
+
+
+
+FAUST
+
+schaudernd, indem er die Hand loszureißen bemüht ist.
+
+Das brennt wie Gluth!
+
+
+FREMDER.
+Ein Weg, Ein Ziel!
+
+
+FAUST.
+Ha, fort, ha, fort – entsetzlich?
+
+
+
+FREMDER
+
+lächelnd.
+
+
+
+Solamen miserum – ihr kennt das Sprichwort!
+Das Stigma – seht, deßhalb bin ich auch fest
+Und unverletzlich – zeigtet ihr mir's früher,
+So stand ich euch, dem Feuerbruder, Rede –
+Mein Weib betreffend!
+
+
+
+FAUST.
+Ha!
+
+
+FREMDER.
+
+Seid nur gelassen!
+Ich log die Sache! –
+
+
+
+Auf das Bild deutend.
+
+
+
+Sie ist unvermählt; –
+Mich reizt kein Weib! – Ihr Gatte heiß' ich nur –
+Den Preis – vor wilden Stürmern zu beschützen;
+Dieweil von hohem Stamme sie entsprossen,
+Doch aus der linken Seite – ihr versteht mich? –
+Dem Feuerbruder kann ich nichts verhelen; –
+Ich selbst bin nur ihr Führer und Begleiter!
+
+
+
+FAUST
+
+außer sich.
+
+Ist's möglich!?
+
+
+FREMDER.
+
+Ja, sie ist noch eine Knospe,
+
+
+Dem Heißgeliebten einst sich zu entfalten;
+Noch unberührt ist dieser Rosenmund,
+Sich nach des ersten Kusses Wonne schnend,
+Und diese Schwanenbrust in Liebe wallend,
+Ward nie entweiht von einer fremden Lippe!
+
+
+
+FAUST
+
+glühend.
+
+Beim Himmel denn! – so laß uns hin – zu ihr!
+
+
+FREMDER
+
+schnell und wild.
+
+Ha, Fluch und –
+
+
+Indem er ihn zurückreißt.
+
+
+
+
+FAUST.
+Weh! Was giebt es?
+
+
+FREMDER.
+
+Hast du nicht
+Die Worte abgeschworen – in der Taufe? – –
+
+
+
+Heimlich und eindringend.
+
+
+
+Du sollst sie sehen – schlummernd hingegossen –
+Die Lüfte frei mit ihren Reizen buhlend –
+Die Rosenknospe unter Rosen blühend –! –
+
+
+
+Tief und leise.
+
+
+Doch lästere zuvor –!
+
+
+FAUST
+
+sich kühn emporreißend.
+
+Ha, nimmer! – nein!!
+
+
+
+FREMDER
+
+in sich hinein.
+
+Verdammter –!
+
+
+FAUST
+
+heftig.
+
+Was?
+
+
+FREMDER
+
+sehr kalt und lächelnd.
+
+
+Dein Schicksal sollst du lästern,
+Weil schon im Werden dich es von ihr trennte! –
+
+
+
+FAUST
+
+aufstürmend.
+
+
+Mich trennen? – ha, sie lebt! Das ist genug! –
+Sie zu erschaffen hatt' ich keine Macht!
+Doch jetzt sie zu erringen weiß ich Mittel!
+Ja, thronte sie hoch auf dem Kaukasus,
+Müßt' ich vom Nordpol her sie zu mir bannen –
+
+
+
+Heftig und wird.
+
+
+
+Ein Wink von mir – es öffnet sich mein Buch –
+Wie auch die Zeichen schrecklich sich gestalten –
+Ich habe Muth – und mir gehorcht die Hölle!
+
+
+
+FREMDER
+
+sucht ein unwillkührliches Gransen zu verbergen.
+
+Genug – – laß das bewenden!
+
+
+Er blickt ihn mit heimlicher Wildheit an.
+
+
+
+
+FAUST
+
+sieht ihn kühn an.
+
+
+Du bist furchtsam? –
+
+
+Dich schrecken noch die wild verschlungnen Zeichen? –
+
+
+
+Rasch.
+
+
+Soll ich beherzt dich machen!?
+
+
+FREMDER
+
+drängt ihn bebend zurück.
+
+
+Halte ein! –
+Ist es doch hier an einem Wink genug;
+Beweg die Hand, und wir sind schon am Ziele!
+
+
+
+FAUST
+
+mit Bedeutung.
+
+Ihr reis't auf meine Weise?
+
+
+FREMDER
+
+lächelnd.
+
+
+Nun – versteht sich! –
+Mein Roß ist nur ein Blendwerk für Profane!
+
+
+
+FAUST
+
+hastig und kühn.
+
+
+Ha denn, so laß uns auf den Sturmwind schwingen,
+In wildem Fluge zu ihr hinzudringen!
+
+
+
+
+
+
+
+
+
+4. Scene
+
+
+
+
+Vierte Scene.
+
+Die Bühne verwandelt sich in diesem Augenblicke wie durch einen Zauberschlag in eine heitere Frühlingsgegend. Aus dem Boden steigt dicht vor Faust, vermöge einer Versenkung, eine Rasenbank empor, auf der Helene von einem Schleier bedeckt schlummernd ruht. Von oben fallen aus den Soffitten Blumengultlanden herab, die eine Laube über derselben bilden. 
+Eine ferne Musik von sanften Blasinstrumenten läßt sich hören.
+
+
+Faust steht entzückt. Der Fremde blickt ihn lauschend von der Seite an.
+
+
+
+Eine verhältnißmäßige Pause.
+
+
+
+Der Fremde tritt hinzu und hebt langsam den Schleier von der Schlummernden, die in ein feuerfarbenes idealisches Gewand gekleidet, unbeweglich liegen bleibt.
+
+
+Faust breitet in einer Entzückung noch sprachlos die Arme aus.
+
+
+Der Fremde beobachtet ihn seitwärts mit einem höhnisch stechenden Lächeln, und geht dann leise ab.
+
+
+
+FAUST
+
+allmählig der Worte mächtig werdend.
+
+
+Bin ich's noch selbst? – Ha, sind es meine Augen,
+Die, wie die Erde die Sonnenflammen,
+Alle Lebensreize zusammen
+Durstig und glühend in sich saugen! –
+Ist diese Brust, ist dieses Herz noch mein?
+Zerfließt nicht alles schnell wie Zauberschein?
+Und wird dies Leben wahrlich Stand mir halten,
+Mit seinen überirdischen Gewalten?
+
+
+
+Die Schlummernde mit heimlicher Sehnsucht betrachtend.
+
+
+
+
+Du lebst! – ha denn – jetzt fühl' ich mich auch leben!
+Erstanden bin ich aus der alten Nacht;
+Mein eignes Herz hast du mir neu gegeben,
+
+
+Durch dich ist meine Flamme angefacht;
+Den Himmel brauch' ich nicht mehr zu erstreben,
+Die Erde glüht ringsum in Liebespracht!
+
+
+
+Wild und kühn.
+
+
+
+Das Feuer brennt! – In dir bin ich gefangen;
+Jetzt kenn' ich selbst mich und mein wild Verlangen!
+
+
+
+Er schaut begeistert um sich.
+
+
+
+Ein neuer Frühling glüht in allen Zweigen,
+Die Nachtigallen jubeln ihren Chor;
+Wie sich die Blüthen liebend zu mir neigen!
+Das Herz der Erde drängt sich heiß hervor,
+Und läßt sein Feuerblut hoch aufwärts steigen,
+In grünen Flammen wogt der Wald empor;
+Das volle Leben prangt im höchsten Glanze,
+Nichts reizt allein – verbunden schwelgt das Ganze!
+
+
+
+Er beugt sich glühend zu ihr nieder.
+
+
+
+Ha, wie die Purpurwangen flammend glühen,
+Ein heißer Traum des Busens Rosen hebt!
+Wie auf zum Liebeskuß die Lippen blühen,
+Das Herz in heimlich süßer Sehnsucht bebt!
+O laß das Schattenbild dir nicht entfliehen;
+Faust brennt für dich, und sein Verlangen lebt!
+
+
+
+Er knieet außer sich vor ihr nieder.
+
+
+
+
+Erwache! – Wehe mir –! Siehst du's zerrinnen?
+
+
+HELENE
+
+schlägt die Augen auf, und streckt ihm die Arme entgegen.
+
+O weiche nicht, du holder Traum, von hinnen!
+
+
+Während dieser Attitüde fällt der Vorhang.
+
+
+
+
+
+
+
+
+
+
+
+4. Akt
+
+
+
+
+
+1. Scene
+
+
+
+
+Erste Scene.
+
+Faust. Der Fremde.
+
+
+
+FREMDER
+
+kalt.
+
+Ich sagte nichts, als ihre eignen Worte!
+
+
+FAUST
+
+greift ihn heftig beim Arme.
+
+Ha, Mensch!
+
+
+FREMDER.
+Seid nicht so wild; – ist's meine Schuld?
+
+
+FAUST.
+
+Zum dritten Male schon zurückgewiesen!
+Ich trag's nicht länger – länger nicht!
+
+
+
+FREMDER
+
+kalt fragend.
+
+Nun denn?
+
+
+
+FAUST.
+
+Ein Wort von mir – ich brauche meine Macht,
+Und sie muß mein seyn!
+
+
+
+FREMDER
+
+beißend.
+
+
+Herrlicher Triumph –
+Erzwung'ne Liebe – – durch der Hölle Beistand –!
+Und ihr steht da, in Körperschönheit blühend,
+Der feurige, der Faust!
+
+
+
+FAUST
+
+beschämt und glühend.
+
+
+Schau' mich nicht an!
+Ich lästerte mich selbst! –
+
+
+
+Wieder emporstürmend.
+
+
+
+Doch trag' ich's nicht!
+Beim Abgrund, länger nicht!
+
+
+
+FREMDER
+
+schneidend kalt.
+
+So ändert es!
+
+
+FAUST.
+
+Steh' nicht so schroff und unzugänglich vor mir! –
+Wer bist du? Wer ist sie? – Was liegt im Wege?
+
+
+
+FREMDER.
+
+Drei Fragen – und in Einem Athemzuge! –
+Wer ich bin? – Eine Altagskreatur,
+
+
+Am Thore hieß ich Ritter Ladislaw,
+Das ist genug, wenn ihr auf Namen haltet!
+Was sie betrifft, so darf ich mehr nicht sagen,
+Als was ihr wißt: – sie stammt von linker Hand!
+Das weitere bewacht ein Doppelschwur,
+Den ich bei dem –!!
+
+
+
+Mit einem wüsten Blicke gen Himmel deutend, ohne empor zu schauen.
+
+
+
+und bei dem Teufel drunten,
+Zu größrer Sicherheit ablegen mußte,
+Weil man mich nicht ganz bibelfest vermeinte; –
+
+
+
+Mit einem tückischen Lachen die linke Hand ausstreckend.
+
+
+Was denn auch eintraf – wie Figura zeigt!
+
+
+FAUST
+
+dringend.
+
+Doch warum will sie mich nicht wieder sehen?
+
+
+FREMDER
+
+die Achsel zuckend.
+
+Wer weiß!
+
+
+FAUST
+
+aufstürmend.
+
+
+Ha, ist ein anderer vielleicht
+An meiner Statt beglückt – – ein Nebenbuhler!!
+
+
+
+FREMDER.
+Ei, nicht doch!
+
+
+
+FAUST.
+
+Rede! Tödte mich nicht lächelnd!
+Ist er's?
+
+
+
+Fremder lächelt fort und scheint über etwas nachzusinnen.
+
+
+
+
+FAUST
+
+emporfahrend.
+
+Wer sprach hier Mord!?
+
+
+FREMDER
+
+wie vorher.
+
+Ich war es nicht!
+
+
+FAUST
+
+blickt ihn schaudernd an.
+
+Dein Lächeln brennt! – – Hinweg die Augen!
+
+
+FREMDER
+
+lauernd.
+
+Nun?
+
+
+FAUST
+
+aufhorchend.
+
+Zum zweiten Male – – Mord!
+
+
+Wild.
+
+
+
+Was soll der Zuruf! –
+Ein Nebenbuhler!? – Nenn' mir seinen Namen! –
+
+
+
+Mit tiefer dumpfer Wuth.
+
+
+Ich würge ihn! –
+
+
+FREMDER
+
+in sich hinein.
+
+
+So ein Alltagesmord!
+Der wiegt zu leicht für dich! –
+
+
+
+Laut und ruhig.
+
+
+
+
+
+Was stürmt ihr doch?
+Sie liebte außer euch nie einen andern! –
+Ihr selbst vielleicht seid euer Nebenbuhler?!
+
+
+
+FAUST
+
+eindringend, indem er ihn halb umfaßt.
+
+
+O rede! – Schling mich nicht in diese Räthsel,
+Die ich vergeblich zu entwirren strebe;
+Sie muß ich finden, oder mich verlieren!
+
+
+
+FREMDER
+
+in einem erzählenden Tone.
+
+
+Sie hängt das Köpfchen, seufzt aus tiefer Brust,
+Die Feueraugen ziehen feuchten Thau,
+Der Sonne gleich, die unter Wetterwolken; –
+Ihr Schritt ist abgemessen, schwer und langsam,
+Und wenn sie düster oft vor sich hinausstarrt,
+Sind ihre Blicke voll so tiefen Grames,
+Als hätte sie um eine Welt zu trauern!
+
+
+
+Abbrechend und wie in einem Nachdenken sagend.
+
+
+Ich fürchte, daß sie mehr von euch erfahren!!
+
+
+FAUST
+
+ausschreckend.
+
+Von mir – ha, sprecht! – Von dem verfluchten Bündniß?!
+
+
+Zerschmettert.
+
+
+O wehe – wehe mir!!
+
+
+
+FREMDER
+
+rasch und aufzürnend.
+
+
+Das mein' ich nicht!! –
+Was sicht euch an – ha, seid ihr ganz von Sinnen?
+
+
+
+FAUST
+
+außer sich.
+
+So gieb mir Wahrheit!
+
+
+FREMDER
+
+indem er ihn wild zur Seitenthür hinstößt.
+
+Fragt sie selbst – zum Teufel!
+
+
+Er geht ab.
+
+
+
+
+
+
+
+
+
+2. Scene
+
+
+
+
+Zweite Scene.
+
+Als Faust in die Thür dringen will, tritt ihm Helene entgegen.
+
+
+
+FAUST
+
+ausrufend.
+
+Da bist du! Endlich! Endlich!
+
+
+HELENE
+
+die zurückfliehen will.
+
+Fort! Hinweg!
+
+
+FAUST
+
+tritt ihr in den Weg.
+
+
+Nein, nimmer laß ich wieder dich von hinnen; –
+In deine Feueraugen muß ich schauen!
+
+
+
+HELENE
+
+schwach ankämpfend.
+
+Wer hat mir das gethan?!
+
+
+FAUST.
+
+O konntest du
+
+
+Dem Faust so lange deinen Blick entziehen?
+Du, die du seine Welt ihm bist!
+
+
+
+HELENE
+
+ihn von sich drängend.
+
+Hinweg!
+
+
+FAUST.
+
+Drei Tage mußt' ich deinen Anblick meiden!
+Ward ich zurückgescheucht von dieser Schwelle,
+Ging zürnend fort und kehrte glühend wieder!
+Drei Tage litt ich alle Höllenqualen;
+Die wilde Wuth, der tiefe inn're Groll,
+Der Eifersucht verzehrend heiße Flammen,
+Sie tobten wechselnd hier in meinem Busen! –
+Und du, du ließest kalt den Faust verderben!
+
+
+
+Er umschlingt sie wild.
+
+
+
+
+HELENE
+
+außer sich.
+
+Wer reißt mich fort von ihm!
+
+
+FAUST
+
+glühend.
+
+
+Der Himmel nicht,
+Und nicht die ganze Macht der untern Hölle! –
+Du schautest in mein Herz – drum weißt du auch,
+Was du mir bist, – – die Seele meines Lebens.
+Dein Blick der feuerhelle Sonnenspiegel,
+Aus dem die herrliche Natur zurückglänzt,
+
+
+Dein Ton die süße Melodie der Liebe,
+Zu meines Busens innerm Saitenspiele! –
+In dir nur leb' ich – mein muß ich dich wissen;
+Entfliehst du mir, ist Faust sich selbst entrissen!
+
+
+
+HELENE
+
+bedeckt mit den Händen ihr Gesicht.
+
+Und dennoch – – Wehe mir!
+
+
+FAUST
+
+indem er ihre Hand hinwegzieht.
+
+Du weinst, Helene?
+
+
+Dringender.
+
+
+Du weinst!
+
+
+HELENE
+
+sucht sich ihm zu entwinden.
+
+Hinweg!
+
+
+FAUST
+
+wie vorher.
+
+Wem gelten diese Thränen? –
+
+
+Sie schwärmerisch anschauend.
+
+
+
+Wie sie, Juwelen gleich, im Auge glänzen,
+Mein Bild im flüssigen Krystall erzittert! – –
+Wem weinst du sie?
+
+
+
+HELENE
+
+sich abwendend.
+
+Unglücklicher – mir selber!
+
+
+FAUST
+
+in steigender Leidenschaft.
+
+Dir selber?
+
+
+
+HELENE.
+Weil ich liebe – – Weh, was sprach ich!
+
+
+FAUST.
+Du liebst?!
+
+
+HELENE.
+Hinweg!
+
+
+FAUST
+
+in der höchsten Bewegung.
+
+Ist's möglich – Gott des Himmels!
+
+
+HELENE
+
+bei Fausts letzten Worten scheint sich ihr Blick zu entflammen und sie stößt ihn wild und heftig zurück.
+
+Ha, fort von mir!!
+
+
+FAUST
+
+in leidenschaftlicher Betäubung.
+
+Helene?!
+
+
+HELENE.
+Fort, hinweg!
+
+
+Wie eine Furie ihn anschauend.
+
+
+Ich hasse dich –! Ha, Fluch dir und Verderben!!
+
+
+FAUST
+
+schaudernd.
+
+
+Die Hölle – schaut mich an –! – Dein Blick
+– – er mordet –
+
+
+
+Mit steigendem Entsetzen.
+
+
+Verzehrt – vernichtet – – Wehe mir!!
+
+
+
+HELENE
+
+plötzlich verändert, sich zu ihm mit dem Ausdrucke trauernder Liebe neigend.
+
+O Faust!!
+
+
+FAUST
+
+sich wie aus einer Betäubung erholend.
+
+Der holde Ton – das bist du selbst –!
+
+
+HELENE
+
+wie vorher.
+
+
+Warum
+Hast du mir das gethan!
+
+
+
+FAUST
+
+sich über die Stirne fahrend mit heimlichem Grausen.
+
+
+Welch Schreckensbild
+Schob meine heiße Phantasie dir unter!
+Die Haare Schlangen – Höllenglut die Augen –
+Ich träumte wild – –
+
+
+
+Indem er sie sehnsuchtsvoll anblickt.
+
+
+Doch du, du bist's, Helene!
+
+
+HELENE
+
+aus tiefer Brust.
+
+
+O lerne immer meine Züge hassen,
+Hat uns das Schicksal feindlich doch getrennt!
+
+
+
+FAUST.
+Getrennt, Helene –! Weh, was spricht dein Mund?!
+
+
+HELENE
+
+in steigender wilder lyrischer Begeisterung.
+
+
+Du wußtest es; und warfst die Aufruhrsflammen
+
+
+In dieses Herz, das Lieb' und Haß vereint,
+Zwei Furien, die Fackeln um mich schwangen,
+Mit mir hinaus in's wilde Leben drangen,
+Und die Natur, vor meinem Blick entbrannt,
+Zum Daseyn rief, was nur mein Traum gekannt!
+Da strahlten um mich her des Lenzes Blüthen,
+Die Berge und die tiefen Ströme glühten,
+Es wallte liebend auf das junge Leben,
+Und wollte mir den heißen Brautkuß geben. –
+
+
+
+Mit ausgebreiteten Armen.
+
+
+
+Du nahtest meinem sehnsuchtsvollen Blick!!
+
+
+Indem sie ihn anschaut, scheint sie plötzlich zusammen zu schaudern.
+
+
+
+Und wild reißt mich die Furie zurück!
+Ich sehe zwischen uns sich Felsen thürmen,
+Nacht wird es, und die schwarzen Lüfte stürmen,
+Die Erde bebt, die Feuerwolken zünden,
+Die Donner toben – – wo soll ich dich finden?
+Im wilden Aufruhr läßt du mich verderben!
+Weh mir! – ich soll verzweifeln, lieben – sterben!!
+
+
+
+Sie sinkt erschöpft an seine Brust.
+
+
+
+
+
+Er hält sie im linken Arme aufrecht und starrt angstvoll zu ihr nieder.
+
+
+Dein Antlitz bleicht! –
+
+
+Streckt die Rechte beschwörend zum Himmel.
+
+
+O rette sie mir, Schöpfer!!
+
+
+Ein heftiger Blitz und krachender Donnerschlag.
+
+
+
+
+HELENE
+
+fährt mit einem Schrei krampfhaft zusammen.
+
+Weh! Wehe mir!
+
+
+Sie stürzt wie vernichtet zu Boden.
+
+
+
+
+FAUST
+
+in gewaltigem Schreck.
+
+
+Was ist – der Erdbau wankt! –
+Der Feuerstrahl hat sie zerschmettert – – Wehe!
+
+
+
+Aufschreiend.
+
+
+Da liegt sie todt – entseelt zu meinen Füßen!
+
+
+Er knieet bei ihr nieder.
+
+
+Helene, höre mich!! –
+
+
+Er beugt sich verzweifelnd über sie.
+
+
+
+
+HELENE
+
+richtet sich langsam mit einem scheuen Blicke empor.
+
+– Zürnt er! – noch droben?!
+
+
+FAUST
+
+betäubt.
+
+Wen meinst du?
+
+
+
+HELENE
+
+dumpf, indem sie in die Höhe deutet, ohne das wilde Auge erheben zu können.
+
+
+Ihn!! – –
+
+
+FAUST
+
+richtet sie mit Anstrengung auf.
+
+
+Der Schreck hat dich betäubt! –
+Der Wetterstrahl war furchtbar!
+
+
+
+HELENE
+
+in dem Rückgefühle eines erlittenen fürchterlichen Schmerzes, dumpf und in sich hinein.
+
+Fast vernichtend!!
+
+
+FAUST
+
+sie beruhigend.
+
+
+Doch hat in ihm die Wolke sich erschöpft! –
+Erhole dich! –
+
+
+
+HELENE
+
+zuckend, und in gewaltsamer Anstrengung mit innerm Trotze.
+
+Ich will's!
+
+
+FAUST
+
+blickt ihr ins Auge.
+
+Die Gluth kehrt wieder!
+
+
+HELENE
+
+mit noch größerer Anstrengung, von Faust ungehört.
+
+Trotz gegen Macht! – Ich reiße ihn hinunter!!
+
+
+FAUST
+
+will sie umschlingen.
+
+Dein Auge flammt der Liebe wildes Feuer!
+
+
+HELENE
+
+heftig gegen ihn gekehrt.
+
+Zurück von mir!
+
+
+
+FAUST
+
+betrachtet sie erhitzt.
+
+Wie dich der Zorn verschönt!
+
+
+HELENE
+
+im Anscheine einer großen Leidenschaft.
+
+
+Genügte dir er nicht, mich zu vernichten,
+Daß du in meinem Schmerz noch schwelgen willst?
+
+
+
+FAUST.
+Was that ich dir?
+
+
+HELENE
+
+kehrt sich von ihm ab.
+
+Ha, fort – hinweg, du Heuchler!
+
+
+FAUST
+
+heftig.
+
+Nur sterbend laß ich dich!
+
+
+HELENE
+
+zurücktretend und mit großer Betonung.
+
+Du hast ein Weib!!
+
+
+FAUST
+
+stürzt zurück.
+
+
+Helene!! –
+
+
+HELENE
+
+mit großem Schmerze.
+
+Weh' – ein Weib! – und täuschtest mich!
+
+
+FAUST
+
+außer sich.
+
+O nimmer! nimmer!
+
+
+HELENE
+
+rasch und feurig sich zu ihm wendend.
+
+Hat man mich betrogen?
+
+
+FAUST
+
+dringend.
+
+Ich liebe dich allein!
+
+
+
+HELENE
+
+wie vorher.
+
+Du hast kein Weib?!
+
+
+FAUST
+
+betäubt.
+
+Weil ich dich liebe – keins!
+
+
+HELENE.
+
+Ha, Doppelzüngler!
+Erst mußtest du mein ganzes Herz ergründen,
+Und nun, zu spät, lern' ich das deine kennen! –
+Wohlan – du hast gesiegt; – doch nichts errungen: –
+Ich liebe dich –! – Allein ich weiß zu sterben;
+Leb' wohl! – Dein Auge sieht mich nimmer wieder!
+
+
+
+Sie will hinausfliehen.
+
+
+
+
+FAUST
+
+zieht sie gewaltsam zurück.
+
+Ha, wer entreißt dich mir? –
+
+
+HELENE
+
+mit scharfer Betonung.
+
+Sie – oder Ich!
+
+
+FAUST
+
+entschlossen und heftig.
+
+Ha, Sie denn – Sie!
+
+
+HELENE
+
+mit einem heimlichen wilden Ausdrucke.
+
+Du wolltest mir sie opfern?
+
+
+FAUST
+
+wild.
+
+Dem Feuer! – Dir!! –
+
+
+Er umfaßt sie halb knieend und beugt sich auf ihre Hand.
+
+
+
+
+
+HELENE
+
+mit einem zärtlichen Tone redend, indeß ihr Auge, von ihm nicht gesehen, wild und stechend auf ihn niederschaut, und sie die freie Hand, als wollte sie ihn damit niederschleudern, über seinem Haupte ausgestreckt hält.
+
+O mein geliebter Faust!
+
+
+FAUST
+
+reißt sich entschlossen in die Höhe.
+
+Ich trenne unser Band!
+
+
+HELENE
+
+langsam und bedeutend.
+
+Du trennst es – sicher?
+
+
+FAUST
+
+wüst.
+
+
+Und was verliert sie auch an meiner Hand!
+Sie hat mich nie erfühlt, nie aufgefunden
+In meines Herzens Tiefen! –
+
+
+
+Nachdenkender.
+
+
+
+Freilich war sie
+So redlich treu – die Käthe – fromm – und gut –!
+
+
+
+Rascher.
+
+
+
+Das ist vorbei! – Auch will ich's ihr vergelten,
+Und sie soll reich und ohne Sorgen leben!
+Ja –
+
+
+
+HELENE
+
+mit einem tiefen Tone einfallend.
+
+Leben?
+
+
+
+FAUST
+
+mit wildem Ausdrucke.
+
+
+Hat sie's doch um mich verdient,
+Mit mancher Angst und Müh' – bei Nacht und Tage! –
+Sie ist recht gut! –
+
+
+
+HELENE
+
+mit wilder Leidenschaft.
+
+Fort denn! Ich bin verloren!
+
+
+FAUST
+
+ergreift ihre Hand mit ängstlicher Hast.
+
+Helene!
+
+
+HELENE
+
+wie vorher.
+
+Fort! – Hinweg, Entsetzlicher!
+
+
+FAUST.
+Ich will sie nimmer, nimmer wiedersehen!
+
+
+HELENE.
+
+Ha, lebt sie doch! Das ist mir schon genug!
+Selbst wenn ihr Schatten nur noch für dich glühte,
+Ich trüg' es nicht in wilder Eifersucht! –
+
+
+
+Heftiger.
+
+
+
+Ha, triumphire denn – du kennst mein Herz!
+Ich liebe dich – allein ich weiß zu sterben;
+Denn ungetheilt wie in mir mein Verlangen,
+Muß ich auch ungetheilt dich selbst empfangen,
+
+
+Was dich begehrt, ward mir zum Haß geboren –
+Sie lebt und liebt – ich bin für dich verloren!
+
+
+
+Sie stürzt fort.
+
+
+
+
+
+
+
+
+
+3. Scene
+
+
+
+
+Dritte Scene.
+
+FAUST
+
+allein, in dumpfer Betäubung.
+
+
+Verloren?! – Nimmer!! – Ha, auch ich kann hassen! –
+Und hab' ich sie doch nie wahrhaft geliebt!
+Gewohnheit war's – Bedürfniß der Natur,
+Die Langeweile, die mich zu ihr trieb!
+Nichts weiter – –
+
+
+
+Mit innerer Wildheit.
+
+
+
+Ha, auch ich kann glühend hassen,
+Was in den Weg mir tritt nach meinem –
+
+
+
+Unwillkührlich schaudernd.
+
+
+
+Himmel –!
+Was will der Frost, der durch's Gebein mir rieselt? –
+Bin ich doch Meister alles tiefen Wissens,
+Und kenne der Natur geheime Kräfte,
+Die in dem Schooß gestalten und zerstören!
+Kann ich denn in den Lebensgang nicht greifen,
+
+
+Daß er sich rascher hin zum Ziele förd're?
+
+
+
+Kühn vortretend.
+
+
+Ihn hemmen kann ich! – – Doch das heißt ermorden!!
+
+
+Nachsinnender.
+
+
+
+Ermorden –? Läßt das Leben sich ermorden?
+Der Name schreckt nur; – wenn man's tiefer nimmt,
+Ist Tod Zersetzung bloß für neue Keime,
+Ja selbst der Mord kann sich mit Liebe paaren,
+Denn er befreit den eingeschleßnen Lichtstrahl
+Zu seiner Sonne hin, indeß der Erdstoff
+Dem nächsten Frühling schon entgegengährt,
+Und Farben mischt für seine Feuerblüthen! –
+
+
+
+In ein tückisches Gelächter ausbrechend.
+
+
+
+Haha! Das ist Metaphysik der Hölle!
+Doch unumstößlich, und so mit –
+
+
+
+Wild und fest.
+
+
+
+soll's seyn!! –
+Was nützt ihr auch das Leben, und sie ihm?
+Der Mutter Wonne blieb ihr ja versagt,
+Und kalt empfängt sie alle andern Freuden,
+Wo jene heiß in wilden Flammen glüht; –
+
+
+Für eine Sünde tausch' ich dich zu leicht! –
+
+
+
+Aufstürmend.
+
+
+
+Ist's doch die erste nur – sie soll geschehen!
+Wer Kühnes wagt, muß hinter sich nicht sehen!
+
+
+
+Er stürzt im wilden Aufruhre ab.
+
+
+
+
+
+
+
+
+
+4. Scene
+
+
+
+
+Vierte Scene.
+
+Fausts Zimmer wie im ersten Acte. Es ist alles noch so wie damals geordnet. Auf dem Tische rechter Hand befindet sich unter andern Sachen das Feuergewehr und das Giftfläschchen.
+
+
+Käthe und Diether Faust treten auf.
+
+
+
+DIETHER.
+Was willst du hier?
+
+
+KÄTHE
+
+in einem ganz weißen Brautkleide festlich geschmückt und die Myrthenkrone im Haare.
+
+Hier will ich ihn erwarten!
+
+
+DIETHER
+
+immer tief und finster.
+
+In seiner Werkstatt!
+
+
+KÄTHE.
+
+Dieses alte Zimmer
+Blieb unverändert doch, und mahnt an's Ehmals.
+
+
+
+DIETHER.
+Dein Ton ist heut so ernst und feierlich!
+
+
+KÄTHE
+
+in sich versunken.
+
+Das Brautkleid macht's!
+
+
+
+DIETHER.
+Was soll denn das bedeuten?
+
+
+KÄTHE.
+
+Ach, Vater, als ich heute früh erwachte,
+Da senkte mit dem Strahl der Morgensonne
+Gott wunderbare Hoffnung in mein Herz!
+War's doch des Faust Geburtstag, der mir anbrach,
+Und ihm hatt' ich die Freude aufgespart,
+Die lang verschwiegne Hoffnung zu enthüllen,
+Die mich mit heil'ger Liebe fromm durchdringt.
+Hoch festlich wollt' ich mich dazu bereiten,
+In jenem Kleide meinen Faust begrüßen,
+Worin er einst die Braut zum Altar führte,
+Und so sein Herz zum voraus mir gewinnen;
+Doch als der alte Schrein sich vor mir aufthat,
+Fand ich – mein Todtenhemd um's Kleid gewunden;
+Und jetzt erst dacht' ich an den frühern Vorsatz,
+Es nur im Sarge wieder anzulegen!
+
+
+
+DIETHER.
+Das ist recht düster!
+
+
+KÄTHE.
+
+Als ich's angethan,
+Durchfuhr mich auch ein so geheimer Schauer,
+
+
+Daß ich vor Frost am warmen Tage bebte;
+
+
+
+Tief erschüttert.
+
+
+Wär' es doch schrecklich, müßt' ich jetzo sterben!
+
+
+DIETHER
+
+faßt ergriffen ihre Hand.
+
+Mein Käthchen – bleibst bei deinem blinden Vater!
+
+
+KÄTHE.
+Es war nur Einbildung –
+
+
+Sucht sich von dem Gedanken loszumachen.
+
+
+
+geht schon vorüber! –
+Ist doch solch froher Augenblick mir nahe!
+
+
+
+DIETHER.
+Doch welche Hoffnung, Tochter –?
+
+
+KÄTHE
+
+aufglühend – sehr herzlich und dringend.
+
+
+Ihm zuerst!!
+
+
+DIETHER.
+Mit Gott denn –! – Aber wird's bei ihm gelingen?
+
+
+Hestig.
+
+
+O Käthe, er –
+
+
+KÄTHE
+
+mild einfallend.
+
+Fluch' jetzt ihm nicht, mein Vater!
+
+
+DIETHER
+
+wie vorher.
+
+Doch eine Buhlerin – – hast du's gehört –?
+
+
+
+KÄTHE
+
+mit tiefer Innigkeit.
+
+Ich werde sanst ihn wieder zu mir führen!
+
+
+DIETHER
+
+sich bekämpfend.
+
+So schweige ich!
+
+
+KÄTHE.
+
+Sein Schüler sucht ihn auf;
+Gewiß, er kommt, ich ließ ihn herzlich bitten!
+
+
+
+Faßt freundlich seine Hand.
+
+
+
+Laß mich allein mit ihm, mein guter Vater!
+Viel hab' ich zu ihm –
+
+
+
+Sehr bewegt abbrechend.
+
+
+
+Deines Alters Freuden,
+Die ganze Zukunft, meiner Liebe Glück,
+Sein ew'ges Heil beruht auf dieser Stunde!
+Drum laß allein mich –
+
+
+
+DIETHER.
+
+Nun – mit Gott, mein Kind!
+Ich will indessen drüben für dich beten!
+
+
+
+Käthe führt den Alten zur Seite ab.
+
+
+
+
+
+
+
+
+
+5. Scene
+
+
+
+
+Fünfte Scene.
+
+Wagner tritt von außen herein. –
+
+
+
+WAGNER.
+
+Find' ich doch niemand! – Hu, das alte Zimmer!
+
+
+Es sieht so schwarz wie eine Mördergrube! –
+Nein, Gott sei bei uns! – Noch hast du mich nicht!
+So lang' ich kann, will ich mich vor dir wahren!
+
+
+
+
+
+
+
+
+
+6. Scene
+
+
+
+
+Sechste Scene.
+
+Käthe zurückkehrend. Wagner.
+
+
+
+KÄTHE
+
+hastig.
+
+Ihr spracht den Herrn?
+
+
+WAGNER.
+
+Ja, ehrenfeste Frau,
+Er kam gerad von seiner Höllenbraut!
+
+
+
+KÄTHE
+
+sucht sich von einer fliegenden Angst zu befreien.
+
+Mir schwindelt's –
+
+
+Sie wankt.
+
+
+
+
+WAGNER.
+Setzt euch!
+
+
+KÄTHE.
+
+Nun ist's schon vorüber! –
+Was sagte er –?
+
+
+
+WAGNER.
+
+Erst schaut' er wild mich an,
+Und sprach dann dumpf: er sei schon auf dem Wege!
+
+
+Drauf jagt' es ihn wie Sturmwind vor mir her,
+Und als ich athemlos ins Haus gefolgt war,
+Traf ich ihn draußen auf der Vorderflur,
+Den schwarzen Hund mißhandelnd, daß er heulte,
+Und solche Schmerzenstöne hören ließ,
+Die mir fast menschliches Geschrei bedäuchten! –
+
+
+
+Aufhorchend.
+
+
+Das ist sein Schritt! –
+
+
+KÄTHE
+
+hastig.
+
+So geht – – ich danke euch!
+
+
+Wagner geht seitwärts ab.
+
+
+
+
+
+
+
+
+
+7. Scene
+
+
+
+
+Siebente Scene.
+
+Faust tritt von außen herein. Käthe.
+
+
+
+FAUST
+
+sieht sich wild und scheu um.
+
+Bist du allein?!
+
+
+KÄTHE
+
+herzlich; auf ihn zutretend.
+
+Ich bin's, mein lieber Faust!
+
+
+FAUST.
+Nicht gut! – Recht gut – so wollt' ich sagen!
+
+
+KÄTHE
+
+streicht ihn sanft über die Stirn.
+
+
+Wilder!
+Du bist erhitzt! –
+
+
+
+
+FAUST.
+
+Nein froh, und lust'ger Laune!
+Drum schaff mir Wein herbei! –
+
+
+
+KÄTHE.
+
+O, lieber Mann!
+Beruhige zuvor dein heißes Blut!
+
+
+
+FAUST
+
+heftig.
+
+
+Wein will ich – nicht Moral! Verschone mich!
+Das Predigen macht dich mir ganz verhaßt,
+
+
+
+Rasch und sich absichtlich gegen sie erhitzend.
+
+
+
+Du weißt nichts weiter und bist unerträglich
+In dieser Männerlaune – die mich ärgert!
+
+
+
+KÄTHE
+
+ihre Freundlichkeit verdoppelnd.
+
+
+O rede nur – will ich's doch gern verbessern,
+Was dich an mir verdrießt!
+
+
+
+FAUST
+
+wie vorher.
+
+
+Das bist du selbst!
+Du selbst machst mich so toll –! Drum Wein herbei!
+
+
+
+KÄTHE.
+Nur blicke sanft zuvor!
+
+
+FAUST
+
+wild.
+
+Gehorchst mir nicht?
+
+
+
+KÄTHE.
+
+Nur einen Blick der Liebe für dein Weib,
+Hab' ich doch dieses Tages lang geharrt!
+
+
+
+FAUST
+
+auf den Boden stampfend.
+
+In's Teufels Namen – Wein! –
+
+
+KÄTHE
+
+legt die Hand unterwürfig auf die Brust.
+
+Vergieb, mein Herr!
+
+
+
+
+
+
+
+
+8. Scene
+
+
+
+
+Achte Scene.
+
+FAUST
+
+allein; er taumelt an den Tisch rechter Hand.
+
+Wo ist es denn –?
+
+
+Ergreift das Fläschchen.
+
+
+
+Ha, hier – hier hab' ich dich,
+Du Quintessenz von allen Todessäften,
+Denn jeder Tropfen lös't ein Leben auf!
+
+
+
+Er verbirgt es im Busen; dann schaudert er zusammen.
+
+
+
+Was zittre ich so furchtsam wie ein Knabe?
+Ist's doch – die erste nur! – drei bleiben übrig;
+Und bis zur letzten hab' ich Zeit genug! –
+
+
+
+
+
+
+
+
+
+
+9. Scene
+
+
+
+
+Neunte Scene.
+
+Käthe kehrt zurück mit einer Weinkanne und zwei Pokalen. Faust.
+
+
+
+KÄTHE
+
+sanft und mit Unterwürfigkeit.
+
+Mein lieber Herr!
+
+
+FAUST
+
+sucht sich immer mehr gegen sie aufzureizen.
+
+Ich hasse sklavisch Wesen!
+
+
+KÄTHE.
+Den vor'gen Ungehorsam sollt' es strafen!
+
+
+FAUST
+
+wild.
+
+Nur Heuchelei dazu? – So ist das Weib!
+
+
+KÄTHE
+
+aus tiefer Brust.
+
+Ich halte deinem Zorn geduldig still!
+
+
+FAUST.
+Den Wein!
+
+
+KÄTHE
+
+mit großer Innigkeit.
+
+Doch wirst du wieder milde werden!
+
+
+Faust trinkt hastig und viel, während sie, wie vorher, fortfährt.
+
+
+Ich bitte dich!
+
+
+FAUST
+
+hält ihr störrisch den Becher entgegen.
+
+Mehr Wein!
+
+
+
+KÄTHE
+
+indem sie ängstlich eingießt.
+
+O lieber Faust!
+
+
+FAUST.
+Laß das! Hinweg! –
+
+
+Nachdem er getrunken.
+
+
+Jetzt wird mir wohl und glühend!
+
+
+In einer Betäubung wild auflachend.
+
+
+Haha! – jetzt soll's –
+
+
+Er gießt rasch und mit einer Wendung das Fläschchen in den zweiten Pokal, dann blickt er scheu auf Käthen.
+
+
+
+Was bist du denn geschmückt?
+So weiß, wie eine –
+
+
+
+Tief in sich hinein abbrechend.
+
+
+Todte –!
+
+
+KÄTHE
+
+wieder Muth fassend.
+
+Deine Braut!
+
+
+FAUST
+
+indem er sie erschrocken zurückdrängt.
+
+Was Braut – – so weiß!!
+
+
+KÄTHE.
+
+Kennst du die Braut nicht mehr?
+Dein Käthchen lieb! – wie einst am Traualtare!
+
+
+
+FAUST.
+Nun denn –
+
+
+
+KÄTHE
+
+mit steigender Innigkeit.
+
+Ach Faust – warum nicht mehr so lieb?
+
+
+FAUST.
+Wozu – das weiße Kleid!
+
+
+Hestig.
+
+
+Weg mit dem Kleide!
+
+
+KÄTHE.
+
+Nein, laß dich's an die alte Zeit erinnern,
+Bin ich doch jetzt erst eingeweiht zur Frau!
+
+
+
+Mit heißer Liebe.
+
+
+O Faust! Mein Faust!
+
+
+FAUST
+
+wüst.
+
+Jetzt nicht – ein andres Mal!
+
+
+KÄTHE
+
+dringender.
+
+Jetzt muß es seyn – 's ist dein Geburtstag heute!
+
+
+FAUST
+
+mit heimlichem Grausen.
+
+G'rad heute!! –
+
+
+KÄTHE.
+
+Lieber Faust – jetzt bring' ich's dir –
+Mein heilig Angebinde!
+
+
+
+FAUST.
+
+Ha, was soll's!
+Weg mit dem Spielwerk!
+
+
+
+
+KÄTHE
+
+wirft sich außer sich an seine Brust.
+
+Nein, das ist es nicht! –
+
+
+HELENENS STIMME
+
+sehr nahe mit einem Schrei der Verzweiflung.
+
+Weh! Wehe mir!
+
+
+FAUST
+
+außer sich.
+
+Zu Hülfe!
+
+
+KÄTHE
+
+zu Faust, ohne die Stimme gehört zu haben.
+
+Gott, was giebt's?
+
+
+FAUST
+
+wild und hastig.
+
+Hörst du es!
+
+
+KÄTHE
+
+ängstlich.
+
+Nichts! –
+
+
+FAUST
+
+auf den Boden stampfend, in heftiger Angst.
+
+Sie stirbt! Ich will sie sehen!
+
+
+Die Tiefe des Theaters beleuchtet sich plötzlich, und man sieht in der Entfernung wie einen Schatten Helenens Gestalt vor einem schwarzen Hintergrunde mit fliegendem Haare, und einen Dolch hoch gegen sich erhebend.
+
+
+
+
+KÄTHE
+
+schaudernd.
+
+Weh mir – wem rufst du zu?
+
+
+FAUST
+
+zu der Gestalt.
+
+Ha! halte ein!
+
+
+
+KÄTHE.
+Was sprichst du schrecklich – dort zu dem Gerippe?!
+
+
+FAUST
+
+hält Käthen wild den vergifteten Becher entgegen.
+
+Trink mir es zu!
+
+
+KÄTHE.
+Der Wein hat dich erhitzt!
+
+
+FAUST
+
+wüthend.
+
+Trink, sag' ich!
+
+
+KÄTHE
+
+sanft.
+
+Gern, mein Faust!
+
+
+Sie trinkt.
+
+
+
+
+FAUST
+
+hastig und schaudernd.
+
+Halt!
+
+
+HELENENS STIMME
+
+ein lautes tückisches Gelächter anschlagend.
+
+Hahaha!
+
+
+Die Gestalt im Hintergrunde schlendert den Dolch hoch in die Luft, und verschwindet bei einem Blitzstrahle.
+
+
+Faust taumelt zurück, und sinkt in sich zusammen.
+
+
+
+
+KÄTHE
+
+erschrocken.
+
+Hilf, Gott – der Schädel dort – er lachte grinsend!
+
+
+Schaudernd.
+
+
+Was friert mich so?!
+
+
+
+FAUST
+
+richtet sich auf, und fragt mit heimlicher tiefer Stimme.
+
+Hast du vom Wein getrunken?
+
+
+KÄTHE.
+Wie du befahlst!
+
+
+FAUST.
+Nun – wohl bekomm' es dir!!
+
+
+KÄTHE.
+
+O nicht so wild und schrecklich! – Sei mir hold;
+Bin ja dein altes Käthchen noch –!
+
+
+
+FAUST.
+
+Schon recht!
+Drum gute Nacht! –
+
+
+
+KÄTHE.
+
+Es ist noch hoch am Tage!
+Die Sonne scheint so wärmend!
+
+
+
+FAUST.
+Schlafenszeit!
+
+
+Plötzlich auffahrend.
+
+
+Und blick mir nicht so freundlich in das Auge! –
+
+
+Wieder den Ton ändernd, und fast sanft.
+
+
+Nun schlummre ein – und süß –!
+
+
+
+KÄTHE
+
+mit inniger Liebe.
+
+
+Das bist du wieder! –
+O ja, es ist noch Rettung!
+
+
+
+FAUST
+
+hastig und wild, es auf sie beziehend.
+
+Nein! Nein! Nein!
+
+
+KÄTHE
+
+mit steigenderem Tone.
+
+
+Und sollte mein Gebet den Himmel stürmen!
+Ein liebend Weib vermag ja heiß zu bitten;
+Noch mehr der Unschuld Lallen – – O mein Faust,
+Jetzt fühl' ich's erst, wie ich dich glühend liebe.
+
+
+
+FAUST
+
+tief.
+
+Zu spät!!
+
+
+KÄTHE.
+
+Der Gnade Vorn ist unerschöpflich!
+Drum fasse Muth, wie du dich auch vergarnt;
+Ein reiner Engel unterstützt mein Flehen,
+Verdoppelt steigt es auf zu seinen Höhen!
+
+
+
+FAUST
+
+hastig sie zurückdrängend.
+
+Hinweg! –
+
+
+KÄTHE
+
+in einem Anklange wilder Begeisterung.
+
+
+Ja, müßt' ich selbst mich für dich opfern;
+Wenn alles reißt – ich bin dazu bereit!
+
+
+
+
+FAUST.
+Hinaus!
+
+
+KÄTHE
+
+kühn und gewaltsam.
+
+Stürz mich hinab!!
+
+
+FAUST
+
+wild.
+
+Hinaus ins Weite!
+
+
+KÄTHE
+
+in der höchsten Bewegung.
+
+Ich rette deinem Kinde ja den Vater!
+
+
+FAUST
+
+stürzt zurück, und schaut sie mit einem furchtbaren Blicke an.
+
+
+
+KÄTHE.
+Denn Mutter bin ich! – Das mein Angebinde!
+
+
+FAUST
+
+ein Moment der Erstarrung, dann bricht er in einen Schrei aus.
+
+Verfluchter!!
+
+
+KÄTHE.
+Faust!
+
+
+FAUST
+
+wie in die Ferne hinhörend.
+
+
+Zwei! donnert's!
+
+
+KÄTHE.
+Höre mich!
+
+
+FAUST.
+In einer – zwei –! Und Kinderm– –
+
+
+
+KÄTHE.
+Faust!
+
+
+FAUST.
+Ha, Rache!!
+
+
+Er stürzt hinaus.
+
+
+
+
+
+
+
+
+
+10. Scene
+
+
+
+
+Zehnte Scene.
+
+KÄTHE ALLEIN
+
+will ihm nach.
+
+
+Wo eilst du hin – o stürme nicht hinweg! –
+Ich folge – ha –
+
+
+
+Vom Schwindel befallen.
+
+
+
+was dreht mich so im Kreise –
+Die Mauern wanken –
+
+
+
+Im Begriffe umzusinken.
+
+
+Hülfe!!
+
+
+
+
+
+
+
+
+11. Scene
+
+
+
+
+Eilfte Scene.
+
+Diether Faust. Käthe.
+
+
+
+DIETHER.
+
+Welch Geschrei!
+Was giebt es hier!
+
+
+
+
+KÄTHE
+
+das Gift fühlend.
+
+– Und welche wilde Schmerzen!
+
+
+DIETHER.
+Bist du es?
+
+
+KÄTHE.
+Hier! – Was wüthet – o mein Gott!
+
+
+DIETHER.
+Gieb Antwort!
+
+
+KÄTHE.
+Faust –
+
+
+DIETHER.
+Nun denn –?
+
+
+KÄTHE.
+
+Er stürmte fort! –
+Ich trag's nicht mehr –
+
+
+
+Sie ist an den Tisch getaumelt, und findet das leere Fläschchen mit der Signatur, aufschreiend.
+
+
+Ha, Gift –!! – hab' ich getrunken!
+
+
+DIETHER
+
+außer sich.
+
+Gift, sagst du –?
+
+
+KÄTHE
+
+in Todesangst ihn umfassend.
+
+Rette, rette mich, mein Vater!
+
+
+DIETHER.
+Entsetzlich! – – Faust –?
+
+
+
+KÄTHE.
+Nicht er – ich selbst! – O rette!
+
+
+DIETHER
+
+mit einer Bewegung, die Thüre zu suchen.
+
+Wie soll' ich – o mein Augenlicht!
+
+
+KÄTHE
+
+die Hände ringend.
+
+
+Nur Hülfe!
+Ich sterbe nicht allein – – dein Kind ist Mutter!
+
+
+
+DIETHER
+
+erstarrt.
+
+Du, Käthe –
+
+
+KÄTHE.
+Mutter!
+
+
+DIETHER.
+
+Weh – entsetzlich! – Nirgends
+Find' ich hinaus –
+
+
+
+KÄTHE.
+
+Es dringt schon nach dem Herzen –
+So kalt und steinern – –
+
+
+
+Aufzuckend.
+
+
+Ha, jetzt ist's dahin –!
+
+
+Mit irrem Blicke.
+
+
+Schlaf wohl, mein Leben! – –
+
+
+Heftiger.
+
+
+
+Warum würgt' er dich!!
+Das kann ich nimmer drüben ihm vergeben! –
+
+
+
+
+DIETHER.
+Ha, fürchterlich! – Er war's?!
+
+
+KÄTHE.
+Nicht doch, mein Vater!
+
+
+DIETHER.
+Er gab dir Gift –?
+
+
+KÄTHE
+
+schwach.
+
+Ich selbst!
+
+
+DIETHER.
+
+Dein Ton – er bricht! –
+Nimm keine Lüge mit! –
+
+
+
+KÄTHE.
+Ich war's!
+
+
+DIETHER.
+Beim Weltgericht!?
+
+
+KÄTHE.
+Mein Kind –!!
+
+
+Leise und schaudernd.
+
+
+Ja – er!!
+
+
+DIETHER.
+
+Ha, schrecklich – denn Vergeltung!
+– Und Mutter du –?
+
+
+
+KÄTHE
+
+still und hinsterbend.
+
+– Nicht mehr –!
+
+
+
+DIETHER
+
+hat an dem Tische herumfühlend plötzlich das Pistol ergriffen.
+
+
+Das Feuerrohr!!
+Zu Boden!! –
+
+
+
+KÄTHE
+
+umfaßt ihn schmerzhaft.
+
+Weh, er ist dein Sohn!
+
+
+DIETHER.
+Hinab!!
+
+
+KÄTHE.
+Ich lieb' ihn noch –
+
+
+DIETHER
+
+fest und starr.
+
+Hinab!
+
+
+KÄTHE.
+
+Nicht morden, Vater! –
+Er ist dein Sohn! –
+
+
+
+DIETHER
+
+Käthchens vorige Rede kalt und gräßlich wiederholend.
+
+Nicht mehr!!
+
+
+KÄTHE.
+O mein – Erlöser!
+
+
+Sie sinkt an ihm hinab auf den Boden, er steht stumm über ihr aufrecht.
+
+
+der Vorhang fällt.
+
+
+
+
+
+
+
+
+
+
+5. Akt
+
+
+
+
+
+1. Scene
+
+
+
+
+Erste Scene.
+
+Faust allein.
+
+
+In einer drohenden Stellung mit wildem Gesichtsausdrucke und fliegendem Haupthaar; er hält das Buch in der Hand, von dem die Kette gelös't auf den Boden herabhängt. Als der Vorhang sich hebt, lodert in demselben Augenblicke eine blaue Flamme dicht vor Faust aus der Erde hoch empor, und erlischt mit einem Donnerschlage. Auf dem Boden erkennt man magische Zirkel und Figuren.
+
+
+
+
+FAUST
+
+in noch heftigerer Anspannung.
+
+
+Ha, tückisch trotziger, verfluchter Geist,
+So bist du unter meiner Macht erlegen;
+Und siegend sieh' ich über deiner Hölle,
+Im Kreise meines Bannes furchtbar aufrecht! –
+Ich habe dich gequält – das mein Triumph!!
+Gewinselt hast du unter meinen Streichen –
+Und nun verlach' ich dich und deinen Willen!
+
+
+
+
+
+
+
+
+
+2. Scene
+
+
+
+
+Zweite Scene.
+
+Der Fremde kommt, in einen Mantel gehüllt, schleichend von der Seite. Faust.
+
+
+
+FAUST.
+Wer da?
+
+
+DER FREMDE
+
+in einem Zustande der Vernichtung und wie von ausgestandenen heftigen Schmerzen sich erholend.
+
+Ich bin's!
+
+
+FAUST.
+Was suchst du hier mich auf!
+
+
+DER FREMDE
+
+mit tückischem grollenden Tone.
+
+Ich hört' euch wüthen aus der Ferne her!
+
+
+
+FAUST
+
+mit großem Nachdrucke.
+
+Ich quälte – ihn!!
+
+
+DER FREMDE
+
+grimmig.
+
+
+Ihr seid ja ganz von Sinnen!
+Was treibt ihr Tolles hier in dunkler Nacht?!
+
+
+
+FAUST
+
+wie vorher.
+
+Er unterlag mir!!
+
+
+DER FREMDE
+
+fast ausbrechend.
+
+Ha!! –
+
+
+Langsam und schaudernd.
+
+
+Was soll das Buch?
+
+
+FAUST.
+Der Höllenzwang!
+
+
+FREMDER
+
+rasch und sichtbar erzitternd.
+
+Thut es hinweg:
+
+
+FAUST
+
+mit kühnem Ausdrucke.
+
+
+Ha, nimmer!
+Ich habe bis an's Ende mich gewagt,
+Den fürchterlichsten Zeichen Trotz geboten,
+Und den Verfluchten selbst heraufgebannt,
+Und eng in meine Kreise eingeschlossen,
+Daß er vor mir erbebte, und sein Heulen
+Im Donnersturm bis zu dem Himmel tobte!
+
+
+Wie einen Erdwurm zwängte ich ihn ein,
+Und unter meinem Fußtritt mußt' erzittern
+Der Geist des Abgrunds selbst!!
+
+
+
+Hoch übermächtig.
+
+
+Ich thats – der Faust!!
+
+
+FREMDER
+
+wüthend in sich hinein.
+
+Ha, Fluch und Feuer!
+
+
+FAUST
+
+auf ihn aufmerksam werdend.
+
+
+Was durchbebt dich so?
+Scheinst du doch wie zermalmt und aufgelös't!
+
+
+
+FREMDER.
+
+Ein – wildes Fieber ward so meiner Meister;
+Es hat mich durchgeschüttelt! – Brr! – – Ich denk's ihm!!
+
+
+
+FAUST.
+Doch, wo ist sie?
+
+
+FREMDER.
+Wen meint ihr?
+
+
+FAUST.
+
+Ha, was fragst du?
+Giebt's außer ihr für mich noch eine zweite! –
+
+
+
+Düster werdend.
+
+
+
+Die zweite – mein' ich – liegt im blassen Schlummer,
+
+
+Und weckt die Eifersucht wohl nimmer wieder –;
+Und mit ihr schläft noch ein's – – die zweite
+
+Sünde!
+
+Zwei kostet sie mich!
+
+
+
+FREMDER.
+
+Pah! Welch reicher Mann!
+Ich steh schon an der vierten, und bin ruhig!
+
+
+
+FAUST
+
+tiefsinnig.
+
+
+Hätt' ich's geahnt – – es wäre nie geschehen! –
+Mein weißes Bräutlein – wolltest für mich brennen –
+Du stille Liebe – – könnt' ich dich erwecken!! –
+
+
+
+Heftig.
+
+
+
+Verfluchter Mensch! – die Blume und die Knospe –
+Den Engel erst und dann das Mütterlein!
+
+
+
+FREMDER.
+Sprecht lauter! Ich moralisire mit!
+
+
+FAUST
+
+auffahrend.
+
+
+Ha, hui denn! – Geschehen ist geschehen!
+Ist doch die Feuerbraut nun reich bezahlt! –
+Wo ist sie?
+
+
+
+FREMDER
+
+mit scharfer Betonung.
+
+– Sie?
+
+
+
+FAUST
+
+wild.
+
+Nun – in des Teufels Namen!
+
+
+FREMDER.
+Seid nicht so toll! – Man bringt – sie bald vorüber!
+
+
+FAUST.
+Wo?
+
+
+FREMDER.
+Hier!
+
+
+FAUST.
+Hier geht der Weg zum Todtenacker!
+
+
+FREMDER.
+Die Wege führen alle zu den Todten!
+
+
+FAUST
+
+dumpf.
+
+Wohlan, hier hab' ich sie gerächt!
+
+
+FREMDER.
+Helenen?
+
+
+FAUST
+
+sich besinnend.
+
+Die Todte! – Sprachst du eben nicht von Todten?
+
+
+FREMDER.
+Von – ihr! – –
+
+
+Langsam und schleichend.
+
+
+
+Zwei Sünden, meintet ihr vorhin? –
+
+
+
+FAUST
+
+wild.
+
+Ich habe ihn dafür in Staub getreten!
+
+
+FREMDER
+
+heimlich scheu.
+
+Gebt mir – das Buch doch!!
+
+
+FAUST.
+Nein, das laß' ich nicht!
+
+
+FREMDER.
+Die schwere Kette macht's euch unbequem!
+
+
+FAUST
+
+zerstreut.
+
+Nie fremder Hand –
+
+
+FREMDER
+
+lächelnd.
+
+
+Sind wir doch Feuerbrüder!
+Und sollt' es hier nun zu umarmen geben –
+
+
+
+FAUST
+
+hastig.
+
+Sie kommt gewiß –?
+
+
+FREMDER
+
+nickend.
+
+
+Dann wird das Buch euch lästig!
+Drum –
+
+
+
+FAUST
+
+wie vorher.
+
+Wann?!
+
+
+FREMDER
+
+tückisch.
+
+Sie ist schon auf dem Wege! – Gebt!
+
+
+Er nimmt das Buch rasch.
+
+
+
+
+
+FAUST.
+Bewahr' es wohl!
+
+
+FREMDER
+
+wie vorher.
+
+Ihr könnt euch drauf verlassen!
+
+
+Mit scharfem Nachdrucke.
+
+
+Auf fröhlich Wiedersehn! – ich hoffe, bald!!
+
+
+Er verliert sich in die Nacht.
+
+
+
+
+
+
+
+
+
+3. Scene
+
+
+
+
+Dritte Scene.
+
+Wagner von der andern Seite. Faust.
+
+
+
+WAGNER
+
+hastig.
+
+Da seid ihr endlich –! –
+
+
+Sieht dem Fremden nach.
+
+
+
+Hu, da schleicht er hin,
+Der Schwarze –!
+
+
+
+FAUST
+
+abwesend.
+
+Wer?
+
+
+WAGNER
+
+sich schüttelnd.
+
+Mit Schweif und Pferdefuß!
+
+
+FAUST.
+Verrückter!
+
+
+WAGNER.
+
+Seht ihm doch nur nach im Dunkeln!
+
+
+Es leuchtet schwefelgelb aus ihm hervor; –
+Die Hörner klar und deutlich –
+
+
+
+Nachstarrend und dann schnell abbrechend.
+
+
+Gott sei bei uns!
+
+
+FAUST.
+Bist du von Sinnen!
+
+
+WAGNER.
+
+Wollt' es doch der Himmel,
+So wäre alles Trug und Phantasei,
+Ihr hättet euer Weib dann nicht vergiftet,
+Und –
+
+
+
+FAUST
+
+faßt ihn wild.
+
+Ha, Verdammter!
+
+
+WAGNER
+
+aufrufend.
+
+Wollt ihr mich erwürgen?
+
+
+FAUST.
+
+Fürwahr ich möcht's! Und alle hinterdrein; –
+Seit – sie dahin! – was wollt ihr, Unkraut, leben?
+
+
+
+WAGNER.
+
+O welche Reden! – Weh, es ist gewiß!
+Der Unhold hat euch schon in seinen Klauen! –
+Ihr seid verloren dort und hier im Leben,
+Denn die Gerichte spüren auch euch nach!
+
+
+
+
+FAUST.
+Gerichte – Pah! – Doch nicht das Weltgericht!
+
+
+WAGNER
+
+mit ängstlicher Zudringlichkeit.
+
+
+O lieber Herr, jetzt ist's vielleicht noch Zeit,
+Auf solchem argen Wege umzukehren;
+Mich selber hatt' er auch schon nah daran,
+Daß ich mich fast der Weltlust übergeben;
+Doch hab' ich in's Gewissen mir gegriffen,
+Und mit Vermahnungen mir zugesetzt,
+Daß er entwichen! –
+
+
+
+Treuherzig.
+
+
+
+Betet, guter Herr!
+Dawider mag der Unhold nichts beginnen!
+
+
+
+FAUST
+
+wild.
+
+Haha!
+
+
+WAGNER.
+
+Lacht nicht so fürchterlich in's Echo!
+Mir ist so bang – als wär's das letzte Mal,
+Daß wir uns sähen; und die gute Frau
+Schwebt mir auch immer vor den Augen –
+
+
+
+FAUST
+
+heftig.
+
+Fort!
+
+
+
+WAGNER.
+
+Im Zorne nicht – war ich euch doch so treu! –
+Und, lieber Herr – wenn das euch retten könnte –
+Wenn euch der Unhold losgiebt – – diese Rechte,
+Ich strecke sie für euch in's Höllenfeuer!
+
+
+
+FAUST
+
+bewegt.
+
+Das wolltest du –?
+
+
+WAGNER
+
+sehr ernst.
+
+So wahr mir Gott helf' – ja!
+
+
+FAUST.
+Du alter –
+
+
+Plötzlich auffahrend, als er in die Ferne sieht.
+
+
+Fackeln – ha!
+
+
+WAGNER.
+Nehmt ihr es an!
+
+
+FAUST.
+Verlaß mich!
+
+
+WAGNER.
+Redet!
+
+
+FAUST
+
+außer sich.
+
+Fort, sag' ich – von hinnen!
+
+
+WAGNER.
+Und wenn's zu spät ist –
+
+
+
+FAUST
+
+schleudert ihn aus der Scene.
+
+Ha – so fahr' zum Teufel!
+
+
+WAGNER
+
+aus der Ferne.
+
+Verloren!
+
+
+FAUST
+
+in wildem Aufruhre.
+
+
+Fackeln! – Ha, du bist's! du bist's!
+An mein wildklopfend Herz will ich dich drücken.
+
+
+
+Mit ausgebreiteten Armen.
+
+
+Flieh mir entgegen, Braut! das Lager harrt!
+
+
+Taumelt plötzlich in die Scene zurück.
+
+
+
+Weh mir! – Kein Brautbett – – das – ein
+Todtensarg!
+
+
+
+
+
+
+
+
+
+4. Scene
+
+
+
+
+Vierte Scene.
+
+Ein Leichenzug mit Fackeln. In dem offenen Sarge ruht Käthe, ganz wie im vierten Acte gekleidet. Faust.
+
+
+
+FAUST
+
+der sie erkennt.
+
+Entsetzlich! Fürchterlich! –
+
+
+ERSTER LEICHENTRÄGER.
+Wer stört uns hier?
+
+
+
+FAUST.
+
+Es ist ein Trugbild, meinen Geist zu lähmen,
+Nichts Wirkliches! –
+
+
+
+Er stürmt auf die Träger ein.
+
+
+Ha, fort, ihr Nachtphantome!
+
+
+ZWEITER LEICHENTRÄGER.
+Was wollt ihr von uns?
+
+
+FAUST.
+Ha, ihr haltet Stand!
+
+
+ERSTER LEICHENTRÄGER
+
+erschrocken.
+
+Das ist der Mann!
+
+
+ZWEITER LEICHENTRÄGER
+
+wie der vorige.
+
+Der Schwarzkünstler – der Faust!
+
+
+ERSTER LEICHENTRÄGER.
+Gott schütze uns! – Hat der sie doch vergiftet!
+
+
+FAUST.
+
+Was krächzt ihr, Leichenvögel! – Ha, du bist's!
+Mein weißes Bräutlein – wie du freundlich lächelst –
+Und hab' dich doch erwürgt –!
+
+
+
+ERSTER LEICHENTRÄGER
+
+heftig.
+
+
+Herr, geht zurück!
+Die Leiche blutet sonst! –
+
+
+
+
+FAUST.
+
+Wer spricht von Blut?!
+Ich habe weiß vom Zweige sie gepflückt –
+Weiß schläft sie wie die Unschuld –! Ha, wo ist
+Die andre denn, die rothe Feuerrose –
+Für die ich's that! –
+
+
+
+ERSTER LEICHENTRÄGER
+
+schaut entsetzt auf die Todte.
+
+Herrgott – die Leiche weint!!
+
+
+FAUST.
+Was – Wahnsinn – –
+
+
+ZWEITER LEICHENTRÄGER.
+
+Nein es ist! – Welch Schmerzensblick!
+Und helle Thränen rieseln durch die Wimpern!
+
+
+
+FAUST.
+Du weinst um mich –?
+
+
+ERSTER LEICHENTRÄGER
+
+unwillig.
+
+Stört nicht die Todtenruhe!
+
+
+ZWEITER LEICHENTRÄGER.
+Hinweg – ihr frevelt!
+
+
+FAUST
+
+heftig.
+
+Bleibt! gebiet' ich euch!
+
+
+Den Leichenträgern, die fort wollen, wild entgegentretend.
+
+
+
+
+
+Bleibt, sag' ich! Oder bei dem Teufel drunten,
+Ich mache alle euch zu Nachtgespenstern!
+Denn schwelgen will ich in dem wilden Schmerze,
+Mein blasses Liebchen einmal noch zu schauen;
+
+
+
+Dumpf.
+
+
+Wird mir die Wonne drüben doch nicht wieder!
+
+
+
+
+
+
+
+
+5. Scene
+
+
+
+
+Fünfte Scene.
+
+Diether Faust. Die Vorigen.
+
+
+
+DIETHER
+
+noch in der Scene rufend.
+
+Wo seid ihr? Wo?
+
+
+ERSTER LEICHENTRÄGER.
+Das ist der alte Vater!
+
+
+Zu einem aus dem Gefolge.
+
+
+Warum verließest du den blinden Mann?
+
+
+Der andere Leichenträger geht ab, und führt dann sogleich den Alten auf die Bühne.
+
+
+
+
+DIETHER
+
+mit dem Pistole in der Hand.
+
+Wollt ihr sie mir entführen?
+
+
+FAUST
+
+der die Leiche anblickte, fährt jetzt bei der Stimme auf.
+
+
+Ha, auch du noch!
+Sie war dein Führer durch die Mitternacht –
+
+
+
+
+DIETHER
+
+schaudernd.
+
+Wer spricht hier?
+
+
+FAUST
+
+wild vortretend.
+
+Ich!!
+
+
+DIETHER
+
+außer sich.
+
+Das ist des Teufels Stimme!
+
+
+FAUST.
+Ein Ton davon!
+
+
+DIETHER
+
+sucht der Stimme zu folgen, und ihm entgegenzudringen.
+
+Ha, wildes Ungeheuer!
+
+
+FAUST.
+Zu wenig, Alter!
+
+
+DIETHER.
+Ha, wo find' ich dich?
+
+
+FAUST.
+Suchst du mein Herz? – Wie alles mich doch liebt!
+
+
+Er ist zu ihm getreten.
+
+
+
+
+DIETHER.
+Dein Herz!!
+
+
+FAUST.
+Hier ist's! –
+
+
+
+DIETHER
+
+umschlingt ihn, und kehrt das Pistol ihm entgegen.
+
+Hinab – du Doppelmörder!
+
+
+FAUST
+
+der mit ihm ringt.
+
+Was soll das Liebesspiel – ? – Ein Feuerrohr!
+
+
+DIETHER
+
+kaum der Sprache mächtig.
+
+Für deine Brust!
+
+
+FAUST
+
+immer mit ihm ringend.
+
+Zu früh! – Es sind erst zwei!
+
+
+Sucht ihm das Gewehr zu entwinden.
+
+
+Ha, seid ihr wild – erst zwei!!
+
+
+Im Ringen mit dem Alten geht das Pistol, das Faust gefaßt hat, los.
+
+
+
+
+DIETHER
+
+stürzt getroffen zu Boden.
+
+
+
+FAUST
+
+zurückstürzend.
+
+Das ist – die – dritte!!
+
+
+DIETHER.
+Fluch – – dir– –
+
+
+Er stirbt.
+
+
+
+
+DIE LEICHENTRÄGER
+
+ausrufend.
+
+Ha, Mord!
+
+
+FAUST.
+
+Laßt ihn doch erst verfluchen!
+Dann schreit –!
+
+
+
+
+
+Um sich starrend.
+
+
+
+Da liegen alle meine Sünden!
+Nur eine fehlt noch!!
+
+
+
+LEICHENTRÄGER.
+Hülfe!
+
+
+FAUST
+
+wild sich unter ihnen umsehend.
+
+
+Nachtgespenster!
+Wer hilft uns auch die Todten auferwecken? –
+Daran erlahmt der Himmel – und die Hölle!
+Sonst wollt' ich's thun!
+
+
+
+ERSTER LEICHENTRÄGER
+
+der sich mit dem Alten beschäftigte.
+
+Entsetzlich! er verblutet!
+
+
+FAUST.
+
+Ha, Roth und Weiß! – – Das Schwarze fehlt nur noch!
+Hier schreit erst Weib- und Kind- und Vatermord!
+Drei doppelt schreit's – –
+
+
+
+Sich wüthend emporreißend.
+
+
+
+Doch Trotz sei dem geboten!
+
+Vier müssen's seyn! – Bis dahin bleib' ich Meister!
+
+
+
+Er stürzt ab.
+
+
+
+
+ERSTER LEICHENTRÄGER
+
+schreiend.
+
+Verfolgt ihn! – Hülfe!
+
+
+
+
+
+
+
+
+
+6. Scene
+
+
+
+
+Sechste Scene.
+
+Gerichtsdiener mit ihrem Anführer. Die Vorigen ohne Faust.
+
+
+
+ANFÜHRER.
+Welch ein Mordgeschrei!
+
+
+ERSTER LEICHENTRÄGER.
+Der Schwarzkünstler – der Faust –
+
+
+ANFÜHRER.
+
+Wir suchen ihn!
+In dieser Gegend hat man ihn gesehen!
+
+
+
+ERSTER LEICHENTRÄGER.
+
+Den eignen Vater hat er hier getroffen!
+Da schaut die Leiche!
+
+
+
+ANFÜHRER.
+Ungeheu're That!
+
+
+ERSTER LEICHENTRÄGER.
+Im Sarge ruht sein Weib, das er vergiftet!
+
+
+ANFÜHRER.
+Wo ist er? Redet!
+
+
+ERSTER LEICHENTRÄGER.
+Dort hinaus entsprungen!
+
+
+ANFÜHRER.
+Ihm nach denn, Leute! Er muß unser werden!
+
+
+
+ERSTER LEICHENTRÄGER.
+
+Wir wollen für den Alten Sorge tragen;
+Statt einer Leiche sind's jetzt zwei geworden!
+
+
+
+Die Gerichtsdiener eilen auf dem Wege ab, den Faust einschlug. Die Leichenträger ziehen ebenfalls fort, und tragen den ermordeten Diether mit sich.
+
+
+
+
+
+
+
+
+
+7. Scene
+
+
+
+
+Siebente Scene.
+
+Erleuchteter Saal.
+
+
+In der Ferne hört man rasche Tanzmusik Masken gehen abwechselnd über die Bühne, aber alle schwarz gekleidet, und mit ganzen undurchsichtigen Larven. Faust stürzt nach einer Pause wild herein, einen gefüllten Pokal in der Hand.
+
+
+
+FAUST
+
+in den Vordergrund stürmend.
+
+
+Ha, Gift statt Wein, daß ich mich drin berausche!
+Der Wein macht nüchtern – glühend Feuer will ich!
+Fort mit dem Trank –! Und Blut ist's obendrein!
+
+
+
+Er schleudert schaudernd den Pokal weit von sich.
+
+
+Des Vaters Blut – – ich trank mich darin voll!
+
+
+In steigendem Aufruhre.
+
+
+
+Doch Fluch ihm! Fluch! daß er mich hat gezeugt!
+Dem Mutterschooße Fluch, der mich getragen!
+Der Amme Fluch, die mich an's Licht gefördert,
+Daß sie mich nicht erwürgt' im ersten Schreie!
+
+
+Was kann denn ich für mein entsetzlich Daseyn?
+Verflucht seist du Natur, die mich betrogen,
+Verflucht ich selbst, daß ich mich täuschen ließ! –
+Und du gewaltig Wesen, das zum Hohne,
+Den Feuergeist in diesen Kerker bannte,
+Daß er verzweifelnd hin nach Freiheit ringt –
+Dir – –
+
+
+
+Er schaudert furchtbar zusammen.
+
+
+
+Nein, die vierte – schwarze Sünde nicht!
+Nein! Nein!
+
+
+
+Er schlägt im Uebermaße des ausbrechenden Schmerzes beide Hände vor das Gesicht.
+
+
+O ich bin unaussorechlich elend!!
+
+
+Drei schwarze männliche Masken treten zu ihm.
+
+
+
+
+ERSTE MASKE.
+Hei! Lustig, Freund!
+
+
+ZWEITE MASKE.
+Hei, lustig, Bruder!
+
+
+DRITTE MASKE
+
+mit einem schneidenden Tone wiederholend.
+
+Lustig!
+
+
+FAUST
+
+in wilder Laune auffahrend, und sich unter ihnen umsehend.
+
+Hei, lustig denn!
+
+
+
+ERSTE MASKE.
+Wer wollte Mücken saugen!
+
+
+ZWEITE MASKE.
+Das Leben währt ja lang', bis Mitternacht!
+
+
+DRITTE MASKE.
+Und hinterdrein hat gar die Lust kein Ende!
+
+
+Die Musik hört plötzlich auf, und eine Glocke schlägt drei Mal an.
+
+
+
+
+FAUST
+
+betäubt.
+
+Was giebt's?
+
+
+ERSTE MASKE.
+Das dritte Viertel erst auf Zwölf!
+
+
+ZWEITE MASKE.
+Da ist's noch Zeit!
+
+
+DRITTE MASKE.
+Genug zum Faschingsspiel!
+
+
+ERSTE MASKE.
+Um Mitternacht geht erst der Kehraus an!
+
+
+FAUST
+
+schaudernd.
+
+Was wollt ihr?
+
+
+ERSTE MASKE
+
+faßt seine Hand rasch.
+
+Hei! Wir tanzen ihn zusammen!
+
+
+
+FAUST
+
+reißt die Hand zurück.
+
+Fort! – Feuer!!
+
+
+ERSTE MASKE.
+Nicht doch; nur ein Schwefelfunken!
+
+
+ZWEITE MASKE.
+Der Bruder phantasirt!
+
+
+DRITTE MASKE.
+Holla! Musik!
+
+
+Die Musik hebt wieder in der Ferne an.
+
+
+
+
+ERSTE MASKE
+
+heimlich lachend.
+
+Die Milzsucht sticht ihn!
+
+
+ZWEITE MASKE.
+
+Horch, am Rabensteine
+Hebt lust'ger Tanz an!
+
+
+
+DRITTE MASKE.
+Da muß ich hinaus!
+
+
+Ab.
+
+
+
+
+ERSTE MASKE.
+Auch drunten wirbelt's schon im Fegefeuer!
+
+
+ZWEITE MASKE.
+Da gilt es Eile! – Hui! Auf Wiedersehn!
+
+
+ERSTE MASKE
+
+zu Faust.
+
+Um Mitternacht!
+
+
+Beide Masken eilen fort.
+
+
+
+
+
+FAUST
+
+faßt sich an die Stirn.
+
+Ha, was umgiebt mich hier!
+
+
+Heftig vorwärts tretend.
+
+
+Herunter mit den Larven!
+
+
+Heftiges Klopfen von außen.
+
+
+
+Welch Getöse! –
+Beschleicht mich Wahnsinn –?
+
+
+
+STIMME
+
+heftig von außen.
+
+Oeffnet dem Gericht!
+
+
+Die Musik hört auf, es donnert.
+
+
+
+
+FAUST
+
+stürzt betäubt zurück.
+
+Ich träume schwer! – Noch geht die Welt nicht unter!
+
+
+STIMME
+
+wie vorher.
+
+Hier muß er seyn! – Macht auf! Es wettert draußen!
+
+
+FAUST
+
+trocknet die Stirn.
+
+Hat mich die Angst entmannt –!
+
+
+
+
+
+
+
+
+8. Scene
+
+
+
+
+Achte Scene.
+
+Die Gerichtsdiener. Faust.
+
+
+
+ANFÜHRER.
+Wo ist er? Wo?
+
+
+
+FAUST
+
+reißt sich empor und tritt ihnen entgegen.
+
+Hier steht der Faust!
+
+
+ANFÜHRER.
+
+Im Namen des Gesetzes!
+Giftmischer, Schwarzkünstler und Vatermörder!
+
+
+
+FAUST.
+
+Ja, drei ist meine Zahl! – An eurer Nase
+Merk' ich, ihr Herren, wer euch hergesendet!
+Ich bin die Drei!
+
+
+
+Trotzig und wieder gefaßt.
+
+
+
+Was wollt ihr von mir haben?
+Vor lebenden Gerichten zittr' ich nicht!
+
+
+
+ANFÜHRER.
+
+Der peinliche Prozeß erwartet dich! –
+Schlagt ihn in Fesseln!
+
+
+
+FAUST.
+Wenn, ich's euch erlaube!
+
+
+ANFÜHRER
+
+zu den Gerichtsdienern, die noch zögern.
+
+Greift an! Und fürchtet nichts!
+
+
+FAUST
+
+tritt mitten unter sie.
+
+
+Wohlan ihr Herren!
+Seid nicht so höflich! – Hier sind meine Hände;
+Es gilt die Eisenprobe!
+
+
+
+
+ANFÜHRER.
+Fesselt ihn!
+
+
+Faust wird in Ketten geschlagen.
+
+
+
+
+FAUST.
+Und nun sagt dem, der euch hierher gesendet,
+
+
+Er faßt die Ketten zum Zerreißen und stampft auf den Boden.
+
+
+Der Stahl sei mir zu schlecht! –
+
+
+Die Ketten reißen nicht, und er fährt außer sich auf.
+
+
+– – Ha, was ist das?!
+
+
+ANFÜHRER.
+Der Teufel hilft nicht mehr! Schleppt ihn hinweg!
+
+
+FAUST
+
+der wild auf den Boden stampfte.
+
+Ha, bricht die Hölle ihren Bund mit mir?!
+
+
+ANFÜHRER
+
+gegen ihn zürnend.
+
+Zum Kerker hin – und dann auf's Hochgericht!
+
+
+FAUST.
+Elende Sclaven!
+
+
+ANFÜHRER.
+Reißt den Unhold fort!
+
+
+Faust wird umringt.
+
+
+
+
+FAUST
+
+in wilder Wuth.
+
+
+Gehorchst du nicht dem Donner meiner Stimme,
+Verfluchter drunten!
+
+
+
+
+ANFÜHRER.
+Fort!
+
+
+
+
+
+
+
+
+9. Scene
+
+
+
+
+Neunte Scene.
+
+Der Fremde. Die Vorigen.
+
+
+
+DER FREMDE
+
+mit einem noch wildern glühendern Gesichte als vorher.
+
+Was giebt es hier?
+
+
+ANFÜHRER.
+Im Namen des Gesetzes!
+
+
+DER FREMDE
+
+streckt die Hand gebietend aus.
+
+
+Weg von ihm!
+Für euch gehört er nicht!
+
+
+
+Ein Donnerschlag, dem Faust fallen die Ketten ab. Die Gerichtsdiener sind von einem panischen Schrecken ergriffen.
+
+
+
+
+GERICHTSDIENER
+
+durch einander.
+
+Weh! wehe uns!
+
+
+Sie eilen ab.
+
+
+
+
+
+
+
+
+
+10. Scene
+
+
+
+
+Zehnte Scene.
+
+Faust. Der Fremde.
+
+
+
+FAUST
+
+außer sich.
+
+Bin ich der Faust? – Ha, schaff' mein Buch herbei!
+
+
+
+DER FREMDE
+
+tückisch kalt.
+
+Wozu?
+
+
+FAUST.
+
+Ich will in Staub ihn niedertreten!
+Der Unhold trotzte mir!
+
+
+
+DER FREMDE
+
+wie vorher.
+
+Vielleicht ist's aus!
+
+
+FAUST.
+Der vierte Frevel ist noch nicht geschehen.
+
+
+DER FREMDE.
+Wer weiß?
+
+
+FAUST
+
+wild.
+
+Ha, kalter Teufel!
+
+
+DER FREMDE
+
+blickt ihn an und lacht tückisch.
+
+
+
+FAUST
+
+stürzt bei dem Blicke zurück.
+
+Was ist das!?
+
+
+DER FREMDE.
+Nun denn?
+
+
+FAUST
+
+betäubt.
+
+Welch schreckensvolle Aehnlichkeit!
+
+
+DER FREMDE.
+Ihr phantasirt!
+
+
+
+FAUST.
+
+Ha, durch die Menschenlarve
+Brennt es hervor – –
+
+
+
+DER FREMDE.
+Der Weingeist spricht aus euch!
+
+
+FAUST
+
+fährt sich über die Stirn.
+
+
+Ja, ja – es war ein Traum – – ein toller Traum!
+Es dünkte mich – – du sähst dem Teufel ähnlich!
+
+
+
+DER FREMDE.
+Haha!
+
+
+FAUST.
+Die Einbildung!
+
+
+DER FREMDE.
+Ihr seid ein Schwärmer!
+
+
+Mit einem geheimen schrecklichen Ausdrucke.
+
+
+
+Wir wollen noch recht lustig seyn zur Nacht! –
+Wenn's zwölfe brummt, ruf' ich euch ab zum Tanze!
+
+
+
+Er geht.
+
+
+
+
+
+
+
+
+
+11. Scene
+
+
+
+
+Eilfte Scene.
+
+FAUST
+
+allein sich angstvoll umschauend.
+
+
+Ha, welche fürchterliche Nachtgesellschaft!
+
+
+Wie sich die Larven durch einander drehen,
+Im leisen wilden Tanz – – es macht mich schwindeln!
+
+
+
+Wie, wenn er die Angst von sich zu stoßen suchte.
+
+
+
+Ha, von der Brust hinweg! – – Könnt' ich nur beten –
+Nur wenig arme Worte – – daß sie schwände
+Die Angst des Todes –!
+
+
+
+Dringender.
+
+
+Nur ein einzig Wörtlein –
+
+
+Er sinkt unwillkührlich auf die Kniee.
+
+
+
+O einen Seufzer nur –!! Er könnt' mich retten
+Aus der Verdammniß! –
+
+
+
+Er reißt sich wild in die Höhe.
+
+
+Hu, bin ich von Sinnen?!
+
+
+Die Musik beginnt wieder.
+
+
+
+Was Beten? – Tanzen!! Wild im Sturm mich schwingen!
+Ha, blaset, blaset, daß die Töne schwellen,
+Die Wetter in den Freudenaufruhr donnern!
+In's Teufels Namen! Faust will fröhlich seyn!
+
+
+
+Die Musik wird stärker.
+
+
+
+Hinan! Hinan! Das schallt in meine Weise!
+
+
+Auf! Drehet wild euch in dem Feuerkreise!
+Hervor die Braut – die Gäste sind bereit,
+Schon stürmt zur Mitternacht die flücht'ge Zeit;
+Wenn ihre dunkeln Schauer uns umwehen,
+Will ich in deinen Flammen untergehen!
+
+
+
+Er eilt wild zur Seite ab, woher die Musik schallt. Tanzende schwingen sich während der Pause über die Bühne, alle in schwarzen Masken, und die Musik selbst nimmt einen wilden Charakter an.
+
+
+
+
+
+
+
+
+
+12. Scene
+
+
+
+
+Zwölfte Scene.
+
+Faust zieht Helenen auf die Bühne, die ebenfalls ganz verlarvt ist. Die andern Masken entfernen sich.
+
+
+
+FAUST
+
+erhitzt und glühend.
+
+Nicht länger sträube dich!
+
+
+HELENE.
+Ha, wilder Stürmer!
+
+
+FAUST.
+Mein Busen brennt –!
+
+
+HELENE.
+Die Zeit ist noch nicht da!
+
+
+
+FAUST.
+
+Sie ist's! Sie ist's! – Ha, Weib, sie soll es seyn!
+Statt einer hab' ich drei dir aufgeopfert!
+Die Mutter schläft, das Kindlein und der Alte,
+Mit dir zu kosen sang ich sie in Schlummer! –
+Ha, Feuerbraut, die Nacht ist eingeweiht,
+Gezahlt hab' ich die theure Morgengabe;
+Drum gieb mir Gluth für Gluth!
+
+
+
+HELENE
+
+mit heimlichem Nachdrucke.
+
+Sie brennt für dich!
+
+
+FAUST.
+
+Zerrissen ist jedwedes Lebensband;
+An dich bin ich gefesselt, dein –
+
+
+
+HELENE
+
+mit einem Triumph einfallend.
+
+Auf ewig!
+
+
+Die Musik in der Ferne wird immer wilder und seltsamer, es rollen dumpfe Donner hinein, die nach und nach stärker werden.
+
+
+
+
+FAUST.
+Auf ewig dein! – Horch, wie die Töne schwellen!
+
+
+HELENE.
+Sie donnern uns den wilden Hochzeitsjubel!
+
+
+FAUST
+
+sie umschlingend.
+
+Ha, gieb den Brautkuß mir!
+
+
+
+HELENE.
+Um Mitternacht!!
+
+
+FAUST.
+
+Jedweder Puls wird mir zur Ewigkeit! –
+Die Larve fort, die mir dein Wangenfeuer,
+Der schwarzen Augen dunkle Gluth verbirgt!
+
+
+
+Er will ihr die Maske nehmen.
+
+
+
+
+HELENE
+
+sträubt ihm entgegen.
+
+Ist sie gefallen, wirst du treu verbleiben?
+
+
+FAUST
+
+streckt die Hand empor.
+
+Ja bei dem –
+
+
+HELENE
+
+zieht ihn rasch zurück.
+
+Halt!
+
+
+FAUST
+
+als es stärker donnert.
+
+
+Das donnert meinen Eid!
+Die Töne schwören ihn, die Herzensschläge,
+Mein ganzes Daseyn, das in Flammen glüht!
+Ha, immer wilder schwillt der Jubel an,
+Schon wirbelt um uns her der Hochzeitsreigen,
+Die Fackel brennt –
+
+
+
+HELENE
+
+mit wildem Tone.
+
+Ha denn, mein Bräutigam!
+
+
+
+FAUST
+
+auf sie eindringend.
+
+Hinweg die Larve! –
+
+
+HELENE
+
+noch wilder.
+
+Hei! Die Hochzeitsstunde –
+
+
+FAUST.
+Die Larve fort!!
+
+
+HELENE.
+Sie schlägt!!
+
+
+FAUST.
+Den Brautkuß!
+
+
+Er ist im Begriffe, sie zu umschlingen.
+
+
+
+
+HELENE.
+Nimm ihn!!
+
+
+Die Larve und die Hauptbedeckung entfallen ihr und sie grinset ihn aus einem Todtenschädel an; es donnert heftig und die Musik endet wie mit einem Schrei in Dissonanzen.
+
+
+
+
+FAUST
+
+taumelt in Todesschrecken zurück.
+
+Entsetzen – –! Weh! – –
+
+
+HELENE.
+
+Das Lager ist bereit!
+Folg, Bräutigam, hinab zur Feuerhochzeit!!
+
+
+
+Sie versinkt mit einem krachenden Donnerschlage in den Boden, aus dem Flammen emporlodern. Faust stürzt von der Bühne, die so lange leer bleibt, bis die jetzt einfallende 
+Glocke zwölf ausgeschlagen hat. Alles verdunkelt sich tief und die Lichter erlöschen.
+
+
+
+
+
+
+
+
+
+13. Scene
+
+
+
+
+Dreizehnte Scene.
+
+Der Fremde schleudert den Faust, dessen Gesicht todtenbleich ist, bei den Haaren auf die Bühne zurück.
+
+
+
+FAUST.
+Ha, laß mich fliehen! – Fort! –
+
+
+DER FREMDE
+
+mit wildem donnernden Tone.
+
+Es ist vorbei!
+
+
+FAUST.
+Entsetzliches Gesicht! – –
+
+
+Sich bebend an die Brust des Fremden werfend.
+
+
+
+Du bist mein Freund!
+Drum schütze mich!!
+
+
+
+FREMDER
+
+auflachend.
+
+Haha!
+
+
+FAUST
+
+dringender.
+
+Mein letzter Freund!!
+
+
+FREMDER
+
+mit triumphirender Bosheit.
+
+Ei freilich!!
+
+
+
+FAUST.
+Ha, so laß uns fort!
+
+
+FREMDER.
+Wohin?!
+
+
+FAUST.
+Zur Kirche!!
+
+
+FREMDER.
+Ich mit dir?!
+
+
+FAUST
+
+irre.
+
+
+Wir wollen beten!
+Ja beten! beten!! Ach mein Schlafgebet –
+Aus meiner Kindheit – das wird mir getreu seyn – –
+Der Mutter Segenskreuz!! – Hinaus zur Kirche!! –
+Dir thut's auch Noth – – der Himmel wird uns retten! –
+
+
+
+Wild wie im Wahnsinn.
+
+
+Fort! Fort!! –
+
+
+DER FREMDE
+
+schleudert ihn zurück.
+
+Zurück! – Dein Lebensspiel ist aus!!
+
+
+FAUST
+
+wie vorher.
+
+
+Noch hab' ich Zeit bis zu dem vierten Frevel!
+
+
+O eine Spanne hat zur Buße Raum;
+Zur Kirche hin – laß uns um Gnade knieen!
+
+
+
+DER FREMDE.
+Haha! – Kennst du mich denn?
+
+
+FAUST.
+O rette mich!!
+
+
+DER FREMDER
+
+ergreift ihn mit übermächtiger Gewalt, kehrt ihn so, daß Faust's Gesicht gegen die Zuschauer gewendet wird, indeß das seine von diesen abgekehrt ist; und so blickt er ihn an und ruft mit donnernder Stimme.
+
+
+Ich bins!! –
+
+
+Ein Donnerschlag.
+
+
+Faust taumelt mit dem Ausdrucke des höchsten Entsetzens zu Boden, indem er einen unarticulirten Schrei ausstößt.
+
+
+Jener fährt nach einer Pause mit schneidender Kälte fort.
+
+
+
+Ist das der mächt'ge Höllenzwinger?
+Der mir – ha, mir! – getrotzt!! –
+
+
+
+Mit empörendem Stolze.
+
+
+
+Gewürm des Staubes!
+Ich hatte deine Qual – mir!! aufgespart –!
+Fahr' jetzt hinab zu andern Sclavengeistern –
+Du bist zu klein für mich!!
+
+
+
+FAUST
+
+richtet sich in die Höhe und scheint seine Kraft wiederzugewinnen.
+
+Ich bin der Faust!
+
+
+
+DER FREMDE.
+
+Du nicht!
+
+
+FAUST
+
+indem er sich mit seinem ganzen Trotze emporreißt.
+
+
+Verfluchter! Ha, ich bins! ich bins!
+Zu meinen Füßen hin, ich bin dein Meister!
+
+
+
+DER FREMDE.
+Nicht mehr!!
+
+
+FAUST
+
+wild.
+
+Ha; mein Vertrag?!
+
+
+DER FREMDE.
+Er ist am Ende!!
+
+
+FAUST
+
+wie vorher.
+
+
+Drei Frevel nur!!
+
+
+DER FREMDE.
+Der vierte ist vollbracht!
+
+
+FAUST.
+Nur Weib und Kind – und meines Vaters Blut –!
+
+
+DER FREMDE
+
+hält ihm ein Pergament entgegen.
+
+Und hier dein eignes! –
+
+
+FAUST.
+Ha, das ist mein Pact!
+
+
+DER FREMDE.
+Die Unterschrift – war deine schwerste Sünde!
+
+
+
+FAUST
+
+wüthend.
+
+Ha, Lügengeist!! – So hast du mich vergarnt!
+
+
+DER FREMOE.
+Dein Blut ist mein! Das Bündniß ist zerrissen!
+
+
+FAUST
+
+mit seiner ganzen Kraft austobend.
+
+Mein Buch!! Mein Buch!!
+
+
+DER FREMDE
+
+mit dem höchsten Ausdrucke.
+
+Ha, jetzt – quäl' ich dich selbst!
+
+
+FAUST
+
+mit steigender Kraft.
+
+
+Du mich?! – Ha, alle deine Höllenflammen,
+Verfluchter, thürme sie um mich zusammen!
+Ich trotze ihnen, trotze deinen Mächten,
+Der wilde Schmerz, ich will mit ihm nicht rechten,
+Ihn jubelnd tragen, deine Wuth verlachen,
+Dich und die Hölle selbst zu Schanden machen;
+So, wild und kühn, mein wildes Daseyn krönen,
+Ich will's – der Faust! – und ewig 
+dich verhöhnen!!
+
+
+
+DER FREMDE
+
+in höchster Wuth.
+
+Hinab, Verfluchter!!
+
+
+Er reißt ihn mit den Haaren gegen den Hintergrund, in diesem Augenblicke verwandelt sich unter heftigen Blitzen und Donnerschlägen die Bühne in eine grause Wildniß, 
+in deren Hintergrunde eine klaffende Höhle, in diese schleudert der Teufel den Faust, von allen Seiten sprüht Feuer herunter, so daß die ganze innere Höhle im Brande zu stehen scheint; ein schwarzer Schleier senkt sich über beide, als jener den Faust unter sich liegen hat.
+
+
+
+
+FAUST
+
+in einem wilden Trotze aufjubelnd.
+
+Ha, hinab! hinab!
+
+
+Donner, Blitz und Feuer. Beide versinken.
+
+
+Der Vorhang fällt.
+
+
+
+
+
+Fußnoten
+
+
+
+1 Es bedarf wohl kaum der Erinnerung, daß diese Reden nicht im gewöhnlichen Theatertone, sondern von einem sehr guten Declamator vorgetragen werden müssen.
+
+
+
+
+
+
+

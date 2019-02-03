@@ -1,0 +1,4974 @@
+
+
+
+
+Verlibtes Gespenste - Die gelibte Dornrose
+
+
+hdl:11858/00-1734-0000-0003-1B0E-0textgrid:p8d8.0
+ Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). 
+
+Lizenzvertrag
+
+
+ Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache 
+
+
+Hinweise zur Lizenz und zur Digitalen Bibliothek
+
+
+
+
+
+                              Entstanden 1660. Erstdruck »Verlibtes Gespenste«: Breslau (Gründer), 1660. Vollständiger Erstdruck der Doppelkomödie: Breslau (Fellgiebel), 1661. Uraufführung am 10.10.1660 anlässlich der Fürstenhochzeit, Glogau.
+                           
+
+
+
+
+Andreas Gryphius: Verliebtes Gespenst, Die geliebte Dornrose. Texte und Materialien zur Interpretation besorgt von Eberhard Mannack, Berlin: Walter de Gruyter & Co., 1963.
+Gryphius, Andreas
+
+6-
+
+
+Berlin
+
+
+
+
+
+
+
+
+
+
+drama
+
+
+
+
+
+
+
+
+Andreas Gryphius
+Verlibtes Gespenste
+Gesang-Spil
+Die gelibte Dornrose
+Schertz-Spil
+
+
+
+
+
+
+
+[Widmung]
+
+
+
+
+
+[Widmung]
+
+
+Zu Ehren der
+Durchlauchtigen und Hochgebornen Fürstin / Fürstin
+Elisabeth Marien Charlotten /
+Pfaltz-Gräfin bey Reihn / zu Simmern /
+Herzogin in Ober- und Nieder-Bayern /
+Gräfin zu Spanheim.
+Deß Durchlauchtigen und Hochgebornen
+Fürsten und Herrn /
+Herrn Georgen
+Hertzogen in Schlesien zu Brig / Lignitz
+und Goldberg / der Röm. Kaiserl. auch zu Hungarn
+und Böheimb Königl. Mayt. Geheimen Rathes /
+Cämmerers und Ober-Hauptmanschafts Verwalters /
+Hertzgelibten Fürstl. Fräulin Braut.
+Auffgesetzet von
+Ihrer Hoch Fürstl. Durchl.
+Dinst-verpflichtestem Knechte
+Andrea Gryphio.
+Vnd auff dem Schaw. Platz zu Glogaw vorgestellet
+den X. Octob. dises cIɔ Iɔc LX. Jahres.
+
+
+
+
+
+
+Inhalt
+
+
+
+
+
+
+Jnhalt.
+Cornelia, welche verspüret / daß Sulpicius mehr der Tochter / als ihr gewogen / unterstehst sich durch ein zugerichtet Geschencke von allerhand Zuckerwerck ihm die Libe beyzubringen. Chloris hergegen verbirget darunter ein Warnungs-Schreiben. Levin welcher die Cornelien libet / beredet ihn / daß er soll aussprengen lassen / als ob er durch diese Früchte umbkommen / indessen konte er als ein erscheinender Geist der Chloris seine Beständigkeit entdecken / und Cornelien zu Levinus Gewogenheit bewegen. Zu diesem ende / befihlet Sulpicius alles in Bereitschafft zu halten. Cassander, welcher von Fabriciusn betrogen /gibet vor / als wenn Sulpicius und sein Diner rasend worden / wordurch alle erschrecket / den Sulpicien besuchen. Selber als er bey dieser Gelegenheit einen Citronat-Apffel von den Zucker-Früchten ergriffen /ko it als von sich selbst / und wird vor eine Leiche gehalten und verlassen. So bald er sich ermuntert / erscheinet er als ein Gespenst der Chloris, Cornelien und Flavien: Wordurch endlich das Spill auff einen frölichen Ausgang auslaufft.
+Das Schaw-Spill beginnet nach Mittage / wehret durch die Nacht / und endet sich mit dem andern Morgen.
+Der Schaw-Platz bildet ab Sulpicius und Cornelien Behausung / wie auch Corneliens Lust-Garten.
+
+
+
+
+
+
+
+
+Personen
+
+
+
+
+
+Personen.
+Spilende in dem Gesang-Spill.
+
+Eros oder die Liebe.
+
+Hymen der Braut-Gott.
+
+Cornelia verlibt in Sulpicius.
+
+Chloris ihre Tochter / verlibt in Sulpicius.
+
+Flavia beyder Cammer-Jungfer.
+
+Sulpicius verlibt in Chloris.
+
+Levin verlibt in Cornelia.
+
+Fabricius, Sulpicens Diner.
+
+Cassander, Levinus Diner.
+
+I. Reyen Sulpicii und seiner Geferten.
+
+
+
+
+
+
+II. Reyen der Bauren.
+Jn dem Schertz-Spill.
+Greger Kornblume verlibt in Dornrosen.
+
+Bartel Klotzmann Kornblume Vetter.
+
+Jockel Dreyeck / Dornrosen Vater.
+
+Lise Dornrose.
+
+Matz Aschewedell verlibt auff Dornrosen.
+
+Frau Salome eine alte Kuplerin.
+
+Wilhelm von hohen Sinnen / Arendator des Dorffs Villdünckall.
+
+Cuntz und Lorentz zwey junge Bauren kamen vor dem Wilhelm mit Hewgabeln hereintreten.
+
+
+
+
+
+
+
+
+Verlibtes Gespenste: [Prolog]
+
+
+
+
+Verlibtes Gespenste.
+Gesang-Spil.
+
+
+Die Liebe erscheinet mit Bogen und Pfeilen in den Wolcken.
+
+
+
+EROS.
+
+Jch / der den Kreiß der Welt: Der Himmel Bau verbinde:
+Jch / der der tollen See gesteckte Grentzen setz /
+Der was die Zwitracht theilt durch Einigkeit ergetz /
+Jch / der der Hertzen Eiß durch neue Hitz entzünde /
+Jhr Sterblichen / ich komm / ich komm und überwinde
+(Wie hoch der Adler flieg / und starck der Löw sich schätz /)
+Nun beyd ich durch den Pfeil zu ihrem Heil verletze
+Sagt ob man schönem Sieg durch alle Zeiten finde!
+Könt etwas meiner Macht / wie hoch es auch / entflihn /
+Nun Löw und Adler beyd an einem Joche zihn?
+Doch beyde sind mehr frey denn sie vor je gewesen.
+Durch mich wird beyder Sta i und Herrschafft stets bestehn.
+Schaut / (wo ihr zweiffeln könt) auff diß was vor wird gehn;
+Wie durch mich / kranck' erqvickt und sterbende genesen.
+
+
+
+
+
+
+
+
+
+Verlibtes Gespenste: 1. Akt
+
+
+
+
+
+Verlibtes Gespenste: 2. Szene
+
+
+
+
+
+
+Scena II.
+
+Sulpicius auff dem Bette. Fabricius. Flavia.
+
+
+
+FABRICIUS.
+Mein Herr! ich bringe Post / die Flavia ist hir.
+
+
+SULPICIUS.
+Der Chloris Dinerin? Wer schickt sie doch zu mir?
+
+
+FABRICIUS.
+Er kan den rechten Grund aus ihrem Mund anhören.
+
+
+SULPICIUS.
+
+Geh / eilends / laß sie ein / was ko it sie mich zu lehren?
+Bringt Flavia mir nichts zu stillung meiner Pein?
+
+
+
+FLAVIA.
+
+Mein Herr es möcht allhir / ja was noch vor ihn seyn.
+Cornelia die hoch ob seiner Angst betrübet;
+Versichert daß ein Hertz / das allzu trew ihn libet /
+Jn heisser Glutt verschmacht / weil ihn der Schmertz verletzt /
+Vnd jhren Leib durch ihn auff seine Bahre setzt.
+Er rette sie und sich / ihr beyder Heil und Hoffen
+Befestet diser Tag / wo seine Seel ihr offen.
+Er nehme von ihr an den Brieff der Libe Pfand.
+
+
+
+SULPICIUS.
+Von Chloris aber nichts.
+
+
+FLAVIA.
+
+Diß Werckstück jhrer Hand
+Die Indianschen Frücht' in Zucker eingeleget.
+
+
+
+SULPICIUS.
+Vnd von ihr gar kein Wort?
+
+
+FLAVIA.
+
+Sie / die der Mutter pfleget
+Stets an die Hand zu gehn; thät was man ihr befahl.
+
+
+
+SULPICIUS.
+O Mutter sonder Lib!
+
+
+FLAVIA.
+O Tochter voll von Qval!
+
+
+FABRICIUS.
+Libhaber sonder Rath / weil man zu sehr jhn libet!
+
+
+SULPICIUS.
+O Briff! der meinen Geist biß auff den Tod betrübet!
+
+
+Cornelien Brieff.
+
+
+
+Jch klage / werther Freund / daß ich unwürdig sey
+Die Hitze die ihn brennt / mit meinem Blutt zu dämpffen.
+Er fühlt vor Schmertzen nicht / wie Schmertzen mich bekämpffen.
+Nur einig umb daß ich von seinem Leiden frey.
+Er nehme denn mein Hertz / daß es vor seines sterbe /
+(Wie es zu sterben wüntscht /) und seines schick er mir /
+Damit es ja der Tod des Lebens nicht enterbe.
+Ja ist es bey ihm tod / so leb es doch allhir.
+Meine Chloris sendet Frücht.
+Bessers können Kinder nicht.
+
+
+
+FABRICIUS.
+Diß Kind / die Chloris, weiß mehr denn die Mutter wil.
+
+
+
+FLAVIA.
+Nein warlich! Chloris sucht bey ihm kein Kinder-Spil.
+
+
+SULPICIUS.
+Verzeuch / ich wil geschwind zwey Zeideln Antwort schreiben.
+
+
+FABRICIUS.
+Ko i / ko i / wir wollen schon die Zeit allhir vertreiben:
+
+
+FLAVIA.
+Was geben wir wol an / das gut vor mich und dich.
+
+
+FABRICIUS.
+Weil es die Zeit erlaubt so frage: Wilst du mich!
+
+
+FLAVIA.
+
+Diß Jahr geschiht noch nichts! der Weitz ist nicht gesäet
+Zu unserm Hochzeit-Brot.
+
+
+
+FABRICIUS.
+
+Ob du mich schon verschmähet:
+Weiß ich doch manche wol / die Finger nach mir leckt.
+
+
+
+FLAVIA.
+Sie hätte sie gewiß in Honig eingesteckt.
+
+
+FABRICIUS.
+
+Jn Honig / oder was das man vor Zucker schätzet.
+Was meynst du! hat mein Herr nicht neulich außgesetzet /
+Vor meine treue Dinst (dafern er sterben solt)
+Zwo Wiesen / einen Hoff / Sechs Hundert Stücke Gold
+Vnd mehr noch als ich dir so eilends kan erzehlen.
+
+
+
+FLAVIA.
+Du zehlst zu vil in eil!
+
+
+FABRICIUS.
+Es kan kein Haar dran fehlen.
+
+
+FLAVIA.
+Hat Chloris nicht vor mich noch dreymal mehr bereit?
+
+
+FABRICIUS.
+Die stirbt noch lange nicht.
+
+
+FLAVIA.
+Hat doch dein Herr noch Zeit.
+
+
+FABRICIUS.
+Jch wolt / umb Chloris auch / nicht rathen daß er stürbe.
+
+
+FLAVIA.
+Noch ich / daß Chloris schon zu deinem Nutz vertürbe.
+
+
+FABRICIUS.
+
+Du bist nur gar zu klug. Wol! weil ich dir nicht taug:
+So nimm Cassandern hin / er hat ein einig Aug /
+Drey Mäuler / eine Stirn / zwei Knie und funffzehn Finger.
+
+
+
+FLAVIA.
+
+Cassander ist bey mir noch zwantzig mal geringer /
+Als du.
+
+
+
+FABRICIUS.
+Ey zürne nicht. Genung! mein Herr der winckt.
+
+
+SULPICIUS.
+
+Nihm hin! ob schon mein Leib ins kalte Grab versinckt /
+Vmb daß ich gar zu trew die mein nicht acht geliebet /
+Vnd die nicht liben kan die mir das Hertze gibet:
+So wisse Chloris doch daß ich der jhre bleib.
+Den Demand schenck ich dir!
+
+
+
+FLAVIA.
+
+Mein Herr! bey meinem Leib!
+Jch darff dergleichen Gunst von niemands Hand annehmen.
+
+
+
+
+FABRICIUS.
+Mein Herr! er dringe nicht! sie wird sich schon beqvemen.
+
+
+FLAVIA.
+
+Mein Herr! umb darzuthun daß ich die seine sey
+Vnd ihm zu dinste steh; so schreib er Chloris frey.
+Jch wil was er mir traut jhr unvermerckt zubringen.
+
+
+
+FABRICIUS.
+Jch dacht es daß sie würd' auff dieses wincken singen.
+
+
+SULPICIUS.
+Gib / wenn du Antwort hast / dich heimlich bey mir an.
+
+
+FLAVIA.
+Ja noch vor diser Nacht / wo ich nur sicher kan.
+
+
+Sulpicius. Fabricius.
+
+
+
+Daß Chloris gar nichts solt in diesen Früchten senden
+Ko it mir nicht gläublich vor soll von so lieben Händen
+Jch keinen Gruß mehr sehn! ko i last uns was sie schenckt
+Durchsuchen! wahre Gunst / die keinen Zwang bedenckt /
+Die kein gebieten pocht / weiß Mittel zu ersinnen
+Wenn auff der grossen Welt kein Mittel zu gewinnen.
+
+
+
+FABRICIUS.
+Hir find ich ein Papir in Cinament versteckt.
+
+
+SULPICIUS.
+
+Papir! O das mein Hertz aus Nacht und Grufft erweckt!
+Papir das Chloris hat; flist libe Thränen flisset!
+Gemahlt mit treuer Faust / und schönem Mund geküsset!
+Gezihrt mit reiner Seid / gedruckt an keusche Brust.
+Dem mein Verhängnüß / Glück und Heil und Noth bewust!
+Wie wol hat dich die Faust / die / was halb tod erqvicket /
+Jn theure Specerey verwickelt / mir geschicket!
+
+
+
+FABRICIUS.
+Wie so bestürtzt mein Herr! sinds Freuden? ist es Leid?
+
+
+SULPICIUS.
+O Arglist über List! O Eifer-sicher Neid!
+
+
+FABRICIUS.
+Das lautet frembd und bund.
+
+
+SULPICIUS.
+
+Noch frembder ist diß Schreiben!
+Hilff Himmel! hilff! man sucht!
+
+
+
+FABRICIUS.
+Wen.
+
+
+SULPICIUS.
+Mich.
+
+
+FABRICIUS.
+Wie?
+
+
+SULPICIUS.
+Zu entleiben.
+
+
+FABRICIUS.
+Was sagt mein Herr! ists Traum! ists Spil! ists Schertz! ists Wahn?
+
+
+SULPICIUS.
+Cornelie? was hab ich dir je Leids gethan?
+
+
+FABRICIUS.
+Genung! wo nicht erlaubt zu hassen / was uns libet!
+
+
+SULPICIUS.
+Jst diß was Flavie mich zu erquicken gibet?
+
+
+
+
+Der Chloris Brieff.
+
+
+
+Jch schreibe (doch verdeckt!) mein Hertz die Mutter heist:
+Daß ich ihm übersend was mein bestürtzter Geist
+Zu schicken sich beschweret!
+Das Zuckerwerck gewehret /
+Durch mich nicht schuldige / die sein Gemüte sucht /
+Zu zihn in ihre Gunst / durch falsch geschminckte Frucht.
+
+
+
+FABRICIUS.
+Diß ist ein frembder Fall!
+
+
+SULPICIUS.
+Wer klopfft?
+
+
+FABRICIUS.
+
+der mit dem Geist /
+Vnd Hertzen stets verpflicht ihm seine Trew erweist.
+
+
+
+Levin. Sulpicius. Fabricius.
+
+
+
+
+SULPICIUS.
+Willkommen libster Freund! mehr den gewüntscht willkommen?
+
+
+LEVIN.
+Wie / hat der siche Schmertz so wenig abgenommen?
+
+
+SULPICIUS.
+Der Glider Schmertz ni it ab / die Hertzens-Wunde zu.
+
+
+LEVIN.
+Ein schmachtend Hertze wüntscht zu Heil der Wunden ruh.
+
+
+SULPICIUS.
+Man sucht auffs new den Geist unglaublich zu bestürmen.
+
+
+LEVIN.
+Jch wil den Geist mit Rath und Beystand noch beschirmen.
+
+
+SULPICIUS.
+Schaw was Cornelie mir vor Geschencke schickt /
+
+
+LEVIN.
+Die mein beklä ites Hertz bezaubert und bestrickt.
+
+
+SULPICIUS.
+Die durch gezuckert Gifft mir Libe wil bey bringen.
+
+
+LEVIN.
+Wehn kan ihr Auge nicht / auch sonder Gifft bezwingen?
+
+
+SULPICIUS.
+Nur mich nicht / der jhr Kind weit über alles schätz.
+
+
+LEVIN.
+Mich wol / der ihr Gesicht ob Stern' und Sonne setz.
+
+
+SULPICIUS.
+Ach warumb kan er sich doch nicht in mich verwandeln:
+
+
+LEVIN.
+Last wie man jhm und mir zu Hülffe ko i abhandeln.
+
+
+SULPICIUS.
+Sie schickt verlarvte Gifft! kommt diß von liben her?
+
+
+LEVIN.
+Ja freilich! weil der Grimm der Lib jhr nur zu schwer.
+
+
+SULPICIUS.
+
+Sucht sie die Sinnen mir zu zwingen? unvonnöthen!
+Wann sie die Chloris mir verwidert; kan sie tödten.
+
+
+
+LEVIN.
+
+Der Anschlag möchte noch uns allen dinlich seyn.
+Man geh aus; daß er stracks durch unerhörte Pein /
+Als er diß Traur-Gericht zu schmecken nur beliebet:
+
+
+Befallen. Wo sein ach ihr zartes Hertz betrübet:
+So hat sie freylich nichts als seine Gunst begehrt.
+Er stelle sich gantz tod. War ihr sein Leben werth:
+So wird sie seine Leich mit bittern Thränen ehren.
+
+
+
+SULPICIUS.
+Wie solte Chloris wol die herbe Zeitung hören?
+
+
+LEVIN.
+
+Man meld ihr in geheim der gantzen Sachen Grund.
+Dafern er tod geglaubt kan zu beqvemer Stund
+Cornelie auff mich ihr zagend Hertze wenden /
+Vnd last die Chloris jhm zu letzt in seinen Händen.
+
+
+
+SULPICIUS.
+Glaubt iemand mich vor tod wie solt ich denn erstehn?
+
+
+LEVIN.
+Man spürt die Ohnmacht oft viel Stunden nicht vergehn.
+
+
+SULPICIUS.
+Diß Werck siht wichtig aus / und dörffte schlecht gerathen.
+
+
+LEVIN.
+
+Rechtschaffne Libe würckt die grösten Wunder-thaten.
+Dein und ihr beyder Haus entscheidet eine Maur /
+Die nicht so dick und fest! was! solt uns beyden saur /
+Vnd nicht wol möglich seyn zwey / drey Stein auszuheben.
+Daß du von hir dich möchst ins Kellers grufft begeben.
+Von dannen kanst du leicht wenn Chloris einsam sitzt:
+Vernehmen ob sie sey in Gegen-Lib erhitzt /
+Eh je Cornelie auff dises Stück mag sinnen.
+
+
+
+SULPICIUS.
+
+Jch lasse mich von dir zu aller Nutz gewinnen.
+Du / bleib uns beyden trew / dir blüht / wo dieses Stück
+Nach unsrem Wuntsch auslaufft / ein nie verhofftes Glück.
+
+
+
+FABRICIUS.
+
+Jch bin bereit vor sie mein Leben auffzusetzen.
+Gibt man mir jemand zu?
+
+
+
+LEVIN.
+Cassander kan nur schwetzen.
+
+
+FABRICIUS.
+
+Wol / ich versteh sie schon. Ko it er mir vor die Hand /
+So din' unwissend ihm uns doch sein Vnverstand.
+
+
+
+
+
+Die gelibte Dornrose.
+Schertz-Spil.
+
+
+
+
+
+
+
+
+Die gelibte Dornrose: 1. Akt
+
+
+
+
+Erster Auffzug.
+
+Gregor Kornblume.
+
+
+Kommet auff den Schawplatz / stehet eine lange weill und beschauet die Zuseher / nachmals fänget er voll Verwunderung an.
+
+
+Je ney! je ney! ie / ie was schüne Leute hots hie / ie ney! wen me üch olle harzen selde würde nie doch in virzahn Tagen nicht fertig!
+
+
+Stehet wider eine weile und bedencket sich / nachmals stöst er mit dem Stabe wider die Erden und fähret fort.
+
+
+Ja wos soll ich sayn? Js ist a su e Ding im de Libe! Siß wull enne Sache wen me sich in ees vernart hott: wens og balde agiht. Wen ober der geyer eme e Water derzwischen macht / wie mir / se iß nischte anders as wen inner in der tümmertze seße und krigte nischte as schimlich Brudt und stinckende Wosser im Suntige ze frassen und ze sauffen. Saht / ich bin su vertifft uff Lise Durnrusen / das ich gar dulle wärden möchte. Das Haüt ist mer su thamisch / Jch schwere bey menner lichte Sile / wen ich en andern Kopp wüste: Jch schmisse dan wider die nechste Moure das de Schirbeln rumbe springen. Gleebt mers ok ß / mangelt nich a mire Jch welde garne wen Sie welde. Ober wen die Braut nicht Lust hot / se wird sälden hochzig. Se hot / (die worht ze saan) mich wull e bisseln Lib. Se lests ober nicht vill mercken. Doch wir wurden ünß noch ju vertran: doß ist aber gar der Teuffel! Mei Vetter / und Nanne / schlon unde reffen sich alle tage mit enander aß wen se dulle und thüricht wern. Vnd saht ich soll vun 
+meimn Vetter erben / drüm darf ich in nicht derzürnen / unde nischte thun was e nicht garne sitt. Jnse Kirchschreber jo ihr künt nicht gleeben was he vur e verständiger Man is! ha kan ausm grussen Buche lasen / ha kon singen / a verstiht sich a bisseln ufs Calender machen / wen Michehele kümmt / se weeße balde wie lange ß noch biß uff Sanck Merten (do e den Dacem hult) Ja dar hott mer gesait / wenne der Vater eme nich will de Tochter gahn / su thärste me se nicht namen / se keme den salber; sist neme me eme da Kupf drum weeß ich meime arme Leide nicht ze gethun / oder ze derdencken woß ich an gaan soll. Jch war schir willens erne ze eme Ziganer ze gihn wer weeß ob mir der Karle nicht hette wohr soyn / oder süst en guden Rod gahn kinn. Ober saht! war kimmt do her gestulpert?
+
+
+Bartel Klotzmann bringet einen Hahn unter dem Arme mit sich / welchem der Fuß entzwey geschmissen.
+
+
+Ja es gleebts ke Mensch ufm lichten breiten Gots Boden / wos das für e Kroitze iß / wen me en sulchen leechtfertigen Jhrvargaßenen Nookber hott.
+
+GREGER.
+ O siß Klotzman! Mey Vetter ha wird wider uff Durnruses Nanne rasen. Jch will a bisseln hie hinger da Boom traten unde hüren wasse draus warden wird.
+
+
+BARTEL.
+ O Mey Haan! O mey Haan! O du armer Haan siß key Haan in dam gantze Fürstenthum dar dam Hahne die woge helt.
+
+
+Jockeldreyecke kommet von der andern Seiten und träget einen mit sidendem Wasser verbrandten Hund.
+
+
+
+
+JOCKEL.
+ Hul ß der hänger. Jche kans nimme leiden / ha macht mer dar Pussen de länge ze vill. Jch steche ein noch e mohl e Masser in Bauch / dos em der dräck zur Wunde raus fährt!
+
+
+GREGER.
+ Nu saht wos der Teufel kon? da brenget e Durnrusens Vater och har. Wu se nu enander begähnen se wirds an gihn.
+
+
+
+JOCKEL.
+ Meine arme Lusche! O du arme Lusche! Se han dich verbrand ase wen de e Püleweesser werst.
+
+
+BARTEL.
+ O mey armer Haan! dan Schaden verwingest du unde iche nimmer mir!
+
+
+JOCKEL.
+ Du arme Lusche! hett Jch doch garne weln behandeln unde bezahlen was de gefrassen hust: wen dich die heellusen Leutte nich su getribeliret betten. Nu ich schwere! Se hans nicht dihre / ober wull mir gethan.
+
+
+BARTHEL.
+ O du armer Han. Jch schwere: ich wil nich ruhn / biß ich Jockels Cuntzens Been wider e zwie geschlain ha.
+
+
+JOCKEL.
+ Jch schwere! Jch will mäy Häytt nich sanffte leen / biß ich Bartels Gritte wider da Kupff verbrüht ha / das er de Wulle stüben soll.
+
+
+BARTEL.
+ War raset do fürne?
+
+
+JOCKEL.
+ War macht sich dorte hingen so breet?
+
+
+BARTEL.
+ O siß Jockel salber.
+
+
+JOCKEL.
+ Do kümmt Bartel / wos gilts wir weln mit enander an schneiden.
+
+
+GREGER.
+ Nu warn Handel über Händel warden. Jß wird noch a Krig aus dam Dinge / int stihn / dar grüsser als der Tartersche und Türcksche.
+
+
+JOCKEL.
+ Gott grüß ich Nuckber. Vnd ga ich su vill Glück aß ihr ward seid.
+
+
+BARTEL.
+ Vnde euch su vill aß er verdinet hat.
+
+
+JOCKEL.
+ Wu stahm? Jch dencke alle zeet ich verdine besser Glücke asse du.
+
+
+BARTEL.
+ Do wees mey Hahn dervon ze kreen? Was hat der dar arme Karle gethon / das em dey Kuntze e ß' Been e zwee geschmissen hott?
+
+
+
+JOCKEL.
+ Do soll meine Lusche druff antwertten. Se hot der erne e Hünle der traten / das se deine Grüte su zugericht hott / aß wen se der Dibs Hänger halb geschungert hätte. Jch wil der gar balde de Gusche su verbrämen das der dar Baart aussahn sol wie menner Luschen Faal.
+
+
+BARTEL.
+ De darfst mer nich gar vill / se will ich der alle beede Beene in klene drümer schlon / das de uff den bots Fingern hem krichen salst. Mey orm Hahn ging in meim egene Hofe / und kreete uff seime Miste / se schmiß em dey Knecht Cuntze ohne Schold und Vrsach / das e schrie asse wen a rasend worden / sich ock. Wie em der Kamp henget.
+
+
+JOCKEL.
+ Vnde meine Lusche hatten se in deinen Hoff eingelockt / die büse Buben! Se kümt deine Vettel de Grütte unde geüst er en Tupffel heeß Wosser oder woßs war uff en Leeb / unde schmest er da Topp noch daß gar krachte.
+
+
+GREGER.
+ Ja su gihts! hie zebricht me Töppe / do Krüge. S' giht ock alles über da orme mich aus.
+
+
+JOCKEL.
+ Wen sich meine Lusche von heeleren dinge verbrandt hette / welde ichs nich gruß achten de Hoore würden er yü wider wachsen.
+
+
+BARTEL.
+ Wen mey Hahn schlächt wäg das Been gebrochen hätte / müste ich mich och ze ruhe gahn / und welde nicht e sulch Laben machen.
+
+
+JOCKEL.
+ Jch schisse dir uff denn Hahn / wos iß üm en Hahn? saht olle har? Meine Lusche! och? Se wedelte su mit ein Zahle wen ich heem kam aus der Stodt oder von Hofe se hüppte / Se sprang / se heuchelte mer. Se that aß wen se mich wolde wilkummen hessen / S wor ock schade dasse key deutsch reden kunde. Se biß sich mit olle Hunden im Durffe rüm. Se vertrug sich su wuhl mit e Katzen. Se wachte ze nachte besser aße Zahn Mußkätenier. S' kunde sich nich e Meuseln reen / se gabse e zeechen. O se baal su schine. Wen ihrer noch dreyzehn wern gewast / unde mey Kater hatte mite ey gestimmet / S' bette besser geklungen / aße eene kleine Vrgel / die nicht gruß ist.
+
+
+
+BARTEL.
+ O mey Hahn: Mey Hahn: e hotte müh Verstand im Gehirne aße manch Kolender macher / e hottelß Wätter su just im Kuppe a krete stracks wens anders waren sulde. Key Hahn im gantzen durffe nams mit em an. S' wor ock anne lust wen e smurgens de Leutte uff wackte. Ho: de andern Hanne kreeten weet weet hingerm har? und wen Se su de wette met enander kreeten / se wars nicht anders / asse wen der Leyermann unde der Bockpfeefer mit enander eeß uffmachten / a fuchte mit allen Hahnen uf der Ow. Vnde wen a gleich zehackt unde bluttig woor wie enne Saw / Se joitha doch de andern olle ze winckel O wer' ock me Hahn noch frisch unde gesundt? Jch schisse dir uff den reudigen Hund.
+
+
+JOCKEL.
+ De hast vill ze scheissen? wirds ock ausbraichen / das dey Söy junge meene Binstöcke derbrochen hott; de wirst wul sahn wiß gihn wird.
+
+
+BARTEL.
+ War wor dar / dar mer yeßmahl de junge Beume unden abgescheelet hotte daß se verdorren müsten? worß nicht de gruß Knäicht he?
+
+
+JOCKEL.
+ War wor dar / dar am Jemtige em Juncker de Krabse aus der Reuse gestolen hotte / unde hotte se in der Stodt verkaufft / unde alle Haller versuffen? wars nicht dene Mittelmoid? he?
+
+
+BARTEL.
+ War wor dar / dar vor dreywuchen hotteß Groß welln em Walde wäg sengen / unde hotte den Wald angezünget? Worß nicht dey Schaffer Junge? he?
+
+
+JOCKEL.
+ War wor dar / dar mir all Morallen gestohlen hotte unde hotte ses Junckern Weibe gebrocht? Worß nicht deene Vih-Moid? he?
+
+
+BARTEL.
+ War wor dar / dar merß Kurn aussem Sacke uff der Mühle gestaulen hotte? Worß nicht dey MittelKnaicht? ha?
+
+
+JOCKEL.
+ Ju? ha iß nicht su geetzig / wie dey Gänse Mäideln die milckt mer de Küh aus wen se uffm Acker giht und frißt die Milch das se dron dersticken möchte?
+
+
+BARTEL.
+ O die iß lange nich su klug aß dey Schaffer e drischt merß nachts de Weeze Garben uffm Fälde aus / und läst Christ Stritzel dervon backen / daß he dran derwurgen möchte.
+
+
+
+JOCKEL.
+ Hatte dey Pfarde Junge nicht me i Pfarden de Schwäntze ausgerofft / unde Hütschnüre droß gemacht / daß e dran muste gehangen warden.
+
+
+BARTEL.
+ Hotte deine Kasemutter nich Kalk ins Junckern Fischtrog gewurffen / daß em der grusse Haicht dervo war gestorben? he?
+
+
+JOCKEL.
+ He / Woß worn doß fer Nachtraben die meer snachts as key Monschein wor / die Birnbeime schittelten he?
+
+
+BARTEL.
+ Woß wurn daß für Gäste / die mir jeßmohl aß e su reinte / die Pflaumen aussm Backvfen frossen? he?
+
+
+JOCKEL.
+ Vnde die / die vben uffm Schüttboden meene Täuben mit ein Schlag garn fingen / he?
+
+
+BARTEL.
+ He? unde die / die em Junckern an Hasen aus der Luft mit em Fisch Käscher fingen? he?
+
+
+GREGER.
+ O des dinges wird wider ende noch uffhüren / wider zohl noch Schwantz. Jch muß ock hie gihn. O Sie krigen enander schune bem Kuppe / halt inne / halt inne. Fride. Gott grüß oich olle beede.
+
+
+BARTEL.
+ Ne sich / ie wos hast du hie zu schoffen?
+
+
+JOCKEL.
+ Wu führt dich der lützel hie bar?
+
+
+GREGOR.
+ Jch kumme in Fride und Frindschafft. Jhr seed mer olle beyde lieb. S' iß schade daß ihrch su mit enander kifelt i er iß mey Vetter / der ander könde noch wull mey Voter warden / wens e mohl glückte. Vnd ihr Schandfleckt und hollüppert enander hie aus wie die kleine beschissene Kinder.
+
+
+BARTEL.
+ Dey Vater soll e warden? doß gestih ich nu und nimmer mi / e magß hängers undß büttels Vater warden.
+
+
+JOCKEL.
+ Woß? Jch selde dey Voter warden / ie wälde ich meene Tochter labendig schinden undß lader em Weeßgarber varkeuffen / asse me Kind in ene sütte Frindschifft hi gahn.
+
+
+GREGER.
+ Je thütt ock nicht a su? Thütt ock nich a su / iß doch der Schode nich e su schrecklich. Vetter ich wil ich in andern Hahn 
+gahn / und jhr Nuckber / seed ze fride der Hund wird ju wider heelen. Jch soih ich zu / su wohr aß ich ihrlich by: stirbet Lusche / se will ich oich ennen bessern schaffen / von eures Hundes Voter Muttern / Bruders Suhnes Schwaster Kinde / oder Zucht wie meß heist / unde selde ich meen neu Hütt und den lündischen Rauck druff setzen.
+
+
+BARTEL.
+ Sich doch du Schloiluß / de hast gewaltig vill ze verschencken / du battelhund du / gih ausn Ogen / su weet dich deene Beine train. Wos mach ich / daß gibt nochem Schaulze zu / Wos gilts der Hahn sol mer theur genung bezohlet warden.
+
+
+JOCKEL.
+ Gih / gih / je me dich hi träet. Jch wil dich süst a su zurichten / dos dich der Bader schmeeren sool.
+
+
+GREGER.
+ Je doß derborme dans derbormen kon. Je ney Jockell wir sein ju immer gude Frinde gewäst / je wie kü its den / doß wir itzt olle tage Händel krigen unde Strett hohn.
+
+
+JOCKEL.
+ War kon länger Ruh han / aß der Nuckber wil / wos hot a mich mit meeme Hunde ze näcken?
+
+
+GREGER.
+ Siß zins wie z' euch / saht / eure Leute hetten auch wul unsen Hahn künn ze fride lussen / Jhr wüst wul / alde Leute seen wünderlich unde gämlich.
+
+
+JOCKEL.
+ Js ha wünderlich / ie su bi ich seltzem. Eis ims ander. Verstihst de mich wull?
+
+
+GREGER.
+ Mey eefältiger Roth were / wer machten Fride / schafft ihre eure Grüte wäeg / Jch will men Vetter bereden ha sol Cuntzen och obschoffen / die zwee spinnen doch ollen okroott on / und – –
+
+
+JOCKEL.
+ Was und?
+
+
+GREGER.
+ Vnd – – – Ey ich kons nicht soyn.
+
+
+JOCKEL.
+ Ey soy hat du Narr – – – ich ho ze thun
+
+
+GREGER.
+ O ney. Jhr möcht büse warden
+
+
+JOCKEL.
+ Nu ney / soy inde Har.
+
+
+GREGER.
+ Wen er mer wölt ....
+
+
+
+JOCKEL.
+ Was?
+
+
+GREGER.
+ Wen er mer wolt.
+
+
+JOCKEL.
+ Wos soll ich den wöllen?
+
+
+GREGER.
+ Wen er mer wölt Eure ....
+
+
+JOCKEL.
+ Je nu wos den? Woß eure den?
+
+
+GREGER.
+ Wen er mer wölt – – – Eure – – – O ich wees nischte wie mer iß.
+
+
+JOCKEL.
+ Ney sich / wirst de doch rutt wie enne tudte Leeche / Nu hurtig / soyß raaß.
+
+
+GREGER.
+ Ja wen er mirs vor welt zu soyn /
+
+
+JOCKEL.
+ Nu ju / wu sichs ok thun läst.
+
+
+GREGER.
+ Nu de Hand druff.
+
+
+JOCKEL.
+ Nu sich / do hust du se / was weist de den nu?
+
+
+GREGER.
+ Wen er mer wöllt ... wen er mer wellt ... wen er mer welt ... Eure ... Tochter gahn.
+
+
+JOCKEL.
+ Ju doch / Ey hyret doch. O ... doß iß gor e ander Wärck. Das Ding ho ich der nich zugesoyt. Ney:
+
+
+GREGER.
+ Jr hott mer ya de Hand gegahn.
+
+
+JOCKEL.
+ Nischte / Ney / uff doß Ding nicht.
+
+
+GREGER.
+ Je bedenckt ich ok recht / saht ich heesse Kornblume unde Sie heest Durnruse. S würde su en schünen Krantz gahn / blow unde Fleeschfarbe / swächst och su hübsch zesammen / s würde och.
+
+
+JOCKEL.
+ Wäg / wäg / siß wider gehohn noch gestochen ... Schlag der ock de Grillen ossem Heete / und iß enne Mehre in der glüende Asche gebroten / se wird dich der Schwingel wul vergihn.
+
+
+Jockel Dreyecke gehet ab.
+
+
+
+
+GREGER.
+ Nu das iß ees / dar seen nicht zwee. Die Stadter heessens an Kurb / ß' mag mer wul eene zimliche Side wanne sein. Nu weeß ich bey menner trew nich wi ichs soll anfangen. Jch mus worten biß de Jungfer kümmt. Se hott mirs wull a su holb unde 
+holb e bisseln zugesoyt. Ober woß iß / siß der Teuffel Jche ho kin Zeugen / Jche ho och kinn guden Frind .....
+O mey Laben / is su vul vull Elendes aß e beladen Mistwahn voll Vnrenikeet.
+
+
+Bartel in deme er wiederkommet zu Kornblumen.
+
+
+Hürst duß / du junger Rotzleffel. War hiß dich vorkummen und deine Nose in ünsern Dräck stecken / Sis schande und sünde vor dan Jhrlichen Leuten / doß sittene junge Schlingel den alden olle Ogenblick wäln übers Maul schären.
+
+
+GREGER.
+ Ney saht ock / Vetter / ich thu ju alles ims besten willen / ich weeß die libe Zeet noch wull / do ihr pflait ze sain / s' stünde alden Leütten hübsch an / wen se sich frindlich mit enander begingen.
+
+
+BARTEL.
+ Sis dir in Hals geschissen? Jch wees wull wu dirß sitzt / S' iß dir umb de Moid ze thun unde nicht ümb ünse Frindschfft.
+
+
+GREGER.
+ Je nu Vetter. Wers denne e su büse gemeenet? Lise Durnruse iß jung / se iß schine / se iß reech / se iß frum / se siht mich och nicht ungern. Jch meene / wir können mit Gott und jhren noch wull e paar warden.
+
+
+BARTEL.
+ E paar warden? doß mus nicht geschahn / weil meer de Ogen uff stihn. Jch wil ie men alden Hols dron setzen.
+
+
+GREGER.
+ Ey Vetter / bedenckt ich. Jr ward mich doch syst verliren wu ich de Jungfer nicht krige se mus ich starben.
+
+
+BARTEL.
+ Je stirb inde hie / Jch war mich och gruß drum hermen / ümme enne sulche ungerothene büsse Blutter.
+
+
+GREGER.
+ Nu Vetter / ir wards wull sahn.
+
+
+BARTEL.
+ Sahn? Sich ich soy dirs mit nüchternem Maule? Wo ich dich noch e mohl be Durnrusen finge / oder derfohre / doß de ock e enig Wortt mit er gered hust / se salst de nicht e dräckeln vun mir erben. Jch welde ih mey Vermügen ins Hundsloch warffen / as doß ich wissen wälde / daß mey Gutt do hie gerothen selde.
+
+
+GREGER.
+ Vetter / macht mit mer wos er wällt / s' eß mir Vnmüglich / Jch kons nicht lussen / ihr künnt nicht gleüben welch e 
+Dings üm de Libe iß. Denckt og wie euch war / do er noch ze nachte immer über de parchen stget unde ze Muhme Bäschen uff de Bulschfft gingt / wen eur alder Nanne meenete ihr hett schune drei Stunden im Bette gelahn.
+
+
+BARTEL.
+ Je du lechtfertiger trotziger Vogel / salst du mir mit sittenen Pussen uffgezeun kummen? gih mer aussen Ogen / reume mers Haus kumm mer dey lattige nicht wider ney. Dos dich bots geyr / bots raabe. Warde ich dich noch emoll hie antraffen / se muß ich zum arme Sünder an der warden.
+
+
+Gehet ab.
+
+
+Greger Kornblume.
+
+
+Je wos dünckt ich ihr libe Freunde / wie eime sein mus wen e sich muß a su zehudeln lussen? Jch mus schune vu meime Vetter stertzen / wen ich ok wüst wu ich erne de Kiuh eibrächte die e mir unterhalten hott. Nu siß ja zu allen dingen roht / asse ok wider da tudt / s wird ju och ern e Mittel sein.
+
+
+
+
+
+
+
+
+Verlibtes Gespenste: 2. Akt
+
+
+
+
+Der Ander Auffzug.
+
+Cassander. Fabricius.
+
+
+
+CASSANDER.
+Woher mon cher amy mit schauffeln / grabscheid / pickē?
+
+
+FABRICIUS.
+
+Mein Herr steckt in dem Wahn sein Grab sey zu beschicken /
+Sein Sarg und Todten-Kleid soll alles seyn gemacht /
+Wo nicht so müss' er fort und noch vor diser Nacht.
+
+
+
+CASSANDER.
+Voila bien les plus foux de tous les foux de monde.
+
+
+FABRICIUS.
+Die klügsten werden offt zu Thoren manche Stunde.
+
+
+CASSANDER.
+Helas, was gibst du an?
+
+
+FABRICIUS.
+Diß was mein Herr begehrt.
+
+
+CASSANDER.
+Je crains daß dir der Kopff und ihm das Hirn verkehrt.
+
+
+FABRICIUS.
+Warumb? Vmb daß ich thu was er von mir wil haben?
+
+
+CASSANDER.
+Ne raille point, amy? Wilst du ihn denn begraben?
+
+
+FABRICIUS.
+Nein! sondern emsig seyn daß man sein Grab bereit.
+
+
+
+CASSANDER.
+He bien, si tu le veux; so hast du hohe Zeit.
+
+
+FABRICIUS.
+Zeit / daß ich (wo er stirbt) zu sterben mich bemühe.
+
+
+CASSANDER.
+Des maux quil a souffert ton Ame est attendrie,
+
+
+FABRICIUS.
+Ja Mohn ist vor den Schlaf / les soufflets acht ich nicht.
+
+
+CASSANDER.
+Quoy, vos ignoretz donc?
+
+
+FABRICIUS.
+Ja Dunckel ist nicht Licht.
+
+
+CASSANDER.
+Qu' entend i' ô Ciel?
+
+
+FABRICIUS.
+Kein Tand /
+
+
+CASSANDER.
+Vous estes foux ensemble.
+
+
+FABRICIUS.
+Das beste sammlet man:
+
+
+CASSANDER.
+Ma foy, monsieur, je tremble.
+
+
+FABRICIUS.
+Kein trampeln gilt hir nicht kein Zittern vor den Tod.
+
+
+CASSANDER.
+C'en est trop.
+
+
+FABRICIUS.
+Ja ein Tropff fleucht in der letzten Noth.
+
+
+CASSANDER.
+O Honte!
+
+
+FABRICIUS.
+O Hund selb-selbst.
+
+
+CASSANDER.
+
+Il se faut eloigner
+Ie ne voy pres d' un fou que des maux a gaigner.
+
+
+
+FABRICIUS.
+
+Jhn hätt ich anderwerts noch nicht von mir gebracht.
+Er sprengt die Zeitung aus (was wett ich) eh es Nacht /
+daß beyde Herr und ich von Witz und Sinnen kommen.
+Vnd diß dint zu dem Werck das wir uns vorgenommen.
+
+
+
+Flavia. Cassander.
+
+
+
+
+FLAVIA.
+
+O Himmel! welch ergrimmte Schmertzen
+Beschweren die geklämmten Hertzen;
+Die in erhitzter Libe brennen.
+Doch keine wider-Lib' erkennen.
+
+
+
+CASSANDER.
+
+Mon ange! mein Licht und ma vie
+Permettetz daß ich nider knie /
+Et offre a vous mon cœur & Ame.
+Die sich in euch tres haute Dame.
+
+
+
+FLAVIA.
+
+Auff. Jch hab itzt nicht Zeit zu hören
+Auff solchen Tand!
+
+
+
+CASSANDER.
+
+Bey meiner Ehren.
+Je Iure.
+
+
+
+FLAVIA.
+Was? Jsts von der Huren!
+
+
+CASSANDER.
+Ah! pure.
+
+
+FLAVIA.
+
+Jch weiß nichts von der Fuhren.
+Man hat bey Thoren nie gewonnen.
+
+
+
+CASSANDER.
+Vous estes ma Diane & Sonnen.
+
+
+
+FLAVIA.
+Weg Thor!
+
+
+CASSANDER.
+Nenni, Fabricius wüttet.
+
+
+FLAVIA.
+Was hör ich!
+
+
+CASSANDER.
+
+Sa teste ist zerrüttet.
+Il parle von so tollen Sachen
+s' macht une pierre darumb lachen.
+
+
+
+FLAVIA.
+Wann hast du das von ihm vernommen?
+
+
+CASSANDER.
+Ce méme heure als ich von ihm kommen.
+
+
+FLAVIA.
+Jsts Falschheit? Glaub ichs.
+
+
+CASSANDER.
+Ouy, ich schwere /
+
+
+FLAVIA.
+
+Verzeuch daß ich nach Haus' umbkehre /
+Jch muß den Fall so zu beklagen?
+Der Fraw und Jungfer stracks vortragen.
+
+
+
+CASSANDER.
+
+Ha mort / das Glück ist nicht propice
+Ell' ayme plus que moy Fabricius.
+
+
+
+Cornelia. Chloris.
+
+
+Jn dem Lust-Garten.
+
+
+1.
+
+
+CHLORIS.
+
+Rinnt bittre Thränen rinnt!
+Hat iemals wer ersinnt!
+Daß eine Mutter könt ihr Kind so hindan setzen /
+Vnd auff den Tod verletzen?
+
+
+2.
+
+Wo ist diß je erhört /
+Daß die so hoch versehrt.
+Der ich das Leben hab / und was ich bin / zu dancken!
+Kan Mutter-Treue wancken?
+
+
+3.
+
+Ach! sie wanckt nur zu vil!
+Die vor sich selbst diß wil.
+Was das Verhängnüß mir hat einig ausersehen!
+Jsts denn umb mich geschehen!
+
+
+4.
+
+Ja freilich! ach ich sol /
+(Auff daß der Mutter wohl)
+Mich in das tiffste Weh und schwerste Leid versencken
+Diß heist mit Gallen träncken!
+
+
+5.
+
+Was ist es / werthe Fraw /
+Das sie begehrt? Sie traw /
+Jch bin bereit vor sie diß Seelchen hin zu geben!
+Zu sterben vor ihr Leben!
+
+
+6.
+
+Nur dieses ko it zu schwer!
+Sie wüntscht was ich begehr.
+Sie ni it mir was ich lib und auff den Tod sie hasset!
+O besser längst erblasset!
+
+
+
+
+7.
+
+Wann der Sie schätzen könt;
+Dem leider sie nicht gönt.
+Was er so embsig sucht: Wolt ich mich überwinden.
+Vnd in die Sache finden.
+
+
+8.
+
+So aber / ach! so seh
+Jch nicht wie uns gescheh /
+Sie ehrt was vor ihr fleucht / umb was sie libt zu kräncken.
+Wo soll ich hin mich lencken?
+
+
+9.
+
+Gehorsam / Lib / und Ehr /
+Bestreiten mich zwar sehr.
+Doch Lib hat längst mein Hertz in den Besitz genommen.
+Da die zu spat ankommen!
+
+
+10.
+
+Halt an geschwinde Bach!
+Laß von dem rauschen nach!
+Biß ich die traute Schrifft noch einmahl übersehe
+Vnd Nymphen euch anflehe:
+
+
+11.
+
+Die jhr umb dises Thal
+Die raue Libes-Qval
+Vnd ungeheuren Zwang (so wie man mir gesaget)
+Nicht einmal habt beklaget.
+
+
+
+Sie setzet sich nider / liset und entschläft.
+
+
+1.
+
+
+CORNELIA.
+
+Forscht iemand wie in ein Gemütte /
+Die strenge Macht der Libe wütte;
+Der schau auff mich so wird er finden /
+Wie sie die Sinnen könne binden /
+Wie sie die Bande könn entschlissen.
+Den anderswerts Wald / See und Lüffte folgen müssen.
+
+
+2.
+
+Sie reitzet mich nach dem zu sehen /
+Der ehr es schätzt mich zu verschmähen!
+Sie zwänget mich nach allen Schätzen /
+Auch selbst mein Blut hindanzusetzen!
+Jndem / weil ich in ach verschwinde /
+Jch leider eifern muß mit meinem libsten Kinde.
+
+
+3.
+
+Cornelie kanst du denn leiden!
+Kan dir das Hertze nicht durchschneiden?
+Daß deine Tochter gantz verblühet /
+Die Mutter nicht an Mutter sihet!
+Weil du ihr diß zu nehmen ringest.
+Wordurch du dich in Lust / sie ins Verterben bringest.
+
+
+4.
+
+Wie! opffer ich mein Kind den Schmertzen /
+Vor den / der mich schleust aus dem Hertzen?
+Ach ja! er lern' hiraus erkennen /
+Wie feurig dise Geister brennen:
+
+
+Die alles / ja ihr Blutt auffsetzen
+Vmb einig sich mit ihm auff ewig zu ergetzen.
+
+
+5.
+
+Jch libe beyd / doch ich verstehe /
+Daß eigne Libe voran gehe /
+Drumb ich denn schuldig mich zu mühen /
+Vnd meinem Kinde vorzuziehen.
+Doch Chloris ist von mir gebohren;
+Vnd wird vor den der frembd und mein nicht acht verloren!
+
+
+6.
+
+Ach nein! sie hindert mein Verlangen!
+Sie hat die Seele hintergangen /
+Die / wann sie nicht von ihr bethöret /
+Mein freundlichst locken längst gehöret!
+Vnd solt ich dann vor Tochter schätzen /
+Die jhre Mutter mehr denn feindlich kan verletzen?
+
+
+7.
+
+Was schaw ich! ruht sie in dem Grunde?
+Mit in die Schoß gesencktem Munde?
+Die Wangen gantz betaut mit Thränen?
+Wie still ich ihr betrübtes sehnen?
+Was thu ich! ob ich sie erwecke!
+Sie scheust auff! hört / was doch ihr träumend Geist entdecke.
+
+
+
+CHLORIS
+
+schlaffend.
+
+
+Traw fest! ich weiche nicht
+Von der verschwornen Pflicht!
+Last ja die Mutter sich in einen Tyger wandeln!
+Vnd mich unmenschlichst handeln!
+
+
+
+CORNELIA.
+
+Weh mir! was unbesinnte Sinnen!
+Kan Kindes-neigung so zerrinnen!
+Was sorg ich vil denn zu betrachten /
+Die mich nicht wil vor Mutter achten?
+Doch straffe hab ich schon in Händen:
+Wenn ich sein Liben kan von dir auff mich abwenden.
+
+
+
+CHLORIS
+
+schlafend.
+
+
+Ja könt es gleich geschehn /
+Vnd Chloris müst es sehn:
+Daß dich ein andre solt durch grösser Hold erwerben.
+Doch wil ich dein ersterben.
+
+
+
+CORNELIA.
+Was rasen hör ich an / auff Chloris, Chloris auff /
+
+
+CHLORIS
+
+erwachend.
+
+Mein süsser Schatz / mein Hertz / gib dich nicht auff den Lauff /
+
+
+CORNELIA.
+Was Hertz! was Schatz! ist diß? Kennt man die Mutter nicht.
+
+
+CHLORIS.
+Die Mutter leider ach / verkennt ihr Kind und Pflicht!
+
+
+
+CORNELIA.
+Jhr Kind! das weder Zucht noch Ruhm noch Mutter acht!
+
+
+CHLORIS.
+Die Mutter acht ich stets / mein Ehr ist unverdacht.
+
+
+CORNELIA.
+Das zeigt der schöne Briff / der in dem Busen steckt.
+
+
+CHLORIS.
+Durch solche Briefe ward kein keuscher Geist befleckt.
+
+
+CORNELIA.
+Hat man bey Keuschen wol von solcher Schrifft gehört?
+
+
+CHLORIS.
+Sie ko it von diser Hand die selbst die Mutter ehrt.
+
+
+CORNELIA.
+Die Mutter die weit mehr was gutt / de du / versteht.
+
+
+CHLORIS
+
+seit abwerts.
+
+Vnd leider nach dem Gutt / auff das ich hoffe / geht.
+
+
+CORNELIA.
+Du reuchst noch nach der brust! holt docken vor das Kind.
+
+
+CHLORIS
+
+seit abwerts.
+
+Ja Docken / die beqvem vors Kindes Mutter sind.
+
+
+CORNELIA.
+Jch zitter! wer gab dir den Briff in deine Hand!
+
+
+CHLORIS.
+Jch weis nichts als daß ich ihn in der Cammer fand.
+
+
+CORNELIA.
+Jch bin in meinem Hoff verrathen und verkäufft.
+
+
+CHLORIS
+
+seit abwerts.
+
+Vnd ich in Leid und Angst und Thränen gantz verteufft.
+
+
+CORNELIA.
+Vnselig! daß ich dich je unterm Hertzen trug!
+
+
+CHLORIS.
+Vnselig daß mich Lib aus ihrem Hertzen schlug.
+
+
+CORNELIA.
+Daß ich mit einem Kuß dich auff dem Arm empfing!
+
+
+CHLORIS.
+Daß Gott nicht meinen Tod vor diser Zeit verhing.
+
+
+CORNELIA.
+Schaut was die Mutter nun aus ihrem Kind erzieh /
+
+
+CHLORIS.
+Fraw Mutter / sie verzeih / sie zeucht nichts / ich verblüh.
+
+
+CORNELIA.
+Kein wunder / tolles Feur hat deine Krafft verzehrt.
+
+
+CHLORIS.
+Das Feur das ihre Krafft durch meine Thränen nehrt.
+
+
+CORNELIA.
+Steht dises Töchtern an / sind solches Jungfern-wort /
+
+
+CHLORIS.
+Spürt man ein Mutter-Wort und Hertz an disem Ort.
+
+
+CORNELIA.
+Nicht Mutter-Hertz / in dem ich vor dich sorgen wil.
+
+
+CHLORIS
+
+seit abwerts.
+
+Sie sorge wol für mich: Doch vor sich nicht zu vil.
+
+
+
+CORNELIA.
+Was zanck ich mich mit der die in der Brunst ergri it.
+
+
+CHLORIS.
+Fraw Mutter sie verzeih der / die in Thränen schwi it.
+
+
+Flavia. Chloris. Cornelia.
+
+
+
+
+FLAVIA.
+
+O schwer Verhängnüs / kan das wütten
+Der Sternen / solchen Grimm ausschütten /
+Ausschütten auff so reine Seelen.
+Komt diser Sturm aus Ditis Hölen.
+
+
+
+CORNELIA.
+Was klagen hör ich dort. Wie? Jsts nicht Flavie.
+
+
+CHLORIS.
+Es sey auch wer es sey / es klagt mein herbes Weh.
+
+
+FLAVIA.
+
+Sulpicius sollst du so erblassen.
+Fabricius du dich selbst verlassen.
+Vmbirren sonder Witz und Sinnen.
+Kan man den Himmel nicht gewinnen?
+
+
+
+CORNELIA.
+Sulpicius. was ist diß / so nahe blasser Noth /
+
+
+CHLORIS.
+Sulpicius zeuch voran ich folge durch den Tod.
+
+
+CORNELIA.
+Stracks Flavie hiher / was weinst du / stracks sag aus.
+
+
+CHLORIS.
+Entdecke beyder Fall / und Fall von disem Hauß.
+
+
+FLAVIA.
+
+Sulpicius weiß nichts mehr von wissen /
+Vnd eilt den Rest der Zeit zu schlissen.
+Fabricius rennt umb / sonder sinnen /
+Jn rasend-thörichtem beginnen.
+
+
+
+Beyde sehn einander als erstarret eine zeitlang an.
+
+
+
+
+CORNELIA
+
+seit abwerts.
+
+O falsch gemischte Frucht! O unbedachter Schluß!
+
+
+CHLORIS
+
+seit abwerts.
+
+Darzu die Tochter Faust und Nahmen leihen muß!
+
+
+FLAVIA
+
+abgewendet.
+
+
+Sie starren beyd als Marmelsteine.
+Jch bins die nur von Hertzen weine!
+Die trag ihr Leiden nur geduldig /
+Die villeicht an dem Vnfall schuldig.
+
+
+
+CORNELIA.
+Wo ko ist du mit der hochverfluchten Bottschafft her?
+
+
+CHLORIS
+
+seit abwerts.
+
+O Bottschafft längst gefürcht und leider mir zu schwer.
+
+
+
+FLAVIA.
+
+Cassander der es erst entdecket /
+Hat mit der Zeitung mich erschrecket.
+O Zeitung darob Stein erzittern!
+Vnd Berge möchten sich erschüttern!
+
+
+
+CHLORIS.
+Man forsche wie es sey bewand in ihrem Hauß!
+
+
+CORNELIA.
+Cassanders Herr geht stets bey ihnen ein und aus!
+
+
+CHLORIS.
+Levin ko it / hört! O hört! was man von ihm vernehm.
+
+
+CORNELIA
+
+seit abwerts.
+
+Vernehm / worüber ich mich ewig gräm und schäm.
+
+
+Levin. Cornelia. Chloris. Flavia. Cassander.
+
+
+
+
+LEVIN.
+
+Jch wüntsche beyden Glück / O Sonnen diser Zeit.
+Wie find ich sie bethränt in diser Traurigkeit?
+
+
+
+CORNELIA.
+Bethränt! Levin. bethränt! Sulpicius ist Thränen werth!
+
+
+CHLORIS.
+Sulpicius der zu früh und vor der Zeit hinfährt!
+
+
+LEVIN.
+Sulpicius? werthe Fraw! das ist mir unbewust!
+
+
+CORNELIA.
+Rührt die Vnwissenheit aus unverfälschter Brust?
+
+
+CHLORIS.
+Wie? weiß sein Diner mehr als er wol wissen wil.
+
+
+LEVIN.
+Mein Diner? er steht hir! was ist diß vor ein Spil.
+
+
+CASSANDER.
+
+Ja / ja Monsieur fürwahr! la feinte est inutile.
+Jhr sagt nicht was man will / pour estre trop civile,
+Fabricius branle starck mit taumelndem Gehirn.
+Je lis trop clairement son malheur aus der Stirn /
+Son maistre parle aussi tausend extravagances.
+De tombeaux, de festins, von Hochzeit & de dances.
+Ha quel mal heur mon Herr! Mes dames sie sind mort!
+Es ist nicht autrement, ou je nie trompe fort.
+
+
+
+LEVIN.
+Die Pflicht erfodert daß ich selbst das Werck ergründ
+
+
+CORNELIA
+
+seit abwerts.
+
+Er gründe nicht zu sehr nach wolgemeynter Sünd
+
+
+CHLORIS.
+O daß sein Anblick mir zu guter Nacht vergönt
+
+
+CORNELIA.
+O daß mit treuem Rath ich ihm beyspringen könt!
+
+
+LEVIN.
+Sie gönn höchstwerthe Fraw daß ich ihn eilend seh.
+
+
+CHLORIS.
+Nur keine Zeit versäumt! Fraw Mutter es gescheh!
+
+
+
+CORNELIA
+
+seit abwerts.
+
+
+Was rath / daß meine Schuld bleib in Verschwigenheit?
+Jch geb ihm / Herr Levin.wol selber das Geleit.
+
+
+
+LEVIN.
+Vnd Chloris thut villeicht Jhr / Jhm und mir die Ehr.
+
+
+CHLORIS.
+Fraw Mutter wo sie will (die Wunde schmertzt zu sehr.)
+
+
+LEVIN.
+Wie schnell verschwinden wir! wie wechselt Glück und Zeit.
+
+
+CORNELIA
+
+seit abwerts.
+
+O neue Seelen-Angst! O inner HertzensStreit.
+
+
+CASSANDER.
+
+Ou pensez vous aller! ma foy ich wils nicht rathen.
+Die rasende sont sots & thun meschante Thaten.
+Sie gehn! passetz devant, wo es pericles gibt
+Jst der un innocent der sich nicht selber libt.
+
+
+
+Sulpicius. Fabricius. Cornelia. Chloris. Levin. Flavia. Cassander.
+
+
+
+
+SULPICIUS.
+Der Durchbruch ist bereit.
+
+
+FABRICIUS.
+Ja / und nach Wuntsch verricht.
+
+
+SULPICIUS.
+
+Der Will ist wol bey mir. Die Kräffte leider nicht.
+Wir spilen mit dem Tod; ich fürcht er sey vorhanden.
+Er komm' und löse mich aus Lib und Lebens-Banden!
+
+
+
+FABRICIUS.
+Mein Herr was Wahn ist dis! itzt ist es hoffens Zeit.
+
+
+SULPICIUS.
+Mein hoffen fällt dahin vor dem gewüntschten Streit.
+
+
+FABRICIUS.
+Nur mutt mein Herr! ich hör jemand vor unser Thüren.
+
+
+SULPICIUS.
+Sucht wol Cornelie ihr Traur-Spil auszuführen
+
+
+FABRICIUS.
+Cornelie, Levin und Chloris selbst sind dar.
+
+
+SULPICIUS.
+
+O Chloris, schönste Blum / auff meine Todten-Baar /
+Ruff allen / doch gib mir von den verdachten Früchten /
+Die grosse Citronat.
+
+
+
+FABRICIUS.
+Was wil mein Herr anrichten?
+
+
+SULPICIUS.
+
+Bekümmer dich darumb auffs allerminste nicht.
+Geh eilends laß sie ein / O hochgewünschtes Licht.
+Weg grimm erhitzte Seuch / ich schaw mein Heil ankommen /
+Nur leider / leider / mir ist alle Macht benommen /
+
+
+
+Die Personen kommen alle in Sulpicen Gemach.
+
+
+
+Entgegen / wie ich wüntscht und solt / anitzt zu gehn
+Was wird dis hohe Glück mich nicht vor Thränen stehn.
+
+
+O Sonnen eurer Zeit seid tausendmal gegrüsset /
+Vnd du mein Morgenstern / der du sie bringst / geküsset.
+
+
+
+CORNELIA.
+
+Sulpicius geht sein starck betrüben /
+Noch höher als mein stärcker Liben.
+Was kan den hohen Mutt bewegen /
+Vnd auff ein siches Bette legen.
+Er leb' / er lebe der zu Ehren
+Die vor ihr Leben schätzt / sein Wort nur anzuhören.
+
+
+
+CHLORIS.
+
+Mein Trost / er schaw die an
+Die nichts ersetzen kan:
+Als wenn der Himmel ihm sein äuserstes begehren
+Nach wüntschen wird gewehren /
+
+
+
+LEVIN.
+
+Sulpicius siht er nicht was ihm zu Trost erscheint /
+Was umb sein Leiden traurt / umb sein beschweren weint.
+Start noch vor disem Lentz der Winter seiner Schmertzen /
+Wie / oder geht ihm nicht so hohe Gunst zu Hertzen?
+
+
+
+SULPICIUS.
+
+Zu Hertzen ja / mein Tod ist numehr sonder Tod.
+Das Leben steht vor mir / ich eile das Gebot /
+Das Zeit und scheiden setzt / als sterblich / auszuführen.
+
+
+
+LEVIN.
+Wie / soll ich libster Freund so schleunig ihn verliren?
+
+
+SULPICIUS.
+
+Wo etwas von uns bleibt wenn nun der freye Geist /
+Sich aus den Glidern macht und durch die Lüffte reist /
+Wo nicht der gantze Mensch wird in die Grufft gestecket:
+Wann lange Finsternüß und schwartze Nacht uns decket:
+So glaubt; ich scheide nicht / ich werde bey euch stehn /
+Ob mein verscharter Leib gleich wird in nichts vergehn.
+
+
+
+CHLORIS
+
+seit abwerts.
+
+O Himmel / was schaw ich in der so werthen Hand!
+
+
+CORNELIA
+
+seit abwerts.
+
+Nun spür ich / er vergeht durch meiner Libe pfand.
+
+
+LEVINUS
+
+seit abwerts.
+
+Laufft falscher Anschlag aus auff ein so herbes End?
+
+
+CORNELIA
+
+seit abwerts.
+
+Wie? Wer entdeckt ihm mein verbrechen so behend?
+
+
+SULPICIUS.
+
+Welch Angst beklämmt mein Hertz / auff / Charon rufft zu Port.
+Er spannt die Segel schon / seht / seht / sie wollen fort.
+Halt alter / halt was ein / ich folg / ich kom / ich eil /
+Auff / fasst die Ruder frisch / ergreifft die harten Seil.
+
+
+Jch schaw die Geister schon die in der andern Welt /
+Das lib' Eliser-Feld in Myrten-Wäldern hält.
+Ha Chloris! Chloris schaw / wie! bist du schon voran /
+Sey tausendmal gegrüst / ich spring und lasse Kahn /
+Vnd dise schwartze See / und knie vor deinem Fuß /
+Beut numehr unverwehrt / den nicht verdachten Kuß.
+Nim Charon dein Gebühr / wie / irr ich / ists ein Traum?
+
+
+
+Er schmeist die Citronat hinweg.
+
+
+
+
+CASSANDER.
+Mes Dames ecoutez, gebt nicht dem tollen Raum /
+
+
+FABRICIUS.
+Schweig / du bist selbst ein Thor / eh man dich schweigen lehr.
+
+
+CASSANDER.
+I' enrage gleich wie du / s' il me faut ecouter.
+
+
+LEVIN.
+Wie ists mein werther Freund / siht er nicht / wo er sey.
+
+
+SULPICIUS.
+
+Wo war / wie ward mir selbst / stehst du bis noch mir bey.
+Cornelia sie siht / was sie bißher gelibt!
+Warumb so sehr betrübt?
+Sie schaut! ein wincken nur / die strenge Parce rufft /
+Mich in die kalte Grufft!
+Jch zeug' / und dises bey dem / der die Todten hört:
+Daß ich sie stets geehrt!
+Doch zwang auff andern Grund ein innerliches regen
+Mein liben / mich / zu legen.
+
+
+
+CORNELIA.
+
+Ach ja. Jch steh es zu! die gröste Schuld sey mein!
+An seiner rawen Pein!
+O warumb soll ich nicht vor ihn die Qval ertragen?
+Ja stracks dis Leben wagen!
+
+
+
+SULPICIUS.
+
+Fahrt Chloris ewig wol! ob das geschwinde Zil /
+Vns hir getrennet wil!
+So wird die Libe doch / wo nichts als Lust zu finden /
+Auff ewig uns verbinden!
+Sie weine nicht / mein Licht: Jch scheid' aus diesem Jammer /
+Jn meine Ruhe-Kammer!
+Voll inniglicher Freud! umb / daß nach Angst und grauen /
+Zu letzt ich sie kan schauen.
+Brecht Augen! brecht! jhr könt hir doch nichts schöners sehen!
+Es ist umb mich geschehen!
+Nun gute Nacht Levin: Thu weil ich nun erbleiche /
+Die Trew an meiner Leiche!
+Cornelie umbsonst! es können keine Zehren /
+
+
+Des Todes Pfeil abkehren.
+Gilt ja mein bitten noch / so nehme sie in acht;
+Jch sterbe! gute Nacht!
+
+
+
+LEVIN.
+Sulpicius! er ist dahin! O herber Trauer-Tag!
+
+
+CORNELIA.
+Er ligt in Ohnmacht! ach! ach! innre Hertzens-plag
+
+
+LEVIN.
+Bringt Balsam! Narden! Myhrr!
+
+
+FABRICIUS.
+Vmbsonst / ach er ist hin!
+
+
+CHLORIS
+
+seit abwerts.
+
+Ach! wer wird meinen Geist / nach deiner Seelen zihn!
+
+
+FABRICIUS.
+Mein Herr! Herr! Chloris rufft! er ist nur tod und kalt!
+
+
+CORNELIA
+
+seit abwerts.
+
+O Hi iel! mich verklagt die bleiche Traurgestalt.
+
+
+CASSANDER.
+Stickt avec une espingle ihn en son pied ou main.
+
+
+FABRICIUS.
+Du machst des dings zu vil.
+
+
+CASSANDER.
+Va! Va! tu n' es pas sain.
+
+
+LEVIN.
+O Himmels-werther Freund / mein eine Lib und Lust!
+
+
+CORNELIA.
+
+Mein Hertz! ich bin zu vil mir meiner Schuld bewust!
+Jch küsse deine Faust / und bitte dich! verzeih!
+
+
+
+FLAVIA.
+Ach Chloris sinckt und fällt!
+
+
+CASSANDER.
+He! He! quant un Geschrey.
+
+
+CORNELIA.
+Ach Chloris libstes Kind.
+
+
+CHLORIS.
+Fraw Mutter ich vergeh!
+
+
+CORNELIA.
+
+O Ja ier / ich verschmacht / in tausendfachem weh.
+Auff Kind! Sulpicius lebt!
+
+
+
+CHLORIS.
+
+Er lebt. Ja wo er sol!
+Er lebt in meiner Brust / wo ihm unendlich wol.
+
+
+
+CORNELIA.
+
+Fabricius! daß die werthe Leiche /
+Ja kein unwerthe Hand anreiche.
+Daß sie kein ander Mensch berühre /
+Bis Chloris sie zu letzt auszire /
+Biß ich / die ihr so vil geschadet:
+So bald der Tag anbricht / mit Thränen sie gebadet /
+
+
+
+CHLORIS.
+
+Nim Thränen / nim den Kuß!
+Noch nicht den Abschied-Gruß.
+Kan was von deinem Geist' noch auff den Lippen schweben.
+So laß es in mir leben!
+
+
+
+ALLZUSAMMEN.
+
+Ach aller Wuntsch / Heil und Verlangen!
+Jst in dem Augenblick vergangen!
+
+
+Ach / wie muß unser Thun und Sinnen!
+Offt eh' mans innen wird / zurinnen.
+
+
+
+
+
+
+
+
+[Die gelibte Dornrose: 2. Akt]
+
+
+
+
+[Die gelibte Dornrose: 2. Akt]
+
+Matz Aschenwedel / Lise Dornrose / Gregor Kornblume.
+
+
+
+ASCHEWEDEL.
+ Jche ho mey läbtige gehurt / an anschlägen / und ungegangenem Tuche giht vil ab. Sis nu schune zwey Johre / doß ich ümb Durnrusen gebulet ha / unde ha nischte als in kurb übern andern gemacht. Jche wees mers uff de letzte nimme mih ze engen / ich mus e ende draus machen. De alde Salome hot mer en Roht gegahn / ich selde hie e bisseln uff lauren / und selde sahn doß ich se mit gewalt wäg krigte / Se würde den wul Gott dancken / das ich se ock behilde und wens am schlimsten wird; Se loffe ich in da Krig / saht / da Dägen ho ich angebungen / unde dan Harnisch ongezahn daß se dencken soll ich sey schune e halber Gabelirer / Se pfläit gemeeniglich umb de Zeet e moll auszegihn / oder nochm Hoffe ze sahn / drümb muß ich a wing mich in dan sträuch verstecken! O saht! kümmt se doch schune. Jch mus Mutter Salomes Kunst versüchen / harr / harr / indam Sackeln stäckts / lust a mol hüren / wos se soyn wird.
+
+
+DORNROSE.
+ Vnseligste Libe! der trewesten Gemütter Pein und Folter!
+
+
+ASCHEWEDEL.
+ Schleeffsteen vun olle fünff Sinnen!
+
+
+DORNROSE.
+ Wahre Vnruhe dieses Lebens!
+
+
+ASCHEWEDEL.
+ Windmühle dar armen jüngen Leutte!
+
+
+DORNROSE.
+ Wenn wirst du dermall einst mich aus diesem irrgang führen.
+
+
+ASCHEWEDEL.
+ Krig ich dich ok / ich will dich wull ze rächte brengen saht sis su a schneppisch ding / se steckt immer uffm Edelhoffe se hot gar Städtisch larnen reden.
+
+
+DORNROSE.
+ Jch libe den / den ich liben soll / und einen andern der mich zu meiner Qval libet / hasse ich mehr denn den Tod und das Grab. O Kornblume! Kornblume! warum ist der Zanck zwischen meinem Vater / und deinem Vetter so gri iig! warumb wird er nicht hingelegt durch unsere Vereinigung!
+
+
+
+ASCHEWEDEL.
+ Je hurcht wos der Toifel kon!
+
+
+DORNROSE.
+ Was martert mich anderseits / der ungeschickte Aschewedel / welcher bloß derowegen auff diese Welt gebohrē! daß man sehen könte wie vil Vnart / Vnschamhafftigkeit / untugend / Grobheit u Flegeley in einem Hertzen stecken könte.
+
+
+ASCHEWEDEL.
+ Jß doß nicht a leichtfertig / luse / unbesunnen / ungewaschen Maul? Selde sich och e Mensch eibilden / das enne sittene undanckbere Jütte uffm Gottsboden laben selde / doch ß schod nischte / wē ichse ok warde mit dē dinge doß ich Mutter Salomen obkoofte anrühren / se wird wul anders warden.
+
+
+DORNROSE.
+ Mein Vater wil durchaus nicht / daß ich mich ferner unterstehe nur ein Wort mit Kornblumen zu reden.
+
+
+ASCHEWEDEL.
+ Doß iß räicht / ha weeß wul der alde Monn / wus em steckt.
+
+
+DORNROSE.
+ GIückselig / die zum minsten schrifftlich einander ihre Gemütts Meinung entdecken können.
+
+
+ASCHEWEDEL.
+ Grode rächt! grode rächt! saht ers ihr Nuckbern! doß hot ma dervon / we me de Maidlen lest in die Schule gihn / unde buchstabiren lärnen. Do machen se den Buler Brife unde singen Zschäntscher Lider vum schine Schaffer u der falschen Sylviges. Jch mus raus / unde sahn wie men Sachen ze rothen.
+
+
+DORNROSE.
+ O Himmel! welch Vnfal! dort kommet mein todt Feind her!
+
+
+ASCHEWEDEL.
+ Glück zu Schatz! wi stihts / wi gihts im e gut Labē?
+
+
+DORNROSE.
+ Es gehet mir ärger als zu erdencken.
+
+
+ASCHEWEDEL.
+ Wu stahme / darümme weel er Kornblumen nicht kriegen künnt! Gewaldige Sache! Jch bi su gutt asse Kurnblume / und noch wul andertholbe Centner besser.
+
+
+DORNROSE.
+ Das lasse ich an seinen Ort gestellt sein! Ja GOtt bewahre euch Jch muß eilen.
+
+
+ASCHEWEDEL.
+ Ney / Ney / Ney / Ney / es heist nicht Gott bewohre ech wir müssen vun wos anders mit anander reden.
+
+
+DORNROSE.
+ Wol / sagts denn mit kurtzem / Jch kan eurem Geschwetze nicht lange gehöre geben.
+
+
+ASCHEWEDEL.
+ Hürt ihrs Jungfer Durnruse. Jhr wists besser as meß sayn kan; Sider Fooßnach seens zwee Johre du wer zum irsten 
+mit anander bekand wurden. Jhr wisst wi lib ich euch gehot ho. Wi ufte ich euch ha a lustigis ufmachen lussen / wie manchen Jurmirt ich euch gekofft ho / ob a ich gleich sälden oder keemol getocht hot. Jhr wist och / daß ich a jung / frisch / starck / hurtig Gelencke / unde rächtschoffen Karle bin. Sechs Virtel Kurn troy ich wäg wie nischte (wen se gesackt seen) Wen Jch dräsche / su weeß ich da Flegel a su ortig ze schwencken / asse Key Schmideknaicht da Hommer. Wen ich hee oder Mist lode / se faste ich dreemol mih mit der Gabel asse süste zwüne. Wen ich tantze: So hüppe ich doß de Malde dencken / ich war mer da Kopp e dem Balcken in stücken stussen. Jch schloy mich och biß weeln im ganzen Kratschem mit Knaichten unde Bouren rümm unde mache doß der Balbir unde der Bader ze thun / unde de Gerichte ze besichtigen bekummen. Jche ha a holb Bawr Gütt / siß wull a wing wüste / aber wos schadts. Jch ha a virtel vum Gorten / an schold Briff über funffzig schwere Morck / baar Geld / wos wellt er den müh? Drümb machts kurtz. Jhr hatt mich lange genung mit der Nase rüm gefuhrt / ich kons och nimme de lange gleeben nu stracks de Hand uff de zu saginge.
+
+
+DORNROSE.
+ Jch trage noch wenig oder keine Gedancken zu heyrathen u bilde mir ein daß ihr nicht mir / und ich nicht euch bescheret sey / darumb lasset euch nichts aufhalten / sondern sehet euch eine andere aus / die ewer besser würdig / und welcher ihr mehr anständig / sintemal ich durchaus in den Gedancken mich ehistes ins Kloster zu begeben.
+
+
+ASCHEWEDEL.
+ Jns Kluster! dos wer mer a Pussen / wos wellt ihr am Kluster machen? Jhr ward doch keine Abttischn waren / wir wällen mit anander in a Kluster zihn do zwee poor Schu fürm Bette stihn / verstiht ihrs wul .... Ey hürt / ku it ock a bisseln mitte dorte hie.
+
+
+DORNROSE.
+ Jch habe dar nichts verlohren: weniger zu suchen:
+
+
+ASCHEWEDEL.
+ Saht ock / wos ich gefungen / richt ock wie wull reuchts.
+
+
+DORNROSE.
+ Pfuy weg mit dem Stanck unsauberer Narr.
+
+
+
+ASCHEWEDEL.
+ Nu doch / nu doch / seed ock nich a su eppisch / e Mensch ist daß andern wahrt. Jch wiß wul doß ich de Nose immer huch stiht. Wen er nicht wällt doß ich a Paur bleebe: se will ich euch ze gefollen a Landsknaicht waren. Se liget ihr mit in der Stadt / oder uff der Qvarde ze Lande / unde dürfft nischte thun / asse frassen unde sauffen. Wen ich eime sen willen drüm mache / Se stiht a für mich Schildwache. Ze Johre ward ich den a Gefreeter a Capperall / a Feldwabel / a Leutenanter / a Fanrich den a Obirster Wachmeester und ze letzte gor a Oberster / dēckt wie wirds euch a su sanfte thun / wen ech die Paure warn Conterbution schicken / unde de Städter sprechen / guten Tag Frau Auberste Aschewedeln.
+
+
+DORNROSE.
+ Aus mit diesen Traumen / Jch begehre meinen Stand nicht zu endern / weniger mich mit euch in fernere Gespräche einzulassen.
+
+
+ASCHEWEDEL.
+ Jhr bild ech groilich vil ey. Nu bedenckt ech wull. Jch luß ech doch nicht vum Halse bis ihr mich nammt. O hartzt mich ok a mohl / doß ich ok mei arm zappelnd Hartze a wing derqvicke / ich weeß doß es aus siht asse ene gebackene Birne oder a wälck Rattig.
+
+
+DORNROSE.
+ Was gehet hir vor? Jch halte ihr seid nicht bey Sinnen / dürfft ihr mir auf offener Awen eine so unverschämte Thorheit zu muthen?
+
+
+ASCHEWEDEL.
+ Je nu / wos wers den müh / siß monchmoll anne Maidt mit em Knaichte ins Graß gegangen / oder uffs Hee kummen / wan se sich ok den dernoch trewen lussen / war froit dornoch?
+
+
+DORNROSE.
+ Aschewedel? Mit wem redet ihr / wen meinet ihr daß ihr vor euch habt? Schemet ihr euch nicht derogleichen Schand-Bübereyen auszuschütten?
+
+
+ASCHEWEDEL.
+ Frau Sulmes Kunst will nicht halffen / ich muß ß anders angreeffen. Jhr misst mich hartzen / Wällt er nicht mit gudem su geschah's mit Zwange ich kan mich nicht länger lussen zum Narren han.
+
+
+DORNROSE.
+ Packt euch von hier / wohin ihr gehöret: Jch werde es bey Gott meinem Vater klagen / der euch wol wird zu finden wissen.
+
+
+
+ASCHEWEDEL.
+ Ja / kloit inde hie wen er glech itzund a wing büse seed: ihr ward wul wider gut waren. Siß och eur Arnst nicht / ihr must ech ju a bisseln stellen / aß wens ech ze nohnde wehr.
+
+
+Aschewedel fasset Dornrosen mit Gewalt und wil mit ihr nach dem Pusche lauffen / sie wehret sich mit reissen und schlagen und ruffet überlaut.
+
+
+
+
+DORNROSE.
+ Gewalt! Gewalt / O Vater / O Nachbarn / O Freunde / O rettet /rettet!
+
+
+ASCHEWEDEL.
+ Sihst de nich doß ich a Schwardt ha. Jch dersteche dich unde dan irsten dar mir in Wäg kummt / wu de nicht Smaul hälst.
+
+
+DORNROSE.
+ Gewalt / gewalt / liben Freunde / helfft / helfft!
+
+
+KORNBLUME.
+ Wos ist dos für a Geschrey? dunckt mich doch wiß Durnruse wäre.
+
+
+DORNROSE.
+ Gewalt / Gewalt / O Vater / Freunde / rettet!
+
+
+ASCHEWEDEL.
+ Schweig / halt de Frässe / und kumm furt / s wird süste nich gutt warn.
+
+
+DORNROSE.
+ Gewalt / Gewalt.
+
+
+KORNBLUME.
+ Je wos gichtschände iß durte vur a gerammel / Ney saht / schleet sich nicht Aschewedel mit Durnrusen.
+
+
+Kornblume laufft hinzu und schlägt auff Aschewedeln.
+
+
+
+
+KORNBLUME.
+ Du lechtfertiger / Yhr- und Redligkeet vergassener / Treuluser Landleufferischer Schelm und Dieb.
+
+
+DORNROSE.
+ Muttig mein Kornblume / mutig errettet mich von dem Ehrenschänder.
+
+
+ASCHEWEDEL.
+ Du Hund / du Lügener / du Kurndib / du Sideschelme / du Brudtsschalck.
+
+
+DORNROSE.
+ Kommet Vater / kommet Freunde / kommet Nachbarn und scheidet.
+
+
+
+
+Dornrose entlauft / Kornblume und Aschewedel dringen schlagend von dem Schaw-platz hinein.
+
+
+
+
+KORNBLUME.
+ Du Habermauß / du Spitzkupp / du tausend Schelme.
+
+
+
+
+
+
+
+
+Verlibtes Gespenste: 3. Akt
+
+
+
+
+Der Dritte Auffzug.
+
+Sulpicius. Fabricius.
+
+
+
+FABRICIUS.
+
+So schliffst du leider denn den harten Todes-Schlaff?
+Der dich so sanfft umbfing / als uns der Donner traff /
+Der mit getheiltem Stral / auff aller Hertz ankommen /
+Vnd aller Lust mit dir von diser Welt genommen /
+So starrt die tapffre Faust! das libreich Angesicht /
+Vergeht! und du verfällst / wie ein Cristall zerbricht /
+Das mit der Sonnen Stral / wenn er sich drein gefunden /
+Vnd es zurück ihn schickt die Sonn' offt überwunden.
+Wie irr' ich! haucht der Mund / ists Wahn? Rührt sich die Leich?
+Was fürcht ich / was ich wüntsch? Jch schaw der Wangen bleich
+Vergeht in neue Röth. O Himmel! kans geschehen?
+So last den müden Geist / diß neue Wunder sehen?
+Die Brust klopfft / O! die Wärm entsteckt der Seelen Hauß
+Vnd theilet sich gemach / durch alle Glider aus.
+Er wirfft die Augen auff / kan Libe wol das Leben /
+Dem / der so standhaft dint / aufs neue wieder geben?
+Wie? Oder ruffen ihn der Chloris heisse Blick?
+Vnd bittre Thränen woll aus Ditis Klufft zurück?
+
+
+
+SULPICIUS.
+O Chloris! bist du fort / wie ist mir doch geschehen /
+
+
+FABRICIUS.
+Jsts müglich / O mein Herr / kan ich ihn lebend sehen /
+
+
+SULPICIUS.
+Wie? Lebend. Bin ich denn vor deinen Augen tod?
+
+
+FABRICIUS.
+Wer zweiffelt / ausser mir / der ihn seh ausser Noth.
+
+
+SULPICIUS.
+Wol / was geheim ist diß? Was Noth hält mich gefangen?
+
+
+FABRICIUS.
+Man glaubt durchaus er sey in Ohnmacht vor vergangen /
+
+
+SULPICIUS.
+Jn Ohnmacht! ich weis nichts daß Ohnmacht auff mich kam.
+
+
+FABRICIUS.
+
+Weiß nicht mein Herr wie er von allen abschid nam?
+Wie jhn Levin betraur? Wie hoch sich Chloris gräme?
+Cornelie beklag und ob dem Vorsatz schäme?
+
+
+
+
+SULPICIUS.
+Es ko it / als träumend / mir etwas dergleichen vor /
+
+
+FABRICIUS.
+
+Auch daß er von der Frucht die Citronat erkor /
+Er hatte sie kaum recht in seine Faust bekommen:
+Als plötzlich sein Verstand / durch Jrrthum eingenommen
+Jn frembde Wort ausfil. Biß er sie von sich schmiß /
+Vnd unter aller Angst den müden Geist ausblis.
+Wir unterlissen nichts / mit räuchern / reiben / stärcken /
+Vmbsonst. Man kont an ihm / kein Lebens-Füncklein mercken.
+Levin stund gantz erstarrt. Cornelie verfloß
+Jn eine Thränen-Bach / als Chloris auff die Schoß /
+Der lebend-todten sanck. Mit kurtzem: Sie beginnen /
+Wie morgen seiner Leich Ehr an zu thun / zu sinnen.
+
+
+
+SULPICIUS.
+
+Wer wüntschte letzten Schmuck nicht von so lieber Hand?
+Doch weil des Himmels Schlus mich aus dem Todten-stand
+Jn neues Leben setzt / muß keine Zeit verrinnen.
+Man suche von grund aus die Mutter zu gewinnen /
+Was zu Levinus Heil und Chloris Rettung gilt.
+Du weist daß man aus Wachs mein lebhafft Ebenbild /
+Durch höchste Kunst bereit. Man leg' es auff das Bette /
+Biß ich mich wieder stell' und uns aus Argwohn rette.
+Doch wüntscht ich den Levin wol auff ein Wort zu mir
+Daß man mit besserm Rath das gantze Werck ausführ.
+
+
+
+FABRICIUS.
+Mein Herr / da er befihlt / eil ich ihn her zu bringen /
+
+
+SULPICIUS.
+Wohl / geh / wenn Libe würckt / kan auch der Todt nicht zwingen.
+
+
+Cassander. Fabricius.
+
+
+
+
+CASSANDER.
+
+Ie viens pour mon supplice. Jn dem Monsieur mich schickt /
+Pour garder ceste Leich, quel homm' hat je entrückt
+Un miserable mort? Et quelle Compagnie?
+Zu wachen entre deux? Der ein ist nicht en vie.
+Et l' autre est sans raison.
+
+
+
+FABRICIUS.
+Hör ich Cassandern nicht?
+
+
+CASSANDER.
+
+Was mehr? je marche allein bey Nacht / und sonder Licht.
+La nuict est niemands Freund. Auch hab ich hören sagen /
+Vil ding das sich avec Phantômes zugetragen.
+
+
+
+
+FABRICIUS.
+
+Glückt mir mein Anschlag nur: So solst du bald verstehn:
+Daß nicht vor Thoren gutt / zu vil bey Nacht umgehn.
+Recht / er wolt in die Leich vorhin mit Nadeln stechen:
+Jch wil an statt der Leich / mich hurtig an ihm rächen.
+
+
+
+CASSANDER.
+
+Mais qu'est ce que m'alarme, es ist umb une Nacht.
+Die schon plus qu' a demy mit lauffen durchgebracht.
+
+
+
+FABRICIUS.
+Was gilts / du solst auch noch die ander Helfte lauffē.
+
+
+CASSANDER.
+Dörfft in dem finstern auch quelqu'un sich mit mir rauffen?
+
+
+FABRICIUS.
+Genung / wir wollen sehn / was bey dem Werck zu thun.
+
+
+CASSANDER.
+
+Was rauscht? Möcht auch Sulpicius sur sa lietiere ruhn.
+I' entens quelq' un' qui va?
+
+
+
+FABRICIUS.
+C' est moy!
+
+
+CASSANDER.
+
+Ha! c' est Sulpicius?
+Jch zitter!
+
+
+
+FABRICIUS.
+Impudent. Va monstre, plein de vice!
+
+
+CASSANDER.
+Herr Geist! Ha! c'est assetz! ha! laissetz moy aller.
+
+
+FABRICIUS.
+
+C' est ce que ton supçon me sembloit meriter.
+Er laufft! nun das geht wol! es ist nach Wuntsch geschehn /
+Daß er mich vor den Geist im dunckeln angesehn.
+
+
+
+Levin. Cornelia. Chloris. Cassander.
+
+
+Vor der Cornelie Behausung.
+
+
+
+
+CORNELIA.
+Wir bleiben Herr Levin vor dis Geleit verpflicht.
+
+
+LEVIN.
+Ach! meine Schuldigkeit kennt solche Worte nicht.
+
+
+CHLORIS.
+Kennt iemand etwas nach so traurigem Verlust?
+
+
+CORNELIA.
+Ein ewig-neues Leid beklemmt mein enge Brust /
+
+
+LEVIN.
+Sulpicius wird nicht mehr durch Thränen wider bracht.
+
+
+CHLORIS.
+Drumb gab er uns auf stets so traurig gute Nacht.
+
+
+CORNELIA.
+Ach wer entdeckt mir doch / was er noch bitten wolt?
+
+
+LEVIN.
+Villeicht daß sie sich nicht zu sehr betrüben solt.
+
+
+CORNELIA.
+
+Ach nein / er warnt und bat / so nehme sie in acht
+Gilt ja mein bitten noch! stand es in meiner Macht!
+Vnd wäre was es war. Es blieb ihm unversagt.
+
+
+
+
+CHLORIS.
+Zu spät / jtzt klagen wir / weil er zuvor geklagt.
+
+
+CORNELIA.
+Sein sterbend Antlitz kommt mir nimmer aus dem Sinn.
+
+
+LEVIN.
+Noch mir / ob leider wol mein treuster Freund dahin.
+
+
+CHLORIS.
+Mir ist er nicht dahin! sein Geist lebt noch in mir.
+
+
+CORNELIA
+
+seit abwerts.
+
+Wenn es ohn meine Schuld / Er lebte noch mit ihr.
+
+
+CASSANDER.
+Helas, mon maistre! Helas.
+
+
+LEVIN.
+Was schreyst? Wo kommst du her?
+
+
+CASSANDER.
+Un mort! un mort, un mort,
+
+
+LEVIN.
+
+Wird dir der Kopff zu schwer?
+Was ists?
+
+
+
+CASSANDER.
+Jch habs gesehn. I' ay veu marcher un ombre.
+
+
+LEVIN.
+Was sagst du?
+
+
+CASSANDER.
+Ja mein Herr! fort long & triste & sombre.
+
+
+LEVIN.
+Du schwermst von Trunckenheit.
+
+
+CASSANDER.
+
+Les cheveux herissez.
+Ouy Monsieur! c' est Sulpicius! il frappe! il parle ô Weh /
+
+
+
+CORNELIA.
+Was gibt er vor? Mein Herr.
+
+
+CASSANDER.
+I' ouy avec mein Ohren.
+
+
+LEVIN.
+Jch halt / er habe Si ' / Witz und Verstand verloren.
+
+
+CASSANDER.
+
+Nenny mein Herr / ma Dame i' ay veu Sulpiciuss Geist /
+Il erre dans la ville, il cherche, il schlägt / er reist.
+Fort tristement vestu d' un long drap mortuaire
+Schaut / wie er mich gemahlt.
+
+
+
+LEVIN.
+Schweig Thor.
+
+
+CASSANDER.
+
+Que vay je faire.
+Jch rede veritez.
+
+
+
+LEVIN.
+
+Wer weiß? Welch leichter Tropff
+Dir bey der dunckeln Zeit den Wein-dampff-vollen Kopff
+Wie du verdint / zubläut?
+
+
+
+CASSANDER.
+Jch tranck mein Herr nicht goutte.
+
+
+CORNELIA.
+Wie wird mir bey dem Werck so unversehns zu Mutte?
+
+
+CHLORIS.
+Was bildet ihm mein Geist bey disem Zufall ein?
+
+
+LEVIN.
+Es kan in Warheit nichts / denn Traum und Schatten seyn.
+
+
+CORNELIA.
+Jch habe solchen Tand / in dem ich lebt' verlacht.
+
+
+CHLORIS
+
+seit abwerts.
+
+Wenn das Gewissen nicht zu ernster Rach erwacht.
+
+
+
+CORNELIA.
+
+Mein Herr. Wo ihm belibt / so gönn' er uns die Ehr /
+Das man noch einst bey uns umbständlich ihn verhör.
+
+
+
+LEVIN.
+
+Jch folg' und bin bereit / ihr wincken zu vollnzihn /
+Ja mich in jhrem Dinst unendlich zu bemühn.
+
+
+
+Sulpicius. Fabricius.
+
+
+Jn Sulpiciuss Behausung.
+
+
+
+
+SULPICIUS.
+So ist Levin biß noch umbsonst von dir gesucht?
+
+
+FABRICIUS.
+
+Mein Herr / umbsonst! doch ist der Gang nicht sonder Frucht.
+De / wie ich u i mehr scheins / ein Traur-kleid umbgeno ien /
+Cassander aber mir bey Nacht entgegen kommen:
+Verkennt er mich vor ihn / ja glaubt ich wär ein Geist /
+Vnd rennt im schrecken fort /
+
+
+
+SULPICIUS.
+
+Sehr wol / der Zufall weist
+Vns schon Gelegenheit: Den Anschlag auszuführen.
+Man lasse selbst Levin nichts von dem Handel spüren.
+Ko i / bringe was mir Noth! damit ich mich bereit /
+Vnd nicht durch säumnüß komm u i die bequemste Zeit.
+O die du mächtig bist den Tod zu überwinden /
+Laß traute Libe / mich / gewüntschten Ausgang finden.
+
+
+
+Cornelia. Chloris. Flavia.
+
+
+Jn dem Lust-Garten.
+
+
+1.
+
+
+CORNELIA
+
+allein.
+
+
+Verbirg dein libreich Angesichte /
+Göttin die du mit bleichem Lichte /
+Sihst Himmel ab auff meine Schmertzen /
+Entweicht ihr ewig-hellen Kertzen.
+Jch bin nicht würdig euch zu schauen
+Jch / welcher vor mir selbst / weil was von mir / wird grauen.
+
+
+2.
+
+Elende! wie hast du gelibet /
+Dein Kind / doch mehr dich selbst / betrübet.
+Was hast unwissend du begangen?
+Doch wissend / leider / angefangen?
+Wie wird dein Haß so grimmig kräncken /
+Weil deine Libe kan gelibt' ins Grab versencken.
+
+
+
+
+3.
+
+Ach! wer wird meine Schuld bedecken?
+Mich saubren von den Greuel-Flecken?
+Sulpicius, bist du zu versöhnen!
+Sulpicius, weiland Blum der schönen!
+Sulpicius, dessen rein Gemütte
+Ein wahres Ebenbild / gantz unverfälschter Gütte.
+
+
+4.
+
+Ach! herbe Trauer-Nacht verschwinde.
+Ach! daß der Morgenstern sich finde.
+Damit ich seinen Leib mög ehren.
+Verzeuch Nacht! laß mich träumend hören;
+Was doch Sulpicius von mir wolte /
+Vmb was er mich ersucht / als er verscheiden solte.
+
+
+
+Chloris allein.
+
+
+1.
+
+
+CHLORIS.
+
+Jsts! oder ists ein Wahn.
+Daß nicht des Todes Kahn
+Die Geister mit sich führ? Jsts jemals wol geschehen?
+Das jemand sie gesehen.
+
+
+2.
+
+Nein! nein! wer glaubt es? Nein /
+Wie könt es möglich seyn?
+Daß (wär es so) mich nicht Sulpicius wolt anblicken?
+Vnd in der Angst erquicken.
+
+
+3.
+
+Nein / die getreue Seel
+Entwich aus ihrer Höl /
+Vnd kame mir anitzt / die Thränen abzuwischen /
+Mich küssend zu erfrischen.
+
+
+4.
+
+Wie? Hat uns denn die Macht
+Vor welcher alles kracht
+Die nimmermehr mit dem / was treulich libt / zu friden /
+Auff ewiglich geschieden.
+
+
+
+
+5.
+
+Ach / aber / leider ach /
+Gedenckst du wohl auff Rach.
+Sulpicius, daß sie dir der Mutter falsche trachten
+Jn meinem Nahmen brachten.
+
+
+6.
+
+Jch warnte ja / ich schrieb
+Mein Hertz / was sie betrib.
+Jch weiß / dir ist nunmehr (blib ja der Briff verstecket)
+Mein Vnschuld doch entdecket.
+
+
+
+Sulpicius in Gestalt des Geistes.
+
+
+
+Entdeckt / fleuch nicht von mir /
+Hertz / ich bezeuge dir:
+Daß / ob ich schon die Last der Glider abgeleget /
+Dennoch Lib unbeweget.
+
+
+
+CHLORIS.
+Was schau / ihr Himmel ich /
+
+
+SULPICIUS.
+
+Mein Licht / betrübe dich /
+Betrübe dich nicht mehr / weil deine bittre Zehren
+Nur meinen Geist beschweren.
+
+
+1.
+
+Mein Trost. Es mag des Todes wütten /
+Es mag des strengen Eifers Macht /
+Auff mich die grimmen Pfeil ausschütten /
+Jch habe Neid und List verlacht.
+Scheints auch daß ich von dir / auff kurtze Zeit gerissen:
+Wird doch das kalte Grab mein Liben nicht beschlissen.
+
+
+2.
+
+Verfällt mein Leichnam schon in Aschen /
+Auch unter Aschen lebt die Glutt:
+Hör auff mit Thränen ihn zu waschen /
+Auff deine Zähren wallt mein Blutt.
+Erfreue dich vilmehr daß ich hab überwunden /
+Vnd Ruh / und wahre Lust vor dich und mich gefunden.
+
+
+
+CHLORIS.
+
+Mein Hertz / wie wol / wie wol /
+Daß ich dir folgen soll.
+Wär anderwerts auch Ruh vor mich und dich zu finden /
+Laß mich mit dir verschwinden /
+Vmbsonst / du eilst von mir /
+Jch eile mehr nach dir /
+Ach möcht uns das dein Geist mir nicht mehr könt entschlipfē /
+Ein süsser Tod verknüpfen.
+
+
+
+
+
+Cornelia. Sulpicius.
+
+
+
+
+CORNELIA.
+Hör / oder / hör ich nicht Sulpiciuss Trauer-Stimm?
+
+
+SULPICIUS.
+Sulpiciuss, der verfil durch schnellen Todes-Grimm /
+
+
+CORNELIA.
+Weh mir / wo rett ich mich? Wie wird mir? Himmel / ach.
+
+
+SULPICIUS.
+Getrost / sie fürchte nichts / ich heische keine Rach /
+
+
+CORNELIA.
+Mein irren (ich bekenn) hat Straffe wohl verdint.
+
+
+SULPICIUS.
+Cornelie, ich bin durch ihre Rew versöhnt.
+
+
+CORNELIA.
+Warumb denn daß sein Geist / nicht in der Ruhe bleibt?
+
+
+SULPICIUS.
+Weil ihr verlangen mich aus stiller Ruhe treibt.
+
+
+CORNELIA.
+Wahr ists das mich verlangt zu wissen / was er bat.
+
+
+SULPICIUS.
+Worauff ihr Heil besteht / das sie verzögert hat.
+
+
+CORNELIA.
+Mit ihm zu leben hilt ich vor mein höchstes Heil.
+
+
+SULPICIUS.
+Die Schickung wil es nicht. Sie ist Levinus Theil.
+
+
+CORNELIA.
+Die Schickung ist zu hart / die ihn so bald hinriß.
+
+
+SULPICIUS.
+Vmb daß Cornelie von Chloris mich verstiß.
+
+
+CORNELIA.
+Ach Hi iel: wär' es nicht / es würde nicht geschehn /
+
+
+SULPICIUS.
+Sie laß uns an Levin kein ferner Traur-Spill sehn.
+
+
+Sulpicius verschwindet.
+
+
+
+
+CORNELIA.
+
+Er scheidet. Wie so bald? Wo hin verschwand der Geist?
+Jst dieses ein Gesicht? Jsts Trüg? Wer weiß und weist
+Was bey dem Werck zu thun? Sulpic. ist leider hin /
+Jch seh ihn vor mir stehn! betreugt mich woll Levin!
+Wie könt es möglich seyn! wol / last uns selbst hingehn /
+Vnd bey Sulpiciuss Leich der Sachen Grund verstehn.
+Man forder stracks Levin. Es zeige sein Gesicht /
+Es lehre sein Geleit / ob etwas hir erticht.
+
+
+
+Flavia. Sulpicius.
+
+
+Vor Cornelie Behausung.
+
+
+
+
+FLAVIA.
+
+So bleib ich arme dann allein in disem Haus /
+Vnd alle gehn von mir bey später Nacht herauß.
+Jn dem schier iedes wähnt Sulpiciuss Geist zu sehen /
+Vnd kommt er denn zu mir; wie solte mir geschehen?
+
+
+Jch bin ja leider nicht Vrsach an seinem Tod
+Was wolt er denn von mir! O Schmertzen-volle Noth!
+Weh! weh! er ko it! ich flih!
+
+
+
+SULPICIUS.
+
+Laß ab von disem re en!
+Getreue Flavia, du wirst mich ja noch kennen
+Mich / der in dem ich lebt / dir nicht zu wider war.
+
+
+
+FLAVIA.
+Verzeiht Herr Geist! ich weiß nicht ob ich reden thar.
+
+
+SULPICIUS.
+V warumb darfst du nicht! ich bin dir noch bewogē.
+
+
+FLAVIA.
+Herr Geist ich hab euch ja mit wissen nicht betrogen!
+
+
+SULPICIUS.
+Wahr ists / daß wol gemeynt du mir die Gift entdeckt.
+
+
+FLAVIA.
+Wie ko its denn daß ihr mich / Herr Geist / so hart erschreckt?
+
+
+SULPICIUS.
+Jch schrecke nicht / ich bin zu trösten euch erschinen /
+
+
+FLAVIA.
+Herr Geist / der Todten Trost wil Lebenden nicht dinē.
+
+
+SULPICIUS.
+Dir selbst versprach ich noch ein unverhoftes Glück.
+
+
+FLAVIA.
+Gar wol / Herr Geist / ich bitt: Er trete was zurück.
+
+
+SULPICIUS.
+Vertrau auff meine Wort. Jch komme dir zu gutte.
+
+
+FLAVIA.
+
+Jch danck euch vor die Gunst / mit wol-vergnügtem Mutte
+Die Götter mögen euch verleihn gewünschte Ruh.
+
+
+
+SULPICIUS.
+Nicht biß Cornelia nach meinem bitten thu.
+
+
+FLAVIA.
+Seyd ihr im Fegefeur / im Himmel oder Höllen?
+
+
+SULPICIUS.
+Verlibten gibt man ein gar sonderliche Stellen.
+
+
+FLAVIA.
+Fahr wol Herr Geist / mich rufft ein nöthig Werck von hir.
+
+
+SULPICIUS.
+
+Fahr wol / ich bleibe dir gewogen für und für.
+Spils mehr denn nur zu vil. Jch eile denn von hinnen /
+Ein frölich Ausgang folgt offt auff ein schwer Beginnen.
+
+
+
+Fabricius. Sulpicii Bild auff dem Bette /
+
+
+die andern alle.
+
+
+Jn Sulpicii Behausung.
+
+
+Fabricius allein vor der falschen Leiche.
+
+
+
+
+FABRICIUS.
+
+Was hör ich / klopfft man / ja / bey noch nicht nahem Tag?
+Wer ist der mir so früh die Ruh nicht gönnen mag?
+Halt inn? Jch ko i. Jst auch villeicht die List entdecket?
+Daß man so unversehns mich aus dem Schlaf erwecket.
+
+
+
+
+
+Cornelia indem sie hinein ko it.
+
+
+
+
+CORNELIA.
+Mir gnüget we ich nur noch einst die Leiche schau!
+
+
+CHLORIS.
+Jch darff es nicht / weil ich wol meinen Augen trau.
+
+
+CASSANDER.
+
+Ma foy! wagt nicht pas trop. Jch hab es bien gefühlet.
+Er hat fort rudement mit mir die Nacht gespilet.
+
+
+
+LEVIN.
+Was zweiffelt man / hir ligt sein blasses Angesicht?
+
+
+CORNELIA.
+
+Jch zitter / ich erbeb / mein Jrrthumb leidet nicht.
+Daß ich / ich schuldigste / mich länger hie verweile.
+
+
+
+CASSANDER.
+Allez donc, il est temps daß man von hinnen eile.
+
+
+Sie gehen wieder weg.
+
+
+
+
+FABRICIUS.
+
+Diß sah gefährlich aus / und war was hoch gewagt.
+Wenn nicht Cornelie ob eigner Schuld gezagt.
+Da ko it mein Herr.
+
+
+
+SULPICIUS.
+
+Das Werck ist / und nach Wuntsch / verrichtet.
+Weg mit der falschen Leich / daß nicht was Nacht ertichtet /
+Der helle Tag verrath. Schleuß Haus und Thüren zu.
+Man lasse niemand ein / begib dich stracks zu Ruh /
+Bis uns das Licht erweck / ich lege selbst mich nider /
+Jn dem der süsse Schlaff befällt meine Augenlider.
+
+
+
+Chloris. Cornelia. Cassander. Flavia. Levin.
+
+
+Vor der Cornelia Behausung.
+
+
+
+
+FLAVIA.
+Jch hab' ihn selbst gesehn / er sprach mich plötzlich an.
+
+
+LEVIN.
+Diß ist ein solches Werck / daß ich kaum glauben kan.
+
+
+CORNELIA.
+Was hat er wol von dir / und du von ihm vernommen?
+
+
+FLAVIA.
+Fragt mich nicht biß drey Nächt und Täg auffs Ende kommen.
+
+
+LEVIN.
+Dich hat die Einsamkeit und Finsternüs bethört /
+
+
+FLAVIA.
+Sulpicen sah mein Aug / ihn hat mein Ohr gehört.
+
+
+CORNELIA.
+
+Wir wollen was zu thun / mein Herr /nach Rath umbfragen,
+Er such' uns ferner heim / so früh es nur wil tagen.
+
+
+
+
+
+
+
+
+
+[Die gelibte Dornrose: 3. Akt]
+
+
+
+
+[Die gelibte Dornrose: 3. Akt]
+
+Greger Kornblume / und Fraw Salome.
+
+
+
+KORNBLUME.
+ Jch ho olles versucht / ich richte aber nischte aus / daß is noch mey Glücke / doß ich Durnrusen ze Hülffe kam as se Matz Aschewedel wagfähren wulde. Wen ich nich gethon hette: se wärß dosmoll gesungen gwast. Ja se wor su verloren asse a Lamb doß der Wulff derwuscht hott. Siß aber gutt doß en de Nuckbern beem Kuppe krigt han / unde iche dencke a warde se Rächt drüm ausstihn müssen. Jche wil a mohl für de lange weele ze Mütter Salomen gihn / unde will üm Roth froyn / woß ich machen soll / denne vu meeme Vetter ho ich müssen stertzen s schad aber nischte. Jch war wull Herberge krigen / se froyt sich ock wu ich meeme Kiuh hinthun saul.
+
+
+SALOME.
+ Ja / war sich nich a wing e de Walt schicken kan / dar stirbt und vertirbt / ma mus itzunder uff se Vurtel sahn. S gibt eme nimand nischte ümsist. Sis olles blutt theür. De Contribulation mus fallen / me hots oder hots nich. Drüm kan mirs nimand verargen / wen ich mer an Haller nicht lusse aus der Hand gihn. O Jch bin in sittner Gruß-achtberkeet in unsem Durffe / doß de Nuckbern gleeben / ich künne müh / asse drithalbe schillge Duckter. Jche kon en wund sägen. Jche kon Kroittig lassen / ich lusse das Sib loffen / ich kon Wachs gissen / iche kon de Leute massen. Jche kon S' feur versprechen. Ya noch vil Dinges müh / doß nich ollen ze soin tog / S' seen er wul die de sprächen / iche wer gor enne büle weesse. Se thun mer ober unrächt / unde wem schods / wen ichs gleich wäre. Wahn kümmerts / wen ich e wing weis hexen könte! Thu ich doch nischte büses. Jch halffe allen Leüten und brauche lotter schine Gebahteln derzu. Nu doß giht uff gut Glücke. Jch muß sahn ob ich hoite wos derwischen kan.
+
+
+KORNBLUME.
+ Dau kümmt Mutter Salome. Jch mus se ohn reden / ih se wäg giht.
+
+
+
+SALOME
+
+stelt sich als ob sie betete.
+
+ Gott grüsse dich du schüne libe Sunne! Och / du bist meeß Hartzen wunne! Och / beschere uns a gutt Wätter: dos der Flachs nicht vertiubt / se fren sich de Städter.
+
+
+KORNBLUME.
+ Gott ga euch Glücke Frau Solme.
+
+
+SALOME.
+ Och Hax / fax / max stracks unde backs / e neugeleer Ee / unde jung BineWachs / fünff Still vum Raittige / vum Lobfrosche dos Faall / seen gut / seen gut widers Kalde / unde ßgrüne unde ßgall.
+
+
+KORNBLUME.
+ Gott ga euch Glück Fro Solme / hört er nich wull.
+
+
+SALOME.
+ Dar Engel Vrhel bliß in sey Hurn / ha pfiff / ha stürmte mit grussem Zurn / do zanten de Tannen / de zanten de Echen / Swasser bette eine mügen die Knie errechen.
+
+
+KORNBLUME.
+ Gott ga ech Glücke zum dritten mohl.
+
+
+SALOME.
+ Och Gott dancke ich libes Kind. Gott verzeihs ich / ihr stüret mich in meime Gebate.
+
+
+KORNBLUME.
+ Jch halde er hot de Gebatteln olle in der Schnure.
+
+
+SALOME.
+ Wos de kranckt / heest de mich ene alde Hure? do sol der Toifel derfür s licht halden. Liber Gott wos der labt me nicht uff seene alde Tage?
+
+
+KORNBLUME.
+ Ey ney doch Frau Solme / ich soyte er hett de Gebate olle an der Schnure.
+
+
+SALOME.
+ Ja / doß is an ander Ding! Sich libes Kind / halt mers ok ze gutte / alde Leutte behüren unde besaen sech nicht raicht. Wos wellt er den / oder wu tret ich der Waig hi?
+
+
+KORNBLUME.
+ Jch wulde ok su a wing mit ech reden! Saht de gantze Walt helt oich für anne verständige kluge Fro. Drüm beweest nu eure Kunst. Jch ha zwee gar schwere Anligen. Jungfer Durnruse acht menner nicht vill / ich ober ihr gor sihre. Vnd doß iß doß irste. Den dernoch han mey Vetter unde ihr Nanne Händel. Doß hingert mich nicht wing / unde ich wulde vor (asse enander schlugen: unde ausmachten / doß se nicht e Hund durch en löcherichten Zaun ohngesahn hette) Fride machen / Ja do ging 
+mers / do ging mers / S ging mer wiß ollen Fridemachern pflaet. Jch ha die grüste Schandflecke / Vffzüge / Stanck unde Vndanck dervon. Mey Vetter hot mich aussem Hause gejoith / mit samt der Kuh / die e mer frey hilt / Nu acht ich sen für mich su grus nicht / ich warde ju ern wu unterkummen. S' iß mir ok üm de Kiuh. Wen die mer hunger stirbt: se is e verturben ding! doß iß doß ander. Wos roth nu zu der Sache?
+
+
+SALOME.
+ O libes Kind / ich hüre nicht wul / O siß a elende Ding üm e alt Weeb.
+
+
+KORNBLUME
+
+schreyet sehr laut.
+
+ Wos Roth ze Durnrusen unde zer Kiuh?
+
+
+SALOME.
+ Sis mer e Fluß fürs Vhre gefallen. Jch hüre stock steen nischte.
+
+
+KORNBLUME
+
+noch lauter.
+
+ Wos Roth zer Durnrusen und zer Kuh.
+
+
+SALOME.
+ Sis heüte gor a unglücksaliger Tag iche kon ech nischte verstihn.
+
+
+KORNBLUME
+
+abwerts.
+
+ Ja ich verstih dich wul du altde Vettel.
+
+
+Zu der Salome.
+
+
+Siß mir leed Mutter Salome / doß er heütte nischte hüren künt. Jch wars ech weesen müssen / saht hie hat er en alden Tholer mit em Kütschelpeltze. Doß iß Silber unde een Vngrischen Gülden dan de Raben gefressen hotten / doß iß Gold saht ers wull? Setzt de Prillen uff de Nose.
+
+
+SALOME.
+ O ja / ja / hartzes libes Kind! ja! ja! ich sahs /unde wen me Gold oder Silber uff de Pulßoder leet: se hüret men och / soit er mer nicht vun Durnrusen unde vu der Kuhe?
+
+
+KORNBLUME.
+ Vu Durnrusen ze irste / unde vu der Kuh ze letzte.
+
+
+SALOME.
+ Ja / de Kuh kon ober nich reden. Drum müssen wer ze irste dervon handeln / das se nicht ümkümmt.
+
+
+
+KORNBLUME.
+ Nu / meent holben! doß beste uff de letzte / wos soit er den zer Kiuh?
+
+
+SALOME.
+ Je wos sol ich vil soyn / isse trächtig oder gelde?
+
+
+KORNBLUME.
+ O wos dan geyer verstih ich mich auff dos Ding. Jch bi e Jung Geselle / ich wees vil wie sichs mitte drehet.
+
+
+SALOME.
+ O libes Kind! de bist noch nich vil in der Wält rüm geloffen! Nu sich / ich meene es troilich mit der. Kanste de Kuh sist unterbringen / se luß ichs wul geschahn. Wen dech ober dünckt dos anders nicht seen kon / Se wil ichse zu mer nahmen. Ober doch!
+
+
+KORNBLUME.
+ Ja: wos soll ich Krippegeld dervon gahn!
+
+
+SALOME.
+ Krippegeld! doß ho ich me labtige nich gehurt.
+
+
+KORNBLUME.
+ Je de Stadter sprächen ju / wen unser inner bey ihn isst: gaht mer Tisch Geld! Nu assen de Kühe ju nicht uffm Tische / ok os der Krippe / drüm war ech euch wul müssen Krippegeld gahn.
+
+
+SALOME.
+ Sis wohrhafftig wohr / de Walt wird vu tage zu tage klüger / Nu wos walt er mer den gahn?
+
+
+KORNBLUME.
+ Was wes ech? ich war ech eure Side und Graß und Haber unde Stru nich schätzen! Machts redlich! Jch will ech de holbe Landsknaicht Portion gahn / su vil aß se uff e holb Pfard krigen / daß er saht dos ich kee Knauser oder Gniskes bin / unde dos ümme innes andermols willen.
+
+
+SALOME.
+ Ja / aber den Geniß vu der Kiuh dinge ich mer aus / und och Skalb / wu se kalbet.
+
+
+KORNBLUME.
+ Se war ich nicht vil behalden / ober hulls der Geyer / frist der Tud de Kuh / se iß dos Kalb der Hunde / Nu ze Durnrusen.
+
+
+SALOME.
+ Hartzes libes Kind / ich ho gestern in da Monden gesahn. Jch muß dirs ok uffrichtig sayn / mich jummert denner / Durnruse hält dich ok zum Narren.
+
+
+KORNBLUME.
+ Doß wer der hänger unde nischte guts!
+
+
+SALOME.
+ Nu: de Zeet wirds gahn!
+
+
+KORNBLUME.
+ Je selde a su e Vntreu / Gottluse Hartze / in dam Libe Mensche stecken?
+
+
+
+SALOME.
+ Jhr wards wull derfahren / ich soy daste winger. Lust mich de Hand sahn / wen seed er jung wurden / ze Tage oder ze Nachte!
+
+
+KORNBLUME.
+ Jch wees salber nich. Meene Mütter hot uffte gesait / S' wär am Wulpurgs Obēde geschan / wen de Püleweesen os fahren unde de Hanne hotten grode gekreet: aber de Sunne wor noch nicht auffgegangen gewast.
+
+
+SALOME.
+ Se wirds wull in der Nacht geschahn seen.
+
+
+KORNBLUME
+
+abwerts.
+
+ Hürt ok / wie wul wiß' s' es.
+
+
+SALOME.
+ Nu / gib mer de lincke Hand. O hartzes Kind / du krigst Durnrusen nicht.
+
+
+KORNBLUME.
+ Je se hot mers ju zugesait!
+
+
+SALOME.
+ Se geheit dich in de Zehne ney!
+
+
+KURNBL.
+ Siß unmenschlich unde unmüglich.
+
+
+SALOME.
+ Sich / ich wil wul mit Durnrusen reden / aber di wirst wul sahn / swird nischte draus warden / du wirst a hübsch betagt alt Weeb freen (wie iche bin) unde die de hübsche Haller hot. Jche ho a Kasenappel vul alde Thaler / unde an Watschgen mit sächs Fächern. S' seen a paar Duppel-Duckoten drinne / unde a Hauffen alde schlimme Häller. O ich ho noch mih Ding doß ich nicht alles say.
+
+
+KORNBLUME.
+ Mutter Salome / ich halde der Kupp stiht ich nicht raicht.
+
+
+SALOME.
+ Och hartzes Kind / sich de bist noch a junger Rützel drüm dorfste a verständig Weeb / die der doß denige hübsch ze rothe hilde. Vnde Durnruse iß anne junge Waschgütte. Se wer der su vil nütze assem Farckel de Mütze. Drum fulge gudem Rohte / weil noch zeet ze rothen / ih du ßkrimmen in Nacken und ich wiß nicht wuhin krigest.
+
+
+
+KORNBLUME.
+ Mutter Salome / euch treumet bee hellem lichten Tage.
+
+
+SALOME.
+ De kanst bey mir ze enem gedignen Manne werden / und och ältester / unde mit der Zeet wul gar Scholtze.
+
+
+KORNBLUME.
+ O Mutter Salome / sayt ok vu Durnrusen.
+
+
+SALOME.
+ Je nu / ich wil wul mit er reden / de wirst ober sahn swird nischte draus warden. Wen se dich aber nicht hon wil: wilst de mich den nahmen?
+
+
+KORNBLUME.
+ S' iß denne noch ümme a bedencken ze thun.
+
+
+SALOME.
+ Nu zu gesaytt.
+
+
+KORNBLUME.
+ Jch say / s' iß denne noch ümb e Bedencken ze thun.
+
+
+SALOME.
+ Nu zugesayt.
+
+
+KORNBLUME.
+ Je wen mich Durnruse ja gor nicht hon welde: se wers noch ümme Bedencken ze thun.
+
+
+SALOME.
+ Da Duckoten und da Thaler behalt ich ja.
+
+
+KORNBLUME.
+ Ja wen er ober vu Durnrusen gude Zeitige bringet: se gah ich euch noch zweene derzu.
+
+
+SALOME.
+ O libes Kind / halts Gäld ze rothe / de Haller seen seltzem / wen wer besammen warn laben / se hon mer a Ageld ze enem Paurhofe.
+
+
+KORNBLUME.
+ S iß noch üm a Bedencken ze thun.
+
+
+
+
+
+
+
+
+Verlibtes Gespenste: 4. Akt
+
+
+
+
+Der Vierdte Auffzug.
+
+Cornelia. Levin. Chloris. Sulpicius.
+
+
+Fabricius. Flavia. Cassander.
+
+
+Jn Sulpiciuss Behausung.
+
+
+
+CORNELIA.
+
+Jst denn der herbe Tag erschinen.
+Da wir zu letzte dich bedinen.
+Vnd kanst du von des Lebens Gaben /
+Nichts als den Leichen-Zirath haben?
+So nim von der / die dich gelibet /
+Doch die unwissend dich betrübet /
+Den Blumen-Schmuck / die ernste Reue /
+Die Thränen / dieses Pfand der Treue
+
+
+Kan auch dein Geist nicht sanffte schlaffen /
+Bleibt er stets wach umb mich zu straffen:
+So ruh er / nun ich seinen Willen
+Durchaus bereit bin zu erfüllen.
+
+
+
+LEVIN.
+
+Bleib de / hochwerther Freūd zu guter Nacht gegrüst /
+Der du in jener Ruh umb mich nicht ruhig bist.
+Der du durch deinen Tod / zu liben die beweget /
+Die nicht mehr meinen Dinst / nun du es heist / ausschläget.
+Cornelie soll denn mein Hertz das ihre seyn?
+Erkauff ich dises Gutt durch des Verlustes Pein?
+O Lib / ich steh' erstarrt / ob deinen Wunder-Thaten /
+Du kanst in höchster Noth durch höchste Mittel rathen.
+
+
+
+CHLORIS.
+
+Jhm leider / doch nicht mir /
+Mein Hertz / mein Trost und Zir /
+Vns kan die Libe nicht / uns wird der Tod vermählen.
+Hör Lib auff mich zu qvälen.
+Nim du den Blumen-Krantz /
+Wie diser Rosen Glantz
+Verwelckt eh jemands meynt / so mustest du erblassen /
+So plötzlich mich verlassen.
+Jedoch dein Geist verspricht
+Daß dich mein Seelen-Licht
+Nichts könne mehr von mir: Nichts mich von dir abtrennen /
+Laß dis mich bald erkennen.
+Dis soll der Traw-Ring seyn /
+Dis klägliche Gewein /
+Die Thränen die von mir / auff deine Leiche flissen;
+Gesell ich mit den Küssen.
+Was schaw ich / sein Gesicht / erröthet mehr und mehr /
+Die kalte Faust erwarmt.
+
+
+
+CASSANDER.
+
+He las traut nicht zu sehr
+Es sont des visions, des histoires tragiques
+Das Ding geht alles zu per certains traicts magiques.
+
+
+
+LEVIN.
+Schweig / Thor / Sulpicius, Freund /
+
+
+CORNELIA.
+Sulpicius,
+
+
+CHLORIS.
+Meine Sonn.
+
+
+FABRICIUS.
+Mein Herr.
+
+
+FLAVIA.
+Wer tod / bleibt tod.
+
+
+CHLORIS.
+Sulpicius meine Wonn /
+
+
+CASSANDER.
+
+Ha, l' extreme frayeur. Er eilt sich aufzurichten /
+Reprennons vistement die Haus-Thür /
+
+
+
+CHLORIS.
+Ach / mit nichten.
+
+
+CORNELIA.
+Was schaw ich / sinds Gespenst? Woher der neue Geist?
+
+
+
+CHLORIS.
+Hat Lib auf meine Bitt / diß Wunder-werck erweist.
+
+
+LEVIN.
+Sulpicius werther Freund. Kan ich dich lebend schauen?
+
+
+CASSANDER.
+Messieurs. Es ist fürwahr Phantosmes nicht zu trauen.
+
+
+SULPICIUS.
+
+Wer öffnet mir die Augenlider?
+Vnd rufft mich in das Leben wider?
+Wo bin ich? Chloris dein Gesichte /
+Begabt es mich mit neuem Lichte?
+Cornelie kan ihr Verlangen
+Mich / den der Tod itzt hilt gefangen /
+Herfodern aus der Leichen Scharen /
+Vnd retten von der Todten-Bahren?
+Levin läst mich nun dein Vergnügen
+Nicht in dem kalten Grabe ligen?
+Wie? War in Ohnmacht ich vergangen?
+Hilt mich schon Phlegeton gefangen?
+
+
+
+ALLE ZUSAMMEN.
+
+O Wunder treuer Lib / O unerhörte Krafft /
+Der Tod legt seine Pfeil vor Libes-Pfeilen nider /
+Der längst entleibte Geist besucht die kalten Glider /
+Vnd fängt zu leben an / nun es die Libe schafft!
+
+
+
+CHLORIS.
+
+Wiewol hab ich gesehn /
+Es werde bald geschehn;
+Daß / wie mich heint dein Geist vertröstet sonder scheiden /
+Entsetzt von Leid und Leiden /
+Jch mich mit dir / mein Hertz
+Vermählet / ausser Schmertz /
+Jn fest verknüpffter Trew / würd inniglich erquicken.
+Diß kan die Libe schicken /
+
+
+
+CORNELIA.
+
+Jsts möglich daß / O mein Verlangen /
+Du nun bist Tod und Grab entgangen /
+Soll mit liebreicher Seel vertrauen
+Jch dich als meinen Sohn anschauen?
+Ja / möglich ists / was ich versprochen /
+Wird durch dein Leben nicht gebrochen.
+Ko i / und umbfang uns beyd / sie als ein Bräutigam /
+Mich als ein libster Sohn. Es grüne beyder Stamm
+Biß sich der Zeiten Zeit in Ewigkeit verkehrt /
+Vnd in der Libe Glutt der Tod sich selbst verzehrt.
+
+
+
+SULPICIUS.
+Ach / wer ist mehr vergnügt in dieser Welt / als wir /
+
+
+
+LEVIN.
+Cornelia, mein Hertz vertraut sich einig dir.
+
+
+CORNELIA.
+Es traue. Wir sind fest / und ni iermehr zu scheiden.
+
+
+FABRICIUS.
+Vnd wie denn Flavia? Wie steht es mit uns beyden?
+
+
+FLAVIA.
+Hir hast du meine Trew: Gib du mir deine Hand.
+
+
+CASSANDER.
+Et moy! hab' ich allein die Zeit mal angewand?
+
+
+ALLE ZUSAMMEN.
+Es lebe die Libe / was Libe wird binden:
+
+
+CASSANDER.
+Es sterbe die Libe / was Libe wird binden:
+
+
+ALLE.
+Wird nicht die Hitze der Trübsal entzünden.
+
+
+CASSANDER.
+Wird stets die Hitze der Trübsal empfinden.
+
+
+ALLE.
+Es lebe die Libe / was Libe bewehret:
+
+
+CASSANDER.
+Es sterbe die Libe / was Libe bewehret:
+
+
+ALLE.
+Wird nicht von Neid und Verleumdung verzehret.
+
+
+CASSANDER.
+Wird stets durch Neid und Verleumdung beschweret.
+
+
+ALLE.
+Es lebe die Libe / was Libe gekrönet:
+
+
+CASSANDER.
+Es sterbe die Libe / was Libe gekrönet:
+
+
+ALLE.
+Hat Tod und Jammer und Elend verhöhnet.
+
+
+CASSANDER.
+Wird nun von Jammer und Elend verhöhnet.
+
+
+ALLE.
+O wunder treuer Lib / O unerhörte Krafft.
+
+
+CASSANDER.
+O rasen toller Lib / O unerhörte Krafft /
+
+
+ALLE.
+Der Tod legt seine Pfeil vor Libes-Pfeilen nider.
+
+
+CASSANDER.
+Der Tod wirfft selbst die Pfeil vor Libes-Pfeilen nider.
+
+
+ALLE.
+
+Der längst entleibte Geist besucht die kalten Glieder /
+Vnd fängt zu leben an. Nun es die Libe schafft.
+
+
+
+ALLE.
+Es lebe die Libe / etc.
+
+
+CASSANDER.
+Es sterbe die Libe / etc.
+
+
+
+
+
+
+
+[Die gelibte Dornrose: 4. Akt]
+
+
+
+
+[Die gelibte Dornrose: 4. Akt]
+
+Wilhelm von hohen Sinnen Arendator
+
+
+des Gutts Vildünckel.
+
+
+Vor ihm gehen Cuntz und Lorentz derer
+
+
+iedweder eine Hewgabel träget.
+
+
+
+WILHELM.
+ Je schade immer schade doß mich die Leüte nicht kennen / ich bin een Hoffman. Jch bin ein Politicum. Wen ich Cromwels geheimer 
+Rath gewesen were / ni iermehr hette man ihn absetzen können. Gleubet ihr wol / wen ich Türckischer Käyser were das ich mich wolte erstranguliren lassen? Wie Soldat Jmbrahim? Ja der hunderste verstehet nicht / was in diesem kopff stecket aber ad rebus. Jch muß bekennen. Wo kein ansehen / da sey keine Furcht / und wo keine Furcht / da praviren die Vnterthanen nicht ein Haar breit. Der Herr dieses Dorffs Vieldünckel / ist wol ein redlicher Gabelirer / aber er ist vor die Schlingel die Bauren zu from. Darumb begehen sie lauter surditeten. Nach dem ich aber: Jch verstehts nur recht / der ich vor diesem Scholtze hier war / das gantze Dorff harengiret / gehets ein wenig besser zu / und ich lasse die äcker u Leute nicht so rubiginirē. Jch bin zwar kein geborner Edelmā habe aber mehr faciliteten in meinē kleinen Finger als mancher in seinē grossen Kopfe Gehirne träget. So bin ich auch nie auff den Vnverstandt gezogen / und ein Liberalibus wor den / nichts weniger aber bin ich den Liberalibus abscheulich infectioniret. Nun umb meine Disputation zu erhalten hab ich euch beyde zu meinen Leibqvärden angenommen / nicht anders als ein kleiner Fürste / dem stets ein paar hetzscharen auffwarten / und ob ihr zwar noch keine Cartisanen traget: wirds sichs doch mit der zeit wohl finden. Jhr versprechet mir den trew und gewehre zu seyn?
+
+
+CUNTZ.
+ Ju Herr.
+
+
+WILHELM.
+ Sprich Gestrenger Herr du Flegel / und mache einen Knickerling mit einem Seqvenz / meinest du daß du mit einem Hundesbuben oder deines gleichen zu thun habest. Jch gedencke noch woll den Tag zu sehen / da man mich wird genadiger Herr Titteln / oder auch wohl gar eure Lentz. Jch bin itzt Herr alhier. Nun / noch einmahl. Jhr versprecht mir denn getreu und gewehre zu seyn?
+
+
+CUNTZ UND LORENTZ.
+ Ju Gestrenger Herr.
+
+
+WILHELM.
+ Vnd zu thun und zu lassen was ich gebiete und verbitte?
+
+
+
+CUNTZ UND LORENTZ.
+ Ju Gestrenger Herr.
+
+
+WILHELM.
+ Das war recht. Nun werde ich Verhöre geben / Vor dises muste iedesmal ein gantzer Tisch voll Sessoren allhier sein / wenn die geringesten Händelichen vorgingen: Nun aber empeschire ich alles allein / und halffe allen causibus, sonder Schöppen / Procurator, Affocaten und wie die Kerlen alle heissen auff einmahl ab. Sihe du wer vor der Thüren und erinnere die Leute daß sie bescheiden / und mit repetentz herein treten und mir meinen gebührenden Titel geben.
+
+
+Wilhelm. Ciliax Dorffschreiber. Cuntz und Lorentz.
+
+
+
+
+CILIAX.
+ Herr Scholtze.
+
+
+WILHELM.
+ Herr Narr.
+
+
+CILIAX.
+ Herr Scholtze.
+
+
+WILHELM.
+ Herr Narr.
+
+
+CUNTZ.
+ Sprecht Gestrenger Herr.
+
+
+CILIAX.
+ Gestrenger Herr Scholtze.
+
+
+WILHELM.
+ Gestrenger Herr Berenheütter.
+
+
+CILIAX.
+ Je wie soll ma den uff die letzte sprächen?
+
+
+WILHELM.
+ Man weis irgend nicht daß ich Harengarius allhier in dem Dorffe bin.
+
+
+CILIAX.
+ Nu / Nu / Gestrenger Herr Aringnater.
+
+
+WILHELM.
+ Ja / so recht / wenn man einem iedweden seinen gebührenden despect gibet: so hat es Hände und Füsse. Was bringst ihr uns Ciliax.
+
+
+CILIAX.
+ Gestrenger Herr Häringesser / die Nockbern unde Gemene vun Garnedorff han mich zu ihrem Lesaken gemacht / und schicken mich har / und lusen euch in guden Tag sayn: und ihre Vnschuldige Dinste derzu / und lussen euch bitten / ihr wellt in das Vih luß lussen / daß eure Bauren eingetriben und eingesperret han. Dixi.
+
+
+
+WILHELM.
+ Es heist nicht Fixi: Hört ihrs Kirchschreiber und Lesake von Gärnedorff / sagt ihr ewren Primkalen hinwiderumb wenn sie wollen Kühe halten / so sollen sie solche auff ihrem Grund und Boden halten / und meinen anvertraueten nicht lassen zu Schaden gehen / oder gewertig sein / daß ihnen dises widerfahre / was anitzt geschehen. Habt ihr denn auch schrifftliche Vollmacht.
+
+
+CILIAX.
+ Gestrenger Herr Scholtze / oder Haringerias wolt ich sayn. Jche versprach mich / ich brenge keene Fulmacht / ihr kennt mich ohne das wul. S kan nimet bey uns schreben ase iche: doß wüst er wuhl: unde hette ich mir irst a Ding machen suln / do würde Zeet darzu gehurt hon / unde es hette och en Bogen Pappier gestanden / do hette me erst müssen in de Stodt dernoch geloffen / unter des wern die Kühe hunger gestorben. Drüm wertt er mer wul gleben / aber zer Sache / die Küh hohn uff dem eurigen nicht gehutt: aber wull uffm ünsrigen. Die Wiese dervon er se hott wäg treben lussen / iß ja unse.
+
+
+WILHELM.
+ Da sag ich nein darzu / meint ihr Leute daß ihr euch dieses gantze Dorff wollet Erb- und eigen machen? die Wiese gehöret zum Rittersitz.
+
+
+CILIAX.
+ Je dos wäln wer mit vil Zeügen beweisen / dosse ünse iß der Juncker hots nie gestritten / s wird och wul im Scheppe-Buche zufingen seen.
+
+
+WILHELM.
+ Ja / der Juncker / der ist ein frommer Mann: und wenn er ein Buch und ein Glaß Wein / fraget er den Geyer nach dem übrigen. Aber itzund bin ich hir / Eure Zeugen sind conspecti: und das Schöppe-Buch habt ihr zu eurem eigenen Nutz gemacht und hinein gekleckt was euch selber gefallen hat. Es mus nun weit anders zugehen.
+
+
+CILIAX.
+ Ey Gestrenger Herr / bedenckt ech eens bessern. Wir han glech wul och Oberkeet / unde wen inner keene Hülffe hot / se mus a se suchen / wus Krafft unde macht hott.
+
+
+WILHELM.
+ Habt ihr Obrigkeit dort / so bin ich Obrigkeit hir / ist eur Herr Edelman / so bin ich Heringerius wisset ihr ein Loch / so weiß ich daß ander / verstet ihr mich wohl.
+
+
+CILIAX.
+ Nu / Nu / ward ok nich balde büse. Jhr wart mich yu och nich frassen / doß ech a wing de Wohrt say.
+
+
+
+WILHELM.
+ Haltet das Maul! Jhr seit ein Wäscher und wenn ich eurer Capitalen nicht schonete / wolte ich euch was anders beweisen. Vor dieses mahl wil ich meinen liben Nachbarn die Kühe folgen lassen: kommet ihr mir aber noch einmahl mit solchen Worten wider / so werde ich euch nicht die Kühe / sondern den Strang an den Hals werffen / darnach habt euch zu richten / denn daß ist mein entlicher gnädiger Wille. Jst iemand mehr vor der Thüren.
+
+
+CILIAX.
+ Gestrenger Herr grussen danck / Gott vergelt es ech Gestrenger Herr iche bette och wul wos an ze bringen / menet wegen üm de Wätter Garbe.
+
+
+WILHELM.
+ Jch habe gesagt ihr sollet euch trollen oder ich werde euch Füsse machen. Jch habe keine Zeit vor solche Narren wie ihr und eures gleichen / du / ruffe die ander herein.
+
+
+CUNTZ.
+ Je Gestrenger Herr / er ist a gantz Durff vel draussen / se warn e der Stube nich raum han.
+
+
+WILHELM.
+ Wer sind sie? laß sie nur alle zu gleiche herein.
+
+
+Wilhelm. Cuntz. Lorentz. Jockel. Bartel. Kornblume.
+
+
+Aschewedel. Dornrose. Fraw Salome.
+
+
+
+
+KORNBLUME.
+ Gott grüß ech Herr .....
+
+
+LORENTZ.
+ Sprich Gestrenger Herr .....
+
+
+JOKEL.
+ Gott ga ech Glücke Gestrenger Herr.
+
+
+WILHELM.
+ Gott dancke euch / was bringst ihr guttes neues.
+
+
+ALLE ZUSAMMEN.
+ Gestrenger Herr Haringaries ....
+
+
+WILHELM.
+ Holla / holla / schreyet ihr doch alle wie die trunckenen Bauren / einer rede nach dem andern.
+
+
+BARTEL.
+ Gestrenger Herr Haringater ....
+
+
+JOKEL.
+ Halts Maul du / ich muß ze irste reden.
+
+
+BARTEL.
+ Es is erstuncken unde derlogen ich mus ze irste reden.
+
+
+SALOME.
+ Ney / Ney / iche mus reden. S trifft Jhre und Redligkeit on s iß enne grusse Sache.
+
+
+
+KORNBLUME.
+ Nicht doch Gestrenger Herr / iche muß zu irste reden.
+
+
+WILHELM.
+ Was saget denn Jungfer Dornrose?
+
+
+DORNROSE.
+ Jch will den andern genung zeit lassen / wa ihren Sachen wird abgeholffen sein / wird die meine villeicht können geschlichtet werden.
+
+
+WILHELM.
+ Wohl dan! nach der Ordnung! keiner falle dem andern in die Rede / bringet eure Sachen kurtz / richtig und bescheiden nach ein ander vor / und erinnert euch / daß ihr vor ihrer Gestrengt Herren Wilhelm von hohen Sinnen stehet.
+
+
+BARTEL.
+ Ja woß soll ech sayn Herr Gestrengeter? Saht ok / mey Haan saits vu sich salber / Nockber Jokels Knaicht dam me alle Schelmerey gestiht / unde dar zim verterbe des gantze Durffes geboren iß / hott meime orme Hanne / sonder Schold ende Vrsache nochm Halse gezihlet / unde hott em ß Bein in Stücke geschmissen. Denckt ok / wen e em e Kopp troffen hette a hette em de Hirnschole gantz unde gar zeschmettert. Drum begahr ich / dos ha unde sey Knaicht gestrafft werden / doß en de Schwarte knackt / und doß e mer de Haan wider heelen läst / oder en andern schofft / dar aben su gruß / su alt / unde nich älder / dar och su gut kreet unde seine Sachen uff e härle / su verricht wie dar Haan für unde für gethon hott.
+
+
+WILHELM.
+ Jst daß die gantze Klage?
+
+
+BARTEL.
+ Ney Gestrenger Herr / ich ho noch wul Müh / unde doß Jhre und Redligkeet angiht / wider Motz Aschewedeln / aber halfft irstlich dar Sache ab. Griger Kornblume wird ech doß ander salber klohn.
+
+
+WILHELM.
+ Was saget Jokel zu diesem Handel!
+
+
+JOKEL.
+ Gestrenger Herr Harengaribus siß a su a Ding. Saht ok! Meine arme Lusche / die mer sey Gottluse leichtfertig Gesinde a su zugericht hott / as wen se sechs Wuchen uff der Schindergrube gelain hätte. Saht! Se hatten erne men Hund in sey Haus gelockt / unde hotten mer en dennoch zim possen mit siedigem Wasser oder wos s ok war verbrit. Saht ok wie ok a zugericht ist. Siß gutt / das schune kald iß / wen de Hundstage noch wern. Se were e lange rasend wurden / unde madig asse e alt Zigen Kase.
+
+
+
+WILHELM.
+ Jch frage was du zu dem Hanne sagest? Verantworte dich zu erst selber / hast du hernach was vorzubringen so solst du gehöret werden.
+
+
+JOKEL.
+ Je saht ok Gestrenger Herr Schufft / s' mag sein / ß' mag och nicht seen. War kon dam leichtfertigen Gesinde immer im Hingern stecken. Siß ju och nich su vill in eme Haanne gelään asse am Hunde / unde a hott süttene Schandflecke derzu angehangen / arger as eme BeuttelSchneeder.
+
+
+BARTEL.
+ Jch meene ich meene du hust mers och nicht geschanckt / hatte ich mech doch liber drey Tage mit Händen und Füssen weln schlüssen lussen / asse die Worte noch e mol sey mech frassen.
+
+
+WILHELM.
+ Du aber hast nicht weniger dich an seinem Hunde vergriffen?
+
+
+BARTEL.
+ Ney ich nich Gestrenger Herr / ich hüre meene Grütte sols gethon han.
+
+
+JOKEL.
+ Hürt ers Gestrenger Herr / a gestihts schune halfft mer nu.
+
+
+BARTEL.
+ Vnde och mire.
+
+
+WILHELM.
+ Jhr seid böse Buben alle zwey. Jhr zancket euch für und für. Jch werde euch beyde so wissen abzustraffen / daß sich andere daran bespeculiren sollen. Wie stehets umb dich Aschewedel?
+
+
+ASCHEWEDEL.
+ Je ju / wie sols stihn Gestrenger Herr. Do hot mer Kornblume e holb schock Beulen unde drey Löcher geschlön / drümme bitt ech / ihr wellt en stroffen unde derzu zwingen / doß a mer doß Heelgeld ga / oder a Boder bezahle / unde Schäden und Vnkusten richte!
+
+
+WILHELM.
+ Du! Kornblume. Jch habe dich allezeit vor den frömbsten angesehen / bist du nun mit einem solchem Schalcke gefüttert?
+
+
+KORNBLUME.
+ Je ju Gestrenger Herr Scholtz! wie mes macht su gihts. Lust ok Durnrusen reden / oder froyt ihren Nanne / dar lechtfertige Jhrvergassene Schelme und Dib.
+
+
+WILHELM.
+ Holla! holla! vor dem Richter!
+
+
+KORNBLUME.
+ Je nu saht / ich verstihs nich a su genow. Dar Karle / oder wie a heest Matz Aschewedel mit züchten ze reden wulde Durnrusen mit gewalt wäg führen / unde wen ich nich ze gudem Glücke derzu kummen wär / se wers wull ümb Se gesungen gewast. War weiß woß e mit er fürgenu ien hätte.
+
+
+
+WILHELM.
+ Wie ists Dornrose?
+
+
+DORNROSE.
+ Es ist nicht anders / als er erzehlet. Aschewedel sprach mich erstlich mit villen Worten an / nachmals wolte er gewalt gegen mir üben / berühmete sich er were ein Soldat welchem alles freystünde / mehr ziemet sich nicht zuerzehlen. Wann nicht Kornblume mich gerettet und mein Vater endlich zu Hülffe ko ien / wehre es dises mal umb mich u meine Ehre geschehen gewesen.
+
+
+JOKEL.
+ Gestrenger Herr Scholtz / od' Herr Ignarius wie er heest siß nicht anders / unde wen er key Einsahn drein hott / se wird uff de letzte nimand mit seme Kinde in seen vier Pfälen sicher sein können. Siß ju Gott lob unde danck Fride im Lande / siß och im Krige sey lättige su bund nie hargegangen.
+
+
+WILHELM.
+ Genung geplaudert. Man wird schon wissen was zu thun du redlicher Vogel! Wer bringet dich auff solche springe? auff öffener Aw und Wiese ehrlichen Kindern nachzustellen?
+
+
+ASCHEWEDEL.
+ Je wos? Gestrenger Herr! siß e tumb Ding üm de Libe / Vnde Fro Salome meente / wen wer gleiche wull uff de letzte zesa ien kemen / se würdes su vil nicht uff sich han.
+
+
+WILHELM.
+ Fraw Salome! Du altes verrunzeltes reudiges Fell! reitet dich der Teuffel bey deinem achzig Jährigen Alter noch immer?
+
+
+SALOME.
+ Je ney / ie ney / Gestrenger Herr Scholtze / ie ney / Gestrenger Herr Aringariges! ie glebet doch sitten kindisch Ding nicht von mer / je siß mer ju sey läbtige nich in Sinn kummen! je Matz Aschewedel! je schameste dich nich daß de a su leugest / ha ich dich doch in zweyen Johren nie gesahn.
+
+
+ASCHEWEDEL.
+ Wos? nie gesahn? wist er nich do ich ech de zwe Tholer auffem Kirchhoffe gab / unde ihr gobt mer das Püscheln Hoore unde sayit / wen ech ok Durnrusen würde mitte anrühren / Se muste se mich lib hon.
+
+
+SALOME.
+ Je leug / ie leug alles Lügners ney / ie ney Gestrenger Herr / ie glebt em doch nich / bi ich doch in sechs Johren in keene Kirche kummen / uffm Kirchhoffe vil winger.
+
+
+WILHELM.
+ Ein schönes Zeugniß von sich selber. Wie vill hast du ihr vor diese Haare gegeben?
+
+
+ASCHEWEDEL.
+ Zwee harte Reechstholer.
+
+
+SALOME.
+ Jche ho ju kinn Haller gesahn.
+
+
+ASCHEWEDEL.
+ Wos selt des nicht gesahn hon? du suchst ju dan in Reichsort lange genung wie a dir ins Been Haus gefallen wor.
+
+
+
+SALOME.
+ Je ney Herr / glebts doch nich ich suchte mer ok en tudten Kupp oder e paar / S'warn su hübsche Kasenappeln draus / die ze vil dingen gut sein.
+
+
+WILHELM.
+ Jch meinete du werest in zweyen Jahren weder auff Kirchhoff noch in Kirche kommen? gut / gut / ich will dich schon finden.
+
+
+SALOME.
+ Je mer geschicht für Gott unde für dar Wält unrecht.
+
+
+WILHELM.
+ Schweig / Man hat mehr zu hören / hat Kornblume noch was zu sagen.
+
+
+KORNBLUME.
+ Ju / ich ho noch wull wos. Jhr wisst Gestrenger Herr. Wen me eme e Ding raicht unde redlich zusayt: se soll mes halden. Nun hot mer der erbere und beschedene Jockel Dreyecke enne bitte ze gewahren versprochen.
+
+
+WILHELM.
+ Jsts also geschehen Dreyecke?
+
+
+JOCKEL.
+ Je ju / iche ha em wul was zu gesayt / aber nich daß Ding dos ha meenet.
+
+
+KORNBLUME.
+ Je ne / bedenckt ech ok raicht. Jhr sayt mirs ju mit em Handschlage zu / ßwer och woß ok wer. Vnde do ich den der noch ümme Durnrusen bat / do welt er liber nischte dervon wissen.
+
+
+BARTEL.
+ Jche ho dirs gesayit / du solst vu Durnrusen schwegen.
+
+
+WILHELM.
+ Halt du dein Maul / und laß die Parten reden. Sage Kornblume was du zu sagen hast.
+
+
+KORNBLUME.
+ Derzu se isse e alt rächt in ünsem Durffe / wen inner inne Jungfer bey ihren hilfft derhalden: so sool se seene sein. Wen se ok suste wil. Drüm meente ech wull Gestrenger Herr / ßwere keene übele Sache / wen ihr Durnrusen unde mir wällt mit Gott und rächte zesammen halffen und die beede Frinde do / meen Vetter unde ihren Nanne derzu bereden daß se mite ze fride wern.
+
+
+SALOME.
+ Ja saht olle här / Ja doß wer schine / doß wer e frassen! Je Kurnblume! Hust de mers nicht zugesait / doß is gleichwul unfründlich doß inner wil zwey Weeber uff e mohl nahmen.
+
+
+KORNBLUME.
+ Jch ho der da Teuffel unde seene Mutter zugesait.
+
+
+SALOME.
+ Nicht zugesait? je hust de mer nicht da Tholer unde da Robengülden uff de Zusage gegahn?
+
+
+
+KORNBLUME.
+ Leug Teuffel leug / Ney selde eme sulch dull Ding im Fasnacht Dinstige tromen? Jch ho ech ju dos Gäld gegahn doß er met Durnrusen selt reden / unde selt mer meene Kuh su lange unterhalden.
+
+
+SALOME.
+ Je ja de saist aber och de welst mich nehmen!
+
+
+KORNBLUME.
+ Nahmen? je wos sait iche / do er mich zwee oder dreemohl froit ob ich ech nahmen welde / wen mich Durnruse ju nicht hon wälde? Sayt ich nich. S'wer üm e Bedencken ze thun?
+
+
+SALOME.
+ Je nu / hust de nicht Zeit genung gehott dich ze bedencken?
+
+
+WILHELM.
+ Jch glaube nicht / daß so viel Händel auf einem Tage in dem Königlichen Parlament zu Paris vorkommen. Doch ich wil euch nicht lange auffzihen. Tretet dort in jenen Winckel biß ich mich etwas bedencke.
+
+
+Er stehet auff und gehet etliche mahl auff und nider.
+
+
+
+
+SALOME.
+ De must mich han / de salst mich han / sich Durnrusen ze trutze will ich dich nahmen.
+
+
+KORNBLUME.
+ Je will ich a Loch in de Walt loffen hundert Meilen lang / du alde Bockreüterische Vettel!
+
+
+SALOME.
+ Was? greiffst de mich noch in meime Jhrlichen Namen an? dos soll der schwer uffbrechen.
+
+
+WILHELM
+
+auff und nider gehend.
+
+ Jch sehe wohl / wo ich mir nicht ein Ansehen mit ernst mache / wird man künfftig nicht vil auff mich geben gutt / gutt!
+
+
+Er setzet sich wider und fähret fort.
+
+
+Heran ihr Leute / du Bartel Klotzman und du Jokel Dreyecke. Jhr seid zwey alte grein- und zancksichtige Haderkatzen und Tumultuanten / die ihr euch nicht schämet / Jahr aus Jahr ein / so einander zu schmehen und zu schimpffen / daß ihr dem gantzen Durffe Schande und Spott anthut / traget auch kein Bedencken umb eines in äügigen Hannes ...
+
+
+KLOTZMAN.
+ Herr a hat zwee Oogen.
+
+
+
+WILHELM.
+ Vnd flöigen Hundes willen / all Nachbarn in Rumoribus zu bringen / ewre Arbeit stehen und ligen zu lassen / und das rechtliche Ambt so liderlich zu bemühen. Weil ich da sehe / daß ihr euch uf eure alte Thaler verlasset / u darauff pochet / daß ihr ein wenig Ansehen im Dorffe habt / muß ich versuchen / ob / und wie euch der Kützel zu vertreiben / Du / Bartel Klotzman solst heute drey Schock alte harte Reichsthaler Straffe erlegen / nachmal den Hund dreymal auff deinen Schultern das Dorff auff und nider tragen / darauff ein virtel Jahr in dem Stocke sitzen / mit Händen und Füssen geschlossen / auch in zwey Jahren wider in den Kretscham noch zu einiger Kirchmees / Hochzeit / oder Gefatter Essen gelassen werden.
+
+
+BARTEL
+
+krimmet sich in dem Haubte.
+
+ Ey / ey Gestrenger Herr / je doß iß ju gor ze scharff ...
+
+
+WILHELM.
+ Stille mit der Fidel.
+
+
+ASCHEWEDEL.
+ O wie wird mirs gihn!
+
+
+WILHELM.
+ Du / Jockel Dreyecke. Weil du die Händel angefangen / solst du zwey Schock Vngerische Gülden / baar unzertrennet in einer Summa vor Sonnenschein den Gerichten erlegen: ein halb Jahr mit Händen und Füssen geschlossen in dem Stocke sitzen / nachmahls inner mindern Sächsischen Frist Haus und Hoff verkauffen / und dich aus dem Dorffe backen. Wird man dich darinnen betreten. So solst du deine Straffe nicht wissen.
+
+
+JOKEL.
+ Ey jey / jey / jey / jey / daß iß a teur Haan.
+
+
+Beide stehen und sehen einander eine ziemliche weile betrübet an.
+
+
+
+
+JOKEL.
+ Je hartzer liber Herr / ie machts doch nicht a su scharff / schunet doch menner gro Hore / unde menner ormen Kinder.
+
+
+WILHELM.
+ Schweig man mus exemplum statuiren. Du Kornblume / ob sich wol die Zusage / die dir Jokel gethan hat / noch dispaziren lisse: Jedennoch weil die Jungfer Dornrose gerettet. Soll sie / dafern sie ihren Willen drein gibt / dir verheyratet werden / und der laame Hahn / welcher ohne diß den Gerichten verfallen / sey dir von mir auff die Hochzeit verehret.
+
+
+KORNBLUME.
+ Och wu iß e saliger Mensch uff der gantze Wallt als iche! Och woß sayt Durnruse! O geschwinde / geschwinde oder mey arm Hartze verglimmet.
+
+
+
+DORNROSE.
+ Weil es das Recht und Richter mir zu erkennen: mus ich mirs gefallen lassen.
+
+
+JOKEL.
+ O hartze liebe Kinder: O ich bie nicht müh büse / O thut mer ok eene Vorbitte.
+
+
+BARTEL.
+ O bitt / bitt / siß huch Zeet. Jch will garne meen Willen drein gahn.
+
+
+SALOME.
+ Je se hüre ich wull / Sie kriget en Mann unde iche krige nischte?
+
+
+WILHELM.
+ Du solst dein Theil schon krigen.
+
+
+SALOME
+
+weinet überlaut.
+
+ Ja Durnruse kriget Kornblumen / ha / ha / a / a / a / ha!
+
+
+KORNBLUME.
+ Gestrenger Herr Aringarius. Jch bedancke mich des guten Spruchs / iß ober noch su vil durch Bitte ze derhalden / se derbormet euch ok menner liben Durnruse / unde lust ihrem Vater wos vu der Stroffe noch.
+
+
+DORNROSE.
+ Jch bitte gleichsfals inständigst und Ehrengeflissenst vor meines libsten Vetter.
+
+
+WILHELM.
+ Sie sind dieser Vorbitte nicht würdig.
+
+
+JOKEL UND BARTEL.
+ Je dos der barme dans derbormen kan / unde dans Ogiht.
+
+
+KORNBLUME.
+ Wu wos müglich zu derbitten Gestrenger Herr Aringaries.
+
+
+WILHELM.
+ Sie haben nicht verdinet daß man sie durch einen löcherichgen Zaun ansehen solte. Jedennoch wil ich aus genaden Sie eurer Vorbitte genissen lassen / und vor dises mal ihnen die Straffe nicht schencken / damit ihr es recht verstehet / sondern nur auffschieben. Werdet ihr euch inkünfftig in dem wenigsten vergreiffen / so werde ich schon zu vexequiren wissen.
+
+
+JOKEL.
+ Ney / ich will mich hütten / Gott sol mers halffen.
+
+
+BARTEL.
+ Jch will mers wul lussn enne Witzige seen.
+
+
+WILHELM.
+ Stracks gebet einander die Hände / und lebet hinfüro einträchtig und Schwägerlich. Abwerts. Was gilts ich wil Fride unter meinen Vnterthanen stifften. Du Matz Aschewedel! du bringest dein Vrtheil schon selbst mit / und weil ich die Vnterthanen mit Wachen und Vnkosten / 
+nicht gerne beschwere / du auch dem Bader nicht viel heil Geld zu geben hast / so schicke heute nach dem Pfarren / morgen umb achte / solst du einen Turm auffsteigen / der voll Fenster ist / und folgends in der Lufft marestiret werden.
+
+
+ASCHEWEDEL.
+ Je Gestrenger Herr Haringaries seid er tull oder Tühricht wurden / Siß ju nimmermühr eur Arnst.
+
+
+SALOME.
+ Je Herr / wen ich ok die Kuhe krigete / O lost mich ok de Kuh behalden.
+
+
+WILHELM.
+ Die Kuhe sol dem jenigen zugestellet werden / dem sie gehörig / und ob woll du Salome wegen deiner Hexerey / Cöplerey und allerhand verübten Händel / lange den Holtzstoß verdinet hettest: Wil ich doch Genade vor Recht gehen lassen. Vnd weil man den Meister ohne dieses aus der Stadt holen muß / solt du zusehen / wie Aschewedel Abschied nehmen wird. Nachmals sollen dir die Ohren abgeschnitten werden / die Stirne mit einem glüenden Eysen gezeichnet / zuvor aber die Flöhe von dem Rücken mit Ruten zum tügen abgejaget werden.
+
+
+SALOME
+
+fället auf die Knie und schreyet.
+
+ O Genode / Genode / Genode! O Herr ich hoß nich su büse gemeenet.
+
+
+ASCHEWEDEL
+
+auff den Knien.
+
+ O Herr / ich hoß nicht verstanden: Jch bi noch ze jung.
+
+
+SALOME.
+ O Gestrenger Herr / ich wil garne guts thun.
+
+
+ASCHEWEDEL.
+ O ich wil garne frümer warden / O Herr! Jch wil Eur Narr werden.
+
+
+SALOME.
+ O hartzer liber Herr: ich will Eure Kasemutter ich will eure Schleussern werden.
+
+
+WILHELM.
+ Man hat an euch nichts zu erhalten. Drumb immer fort / iedoch wo ihr hirmit versprechet euch zu bessern.
+
+
+SALOME UND ASCHEWEDEL.
+ O ja / ja / ja / ja / ja / O / ja.
+
+
+WILHELM.
+ So soll euch hirmit das Leben geschencket seyn mit dieser ausdrücklichen Bedingung / daß ihr euch morgen zusammen treuen lasset.
+
+
+
+KORNBLUME.
+ Selde sich doch inner liber sechs mohl hengen lussen / asse dan alden groilichen Beer namen.
+
+
+ASCHEWEDEL.
+ Ja du hast gut sayn / s's Laben is Lib.
+
+
+WILHELM.
+ Stracks gebet einander die Hände und bessert euch. Wo nicht: So wird das letzte ärger werden als das erste.
+
+
+JOKEL.
+ O wie wor mir vor a su bange!
+
+
+BARTEL.
+ O wie enge wor mir dar Peltz.
+
+
+KORNBLUME.
+ Das seen Wunder der Libe!
+
+
+DORNROSE.
+ Also wird treue Keuschheit gekrönet.
+
+
+ASCHEWEDEL.
+ Och / wie schwingelte mer für der Litter!
+
+
+SALOME.
+ Au wie krü ierte mich der Rücken! Nu war achts / noch bekumme ich an hübschen jungen Monn dervon.
+
+
+KORNBLUME
+
+redet mit seinem Vetter in geheim hernach fanget er an.
+
+ Gestrenger Herr Arengarius. thüt uns die grusse Genode unde kummet hinte zu uns ze gaste / unde Moren oder wenne wer wärn künnfertig warden / zer Hochzig.
+
+
+WILHELM.
+ Es wird sich geben / heute sollet ihr meine Gäste sein.
+
+
+SALOME.
+ Jche och Gestrenger Herr!
+
+
+WILHELM.
+ Jhr beyde sollet indessen in den gehorsam gehen / doch sols euch an essen und trincken nicht mangeln.
+
+
+Stehet auff und spricht in dem hingehen.
+
+
+Also muß man den Bauren den Pflug keilen.
+
+
+Die andern treten alle hinter ihm hinein / biß auff Kornblumen / welcher die Zuseher folgends anredet.
+
+
+Do saht ers / welch e tumb Ding ß' üm die Libe iß. Es giht wull enne weile krum unde seltzam: doch wen mes ok recht unde redlich meenet / se leuffts noch wull uff e gewündscht Ende naus hin. Nu 
+ihr lieben Frauen / Jungfern und Herren: Jch bete ich garne ze Goste. Jhr hürt aber daß ich salber soll ze gaste gihn. Wellt er aber a su wul thun / unde wellt über Moren züm mer zur Huchzig kummen / se selt er mer olle wilkummen sein / ok kummet hübsch zeetlich doß me de Kirche nicht verseumet / und giht och hibsch zeetlich wider ze Bette / doß er mer de Braut nicht unfn irste Obett ze tude tantzet / den ich war se müh han müssen. Vnd himit giude Nacht.
+
+
+Tantz der Geister.
+
+
+Tantz der Liben.
+
+
+
+
+
+
+
+
+
+Reyen
+
+
+
+
+Reyen
+Reyen der Verlibten
+
+
+Welche in dem Gesang-Spiel auffgezogen / und Reyen der Bauren / die in dem untergemischten Schertz-Spil erschienen.
+
+
+1. REYEN.
+Ko i Hymen, Hymen ko i / das grosse Sonnen-Licht
+Weicht deiner Fackeln Glantz.
+Diane selbst verdeckt ihr schamhaft Angesicht
+Mit einem Lilien-Krantz.
+2. REYEN DER BAUREN.
+Ko i / Braut-Gott! ko i zu uns / las grosser Häuser Pracht.
+Bey einer dunckeln Glutt
+Schertzt sichs nicht minder wol / man libt / man ruft / man lacht
+Mit unverfälschtem Mutt!
+1. REYEN.
+Komm Hymen! und erfrew was sich dir einig gibt /
+Weih unser Eh-Bett ein.
+Du bists durch den man recht und ewig standhaft libt /
+Du trotzest Tod und Pein.
+2. REYEN.
+Komm Braut-Gott / komm zu uns die wir ohn alle List /
+Vnd weit-gesuchte Lust /
+Dir opffern wormit du leicht zu versöhnen bist;
+Das innerst unsrer Brust.
+
+1. REYEN.
+Ko i Hymen, sonder dich bricht Zepter / Stab / und Thron /
+Du stützest Reich und Land.
+Du schenckst der Fürsten Haupt die herzlichst Ehren-Kron:
+Der Ewigkeiten Pfand.
+2. REYEN.
+Was Zepter / Flegel / Karst / und Gabel / Eeg' und Pflug /
+Sind Braut-Gott dir vertraut.
+Wo sich kein Libes-Paar durch deine Gunst vertrug;
+Ward auch kein Land gebaut.
+1. REYEN.
+Wie würde sonder dich die Welt so einsam stehn /
+Es würde Statt und Kunst /
+Vnd was man schätzt in nichts und erste Nacht vergehn /
+Als Schatten / Wind und Dunst.
+2. REYEN.
+Wie würde sonder dich das Feld voll Hecken stehn /
+Ja unser Feld-Baw-Kunst
+Die würd (und stracks mit ihr die Welt) in nichts vergehn /
+Als Nebel / Taw und Dunst.
+
+BEYDE REYEN ZUSAMMEN.
+
+Komm Braut-Gott komm / du must uns all erquicken /
+Komm Braut- Gott komm / du must uns beyd' anblicken.
+Weil nichts was hoch ohn nidrige kan stehn
+Weil nidrig ohn die hohen doch vergehn:
+So komm und schütt auff beyder Hütt und Hauß
+Dein edle Krafft und reichen Segen aus.
+
+
+
+HYMEN
+
+vmbgeben mit vier liben.
+
+
+
+ Welche Brautfackeln tragen.
+
+O Selig / wer durch keusches Liben
+Jn unverfälschter Trew entglimmt /
+Ob schon die Wolcken sich betrüben /
+Ob schon der Wetter Zorn ergrimmt;
+Doch darff kein Sturm sich an ihn machen /
+Er kan der Zeiten Trotz verlachen.
+
+
+
+
+
+O Selig die durch mich verbunden
+Weit von der schnöden Wollust flihn.
+Die in dem Garten sich befunden:
+Jn dem die Tugenden auffblühn /
+Sie / (wenn gleich andre zagen werden)
+Sind in dem Himmel auff der Erden.
+
+
+
+Glück zu / du Licht der Pfaltz / du Sonne
+Die du Piastus Stamm auffgehst /
+Vnd nun sich Phœbus neigt / mit Wonne
+Den hochgewüntschten Lauff erhöhst /
+Wie raw und lang hat es gewittert
+Wie ward der Briger Hauß erschittert.
+
+
+
+Doch nun du komst / O Ruhm der Zeiten /
+Zeucht Ruh' und Wollust mit dir ein
+Holdinnen stehn umb deine Seiten:
+Vnd Segen wil Geferte seyn.
+Jch bin bemüht den Weg zu zihren
+Vnd dich ins Braut-Bett einzuführen.
+
+
+
+Georg eröffne Hertz und Schlösser /
+Fürst / ob dem Zeit und Nach-Welt starrt.
+Schaw Fürst / der Himmel meynt es besser /
+Du hast nach Angst / den Trost erhart.
+Gepaarte Götter dieser Erden /
+Wer kan euch vorgezogen werden.
+
+
+
+Lebt ewig / lebt und wachst und blühet /
+Piastus Stamm-Baum sproß und grün':
+Biß sich die Ewigkeit bemühet /
+Den Lauff der Zeiten einzuzihn.
+Vnd euch auff höhern Thron erhebe
+Piastus Hauß blüh / wachs und lebe.
+
+
+
+BEYDE REYEN ZUSAMMEN.
+
+Charlotte leb / O leb /
+Der milde Himmel geb /
+Was Eur Geschlecht erheb.
+Vnd kröne die Verlibten Sorgen /
+Mit viel Charlotten und Georgen.
+
+
+Ende.
+
+
+
+
+
+
+
+

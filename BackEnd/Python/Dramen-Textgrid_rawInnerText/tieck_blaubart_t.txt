@@ -1,0 +1,4933 @@
+
+
+
+
+Ritter Blaubart
+
+
+hdl:11858/00-1734-0000-0005-5471-0textgrid:wd6t.0
+ Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). 
+
+Lizenzvertrag
+
+
+ Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache 
+
+
+Hinweise zur Lizenz und zur Digitalen Bibliothek
+
+
+
+
+
+                              Entstanden 1796. Erstdruck: Berlin und Leipzig (Nicolai), 1797. Uraufführung [?] 1835, Düsseldorf.
+                           
+
+
+
+
+Ludwig Tieck: Werke in einem Band. Mit einem Nachwort von Richard Alewyn, Hamburg: Hoffmann und Campe, 1967.
+Tieck, Ludwig
+
+176-
+
+
+Hamburg
+
+
+
+
+
+
+
+
+
+
+drama
+
+
+
+
+
+
+
+
+Ludwig Tieck
+Ritter Blaubart
+Ein Ammenmärchen in vier Akten
+
+
+
+
+
+
+
+Personen
+
+
+
+
+
+
+
+Personen.
+
+Peter Berner, ein Ritter, genannt der Blaubart.
+
+Mechthilde, seine Haushälterin.
+
+Anton,
+Simon,
+Leopold , von Friedheim.
+
+Anne,
+Agnes, ihre Schwestern.
+
+Heymon,
+Konrad , von Wallenrod.
+
+Martin von Felsberg.
+
+Hans von Marlof.
+
+Brigitte, seine Tochter.
+
+Reinhold, sein Sohn.
+
+Kaspar, sein Knappe.
+
+Ein Ratgeber.
+
+Klaus, ein Narr.
+
+Ein Arzt.
+
+Ritter.
+
+Knechte.
+
+
+
+
+
+
+
+
+
+
+
+Prolog
+
+
+
+
+Prolog
+Der Zauberstab des Dichters schließt uns oft
+Die fernsten, wundervollsten Welten auf,
+Und trunken kehrt der Blick aus Sonnenschein
+Aus fremden Blumen, schöngeformten Bäumen
+Und Kriegen, Schlachten zu uns selbst zurück.
+Doch fernab, heimlich im Gebüsch versteckt,
+Liegt eine alte Grotte, lange nicht
+Geöffnet, kaum ist noch die Tür zu kennen.
+So dick von Efeu alles überwachsen,
+Und wilde Nelken hängen rot herüber,
+Und drinnen hört man seltsam leise Töne,
+Die manchmal toben und dann musikalisch
+Verhallen, wie gefangne Tiere winseln. –
+Es ist der Kindheit zauberreiche Grotte,
+In der der Schreck und liebe Albernheit
+Verschlungen sitzen, dem, der nähertritt,
+Ein altes Lied im leisen Tone summen.
+Vergönnt dem Dichter, diese Tür zu öffnen,
+Hört gerne zu dem lispelnden Gesang,
+Der sich in wilden dunkeln Blumen wiegt.
+Seht, wie mit Steinen und mit Muschelwerk
+Die Wand ein eigensinn'ger Fleiß geputzt,
+Wie Schatten auf- und abwärts schweben, laßt
+Durch Traumgestalten euch ergötzen, stört
+Mit hartem Ernste nicht die Gaukelnden.
+
+
+
+
+
+
+
+1. Akt
+
+
+
+
+
+1. Szene
+
+
+
+
+Erste Szene
+
+Saal auf dem Schlosse Wallenrod.
+
+
+Ritter Heymon von Wallenrod, sein Bruder Ritter Konrad, ihr Vetter Martin von Felsberg und andere Ritter.
+
+
+
+HEYMON.
+ Sind wir nun alle versammelt?
+
+
+MARTIN.
+ Es fehlt niemand.
+
+
+
+HEYMON.
+ So sage ich denn noch einmal öffentlich, wie ich es schon jedem besonders gesagt habe: Krieg! Fehde! – Wer ist der Peter Berner, daß er unsere Gebiete brandschatzen darf? Sollten wir immer in Furcht und Sorgen leben vor einem solchen Nichtswürdigen?
+
+
+KONRAD.
+ Vor einem Kerl, der nicht lesen, nicht beten kann? Vor einem Kerl, der einen blauen Bart hat? Vor einem, den Gott auf eine wunderbare Weise gezeichnet hat?
+
+
+MARTIN.
+ Wie sagt Ihr? Er hätte einen blauen Bart?
+
+
+KONRAD.
+ Freilich, und der sitzt ihm an einem verhenkerten Gesicht, an einem wahren Galgengesicht.
+
+
+MARTIN.
+ Ordentlich blau? Was man so blau nennt?
+
+
+HEYMON.
+ Ihr wundert Euch mit Recht, Vetter, und mein Bruder da hat ihn ganz richtig beschrieben. Er ist ein wilder, unumgänglicher Mensch und sieht aus wie der Satan.
+
+
+KONRAD.
+ Wie ihn Euch mein Bruder da eben ganz recht beschreibt, wie der leibhaftige Satan.
+
+
+MARTIN.
+ Gottes Werke sind doch wunderbar! – Hab' ich mein Lebtage von einem blauen Barte gehört?
+
+
+KONRAD.
+ Aber Bruder, ehe wir unsern Zug unternehmen, sollten wir doch noch unsern Ratgeber fragen.
+
+
+MARTIN.
+ Wer ist das?
+
+
+HEYMON.
+ Ein alter Mann und ganz weitläufiger Verwandter, er ist schon wie gesagt etwas stumpf und bei Jahren, und da hat er sich aufs Ratgeben gelegt. Aber er gibt Euch trefflichen Rat, das versichere ich Euch.
+
+
+KONRAD.
+ Er hat schon manchen wackern Rat gegeben, von dem es wohl gut gewesen wäre, wenn man ihn befolgt hätte.
+
+
+HEYMON.
+ Da kommt er eben her.
+
+
+Der Ratgeber kommt herein.
+
+
+
+
+HEYMON.
+ Nun, setzt Euch, setzt Euch! – Jetzt also, meine versammelten Freunde, sind wir in der Absicht zusammengekommen, ein vernünftiges Wort miteinander zu reden! – Es klopft. Wer klopft denn da? – Nur herein.
+
+
+Klaus, der Narr, tritt auf, er ist klein und ungestaltet, bucklig und hinkt auf einem Beine, geht sehr behende an einer Krücke.
+
+
+
+
+KONRAD.
+ Ah! Es ist unser Narr!
+
+
+MARTIN.
+ Ihr habt ja eine recht vollständige Haushaltung.
+
+
+KONRAD.
+ Gottlob! Wir lassen uns nichts abgehn. Ein kleiner Mann, der Narr, wie Ihr ihn da vor Euch seht, aber einen vortrefflichen, dauerhaften Witz hat er an sich. Man kann 
+einen ganzen Abend über ihn lachen, wenn er auch kein Wort spricht. – Aber sonst ein gutes Gemüt.
+
+
+KLAUS.
+ Ist es erlaubt, ihr Herren, daß ein Narr in eine vernünftige Ratsversammlung kommt?
+
+
+HEYMON.
+ Wenn du dich ruhig verhalten willst.
+
+
+KONRAD.
+ Du lieber Gott! Er ist ein Narr, man muß ihm doch auch ein kleines, unschuldiges Vergnügen gönnen. – Setz dich, Narr, und wir andern Verständigen wollen uns auch setzen. Alle setzen sich.
+
+
+
+HEYMON.
+ Nun, so rate ich also noch einmal zum Kriege, damit wir diesen überlästigen Peter Berner loswerden. Er steht jetzt eben im Felde gegen Hermann Worbsen, laßt uns schnell hinziehen, so ereilen wir ihn noch, ehe er nach seinem festen Schlosse zurückkehrt. – Was meint Ihr, Vetter Ratgeber?
+
+
+RATGEBER.
+ Wenn ich Euch denn meinen guten Rat geben soll – so meine ich unmaßgeblich, daß Ihr recht habt, angesehen Ihr ein verständiger, vollkommen ausgewachsener Ritter, seid. – Ihr habt recht, ich bin ganz Eurer Meinung.
+
+
+HEYMON.
+ Wenn wir ihn denn nun besiegt haben, so bestürmen wir sein Schloß, nehmen seine Frau gefangen und teilen uns seine Reichtümer.
+
+
+KLAUS.
+ Und wo bleibt denn der Blaubart?
+
+
+HEYMON.
+ Narr, der kommt ja in der Schlacht um.
+
+
+KONRAD.
+ Und wenn er auch nicht umkommt, so wird er in ein Gefängnis gesteckt.
+
+
+HEYMON.
+ Das wird er aber nicht zugeben; besser, er kommt in der Schlacht um.
+
+
+RATGEBER.
+ Richtig, weit besser ist es, er kommt in der Schlacht um, da habt Ihr, Ritter Heymon, ganz meinen Gedanken.
+
+
+KONRAD.
+ Aber wenn er nun doch nicht umkommt?
+
+
+RATGEBER.
+ Ja so! – Eine gute Anmerkung von Eurem Bruder – in der Tat; – wenn er nun nicht umkommt. – Er tut besser, wenn er in der Schlacht umkommt, das ist gewiß – aber die Menschen sind oft wunderlich. – Ja, was meint Ihr dann? –
+
+
+MARTIN.
+ Ihr seid ja der Ratgeber.
+
+
+RATGEBER.
+ Sehr richtig – ja, dann ist mein Rat – daß man sich nachher darauf besinne, wenn wir erst so weit sind. Ihr habt ihn ja denn bei der Hand und könnt mit ihm machen, was ihr wollt.
+
+
+KONRAD.
+ Das ist auch wahr; warum wollen wir uns jetzt schon den Kopf zerbrechen?
+
+
+
+HEYMON.
+ Nun, so laßt uns denn nicht zaudern, sondern hastig aufbrechen. Sie wollen gehn.
+
+
+
+KLAUS.
+ Aber halt! Haltet doch! – Habt ihr so wenig Geduld, daß ihr ins Schlachtfeld hineinlaufen wollt, als ging' es zum Frühstück? Wer langsam geht, kommt auch zu seinem Tode noch früh genug.
+
+
+KONRAD.
+ Zum Tode?
+
+
+KLAUS.
+ Nun, wenn ihr nicht siegt, sondern besiegt werdet, und der Blaubart schneidet euch den Rückzug ab? – Wie denn? – – Wenn ihr nun besiegt werdet, sag' ich? Denn das kann man doch so genau nicht wissen, man muß doch auf alle Fälle denken: Ein guter Feldherr wird auch dafür sorgen.
+
+
+HEYMON.
+ Ein guter Feldherr, sagt er? – Zum Henker, er hat recht, und es soll jetzt gleich daran gedacht werden.
+
+
+KLAUS.
+ Ja nun, so denkt – Ratgeber, denkt einmal recht tüchtig.
+
+
+RATGEBER.
+ Ja, der Kleine hat recht, so klein er auch ist, und so rate ich denn nach reiflichem Überlegen, daß ihr noch fürs erste den ganzen Feldzug sein ließet.
+
+
+HEYMON.
+ Ist das Euer Rat?
+
+
+RATGEBER.
+ Wenn wir's beim Lichte besehen, wird's ungefähr auf so etwas hinauslaufen.
+
+
+HEYMON.
+ Das ist nichts, Ratgeber. Etwas Besseres.
+
+
+RATGEBER.
+ Ihr glaubt wohl, daß man den guten Rat nur so aus den Ärmeln schüttelt. Ich weiß nichts Besseres.
+
+
+KONRAD.
+ Hm.
+
+
+HEYMON.
+ Hm! –
+
+
+MARTIN.
+ Hm!
+
+
+EIN RITTER.
+ Aber Herr Ritter, Ihr vergeßt ganz, daß Klaus nur ein Narr ist.
+
+
+KONRAD.
+ Richtig! Da steckt der Knoten! – Und wir stehen da alle und überlegen! –
+
+
+RATGEBER.
+ Wir haben uns von dem Narren alle in den April schicken lassen.
+
+
+HEYMON.
+ Künftig schweig, bis man dich fragt.
+
+
+KLAUS.
+ Verzeiht, es geschah nur, um mir mit dem Reden einen Zeitvertreib zu machen. Ihr wißt, ich plaudre gern, und da beseh' ich denn die Worte vorher nicht so genau: Es ist doch bald vorbei, wenn man redet, und da lohnt's der Mühe nicht, daß man es so genau nimmt.
+
+
+HEYMON.
+ So wollen wir denn aufbrechen!
+
+
+MARTIN.
+ Nehmt Ihr den Ratgeber nicht mit?
+
+
+HEYMON.
+ Ja, das verdient Überlegung.
+
+
+
+RATGEBER.
+ Laßt mich lieber zu Hause, hochgeschätzte Herren; ich bin alt, und ihr wißt ja wohl das Sprichwort: Guter Rat kommt immer hinterher. und da könnt' ich euch gar schlechten Rat geben, wenn ihr mich sogleich da hättet.
+
+
+KONRAD.
+ Das ist wahr, Ihr seid doch ein kluger Mann. – Aber den Narren wollen wir mitnehmen.
+
+
+KLAUS.
+ Mich? – O ihr Herren, ich bin im Felde ganz unnütz, ich kann keine Trommel hören, ohne die Kolik zu bekommen, ich sitze immer bei den Marketendern und mache nur die Lebensmittel teuer. Als Soldat bin ich gar nicht zu gebrauchen, weil ich vor Angst die Parole vergesse. – Warum wollt ihr mich denn mitnehmen?
+
+
+KONRAD.
+ Erstlich zur Strafe, damit du siehest, daß wir wohl siegen werden. Zweitens, damit wir doch einen Narren unter uns haben. Drittens, um den Feind durch deine Person zu ärgern- und viertens sollst du mitgehn.
+
+
+KLAUS.
+ Dieser letzte Grund ist so verdammt gründlich, daß sich nichts von Bedeutung dagegen einwenden läßt. – Nun, wenn es denn sein muß, so will ich nur mein Bündel schnüren und mein Testament machen.
+
+
+HEYMON.
+ Dein Testament?
+
+
+KLAUS.
+ Aus meinem Narrenstock läßt sich ein herrlicher Kommandostab machen, man darf nur oben den Eselskopf herunterbrechen; den vermach' ich Euch! – Meine Mütze Eurem Bruder Konrad, die Ohren sind schon ziemlich abgetragen; meinen Witz dem Ratgeber da und meine Krücke demjenigen, der nur mit einem Beine aus dem Felde zurückhinket.
+
+
+RATGEBER.
+ Deinen Witz magst du selbst behalten, er ist so durchgescheuert, daß man die Fäden zählen kann.
+
+
+KLAUS.
+ So könnt Ihr immer noch Euren vernünftigen Rat damit flicken, denn ich glaube, daß Verstand kein besseres Unterfutter finden kann als Narrheit. Ich versichere Euch, nichts hält so warm und bewahrt vor Husten und Schnupfen, Sehwindel und dergleichen so gut wie ein Brusttuch von derber Narrheit. Trüget Ihr es nur unter Eurem Panzer, Herr Ritter, Ihr würdet Euch wohl dabei befinden, als bliebet Ihr lieber zu Hause und ergötzet Euch hier bürgerlich mit mir oder dem Ratgeber oder ginget auf die Jagd. – Warum muß es denn gerade Krieg sein? Krieg ist ein gefährliches Spiel. Ich kann schon das bloße Wort nicht leiden; glaubt mir, es liest sich besser davon in Büchern, als dort im Felde zu stehn und zu passen und zu passen – und 
+wenn man nun in der Hinterhand sitzt und der Feind bekommt die Matadore!
+
+
+HEYMON.
+ Der Narr schwatzt und kann kein Ende finden. Du sollst uns den Marsch verkürzen durch deine Märlein.
+
+
+KLAUS.
+ Soll ich reiten oder gehn?
+
+
+KONRAD.
+ Gehn.
+
+
+KLAUS.
+ Nun, Gott segne Euch, ich werde so auf meine Art gehen müssen.
+
+
+HEYMON.
+ Kommt, Vetter Martin – kommt, Ritter! Der Sieg winkt uns, wir wollen uns nicht säumig finden lassen.
+
+
+KONRAD.
+ Wenn wir nur erst die eroberten Fahnen aufhängen! Alle ab.
+
+
+
+KLAUS.
+ O über die lumpige Welt! – Wahrhaftig, ich schäme mich jetzt, ich werde dafür bezahlt, um ein rechter wahrer Narr zu sein, und nun bin ich ein Pfuscher gewesen und war offenbar der Verständigste von allen. Sie pfuschen dafür in mein Handwerk, und so ist kein Mensch mit seinem Stande zufrieden. Wollte nur Gott, ich könnte die Klugheit so wacker spielen, wie sie sich in der Narrheit gut ausgenommen haben. – Nun, Schicksal, du Vormund der Verstoßenen, wirst du dich ihrer so sehr annehmen, wie sie fest auf dich vertrauen, so werden sie diesen Feldzug bald geendigt haben. Ab.
+
+
+
+
+
+
+
+
+
+2. Szene
+
+
+
+
+Zweite Szene
+
+Die Burg Friedheim.
+
+
+Agnes und Anne, ihre Schwester.
+
+
+
+AGNES
+
+mit einer Laute.
+
+ Nun höre mir zu, liebe Schwester, ob ich jetzt imstande bin, das Lied recht zu spielen.
+
+
+ANNE.
+ Du hast kein Talent zur Musik, es wird dir zeitlebens nicht gelingen.
+
+
+AGNES.
+
+ Und warum denn nicht so gut wie andern? – Höre nur:
+Wie rauschen die Bäume
+So winterlich schon;
+Es fliegen die Träume
+Der Liebe davon!
+Und über Gefilde
+Ziehn Wolkengebilde,
+Die Berge stehn kahl.
+
+
+
+
+
+Es schneidet ein Regen
+Dem Wandrer entgegen,
+Der Mond sieht ins Tal.
+Ein Klagelied schallt
+Aus Dämm'rung und Wald:
+
+
+
+Ach herbstliche Winde
+Verwehten den treulosen Schwur,
+Wie Blitze geschwinde
+Verschüttet vom Glück sich die goldene Spur.
+O dunkles Menschenleben,
+Muß jeder Traum einst niederschweben?
+
+
+
+Rosen und Nelken
+Bekränzen das Haupt,
+Und ach sie verwelken,
+Der Baum steht entlaubt;
+Der Frühling, er scheidet,
+Macht Winter zum Herrn,
+Die Liebe, sie meidet
+Den Menschen und stehet und bleibet ihm fern.
+
+
+
+Verworrenes Leben,
+Was ist dir gegeben?
+Erinnern und Hoffen
+Zur Qual und zur Lust. –
+Ach! Ihnen bleibt offen
+Die zitternde Brust.
+
+
+
+ANNE.
+ Besser, als ich gedacht hätte.
+
+
+AGNES.
+ Aber sage mir einmal, warum in allen diesen Gedichten immer soviel von Liebe die Rede ist? Wissen diese Liedermacher denn keinen ändern Gegenstand?
+
+
+ANNE.
+ Sie glauben, daß jedermann daran teilnimmt.
+
+
+AGNES.
+ Ich wahrlich nicht. Mir ist nichts widerwärtiger als diese ewigen Klagen. Ich wünschte, es gäbe so Lieder für alle möglichen Sinnesarten, alles froh und heiter. – Erzähle mir doch, wie ist es denn eigentlich mit deiner Liebe, ich weiß fast kein Wort davon.
+
+
+ANNE.
+ O laß mich, liebe Schwester.
+
+
+AGNES.
+ Wie lange ist er nun schon fort? – Drei Jahre? –
+
+
+ANNE.
+ Ach!
+
+
+AGNES.
+ Siehst du, du seufzest noch immer, aber du solltest lieber einmal vernünftig erzählen.
+
+
+
+ANNE.
+ Ich bin eine schlechte Erzählerin.
+
+
+AGNES.
+ Aber im Ernst, es muß mit der Liebe ein äußerst wunderbares Ding sein.
+
+
+ANNE.
+ Du bist glücklich, daß du es nicht begreifst.
+
+
+AGNES.
+ Mir ist immer leicht und heiter, aber du bist die Schwerfälligkeit selbst, ohne Leben, ohne Teilnahme für die Welt und ihre Begebenheiten, du lebst nur noch zum Schein, nur ein geringfügiges äußerliches Leben, aber innerlich bist du schon lange abgestorben.
+
+
+ANNE.
+ Jeder Mensch hat seine eigene Weise, laß mir die meinige.
+
+
+AGNES.
+ Daß man sich selbst so alle Freuden verderben kann! Die Welt ist so schön und freundlich, alles so mannigfaltig durcheinander, daß mau nicht genug sehen, nicht genug erfahren kann. Ich möchte immer auf Reisen sein, durch unbekannte Städte fahren, fremde Berge besteigen, andre Trachten, andre Sitten kennenlernen. Dann mich wieder ganz allein in einem Palaste einsperren lassen und die Schlüssel zu jedem Gemach, zu jedem Schranke in Händen haben; dann würde eins nach dem andern aufgeschlossen, die Schränke täten sich voneinander, und ich holte von den schönen und seltsamen Kostbarkeiten von Juwelen und Halsgehenken eins nach dem andern hervor, träte damit ans Fenster und besähe es ganz eigen, bis ich seiner überdrüssig wäre und zu einem andern eilte und so immer fort, immer fort, ohne Ende.
+
+
+ANNE.
+ Und so wolltest du alt werden? Dich durch ein trübes, unzusammenhängendes Leben arbeiten?
+
+
+AGNES.
+ Ich versteh' dich nicht. – Ich habe mir schon oft gedacht, wenn ich plötzlich in ein fremdes Schloß geriete, wo mir alles neu, alles merkwürdig wäre; wie ich aus einem Zimmer in das andere eilen würde, immer ungeduldig, immer neugieriger, wie ich nach und nach mit den Sachen und Gerätschaften bekannt werden würde. Hier weiß ich ja jeden Nagel auswendig.
+
+
+ANNE.
+
+ Gib mir einmal die Laute. Singt.
+
+Beglückt, wer an des Treuen Brust
+In voller Liebe ruht,
+Kein Kummer naht und stört die Lust,
+Nur heller brennt die Glut.
+
+
+
+Kein Wechsel, kein Wanken,
+Zum ruhigen Glück
+
+
+Fliehn alle Gedanken
+Der Ferne zurück.
+
+
+
+Und lieber und bänger
+Drückt Mund sich an Mund,
+So inn'ger, so länger;
+Von Stunde zu Stund'
+Beschränkter und enger
+Der liebliche Bund.
+
+
+
+AGNES.
+ Das ist eins von den Liedern, die sich leichter singen als verstehn lassen. Anton tritt auf.
+
+
+
+ANTON.
+ Das ist hier eine wunderliche Haushaltung: Gesang in allen Zimmern, Simon geht und betrachtet die Wände, Leopold will auf Abenteuer ziehn – wahrlich, wenn ich nicht noch das Ganze, etwas zusammenhielte, es flöge alles wie Spreu auseinander.
+
+
+AGNES.
+ Dafür bist du auch der älteste von uns allen, du hast den Verstand für die ganze Familie.
+
+
+ANTON.
+ Wißt ihr denn, was Leopold eigentlich will?
+
+
+AGNES.
+ Was will er denn?
+
+
+ANNE.
+ Gewiß einen unbesonnenen Streich ausführen.
+
+
+AGNES.
+ Ihr nennt mich oft etwas unbesonnen, was nur nicht so ist, wie ihr es alle Tage treibt. Leopold tritt auf.
+
+
+
+LEOPOLD.
+ Nun, so lebt wohl auf einige Zeit, ich muß euch auf ein paar Tage verlassen.
+
+
+ANTON.
+ Aber wo willst du hin?
+
+
+LEOPOLD.
+ Recht weiß ich's selbst noch nicht. – Lieber Bruder, ich habe immer gefunden, daß der Mensch sich jeden Schritt im Leben erschwert, wenn er ihn recht genau überlegt. Am Ende ist doch alles nur einfältig, wir mögen es auch anfangen, wie wir wollen, und Glück und Zufall machen unsre Pläne nur gescheit oder unbesonnen.
+
+
+ANTON.
+ Bruder, solche Reden stehen einem Manne nicht an.
+
+
+LEOPOLD.
+ Ja, was ihr euch immer so unter Mann denkt: ein altes, verjährtes Tier, das über die Jugend weggekommen ist wie über eine Brücke, die zusammenfallen will, und das sich nun herzlich freuet, daß es ein sauer Gesicht machen darf und Rat erteilen, sitzen und zuhören, wenn andre sprechen, und alles links und unrichtig finden. So ein Mann nach eurer Vorstellung darf sogar den Kater tadeln, daß er die Mäuse nicht auf die rechte Art und nach seinem Sinne fängt. Es wird mir immer seltsam zumute, wenn ich die Redensarten höre: Er handelt wie ein Mann. Er ist das Muster 
+eines Mannes. – Meistenteils sind es doch nur verdorbene ausgewachsene Knaben, die durch die Welt auf allen vieren kriechen, statt aufrecht zu gehn, und die daher weit mehr Steine des Anstoßes finden – und dann rufen die Umherstehenden: »Um Gottes willen, seht, wieviel Erfahrung der Mann hat!«
+
+
+ANTON.
+ Das wäre nach deiner Meinung also auch das Bild von mir?
+
+
+LEOPOLD.
+ Ach nein, du bist im Grunde gescheiter, aber du willst es dir selber nicht gestehn. So halten die meisten Menschen die langsame Einfalt für verständiger als die rührige Unachtsamkeit, und der Unterschied liegt doch wahrhaftig nur im Gange.
+
+
+ANTON.
+ Aber du wirst doch zugeben, daß dem Unachtsamen manches mißlingt.
+
+
+LEOPOLD.
+ O ja, natürlicherweise, weil er viel unternimmt; eurem bedächtigen Manne kann nichts mißlingen, weil er nur immer rechnet und mit allen seinen Gedanken, mit aller Belesenheit wie mit Fühlhörnern immer vorausfühlt. Ach Bruder, wenn wir sehen könnten, wie vielleicht schon alles im voraus bestellt und in Richtigkeit gebracht ist, wie lächerlich würden uns da wohl unsere tief angelegten Pläne vorkommen?
+
+
+ANTON.
+ Eine schöne Philosophie.
+
+
+LEOPOLD.
+ Eine Philosophie, die mich lehrt, daß nichts den Menschen so einfältig mache wie sein Verstand. – Doch wir wollen abbrechen, und ich will Abschied von euch nehmen, mir ist so leicht, daß ich gewiß glaube, ich werde glücklich sein. Simon tritt ein.
+
+
+
+SIMON.
+ Du willst verreisen, Bruder?
+
+
+LEOPOLD.
+ Ja.
+
+
+SIMON.
+ Mir scheinen die Umstände nicht günstig.
+
+
+LEOPOLD.
+ Wieso?
+
+
+SIMON.
+ Es ist so ein Wesen, so ein Klagen, so ein Zittern in der Luft.
+
+
+AGNES.
+ Wie meinst du das, Bruder?
+
+
+ANTON.
+ So, wie er alles meint – er weiß nicht warum; er meint es nur so.
+
+
+SIMON.
+ Sieh, man kann eigentlich nicht sagen, warum man Unglück vorausahnt, aber es ist doch manchmal etwas im Herzen – das –
+
+
+LEOPOLD.
+ Nun?
+
+
+SIMON.
+ Ach! Wer kann dir das deutlich machen.
+
+
+
+ANTON.
+ Sollte man unter diesen närrischen Geschöpfen nicht selber närrisch werden?
+
+
+LEOPOLD.
+ Nun, weil du's also nicht recht beschreiben kannst, so lebe wohl. – Wenn ich wiederkomme, will ich mir deinen Rat ausbitten. Ab.
+
+
+
+ANTON.
+ Seine Wildheit wird ihn noch einmal un glücklich machen.
+
+
+SIMON.
+ Gewiß.
+
+
+ANNE.
+ Wie geht es dir, Bruder?
+
+
+SIMON.
+ Gut – ich habe nur heut morgen mancherlei gedacht – es kann sich bald mancherlei ändern.
+
+
+ANNE.
+ Wieso?
+
+
+ANTON.
+ Frage ihn doch nicht, es ist ja nur eine weggeworfene Mühe, er weiß es sowenig wie du, und eben durch solche Aufmerksamkeiten wird seine Narrheit nur zum Wachsen gebracht, die ohne diese Nahrung schon längst abgestorben wäre.
+
+
+AGNES.
+ Aber so laß ihn doch reden, Bruder.
+
+
+ANTON.
+ Nun, wie ihr wollt, aber ihr werdet mich nicht zwingen wollen, sein Geschwätz mit anzuhören. Ab.
+
+
+
+SIMON.
+ Ich spreche viel lieber, wenn Bruder Anton nicht dabei ist. Er zuckt über alles die Schulter, wenn's nicht nach seinem Sinn ist, und er hat doch nur einen sehr engen Sinn, so wie die meisten Menschen, sie wissen oft nicht, warum sie etwas tadeln, es scheint ihnen bloß verwerflich, weil sie noch nicht darauf gekommen sind.
+
+
+ANNE.
+ Jawohl.
+
+
+SIMON.
+ Und doch sollte das grade der Grund sein, eine solche Sache ihrer nahem Aufmerksamkeit zu würdigen. Denn wenn wir nichts Neues zulernen wollen, so verschimmeln am Ende auch die alten Kenntnisse in uns.
+
+
+AGNES.
+ Bruder Simon spricht heute mit ungemeiner Weisheit.
+
+
+SIMON.
+ Ihr versteht mich nur so selten; das scheint dir nur deswegen klug, weil du auch schon etwas Ähnliches gedacht hast. –
+
+
+AGNES.
+ Was ist denn aber am Ende der menschliche Verstand?
+
+
+SIMON.
+ Ja, das können wir mit unserm eigenen Verstande nicht leicht begreifen. Aber er hat gewiß, wie eine Zwiebel, eine Menge Häute, jede dieser Häute wird auch Verstand genannt, und der letzte inwendige Kern ist der eigentliche beste Verstand. Recht verständig sind nun also die Menschen, die ihren zwiebelartigen Verstand durch lange Übung so abgerichtet haben, daß sie jede Idee nicht nur mit den 
+äußern Häuten, sondern auch mit dein innern Kern denken. Bei den meisten Leuten aber, wenn sie auch die Hand vor dein Kopf halten, ist nur die oberste Haut in einiger Bewegung, und sie wissen es gar nicht, einmal, daß sie noch mehrere Arten von Versland haben, und so ist Bruder Anton.
+
+
+AGNES.
+ Hahaha! Das ist lustig: Zwiebel und Verstand, das ist eine gute Idee – und wie denkt denn Bruder Leopold?
+
+
+SIMON.
+ Gar nicht, er denkt nur mit der Zunge; wie andre Menschen essen, um zu leben, so spricht er unaufhörlich, damit er nur etwas zu denken hat; und was er gesprochen hat, hat er auch in demselben Augenblicke wieder vergessen, in dem er es von der Zunge geschüttet hat. Seine Gedanken sind wie der Spargel, der abgeschnitten wird, sowie man nur die grüne Spitze aus der Erde bemerkt, er schießt nach bis in den Sommer, dann läßt man ihn Samen treiben. Um die Zeit wird Bruder Leopold nicht viel mehr sprechen und denken, und die Leute werden von ihm sagen: Das ist ein vortrefflicher Hausvater!
+
+
+AGNES.
+ Aber wie denkst du denn?
+
+
+SIMON.
+ Ich? – Das ist eben die Schwierigkeit und meine Unruhe; – seht, es ist schwer zu denken, auf welche Art man denkt. Denn, versteht, das, was gedacht wird, soll denken, ein Kasus, der einen sonst ganz vernünftigen Menschen wohl toll machen könnte.
+
+
+AGNES.
+ Wieso?
+
+
+SIMON.
+ Siehst du, jetzt verstehst du mich gar nicht, weil du auf die Gedanken noch gar nicht gekommen bist. – Siehst du, ich denke, und mit dem Zeuge, womit ich denke, soll ich denken, wie dieses Zeug selbst beschaffen sei. Es ist pur unmöglich. Denn das, was denkt, kann nicht durch sich selbst gedacht werden.
+
+
+AGNES.
+ Es ist wahr, darüber könnte man wirklich toll werden.
+
+
+SIMON.
+ Nun seht ihr, und doch fragt ihr immer noch, warum ich melancholisch bin? Ein Arzt tritt ein.
+
+
+
+ARZT.
+ Verzeiht, meine Fräulein, ich ritt eben vorbei – wie geht es Euch, Ritter?
+
+
+SIMON.
+ Gut, insoweit, ich habe Eure Sachen gebraucht, es hilft für den Magen, aber nicht für den Verstand.
+
+
+ARZT.
+ Wie kommt Ihr darauf, daß die Medizin für den Verstand sein könnte?
+
+
+SIMON.
+ Aber je besser mein Magen wird, je schwächer wird mein Verstand.
+
+
+ARZT.
+ Das ist nicht anders.
+
+
+
+SIMON.
+ So werd' ich ja aber auf der einen Seite nur krank, wenn auf der andern die Gesundheit anschießt.
+
+
+ARZT.
+ Freilich wohl.
+
+
+SIMON.
+ So ist man am Ende in der schönsten Blüte der Gesundheit, wenn man schon in den letzten Zügen liegt.
+
+
+ARZT.
+ Das kann wohl sein.
+
+
+SIMON
+
+zu den Schwestern.
+
+ Nun, seht ihr, und man soll nicht melancholisch werden.
+
+
+ARZT.
+ Der Magen ist nichts als ein Gegenbild zum Kopfe, ja, ich möchte sagen, ein Vater des Kopfs. Wenn der Magen tüchtig denkt und sieh an den Speisen übt und immer neue fordert und dieses wiederholten Studiums nicht überdrüssig werden kann, so steht der Kopf unter der Vormundschaft und ist gleichsam nur ein Bedienter seines Herrn Vaters. Wird er mündig gesprochen und die Herrschaft fällt ihm zu, so fällt er gierig über die Nahrung her, die ihm gefällt, er denkt unermüdet und sucht immer nach neuen Ideen, indes sein armer alter Vater unter ihm zusammenschrumpfet und es am Ende sehr übelnimmt, wenn man ihm nur irgendeine Speise zumutet.
+
+
+AGNES
+
+lacht überlaut.
+
+ Noch nie habe ich eine so lustige Philosophie gehört; – der Magen ein Vater – der Verstand eine Zwiebel.
+
+
+ARZT
+
+fühlt Simons Puls.
+
+ Ihr habt nicht gut geschlafen.
+
+
+SIMON.
+ Ach nein – es liegt mir beständig etwas im Kopfe. –
+
+
+ARZT.
+ Was denn?
+
+
+SIMON.
+ Seht, der Mensch kann alle Anlagen entwickeln, die in ihm liegen, alle seine dunkeln Empfindungen aufklären – ob man es denn gar nicht bis zum Prophezeien sollte bringen können.
+
+
+ARZT.
+ Ja, lieber Ritter –
+
+
+SIMON.
+ Es hat aber doch schon Propheten gegeben, und vielleicht hat man ihrer noch jetzt, und vielleicht kann man einer werden, wenn man nur auf den wahren Weg gerät.
+
+
+ARZT.
+ Das ist nur Schimäre.
+
+
+SIMON.
+ Und dann ängstigt's mich so oft, warum eine Sache grade so und nicht anders ist.
+
+
+ARZT.
+ Wie meint Ihr?
+
+
+SIMON.
+ Seht, diese Tür geht nach außen hinaus, wenn man sie aufmacht, warum könnte sie nicht ebensogut ins Zimmer hereingehn?
+
+
+ARZT.
+ Da habt Ihr recht; – aber auf irgendeine Art muß sie doch beschaffen sein.
+
+
+
+SIMON.
+ Wer leugnet das? – Und manchmal ist mir, als müßt' ich durchaus auf meine Pulsschläge achtgeben und als würde bei dem einen plötzlich eine schmerzhafte Krankheit ans brechen.
+
+
+ARZT.
+ Ihr müßt die Pulver nehmen.
+
+
+SIMON.
+ Manchmal muß ich einen halben Tag hintereinander immer fünfzehn zählen.
+
+
+ARZT.
+ Und den Trank –
+
+
+SIMON.
+ Manchmal, als wäret Ihr mit allen Euren Arzneien nur ein Narr.
+
+
+ARZT
+
+setzt sich.
+
+ Ja, da muß ich Euch nur noch Pillen verschreiben. Schreibt ein Rezept. Und nun lebt wohl, ich besuche Euch bald wieder. Ab.
+
+
+
+SIMON.
+ Es ist nichts mit ihm anzufangen. Geht ab.
+
+
+
+AGNES.
+ Das sind seltsame Menschen. – Gehst du mit in den Garten, liebe Schwester?
+
+
+ANNE.
+ Ich folge dir. Agnes ab. – Ach, wie ist jede Narrheit immer nur ein Bild meiner eigenen Torheit. – Alle meine Gedanken wenden sich zu dir, o Reinhold, und du hast mich vielleicht schon vergessen. – Ist die Liebe nichts weiter als ein vorüberfliegender Schein? Der leichte Traum einer Sommernacht? Und sollte ihr wirklich einst ein dürres, herbstliches Leben folgen können? – Ach Gott, wie elend ist dann unsre Beschaffenheit! – O Reinhold, bist du vielleicht schon gestorben? Sie trocknet sich die Augen und geht ab.
+
+
+
+
+
+
+
+
+
+3. Szene
+
+
+
+
+Dritte Szene
+
+Feld.
+
+
+Ritter, Knechte, Heymon, Konrad, Martin an ihrer Spitze; Fahnen, Kriegsmusik – Klaus.
+
+
+
+HEYMON.
+ Er hat gesiegt?
+
+
+MARTIN.
+ Ja. – Aber Ihr sagtet ja, der Mann habe einen blauen Bart.
+
+
+KLAUS.
+ Nun, Ihr meint doch nicht, daß er ihn durchs Visier wird hängen lassen.
+
+
+MARTIN.
+ Euer Narr spricht immer mit, wenn die verständigen Leute reden.
+
+
+KONRAD.
+ Das er sich so angewöhnt, weil wir uns mit ihm manchmal eingelassen haben.
+
+
+KLAUS.
+ Aber meine gnädigen Herren, warum habt ihr denn 
+den Peter Blaubart nicht angegriffen, als er sich noch mit seinem Feinde in den Haaren lag, der Vorteil war ja dann offenbar auf eurer Seite?
+
+
+KONRAD.
+ Halt, das ist wahr! – Daran hat keiner von uns gedacht! Hätten wir doch nur unsern Ratgeber bei uns gehabt!
+
+
+HEYMON.
+ Wirklich, wir hätten ihn angreifen sollen, dann würde er doch wahrscheinlich von zwei Feinden überwunden worden sein, jetzt hat er nun jenen besiegt, und es kann uns ebenso ergehn. – Warum sagtest du das aber auch nicht früher?
+
+
+KLAUS.
+ Eure Feldmusik und eure tapfern kriegerischen Reden ließen mich ja gar nicht zu Worte kommen. Wahrhaftig, ich wollte gewiß für euch einen ganz guten Ratgeber abgeben.
+
+
+KONRAD.
+ Du? – Bleib du nur bei deinem Handwerk.
+
+
+KLAUS.
+ Das gebe Gott nicht, daß Narrheit ein Handwerk sei. –
+
+
+KONRAD.
+ Was denn?
+
+
+KLAUS.
+ Eine Kunst!
+
+
+HEYMON.
+ Fort! Wir zögern zu lange. Sie ziehn über die Bühne. Peter Berner mit Knappen und Knechten kommt.
+
+
+
+PETER.
+ Gelt, das war ein gutes Stück Arbeit?
+
+
+KNECHT.
+ So ziemlich, gnädiger Herr, aber es wäre Euch fast übel bekommen.
+
+
+PETER.
+ Ja, der Ritter, dem du den Rest gäbest, setzte mir nicht übel zu.
+
+
+KNECHT.
+ Es war schade um das junge Blut, er hatte ganz goldgelbe Haare.
+
+
+PETER.
+ Was schade? – Wär's um mich weniger schade gewesen, meinst du das?
+
+
+KNECHT.
+ Hahaha! Herr Ritter, das kann wohl nur Euer Spaß sein.
+
+
+PETER.
+ Jetzt kommt, nun wollen wir es uns auch wohl sein lassen, die Ruhe schmeckt nach solchem unruhigen Tage. – Aber seht, was ist das für eine Erscheinung dort? – Geh doch einer hin und frage, ob jene Menschen uns etwas anhaben wollen. Knecht ab. Es wäre mir gar recht, denn ich fühle mich noch nicht matt. Seid ihr müde?
+
+
+KNECHTE.
+ Nein, gnädiger Herr. Knecht wieder zurück.
+
+
+
+PETER.
+ Nun?
+
+
+KNECHT.
+ Es sind die Gebrüder von Wallenrod, sie verlangen mit Euch handgemein zu werden.
+
+
+PETER.
+ So? Desto besser, es sind ja meine alten Feinde. – Laßt uns sogleich anrücken. – Wie stark ist ihre Mannschaft?
+
+
+
+KNECHT.
+ Stärker als die unsrige.
+
+
+PETER.
+ Wären die uns vorher über den Hals gekommen, so halte sieh ein sauberes Ungewitter über uns zusammengezogen. – Nun, laßt die Hörner schmettern und ihnen rasch entgegen!
+
+
+Feldgeschrei, Getümmel, Kriegsmusik hinter der Szene Klaus kommt schnell herbeigehinkt.
+
+
+
+
+KLAUS.
+ Ob ich hier wohl sicher bin? – Ach, wo ist man im Kriege wohl sicher? Auf wie vielen weiten und meilenbreiten Feldern thront jetzt die Sicherheit, und ich Unglückseliger muß mich nun durch ein böses Schicksal grade hier an diesem Orte der Unsicherheit befinden! – Hu! Was das für eine Art ist, miteinander umzugehn! – Ist das nicht lächerlich, daß die Menschen im gewöhnlichen Leben so viele Umstände miteinander machen, und wenn sie nun einmal die rauhe Seite herauskehren, daß sie sich mit denselben Händen totschlagen, mit denen sie sonst so viele Höflichkeitsgebärden veranstalten. – Ach, das gewinnt für meine Herrschaften ein schlimmes Aussehn; so geht's, wenn man sich nicht von einem Narren will raten lassen: Sobald der Verstand bei der Torheit bettelt, erfolgt gewöhnlich ein gutes Almosen, denn die Torheit gibt, ohne die Münzsorten zu besehn; wer aber bei gescheiten Leuten Hilfe besucht, bekommt immer nur Scheidemünze. – Ach, wie sind hier die Sentenzen am rechten Orte! Solange der Mensch nur noch eine Pfeffernuß zu beißen hat, wird er keine Sentenzen sprechen, wenn man aber so, wie ich jetzt, an Leib und Seele bankrott ist, so ist das das einzige Labsal. – Ich will mich hinter diesem Strauch verbergen, aber meine Narrheit scheint ganz gewiß durch wie ein Edelstein; wenn nicht das lahme Bein wäre, würd' ich fortlaufen. – O Himmel, sie kommen schon zurück. Ab.
+
+
+
+Peter Berner mit Knechten und Trompeten; Heymon, Konrad, Martin als Gefangene.
+
+
+
+
+PETER.
+ Seht, wie schnell wir mit euch fertig geworden sind; aber jetzt ist mein Arm lahm, nun dürfte kein Dritter kommen. – Ihr habt euch nicht besonders gehalten, das muß ich euch sagen.
+
+
+HEYMON.
+ Jeder tut, was er kann.
+
+
+KONRAD.
+ Und das haben wir, hoff' ich, auch getan.
+
+
+MARTIN.
+ Was unmöglich ist, bleibt unmöglich.
+
+
+PETER.
+ Jetzt will ich überlegen, was ich mit euch anzufangen habe. Er geht im Hintergrunde auf und ab.
+
+
+
+
+MARTIN.
+ Jetzt hab' ich ihm doch nun endlich ins Gesicht gesehn, ich hab' Euch immer nicht glauben wollen – aber Ihr habt doch recht, er hat einen ganz, blauen Bart.
+
+
+KONRAD.
+ Nun seht Ihr wohl, ich hab's Euch ja vorhergesagt.
+
+
+MARTIN.
+ Es gibt ihm ein recht grausames, widerliches Aussehn, und dabei sieht er doch etwas lächerlich aus.
+
+
+KONRAD.
+ Hat sich was zu lachen! Wir sind jetzt in seiner Gewalt, und es kostet ihn nichts, uns das Leben zu nehmen.
+
+
+HEYMON.
+ Das wird er gewiß nicht.
+
+
+MARTIN.
+ Ich traue seinem verwünschten blaubärtigen Gesichte nicht.
+
+
+KONRAD.
+ Nun hatte der weise Mann, unser Ratgeber, ja doch recht, wenn er uns riet, den ganzen Feldzug zu unterlassen; aber wer nicht hören will, muß fühlen, und das tun wir jetzt. Wir tun weit mehr, wir haben nicht nur den Krieg verloren, wir sind noch dazu gefangen. – Wenn wir nur unsern Ratgeber hier hätten!
+
+
+HEYMON.
+ Das wünschte ich auch, denn ohne ihn wissen wir doch nicht recht, was wir anfangen sollen.
+
+
+PETER.
+ Nun, was meint ihr, daß ich tun werde?
+
+
+HEYMON.
+ Uns gegen Lösegeld freilassen.
+
+
+MARTIN.
+ Uns auf unser Versprechen nach Hause ziehn lassen.
+
+
+KONRAD.
+ Wartet einmal! – Ihr werdet uns vielleicht irgendeinen Schimpf antun, um Euch zu rächen.
+
+
+PETER.
+ Zum Beispiel euch hängen lassen.
+
+
+KONRAD.
+ Ich muß gestehn, das wäre mir nicht lieb.
+
+
+PETER.
+ Desto besser. – Aber ihr möchtet lieber begnadigt sein? – Wagt nur eine recht tüchtige Bitte daran, und ich lasse mich vielleicht erweichen, denn ich bin nicht so ganz unbarmherzig. – Ist kein rechter Redner unter euch?
+
+
+KONRAD.
+ Ich bin immer noch der, der so am meisten spricht.
+
+
+PETER.
+ Nach welchem Muster habt Ihr Euch gebildet? Denn darauf kommt viel an.
+
+
+KONRAD.
+ Ja, ich spreche so, was mir ungefähr in den Kopf kommt.
+
+
+PETER.
+ Das ist nicht recht, ich hätte mich lieber nach Regeln rühren lassen.
+
+
+KONRAD.
+ Also laßt Euch erbitten: Seht, wir sind zwar in Eurer Gewalt, aber es ist gegen unsern Willen geschehn, man kann nicht wissen, wie sich das Blatt einmal wendet, und Ihr kennt ja wohl das Sprichwort: Eine Hand wäscht die andere!
+
+
+PETER.
+ Ist das Eure ganze Redekunst?
+
+
+
+KONRAD.
+ Ihr könnt auch einmal übel wegkommen, denn es steht keinem an der Stirn geschrieben, wes Todes er sterben soll.
+
+
+PETER.
+ Ihr rührt mich immer noch nicht. – Kniet nieder! Sie knien.
+
+
+
+HEYMON.
+ Habt Mitleid mit uns.
+
+
+PETER.
+ Steht auf! Ich lache leichter, als ich weine; bringt mich zum Lachen, und ich schenke euch unter dieser Bedingung das Leben.
+
+
+KONRAD.
+ Ich wollte, wir hätten unsern Narren hier, es schickt sich wenig für uns –
+
+
+PETER.
+ Bin ich für euren Witz zu schlecht?
+
+
+KONRAD.
+ Nein, das nicht, aber ich habe mich nie auf dergleichen Künste gelegt.
+
+
+PETER.
+ Vielleicht hilft Euch das Naturell durch.
+
+
+KONRAD.
+ Herr Ritter, mein Naturell ist ein gutes Naturell, und es wäre manchen Leuten zu wünschen, daß sie nur solch Naturell aufzuweisen hätten.
+
+
+PETER.
+ Wie meint Ihr das?
+
+
+KONRAD.
+ Je nun, ich meine, daß ich sonst wohl schon von Rotbärten, wahrhaftig noch von keinem Blaubart gehört habe.
+
+
+PETER.
+ Haha! Wollt Ihr da hinaus? – Fort mit euch! Der Tod ist euch gewiß, obgleich ich über eure dumme Ungeschliffenheit von Herzen lachen möchte.
+
+
+HEYMON.
+ Aber hört doch nur –
+
+
+PETER.
+ Sprecht kein Wort weiter, oder ich spalte Euch mit meiner eigenen Hand den Kopf. Nichtswürdiges Gesindel! – Führt sie fort, sag' ich, bindet sie, und nachher, wenn ich's euch befehle, schlagt ihnen die Köpfe herunter. – Ihr seid ein schöner Redner, das muß ich gestehn. Heymon, Konrad und Martin werden von den Knechten abgeführt.
+
+
+
+EIN KNECHT
+
+der Klaus herbeibringt.
+
+ Gnädiger Herr, hier ist noch einer von den Feinden, der sich hinter jenem Busch versteckt hatte.
+
+
+PETER.
+ Komm her, ich bin grade in der rechten Stimmung, dir dein Todesurteil zu sprechen.
+
+
+KLAUS.
+ Und, Herr, ich muß Euch sagen, daß ich danach nichts frage.
+
+
+PETER.
+ Wer bist du?
+
+
+KLAUS.
+ Ein Narr.
+
+
+PETER.
+ So mußt du den andern Gesellschaft leisten.
+
+
+KLAUS.
+ Mir gleich.
+
+
+PETER.
+ Wie? Du hast das Leben nicht lieb?
+
+
+
+KLAUS.
+ Sowenig wie einen sauren Apfel.
+
+
+PETER.
+ Das wäre fast zu vernünftig für einen Narren.
+
+
+KLAUS.
+ Ei, wenn es Torheit ist, das Leben liebzuhaben, so wäre am Ende der Zweck eines jeden Philosophen, sich aufzuhängen.
+
+
+PETER.
+ O ich habe nicht Lust, mich mit dir in einen Streit einzulassen. Aber wenn du Gründe hast, so sage sie mir doch, warum du dein Leben nicht achtest.
+
+
+KLAUS.
+ Herr, Gründe so groß und gewichtig wie die Felsen, und doch sind die Felsen selbst nur kleine Kiesel, wenn man dabei an die ganze Erde denkt. Doch das nur im Vorbeigehen gesagt. Aber seht mich nur an, und sagt mir dann selbst eine vernünftige Ursache, aus der ich das Leben wohl liebhaben könnte. Bin ich nicht so gezeichnet, daß jeder Mensch von mir sagen wird: Wenn der Kerl nicht zum Narren oder zum Taugenichts zu gebrauchen ist, so ist er völlig unnütz; und bedenkt nur selbst, gnädiger Herr, unter einem solchen Titel durch das Leben zu hinken, zeitlebens auf nichts anders Ansprüche machen zu dürfen. Denn Reichtümer besitze ich nicht, und wenn ich sie auch hätte, was sollte ich wohl damit anfangen? Mich wird kein Mädchen lieben, gegen meine verkrüppelte Gestalt wird niemand Wohlwollen und Freundschaft empfinden, ich darf auf keine Ehre, auf keine Freude des Lebens hoffen. Was ist also das Leben für mich? Nichts als der große Fettschweif des indischen Schafs, es ist mir nur zur Last; ich bin nicht fröhlicher, als wenn ich vergesse, wer ich bin, ich diene dazu, andere zum Lachen zu bringen und zwinge mich selbst zum Lachen, ich bin eine Medizin für verdorbene Mägen, ein Verdauungsmittel, die Hunde sehn mich von der Seite an, und ich habe es noch nie dahin gebracht, daß mich einer geliebt hätte. Aus welcher Ursache meint Ihr nun wohl, sollte ich das Leben lieben? – Und was ist denn das Leben selbst? Eine beständige Furcht vor dem Tode, wenn man an ihn denkt, und ein leerer, nüchterner, genußloser Rausch, wenn man ihn vergißt, denn man verschwendet dann einen Tag nach dem ändern und vergißt darüber, daß die Gegenwart so klein ist und daß je der Augenblick vom nächstfolgenden verschlungen wird. – Jeder Mensch wünscht, alt zu werden, und wünscht dadurch nichts anderes, als mit tausend Gebrechen, mit tausend Schmerzen in Bekanntschaft zu treten. Da schleichen sie denn ohne Zähne und ohne Wünsche mit leerem zitterndem Kopfe, mit Händen, die ihnen schon längst die Dienste aufgekündiget
+ haben und nur noch als abgeschmackte Zierate von den Schultern herunterhängen, ihrem Grabe zu, dein sie doch nicht entlaufen können. – Und wie müßt' ich vollends sein, wenn ich alt würde? Wer würde sich die Mühe nehmen, mich zu bedienen, mich zu trösten? – Nein, gnädiger Herr, laßt mich immer frisch hängen, das wird wohl der beste Rat sein.
+
+
+PETER.
+ Kerl, du gefällst mir. – Willst du mein Narr werden?
+
+
+KLAUS.
+ Ich bin des Dienstes überdrüssig.
+
+
+PETER.
+ Aber ich will dich zu meinem Narren haben, sag' ich. Du sollst mir zuweilen Reden halten, du sollst mir in den müßigen Stunden etwas vorschwatzen! Du sollst mein Beichtvater werden. Ich will für dich sorgen, und das Leben will ich dir schenken, aber du mußt mir dienen.
+
+
+KLAUS.
+ Nun, wenn es dann so sein muß. Aber Herr Ritter, dann habe ich noch eine Bitte.
+
+
+PETER.
+ Nun?
+
+
+KLAUS.
+ Da haben wir einen herrlichen Mann zu Hause sitzen, der jetzt ohne Eure Hilfe notwendig verhungern muß. Er gibt ändern Leuten vortrefflichen Rat, und wie es solchen Leuten meistenteils geht, sie wissen sich selber nicht zu raten: Ohne ihn bin ich nichts, und wenn ich in meiner Kunst etwas geworden bin, so habe ich es nur seiner vortrefflichen Gesellschaft zu danken.
+
+
+PETER.
+ Wer ist denn der?
+
+
+KLAUS.
+ Wir nennen ihn nur kurzweg den Ratgeber, und Rat zu geben ist auch sein eigentliches Handwerk, und ich muß gestehn, daß er es darin zu einer großen Fertigkeit gebracht hat. Jeder von uns beiden, einzeln genommen, ist nur ein schwaches Rohr, ein faules Holz, das nur glänzt, wenn kein andrer Schimmer in der Nähe ist; aber wenn unser Verstand zusammengetan wird, so entsteht daraus eine Komposition, eine Art von Prinzmetall, das außerordentlich dauerhaft ist.
+
+
+PETER.
+ Nun, so bringe ihn mir. Du magst ihn selber abholen, ich traue dir. – Weißt du mein Schloß?
+
+
+KLAUS.
+ O ja, gnädiger Herr.
+
+
+PETER.
+ Ich mag mit ändern Menschen nicht gern umgehn, aber solche eures Gelichters sind mir lieb, bei euch weiß man, woran man ist, ihr gebt euch für nichts aus, ihr heuchelt keinen Wert, keine Würde, die ich sooft die Würde der Menschen 
+nennen höre; ich kenne nichts so Jämmerliches. – Wir bleiben zusammen, und wenn mir dein Ratgeber gelällt, so soll er's gut bei mir haben.
+
+
+EIN KNECHT.
+ Gnädiger Herr, soeben ist die Nachricht eingelaufen, daß Eure Gemahlin gestorben sei.
+
+
+PETER.
+ Desto besser! – Ich vermutete es wohl. – Liegt Friedheim weit von hier?
+
+
+KNECHT.
+ Nur eine Tagereise.
+
+
+PETER.
+ Es sollen zwei schöne Fräulein dort sein, ich will hin mit einer kleinen Begleitung; ihr übrigen müßt zu meinen Schlössern zurückkehren. – Jetzt will ich jene Narren sterben sehn. Er geht ab, die Knechte ziehen auch fort.
+
+
+
+KLAUS
+
+allein.
+
+ Kann man mit einer so geringen Verstellung selbst so listige Füchse hintergehn? – Aber wenn ich es recht ernsthaft überlege, ist mein Leben auch nicht viel wert. Doch wer wird irgend etwas in der Welt recht ernsthaft überlegen. Die ernsthaften Gesichter sind nur in die Mode gekommen, weil sie bequemer sind als die freundlichen. – Für diesmal also hätte ich mein Leben noch davongetragen. Aber meine armen Herren! Ich bin ergrimmt über den kalten, blutdürstigen Menschen! Ich könnte weinen. – Und warum soll ich nicht weinen? – Es ist ebenso töricht wie zu lachen, es liegt also nicht außer meinem Berufe. – Er setzt sich auf die Erde. Sie sind gewiß schon tot – hier will ich um sie trauern, denn kein anderes Auge geht doch ihretwegen über. Er verhüllt das Gesicht. Der Vorhang fällt.
+
+
+
+
+
+
+
+
+
+2. Akt
+
+
+
+
+
+1. Szene
+
+
+
+
+Erste Szene
+
+Burg Marlof.
+
+
+Ritter Hans von Marlof; Brigitte, seine Tochter.
+
+
+
+BRIGITTE.
+ Aber Ihr kehrt doch bald zurück, lieber Vater?
+
+
+HANS.
+ Sobald es das Zeremoniell, der Wohlstand, die Ehre erlaubt, Kind. Es ist keine Kleinigkeit, meine Tochter; Agnes ist meine Pate, und Peter Berner, ein angesehener Rittersmann, wirbt um sie, und das muß ich jetzt, verstehst du 
+mich, vollends zustande bringen. Der Ritter hat sich noch nicht völlig erklärt, aber mir ein Sendschreiben zugesandt, worin er um mein Fürwort bei dem Fräulein und den Gebrüdern höflichst ansucht.
+
+
+BRIGITTE.
+ Mir ist bange, daß Ihr mich so allein laßt.
+
+
+HANS.
+ Dir sollte nicht bange sein, meine Tochter, denn mein Segen bleibt bei dir zurück. – Bleib nur fein fleißig in deinen Zimmern, ich habe auch dem alten Kaspar schon Aufträge darüber gegeben, er ist ein alter und ein überaus verständiger Mann. Geh also nicht aus, mein Kind, denn man kann manchmal nicht wissen, wie Unglück entsteht, es ist oft früher da, als wir es gewahr werden, und indem wir es gewahr werden, ist es gewöhnlich unmöglich, es zu vermeiden. Siehe, so lauten meine Grundsätze darüber!
+
+
+BRIGITTE.
+ Aber in den Burggarten darf ich doch kommen?
+
+
+HANS.
+ Das wird dir immer unverwehrt bleiben, meine Tochter, denn dort bist du völlig gesichert, dort kann dir niemand etwas anhaben. Ich bin sonst schon alt und schwach, aber ich habe denn doch die Vorsicht eines Vaters, und eine solche Vorsicht sieht weit; wenn ich aber abwesend bin, mußt du selbst hübsch vorsichtig sein.
+
+
+BRIGITTE.
+ Ich will es gewiß.
+
+
+HANS.
+ Der Leopold von Friedheim, er hat dir schon einigemal nachgestellt, hüte dich besonders vor ihm.
+
+
+BRIGITTE.
+ Warum? Ich sollte meinen, daß ich mich vor dem nicht zu hüten brauchte.
+
+
+HANS.
+ Du liebe Einfalt, gerade am meisten, Kind. Ja, was sag' ich, am meisten? Am allermeisten! – Du liebst ihn doch nicht? Du hast ihm doch nicht dein Herz gegeben? – Denn du weißt, daß diese Heirat gegen meinen Willen wäre.
+
+
+BRIGITTE.
+ Ach, lieber Vater, wie sollt' ich jemand anders lieben als Euch?
+
+
+HANS.
+ Ich will dir glauben, denn du hast mich noch nie betrogen. – Nun, so lebe denn wohl, meine Tochter, ich weiß nichts mehr, was ich dir noch sagen könnte. – Bleibe immer gehorsam, folgsam gegen deinen Vater, und es wird dir immer wohl auf Erden gehn.
+
+
+BRIGITTE.
+ Lebt wohl. Sie umarmen sich. Kaspar tritt auf.
+
+
+
+HANS.
+ Kaspar!
+
+
+HANS.
+ Kaspar, ist mein Pferd nunmehr bereit? Ist alles im gehörigen Zustande?
+
+
+KASPAR.
+ Ja, Herr.
+
+
+HANS.
+ Und sind alle die nötigen Sachen eingepackt? Und daß 
+nichts versehrt wird, wenn es etwa regnen sollte? Die goldnen Strumpfbänder, die seidenen Bänder? Die Gedichte?
+
+
+KASPAR.
+ Hab' alles selbst besorgt, Herr.
+
+
+HANS.
+ Nun, dann ist es gut. – Du hast die Schlüssel zu der ganzen Burg, Kaspar.
+
+
+KASPAR.
+ Ja, Herr.
+
+
+HANS.
+ Und du hast versprochen, auf meine Tochter ein wachsames Auge zu haben.
+
+
+KASPAR.
+ Das hab' ich, Herr.
+
+
+HANS.
+ Nun, so kann ich denn in Gottes Namen abreisen. – Das Abreisen wird mir doch sauer, Kaspar.
+
+
+KASPAR.
+ Ihr seid lange nicht aus Eurem Schlosse gekommen, Herr.
+
+
+HANS.
+ Sollt's das wohl sein, Kaspar? Mir ist so trübe vor den Augen.
+
+
+KASPAR.
+ Ihr seid gleichsam hier ganz eingerostet, Herr.
+
+
+HANS.
+ Und du glaubst an keine bösen Ahnungen, Kaspar?
+
+
+KASPAR.
+ Man kann eben nicht wissen, wie es damit ist, und darum glaub' ich halt nicht daran, Herr. Seht, das ist so mein Grundsatz darüber.
+
+
+HANS.
+ Hast recht, Kaspar, wenn man es sich genau überlegt. – Nun, so lebt wohl. – Ade, meine Tochter, denk fleißig an meine Lehren. – Komm, Kaspar, hilf mir zu Pferde. Sie gehen beide ab.
+
+
+
+BRIGITTE
+
+allein.
+
+ Vor Leopold soll ich mich hüten? – Nun, denn muß man sich gewiß vor allen Menschen hüten, denn er ist doch so gut und so unschuldig. Aber das Alter sieht alles mit ändern Augen an, und die Jugend weiß darüber nicht, was sie denken soll. Kaspar kommt zurück.
+
+
+
+KASPAR.
+ Nun, Fräulein, der alte Herr ist fort, ich soll auf Euch ein wachsames Auge haben.
+
+
+BRIGITTE.
+ So hat der Vater gesagt.
+
+
+KASPAR.
+ Es ist ein leichter Auftrag und ein schwerer, je nach dem Ihr es anfangen wollt.
+
+
+BRIGITTE.
+ Sei unbesorgt, Kaspar. Ein Knecht kommt.
+
+
+
+KNECHT.
+ Ein fremder Mann ist vor dem Tore.
+
+
+KASPAR.
+ Wer ist er? Was will er?
+
+
+KNECHT.
+ Ein Wandersmann, und da er müde und hungrig ist und sich weit und breit kein Schloß und Kloster findet, so bittet er, daß er sich hier erquicken dürfe.
+
+
+KASPAR.
+ Ich will ihn sehn. – Fräulein, wollt Ihr nicht auf Euer Zimmer gehn? Ab mit dem Knecht.
+
+
+
+BRIGITTE.
+ Ich bliebe gern, um den Fremden zu sehn, es kommen 
+gar wenig Fremde in die alten Mauern dieses Schlosses – aber ich glaube, es ziemt sieh nicht, und da ist es denn doch besser, daß ich gehe. Ab.
+
+
+
+Leopold von Friedheim, als Minnesänger; Kaspar.
+
+
+
+
+KASPAR.
+ Wer seid Ihr, Eures Standes nach?
+
+
+LEOPOLD.
+ Ein armer Sänger, der den Leuten durch Lied und Spiel das Herz erfreut, der die Traurigen erheitert und die Fröhlichkeit der Glücklichen zu einer sanften Schwermut herabstimmt, damit sie auf die wahre Art glücklich sind. Ein armer Mann, ich habe mich auf meinem Wege verirrt, und da such' ich Schutz und Hilfe bei Euch.
+
+
+KASPAR.
+ Das muß sein, denn sonst liegt das Schloß hier so abseits, daß nur selten jemand einkehrt. – Nun kommt, ich will Euch eine Lagerstätte anweisen und dann Speise und Trank geben. Ab.
+
+
+
+
+
+
+
+
+
+2. Szene
+
+
+
+
+Zweite Szene
+
+Garten des Schlosses Friedheim.
+
+
+Peter Berner, Agnes.
+
+
+
+AGNES.
+ Ihr seid sehr dringend, Herr Ritter.
+
+
+PETER.
+ Wie soll ich es anders anfangen, Eure Liebe zu gewinnen?
+
+
+AGNES.
+ Liebt Ihr mich denn, wie Ihr sagt?
+
+
+PETER.
+ Von Herzen, mein Fräulein.
+
+
+AGNES.
+ Was nennt Ihr aber Liebe?
+
+
+PETER.
+ Wenn Ihr es nicht empfindet, so läßt sich's unmöglich beschreiben.
+
+
+AGNES.
+ Das hör' ich von allen, die sich für verliebt ausgeben.
+
+
+PETER.
+ Weil es die Wahrheit ist. – Oder zweifelt Ihr an meiner Aufrichtigkeit?
+
+
+AGNES.
+ Das nun eben nicht – allein –
+
+
+Anton tritt zu ihnen.
+
+
+
+
+PETER.
+ Ich mache schlechtes Glück mit meiner Bewerbung, Herr Ritter.
+
+
+ANTON.
+ Wie das?
+
+
+PETER.
+ Eure edle Schwester glaubt meinen Worten nicht.
+
+
+AGNES.
+ Wie Ihr es auch ausdeutet.
+
+
+PETER.
+ Seht, ich bin kein Redner, ein rechtlicher, schlichter Mann, unter Waffen und Getümmel aufgewachsen, darum stehn mir schöne und süße Reden nicht zu Gebot; ich kann 
+nur sagen: Ich liebe! Und wenn ich das gesagt habe, ist meine ganze Redekunst zu Ende. Aber man sollte auf die Worte solcher Leute, die nicht viel zu sprechen verstehn, mehr achten, als auf diejenigen, die täglich mit schöngewandten Phrasen handeln und betrügen. Wenn ich mich nicht schön aus zudrücken weiß, so bin ich doch wenigstens in der Kunst der Lügen unerfahren, und das ist nach meiner Meinung schon immer einiges Verdienst. Darum müßt Ihr mir auf mein Wort glauben, wenn ich Euch sage, daß ich Euch recht von Herzen liebe.
+
+
+AGNES.
+ Und wenn ich Euch glaube?
+
+
+PETER.
+ Seltsame Frage! Dann müßt Ihr mich von Herzen wie der lieben. – Oder ist Euch meine Gestalt zuwider? Es ist wahr, ich kann etwas Seltsames an mir haben, das den Leuten auffällt, ehe sie mich näher kennen, aber das sollte doch nicht die Ursache sein, einen Mann zu verstoßender es sonst redlich meint. Ihr werdet zugeben, daß das mehr wert ist als ein schöner Körper. Seht, wenngleich ich, wie die Leute von mir sagen, einen blauen Bart habe, so ist es doch immer besser, als wenn ich ganz ohne Bart auf die Freierei ginge.
+
+
+ANTON.
+ Nun, Schwester!
+
+
+PETER.
+ Ihr glaubt vielleicht, ich muß deswegen auch innerlich schlecht sein, weil wie gesagt mein Bart nicht von der besten Farbe ist. Die Damen wissen die Farbe ihrer Haare zu verbessern, und Euch zu Gefallen will ich mich auf diese Künste legen. – Zeigt mir den Mann, der mehr für Euch zu tun gesonnen wäre!
+
+
+AGNES.
+ Ihr legt mein Zögern unrecht aus.
+
+
+PETER.
+ Ihr könnt nur ja oder nein sagen, das übrige, was dazwischen liegt, ist nur alles eine Vorbereitung dazu. – Ich habe schon mehr Weiber gehabt, und ich sollte es freilich schon gewohnt sein, daß sie ihre Meinung vor der Hochzeit immer nur durch einen Umweg zu erkennen gaben; nachher ist ihre Art zu sprechen desto kürzer und verständlicher. – Nun, mein Fräulein?
+
+
+AGNES.
+ Ihr müßt mir doch Zeit lassen; – auch vor der Einsamkeit auf Eurem Schlosse furcht' ich mich so.
+
+
+PETER.
+ Dem läßt sich bald abhelfen; wenn, ich Euch nicht genug bin, so wollen wir Gesellschaft bitten, Menschen von aller Art, Ihr werdet ihrer bald überdrüssig werden. – Aber Euch soll die Zeit nicht lang währen. Wenn Ihr Neuigkeiten oder seltsame Kostbarkeiten liebt, so findet Ihr auf meinem Schlosse mancherlei, das wohl der Betrachtung würdig 
+ist, und mit dem Ihr nicht so bald zu Ende kommt. Auf meinen Reisen, in vielen Fehden habe ich mancherlei erbeutet, eins mich selbst in manchen Stunden noch ergötzt.
+
+
+AGNES.
+ Dürfte ich meine Schwester Anne wohl mit mir nehmen?
+
+
+PETER.
+ Wenn sie Euch folgen will, mit großen Freuden.
+
+
+ANTON.
+ Ihr seid also so gut wie richtig?
+
+
+PETER.
+ Es sieht fast so aus. – Nun habt Ihr mir das Herz leicht gemacht; man muß nur nicht verzagen, so siegt man am Ende immer noch. Sie gehn ab.
+
+
+
+Simon und Anne treten auf.
+
+
+
+
+ANNE.
+ Du bist heut ungemein mißvergnügt, Bruder.
+
+
+SIMON.
+ Was soll man anders sein? – Ich finde keine Ruhe in mir selber, alles ist mir zuwider, und wenn es mir manchmal vorkommt, als würde sich jetzt ein Rätsel auflösen, so verfliegt alles im Augenblicke wieder.
+
+
+ANNE.
+ Aber warum heftest du auch deinen Geist immer so auf einen Gedanken?
+
+
+SIMON.
+ Frage doch, warum er sich selbst so heftet? Ich kann dabei nichts tun und lassen. – Ich möchte lachen, denn dieser sogenannte Geist ist ja eben niemand anders als ich selbst.
+
+
+ANNE.
+ Es ist mit dir nicht zu sprechen; – man hat doch Gewalt über sich.
+
+
+SIMON.
+ Das sagt der Arzt auch immer, und bei euch andern, die ihr in einer unbegreiflichen Trägheit fortlebt, mag's auch wohl wahr sein, denn euch liegt nichts ernsthaft am Herzen, ihr könnt euch leicht zwingen, weil ihr im Grunde gar nichts wollt. Der Geist ist nur ein Diener eures Körpers, eine fast unnötige Zugabe zu dem Dinge, das da ißt und trinkt, folglich, wenn ihr von euch selbst sprecht, so meint ihr immer jemand anders, im Grunde eure Launen, euren Appetit. Diesem tut ihr alles zu Gefallen, ihm zu Gefallen denkt und sorgt ihr nicht, ihn aufrechtzuerhalten zerstreut ihr euch, wie ihr es nennt. Wenn ihr also von eurem Ich sprecht, so meint ihr nur euren Magen, ihr könnt nicht ernsthaft an euch selbst denken, ohne daß ihr sogleich mit einem Seufzer dazwischenrennt: Ach! Heute mittag wird mir gewiß das Essen nicht schmecken! und so euren Sinn. gewaltsam wieder von euch abwendet.
+
+
+ANNE.
+ Ach, Bruder, ich. verstehe dich recht gut, und das schlimmste ist, daß du recht hast.
+
+
+SIMON.
+ Wann hätte ich denn wohl unrecht? Ihr gebt euch nur niemals die Mühe, mich zu verstehn. Alle Gedanken, die 
+euch nicht gefallen, mochtet ihr gar zu gern für Unsinn ausgeben, damit ihr nur behaupten könnet, das Leben sei doch etwas wert. Alle Menschen würden melancholisch sein, wenn sie sich nur bei ihren Nichtswürdigkeiten die Zeit dazu ließen. – Da kommt der Arzt schon wieder und meint, wenn ich nur seine Pulver nehmen wollte, würde es schon besser mit mir werden. Der Arzt zu den Vorigen.
+
+
+
+ARZT.
+ Ich freue mich, Euch wohl zu sehn, mein Fräulein. – Ihr habt Besuch?
+
+
+ANNE.
+ Ein fremder Ritter –
+
+
+ARZT.
+ Und wie geht es Euch?
+
+
+SIMON.
+ Soll ich wieder klagen? Soll ich Euch weitläufig meine Empfindungen schildern? Ihr versteht mich nicht und könnt also auch nicht daran glauben. – Wozu soll ich immer in den Wind reden!
+
+
+ARZT.
+ Daß jeder Kranke doch immer glaubt, er ist nur der einzige auf der Welt, der solche Art zu empfinden hat!
+
+
+SIMON.
+ Nun, könnt Ihr mir zu dem verhelfen, was ich wünsche? – Könnt Ihr machen, daß ich die Zukunft ergründe wie ein Exempel, das ich berechne? Wohlan, dann will ich das Leben und Eure Kunst für etwas halten.
+
+
+ARZT.
+ Ihr müßt Euch dergleichen Gedanken aus dem Sinn schlagen.
+
+
+SIMON.
+ Nun, seht Ihr wohl? Dieser Wunsch kommt Euch als etwas ganz Abgeschmacktes vor, folglich ist Euch diese Empfindung noch niemals nahegetreten, denn sonst würdet Ihr mir nicht so antworten, folglich versteht Ihr mich nicht, folglich könnt Ihr mich auch nicht heilen.
+
+
+ARZT.
+ Wenn ich auch das übrige zugebe, warum sollte ich Euch nicht heilen können?
+
+
+SIMON.
+ Ach, Ihr seid – ein Arzt. – Es ist gut, daß Ihr mich selbst durch dergleichen Reden nicht aufbringen könnt, weil es mir immer gar zu gegenwärtig ist, wie Ihr meinen Zustand anseht. – Ich will nächstens eine Reise antreten, vielleicht finde ich Leute, die mich besser verstehn.
+
+
+ARZT.
+ Wie Ihr wollt. Peter Berner zu den Vorigen.
+
+
+
+PETER.
+ Mein Fräulein, Eure Schwester wünschte Euch zu sprechen, sie hat eine Bitte an Euch.
+
+
+ANNE.
+ Ich gehe schon. Ab.
+
+
+
+PETER.
+ Und Ihr seid noch immer so finster, Ritter? – Ihr solltet heiraten, die Liebe würde Euch wie eine Sonne aufgehn, und Ihr würdet dann die Welt nicht mehr so finster finden.
+
+
+ARZT.
+ Er sollte nur Arznei nehmen, so würde es schon besser 
+werden. Könnt' ich ihn mir von der Verachtung gegen meine Wissenschaft heilen, so wäre schon das meiste geschehn.
+
+
+PETER.
+ Vielleicht ist eine unglückliche Liebe an Eurem Zustand schuld.
+
+
+ARZT.
+ Ach nein! Er hat gewiß schon seit mehreren Jahren keine Diät gehalten, und da rächt sich denn die Natur nachher.
+
+
+PETER.
+ Sucht Euch ein schönes Mädchen aus.
+
+
+ARZT.
+ Es sind nur Unordnungen im Unterleibe.
+
+
+PETER.
+ Ihr scheint ein verständiger Mann, nehmt Euch meines Freundes an.
+
+
+ARZT.
+ Er läßt sich nicht raten.
+
+
+PETER.
+ Es wird noch mit ihm besser werden, wenn er nur erst heiratet.
+
+
+SIMON.
+ Ihr seid ein schlechter Prophet, Herr Ritter. – Seht, Doktor, alle Leute geben sich mit Prophezeien, ab, sie tun nichts lieber als die Zukunft vorhersagen. Und doch findet Ihr es bei mir so sonderbar, daß ich auf diesen Wunsch verfallen bin. Sie meinen alle, sie haben recht, und meine Krankheit besteht bloß in einer zu großen Bescheidenheit, daß ich selbst an meine Prophezeiungen nicht glaube; ich darf nur mehr Vertrauen haben, und ich bin so gesund wie die übrigen Menschen. Er geht ab.
+
+
+
+PETER.
+ Ein seltsamer Charakter!
+
+
+ARZT.
+ Er hat sich, möcht' ich sagen, in dem Hang zum Wunderbaren, den jeder Mensch in sich spürt, übergessen, und dadurch sind in ihm diese Unverdaulichkeiten entstanden.
+
+
+PETER.
+ Was könnte aber dagegen helfen?
+
+
+ARZT.
+ Ein tüchtiges Vomitiv, irgendeine gewaltsame Veränderung seiner Lebensart, viel Tätigkeit, Umgang mit vielen vernünftigen Leuten. – Jede Tollheit ist nichts als ein Rostfleck im Eisen, er muß wieder heruntergeschliffen werden. – Allen unverständigen Leuten fehlt es nur an gutem Willen, um wieder verständig zu werden.
+
+
+PETER.
+ Gibt es keine Arznei, keine zusammenziehenden Mittel, um diesen schlaff gewordenen Willen wieder anzuspannen?
+
+
+ARZT.
+ Bis jetzt ist noch nichts entdeckt, die Philosophie ist auf Präparate aus, aber es ist ihr auch nur noch wenig gelungen.
+
+
+PETER.
+ Sagt mir einmal, Eure Kunst ist ein weites Gebiet. Ihr wißt gewiß manches Geheimnis. Ich wollte Euch in einer Sache um Rat fragen.
+
+
+
+ARZT.
+ Ich stehe zu Eurem Befehl.
+
+
+PETER.
+ Ich weiß nicht – ich mag ungern davon sprechen; – und es macht mich böse –
+
+
+ARZT.
+ Herr Ritter!
+
+
+PETER.
+ Nun, seid nur still, seid ruhig, ich will mich in acht nehmen, daß ich nicht zornig werde; aber hört mir ruhig zu. Die Leute sagen, ich hätte einen blauen Bart – ich weiß nicht, ich sehe eben nicht viel in den Spiegel; – betrachtet mich einmal genau und sagt mir die aufrichtige Wahrheit.
+
+
+ARZT.
+ Ich könnte eben nicht sagen; – ich muß Euch gestehn, es kommt viel auf die Beleuchtung an – blau eben nicht, das nun wohl nicht – aber so gleichsam bläulich; – aber es verstellt Euer Ansehn gar nicht, im Gegenteil, es gibt Euch ein gewisses männliches Wesen.
+
+
+PETER.
+ Man sagt mir doch, es wäre widerlich.
+
+
+ARZT.
+ Nicht im mindesten, und gewiß, wenn Ihr im Schatten steht, sieht Euer Bart aus wie jeder andre Bart; – und wer nicht ein recht scharfes Auge hat, findet auch in der Sonne keinen Unterschied.
+
+
+PETER.
+ Nun, mag's sein, wie's will: Wißt Ihr kein Mittel dagegen?
+
+
+ARZT.
+ Hier ist die Kunst sehr beschränkt, Herr Ritter – alle Erfahrung spricht dagegen –
+
+
+PETER.
+ Nun, so hol Euch der Henker. – Es ärgert mich nur, daß ich so lange davon gesprochen habe. Geht schnell ab.
+
+
+
+ARZT.
+ Es gibt wunderliche Menschen! Zu der andern Seite ab Simon und Anton treten auf.
+
+
+
+ANTON.
+ Du weißt nie recht, was du willst.
+
+
+SIMON.
+ Sei geduldig, Bruder, ich kann doch nichts dafür, daß ich so bin.
+
+
+ANTON.
+ Das kann jeder Narr für sich sagen.
+
+
+SIMON.
+ Was würde daraus werden, wenn ich ebenso hitzig wäre wie du?
+
+
+ANTON.
+ Wärest du das, so wärest du auch nicht ein solcher Träumer.
+
+
+SIMON.
+ Man kann nicht wissen, wie ich in dem Falle gebaut wäre. – Aber wie gesagt, ich traue ihm nicht, ich glaube, daß unsere Schwester mit ihm unglücklich sein wird.
+
+
+ANTON.
+ Und was hast du denn für Gründe?
+
+
+SIMON.
+ Sieh nur fürs erste sein. Gesicht an! – Fällt dir wirklich nichts dabei ein? – Kriegst du kein Mißtrauen gegen ihn? Wendet sich dir das Herz nicht um?
+
+
+
+ANTON.
+ Possen.
+
+
+SIMON.
+ Und dann hat er mehrere Frauen gehabt, und sie sind immer sehr schnell wieder gestorben.
+
+
+ANTON.
+ Aber Agnes kann ihn vielleicht überleben. Er ist reich, er hat mehrere Schlösser, viel Gold und Juwelen, sie ist gut bei ihm versorgt.
+
+
+SIMON.
+ Nun, wenn sie selber will, so mag's darum sein. – Aber ich habe in dieser Nacht einen wunderbaren Traum gehabt. Wenn du geduldig sein willst, so will ich ihn dir erzählen.
+
+
+ANTON.
+ Sprich nur.
+
+
+SIMON.
+ Wie es geschah, weiß ich nicht, aber ich ward im Schlafe sehr bedrängt und geängstigt, darüber griff ich endlich nach meinem Schwerte, um mir Ruhe zu verschaffen. Ich lief wütend herum und traf auf den Ritter Peter, er war mir noch mehr zuwider als sonst, und ohne daß ich mir bewußt war, wie es so weit kam, hatt' ich ihn bei der Schulter ergriffen und stieß ihm mit großer Herzensangst das Schwert durch die Brust. Er fiel auf den Boden, und ich war ruhig. – Das seltsamste ist, daß ich mm seit dem Erwachen unaufhörlich an diesen Traum denke, und ich muß es dir gestehn, Bruder, sowie ich den Ritter vor mir sehe, wandelt mich eine unbeschreibliche Lust an, ihm mit dem Schwerte eins zu versetzen. Ich kann mich dann kaum halten, ich denke es mir dann als das größte Vergnügen, zu fühlen, wie ihm der Degen im Leibe steckt. – Mich ist schon ein Grausen darüber angekommen. – Ist das nicht sonderbar?
+
+
+ANTON.
+ Toll ist es.
+
+
+Peter Berner und Hans von Marlof treten auf.
+
+
+
+
+PETER.
+ Hier bring' ich Euch, edler Ritter, meinen lieben Freiwerber, der für mich sprechen will.
+
+
+HANS.
+ Ich freue mich, Euch einmal wiederzusehn; ich bin das Reiten nicht mehr gewohnt und ganz ordentlich müde. – Ihr seid wohl?
+
+
+ANTON.
+ Vollkommen.
+
+
+HANS.
+ Und meine liebe Patin? Ihr wißt doch, ich habe bei Eurer Schwester Agnes zu Gevatter gestanden?
+
+
+ANTON.
+ Sie wird sich freuen, Euch zu sehn.
+
+
+HANS.
+ Ach, sie war schon damals ein gar liebes Kind.
+
+
+SIMON
+
+mit der Hand an dem Degen leise zu Anton.
+
+ Wie ich dir vorhersagte, Bruder.
+
+
+ANTON.
+ Ich rate dir Gutes! –
+
+
+HANS.
+ Aber kommt hinein in den Saal, da wollen wir uns 
+niedersetzen, und da will ich euch denn meine Rede, wie es sich schickt und gebührt, vorbringen. Sie gehn ab.
+
+
+
+Anne und Agnes treten auf.
+
+
+
+
+AGNES.
+ Du könntest mich fast mit melancholisch machen, liebe Schwester.
+
+
+ANNE.
+ Sein Vater, der eben angekommen ist, wird alles in mir recht erneuern, sein Bild wird wieder ganz lebhaft vor mir stehen. – Ja, liebe Schwester, ich will mit dir ziehn, aber wir müssen in der Einsamkeit recht viel von ihm, von Reinhold sprechen.
+
+
+AGNES.
+ Ja, Schwester.
+
+
+ANNE.
+ Ich freue mich darauf, unser Bruder Anton ist hart und rauh, er versteht sich auf die Empfindungen des Herzens nicht, seine Gegenwart bedrängt mich, und ich wage es nicht recht, so zu sein, wie ich meiner Natur nach bin.
+
+
+AGNES.
+ Müssen wir aber nicht hineingehn? – Sieh, sie haben alle den Garten verlassen.
+
+
+ANNE.
+ Komm! Sie gehn Arm in Arm ab.
+
+
+
+
+
+
+
+
+
+3. Szene
+
+
+
+
+Dritte Szene
+
+Freies Feld.
+
+
+Der Ratgeber, Klaus.
+
+
+
+KLAUS.
+ Hier wollen wir eine Weile ruhn. Wir kommen noch immer früh genug. – Setzt Euch, hier ist Schatten. – Das Botengehn will mir und meiner Krücke gleich wenig bekommen. – Ja, so ist das menschliche Schicksal, es kommt wohl vor, daß man die Dienste wechseln muß.
+
+
+RATGEBER.
+ Was sprichst du von Dienst? – Ich habe nie gedient.
+
+
+KLAUS.
+ Nun, nennt es, wie Ihr wollt. – Unsere Herren sind tot, und es ist doch gut, daß sich der Blaubart unserer annehmen will, so dürfen doch unsere Talente nicht betteln gehn. – Da hier, trinkt eins auf des Blaubarts Gesundheit.
+
+
+RATGEBER.
+ Aber ich hatte mich in dem Schlosse nun so eingewohnt –
+
+
+KLAUS.
+ Die Zeiten sind vorbei. – Aber ich bin doch neugierig, sagt mir doch einmal – solange ich Euch kenne und weiß, habe ich Euch immer nur den Ratgeber nennen hören. Wie heißt Ihr denn eigentlich? – Oder habt Ihr etwa keinen andern Namen?
+
+
+
+RATGEBER.
+ Narr, ich keinen andern Namen? – Ich hatte sonst einmal einen ganz vortrefflichen Namen, aber ich muß dir gestehn, durch die Länge der Zeit hab' ich ihn fast vergessen; – ich kann mich nur noch dunkel daran erinnern. – So geht's dem menschlichen Geiste. Ich habe mir angewöhnt, immer nach dem Titel Ratgeber zu hören und mich selbst so denken. Wart! – Ferdinand von Eckstein hieß ich ehemals. – Ja! – Aber die Zeiten sind vorüber. Die Gewohnheit, sagt man wohl mit Recht, ist unsre zweite Natur. Wenn ich jetzt nur von Rat reden höre oder so ein Sprichwort: Hier ist guter Rat teuer – Guter Rat kommt hintennach – Er weiß sich weder zu raten noch zu helfen – so denk' ich immer dabei an mich.
+
+
+KLAUS.
+ Grade so geht es mir. – Man darf nur von irgendeinem Narren in Afrika sprechen, und gleich ist mir, als wenn notwendig von mir die Rede sein müßte. – So hat man gar keine rechte Ruhe im Leben. – Sagt mir nur, wozu man getauft wird, wenn der Taufname gar nicht gebraucht werden soll?
+
+
+RATGEBER.
+ Es ist unrecht.
+
+
+KLAUS.
+ Seht Euch nur etwas vor, ich glaube, der Blaubart wird ein scharf Examen mit Euch anstellen.
+
+
+RATGEBER.
+ Lieber Gott, was kann er fragen, worauf ich nicht einen guten Rat zu geben wüßte!
+
+
+KLAUS.
+ Nun, da müßt Ihr in Eurem Berufe gut beschlagen sein.
+
+
+RATGEBER.
+ Ein Narr wie du kann so etwas freilich nicht begreifen. – Es ärgert mich nur, daß ich so mit dir in Gesellschaft reisen muß, mit dieser armseligen Gelegenheit; was werden die Leute von mir denken?
+
+
+KLAUS.
+ Sie werden Euch für einen blinden Passagier halten, der grade nicht Weisheit genug bei sich hat, um auf eine bessere Art wegzukommen.
+
+
+RATGEBER.
+ Wir sollten wenigstens die große Landstraße meiden.
+
+
+KLAUS.
+ Narrheit geht nie anders.
+
+
+RATGEBER.
+ Wir sind schon so vielen Prozessionen begegnet.
+
+
+KLAUS.
+ Und da habt Ihr Euch doch wohl meiner nicht geschämt? – Narrheit mit Weisheit – das ist die beste Gesellschaft.
+
+
+RATGEBER.
+ Ja, für die Narren – aber der weise Mann kommt dabei sehr zu kurz.
+
+
+KLAUS.
+ Ihr dürft ja nur an mir ein Beispiel nehmen, um immer noch mehr Abscheu vor der Narrheit zu bekommen; 
+seht, auf die Art kann ich Euch ja doch nützlich sein. Ich bin dann eine Art von moralischer Vogelscheuche, ein Kerl, der zwar nur aus Plündern zusammengesetzt ist, der aber doch in seinem Wirkungskreise soviel leistet, wir er mir kann.
+
+
+RATGEBER.
+ Du bist ein Schwätzer.
+
+
+KLAUS.
+ Aber kommt, es wird zu spät. – Wir müssen uns wieder auf die Beine machen. –
+
+
+RATGEBER.
+ Ich wollte, wir wären erst da.
+
+
+KLAUS.
+ Kommt Zeit, kommt der Ratgeber. – Ihr kennt ja wohl das Sprichwort. Beide ab.
+
+
+
+
+
+
+
+
+
+4. Szene
+
+
+
+
+Vierte Szene
+
+Herberge an der Landstraße.
+
+
+Hans von Marlof, Anton, Simon, Peter Berner, Agnes, Anne.
+
+
+
+HANS.
+ So weit haben wir euch mit Gottes Hilfe begleitet, und nun werden wir unter seinem Schütze wohl zurückreiten müssen.
+
+
+PETER.
+ Ich danke euch für die Ehre, die ihr mir dadurch erzeigt habt.
+
+
+HANS.
+ Daß euer Bruder Leopold nicht zu Hause war, daß er sogar die Hochzeit seiner Schwester versäumt hat, fällt mir aus mehr als einer Ursache schwer aufs Herz. – Meine Tochter ist allein zu Hause, Herr Ritter; – ich habe böse Ahnungen.
+
+
+PETER.
+ Ahnungen muß man nicht trauen, sie hintergehen uns fast immer.
+
+
+SIMON.
+ Du bist vergnügt, Schwester?
+
+
+AGNES.
+ Recht sehr, wenn ich euch nur nicht verlassen dürfte.
+
+
+ANTON.
+ Ja, das ist nicht anders im menschlichen Leben, die Zeit bringt die Abwechslungen herbei.
+
+
+HANS.
+ Jawohl.
+
+
+SIMON.
+ Die Zeit nun wohl nicht, denn genaugenommen, macht ja eben die Folge dieser Abwechslungen das aus, was wir Zeit nennen.
+
+
+ANTON.
+ Das ist mir zu spitzfindig.
+
+
+HANS.
+ Aber noch einmal Musik. – Zum Fenster hinaus. Hört, ihr Spielleute! – Noch eins, der jungen Frau zu Ehren, hübsch lustig mit Trompeten und Pauken. Das Jägerlied.
+
+
+Musik und Gesang hinter der Szene.
+
+
+
+
+
+Es ging ein Jäger wohl auf den Fang!
+Trara, trara!
+Das Wildbret sprang die Bahn entlang!
+Hopsa, hopsa!
+Die Büsche hinab ertönt das Horn!
+Trara, trara!
+Der Jäger, er nahm ein Reh aufs Korn!
+Eia, eia!
+Das schlankste Tierchen im ganzen Wald!
+Trara, trara!
+'s floh nicht, 's kam ihm entgegen bald,
+Sieh da, sieh da!
+Zur glücklichen Stunde ritt' ich ans
+Trara, trara!
+Und bring' ein jung Weibel mit mir nach Haus,
+Hopsa, hopsa!
+Das ist wohl traun die beste Jagd,
+Sasa, sasa!
+Feins Liebchen, komm, es wird schon Nacht,
+Haha, haha!
+
+
+
+HANS.
+ Nun lebt wohl, meine werten Freunde. Ich habe euch so viel Ehre angetan, wie es mir in meinen alten Tagen möglich war; wenn mein Sohn hier gewesen wäre, hätte alles besser eingerichtet sein sollen. – Aber der ist vielleicht schon lange tot und begraben. – Nun lebt wohl. Ab.
+
+
+
+SIMON.
+ Adieu, liebe Schwestern, bleibt gesund, schreibt manchmal.
+
+
+ANTON.
+ Glück auf den Weg!
+
+
+ANNE.
+ Lebt wohl, liebe Brüder. Sie gehn ab, Anne folgt ihnen.
+
+
+
+PETER.
+ Du hast kein Wort gesprochen, Agnes?
+
+
+AGNES.
+ Ich muß Euch gestehn, daß mir die Tränen so in die Augen kamen, daß ich unmöglich ein Wort sagen konnte.
+
+
+PETER.
+ Worüber weinst du?
+
+
+AGNES.
+ Meine Brüder – sie gehn fort, wer weiß, wann ich sie wiedersehe.
+
+
+PETER.
+ Ah! Wenn man seinen Mann recht lieb hat. muß man Brüder und Schwestern darüber vergessen können. – Nun sind wir beide allein. Gib mir einen Kuß, Agnes. Er küßt sie.
+
+
+
+AGNES.
+ Aber ich bitte Euch, wenn wir Weiterreisen, so jagt nicht so mit Eurem Pferde. Ihr galoppiertet hin und zurück, das arme Tier wäre fast unter Euch zusammengesunken.
+
+
+
+PETER.
+ Desto mehr wird es sich auf den Stall freuen. – Nur wenn wir recht Beschwerlichkeiten überstanden haben, kommt uns die Ruhe wie Kühe vor. Laß das, mein Kind.
+
+
+AGNES.
+ Ihr könntet stürzen.
+
+
+PETER.
+ Ich bin schon oft gestürzt, das tut nichts.
+
+
+AGNES.
+ Ihr macht mir aber solche Angst.
+
+
+PETER.
+ Das ist gut, es ist ein Beweis Eurer Liebe.
+
+
+AGNES.
+ Wahrhaftig, da ich jetzt mit Euch allein bin, könnt' ich mich vor Euch fürchten.
+
+
+PETER.
+ Wirklich? – Nun, das ist mir lieb, so etwas hab' ich gern. – Aber du wirst dich schon noch ganz an mich gewöhnen, Kind.
+
+
+AGNES.
+ Die Gegend hier herum ist doch recht wüste. – Die Mühle dort unten saust so schauerlich durch die Einsamkeit. – Seht, da reiten meine Brüder schon den Fels hinauf.
+
+
+PETER.
+ Meine Augen tragen nicht so weit.
+
+
+AGNES.
+ Als ich dort hinunterritt, dacht' ich nicht, daß der Ort schon so nahe sei, wo wir Abschied nehmen sollten.
+
+
+PETER.
+ Schlage dir das aus dem Sinn.
+
+
+AGNES.
+ Als ich noch nie gereist war, wünscht' ich nichts so sehnlich wie eine recht weite Reise, ich dachte mir in meiner Vorstellung immer schöne, unbeschreiblich schöne Gegenden, Burgen und Türme mit wunderbaren Zinnen, mit Gold ausgelegte Dächer im Schein der Morgensonne funkelnd, steile Berge und weite Aussichten von oben, immer neue Menschengesichter, dunkle Wälder und einsame verschlungene Fußpfade durch das dunkelgrüne Labyrinth mit Lerchen und Nachtigallen. Und nun ist alles so anders, und mir wird immer bänger und bänger, je mehr ich mich von der gewohnten Heimat entferne.
+
+
+PETER.
+ Wir treffen unterwegs noch auf merkwürdige Gegenden.
+
+
+AGNES.
+ Seht einmal, wie das Feld wüst ist dorthin, die sandigen, kahlen Hügel, über denen die dunkeln Regenwolken stehn.
+
+
+PETER.
+ Mein Schloß liegt angenehmer.
+
+
+AGNES.
+ Es regnet schon, und der Himmel wird immer finstrer.
+
+
+PETER.
+ Wir müssen wohl aufbrechen, es wird sonst zu spät. – Wo ist denn Eure Schwester?
+
+
+AGNES.
+ Ich sah sie soeben noch tiefsinnig in dem kleinen Garten sitzen.
+
+
+PETER.
+ Nun hör auf zu wimmern. – Komm, unsre Pferde sind auch abgefüttert. Sie gehn ab.
+
+
+
+
+
+
+
+
+
+3. Akt
+
+
+
+
+
+1. Szene
+
+
+
+
+Erste Szene
+
+Peter Berners Schloß.
+
+
+Agnes und Mechthilde, eine Alte.
+
+
+
+MECHTHILDE.
+ Ja, liebe gnädige Frau, Ihr seid nun grade die siebente, der ich gedient habe.
+
+
+AGNES.
+ Die siebente?
+
+
+MECHTHILDE.
+ Euch fällt vielleicht dabei ein, daß das keine gute Zahl sein soll, weil Ihr so fragt.
+
+
+AGNES.
+ Ach nein, ich dachte daran nicht.
+
+
+MECHTHILDE.
+ Ihr werdet's hier gut haben, denn ich kenne das Gemüt des Herrn Ritters nun schon seit langem, aber ich kann nichts als alles Gute von ihm sagen, wenn ich die Wahrheit reden soll.
+
+
+AGNES.
+ Das Schloß liegt recht hübsch.
+
+
+MECHTHILDE.
+ Die schönste Gegend ist hier weit und breit umher, man hat besonders oben auf dem Dache eine sehr freie Aussicht. – Seid Ihr schon oben gewesen?
+
+
+AGNES.
+ O ja, man sieht wohl eine Meile weit alles ganz deutlich vor sich, und dann kommen die Berge, die die Wiesen beschließen. – Aber hört einmal, der Ritter sagte mir von vielen Kostbarkeiten, habt Ihr die auch gesehn?
+
+
+MECHTHILDE.
+ O ja, ganze Zimmer voll, er hält die immer verschlossen. Ich muß Euch sagen, meine schöne gnädige Frau, es ist ein gar reicher Herr, ich glaube, er weiß selber nicht, wie reich er ist. Ich weiß, daß Euch alle Damen hier herum weit und breit, arm und reich, beneiden werden.
+
+
+AGNES.
+ Ich möchte wohl einmal diese Seltenheiten sehn.
+
+
+MECHTHILDE.
+ Es findet sich wohl eine Gelegenheit dazu.
+
+
+AGNES.
+ Ihr seid wohl schon sehr alt?
+
+
+MECHTHILDE.
+ Wieso?
+
+
+AGNES.
+ Ihr geht so gebückt, der Kopf zittert Euch so.
+
+
+MECHTHILDE.
+ Ich habe auch schon siebzig Jahr' auf dem Rücken; das will schon sehr viel sagen, wenn man das an seinem schwachen Körper ableben soll. – Ihr werdet's nicht glauben wollen, aber ich war auch einmal hübsch, und die Leute sagten, ich wäre sehr schön. Ach Gott, das verschwindet alles, als wenn es nimmermehr da gewesen wäre, und es kräht kein Hahn danach. Die ganzen siebzig Jahre sind hin, ich 
+weiß nicht wie. – Nun, man kann nicht immer jung bleiben, es muß auch alte Leute geben, das ist mein Trost. Es wird Euch auch so gehn.
+
+
+AGNES.
+ Mir?
+
+
+MECHTHILDE.
+ Ja, das will das junge Blut immer nicht glauben, sie denken gewöhnlich: Ach, das bleibt beständig so wie heute! Ja heute, und morgen ist wieder ein heute und übermorgen auch, und so nimmt ein Tag nach dem ändern Abschied, und man denkt in der jugendlichen Vergeßlichkeit nicht daran, daß daraus die Zeit besteht. Ehe wir es uns dann versehn, heißt es hinter uns: Seht die alte Frau, die da geht! Die ersten Male wollt' ich's ordentlich nicht glauben, daß das mir gälte, aber ich bin es nachher wohl inne geworden.
+
+
+AGNES.
+ Siebzig Jahr' sind aber doch eine lange Zeit.
+
+
+MECHTHILDE.
+ Ja, wenn man sie vor sich hat. In meiner Jugend dacht' ich grade so, und wollt Ihr's wohl glauben, daß mir des Nachts noch manchmal träumt, ich wär' jung, dann ist, als wäre das Wahre, mir immer Wirkliche nur ein Traum gewesen, in dem ich mir närrischerweise eingebildet hätte, ich wäre eine alte, krumme, bucklige Frau. Ich habe schon oft darüber lachen müssen. – Unser Ritter will heut mittag abreisen.
+
+
+AGNES.
+ Schon wieder abreisen?
+
+
+MECHTHILDE.
+ Ja, er hat immer viel Geschäfte, er ist aber noch immer aus allen Fehden und Händeln glücklich zurückgekommen. Geht ab.
+
+
+
+AGNES.
+ Wie neu mir hier alles ist, ich kann mich immer noch nicht gewöhnen, und an seine Gestalt am wenigsten. Ich weiß manchmal nicht, soll ich lachen oder mich vor ihm fürchten. – Meine Schwester ist noch nicht aufgestanden, sie ist nicht wohl. Ihr ganzes Leben ist nur mit einem einzigen Gedanken ausgefüllt. Ich kann mir nicht denken, wie es möglich ist.
+
+
+Peter Berner kommt.
+
+
+
+
+PETER.
+ Du wirst schon gehört haben, liebe Agnes, daß ich dich verlassen muß.
+
+
+AGNES.
+ Ja.
+
+
+PETER.
+ Es gibt kein so zänkisches, unbändiges Tier wie den Menschen, Agnes. Sie sehn nun, daß sie mich nicht überwältigen können, und doch ist es ihnen nicht möglich, Ruhe zu halten. – Aber sie sollen auch dafür gezüchtiget werden; dieselben wenigstens sollen nicht wiederkommen.
+
+
+
+AGNES.
+ Lieber Mann.
+
+
+PETER.
+ Sei ruhig, ich habe noch nie etwas gefürchtet. – Soeben sind zwei Narren angekommen, die noch zu meinen Dienern gehören. Ich denke, sie werden dir auch Freude machen.
+
+
+Klaus und der Ratgeber treten ein.
+
+
+
+
+PETER.
+ Ihr kommt ziemlich spät, noch grade zur rechten Zeit, um mich abreisen zu sehn.
+
+
+KLAUS.
+ Wir sind beide nicht gut zu Fuß, Herr Ritter, und das hat uns unterwegs ein wenig aufgehalten.
+
+
+PETER.
+ Ihr seid der sogenannte Ratgeber? – Nehmt's nicht übel, wenn ich über den närrischen Titel lachen muß.
+
+
+RATGEBER.
+ Ich bin derselbe.
+
+
+KLAUS.
+ Unterwegs gab er immer den Rat, in jede Herberge, die sich finden ließ, einzukehren. Ich hoffe, Ihr sollt noch bis dato die Spuren davon an ihm gewahr werden.
+
+
+PETER.
+ Ihr sprecht ja gar nicht.
+
+
+RATGEBER.
+ Der Narr läßt mich nicht zu Worte kommen.
+
+
+KLAUS.
+ Kommt zu Worte; kommt immerhin zu Worte. Es wird sich zeigen, ob Ihr was Gescheites zu Markte zu bringen wißt. – Da seid Ihr der erste Mensch auf der Welt, der da behauptet, daß ich ihn nicht zu Worte kommen lasse. – Die Leute, die das hören, sollten wohl gar denken, ich wäre ein sehr arger Schwätzer.
+
+
+RATGEBER.
+ Herr Ritter, Ihr seht, er kann nicht schweigen. – Wenn ich Euch manchmal mit meinem Rat dienen kann –
+
+
+PETER.
+ Wenn er nur gut ist.
+
+
+RATGEBER.
+ Es schickt sich nicht, daß ich ihn herausstreiche, denn jede Ware sollte sich eigentlich selber loben; aber fragt nur den Narren.
+
+
+KLAUS.
+ Sein Rat ist immer überaus schön gewesen, und das beste ist, er gibt immer zu gleicher Zeit mehrere Sorten aus, so daß, wenn man den einen nicht befolgen will, man immer noch zum zweiten seine Zuflucht nehmen kann, der dem ersten gewöhnlich gradezu entgegensteht.
+
+
+PETER.
+ Nun wohl, ich ziehe jetzt ins Feld, mein Feind ist stärker als ich, soll ich ihn angreifen?
+
+
+RATGEBER.
+ Wartet einen Augenblick. – Wenn Ihr ihn – zu bezwingen gedenkt, so rate ich Euch selbst, ihn anzugreifen.
+
+
+PETER.
+ Meint Ihr, daß das gut sei?
+
+
+RATGEBER.
+ Ich habe es wenigstens nie leiden können, daß man mich angriff.
+
+
+PETER.
+ Aber wenn ich nun geschlagen werde?
+
+
+KLAUS
+
+leise zum Ratgeber.
+
+ Nehmt um Himmels willen Euren 
+ganzen Verstand zusammen, sonst ist es um unsre Versorgung geschehn.
+
+
+RATGEBER.
+ Wenn Ihr geschlagen werdet? – Ja, da seid Ihr denn wahrhaftig in einer üblen Lage!
+
+
+PETER.
+ Was ist aber dabei zu tun?
+
+
+RATGEBER.
+ Wenn man das Ding von allen Seiten überlegt, so wird es noch immer das beste sein, Euch alsdann zurückzuziehn.
+
+
+PETER.
+ Wenn mir aber der Rückzug abgeschnitten wird?
+
+
+RATGEBER.
+ Dann – haltet – dann; das ist ein schwieriger Fall. Er geht auf und ab. Dann – nun hab' ich's! – Dann – einen Augenblick Geduld! – Das ist mir in meiner Praxis noch nicht vorgekommen – hm – hm. – Aber wie kommt Ihr denn auf so närrische Ideen? – Das nenn' ich einem auf den Zahn fühlen –
+
+
+PETER.
+ Nun?
+
+
+RATGEBER.
+ Gleich, gleich! – Könntet Ihr denn nicht entwischen?
+
+
+PETER.
+ Wenn mir der Rückzug abgeschnitten ist, unmöglich.
+
+
+RATGEBER.
+ Ja, da mag Euch der Henker Rat geben! – Ich glaube, ich könnte eine Woche hintereinander denken und brächte nichts Kluges heraus. – Ein Narr kann in einem Tage – Ihr kennt wohl das Sprichwort?
+
+
+KLAUS.
+ Um Gottes willen, Herr, tut ihm nichts, Ihr seht ja, wie er sich angreift.
+
+
+PETER.
+ Wenn ich dich nun zum Fenster hinaus aufhängen ließe? – Ich habe jetzt nur keine Zeit, sonst würde ich dich wenigstens noch, eine Weile ängstigen.
+
+
+KLAUS.
+ Ach, er ist schon geängstigt genug, seht nur, wie ihm der Schweiß auf der Stirne steht. – Ich sagt's Euch wohl, Ratgeber, daß Ihr einen harten Stand haben würdet. – Er hat bis jetzt nur Rat gegeben, so nach seiner Bequemlichkeit, es ist ihm etwas Neues, daß er nun so ins Große gehn soll, und da fehlt dem Manne freilich die Übung.
+
+
+RATGEBER.
+ Jetzt fällt mir was ein: Ihr könnt dann wenigstens in die Zeitungen setzen lassen, Ihr hättet den Feind eingeschlossen, und man würde nächstens mehr davon hören.
+
+
+PETER.
+ Nun, geht nur, ich sehe schon, wozu Ihr zu brauchen seid. Der Scharfsinnigste seid Ihr eben nicht, aber sonst ein ganz guter Mann. Geht, laßt euch beide zu essen geben, der Rat griff Euch tüchtig an.
+
+
+KLAUS.
+ Er wird überhaupt wohl bald müssen auf Pension gesetzt werden, und dann krieg' ich vielleicht seine Stelle.
+
+
+
+RATGEBER.
+ Du? – Wann hast du denn schon einen Hat gegeben?
+
+
+KLAUS.
+ Nun, ich muß es von Euch lernen, Ihr müßt mir Stunden geben. – Solange Ihr noch in der Welt seid, verzweifle ich an nichts.
+
+
+RATGEBER.
+ Darauf werd' ich mich nicht einlassen.
+
+
+KLAUS.
+ Kommt nur, wir wollen jetzt erst zusammen speisen. Beide ab.
+
+
+
+PETER.
+ Hahaha, ein Paar herrliche Narren, besonders der Alte. – Und dabei hat er sich für seine Narrheit einen an dem vernünftigen Titel ausgedacht; er spielt den Geschäftsmann, um in einer gewissen Würde zu bleiben. – Wie gefallen sie dir?
+
+
+AGNES.
+ So ziemlich, ich habe bei ihnen an die Puppen meiner Kindheit zurückgedacht.
+
+
+PETER.
+ Ach Kind, am Ende sind wir alle nichts weiter. Das Leben von uns allen ist am Ende nur ein albernes Puppenspiel, wir selbst sind nur getäuscht, aber keiner von den Zuschauern. – Nun, es muß wohl so sein, und darum ist es auch gut so. – Agnes, ich will dir während meiner Abwesenheit alle meine Schlüssel in Verwahrung geben. – Hier. – Ich denke in einigen Tagen zurückzukommen; du magst dir die Zwischenzeit damit verkürzen, daß du die Gemächer besiehst, in die ich dich noch nicht geführt habe. Sechs Zimmer stehn dir gänzlich offen, aber das siebente, das dieser goldene Schlüssel öffnet, bleibt dir verschlossen. – Hast du mich verstanden?
+
+
+AGNES.
+ Vollkommen.
+
+
+PETER.
+ Agnes, laß dich nicht gelüsten, das siebente Zimmer zu öffnen.
+
+
+AGNES.
+ Gewiß nicht.
+
+
+PETER.
+ Ich könnte den Schlüssel mit mir nehmen, und es wäre dir unmöglich; aber ich will dir trauen, du wirst nicht so töricht sein. – Nun, lebe wohl.
+
+
+AGNES.
+ Lebe wohl.
+
+
+PETER.
+ Wenn ich wiederkomme, und du bist in dem verbotnen Zimmer gewesen –
+
+
+AGNES.
+ Erhitze dich doch nicht so umsonst, ich will nicht hineingehen, und damit gut.
+
+
+PETER.
+ Ob es gut ist, zeigt sich erst, wenn ich zurückkomme. Ab.
+
+
+
+AGNES.
+ Nun steht es endlich in meiner Gewalt, die längstgewünschten Kostbarkeiten zu betrachten. – Lächerlich, daß, 
+wenn uns sechs große Zimmer mit ihren Kleinodien offenstehn, wir noch nach dem siebenten sollten lüstern sein. Das wäre ja eine mehr als kindische Neugier. – Wie er über alles wild wird. – Ich möchte ihn nicht vor mir sehn, wenn ich einmal etwas gegen seinen Willen getan haben sollte.
+
+
+Anne tritt auf.
+
+
+
+
+AGNES.
+ Nun, wie geht's dir, Schwester? Ist dir besser?
+
+
+ANNE.
+ Etwas.
+
+
+AGNES.
+ Ich habe jetzt die Schlüssel zu den Zimmern, der Ritter ist abgereist.
+
+
+ANNE.
+ So?
+
+
+AGNES.
+ In eins dürfen wir nicht hinein; – in das siebente kann ich dich unmöglich hineinlassen, Anne.
+
+
+ANNE.
+ Mir gleich.
+
+
+AGNES.
+ Er hat es sehr strenge verboten.
+
+
+ANNE.
+ Ich bin nicht lüstern danach.
+
+
+AGNES.
+ Freust du dich denn aber gar nicht?
+
+
+ANNE.
+ Worüber denn?
+
+
+AGNES.
+ Daß ich die Schlüssel habe.
+
+
+ANNE.
+ Wenn du dich darüber freust – o ja.
+
+
+AGNES
+
+am Fenster.
+
+ Da reitet er fort mit seinem Gefolge. – Sie öffnet das Fenster. Viel Glück! – Kehre bald wieder heim. Trompeten draußen.
+
+
+
+ANNE.
+ Wie munter sie fortziehn! Gebe der Himmel nur, daß sie ebenso fröhlich wiederkommen.
+
+
+AGNES.
+ Sollten sie nicht?
+
+
+ANNE.
+ Der Anfang von allen Dingen ist frisch, die Sorgfalt sitzt daneben und bewacht jeden Schritt, jeden Strich; aber bald fallen ihr die Augen zu, immer müder und müder gegen das Ende, der Glanz ist von den neuen Kleidern abgetragen, und die Menschen fangen dann aus Überdruß etwas Neues an, ehe sie noch das Alte geendigt haben. So kommen sie auch vielleicht mit verdrießlichen Gesichtern zurück, denn das ist so der gewöhnliche Gang des menschlichen Schicksals.
+
+
+AGNES.
+ Du machst mir bange, Schwester.
+
+
+ANNE.
+ Es sind nur meine Gedanken, indessen ist es gut, wenn sich der Mensch auf alles gefaßt hält. – Ich bin überhaupt mehr als andre zur Schwermut geneigt, laß dich das nicht anfechten.
+
+
+AGNES.
+ Sieh, was kommt da für ein Zug vor unserm Fenster vorbei?
+
+
+ANNE.
+ Es ist eine Bauernhochzeit!
+
+
+AGNES.
+ Wie die Leute fröhlich sind! – Sie grüßen. – Guten 
+Tag, liebe Leute! – Sieh, der ganze Wall ist voll. Sie wollen ein Lied anstimmen.
+
+
+Lied von außen.
+
+
+
+Wohl dem, der nach traurigen Stunden
+Das Liebchen hat endlich gefunden.
+Dann klingt der Schall
+Der Nachtigall
+Noch fröhlicher ihm durch Busch und Tal.
+
+
+
+CHOR.
+
+Durch Busch und Tal
+Singt noch einmal
+So lieblich und lockend die Nachtigall.
+
+
+
+Glück auf! Denn es ist ihr gelungen,
+Sie hält ihn mit Zagen umschlungen;
+Sei froh und nicht bang,
+Der Hochzeitsklang
+Begleitet dich munter dein Leben entlang.
+
+
+
+CHOR.
+
+Durch Büsche drang
+Der frohe Klang.
+Das schönste Lied ist der Hochzeitsgesang.
+
+
+
+Die Musik hat sich indes nach und nach entfernt.
+
+
+
+
+AGNES.
+ Du weinst, Schwester?
+
+
+ANNE.
+ Die Musik –
+
+
+AGNES.
+ Sie ist ja so lustig.
+
+
+ANNE.
+ Für mich nicht.
+
+
+AGNES.
+ Du wirst aber auch deines Lebens niemals froh.
+
+
+ANNE.
+ Ach, als er noch unter meinem Fenster Lieder auf seiner Laute spielte und ein fernes leises Echo seine süßen Töne nach sprach. Wie dann der Mond herunterschien und ich nichts sah, nichts hörte als seinen Gesang, der durch die einsame Nacht wie ein Bach von Wohllaut rieselte, o Schwester, ich kann es nicht vergessen.
+
+
+AGNES.
+ So lieb war er dir?
+
+
+ANNE.
+ Lieber, als ich es dir sagen kann, lieber, als es die schönste Musik auszusprechen vermag. Seine Gegenwart fiel in meine Seele, wie wenn der rote Morgenhimmel sich durchsichtig hell über die Erde ausspannt und hundert Lerchen von oben herunter ihre Freude verkündigen. – O verzeih mir, Schwester.
+
+
+AGNES.
+ Komm, zerstreue dich. – Hier sind ja die Schlüssel, sei wieder fröhlich. –
+
+
+
+ANNE.
+ Gutes Kind.
+
+
+AGNES.
+ Wir wollen die Alte rufen, sie soll mit uns gehn.
+
+
+ANNE.
+ Wie du willst, aber sie ist mir zuwider, ich weiß selbst nicht, warum.
+
+
+AGNES.
+ Sie ist schon sehr alt.
+
+
+ANNE.
+ Und ihre Sprache; – nun komm, sie kann am Ende nichts dafür. Sie gehn ab.
+
+
+
+
+
+
+
+
+
+2. Szene
+
+
+
+
+Zweite Szene
+
+Vorsaal auf Marlof.
+
+
+Gelage von trunkenen Knechten, viele schlafen, andere sind wach; Kaspar ist noch der munterste; Leopold von Friedheim sitzt oben am Tisch und spielt.
+
+
+
+LEOPOLD
+
+singt.
+
+
+Traun, Brüder, wer den Wein erfand,
+Entdeckte wohl das schönste Land!
+Schöner als Gold und Edelstein
+Funkelt im Becher der goldne Wein.
+Seht hinein!
+Wie winkt euch lockend der labende Schein.
+
+
+
+CHOR.
+
+Schöner als Edelstein
+Funkelt der süße Wein!
+
+
+
+KASPAR.
+ Das heiß' ich Wein – solchen Wein. – Ich habe schon viel Wein getrunken, aber solchen Wein; wenn von Wein die Rede ist – als was Wein bedeutet – seht –
+
+
+LEOPOLD.
+ Ich verstehe schon, was Ihr sagen wollt. Trinkt nur immerzu, er ist Euch gerne gegönnt.
+
+
+KASPAR.
+ Nun, wenn Ihr so meint.
+
+
+LEOPOLD
+
+singt.
+
+
+Der Becher geht rund
+Von Mund zu Mund
+Und macht den Kränksten ganz frisch und gesund.
+
+
+
+CHOR.
+
+Von Mund zu Mund
+Wird ein Kranker gesund.
+
+
+
+KASPAR.
+ Ich kann kaum noch die Augen offen halten – und die Beine liegen schon seit einer halben Stunde stockstill unter dem Tische.
+
+
+LEOPOLD
+
+steht auf und singt im Hintergrunde.
+
+
+
+
+Wer klopft an die Tür? –
+Ich, Liebste, bin hier.
+Wo ist dein Gemach?
+Erkennst du mein Ach?
+Auf! Liebst du mich kühn,
+So laß uns entfliehn;
+Schnell schwindet die Zeit,
+Und Zögern gereut.
+Die Stunde vergeht,
+Dann ist es zu spät.
+
+
+
+Brigitte erscheint oben auf den Stufen ihres Gemachs.
+
+
+
+
+BRIGITTE.
+ Leopold!
+
+
+LEOPOLD.
+ Liebste Brigitte!
+
+
+BRIGITTE.
+ Ich habe Euch schon lange an Eurer Stimme erkannt. – Was wollt Ihr hier?
+
+
+LEOPOLD.
+ Ihr könnt noch fragen? – Folgt mir, wenn Ihr mich liebt. – Seht, sie schlafen alle, der Tag fängt schon an zu grauen, ich muß fort, Euer Vater kehrt zurück, dort auf dem Tisch liegen die Schlüssel der Burg.
+
+
+BRIGITTE.
+ Ich sollte meinen alten Vater verlassen?
+
+
+LEOPOLD.
+ Er soll nachher unsre Ehe segnen, aber erst müssen wir in Sicherheit sein. Ihr wißt ja, er ist gegen unsre Liebe.
+
+
+BRIGITTE.
+ Aber bedenkt nur –
+
+
+LEOPOLD.
+ Lebt wohl. Ich sehe, Ihr liebt mich nicht, nun gut, so seht Ihr mich nicht wieder.
+
+
+BRIGITTE.
+ Leopold! – Ich komme ja schon. Sie steigt herunter.
+
+
+
+LEOPOLD.
+ O Brigitte! Er umarmt sie. Ich bin wie im Traum.
+
+
+BRIGITTE.
+ Ich auch; – ich weiß nichts von mir, nach so langer Zeit seh' ich Euch endlich wieder. –
+
+
+LEOPOLD.
+ Kommt, eh' die Zeit vergeht. Sie nehmen die Schlüssel und gehn fort, bald darauf hört man den Türmer blasen.
+
+
+
+KASPAR
+
+taumelt auf.
+
+ Was war das? – War das nicht der Türmer? – Aber ich glaube, es hat mir nur geträumt. – Was sagt Ihr, Spielmann? – Nicht wahr? – Nun, das ist auch meine Meinung. Er legt sich wieder zum Schlafen hin, es bläst von neuem.
+
+
+
+KASPAR.
+ Nein, das ist kein Traum – so lebhaft hat mir noch zeitlebens nichts geträumt. – Danach muß ich sehn. – Wenn nur die Beine. – Wie? Wer ist das?
+
+
+Hans von Marlof tritt ein.
+
+
+
+
+HANS.
+ Gott im Himmel! Was ist denn das? Die Tore der Burg, 
+alle Türen sind offen! – Und hier, wie sieht es hier aus! – Kaspar!
+
+
+KASPAR.
+ Ja, Herr!
+
+
+HANS.
+ Liegst du auch unter dem tollen Haufen?
+
+
+KASPAR.
+ Ja, Herr!
+
+
+HANS.
+ Kaspar, ich bitte dich – mach mich nicht toll, mir schwindelt schon der alte Kopf. – Steh auf! Ich bitte dich.
+
+
+KASPAR.
+ Herr, das wird so geschwinde nicht gehn. Er richtet sich mühsam auf.
+
+
+
+HANS.
+ Laß mich nicht das Ärgste fürchten – Kaspar! – Meine Tochter –
+
+
+KASPAR.
+ Ich habe immer ein Auge auf sie gehabt.
+
+
+HANS.
+ Aber wie kommt ihr denn dazu –
+
+
+KASPAR.
+ Herr, da war ein Spielmann hier, und der hatte einen so köstlichen Wein bei sich – und da weiß ich nicht, wie es kam – aber kurz und gut –
+
+
+HANS.
+ Es mag für diesmal gut sein, aber ich muß nach meiner Tochter sehn. Geht ab.
+
+
+
+KASPAR.
+ Wo ist denn der Spielmann geblieben? – Ermuntert euch, Kerls, sag ich, steht auf. Die Knechte erheben sich nach und nach. Der Spielmann – Kaspar, Kaspar; mir fängt an, der Verstand wiederzukommen, und ich merke Unrat. – Ach! Der arme Herr, wenn es wahr sein sollte! Hans stürzt außer sich herein.
+
+
+
+HANS.
+ Du Schurke! – Du schlechter Kerl! – Liebst du deinen Herrn so? – O meine Tochter –
+
+
+KASPAR.
+ Herr – mäßigt Euch, Herr –
+
+
+HANS.
+ Nein, ich will jetzt vor Zorn und Gram sterben – ich will mich nicht mäßigen, damit ich nur das Unglück, die Schande nicht überlebe. – Meine Tochter, sie ist fort!
+
+
+KASPAR.
+ Nimmermehr!
+
+
+HANS.
+ Muß mir das begegnen? Der ich mein Kind so liebte? – Schaff mir sie wieder, Kaspar! – Fort, geh mir aus den Augen, du Niederträchtiger!
+
+
+KASPAR.
+ Herr, so habt Ihr mich noch nie gescholten – aber ich verdiene, ganz und gar verdien' ich das. – Oh, ich Dummkopf! Er kniet nieder. O vergebt mir, mein Herr, faßt Euch wieder. – Ach nein, Ihr könnt mir nicht vergeben.
+
+
+HANS.
+ Kaspar, ist das deine Vernunft? Sind das deine Grundsätze, von denen du so viel sprechen konntest? – Wenn nur meine Brigitte da wäre! – Und wie konnte sich mein Kind so vergessen? – Mit dem Spielmann, mit einem Nichtswürdigen ist sie fortgelaufen?
+
+
+
+KASPAR.
+ Es muß so sein, Herr, denn ich sehe ihn nirgends. – Ach Gott! Wie wird mir, da nun mein Versland wiederkommt! Ich schäme mich vor Euch und vor mir; ich möchte in Verzweiflung fallen – daß ich an dem Unglück schuld hin! Oh, ich möchte mit dem Kopfe gegen die Mauer laufen! Und meinem lieben, guten alten Herrn! –
+
+
+HANS.
+ Mäßige dich, Kaspar, fasse deine Vernunft zusammen. Bleib bei dir.
+
+
+KASPAR.
+ Gibt es denn keinen Trost, keine Hilfe?
+
+
+HANS.
+ Ach nein, nein! – Oh, das wird mich noch wahnsinnig machen. – Es ist zuviel, zuviel, Kaspar, wenn ich von neuem daran denke. – Es ist mein Tod, ich fühl's.
+
+
+KASPAR.
+ Lieber gnädiger Herr, bedenkt Euer Alter.
+
+
+HANS.
+ Ich mag nichts bedenken, du hast keine Tochter verloren, du hast gut reden. Und du bist schuld daran! Einzig du!
+
+
+KASPAR.
+ Soll ich ins Wasser laufen? – Soll ich vom Turm herunterspringen? – Soll ich nackt in die Winternacht hinauslaufen? – Befehlt doch nur, wie ich mich strafen soll, und ich will's ja von Herzen gerne tun, nur daß ich wieder Ruhe habe, daß ich Eure Vorwürfe nicht mehr höre.
+
+
+HANS.
+ Kaspar! Kaspar! Ich merk's, wir werden uns beide toll machen. – Meine Tochter, meine Brigitte hätte vorsichtiger sein sollen – du bist nicht soviel schuld. – Komm – laß uns beide unsre Vernunft zusammenfassen – aus dem Rasen kann doch nichts herauskommen; – fasse dich nur, Kaspar, und steh mir bei.
+
+
+KASPAR.
+ Von Herzen gern, mein lieber gnädiger Herr. Ach! Wenn Ihr nur wieder gut seid!
+
+
+HANS.
+ Komm, wir wollen uns gleich zu Pferde setzen, wir müssen sie wiederfinden, wir wollen eher kein Auge zutun.
+
+
+KASPAR.
+ Aber Euer Alter, Eure Schwachheit –
+
+
+HANS.
+ Es kommt ja hier auf meine Tochter an, Kaspar!
+
+
+KASPAR.
+ Nun, wie Ihr wollt. – Aber Ihr haltet mich doch auch für keinen Schurken mehr? – Ach, gnädiger Herr, das hat meinem Herzen weh getan – ein Dummkopf bin ich wohl, ein ausgemachter Dummkopf – aber doch kein Schurke.
+
+
+HANS.
+ Vergiß es, Kaspar; vergiß es, ich wußte grade nicht, was ich sagte. – Du hast mir dreißig Jahr redlich gedient, da kann man wohl einen Fehler mit eindienen. – Komm, komm, aus der Burg mag indes werden, was da will; wenn ich sie nicht wiederfinde, komm' ich nicht so zurück. Beide ab.
+
+
+
+
+
+
+
+
+
+3. Szene
+
+
+
+
+
+
+Dritte Szene
+
+Berners Schloß.
+
+
+Agnes, Anne, Mechthilde, Knechte, die das Abendessen abräumen.
+
+
+
+AGNES.
+ Ich bin von allen den herrlichen Seichen, die ich heut gesehn habe, ganz schwindelig. – Jetzt ist mir, als hätte mir das nur geträumt.
+
+
+ANNE.
+ Die Sinne ermüden am Ende, und selbst das Mannig faltigste wird einförmig.
+
+
+AGNES.
+ Die Mutter Mechthilde ist schon ganz schläfrig.
+
+
+MECHTHILDE.
+ Ja, Kinder, ich gehe gewöhnlich um die Zeit zu Bette, und da meldet sich denn der Schlaf bei mir ganz von selbst.
+
+
+AGNES.
+ Geht immer zu Bette, ich bleibe ein wenig auf. Der Mond scheint so hell, und da geh' ich denn nachher noch etwas auf den Altan hinaus, um frische Luft zu schöpfen.
+
+
+MECHTHILDE.
+ Nehmt Euch vor den Fledermäusen in acht, sie pflegen um diese Jahreszeit umherzuschwärmen.
+
+
+AGNES.
+ Es ist uns doch nicht einmal eingefallen, das siebente Zimmer zu besehen, und der Ritter war so besorgt – am Ende ist auch gar nicht einmal etwas Merkwürdiges darin.
+
+
+MECHTHILDE.
+ Das ist wohl möglich.
+
+
+AGNES.
+ Wie? Ihr seid auch niemals hineingekommen?
+
+
+MECHTHILDE.
+ Niemals.
+
+
+AGNES.
+ Das ist doch wunderbar. – Wollt Ihr jetzt, Mutter, die Schlüssel zu Euch nehmen? Wir brauchen sie doch nicht mehr.
+
+
+MECHTHILDE.
+ Recht gern.
+
+
+AGNES.
+ Die Männer haben, wie ich sehe, ebenso gerne Geheimnisse wie die Frauenzimmer.
+
+
+MECHTHILDE.
+ Noch lieber, sie wollen es nur nicht zugeben.
+
+
+AGNES.
+ Gebt mir doch die Schlüssel wieder zurück.
+
+
+MECHTHILDE.
+ Hier sind sie.
+
+
+AGNES.
+ Der Ritter möchte ungehalten werden, da er sie doch in meine eignen Hände überliefert hat.
+
+
+ANNE.
+ Nun, gute Nacht, ich gehe zu Bette.
+
+
+MECHTHILDE.
+ Gute Nacht. Beide gehn ab.
+
+
+
+AGNES.
+ Welch herrliche Nacht! – Man spricht soviel von der Neugier der Frauenzimmer, und jetzt stünde es doch nur bloß in meiner Gewalt, in das verbotne Zimmer hineinzugehn. – Ich habe mir zum Teil die Schlüssel wiedergeben lassen, 
+weil sonst mein Mann hätte denken können, ich traue mir nicht Stärke genug zu. – Wenn ich der Versuchung nachgäbe, so erführe kein Mensch, daß ich in dem Zimmer gewesen wäre, und das wäre doch das einzige Unglück, das daraus entstellen könnte, Meine Schwester, die Sittenpredigerin, schläft jetzt. – Ich wollte, ich hätte dem alten häßlichen Weibe die Schlüssel gelassen. – Am Ende ist das Ganze nur darauf abgesehn, daß mein Mann mich auf die Probe stellen will, und ich will mich gewiß nicht so leicht fangen lassen. – Die Alte ist selbst noch nicht einmal in dem Zimmer gewesen, der Ritter muß doch also etwas Besondres dabei haben. – Ich will nicht weiter daran denken. – Sie tritt ans Fenster. Wenn ich nur wüßte, warum er es mir verboten hat? – Der Schlüssel ist golden, die übrigen sind es nicht. Es ist gewiß das kostbarste Gemach von allen, und er will mich nächstens einmal damit überraschen. – Es war eine rechte Narrheit von ihm, daß ich es nicht jetzt gleich sehen sollte. Mir ist überhaupt nichts so verhaßt, als wenn ein Mensch dem ändern eine heimliche Freude machen will, der andere kann sich in der Überraschung niemals freuen, besonders wenn er die einfältigen Anstalten vorher schon gewahr wird. – Agnes, Agnes, hüte dich; das, was dich jetzt peinigt, ist am Ende die berüchtigte weibliche Neugier. – Und warum sollte ich nicht ein Weib sein dürfen so gut wie andre? – Die bloße Neugier ist noch keine Sünde. – Ich möchte den Menschen sehn, der an meiner Stelle nicht neugierig wäre. – Meine Schwester würde ebenso sein wie ich, wenn sie nicht ihre Liebe unaufhörlich im Kopfe hätte; wenn sie aber darauf fiele, daß ihr Reinhold in dem Zimmer stecken könne, so würde sie mich auf den Knien um den Schlüssel bitten. – Die Menschen sind immer nur nachsichtig gegen ihre eignen Schwachheiten. – Und es ist am Ende nicht einmal eine Schwachheit von mir, in dem Zimmer kann ein Geheimnis verborgen liegen, von dem mein Glück abhängt. Ich ahne fast so etwas – und ich will nur so eben hineinsehn; – wovon soll er denn nachher wissen, daß ich darin gewesen bin? – Es muß doch irgendeinen Grund haben, warum er es mir so strenge verboten hat, und den Grund hätte er mir sagen sollen, so wäre meine Folgsamkeit ein vernünftiger Gehorsam, aber so handle ich nur aus einer blinden Unterwürfigkeit; eine Art zu leben, wogegen sich mein ganzes Herz empört. – Ei, bin ich nicht eine Närrin, daß ich soviel überlege? Am Ende ist es eine Narrheit und gar nicht der Mühe 
+wert. Sie nimmt den Schlüssel. Nun, warum geh' ich denn nicht? – Wenn er aber zurückkäme, wenn ich in dem Gemach stecke? – Es ist Nacht, und ehe er die Treppen heraufkäme, wäre ich schon längst in meinem Zimmer; in einigen Tagen will er ja auch erst wiederkommen. – Er hätte seinen Schlüssel für sich behalten können, wenn ich nicht hinein sollte. Sie geht ab mit einem Lichte.
+
+
+
+Klaus und der Ratgeber treten auf.
+
+
+
+
+KLAUS.
+ Nun, wie gefällt es Euch hier?
+
+
+RATGEBER.
+ Ich weiß noch nicht, ich habe bis jetzt geschlafen, so müde bin ich gewesen. – Wie hell die Sterne scheinen!
+
+
+KLAUS.
+ Könnt Ihr in den Sternen lesen?
+
+
+RATGEBER.
+ Ich wollte, daß ich es gelernt hätte. Es muß des Nachts doch wohl eine angenehme Beschäftigung sein.
+
+
+KLAUS.
+ Man kann auch sein Schicksal daraus wissen.
+
+
+RATGEBER.
+ Je zuweilen.
+
+
+KLAUS.
+ Glaubt Ihr an Gespenster?
+
+
+RATGEBER.
+ O ja.
+
+
+KLAUS.
+ Jetzt ist grade die schauerliche Stunde.
+
+
+RATGEBER.
+ Wer jetzt umgehn will, für den ist es eben die wahre Zeit. – Darum will ich auch nur wieder zu Bette gehn.
+
+
+KLAUS.
+ Ich denke, Ihr habt nun ausgeschlafen.
+
+
+RATGEBER.
+ Bloß der Gespenster wegen; es ist nicht gut, wenn man sich jetzt wach finden läßt.
+
+
+KLAUS.
+ Nun, so geht.
+
+
+Eine Tür wird mit Gewalt zugeschlagen.
+
+
+
+
+RATGEBER.
+ Hörst du wohl? Er läuft schnell ab.
+
+
+
+Agnes tritt bleich und zitternd herein.
+
+
+
+
+KLAUS.
+ Was ist Euch, gnädige Frau? –
+
+
+AGNES.
+ Nichts, nichts – schaff mir doch ein Glas frisches Wasser. Klaus ab.
+
+
+
+AGNES
+
+sinkt in einen Sessel.
+
+ Leb' ich noch? – Wo bin ich? – Gott im Himmel! Wie schlägt mir das Herz – bis zum Halse hinauf. Klaus kommt mit Wasser.
+
+
+
+AGNES.
+ Stell es nur dorthin – ich kann jetzt noch nicht trinken; – geh, geh – mir fehlt nichts, gar nichts. – Geh! Klaus ab.
+
+
+
+AGNES.
+ Ich weiß nicht, wie ich wieder hierhergekommen bin. Sie trinkt. Jetzt wird mir besser. – Es ist finstre Nacht, die übrigen schlafen schon. Sie betrachtet den Schlüssel. Hier ist ein blutiger dunkelroter Flecken. – War der schon vorher da? – Ach nein, ich ließ ihn fallen; – alles um mich 
+her riecht noch nach Blut. Sie wäscht mit ihrem Schnupftuche den Schlüssel. Er will nicht fort, das ist doch seltsam. – O Neugier, verdammte schändliche Neugier, ich glaube, es gibt keine größere Sünde als die Neugier! – Oh, und mein Mann, wie kommt der mir jetzt vor? – Ach, ich muß zu Bette, mein armer Kopf ist ganz wüst. Aber die Schlüssel darf ich hier nicht so liegenlassen. – Gott sei Dank, daß der Flecken fort ist. – Ach nein! Ich armes Kind, auf dieser Seite ist er. Ich weiß nicht, was ich anfangen soll, ich will sehn, ob ich schlafen kann. Ab.
+
+
+
+
+
+
+
+
+
+4. Akt
+
+
+
+
+
+1. Szene
+
+
+
+
+Erste Szene
+
+Berners Schloß, Nacht.
+
+
+Agnes tritt mit einer Lampe auf, sie stellt sie auf einen Tisch und setzt sich daneben, dann nimmt sie den Schlüssel aus der Tasche.
+
+
+
+AGNES.
+ Immer will der Flecken noch nicht fort, ich habe schon den ganzen Tag gerieben, auf alle Art gewaschen, aber er bleibt. – Wenn ich so starr darauf hinblicke, so ist es, als wollte er sich verlieren, aber wenn ich die Augen nach andern Gegenständen richte und dann zu ihm zurückkehre, so ist er immer wieder da, und wie mich dünkt, dunkler als zuvor. Ich könnte sagen, ich hätte ihn verloren, aber das würde seinen Argwohn nur im höchsten Grade reizen. – Vielleicht fordert er mir den Schlüssel nicht gleich ab – vielleicht bemerkt er's auch nicht; – wenn ich ihn ihm gebe, will ich ihm die reine Seite hinreichen; wird er wohl darauf fallen, ihn so genau zu betrachten? – Es kann ja auch sein, daß der Flecken ausgeht, noch ehe er zurückkommt. – Ach, wenn mir der gütige Himmel doch so gnädig sein wollte.
+
+
+Anne tritt herein.
+
+
+
+
+ANNE.
+ Was ist dir, liebe Schwester?
+
+
+AGNES.
+ Und wenn es nun nicht geschieht? – Es fehlt nicht viel, so bilde ich mir ein, der Schlüssel weiß um alles und will zu meinem Unglücke nicht wieder rein werden.
+
+
+
+ANNE.
+ Schwester!
+
+
+AGNES.
+ Gott im Himmel! – Wer ist da?
+
+
+ANNE.
+ Wie du erschrickst! – Ich bin es.
+
+
+AGNES
+
+die schnell den Schlüssel verbirgt.
+
+ Dacht' ich nicht –
+
+
+ANNE.
+ Wie hast du dich seit vorgestern verändert, Agnes! – Sprich doch zu mir, deiner Schwester, die dich so außerordentlich liebt, du bist in einer Fieberhitze; – wie du glühst! – Sage doch, fehlt dir etwas?
+
+
+AGNES.
+ Nein, Schwester, komm, wir wollen wieder zu Bette gehn.
+
+
+ANNE.
+ Nein, es ist etwas mit dir vorgegangen, das wirst du mir nicht ausreden. – Warum willst du mir aber nicht trauen? Hab' ich dich schon je hintergangen? Hast du mich schon sonst einmal heimtückisch und ohne schwesterliche Liebe gefunden?
+
+
+AGNES
+
+weinend.
+
+ Niemals, niemals, du bist immer so gut – o viel, viel besser als ich.
+
+
+ANNE.
+ Nein, das nicht, ach, du hast oft von meinen Launen leiden müssen; vergib mir das. – Kannst du?
+
+
+AGNES.
+ Wie du sprichst!
+
+
+ANNE.
+ Ich habe dich nun seit vorgestern beobachtet – du sprichst nicht, du schleichst am Tage umher und verbirgst dich in einem Winkel – des Nachts schläfst du nicht, sondern seufzest so schwer; – teile mir deinen Kummer mit; wenn ich dich auch nicht trösten kann, so kann ich doch vielleicht mit dir deine Leiden tragen.
+
+
+AGNES.
+ Nun, so höre; – aber du wirst auf mich schelten –
+
+
+ANNE.
+ Nur, wenn du kein Zutrauen zu mir hast.
+
+
+AGNES.
+ Du hättest es auch vielleicht getan. – Du weißt, daß ich von Jugend auf gern etwas Neues sah und hörte; – diese unselige Sucht macht mich jetzt unglücklich, kostet mich gewiß mein Leben.
+
+
+ANNE.
+ Du erschreckst mich.
+
+
+AGNES.
+ Ich habe es nicht unterlassen können, gestern in der Nacht in das Zimmer zu gehn, das mir der Ritter zu sehn verboten hatte.
+
+
+ANNE.
+ Und?
+
+
+AGNES.
+ O wär' ich doch zurückgeblieben! Warum ist der menschliche Geist so eingerichtet, daß ein solches Verbot nur seinen Vorwitz schärft? – Ich weiß nicht, wie ich dir alle Umstände erzählen soll, denn sooft ich nur daran denke, überläuft mich immer noch ein kalter Schauer. – Ich schloß behutsam auf und hatte ein Licht in der Hand, ich nahm
+ mir vor, nur ein wenig hineinzusehn und dann sogleich wie der umzukehren. – Als ich also die Tür aufmachte, sah ich nichts als ein leeres Gemach, im Hintergrunde einen grünen Vorhang, wie vor einem Alkoven oder einem Schlafzimmer. – Ich konnte unmöglich wieder umkehren, der Vorhang sah so geheimnisvoll aus, es war mir, als wenn er sich bewegte, es war von dem Zugwinde, durch die offengelassene Tür. Im Gemach war ein drückender seltsamer Dunst. – Um recht vorsichtig zu sein, zog ich den Schlüssel ab, mit Schauern trat ich herein, und ich hatte eine heimliche Furcht, daß die Tür hinter mir zufallen könnte. – Nun näherte ich mich dem Vorhange, das Herz klopfte mir, ich kann dich versichern, nicht mehr aus Neugier. Ich schlug ihn mit der Hand zurück und sah immer noch nichts, denn das Licht warf nur einen schwachen unbedeutenden Schein hinein. – Ich trat also hinter den Vorhang; – und nun, Schwester, denke, fühle mein Entsetzen: An den Wänden standen fünf Knochengerippe umher – Blut färbte die Wände, Blut lag auf dem Boden. Ich hörte einen lauten Aufschrei im Fenster klingen, ich war es gewiß, die so schrie, der Schlüssel fiel mir aus der Hand, ich war betäubt, es klang, als wenn das Schloß zusammenfiele; – über den Gerippen standen Zettel mit dem Namen der Geschlachteten, und an welchem Tage sie für ihre Neugier bestraft worden sind – oder ob ich mir das nur nachher eingebildet habe, denn ich weiß nicht, wie ich zurückgekommen bin. – Auch die Letzte haben sie dort ermordet und in der Eil wahrscheinlich begraben. – O mit welchen Bildern ist seitdem meine Phantasie angefüllt! – Ich hatte den Schlüssel aufgenommen, er war in Blut gefallen. Nun war ich in der größten Angst, die Tür möchte sich zugeschlossen haben. Ich stürzte gegen den Vorhang mit einer Gewalt, als wenn ich einen Riesen hätte umwerfen wollen, und nun stand ich wieder in dem leeren Gemach. – O denke dir, Schwester, wenn ich die Nacht über in der Behausung hätte bleiben müssen! – Nun hätte der Mond in das Gemach des Jammers hineingeschienen – die Gerippe hätten sich vielleicht bewegt, oder ich hätte mir es wenigstens eingebildet; – ich wäre mit dem Kopf gegen die Mauer gelaufen, ich hätte meine wütenden Arme in die Knochengebäude verwickelt; – ich hätte mich mit dem Tode und Entsetzen wild herumgetummelt; – Denke dir, denke dir nur, Schwester, oh, über solche Vorstellungen kann man wahnsinnig werden.
+
+
+
+ANNE.
+ Fasse dich, Agnes, ich halte dich ja hier in meinen Armen.
+
+
+AGNES.
+ Was macht das? – Die Entsetzlichkeit ist doch nicht weit von uns, du darfst nur zu jener Tür hinaustreten, so liegt die andre vor dir. – O Schwester, was ist dies für ein Schloß.
+
+
+ANNE.
+ Kind, wir müssen fort, unsere Brüder müssen uns schützen. – Wenn nur die Alte nicht wäre.
+
+
+AGNES.
+ Sie hilft uns vielleicht.
+
+
+ANNE.
+ Armes Kind! Sie ist gewiß mit dem Bösewichte einverstanden.
+
+
+AGNES.
+ Gott, und sie ist so alt!
+
+
+ANNE.
+ Unglückliche Schwester! –
+
+
+AGNES.
+ Aber er kommt vielleicht nicht wieder, du machtest mich vorgestern noch mit diesem Gedanken traurig – oh, jetzt ist er fast mein einziger Trost. –
+
+
+ANNE.
+ Und wenn er nun zurückkommt? –
+
+
+AGNES.
+ Ach, Schwester, ich glaube, ich bin verloren! – Und die Alte sollte um alles wissen! Wie müßte ihr dabei zumute sein. – Ach, aber sie hat ein entsetzliches Wesen. – Wenn sie nun an alles denkt, wenn ihr die Blutkammer nun immer gegenwärtig ist, wie kann sie essen, trinken und schlafen, und er – er. – Sage mir, wie kann ein solches Ungeheuer aus dem Menschen werden! – Es ist alles wie ein fremdes Märchen, wenn ich es aus der Ferne ansehn; – und dann – daß ich im Mittelpunkte dieses entsetzlichen Gemäldes stehe! –
+
+
+ANNE.
+ Fasse dich nur, damit wenigstens die Rettung noch möglich, ist, damit nur dein Verstand nicht leidet.
+
+
+AGNES.
+ Er hat vielleicht schon gelitten. – Ach, Anne, es wäre schrecklich, wenn ich mir nur einbildete, daß du mich so schwesterlich tröstetest, wenn die Alte mir so wie du gegenüber säße. – Sie faßt sie an. Aber du bist es, nicht wahr?
+
+
+ANNE.
+ Agnes! Agnes! Tue dir selbst Gewalt an, laß den Wahnsinn fahren.
+
+
+AGNES.
+ Nein, du bist es selbst. – Sieh, diesen verräterischen Schlüssel, Tag und Nacht habe ich daran gearbeitet, diesen schrecklichen Fleck zu vertilgen, aber alles ist umsonst.
+
+
+ANNE.
+ Erhitze dich nicht noch mehr, sei gelassen.
+
+
+Mechthilde kommt mit einer Laterne.
+
+
+
+
+ANNE.
+ Seid Ihr auch schon so früh auf?
+
+
+MECHTHILDE.
+ Ja, ich bin schon das ganze Haus durchkrochen, denn ich habe eine Ahnung, daß unser Herr heut wiederkommt.
+
+
+
+AGNES.
+ Der Herr?
+
+
+MECHTHILDE.
+ Erschreckt Ihr doch ordentlich vor Freuden. – Aber wie kommt ihr beide schon so früh aus den Federn?
+
+
+ANNE.
+ Meiner Schwester ist nicht wohl –
+
+
+MECHTHILDE.
+ Nicht wohl? Ihr seid auch ganz blaß; ei, das wird dem Ritter nicht lieb sein. – Ich will, mich zu euch setzen, denn mit dem Schlafen ist es jetzt doch vorbei. Wenn es einmal so früh geworden ist, schlaft man nicht leicht wieder ein.
+
+
+AGNES.
+ Setzt Euch. –
+
+
+MECHTHILDE.
+ Wir wollen uns Märchen zur Kurzweil erzählen, das hält die Augen hübsch offen, besonders wenn sie etwas fürchterlich sind.
+
+
+ANNE.
+ Ich weiß keine, erzählt Ihr uns etwas.
+
+
+MECHTHILDE.
+ Seht, da geht der liebe Mond schon unter, nun wird der Himmel recht schwarz und finster. – Eure Lampe geht ja auch aus, ich will meine Laterne auf den Tisch stellen. – Ich weiß auch nicht viel, und Erzählen ist sonst nicht meine Sache. – Seht, es wohnte ein Förster einmal in einem dichten, dichten Wald; der Wald war so dicht, daß der Sonnenschein nur immer in kleinen Stückchen herunterfallen konnte; wenn das Jagdhorn geblasen ward, so klang das fürchterlich. In der dichtesten Gegend des Forstes lag nun grade das Haus des Jägers. – Die Kinder wuchsen in der Wildnis auf und sahen gar keine Leute als ihren Vater, denn die Mutter war schon seit langem gestorben.
+Um eine gewisse Jahreszeit traf sich's immer, daß der Vater sich den ganzen Tag im Hause eingeschlossen hielt, und dann hörten die Kinder ein seltsames Rumoren um das Haus herum, ein Winseln und Jauchzen, in summa: ein Gelärm wie vom leibhaftigen Satanas. Man brachte dann die Zeit in der Hütte mit Singen und Beten zu, und der Vater warnte die Kinder, ja nicht hinauszugehn.
+Es traf sich aber, daß er auf eine Woche, in die der Tag grade fiel, verreisen mußte. Er gab die strengsten Befehle, aber das Mädchen, teils aus Neugier, teils weil sie den Tag aus Unachtsamkeit vergessen hatte, geht aus der Hütte heraus. – Nicht weit vom Hause lag ein grauer stillstehender See, um den uralte verwitterte Weiden standen. Das Mädchen setzt sich an den See, und indem sie hineinsieht, ist es ihr, als wenn ihr fremde bärtige Gesichter entgegensehn; da fangen die Bäume an zu rauschen, da ist es, als wenn es in der Ferne geht, da kocht das Wasser und wird schwarz und 
+immer schwärzer; – mit einem Male ist es, als wenn so Frösche darin umherhüpfen, und drei blutige, ganz blutige Hände tauchen sich hervor und weisen mit dem roten Zeigefinger nach dem Mädchen hin –
+
+
+AGNES.
+ Blutig? – Schwester! Um Gottes willen, sieh die alte Hexe, wie sie ihr Gesicht verzogen hat! Sieh, Schwester!
+
+
+MECHTHILDE.
+ Kind, was ist dir?
+
+
+AGNES.
+ Blutig, sagst du? – Ja, blutig! – Willst du fort! Ich kenne dich nicht mehr, ich mag dein grinsendes Antlitz mir nicht mehr gegenüber, fort! – Solange ich noch hier zu befehlen habe, sollst du mir gehorchen.
+
+
+Mechthilde geht brummend ab.
+
+
+
+
+ANNE.
+ Schwester, mäßige dich doch.
+
+
+AGNES.
+ Du hast es nicht gesehn, wie sie sich unter der Erzählung verwandelte.
+
+
+ANNE.
+ Du bist erhitzt, das sind lauter Einbildungen von dir.
+
+
+AGNES.
+ Nun, warum spricht sie auch von Blut? – Ich kann das Wort nicht hören, ohne toll zu werden.
+
+
+ANNE.
+ Du mußt dich notwendig noch zu Bette legen, Schlaf muß dich abkühlen. – Komm! Sie gehn ab.
+
+
+
+
+
+
+
+
+
+2. Szene
+
+
+
+
+Zweite Szene
+
+Die Burg Friedheim.
+
+
+Simon mit einer Fackel.
+
+
+
+SIMON.
+ Der Mond ist schon unter. – Er muß aufstehn, er mag wollen oder nicht, denn ich weiß es nun gewiß. – Er kann mir nun nichts mehr einwenden. Er pocht an eine Tür. Anton! Anton! Ermuntre dich!
+
+
+ANTON
+
+inwendig.
+
+ Wer ist da?
+
+
+SIMON.
+ Ich, Simon, dein Bruder, steh schnell auf, ich habe mit dir etwas Notwendiges zu sprechen.
+
+
+ANTON.
+ Stört dein Wahnsinn jetzt sogar die Ruhe der Mitternacht?
+
+
+SIMON.
+ Sprich nicht so, Bruder, es wird dich gereuen. – Ich glaube, er ist wieder eingeschlafen. – Auf! Auf! Ermuntre dich!
+
+
+ANTON.
+ Wirst du des Rasens nicht müde werden?
+
+
+SIMON.
+ Schimpfe, soviel du willst, nur steh auf. – Steh auf! Ich lasse dir doch nicht eher Ruhe, Bruder.
+
+
+Anton tritt im Schlafkleide auf.
+
+
+
+
+
+ANTON.
+ Sage mir nur, was du willst.
+
+
+SIMON.
+ Bruder, ich habe die ganze Nacht nicht schlafen können –
+
+
+ANTON.
+ Nun – ich schlief desto besser.
+
+
+SIMON.
+ Du siehst, daß jetzt meine Prophezeiungen oder Ahnungen, du magst es nennen, wie du willst, etwas mehr ein treffen als sonst.
+
+
+ANTON.
+ Deine Narrheit anzuhören, hab' ich also aufstehn müssen?
+
+
+SIMON.
+ Ich hab's vorhergesagt, daß unser Bruder die Tochter des Ritters Hans von Marlof entführt habe, und gestern abend war der alte Mann noch hier.
+
+
+ANTON.
+ Das konnte jedermann erraten.
+
+
+SIMON.
+ Und in dieser Nacht hab' ich unsre Schwester unaufhörlich weinen sehn, und ich habe mich beständig mit dem Blaubart herumgestochen.
+
+
+ANTON.
+ Und was folgt daraus?
+
+
+SIMON.
+ Sie ist in Lebensgefahr, ich versichere es dir, Bruder, der Blaubart ist ein Bösewicht, wie, kann ich nicht wissen, aber genug, daß er es ist. – Wenn aber nur die Möglichkeit nicht zu leugnen ist, so mußt du mich anhören, und die kannst du doch nicht leugnen, oder wenn du es tust, so bist du unsinnig.
+
+
+ANTON.
+ Gute Nacht, Bruder.
+
+
+SIMON.
+ Bruder, ist es nicht genug, daß du deine Schwester an einen solchen Verworfenen verschleudert hast? Willst du sie mm auch noch schändlicherweise in der höchsten Not ihres Lebens verlassen? Bist du bloß deswegen ihr Bruder, um ihr Verräter zu sein? – Anton, erweiche einmal dein brüderliches Herz, sie sieht jetzt vielleicht mit Sehnsucht aus dem Fenster des Schlosses nach der Gegend hierher, sie wünscht vielleicht, daß ihre tiefen Seufzer uns beide allgewaltig hinziehen könnten, sie klagt über uns. – Wir hätten sie überdies schon einmal besuchen sollen; – wir finden sie nachher vielleicht tot, blaß auf der Bahre ausgestreckt –
+
+
+ANTON.
+ Aber wie kommst du nur darauf?
+
+
+SIMON.
+ Meine ganze Phantasie ist von diesen betrübten Vorstellungen angefüllt; ich kann nichts Frohes denken und träumen; ich sinne nur Tod, ich habe keine Ruhe, bis ich diesen Peter mit dem Schwerte unter mich gebracht habe. – Komm, mich dünkt, ich höre unsre Schwester, so weit es auch ist. – Wie bald sind unsre Pferde gesattelt – wie bald können wir dort sein!
+
+
+
+ANTON.
+ Das Tollste bei der Tollheit, ist, daß sie vernünftige Menschen ansteckt.
+
+
+SIMON.
+ Du wirst sehn, daß ich mich nicht irre.
+
+
+ANTON.
+ Ich begreife selbst nicht, warum ich dir nachgebe.
+
+
+SIMON.
+ Zieh dich im, ich sattle indes die Pferde, diese Fackel leuchtet uns noch, bis die Sonne aufgeht. Nach verschiedenen Seiten ab.
+
+
+
+
+
+
+
+
+
+3. Szene
+
+
+
+
+Dritte Szene
+
+Wald.
+
+
+Leopold von Friedheim und Brigitte auf dem Boden gelagert.
+
+
+
+BRIGITTE.
+ Wird denn die Sonne noch nicht bald aufgehn?
+
+
+LEOPOLD.
+ Das verwünschte Verirren! – Und mein Knecht behauptet, daß er die Wege genau wisse!
+
+
+BRIGITTE.
+ Wie ist Euch, Ritter?
+
+
+LEOPOLD.
+ Nenne mich doch du, Liebe.
+
+
+BRIGITTE.
+ Der Mond ging recht betrübt unter.
+
+
+LEOPOLD.
+ Zu meinem Bruder darf ich nicht zurück, denn dort sucht mich dein Vater gewiß zuerst.
+
+
+BRIGITTE.
+ Jetzt bist du meine einzige Hoffnung.
+
+
+LEOPOLD.
+ Und Mädchen, so, wie ich dich liebe, könnte dich doch niemand anders lieben.
+
+
+BRIGITTE.
+ Ist es gewiß wahr, Leopold?
+
+
+LEOPOLD.
+ Bei meiner Seele! Beim Himmel!
+
+
+BRIGITTE.
+ Nun, dann will ich meinen armen alten Vater etwas mehr zu vergessen suchen. Ich weiß nicht, was mich so unwiderstehlich nach dir zog, ich hatte nur Gelenke und Bewegung, um vorwärts zu gehn, aber keine, um zurückzubleiben.
+
+
+LEOPOLD.
+ Wir müssen nun auf dem ersten Schlosse einkehren, das wir antreffen.
+
+
+BRIGITTE.
+ Und sobald der Segen über uns gesprochen ist, gehn wir zu meinem Vater zurück. Nicht wahr, Leopold?
+
+
+LEOPOLD.
+ Wie du willst, liebes Mädchen.
+
+
+BRIGITTE.
+ Mich dünkt, der Tag graut schon.
+
+
+LEOPOLD.
+ Nun, so wollen wir nach unsern Pferden sehn und gleich wieder aufsitzen. – Komm, die Büsche sind hier etwas verworren, ich will dir durchhelfen. Sie gehn ab.
+
+
+
+Hans von Marlof und Kaspar kommen.
+
+
+
+
+HANS.
+ Hörtest du nicht Stimmen, Kaspar?
+
+
+
+KASPAR.
+ Es klang mir auch so vor den Ohren, vielleicht sind's Unholde.
+
+
+HANS.
+ Du bist abergläubisch, Kaspar.
+
+
+KASPAR.
+ Die ganze Nacht ist mir so unheimlich gewesen. – Nun, den wilden Jäger müßt Ihr ja so gut gehört haben wie ich. – Und daß uns unsre beiden Pferde umgefallen sind, ist doch wohl auch kein gutes Zeichen.
+
+
+HANS.
+ Sind sie denn beide tot?
+
+
+KASPAR.
+ Mausetot.
+
+
+HANS.
+ Die treuen Tiere! – Wir haben ihnen auch zuviel zugemutet, sie hatten nicht Ruhe gering, sie sind an ihrem treuen Dienste gestorben.
+
+
+KASPAR.
+ Wenn es nur erst wieder vollends Tag wäre, daß man sehen könnte, wo man wäre.
+
+
+HANS.
+ Was hilft es, daß es Tag wird, wenn ich meine Tochter, meinen einzig wahren Tag nicht wiederfinde.
+
+
+KASPAR.
+ Ach!
+
+
+HANS.
+ Worüber seufzest du?
+
+
+KASPAR.
+ Ich kann es immer nicht vergessen, daß ich schuld daran bin.
+
+
+Reinhold kommt bewaffnet.
+
+
+
+
+REINHOLD.
+ Ich höre hier Stimmen. – Wer ihr auch sein mögt, könnt ihr mir nicht hier aus der Irre helfen?
+
+
+KASPAR.
+ Wir sind selbst verirrt.
+
+
+REINHOLD.
+ Ich suche den Weg nach Marlof.
+
+
+HANS.
+ Da trefft Ihr niemand zu Hause, da ist jetzt alles verwaist.
+
+
+REINHOLD.
+ Ihr erschreckt mich; – sagt mir nur, wie – ich muß hin.
+
+
+HANS
+
+ihm näher tretend.
+
+ Was habt Ihr denn auf Marlof zu suchen, junger Mann, wenn eine Frage vergönnt ist? – O lieber Gott im Himmel! Kaspar! Ich bin verrückt, oder das ist mein Sohn Reinhold.
+
+
+REINHOLD.
+ Wie? – Seid Ihr mein Vater? – Lieber Vater, seh' ich Euch wieder? Umarmt ihn.
+
+
+
+HANS.
+ Bester, teuerster Sohn- und deine Schwester –
+
+
+REINHOLD.
+ Ist wohl?
+
+
+HANS.
+ Wohl; zu wohl! Auf und davon, und ich alter Narr jage ihr nach.
+
+
+REINHOLD.
+ Aber Ihr seid doch noch gesund? – lind Anne, lebt sie noch?
+
+
+HANS.
+ Sie lebt.
+
+
+REINHOLD.
+ Und verheiratet?
+
+
+
+HANS.
+ Nein, sie ist Jungfrau.
+
+
+REINHOLD.
+ Nun, dann sei Gott gedankt!
+
+
+HANS.
+ Fragst du gleich nach der und hast kaum deinen alten Vater recht angesehn.
+
+
+KASPAR.
+ Er ist noch braver und schöner geworden, Herr.
+
+
+REINHOLD.
+ Guten Morgen, Kaspar.
+
+
+KASPAR.
+ Wollte Gott, es träfe uns hier ein guter Morgen.
+
+
+REINHOLD.
+ Wieso?
+
+
+KASPAR.
+ So würden wir uns doch ans den verfluchten Gebüschen herausfinden können.
+
+
+REINHOLD.
+ Die Landstraße ist ja nur drei Schritte von hier, mein Pferd steht dort.
+
+
+KASPAR.
+ Nun seht nur, Herr, was die Blindheit tut, und wir suchen sie schon seit zwei Stunden mit Händen und Füßen. – Glaubt Ihr noch nicht, daß wir behext gewesen sind?
+
+
+HANS.
+ Ich kann mich in der Freude noch gar nicht finden; ich glaubte immer, du wärest tot, mein Sohn – und nun – und so unverhofft –
+
+
+REINHOLD.
+ Wo ist Euer Pferd?
+
+
+HANS.
+ Tot!
+
+
+REINHOLD.
+ Nun, so setzt Euch auf das mehlige, ich gehe neben Euch her, und so erzählen wir uns unsere Geschichte. – Wir müssen doch bald irgendein Schloß antreffen, und da hören wir vielleicht Nachrichten von meiner Schwester, auch könnt Ihr da wieder ein Pferd bekommen. Sie gehn ab.
+
+
+
+
+
+
+
+
+
+4. Szene
+
+
+
+
+Vierte Szene
+
+Oben auf dem Dache von Berners Schloß, an der einen Seite ist ein Pavillon, auf dessen Spitze ebenfalls Stufen führen.
+
+
+Anne und Agnes.
+
+
+
+ANNE.
+ Wie schön die Sonne aufgegangen ist!
+
+
+AGNES.
+ Das kann mich nicht trösten.
+
+
+ANNE.
+ Sieh, wie der frische rote Strahl zwischen den lernen Bergen liegt – wie die Gegend nach und nach in den Morgenglanz hineintritt!
+
+
+AGNES.
+ Ach, Anne!
+
+
+ANNE.
+ Was ist, Schwester?
+
+
+AGNES.
+ Ich wollte, er kehrte nicht zurück. – Du hast mich seit gestern abend so verwöhnt, daß ich immer zusammenfahre, wenn du nicht im zärtlichsten Tone mit mir sprichst. In der 
+Krankheit sowie im Unglück werden wir gar zu leicht verzogene Kinder.
+
+
+ANNE.
+ Ich meine es gewiß gut mit dir.
+
+
+AGNES.
+ Das weiß ich, und das hält mich auch noch aufrecht. – Hörst du nicht Musik?
+
+
+ANNE.
+ Nein.
+
+
+AGNES.
+ Es kommt von der Waldecke dort.
+
+
+ANNE.
+ Du bist übermüdet, und davon klingt es dir vielleicht in den Ohren.
+
+
+AGNES.
+ Nein, ich höre die Trompeten gar zu deutlich.
+
+
+ANNE.
+ Jetzt höre ich es auch.
+
+
+AGNES.
+ O mein Herz klopft gar zu ungestüm – sie sind's gewiß. – Indessen will ich mich fassen, es wird vielleicht nicht so böse werden, wie ich glaube; in der Angst übertreiben wir nur gar zu leicht vor uns selber – nicht wahr, liebe Schwester?
+
+
+ANNE.
+ Natürlich.
+
+
+AGNES.
+ Es kommt immer näher, es ist mein Mann – ich kann schon die Fahnen erkennen.
+
+
+ANNE.
+ Sie sind's. Fehlmusik näher, der Zug geht unten an der Burg vorbei.
+
+
+
+PETER.
+ Sieh da, meine Gemahlin! – Guten Morgen, Agnes!
+
+
+AGNES.
+ Guten Morgen!
+
+
+PETER.
+ Bleibt oben, ich komme hinauf. Der Zug verliert sich in die Tore.
+
+
+
+AGNES.
+ Er kommt herauf! Er war es wirklich!
+
+
+ANNE.
+ Nimm dich zusammen, liebe Schwester, es kann noch alles gut werden.
+
+
+AGNES.
+ Das Leben ist mir fast zuwider geworden, und doch kann ich vor nichts anderm als vor dem Tode zittern. Ich begreife mich selber nicht.
+
+
+Peter Berner kommt herauf.
+
+
+
+
+PETER.
+ Und schon so früh bist du wach?
+
+
+AGNES.
+ Ich hatte eine Ahnung, daß du kommen würdest.
+
+
+PETER.
+ Ich komme eher zurück, als ich vermuten konnte, der Feind hatte sich anders besonnen, und so rückte ich nur ins Feld, um einen vorteilhaften Frieden zu schließen.
+
+
+AGNES.
+ Das Glück begleitet dich allenthalben.
+
+
+PETER.
+ Meinst du? – Und wie hast du gelebt unterdessen?
+
+
+AGNES.
+ Ganz wohl.
+
+
+PETER.
+ Mich dünkt, du siehst blaß aus.
+
+
+AGNES.
+ Weil wir heut so früh aufgestanden sind.
+
+
+Mechthilde kommt herauf.
+
+
+
+
+PETER.
+ Kommst du auch heraufgekrochen, alter Hausdrache?
+
+
+
+MECHTHILDE.
+ Ich muß Euch doch wohl Glück wünschen, Herr Ritter.
+
+
+PETER.
+ Ich danke dir.
+
+
+MECHTHILDE.
+ Das Frühstück ist auch fertig.
+
+
+PETER.
+ Schon gut. – Es ist eine schöne Aussicht von hier oben; wenn man aber so hoch steht, muß man sich immer in acht nehmen, daß man nicht Lust bekommt, hinunterzuspringen.
+
+
+ANNE.
+ Ein Frauenzimmer denkt an so etwas nicht, aber mein Bruder Simon konnte stundenlang darüber sprechen.
+
+
+AGNES.
+ Hier sind auch die Schlüssel – doch ich will sie dir lieber nachher geben.
+
+
+PETER.
+ Schon gut; – und du hast alles besehn?
+
+
+AGNES.
+ Mit vielen Freuden, ich habe mich recht an den Kostbarkeiten ergötzt.
+
+
+PETER.
+ Gib sie mir doch lieber jetzt.
+
+
+AGNES.
+ Hier. – Den goldnen behalte ich noch zurück.
+
+
+PETER.
+ Wozu denn?
+
+
+AGNES.
+ Zum Angedenken.
+
+
+PETER.
+ Närrchen.
+
+
+AGNES.
+ Nein, ich gebe ihn dir im Ernst noch nicht zurück, ich will deine Ungeduld einmal auf die Probe stellen.
+
+
+PETER.
+ Ich werde leicht ungeduldig.
+
+
+AGNES.
+ Und doch ist unsre Ehe noch zu jung, als daß wir uns jetzt schon zanken sollten.
+
+
+PETER.
+ Nach dem Zank folgt eine desto angenehmere Versöhnung.
+
+
+AGNES.
+ Du traust mir gewiß nicht recht; und siehst du, lieber Mann, darum will ich dir zum Possen den Schlüssel noch zurückbehalten.
+
+
+PETER.
+ Meinetwegen. – Aber du gibst ihn mir doch, wenn ich recht ernstlich darum bitte.
+
+
+AGNES.
+ Wenn ich es dir nun abschlage!
+
+
+PETER.
+ Je nun, so magst du ihn ganz behalten.
+
+
+AGNES.
+ Ich habe dich noch nicht bei so guter Laune gesehn.
+
+
+PETER.
+ Mir ist heut wohl, es geht mir alles nach Wunsch. – Nun, kindische Frau, gib mir den Schlüssel.
+
+
+AGNES.
+ Hier –
+
+
+PETER.
+ Nun gut – wir wollen hinuntergehn und frühstücken.
+
+
+MECHTHILDE.
+ Kommt, gnädiger Herr.
+
+
+PETER.
+ Was fehlt dir denn? Mit dem Schlüssel spielend.
+
+
+
+AGNES.
+ Nichts. – Wollen wir gehn?
+
+
+PETER.
+ Was ist denn das hier für ein Fleck?
+
+
+AGNES.
+ Ein Fleck? – Ist der vielleicht jetzt hinaufgekommen?
+
+
+
+PETER.
+ Jetzt? – Heuchlerische Schlange. O Agnes, ich dachte nicht, dich so schnell wieder zu verlieren. So geschwinde hat mich noch keins meiner Weiber verlassen, denn mein Befehl galt ihnen immer doch in den ersten Wochen etwas, und du –
+
+
+AGNES.
+ Ihr erzürnt Euch!
+
+
+PETER.
+ Verfluchte Neugier! – Er wirft zornig den Schlüssel hin. Durch dich kam die erste Sünde in die unschuldige Welt, und immer noch lenkst du den Menschen zum Verbrechen. Seit Eva neugierig war, sind es alle ihre nichtswürdigen Töchter, keine, keine ausgenommen. – Wehe dem betrogenen Mann, der sich auf eure falsche Zärtlichkeit, auf eure unschuldigen Augen, auf euren Händedruck verläßt! Betrug ist euer Handwerk; und um bequemer betrügen zu können, seid ihr schön. Man sollte euer ganzes Geschlecht von der Erde vertilgen. – Das Weib, das neugierig ist, kann ihrem Mann nicht treu sein, der Mann, der ein neugieriges Weib hat, ist in keiner Stunde seines Lebens sicher. Neugier ist die Sünde, die jede andre nach sich zieht, denn der Verbrecher sieht kein Ende, keinen Augenblick, wo er mit seinen Erfahrungen stillestehn könnte. Die Neugier hat die entsetzlichsten Mordtaten hervorgebracht, sie war der Sturz der bösen Engel, sie verwandelt die beste Natur in eine schändliche. – O ich will kein Wort mehr sprechen, denn es ist doch nur verschwendeter Atem; dies Laster wird die Welt immer noch beherrschen. – Gut, du hast dir selbst dein Schicksal gewählt.
+
+
+AGNES.
+ Ihr seid mir fürchterlich, erbarmt Euch meiner.
+
+
+PETER.
+ Alte, nimm den Schlüssel auf.
+
+
+MECHTHILDE.
+ Ich soll wohl das Kabinett aufschließen? – Gut. – Nun seht Ihr, nun kommt Ihr ja immer noch früh genug in die Kammer. Ab.
+
+
+
+AGNES
+
+kniet nieder.
+
+ Habt Mitleid! Vergebt mir meinen Vorwitz, es soll Euch nicht gereuen, ich will Euch mit aller meiner Liebe dafür lohnen.
+
+
+PETER.
+ Wenn ich Euch nicht kennte! Ihr verabscheut mich jetzt, Ihr würdet entfliehn, sobald sich nur eine Gelegenheit zeigte.
+
+
+AGNES.
+ So jung, und ich soll schon eines so schrecklichen Todes sterben? – O verstoßt mich als Eure Gattin und laßt mich als eine Magd hier dienen, laßt mich der Alten untertänig sein, nur schenkt mir das Leben.
+
+
+PETER.
+ Alle deine Bitten sind vergebens, es ist gegen mein Gelübde.
+
+
+
+ANNE
+
+kniet nieder.
+
+ Seid meiner Schwester gnädig, und wir wollen Euch beide als eine Gottheit verehren. Seht die Angst des armen Mädchens, laßt Euch meine Tränen zu Herzen gehn.
+
+
+PETER.
+ Alles ist umsonst.
+
+
+AGNES.
+ Jede Bitte ist vergebens?
+
+
+PETER.
+ Bei Gott!
+
+
+AGNES
+
+steht schnell auf.
+
+ Nun, so steh auf, Schwester, entweihe deine Knie nicht länger, und so höre mich denn noch zuletzt, du kaltblütiges, blutdürstiges Ungeheuer, höre, daß ich dich verabscheue, daß jeder Mensch dich verabscheuen muß.
+
+
+ANNE.
+ Wären nur noch zwei Mädchen hier, so wollten wir dir mit unsern Nägeln die kleinen blinzelnden grauen Augen auskratzen.
+
+
+AGNES.
+ Widerliches Untier! Kein Mensch, sondern eine Mißgeburt. Als deine Mutter dich geboren hatte, hätte sie dich wie einen jungen Hund ersäufen sollen, damit du nicht Unglück in die Welt gebracht hättest.
+
+
+PETER.
+ Hoho! Was hält mich denn ab, euch beide von hier oben hinunterzustürzen? – Besinnet euch doch, ihr seid ja toll! – Ist das eine Sprache für Mädchen? – Nun komm, Agnes, unten ist aufgeschlossen.
+
+
+AGNES.
+ Und es ist also dein Ernst? – O weh, ich kann nicht mehr, meine Kräfte sind erschöpft.
+
+
+PETER.
+ Komm!
+
+
+AGNES.
+ Ein Gebet zum Himmel zu senden – soviel Zeit wirst du mir doch noch übriglassen?
+
+
+PETER.
+ Aber mach schnell, ich warte unten auf dich. Ab.
+
+
+
+AGNES.
+ Ach, Schwester, wäre es nicht ebensogut, wenn ich jetzt gleich hier hinunterspränge? – Aber mir fehlt der Mut. Sie kniet nieder. Ich will beten. – Wenn doch jetzt meine Brüder kämen. – Schwester, sieh doch einmal ins Feld hinaus; es wäre ja doch möglich. – Ach! Kein Gedanke zum Himmel! – Siehst du nichts?
+
+
+PETER
+
+von unten.
+
+ Agnes!
+
+
+AGNES.
+ Sogleich.
+
+
+ANNE.
+ Ich sehe nichts als Feld und Bäume, alles ruhig, kein Wind regt sich. Die Bäume hindern hier etwas die Aussicht.
+
+
+AGNES.
+ Wenn du nicht schwindelig würdest, wollte ich dich wohl bitten, auf den Pavillon hinaufzusteigen – aber falle ja nicht. – Siehst du noch nichts?
+
+
+PETER.
+ Agnes!
+
+
+
+AGNES.
+ Den Augenblick!
+
+
+ANNE.
+ Nichts, Bäume, Felder, und die Lull schlägt, auf dem Boden kleine Wellen, so wann scheint, die Sonne.
+
+
+AGNES.
+ Ach, und ich kann nicht beten; immer ruf ich innerlich wider meinen Willen: Simon! Anton! Als wenn mir dadurch geholfen würde.
+
+
+PETER.
+ Agnes, du machst mich ungeduldig.
+
+
+AGNES.
+ Nur noch ein klein Gebet. – Siehst du noch nichts?
+
+
+ANNE.
+ Ich sehe Staub aufsteigen.
+
+
+AGNES.
+ Wohl! Wohl!
+
+
+ANNE.
+ Weh! Weh! Es ist eine Herde Schafe.
+
+
+AGNES
+
+steht auf.
+
+ Bin ich aber nicht auch eine Törin, auf etwas Unmögliches zu hoffen? Ich will mich in mein Schicksal ergeben, und der Tod ist mir jetzt lieb. Komm herunter, Schwester, ich will Abschied von dir nehmen.
+
+
+ANNE.
+ Still! Ich sehe einen Reiter –
+
+
+AGNES.
+ Wie? Sollt' es möglich, sein?
+
+
+ANNE.
+ Er stürzt wie ein Blitz den Berg herunter –
+
+
+AGNES.
+ O Gott!
+
+
+PETER.
+ Agnes, jetzt komm' ich hinauf.
+
+
+AGNES.
+ Ich bin schon auf dem Wege zu Euch, meine Schwester umarmt mich nur noch einmal.
+
+
+ANNE.
+ Er kommt immer näher und näher.
+
+
+AGNES.
+ Kennst du ihn nicht?
+
+
+ANNE.
+ Nein; – doch – es ist Simon. – Er weht mit dem Taschentuche. Sie läßt ihr Tuch wehen.
+
+
+
+AGNES.
+ Wie ist mir? – Ich weiß nicht mehr, ob ich lebe oder tot bin.
+
+
+ANNE.
+ Er ist schon ganz nahe!
+
+
+AGNES.
+ Welch ein seltsamer Traum! – Wenn ich doch erst erwacht wäre! Sie sinkt nieder.
+
+
+
+PETER.
+ In Teufels Namen, Agnes! –
+
+
+ANNE.
+ Braver Bruder! Getümmel unten.
+
+
+
+PETER.
+ Was ist denn das? – Ich glaube, die Burg steht offen? – Ha! Was willst du, Bösewicht? Gefecht.
+
+
+
+Simon stürzt herauf, findet Agnes, nimmt sie in seine Arme, küßt sie und eilt so mit ihr davon. Anne folgt.
+
+
+
+
+
+
+
+
+
+5. Szene
+
+
+
+
+
+
+Fünfte Szene
+
+Saal.
+
+
+Agnes auf einem Sofa, Simon neben ihr; Anne.
+
+
+
+SIMON.
+ Sie schlägt die Augen wieder auf, Gott sei Dank!
+
+
+ANNE.
+ Ist er tot?
+
+
+SIMON.
+ Dieser Degen war in seiner Brust. Wie mir leicht ist! – Die Alte hat sich zum Fenster hinausgestürzt.
+
+
+ANNE.
+ Ist dir auch wohl, Bruder? – Wie du geritten bist!
+
+
+SIMON.
+ Wie Gottes Strafgericht, ich begreife noch nicht, wie ich hierhergekommen bin – und als ich eurer Burg erst ansichtig ward, als ich gar erst dein Taschentuch wehen sah, da stürzt' ich immer schneller und schneller, mir vergingen unter dem Sausen der Luft alle Gedanken.
+
+
+AGNES.
+ Wo bin ich? – Ach Gott! Simon! Du bist wirklich da? – Wo bist du hergekommen? – Wo ist der Ritter?
+
+
+SIMON.
+ Sei ruhig, Schwester, er ist tot, du bist nun außer aller Gefahr.
+
+
+AGNES.
+ Wie hat sich alles so schnell geändert! – Simon, mein Beten zu dir war doch nicht umsonst.
+
+
+SIMON.
+ Tröste dich nur und fasse deine Vernunft wieder zusammen.
+
+
+Anton tritt ein.
+
+
+
+
+ANTON.
+ Und es ist doch wahr gewesen? – O meine Schwester! – Bruder, da hast du einen braven Streich gemacht.
+
+
+SIMON.
+ Das Schloß war durch einen Zufall offen, sonst wäre doch alles vergebens gewesen.
+
+
+ANNE.
+ Er ist erst heut von einem Zuge zurückgekommen, und da waren alle Knechte noch voller Freude.
+
+
+SIMON.
+ Künftig tadle meine Ahnungen nicht und sprich nicht von Raserei. – Kam ich nur einen Augenblick später, so war es zu spät.
+
+
+Leopold und Brigitte treten auf.
+
+
+
+
+LEOPOLD.
+ Guten Tag, Brüder, ihr mögt nun wollen oder nicht, so müßt ihr mich mit meiner Geliebten schützen.
+
+
+SIMON.
+ Von Herzen gern. – Es wird aber gar nicht nötig sein, das sagen mir meine Ahnungen.
+
+
+LEOPOLD.
+ Nun, desto besser.
+
+
+SIMON.
+ Ich muß gehn und das ganze Schloß in Augenschein nehmen. Ab.
+
+
+
+BRIGITTE.
+ Wie mir wohl ist, daß wir doch wieder unter Menschen sind! – Ach, mein Vater! –
+
+
+
+Hans, Reinhold und Kaspar treten auf.
+
+
+
+
+HANS.
+ Du mein Kind? – Nein, es ist nicht wahr! – Ein Kind entläuft seinem alten Vater – nicht und du hast so mein graues Haar vergessen können? – Geh, das heißt Undank! – Und die Vorsicht vergessen!
+
+
+BRIGITTE.
+ Vater!
+
+
+REINHOLD.
+ Seh' ich recht? Anne – Sie umarmen sich.
+
+
+
+ANNE.
+ Reinhold!
+
+
+REINHOLD.
+ Immer hab' ich an dich gedacht, Tag und Nacht, du warst die Ursache, daß ich in mein Vaterland zurückkam. – O Vater, seht, wie glücklich ich bin, sie liebt mich noch, Ihr wolltet damals Eure Einwilligung nicht geben, und ich verließ Deutschland. – Laßt Euch jetzt erweichen.
+
+
+HANS.
+ Sei glücklich mit ihr. – Und du heißt Leopold? – Also doch kein Spielmann?
+
+
+LEOPOLD.
+ Nein, Vater.
+
+
+HANS.
+ Ziemlich vorlaut. – Indessen muß ich Gott danken, daß Ihr doch noch ein Ritter seid, ich hatte mir's noch schlimmer vermutet.
+
+
+REINHOLD.
+ Macht uns alle glücklich.
+
+
+HANS.
+ Du kommst von einer langen Reise zurück und hast also schon das Recht, ein Wort mehr zu sprechen. – Nun, da hast du mein Kind, Leopold, aber ihr müßt bei mir wohnen.
+
+
+LEOPOLD.
+ Mit Freuden.
+
+
+Simon, der Ratgeber und Klaus treten auf.
+
+
+
+
+SIMON.
+ Hier hab' ich noch vortreffliche Leute gefunden, die sich furchtsam in einen Winkel zusammengeduckt hatten. – Nun, Anton, du wirst wohl diese Burg in Besitz nehmen, ich bleibe bei dir mit diesen beiden weisen Männern.
+
+
+LEOPOLD.
+ Und ich besuche euch manchmal.
+
+
+ANTON.
+ Reinhold bewohnt dann unsre Burg mit unsrer Schwester, denn Agnes wird hier nicht gern bleiben wollen.
+
+
+AGNES.
+ Nein, fort, fort!
+
+
+RATGEBER.
+ Und Ihr verlangt doch nur selten Rat von mir?
+
+
+ANTON.
+ Wie meint Ihr?
+
+
+KLAUS.
+ Er ist Ratgeber gewesen und geht jetzt in Pension. – Wenn es mir erlaubt ist, vernünftig zu sein, ist es mir auch lieber und bequemer.
+
+
+SIMON.
+ Wir werden uns schon miteinander vertragen.
+
+
+ANTON.
+ Welch glücklicher, welch wunderbarer Tag! Alle ab.
+
+
+
+
+
+
+
+

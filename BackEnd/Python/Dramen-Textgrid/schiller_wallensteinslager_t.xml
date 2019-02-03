@@ -1,0 +1,2945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei n="/Literatur/M/Schiller, Friedrich/Dramen/Wallenstein/Wallensteins Lager" xml:id="tg1341" xmlns="http://www.tei-c.org/ns/1.0" xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<teiheader xmlns:a="http://www.textgrid.info/namespace/digibib/authors" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude">
+<filedesc>
+<titlestmt>
+<title>Wallensteins Lager</title>
+</titlestmt>
+<publicationstmt>
+<idno type="handle">hdl:11858/00-1734-0000-0004-C932-F</idno><idno type="TextGridUri">textgrid:txtj.0</idno><availability>
+<p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+<p>
+<ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+</p>
+<p>
+<ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+</p>
+<p>
+<ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+</p>
+</availability>
+</publicationstmt>
+<notesstmt>
+<note>
+                                 Entstanden 1796/98, Uraufführung am 12.10.1798 in Weimar.
+                              </note>
+</notesstmt>
+<sourcedesc>
+<biblfull>
+<titlestmt>
+<title>Friedrich Schiller: Sämtliche Werke, Auf Grund der Originaldrucke herausgegeben von Gerhard Fricke und Herbert G. Göpfert in Verbindung mit Herbert Stubenrauch, Band 1–5, 3. Auflage, München: Hanser, 1962.</title>
+<author key="pnd:118607626">Schiller, Friedrich</author>
+</titlestmt>
+<extent>275-</extent>
+<publicationstmt>
+<date>1962</date>
+<pubplace>München</pubplace>
+</publicationstmt>
+</biblfull>
+</sourcedesc>
+</filedesc>
+<profiledesc>
+<creation>
+<date notafter="1798" notbefore="1796"></date>
+</creation>
+<textclass>
+<keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+<term>drama</term>
+</keywords>
+</textclass>
+</profiledesc>
+</teiheader>
+<text>
+<front>
+<div type="front">
+<head type="h3" xml:id="tg1341.2.1">Wallensteins Lager</head>
+</div>
+</front>
+<body>
+<div n="/Literatur/M/Schiller, Friedrich/Dramen/Wallenstein/Wallensteins Lager/Personen" subtype="work:no" xml:id="tg1342">
+<div>
+<desc>
+<title>Personen</title>
+</desc>
+</div>
+<div type="text" xml:id="tg1342.2">
+<div type="Dramatis_Personae">
+<castlist>
+<head type="h4" xml:id="tg1342.2.1">
+<pb n="275" xml:id="tg1342.2.1.1"></pb>
+Personen.</head>
+<castgroup>
+<castitem rend="zenoPLm0n4" xml:id="tg1342.2.2">Wachtmeister,</castitem>
+<castitem rend="zenoPLm0n4" xml:id="tg1342.2.3">Trompeter, von einem Terzkyschen Karabinier-Regiment.</castitem>
+<lb xml:id="tg1342.2.4"></lb>
+<castitem rend="zenoPLm0n4" xml:id="tg1342.2.5">Konstabler.</castitem>
+<lb xml:id="tg1342.2.6"></lb>
+<castitem rend="zenoPLm0n4" xml:id="tg1342.2.7">Scharfschützen.</castitem>
+<lb xml:id="tg1342.2.8"></lb>
+<castitem rend="zenoPLm0n4" xml:id="tg1342.2.9">Zwei holkische reitende Jäger.</castitem>
+<lb xml:id="tg1342.2.10"></lb>
+<castitem rend="zenoPLm0n4" xml:id="tg1342.2.11">Buttlerische Dragoner.</castitem>
+<lb xml:id="tg1342.2.12"></lb>
+<castitem rend="zenoPLm0n4" xml:id="tg1342.2.13">Arkebusiere vom Regiment Tiefenbach.</castitem>
+<lb xml:id="tg1342.2.14"></lb>
+<castitem rend="zenoPLm0n4" xml:id="tg1342.2.15">Kürassier von einem wallonischen Regiment.</castitem>
+<lb xml:id="tg1342.2.16"></lb>
+<castitem rend="zenoPLm0n4" xml:id="tg1342.2.17">Kürassier von einem lombardischen Regiment.</castitem>
+<lb xml:id="tg1342.2.18"></lb>
+<castitem rend="zenoPLm0n4" xml:id="tg1342.2.19">Kroaten.</castitem>
+<lb xml:id="tg1342.2.20"></lb>
+<castitem rend="zenoPLm0n4" xml:id="tg1342.2.21">Ulanen.</castitem>
+<lb xml:id="tg1342.2.22"></lb>
+<castitem rend="zenoPLm0n4" xml:id="tg1342.2.23">Rekrut.</castitem>
+<lb xml:id="tg1342.2.24"></lb>
+<castitem rend="zenoPLm0n4" xml:id="tg1342.2.25">Bürger.</castitem>
+<lb xml:id="tg1342.2.26"></lb>
+<castitem rend="zenoPLm0n4" xml:id="tg1342.2.27">Bauer.</castitem>
+<lb xml:id="tg1342.2.28"></lb>
+<castitem rend="zenoPLm0n4" xml:id="tg1342.2.29">Bauerknabe.</castitem>
+<lb xml:id="tg1342.2.30"></lb>
+<castitem rend="zenoPLm0n4" xml:id="tg1342.2.31">Kapuziner.</castitem>
+<lb xml:id="tg1342.2.32"></lb>
+<castitem rend="zenoPLm0n4" xml:id="tg1342.2.33">Soldatenschulmeister.</castitem>
+<lb xml:id="tg1342.2.34"></lb>
+<castitem rend="zenoPLm0n4" xml:id="tg1342.2.35">Marketenderin.</castitem>
+<lb xml:id="tg1342.2.36"></lb>
+<castitem rend="zenoPLm0n4" xml:id="tg1342.2.37">Eine Aufwärterin.</castitem>
+<lb xml:id="tg1342.2.38"></lb>
+<castitem rend="zenoPLm0n4" xml:id="tg1342.2.39">Soldatenjungen.</castitem>
+<lb xml:id="tg1342.2.40"></lb>
+<castitem rend="zenoPLm0n4" xml:id="tg1342.2.41">Hoboisten.</castitem>
+<lb xml:id="tg1342.2.42"></lb>
+</castgroup>
+</castlist>
+</div>
+</div>
+</div>
+<div n="/Literatur/M/Schiller, Friedrich/Dramen/Wallenstein/Wallensteins Lager/1. Auftritt" subtype="work:no" xml:id="tg1343">
+<div>
+<desc>
+<title>1. Auftritt</title>
+</desc>
+</div>
+<div type="text" xml:id="tg1343.2">
+<div type="h4">
+<head type="h4" xml:id="tg1343.2.1">Erster Auftritt</head>
+<stage rend="zenoPC" xml:id="tg1343.2.4">
+<hi rend="italic" xml:id="tg1343.2.4.1">Marketenderzelte, davor eine Kram- und Trödelbude. Soldaten von allen Farben und Feldzeichen drängen sich durcheinander, alle Tische sind besetzt. Kroaten und Ulanen an einem Kohlenfeuer kochen, Marketenderin schenkt Wein, Soldatenjungen würfeln auf einer Trommel, im Zelt wird gesungen.</hi>
+</stage>
+<stage rend="zenoPC" xml:id="tg1343.2.5">
+<hi rend="italic" xml:id="tg1343.2.5.1">Ein Bauer und sein Sohn.</hi>
+</stage>
+<lb xml:id="tg1343.2.6"></lb>
+<sp who="bauerknabe">
+<speaker xml:id="tg1343.2.7">BAUERKNABE.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.8">Vater, es wird nicht gut ablaufen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.9">Bleiben wir von dem Soldatenhaufen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.10">Sind Euch gar trotzige Kameraden;</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.11">Wenn sie uns nur nichts am Leibe schaden.</l>
+</lg>
+</sp>
+<sp who="bauer">
+<speaker xml:id="tg1343.2.12">BAUER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.13">Ei was! Sie werden uns ja nicht fressen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.14">Treiben sies auch ein wenig vermessen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.15">Siehst du? sind neue Völker herein,</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.16">Kommen frisch von der Saal und dem Main,</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.17">Bringen Beut mit, die rarsten Sachen!</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.18">Unser ists, wenn wirs nur listig machen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.19">Ein Hauptmann, den ein andrer erstach,</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.20">Ließ mir ein Paar glückliche Würfel nach.</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.21">Die will ich heut einmal probieren,</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.22">Ob sie die alte Kraft noch führen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.23">Mußt dich nur recht erbärmlich stellen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.24">Sind dir gar lockere, leichte Gesellen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.25">Lassen sich gerne schön tun und loben,</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.26">So wie gewonnen, so ists zerstoben.</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.27">Nehmen sie uns das Unsre in Scheffeln,</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.28">Müssen wirs wieder bekommen in Löffeln;</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.29">Schlagen sie grob mit dem Schwerte drein,</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.30">So sind wir pfiffig und treibens fein.</l>
+</lg>
+<lb xml:id="tg1343.2.31"></lb>
+<stage rend="zenoPC" xml:id="tg1343.2.32">
+<hi rend="italic" xml:id="tg1343.2.32.1">Im Zelt wird gesungen und gejubelt.</hi>
+</stage>
+<lb xml:id="tg1343.2.33"></lb>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.34">Wie sie juchzen – daß Gott erbarm!</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.35">Alles das geht von des Bauern Felle.</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.36">Schon acht Monate legt sich der Schwarm</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.37">Uns in die Betten und in die Ställe,</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.38">Weit herum ist in der ganzen Aue</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.39">Keine Feder mehr, keine Klaue,</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.40">
+<pb n="277" xml:id="tg1343.2.40.1"></pb>
+Daß wir für Hunger und Elend schier</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.41">Nagen müssen die eignen Knochen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.42">Wars doch nicht ärger und krauser hier,</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.43">Als der Sachs noch im Lande tät pochen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.44">Und die nennen sich Kaiserliche!</l>
+</lg>
+</sp>
+<sp who="bauerknabe">
+<speaker xml:id="tg1343.2.45">BAUERKNABE.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.46">Vater, da kommen ein paar aus der Küche,</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.47">Sehen nicht aus, als wär viel zu nehmen.</l>
+</lg>
+</sp>
+<sp who="bauer">
+<speaker xml:id="tg1343.2.48">BAUER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.49">Sind Einheimische, geborene Böhmen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.50">Von des Terschkas Karabinieren,</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.51">Liegen schon lang in diesen Quartieren.</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.52">Unter allen die Schlimmsten just,</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.53">Spreizen sich, werfen sich in die Brust,</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.54">Tun, als wenn sie zu fürnehm wären,</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.55">Mit dem Bauer ein Glas zu leeren.</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.56">Aber dort seh ich die drei scharfe Schützen</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.57">Linker Hand um ein Feuer sitzen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.58">Sehen mir aus wie Tiroler schier.</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.59">Emmerich, komm! An die wollen wir,</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.60">Lustige Vögel, die gerne schwatzen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1343.2.61">Tragen sich sauber und führen Batzen.</l>
+</lg>
+<lb xml:id="tg1343.2.62"></lb>
+<stage rend="zenoPC" xml:id="tg1343.2.63">
+<hi rend="italic" xml:id="tg1343.2.63.1">Gehen nach den Zelten.</hi>
+</stage>
+<lb xml:id="tg1343.2.64"></lb>
+</sp>
+</div>
+</div>
+</div>
+<div n="/Literatur/M/Schiller, Friedrich/Dramen/Wallenstein/Wallensteins Lager/2. Auftritt" subtype="work:no" xml:id="tg1344">
+<div>
+<desc>
+<title>2. Auftritt</title>
+</desc>
+</div>
+<div type="text" xml:id="tg1344.2">
+<div type="h4">
+<head type="h4" xml:id="tg1344.2.1">Zweiter Auftritt</head>
+<stage rend="zenoPC" xml:id="tg1344.2.4">
+<hi rend="italic" xml:id="tg1344.2.4.1">Vorige. Wachtmeister. Trompeter. Ulan.</hi>
+</stage>
+<lb xml:id="tg1344.2.5"></lb>
+<sp who="trompeter">
+<speaker xml:id="tg1344.2.6">TROMPETER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.7">Was will der Bauer da? Fort, Halunk!</l>
+</sp>
+<sp who="bauer">
+<speaker xml:id="tg1344.2.8">BAUER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.9">Gnädige Herren, einen Bissen und Trunk,</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.10">Haben heut noch nichts Warmes gegessen.</l>
+</lg>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1344.2.11">TROMPETER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.12">Ei, das muß immer saufen und fressen.</l>
+</sp>
+<sp who="ulan">
+<speaker xml:id="tg1344.2.13.part1">ULAN</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1344.2.13.1.part1">mit einem Glase.</hi>
+</stage>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.14">Nichts gefrühstückt? Da trink, du Hund!</l>
+<lb xml:id="tg1344.2.15"></lb>
+<stage rend="zenoPC" xml:id="tg1344.2.16">
+<hi rend="italic" xml:id="tg1344.2.16.1">Führt den Bauer nach dem Zelte; jene kommen vorwärts.</hi>
+</stage>
+<lb xml:id="tg1344.2.17"></lb>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1344.2.18.part1">WACHTMEISTER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1344.2.18.1.part1">zum Trompeter.</hi>
+</stage>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.19">Meinst du, man hab uns ohne Grund</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.20">Heute die doppelte Löhnung gegeben,</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.21">Nur daß wir flott und lustig leben?</l>
+<pb n="278" xml:id="tg1344.2.22"></pb>
+</lg>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1344.2.23">TROMPETER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.24">Die Herzogin kommt ja heute herein</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.25">Mit dem fürstlichen Fräulein –</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1344.2.26">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.27">Das ist nur der Schein.</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.28">Die Truppen, die aus fremden Landen</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.29">Sich hier vor Pilsen zusammenfanden,</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.30">Die sollen wir gleich an uns locken</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.31">Mit gutem Schluck und guten Brocken,</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.32">Damit sie sich gleich zufrieden finden,</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.33">Und fester sich mit uns verbinden.</l>
+</lg>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1344.2.34">TROMPETER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.35">Ja, es ist wieder was im Werke!</l>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1344.2.36">WACHTMEISTER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.37">Die Herrn Generäle und Kommendanten –</l>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1344.2.38">TROMPETER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.39">Es ist gar nicht geheuer, wie ich merke.</l>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1344.2.40">WACHTMEISTER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.41">Die sich so dick hier zusammenfanden –</l>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1344.2.42">TROMPETER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.43">Sind nicht für die Langweil herbemüht.</l>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1344.2.44">WACHTMEISTER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.45">Und das Gemunkel, und das Geschicke –</l>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1344.2.46">TROMPETER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.47">Ja! Ja!</l>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1344.2.48">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.49">Und von Wien die alte Perücke,</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.50">Die man seit gestern herumgehn sieht,</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.51">Mit der guldenen Gnadenkette,</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.52">Das hat was zu bedeuten, ich wette.</l>
+</lg>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1344.2.53">TROMPETER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.54">Wieder so ein Spürhund, gebt nur acht,</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.55">Der die Jagd auf den Herzog macht.</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1344.2.56">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.57">Merkst du wohl? sie trauen uns nicht,</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.58">Fürchten des Friedländers heimlich Gesicht.</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.59">Er ist ihnen zu hoch gestiegen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.60">Möchten ihn gern herunterkriegen.</l>
+</lg>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1344.2.61">TROMPETER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.62">Aber wir halten ihn aufrecht, wir.</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.63">Dächten doch alle wie ich und Ihr!</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1344.2.64">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.65">Unser Regiment und die andern vier,</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.66">Die da Terschka anführt, des Herzogs Schwager,</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.67">Das resoluteste Korps im Lager,</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.68">Sind ihm ergeben und gewogen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.69">Hat er uns selbst doch herangezogen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.70">Alle Hauptleute setzt er ein,</l>
+<l rend="zenoPLm4n4" xml:id="tg1344.2.71">Sind alle mit Leib und Leben sein.</l>
+<pb n="279" xml:id="tg1344.2.72"></pb>
+</lg>
+<lb xml:id="tg1344.2.73"></lb>
+</sp>
+</div>
+</div>
+</div>
+<div n="/Literatur/M/Schiller, Friedrich/Dramen/Wallenstein/Wallensteins Lager/3. Auftritt" subtype="work:no" xml:id="tg1345">
+<div>
+<desc>
+<title>3. Auftritt</title>
+</desc>
+</div>
+<div type="text" xml:id="tg1345.2">
+<div type="h4">
+<head type="h4" xml:id="tg1345.2.1">Dritter Auftritt</head>
+<stage rend="zenoPC" xml:id="tg1345.2.4">
+<hi rend="italic" xml:id="tg1345.2.4.1">Kroat mit einem Halsschmuck. Scharfschütze folgt. Vorige.</hi>
+</stage>
+<lb xml:id="tg1345.2.5"></lb>
+<sp who="scharfschuetz">
+<speaker xml:id="tg1345.2.6">SCHARFSCHÜTZ.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1345.2.7">Kroat, wo hast du das Halsband gestohlen?</l>
+<l rend="zenoPLm4n4" xml:id="tg1345.2.8">Handle dirs ab! dir ists doch nichts nütz.</l>
+<l rend="zenoPLm4n4" xml:id="tg1345.2.9">Geb dir dafür das Paar Terzerolen.</l>
+</lg>
+</sp>
+<sp who="kroat">
+<speaker xml:id="tg1345.2.10">KROAT.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1345.2.11">Nix, nix! du willst mich betrügen, Schütz.</l>
+</sp>
+<sp who="scharfschuetz">
+<speaker xml:id="tg1345.2.12">SCHARFSCHÜTZ.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1345.2.13">Nun! geb dir auch noch die blaue Mütz,</l>
+<l rend="zenoPLm4n4" xml:id="tg1345.2.14">Hab sie soeben im Glücksrad gewonnen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1345.2.15">Siehst du? Sie ist zum höchsten Staat.</l>
+</lg>
+</sp>
+<sp who="kroat">
+<speaker xml:id="tg1345.2.16.part1">KROAT</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1345.2.16.1.part1">läßt das Halsband in der Sonne spielen.</hi>
+</stage>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1345.2.17">'s ist aber von Perlen und edelm Granat.</l>
+<l rend="zenoPLm4n4" xml:id="tg1345.2.18">Schau, wie das flinkert in der Sonnen!</l>
+</lg>
+</sp>
+<sp who="scharfschuetz">
+<speaker xml:id="tg1345.2.19.part1">SCHARFSCHÜTZ</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1345.2.19.1.part1">nimmt das Halsband.</hi>
+</stage>
+<l rend="zenoPLm4n4" xml:id="tg1345.2.20">Die Feldflasche noch geb ich drein,</l>
+<lb xml:id="tg1345.2.21"></lb>
+<stage rend="zenoPC" xml:id="tg1345.2.22">
+<hi rend="italic" xml:id="tg1345.2.22.1">Besieht es.</hi>
+</stage>
+<lb xml:id="tg1345.2.23"></lb>
+<l rend="zenoPLm4n4" xml:id="tg1345.2.24">Es ist mir nur um den schönen Schein.</l>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1345.2.25">TROMPETER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1345.2.26">Seht nur, wie der den Kroaten prellt!</l>
+<l rend="zenoPLm4n4" xml:id="tg1345.2.27">Halbpart, Schütze, so will ich schweigen.</l>
+</lg>
+</sp>
+<sp who="kroat">
+<speaker xml:id="tg1345.2.28.part1">KROAT</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1345.2.28.1.part1">hat die Mütze aufgesetzt.</hi>
+</stage>
+<l rend="zenoPLm4n4" xml:id="tg1345.2.29">Deine Mütze mir wohlgefällt.</l>
+</sp>
+<sp who="scharfschuetz">
+<speaker xml:id="tg1345.2.30.part1">SCHARFSCHÜTZ</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1345.2.30.1.part1">winkt dem Trompeter.</hi>
+</stage>
+<l rend="zenoPLm4n4" xml:id="tg1345.2.31">Wir tauschen hier! Die Herrn sind Zeugen!</l>
+<lb xml:id="tg1345.2.32"></lb>
+</sp>
+</div>
+</div>
+</div>
+<div n="/Literatur/M/Schiller, Friedrich/Dramen/Wallenstein/Wallensteins Lager/4. Auftritt" subtype="work:no" xml:id="tg1346">
+<div>
+<desc>
+<title>4. Auftritt</title>
+</desc>
+</div>
+<div type="text" xml:id="tg1346.2">
+<div type="h4">
+<head type="h4" xml:id="tg1346.2.1">Vierter Auftritt</head>
+<stage rend="zenoPC" xml:id="tg1346.2.4">
+<hi rend="italic" xml:id="tg1346.2.4.1">Vorige. Konstabler.</hi>
+</stage>
+<lb xml:id="tg1346.2.5"></lb>
+<sp who="konstabler">
+<speaker xml:id="tg1346.2.6.part1">KONSTABLER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1346.2.6.1.part1">tritt zum Wachtmeister.</hi>
+</stage>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1346.2.7">Wie ists, Bruder Karabinier?</l>
+<l rend="zenoPLm4n4" xml:id="tg1346.2.8">Werden wir uns lang noch die Hände wärmen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1346.2.9">Da die Feinde schon frisch im Feld herum schwärmen?</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1346.2.10">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1346.2.11">Tuts Ihm so eilig, Herr Konstabel?</l>
+<l rend="zenoPLm4n4" xml:id="tg1346.2.12">Die Wege sind noch nicht praktikabel.</l>
+</lg>
+</sp>
+<sp who="konstabler">
+<speaker xml:id="tg1346.2.13">KONSTABLER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1346.2.14">Mir nicht. Ich sitze gemächlich hier;</l>
+<l rend="zenoPLm4n4" xml:id="tg1346.2.15">Aber ein Eilbot ist angekommen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1346.2.16">Meldet, Regenspurg sei genommen.</l>
+</lg>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1346.2.17">TROMPETER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1346.2.18">Ei, da werden wir bald aufsitzen.</l>
+<pb n="280" xml:id="tg1346.2.19"></pb>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1346.2.20">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1346.2.21">Wohl gar! Um dem Bayer sein Land zu schützen?</l>
+<l rend="zenoPLm4n4" xml:id="tg1346.2.22">Der dem Fürsten so unfreund ist?</l>
+<l rend="zenoPLm4n4" xml:id="tg1346.2.23">Werden uns eben nicht sehr erhitzen.</l>
+</lg>
+</sp>
+<sp who="konstabler">
+<speaker xml:id="tg1346.2.24">KONSTABLER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1346.2.25">Meint Ihr? – Was Ihr nicht alles wißt!</l>
+<lb xml:id="tg1346.2.26"></lb>
+</sp>
+</div>
+</div>
+</div>
+<div n="/Literatur/M/Schiller, Friedrich/Dramen/Wallenstein/Wallensteins Lager/5. Auftritt" subtype="work:no" xml:id="tg1347">
+<div>
+<desc>
+<title>5. Auftritt</title>
+</desc>
+</div>
+<div type="text" xml:id="tg1347.2">
+<div type="h4">
+<head type="h4" xml:id="tg1347.2.1">Fünfter Auftritt</head>
+<stage rend="zenoPC" xml:id="tg1347.2.4">
+<hi rend="italic" xml:id="tg1347.2.4.1">Vorige. Zwei Jäger. Dann Marketenderin. Soldatenjungen. Schulmeister. Aufwärterin.</hi>
+</stage>
+<lb xml:id="tg1347.2.5"></lb>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1347.2.6.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.7">Sieh! sieh! Da treffen wir lustige Kompanie.</l>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1347.2.8">TROMPETER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.9">Was für Grünröck mögen das sein?</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.10">Treten ganz schmuck und stattlich ein.</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1347.2.11">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.12">Sind Holkische Jäger, die silbernen Tressen</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.13">Holten sie sich nicht auf der Leipziger Messen.</l>
+</lg>
+</sp>
+<sp who="marketenderin">
+<speaker xml:id="tg1347.2.14.part1">MARKETENDERIN</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1347.2.14.1.part1">kommt und bringt Wein.</hi>
+</stage>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.15">Glück zur Ankunft, ihr Herrn!</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1347.2.16.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.17">Was? der Blitz!</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.18">Das ist ja die Gustel aus Blasewitz.</l>
+</lg>
+</sp>
+<sp who="marketenderin">
+<speaker xml:id="tg1347.2.19">MARKETENDERIN.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.20">I freilich! Und Er ist wohl gar, Mußjö,</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.21">Der lange Peter aus Itzehö?</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.22">Der seines Vaters goldene Füchse</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.23">Mit unserm Regiment hat durchgebracht</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.24">Zu Glücksstadt in einer lustigen Nacht. –</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1347.2.25.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.26">Und die Feder vertauscht mit der Kugelbüchse.</l>
+</sp>
+<sp who="marketenderin">
+<speaker xml:id="tg1347.2.27">MARKETENDERIN.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.28">Ei! da sind wir alte Bekannte!</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1347.2.29.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.30">Und treffen uns hier im böhmischen Lande.</l>
+</sp>
+<sp who="marketenderin">
+<speaker xml:id="tg1347.2.31">MARKETENDERIN.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.32">Heute da, Herr Vetter, und morgen dort –</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.33">Wie einen der rauhe Kriegesbesen</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.34">Fegt und schüttelt von Ort zu Ort,</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.35">Bin indes weit herumgewesen.</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1347.2.36.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.37">Wills Ihr glauben! Das stellt sich dar.</l>
+</sp>
+<sp who="marketenderin">
+<speaker xml:id="tg1347.2.38">MARKETENDERIN.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.39">Bin hinauf bis nach Temeswar</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.40">Gekommen, mit den Bagagewagen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.41">Als wir den Mansfelder täten jagen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.42">
+<pb n="281" xml:id="tg1347.2.42.1"></pb>
+Lag mit dem Friedländer vor Stralsund,</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.43">Ging mir dorten die Wirtschaft zu Grund.</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.44">Zog mit dem Sukkurs vor Mantua,</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.45">Kam wieder heraus mit dem Feria,</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.46">Und mit einem spanischen Regiment</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.47">Hab ich einen Abstecher gemacht nach Gent.</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.48">Jetzt will ichs im böhmischen Land probieren,</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.49">Alte Schulden einkassieren –</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.50">Ob mir der Fürst hilft zu meinem Geld.</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.51">Und das dort ist mein Marketenderzelt,</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1347.2.52.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.53">Nun, da trifft Sie alles beisammen an!</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.54">Doch wo hat Sie den Schottländer hingetan,</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.55">Mit dem Sie damals herumgezogen?</l>
+</lg>
+</sp>
+<sp who="marketenderin">
+<speaker xml:id="tg1347.2.56">MARKETENDERIN.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.57">Der Spitzbub! der hat mich schön betrogen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.58">Fort ist er! Mit allem davon gefahren,</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.59">Was ich mir tät am Leibe ersparen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.60">Ließ mir nichts als den Schlingel da!</l>
+</lg>
+</sp>
+<sp who="soldatenjunge">
+<speaker xml:id="tg1347.2.61.part1">SOLDATENJUNGE</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1347.2.61.1.part1">kommt gesprungen.</hi>
+</stage>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.62">Mutter! sprichst du von meinem Papa?</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1347.2.63.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.64">Nun, nun! das muß der Kaiser ernähren,</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.65">Die Armee sich immer muß neu gebären.</l>
+</lg>
+</sp>
+<sp who="soldatenschulmeister">
+<speaker xml:id="tg1347.2.66.part1">SOLDATENSCHULMEISTER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1347.2.66.1.part1">kommt.</hi>
+</stage>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.67">Fort in die Feldschule! Marsch, ihr Buben!</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1347.2.68.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.69">Das fürcht sich auch vor der engen Stuben!</l>
+</sp>
+<sp who="aufwaerterin">
+<speaker xml:id="tg1347.2.70.part1">AUFWÄRTERIN</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1347.2.70.1.part1">kommt.</hi>
+</stage>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.71">Base, sie wollen fort.</l>
+</sp>
+<sp who="marketenderin">
+<speaker xml:id="tg1347.2.72">MARKETENDERIN.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.73">Gleich! gleich!</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1347.2.74.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.75">Ei, wer ist denn das kleine Schelmengesichte?</l>
+</sp>
+<sp who="marketenderin">
+<speaker xml:id="tg1347.2.76">MARKETENDERIN.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.77">'s ist meiner Schwester Kind – aus dem Reich.</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1347.2.78.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.79">Ei, also eine liebe Nichte?</l>
+<lb xml:id="tg1347.2.80"></lb>
+<stage rend="zenoPC" xml:id="tg1347.2.81">
+<hi rend="italic" xml:id="tg1347.2.81.1">Marketenderin geht.</hi>
+</stage>
+<lb xml:id="tg1347.2.82"></lb>
+</sp>
+<sp who="zweiter_jaeger">
+<speaker xml:id="tg1347.2.83.part1">ZWEITER JÄGER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1347.2.83.1.part1">das Mädchen haltend.</hi>
+</stage>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.84">Bleib Sie bei uns doch, artiges Kind.</l>
+</sp>
+<sp who="aufwaerterin">
+<speaker xml:id="tg1347.2.85">AUFWÄRTERIN.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.86">Gäste dort zu bedienen sind.</l>
+<lb xml:id="tg1347.2.87"></lb>
+<stage rend="zenoPC" xml:id="tg1347.2.88">
+<hi rend="italic" xml:id="tg1347.2.88.1">Macht sich los und geht.</hi>
+</stage>
+<lb xml:id="tg1347.2.89"></lb>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1347.2.90.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.91">Das Mädchen ist kein übler Bissen! –</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.92">Und die Muhme! beim Element!</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.93">Was haben die Herrn vom Regiment</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.94">
+<pb n="282" xml:id="tg1347.2.94.1"></pb>
+Sich um das niedliche Lärvchen gerissen! –</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.95">Was man nicht alles für Leute kennt!</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.96">Und wie die Zeit von dannen rennt. –</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.97">Was werd ich noch alles erleben müssen!</l>
+</lg>
+<lb xml:id="tg1347.2.98"></lb>
+<stage rend="zenoPC" xml:id="tg1347.2.99">
+<hi rend="italic" xml:id="tg1347.2.99.1">Zum Wachtmeister und Trompeter.</hi>
+</stage>
+<lb xml:id="tg1347.2.100"></lb>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.101">Euch zur Gesundheit, meine Herrn! –</l>
+<l rend="zenoPLm4n4" xml:id="tg1347.2.102">Laßt uns hier auch ein Plätzchen nehmen.</l>
+</lg>
+<lb xml:id="tg1347.2.103"></lb>
+</sp>
+</div>
+</div>
+</div>
+<div n="/Literatur/M/Schiller, Friedrich/Dramen/Wallenstein/Wallensteins Lager/6. Auftritt" subtype="work:no" xml:id="tg1348">
+<div>
+<desc>
+<title>6. Auftritt</title>
+</desc>
+</div>
+<div type="text" xml:id="tg1348.2">
+<div type="h4">
+<head type="h4" xml:id="tg1348.2.1">Sechster Auftritt</head>
+<stage rend="zenoPC" xml:id="tg1348.2.4">
+<hi rend="italic" xml:id="tg1348.2.4.1">Jäger. Wachtmeister. Trompeter.</hi>
+</stage>
+<lb xml:id="tg1348.2.5"></lb>
+<sp who="wachtmeister">
+<speaker xml:id="tg1348.2.6">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.7">Wir danken schön. Von Herzen gern.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.8">Wir rücken zu. Willkommen in Böhmen!</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1348.2.9.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.10">Ihr sitzt hier warm. Wir, in Feindes Land,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.11">Mußten derweil uns schlecht bequemen.</l>
+</lg>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1348.2.12">TROMPETER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.13">Man sollts euch nicht ansehn, ihr seid galant.</l>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1348.2.14">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.15">Ja, ja, im Saalkreis und auch in Meißen</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.16">Hört man euch Herrn nicht besonders preisen.</l>
+</lg>
+</sp>
+<sp who="zweiter_jaeger">
+<speaker xml:id="tg1348.2.17.part1">ZWEITER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.18">Seid mir doch still. Was will das heißen?</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.19">Der Kroat es ganz anders trieb,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.20">Uns nur die Nachles übrigblieb.</l>
+</lg>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1348.2.21">TROMPETER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.22">Ihr habt da einen saubern Spitzen</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.23">Am Kragen, und wie euch die Hosen sitzen!</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.24">Die feine Wäsche, der Federhut!</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.25">Was das alles für Wirkung tut!</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.26">Daß doch den Burschen das Glück soll scheinen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.27">Und so was kommt nie an unsereinen!</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1348.2.28">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.29">Dafür sind wir des Friedländers Regiment,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.30">Man muß uns ehren und respektieren.</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1348.2.31.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.32">Das ist für uns andre kein Kompliment,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.33">Wir ebensogut seinen Namen führen.</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1348.2.34">WACHTMEISTER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.35">Ja, ihr gehört auch so zur ganzen Masse.</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1348.2.36.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.37">Ihr seid wohl von einer besondern Rasse?</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.38">Der ganze Unterschied ist in den Röcken,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.39">Und ich ganz gern mag in meinem stecken.</l>
+<pb n="283" xml:id="tg1348.2.40"></pb>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1348.2.41">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.42">Herr Jäger, ich muß Euch nur bedauern,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.43">Ihr lebt so draußen bei den Bauern;</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.44">Der feine Griff und der rechte Ton,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.45">Das lernt sich nur um des Feldherrn Person.</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1348.2.46.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.47">Sie bekam Euch übel, die Lektion.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.48">Wie er räuspert und wie er spuckt,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.49">Das habt Ihr ihm glücklich abgeguckt;</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.50">Aber sein Schenie, ich meine sein Geist,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.51">Sich nicht auf der Wachparade weist.</l>
+</lg>
+</sp>
+<sp who="zweiter_jaeger">
+<speaker xml:id="tg1348.2.52.part1">ZWEITER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.53">Wetter auch! wo Ihr nach uns fragt,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.54">Wir heißen des Friedländers wilde Jagd,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.55">Und machen dem Namen keine Schande –</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.56">Ziehen frech durch Feindes und Freundes Lande,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.57">Querfeldein durch die Saat, durch das gelbe Korn –</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.58">Sie kennen das Holkische Jägerhorn! –</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.59">In einem Augenblick fern und nah,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.60">Schnell wie die Sündflut, so sind wir da –</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.61">Wie die Feuerflamme bei dunkler Nacht</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.62">In die Häuser fähret, wenn niemand wacht –</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.63">Da hilft keine Gegenwehr, keine Flucht,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.64">Keine Ordnung gilt mehr und keine Zucht. –</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.65">Es sträubt sich – der Krieg hat kein Erbarmen –</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.66">Das Mägdlein in unsern sennigten Armen –</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.67">Fragt nach, ich sags nicht um zu prahlen;</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.68">In Bayreuth, im Voigtland, in Westfalen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.69">Wo wir nur durchgekommen sind –</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.70">Erzählen Kinder und Kindeskind</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.71">Nach hundert und aber hundert Jahren</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.72">Von dem Holk noch und seinen Scharen.</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1348.2.73">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.74">Nun da sieht mans! Der Saus und Braus</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.75">Macht denn der den Soldaten aus?</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.76">Das Tempo macht ihn, der Sinn und Schick,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.77">Der Begriff, die Bedeutung, der feine Blick.</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1348.2.78.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.79">Die Freiheit macht ihn! Mit Euren Fratzen!</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.80">Daß ich mit Euch soll darüber schwatzen. –</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.81">Lief ich darum aus der Schul und der Lehre,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.82">
+<pb n="284" xml:id="tg1348.2.82.1"></pb>
+Daß ich die Fron und die Galeere,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.83">Die Schreibstub und ihre engen Wände</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.84">In dem Feldlager wiederfände? –</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.85">Flott will ich leben und müßig gehn,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.86">Alle Tage was Neues sehn,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.87">Mich dem Augenblick frisch vertrauen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.88">Nicht zurück, auch nicht vorwärts schauen –</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.89">Drum hab ich meine Haut dem Kaiser verhandelt,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.90">Daß keine Sorg mich mehr anwandelt.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.91">Führt mich ins Feuer frisch hinein,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.92">Über den reißenden, tiefen Rhein,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.93">Der dritte Mann soll verloren sein;</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.94">Werde mich nicht lang sperren und zieren. –</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.95">Sonst muß man mich aber, ich bitte sehr,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.96">Mit nichts weiter inkommodieren.</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1348.2.97">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.98">Nu, nu, verlangt Ihr sonst nichts mehr?</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.99">Das ließ sich unter dem Wams da finden.</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1348.2.100.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.101">Was war das nicht für ein Placken und Schinden</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.102">Bei Gustav dem Schweden, dem Leuteplager!</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.103">Der machte eine Kirch aus seinem Lager,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.104">Ließ Betstunde halten, des Morgens, gleich</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.105">Bei der Reveille, und beim Zapfenstreich.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.106">Und wurden wir manchmal ein wenig munter,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.107">Er kanzelt' uns selbst wohl vom Gaul herunter.</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1348.2.108">WACHTMEISTER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.109">Ja, es war ein gottesfürchtiger Herr.</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1348.2.110.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.111">Dirnen, die ließ er gar nicht passieren,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.112">Mußten sie gleich zur Kirche führen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.113">Da lief ich, konnts nicht ertragen mehr.</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1348.2.114">WACHTMEISTER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.115">Jetzt gehts dort auch wohl anders her.</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1348.2.116.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.117">So ritt ich hinüber zu den Ligisten,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.118">Sie täten sich just gegen Magdeburg rüsten.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.119">Ja, das war schon ein ander Ding!</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.120">Alles da lustiger, loser ging,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.121">Soff und Spiel und Mädels die Menge!</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.122">Wahrhaftig, der Spaß war nicht gering,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.123">Denn der Tilly verstand sich aufs Kommandieren.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.124">
+<pb n="285" xml:id="tg1348.2.124.1"></pb>
+Dem eigenen Körper war er strenge;</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.125">Dem Soldaten ließ er vieles passieren,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.126">Und gings nur nicht aus seiner Kassen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.127">Sein Spruch war: leben und leben lassen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.128">Aber das Glück blieb ihm nicht stet, –</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.129">Seit der Leipziger Fatalität</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.130">Wollt es eben nirgends mehr flecken,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.131">Alles bei uns geriet ins Stecken;</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.132">Wo wir erschienen und pochten an,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.133">Ward nicht gegrüßt noch aufgetan.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.134">Wir mußten uns drücken von Ort zu Ort,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.135">Der alte Respekt war eben fort. –</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.136">Da nahm ich Handgeld von den Sachsen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.137">Meinte, da müßte mein Glück recht wachsen.</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1348.2.138">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.139">Nun! da kamt Ihr ja eben recht</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.140">Zur böhmischen Beute.</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1348.2.141.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.142">Es ging mir schlecht.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.143">Sollten da strenge Mannszucht halten,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.144">Durften nicht recht als Feinde walten,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.145">Mußten des Kaisers Schlösser bewachen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.146">Viel Umständ und Komplimente machen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.147">Führten den Krieg, als wärs nur Scherz,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.148">Hatten für die Sach nur ein halbes Herz,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.149">Wolltens mit niemand ganz verderben,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.150">Kurz, da war wenig Ehr zu erwerben,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.151">Und ich wär bald für Ungeduld</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.152">Wieder heimgelaufen zum Schreibepult,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.153">Wenn nicht eben auf allen Straßen</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.154">Der Friedländer hätte werben lassen.</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1348.2.155">WACHTMEISTER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.156">Und wie lang denkt Ihrs hier auszuhalten?</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1348.2.157.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.158">Spaßt nur! solange <hi rend="spaced" xml:id="tg1348.2.158.1">der</hi> tut walten,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.159">Denk ich Euch, mein Seel! an kein Entlaufen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.160">Kanus der Soldat wo besser kaufen? –</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.161">Da geht alles nach Kriegessitt,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.162">Hat alles 'nen großen Schnitt.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.163">Und der Geist, der im ganzen Korps tut leben,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.164">
+<pb n="286" xml:id="tg1348.2.164.1"></pb>
+Reißet gewaltig, wie Windesweben,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.165">Auch den untersten Reiter mit.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.166">Da tret ich auf mit beherztem Schritt,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.167">Darf über den Bürger kühn wegschreiten,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.168">Wie der Feldherr über der Fürsten Haupt.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.169">Es ist hier wie in den alten Zeiten,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.170">Wo die Klinge noch alles tät bedeuten,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.171">Da gibts nur <hi rend="spaced" xml:id="tg1348.2.171.1">ein</hi> Vergehn und Verbrechen:</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.172">Der Ordre fürwitzig widersprechen!</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.173">Was nicht verboten ist, ist erlaubt;</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.174">Da fragt niemand, was einer glaubt.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.175">Es gibt nur zwei Ding überhaupt,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.176">Was zur Armee gehört und nicht,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.177">Und nur der Fahne bin ich verpflicht.</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1348.2.178">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.179">Jetzt gefallt Ihr mir, Jäger! Ihr sprecht</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.180">Wie ein Friedländischer Reitersknecht.</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1348.2.181.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.182">Der führt 's Kommando nicht wie ein Amt,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.183">Wie eine Gewalt, die vom Kaiser stammt!</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.184">Es ist ihm nicht um des Kaisers Dienst,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.185">Was bracht er dem Kaiser für Gewinst?</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.186">Was hat er mit seiner großen Macht</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.187">Zu des Landes Schirm und Schutz vollbracht?</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.188">Ein Reich von Soldaten wollt er gründen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.189">Die Welt anstecken und entzünden,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.190">Sich alles vermessen und unterwinden –</l>
+</lg>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1348.2.191">TROMPETER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.192">Still! Wer wird solche Worte wagen!</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1348.2.193.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.194">Was ich denke, das darf ich sagen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.195">Das Wort ist frei, sagt da General.</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1348.2.196">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.197">So sagt er, ich hörts wohl einigemal,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.198">Ich stand dabei. »Das Wort ist frei,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.199">Die Tat ist stumm, der Gehorsam blind«,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.200">Dies urkundlich seine Worte sind.</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1348.2.201.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.202">Obs just seine Worte sind, weiß ich nicht;</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.203">Aber die Sach ist so, wie er spricht.</l>
+</lg>
+</sp>
+<sp who="zweiter_jaeger">
+<speaker xml:id="tg1348.2.204.part1">ZWEITER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.205">Ihm schlägt das Kriegsglück nimmer um,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.206">Wie's wohl bei andern pflegt zu geschehen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.207">
+<pb n="287" xml:id="tg1348.2.207.1"></pb>
+Der Tilly überlebte seinen Ruhm.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.208">Doch unter des Friedländers Kriegspanieren</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.209">Da bin ich gewiß zu victorisieren.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.210">Er bannet das Glück, es muß ihm stehen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.211">Wer unter seinem Zeichen tut fechten,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.212">Der steht unter besondern Mächten.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.213">Denn das weiß ja die ganze Welt,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.214">Daß der Friedländer einen Teufel</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.215">Aus der Hölle im Solde hält.</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1348.2.216">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.217">Ja, daß er fest ist, das ist kein Zweifel.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.218">Denn in der blutgen Affär bei Lützen</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.219">Ritt er euch unter des Feuers Blitzen</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.220">Auf und nieder mit kühlem Blut.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.221">Durchlöchert von Kugeln war sein Hut,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.222">Durch den Stiefel und Koller fuhren</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.223">Die Ballen, man sah die deutlichen Spuren,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.224">Konnt ihm keine die Haut nur ritzen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.225">Weil ihn die höllische Salbe tät schützen.</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1348.2.226.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.227">Was wollt Ihr da für Wunder bringen!</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.228">Er trägt ein Koller von Elendshaut,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.229">Das keine Kugel kann durchdringen.</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1348.2.230">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.231">Nein, es ist die Salbe von Hexenkraut,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.232">Unter Zaubersprüchen gekocht und gebraut.</l>
+</lg>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1348.2.233">TROMPETER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.234">Es geht nicht zu mit rechten Dingen!</l>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1348.2.235">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.236">Sie sagen, er les auch in den Sternen</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.237">Die künftigen Dinge, die nahen und fernen;</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.238">Ich weiß aber besser, wie's damit ist.</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.239">Ein graues Männlein pflegt bei nächtlicher Frist</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.240">Durch verschlossene Türen zu ihm einzugehen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.241">Die Schildwachen habens oft angeschrien,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.242">Und immer was Großes ist drauf geschehen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.243">Wenn je das graue Röcklein kam und erschien.</l>
+</lg>
+</sp>
+<sp who="zweiter_jaeger">
+<speaker xml:id="tg1348.2.244.part1">ZWEITER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.245">Ja, er hat sich dem Teufel übergeben,</l>
+<l rend="zenoPLm4n4" xml:id="tg1348.2.246">Drum führen wir auch das lustige Leben.</l>
+<pb n="288" xml:id="tg1348.2.247"></pb>
+</lg>
+<lb xml:id="tg1348.2.248"></lb>
+</sp>
+</div>
+</div>
+</div>
+<div n="/Literatur/M/Schiller, Friedrich/Dramen/Wallenstein/Wallensteins Lager/7. Auftritt" subtype="work:no" xml:id="tg1349">
+<div>
+<desc>
+<title>7. Auftritt</title>
+</desc>
+</div>
+<div type="text" xml:id="tg1349.2">
+<div type="h4">
+<head type="h4" xml:id="tg1349.2.1">Siebenter Auftritt</head>
+<stage rend="zenoPC" xml:id="tg1349.2.4">
+<hi rend="italic" xml:id="tg1349.2.4.1">Vorige. Ein Rekrut. Ein Bürger. Dragoner.</hi>
+</stage>
+<lb xml:id="tg1349.2.5"></lb>
+<sp who="rekrut">
+<speaker xml:id="tg1349.2.6.part1">REKRUT</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1349.2.6.1.part1">tritt aus dem Zelt, eine Blechhaube auf dem Kopfe, eine Weinfasche in der Hand.</hi>
+</stage>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.7">Grüß den Vater und Vaters Brüder!</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.8">Bin Soldat, komme nimmer wieder.</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1349.2.9.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.10">Sieh, da bringen sie einen Neuen!</l>
+</sp>
+<sp who="buerger">
+<speaker xml:id="tg1349.2.11">BÜRGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.12">O! gib acht, Franz! Es wird dich reuen.</l>
+</sp>
+<sp who="rekrut">
+<speaker xml:id="tg1349.2.13.part1">REKRUT</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1349.2.13.1.part1">singt.</hi>
+</stage>
+<lg>
+<l rend="zenoPLm16n16" xml:id="tg1349.2.14">Trommeln und Pfeifen,</l>
+<l rend="zenoPLm16n16" xml:id="tg1349.2.15">Kriegrischer Klang!</l>
+<l rend="zenoPLm16n16" xml:id="tg1349.2.16">Wandern und streifen</l>
+<l rend="zenoPLm16n16" xml:id="tg1349.2.17">Die Welt entlang,</l>
+<l rend="zenoPLm16n16" xml:id="tg1349.2.18">Rosse gelenkt,</l>
+<l rend="zenoPLm16n16" xml:id="tg1349.2.19">Mutig geschwenkt,</l>
+<l rend="zenoPLm16n16" xml:id="tg1349.2.20">Schwert an der Seite,</l>
+<l rend="zenoPLm16n16" xml:id="tg1349.2.21">Frisch in die Weite,</l>
+<l rend="zenoPLm16n16" xml:id="tg1349.2.22">Flüchtig und flink,</l>
+<l rend="zenoPLm16n16" xml:id="tg1349.2.23">Frei, wie der Fink</l>
+<l rend="zenoPLm16n16" xml:id="tg1349.2.24">Auf Sträuchern und Bäumen,</l>
+<l rend="zenoPLm16n16" xml:id="tg1349.2.25">In Himmels Räumen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.26">Heisa! ich folge des Friedländers Fahn!</l>
+</lg>
+</sp>
+<sp who="zweiter_jaeger">
+<speaker xml:id="tg1349.2.27.part1">ZWEITER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.28">Seht mir! das ist ein wackrer Kumpan!</l>
+<lb xml:id="tg1349.2.29"></lb>
+<stage rend="zenoPC" xml:id="tg1349.2.30">
+<hi rend="italic" xml:id="tg1349.2.30.1">Sie begrüßen ihn.</hi>
+</stage>
+<lb xml:id="tg1349.2.31"></lb>
+</sp>
+<sp who="buerger">
+<speaker xml:id="tg1349.2.32">BÜRGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.33">O! laßt ihn! Er ist guter Leute Kind.</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1349.2.34.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.35">Wir auch nicht auf der Straße gefunden sind.</l>
+</sp>
+<sp who="buerger">
+<speaker xml:id="tg1349.2.36">BÜRGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.37">Ich sag euch, er hat Vermögen und Mittel.</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.38">Fühlt her, das feine Tüchlein am Kittel!</l>
+</lg>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1349.2.39">TROMPETER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.40">Des Kaisers Rock ist der höchste Titel.</l>
+</sp>
+<sp who="buerger">
+<speaker xml:id="tg1349.2.41">BÜRGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.42">Er erbt eine kleine Mützenfabrik.</l>
+</sp>
+<sp who="zweiter_jaeger">
+<speaker xml:id="tg1349.2.43.part1">ZWEITER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.44">Des Menschen Wille, das ist sein Glück.</l>
+</sp>
+<sp who="buerger">
+<speaker xml:id="tg1349.2.45">BÜRGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.46">Von der Großmutter einen Kram und Laden.</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1349.2.47.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.48">Pfui! wer handelt mit Schwefelfaden!</l>
+</sp>
+<sp who="buerger">
+<speaker xml:id="tg1349.2.49">BÜRGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.50">Einen Weinschank dazu von seiner Paten,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.51">Ein Gewölbe mit zwanzig Stückfaß Wein.</l>
+</lg>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1349.2.52">TROMPETER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.53">Den teilt er mit seinen Kameraden.</l>
+</sp>
+<sp who="zweiter_jaeger">
+<speaker xml:id="tg1349.2.54.part1">ZWEITER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.55">Hör du! Wir müssen Zeltbrüder sein.</l>
+<pb n="289" xml:id="tg1349.2.56"></pb>
+</sp>
+<sp who="buerger">
+<speaker xml:id="tg1349.2.57">BÜRGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.58">Eine Braut läßt er sitzen in Tränen und Schmerz.</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1349.2.59.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.60">Recht so, da zeigt er ein eisernes Herz.</l>
+</sp>
+<sp who="buerger">
+<speaker xml:id="tg1349.2.61">BÜRGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.62">Die Großmutter wird für Kummer sterben.</l>
+</sp>
+<sp who="zweiter_jaeger">
+<speaker xml:id="tg1349.2.63.part1">ZWEITER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.64">Desto besser, so kann er sie gleich beerben.</l>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1349.2.65.part1">WACHTMEISTER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1349.2.65.1.part1">tritt gravitätisch herzu, dem Rekruten die Hand auf die Blechhaube legend.</hi>
+</stage>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.66">Sieht Er! das hat Er wohl erwogen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.67">Einen neuen Menschen hat Er angezogen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.68">Mit dem Helm da und Wehrgehäng</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.69">Schließt Er sich an eine würdige Meng.</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.70">Muß ein führnehmer Geist jetzt in Ihn fahren –</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1349.2.71.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.72">Muß besonders das Geld nicht sparen.</l>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1349.2.73">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.74">Auf der Fortuna ihrem Schiff</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.75">Ist Er zu segeln im Begriff,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.76">Die Weltkugel liegt vor Ihm offen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.77">Wer nichts waget, der darf nichts hoffen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.78">Es treibt sich der Bürgersmann, träg und dumm,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.79">Wie des Färbers Gaul, nur im Ring herum.</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.80">Aus dem Soldaten kann alles werden,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.81">Denn Krieg ist jetzt die Losung auf Erden.</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.82">Seh Er mal <hi rend="spaced" xml:id="tg1349.2.82.1">mich</hi> an! In diesem Rock</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.83">Führ ich, sieht Er, des Kaisers Stock.</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.84">Alles Weltregiment, muß Er wissen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.85">Von dem Stock hat ausgehen müssen;</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.86">Und das Szepter in Königs Hand</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.87">Ist ein Stock nur, das ist bekannt.</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.88">Und wers zum Korporal erst hat gebracht,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.89">Der steht auf der Leiter zur höchsten Macht,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.90">Und so weit kann Ers auch noch treiben.</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1349.2.91.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.92">Wenn er nur lesen kann und schreiben.</l>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1349.2.93">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.94">Da will ich Ihm gleich ein Exempel geben,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.95">Ich täts vor kurzem selbst erleben.</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.96">Da ist der Schef vom Dragonerkorps,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.97">Heißt Buttler, wir standen als Gemeine</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.98">Noch vor dreißig Jahren bei Köln am Rheine,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.99">Jetzt nennt man ihn Generalmajor.</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.100">Das macht, er tät sich baß hervor,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.101">
+<pb n="290" xml:id="tg1349.2.101.1"></pb>
+Tät die Welt mit seinem Kriegsruhm füllen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.102">Doch meine Verdienste, die blieben im stillen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.103">Ja, und der Friedländer selbst, sieht Er,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.104">Unser Hauptmann und hochgebietender Herr,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.105">Der jetzt alles vermag und kann,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.106">War erst nur ein schlichter Edelmann,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.107">Und weil er der Kriegsgöttin sich vertraut,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.108">Hat er sich diese Größ erbaut,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.109">Ist nach dem Kaiser der nächste Mann,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.110">Und wer weiß, was er noch erreicht und ermißt,</l>
+</lg>
+<lb xml:id="tg1349.2.111"></lb>
+<stage rend="zenoPC" xml:id="tg1349.2.112">
+<hi rend="italic" xml:id="tg1349.2.112.1">Pfiffig.</hi>
+</stage>
+<lb xml:id="tg1349.2.113"></lb>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.114">Denn noch nicht aller Tage Abend ist.</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1349.2.115.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.116">Ja, er fings klein an und ist jetzt so groß,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.117">Denn zu Altdorf, im Studentenkragen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.118">Trieb ers, mit Permiß zu sagen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.119">Ein wenig locker und purschikos,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.120">Hätte seinen Famulus bald erschlagen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.121">Wollten ihn drauf die Nürnberger Herren</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.122">Mir nichts, dir nichts ins Karzer sperren,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.123">'s war just ein neugebautes Nest,</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.124">Der erste Bewohner sollt es taufen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.125">Aber wie fängt ers an? Er läßt</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.126">Weislich den Pudel voran erst laufen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.127">Nach dem Hunde nennt sichs bis diesen Tag;</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.128">Ein rechter Kerl sich dran spiegeln mag.</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.129">Unter des Herrn großen Taten allen</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.130">Hat mir das Stückchen besonders gefallen.</l>
+</lg>
+<lb xml:id="tg1349.2.131"></lb>
+<stage rend="zenoPC" xml:id="tg1349.2.132">
+<hi rend="italic" xml:id="tg1349.2.132.1">Das Mädchen hat unterdessen aufgewartet; der zweite Jäger schäkert mit ihr.</hi>
+</stage>
+<lb xml:id="tg1349.2.133"></lb>
+</sp>
+<sp who="dragoner">
+<speaker xml:id="tg1349.2.134.part1">DRAGONER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1349.2.134.1.part1">tritt dazwischen.</hi>
+</stage>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.135">Kamerad! laß Er das unterwegen.</l>
+</sp>
+<sp who="zweiter_jaeger">
+<speaker xml:id="tg1349.2.136.part1">ZWEITER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.137">Wer, Henker! hat sich da dreinzulegen!</l>
+</sp>
+<sp who="dragoner">
+<speaker xml:id="tg1349.2.138">DRAGONER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.139">Ich wills Ihm nur sagen, die Dirn ist mein.</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1349.2.140.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.141">Der will ein Schätzchen für sich allein!</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.142">Dragoner, ist Er bei Troste! Sag Er!</l>
+</lg>
+</sp>
+<sp who="zweiter_jaeger">
+<speaker xml:id="tg1349.2.143.part1">ZWEITER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.144">Will was Apartes haben im Lager.</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.145">Einer Dirne schön Gesicht</l>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.146">Muß allgemein sein, wie 's Sonnenlicht!</l>
+</lg>
+<lb xml:id="tg1349.2.147"></lb>
+<stage rend="zenoPC" xml:id="tg1349.2.148">
+<hi rend="italic" xml:id="tg1349.2.148.1">Küßt sie.</hi>
+</stage>
+<lb xml:id="tg1349.2.149"></lb>
+<pb n="291" xml:id="tg1349.2.150"></pb>
+</sp>
+<sp who="dragoner">
+<speaker xml:id="tg1349.2.151.part1">DRAGONER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1349.2.151.1.part1">reißt sie weg.</hi>
+</stage>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.152">Ich sags noch einmal, das leid ich nicht.</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1349.2.153.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.154">Lustig! lustig! da kommen die Prager!</l>
+</sp>
+<sp who="zweiter_jaeger">
+<speaker xml:id="tg1349.2.155.part1">ZWEITER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.156">Sucht Er Händel? Ich bin dabei.</l>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1349.2.157">WACHTMEISTER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1349.2.158">Fried, ihr Herren! Ein Kuß ist frei!</l>
+<lb xml:id="tg1349.2.159"></lb>
+</sp>
+</div>
+</div>
+</div>
+<div n="/Literatur/M/Schiller, Friedrich/Dramen/Wallenstein/Wallensteins Lager/8. Auftritt" subtype="work:no" xml:id="tg1350">
+<div>
+<desc>
+<title>8. Auftritt</title>
+</desc>
+</div>
+<div type="text" xml:id="tg1350.2">
+<div type="h4">
+<head type="h4" xml:id="tg1350.2.1">Achter Auftritt</head>
+<stage rend="zenoPC" xml:id="tg1350.2.4">
+<hi rend="italic" xml:id="tg1350.2.4.1">Bergknappen treten auf und spielen einen Walzer, erst langsam und dann immer geschwinder. Der erste Jäger tanzt mit der Aufwärterin, die Marketenderin mit dem Rekruten; das Mädchen entspringt, der Jäger hinter ihr her und bekommt den Kapuziner zu fassen, der eben hereintritt.</hi>
+</stage>
+<lb xml:id="tg1350.2.5"></lb>
+<sp who="kapuziner">
+<speaker xml:id="tg1350.2.6">KAPUZINER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.7">Heisa, juchheia! Dudeldumdei!</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.8">Das geht ja hoch her. Bin auch dabei!</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.9">Ist das eine Armee von Christen?</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.10">Sind wir Türken? sind wir Antibaptisten?</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.11">Treibt man so mit dem Sonntag Spott,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.12">Als hätte der allmächtige Gott</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.13">Das Chiragra, könnte nicht dreinschlagen?</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.14">Ists jetzt Zeit zu Saufgelagen?</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.15">Zu Banketten und Feiertagen?</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.16">Quid hic statis otiosi?</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.17">Was steht ihr und legt die Hände in Schoß?</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.18">Die Kriegsfuri ist an der Donau los,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.19">Das Bollwerk des Bayerlands ist gefallen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.20">Regenspurg ist in des Feindes Krallen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.21">Und die Armee liegt hier in Böhmen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.22">Pflegt den Bauch, läßt sichs wenig grämen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.23">Kümmert sich mehr um den Krug als den Krieg,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.24">Wetzt lieber den Schnabel als den Sabel,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.25">Hetzt sich lieber herum mit der Dirn,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.26">Frißt den Ochsen lieber als den Oxenstirn.</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.27">Die Christenheit trauert in Sack und Asche,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.28">Der Soldat füllt sich nur die Tasche.</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.29">Es ist eine Zeit der Tränen und Not,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.30">Am Himmel geschehen Zeichen und Wunder,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.31">Und aus den Wolken, blutigrot,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.32">
+<pb n="292" xml:id="tg1350.2.32.1"></pb>
+Hängt der Herrgott den Kriegsmantel runter.</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.33">Den Kometen steckt er wie eine Rute</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.34">Drohend am Himmelsfenster aus,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.35">Die ganze Welt ist ein Klagehaus,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.36">Die Arche der Kirche schwimmt in Blute,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.37">Und das römische <hi rend="spaced" xml:id="tg1350.2.37.1">Reich</hi> – daß Gott erbarm!</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.38">Sollte jetzt heißen römisch <hi rend="spaced" xml:id="tg1350.2.38.1">Arm,</hi>
+</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.39">Der <hi rend="spaced" xml:id="tg1350.2.39.1">Rheinstrom</hi> ist worden zu einem <hi rend="spaced" xml:id="tg1350.2.39.2">Peinstrom,</hi>
+</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.40">Die <hi rend="spaced" xml:id="tg1350.2.40.1">Klöster</hi> sind ausgenommene <hi rend="spaced" xml:id="tg1350.2.40.2">Nester,</hi>
+</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.41">Die <hi rend="spaced" xml:id="tg1350.2.41.1">Bistümer</hi> sind verwandelt in <hi rend="spaced" xml:id="tg1350.2.41.2">Wüsttümer,</hi>
+</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.42">Die <hi rend="spaced" xml:id="tg1350.2.42.1">Abteien</hi> und die <hi rend="spaced" xml:id="tg1350.2.42.2">Stifter</hi>
+</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.43">Sind nun <hi rend="spaced" xml:id="tg1350.2.43.1">Raubteien</hi> und <hi rend="spaced" xml:id="tg1350.2.43.2">Diebesklüfter,</hi>
+</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.44">Und alle die gesegneten deutschen <hi rend="spaced" xml:id="tg1350.2.44.1">Länder</hi>
+</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.45">Sind verkehrt worden in <hi rend="spaced" xml:id="tg1350.2.45.1">Elender</hi> –</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.46">Woher kommt das? das will ich euch verkünden,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.47">Das schreibt sich her von euern Lastern und Sünden,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.48">Von dem Greuel und Heidenleben,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.49">Dem sich Offizier und Soldaten ergeben.</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.50">Denn die Sünd ist der Magnetenstein,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.51">Der das Eisen ziehet ins Land herein.</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.52">Auf das Unrecht, da folgt das Übel,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.53">Wie die Trän auf den herben Zwiebel,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.54">Hinter dem U kömmt gleich das Weh,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.55">Das ist die Ordnung im ABC.</l>
+<l rend="zenoPLm8n8" xml:id="tg1350.2.56">Ubi erit victoriae spes,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.57">Si offenditur Deus? Wie soll man siegen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.58">Wenn man die Predigt schwänzt und die Meß,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.59">Nichts tut als in den Weinhäusern liegen?</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.60">Die Frau in dem Evangelium</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.61">Fand den verlornen Groschen wieder,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.62">Der Saul seines Vaters Esel wieder,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.63">Der Joseph seine saubern Brüder;</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.64">Aber wer bei den Soldaten sucht</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.65">Die Furcht Gottes und die gute Zucht</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.66">Und die Scham, der wird nicht viel finden,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.67">Tät er auch hundert Laternen anzünden,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.68">
+<pb n="293" xml:id="tg1350.2.68.1"></pb>
+Zu dem Prediger in der Wüsten,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.69">Wie wir lesen im Evangelisten,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.70">Kamen auch die Soldaten gelaufen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.71">Taten Buß und ließen sich taufen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.72">Fragten ihn: Quid faciemus nos?</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.73">Wie machen wirs, daß wir kommen in Abrahams Schoß?</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.74">Et ait illis. Und er sagt:</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.75">Neminem concutiatis,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.76">Wenn ihr niemanden schindet und plackt.</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.77">Neque calumniam faciatis,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.78">Niemand verlästert, auf niemand lügt.</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.79">Contenti estote, euch begnügt,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.80">Stipendiis vestris, mit eurer Löhnung</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.81">Und verflucht jede böse Angewöhnung.</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.82">Es ist ein Gebot: Du sollst den Namen</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.83">Deines Herrgotts nicht eitel auskramen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.84">Und wo hört man mehr blasphemieren</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.85">Als hier in den Friedländischen Kriegsquartieren?</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.86">Wenn man für jeden Donner und Blitz,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.87">Den ihr losbrennt mit eurer Zungenspitz,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.88">Die Glocken müßt läuten im Land umher,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.89">Es wär bald kein Meßner zu finden mehr.</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.90">Und wenn euch für jedes böse Gebet,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.91">Das aus eurem ungewaschnen Munde geht,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.92">Ein Härlein ausging aus eurem Schopf,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.93">Über Nacht wär er geschoren glatt,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.94">Und wär er so dick wie Absalons Zopf.</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.95">Der Josua war doch auch ein Soldat,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.96">König David erschlug den Goliath,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.97">Und wo steht denn geschrieben zu lesen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.98">Daß sie solche Fluchmäuler sind gewesen?</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.99">Muß man den Mund doch, ich sollte meinen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.100">Nicht weiter aufmachen zu einem Helf Gott!</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.101">Als zu einem Kreuz Sackerlot!</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.102">Aber wessen das Gefäß ist gefüllt,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.103">Davon es sprudelt und überquillt.</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.104">
+<pb n="294" xml:id="tg1350.2.104.1"></pb>
+Wieder ein Gebot ist: Du sollst nicht stehlen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.105">Ja, das befolgt ihr nach dem Wort,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.106">Denn ihr tragt alles offen fort,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.107">Vor euren Klauen und Geiersgriffen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.108">Vor euren Praktiken und bösen Kniffen</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.109">Ist das Geld nicht geborgen in der Truh,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.110">Das Kalb nicht sicher in der Kuh,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.111">Ihr nehmt das Ei und das Huhn dazu.</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.112">Was sagt der Prediger? Contenti estote,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.113">Begnügt euch mit eurem Kommißbrote.</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.114">Aber wie soll man die Knechte loben,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.115">Kömmt doch das Ärgernis von oben!</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.116">Wie die Glieder, so auch das Haupt!</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.117">Weiß doch niemand, an wen <hi rend="spaced" xml:id="tg1350.2.117.1">der</hi> glaubt!</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1350.2.118.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.119">Herr Pfaff! Uns Soldaten mag Er schimpfen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.120">Den Feldherrn soll Er uns nicht verunglimpfen.</l>
+</lg>
+</sp>
+<sp who="kapuziner">
+<speaker xml:id="tg1350.2.121">KAPUZINER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.122">Ne custodias gregem meam!</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.123">Das ist so ein Ahab und Jerobeam,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.124">Der die Völker von der wahren Lehren</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.125">Zu falschen Götzen tut verkehren.</l>
+</lg>
+</sp>
+<sp who="trompeter rekrut">
+<speaker xml:id="tg1350.2.126.part1">TROMPETER UND REKRUT.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.127">Laß Er uns das nicht zweimal hören!</l>
+</sp>
+<sp who="kapuziner">
+<speaker xml:id="tg1350.2.128">KAPUZINER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.129">So ein Bramarbas und Eisenfresser,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.130">Will einnehmen alle festen Schlösser.</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.131">Rühmte sich mit seinem gottlosen Mund,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.132">Er müsse haben die Stadt Stralsund,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.133">Und wär sie mit Ketten an den Himmel geschlossen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.134">Hat aber sein Pulver umsonst verschossen.</l>
+</lg>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1350.2.135">TROMPETER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.136">Stopft ihm keiner sein Lästermaul?</l>
+</sp>
+<sp who="kapuziner">
+<speaker xml:id="tg1350.2.137">KAPUZINER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.138">So ein Teufelsbeschwörer und König Saul,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.139">So ein Jehu und Holofern,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.140">Verleugnet wie Petrus seinen Meister und Herrn,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.141">Drum kann er den Hahn nicht hören krähn –</l>
+</lg>
+</sp>
+<sp who="erster_jaeger zweiter_jaeger">
+<speaker xml:id="tg1350.2.142.part1">BEIDE JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.143">Pfaffe, jetzt ists um dich geschehn!</l>
+</sp>
+<sp who="kapuziner">
+<speaker xml:id="tg1350.2.144">KAPUZINER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.145">So ein listiger Fuchs Herodes –</l>
+</sp>
+<sp who="trompeter erster_jaeger zweiter_jaeger">
+<speaker xml:id="tg1350.2.146.part1">TROMPETER UND BEIDE JÄGER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1350.2.146.1.part1">auf ihn eindringend.</hi>
+</stage>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.147">Schweig stille! Du bist des Todes.</l>
+<pb n="295" xml:id="tg1350.2.148"></pb>
+</sp>
+<sp who="kroaten">
+<speaker xml:id="tg1350.2.149.part1">KROATEN</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1350.2.149.1.part1">legen sich drein.</hi>
+</stage>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.150">Bleib da, Pfäfflein, fürcht dich nit,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.151">Sag dein Sprüchel und teils uns mit.</l>
+</lg>
+</sp>
+<sp who="kapuziner">
+<speaker xml:id="tg1350.2.152.part1">KAPUZINER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1350.2.152.1.part1">schreit lauter.</hi>
+</stage>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.153">So ein hochmütiger Nebukadnezer,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.154">So ein Sündenvater und muffiger Ketzer,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.155">Läßt sich nennen den <hi rend="spaced" xml:id="tg1350.2.155.1">Wallenstein,</hi>
+</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.156">Ja freilich ist er uns <hi rend="spaced" xml:id="tg1350.2.156.1">allen</hi> ein <hi rend="spaced" xml:id="tg1350.2.156.2">Stein</hi>
+</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.157">Des Anstoßes und Ärgernisses,</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.158">Und so lang der Kaiser diesen Friedeland</l>
+<l rend="zenoPLm4n4" xml:id="tg1350.2.159">Läßt walten, so wird nicht Fried im Land.</l>
+</lg>
+<lb xml:id="tg1350.2.160"></lb>
+<stage rend="zenoPC" xml:id="tg1350.2.161">
+<hi rend="italic" xml:id="tg1350.2.161.1">Er hat nach und nach bei den letzten Worten, die er mit erhobener Stimme spricht, seinen Rückzug genommen, indem die Kroaten die übrigen Soldaten von ihm abwehren.</hi>
+</stage>
+<lb xml:id="tg1350.2.162"></lb>
+</sp>
+</div>
+</div>
+</div>
+<div n="/Literatur/M/Schiller, Friedrich/Dramen/Wallenstein/Wallensteins Lager/9. Auftritt" subtype="work:no" xml:id="tg1351">
+<div>
+<desc>
+<title>9. Auftritt</title>
+</desc>
+</div>
+<div type="text" xml:id="tg1351.2">
+<div type="h4">
+<head type="h4" xml:id="tg1351.2.1">Neunter Auftritt</head>
+<stage rend="zenoPC" xml:id="tg1351.2.4">
+<hi rend="italic" xml:id="tg1351.2.4.1">Vorige ohne den Kapuziner.</hi>
+</stage>
+<lb xml:id="tg1351.2.5"></lb>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1351.2.6.part1">ERSTER JÄGER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1351.2.6.1.part1">zum Wachtmeister.</hi>
+</stage>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.7">Sagt mir! Was meint' er mit dem Göckelhahn,</l>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.8">Den der Feldherr nicht krähen hören kann?</l>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.9">Es war wohl nur so gesagt ihm zum Schimpf und Hohne?</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1351.2.10">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.11">Da will ich Euch dienen! Es ist nicht ganz ohne!</l>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.12">Der Feldherr ist wundersam geboren,</l>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.13">Besonders hat er gar kitzligte Ohren.</l>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.14">Kann die Katze nicht hören mauen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.15">Und wenn der Hahn kräht, so machts ihm Grauen.</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1351.2.16.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.17">Das hat er mit dem Löwen gemein.</l>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1351.2.18">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.19">Muß alles mausstill um ihn sein.</l>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.20">Den Befehl haben alle Wachen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.21">Denn er denkt gar zu tiefe Sachen.</l>
+</lg>
+</sp>
+<sp who="stimmen">
+<speaker xml:id="tg1351.2.22.part1">STIMMEN</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1351.2.22.1.part1">im Zelt.</hi>
+</stage>
+<lg>
+<l xml:id="tg1351.2.22.part2">
+<hi rend="italic" xml:id="tg1351.2.22.1.part2"> Auflauf.</hi>
+</l>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.23">Greift ihn, den Schelm! Schlagt zu! Schlagt zu.</l>
+</lg>
+</sp>
+<sp who="bauern_stimme">
+<speaker xml:id="tg1351.2.24.part1">DES BAUERN STIMME.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.25">Hilfe! Barmherzigkeit!</l>
+</sp>
+<sp who="andre_stimmen">
+<speaker xml:id="tg1351.2.26.part1">ANDRE STIMMEN.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.27">Friede! Ruh!</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1351.2.28.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.29">Hol mich der Teufel! Da setzts Hiebe.</l>
+</sp>
+<sp who="zweiter_jaeger">
+<speaker xml:id="tg1351.2.30.part1">ZWEITER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.31">Da muß ich dabei sein!</l>
+<lb xml:id="tg1351.2.32"></lb>
+<stage rend="zenoPC" xml:id="tg1351.2.33">
+<hi rend="italic" xml:id="tg1351.2.33.1">Laufen ins Zelt.</hi>
+</stage>
+<lb xml:id="tg1351.2.34"></lb>
+</sp>
+<sp who="marketenderin">
+<speaker xml:id="tg1351.2.35.part1">MARKETENDERIN</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1351.2.35.1.part1">kommt heraus.</hi>
+</stage>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.36">Schelmen und Diebe!</l>
+<pb n="296" xml:id="tg1351.2.37"></pb>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1351.2.38">TROMPETER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.39">Frau Wirtin, was setzt Euch so in Eifer?</l>
+</sp>
+<sp who="marketenderin">
+<speaker xml:id="tg1351.2.40">MARKETENDERIN.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.41">Der Lump! der Spitzbub! der Straßenläufer!</l>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.42">Das muß mir in meinem Zelt passieren!</l>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.43">Es beschimpft mich bei allen Herrn Offizieren.</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1351.2.44">WACHTMEISTER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.45">Bäschen, was gibts denn?</l>
+</sp>
+<sp who="marketenderin">
+<speaker xml:id="tg1351.2.46">MARKETENDERIN.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.47">Was wirds geben?</l>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.48">Da erwischten sie einen Bauer eben,</l>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.49">Der falsche Würfel tät bei sich haben.</l>
+</lg>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1351.2.50">TROMPETER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1351.2.51">Sie bringen ihn hier mit seinem Knaben.</l>
+<lb xml:id="tg1351.2.52"></lb>
+</sp>
+</div>
+</div>
+</div>
+<div n="/Literatur/M/Schiller, Friedrich/Dramen/Wallenstein/Wallensteins Lager/10. Auftritt" subtype="work:no" xml:id="tg1352">
+<div>
+<desc>
+<title>10. Auftritt</title>
+</desc>
+</div>
+<div type="text" xml:id="tg1352.2">
+<div type="h4">
+<head type="h4" xml:id="tg1352.2.1">Zehnter Auftritt</head>
+<stage rend="zenoPC" xml:id="tg1352.2.4">
+<hi rend="italic" xml:id="tg1352.2.4.1">Soldaten bringen den Bauer geschleppt.</hi>
+</stage>
+<lb xml:id="tg1352.2.5"></lb>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1352.2.6.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1352.2.7">Der muß baumeln!</l>
+</sp>
+<sp who="scharfschuetzen dragoner">
+<speaker xml:id="tg1352.2.8.part1">SCHARFSCHÜTZEN UND DRAGONER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1352.2.9">Zum Profoß! zum Profoß!</l>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1352.2.10">WACHTMEISTER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1352.2.11">Das Mandat ist noch kürzlich ausgegangen.</l>
+</sp>
+<sp who="marketenderin">
+<speaker xml:id="tg1352.2.12">MARKETENDERIN.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1352.2.13">In einer Stunde seh ich ihn hangen!</l>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1352.2.14">WACHTMEISTER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1352.2.15">Böses Gewerbe bringt bösen Lohn.</l>
+</sp>
+<sp who="erster_arkebusier">
+<speaker xml:id="tg1352.2.16.part1">ERSTER ARKEBUSIER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1352.2.16.1.part1">zum andern.</hi>
+</stage>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1352.2.17">Das kommt von der Desperation.</l>
+<l rend="zenoPLm4n4" xml:id="tg1352.2.18">Denn seht! erst tut man sie ruinieren,</l>
+<l rend="zenoPLm4n4" xml:id="tg1352.2.19">Das heißt sie zum Stehlen selbst verführen.</l>
+</lg>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1352.2.20">TROMPETER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1352.2.21">Was? was? Ihr redt ihm das Wort noch gar?</l>
+<l rend="zenoPLm4n4" xml:id="tg1352.2.22">Dem Hunde! tut Euch der Teufel plagen?</l>
+</lg>
+</sp>
+<sp who="erster_arkebusier">
+<speaker xml:id="tg1352.2.23.part1">ERSTER ARKEBUSIER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1352.2.24">Der Bauer ist auch ein Mensch – so zu sagen,</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1352.2.25.part1">ERSTER JÄGER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1352.2.25.1.part1">zum Trompeter.</hi>
+</stage>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1352.2.26">Laß sie gehen! sind Tiefenbacher.</l>
+<l rend="zenoPLm4n4" xml:id="tg1352.2.27">Gevatter Schneider und Handschuhmacher!</l>
+<l rend="zenoPLm4n4" xml:id="tg1352.2.28">Lagen in Garnison zu Brieg,</l>
+<l rend="zenoPLm4n4" xml:id="tg1352.2.29">Wissen viel, was der Brauch ist im Krieg.</l>
+</lg>
+<lb xml:id="tg1352.2.30"></lb>
+</sp>
+</div>
+</div>
+</div>
+<div n="/Literatur/M/Schiller, Friedrich/Dramen/Wallenstein/Wallensteins Lager/11. Auftritt" subtype="work:no" xml:id="tg1353">
+<div>
+<desc>
+<title>11. Auftritt</title>
+</desc>
+</div>
+<div type="text" xml:id="tg1353.2">
+<div type="h4">
+<head type="h4" xml:id="tg1353.2.1">Eilfter Auftritt</head>
+<stage rend="zenoPC" xml:id="tg1353.2.4">
+<hi rend="italic" xml:id="tg1353.2.4.1">Vorige. Kürassiere.</hi>
+</stage>
+<lb xml:id="tg1353.2.5"></lb>
+<sp who="erster_kuerassier">
+<speaker xml:id="tg1353.2.6.part1">ERSTER KÜRASSIER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.7">Friede! Was gibts mit dem Bauer da?</l>
+</sp>
+<sp who="erster_scharfschuetz">
+<speaker xml:id="tg1353.2.8.part1">ERSTER SCHARFSCHÜTZ.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.9">'s ist ein Schelm, hat im Spiel betrogen!</l>
+<pb n="297" xml:id="tg1353.2.10"></pb>
+</sp>
+<sp who="erster_kuerassier">
+<speaker xml:id="tg1353.2.11.part1">ERSTER KÜRASSIER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.12">Hat er dich betrogen etwa?</l>
+</sp>
+<sp who="erster_scharfschuetz">
+<speaker xml:id="tg1353.2.13.part1">ERSTER SCHARFSCHÜTZ.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.14">Ja, und hat mich rein ausgezogen.</l>
+</sp>
+<sp who="erster_kuerassier">
+<speaker xml:id="tg1353.2.15.part1">ERSTER KÜRASSIER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.16">Wie? du bist ein Friedländischer Mann,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.17">Kannst dich so wegwerfen und blamieren,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.18">Mit einem Bauer dein Glück probieren?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.19">Der laufe, was er laufen kann.</l>
+</lg>
+<lb xml:id="tg1353.2.20"></lb>
+<stage rend="zenoPC" xml:id="tg1353.2.21">
+<hi rend="italic" xml:id="tg1353.2.21.1">Bauer entwischt, die andern treten zusammen.</hi>
+</stage>
+<lb xml:id="tg1353.2.22"></lb>
+</sp>
+<sp who="erster_arkebusier">
+<speaker xml:id="tg1353.2.23.part1">ERSTER ARKEBUSIER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.24">Der macht kurze Arbeit, ist resolut,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.25">Das ist mit solchem Volke gut.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.26">Was ists für einer? Es ist kein Böhm.</l>
+</lg>
+</sp>
+<sp who="marketenderin">
+<speaker xml:id="tg1353.2.27">MARKETENDERIN.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.28">'s ist ein Wallon! Respekt vor dem!</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.29">Von des Pappenheims Kürassieren.</l>
+</lg>
+</sp>
+<sp who="erster_dragoner">
+<speaker xml:id="tg1353.2.30.part1">ERSTER DRAGONER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1353.2.30.1.part1">tritt dazu.</hi>
+</stage>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.31">Der Piccolomini, der junge, tut sie jetzt führen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.32">Den haben sie sich aus eigner Macht</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.33">Zum Oberst gesetzt in der Lützner Schlacht,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.34">Als der Pappenheim umgekommen.</l>
+</lg>
+</sp>
+<sp who="erster_arkebusier">
+<speaker xml:id="tg1353.2.35.part1">ERSTER ARKEBUSIER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.36">Haben sie sich so was rausgenommen?</l>
+</sp>
+<sp who="erster_dragoner">
+<speaker xml:id="tg1353.2.37.part1">ERSTER DRAGONER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.38">Dies Regiment hat was voraus,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.39">Es war immer voran bei jedem Strauß.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.40">Darf auch seine eigene Justiz ausüben,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.41">Und der Friedländer tuts besonders lieben.</l>
+</lg>
+</sp>
+<sp who="erster_kuerassier">
+<speaker xml:id="tg1353.2.42.part1">ERSTER KÜRASSIER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1353.2.42.1.part1">zum andern.</hi>
+</stage>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.43">Ists auch gewiß? Wer bracht es aus?</l>
+</sp>
+<sp who="zweiter_kuerassier">
+<speaker xml:id="tg1353.2.44.part1">ZWEITER KÜRASSIER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.45">Ich habs aus des Obersts eigenem Munde.</l>
+</sp>
+<sp who="erster_kuerassier">
+<speaker xml:id="tg1353.2.46.part1">ERSTER KÜRASSIER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.47">Was Teufel! Wir sind nicht ihre Hunde.</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1353.2.48.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.49">Was haben die da? sind voller Gift.</l>
+</sp>
+<sp who="zweiter_jaeger">
+<speaker xml:id="tg1353.2.50.part1">ZWEITER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.51">Ists was, ihr Herrn, das uns mitbetrifft?</l>
+</sp>
+<sp who="erster_kuerassier">
+<speaker xml:id="tg1353.2.52.part1">ERSTER KÜRASSIER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.53">Es hat sich keiner drüber zu freuen.</l>
+<lb xml:id="tg1353.2.54"></lb>
+<stage rend="zenoPC" xml:id="tg1353.2.55">
+<hi rend="italic" xml:id="tg1353.2.55.1">Soldaten treten herzu.</hi>
+</stage>
+<lb xml:id="tg1353.2.56"></lb>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.57">Sie wollen uns in die Niederland leihen;</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.58">Kürassiere, Jäger, reitende Schützen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.59">Sollen achttausend Mann aufsitzen.</l>
+</lg>
+</sp>
+<sp who="marketenderin">
+<speaker xml:id="tg1353.2.60">MARKETENDERIN.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.61">Was? was? da sollen wir wieder wandern?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.62">Bin erst seit gestern zurück aus Flandern.</l>
+</lg>
+</sp>
+<sp who="zweiter_kuerassier">
+<speaker xml:id="tg1353.2.63.part1">ZWEITER KÜRASSIER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1353.2.63.1.part1">zu den Dragonern.</hi>
+</stage>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.64">Ihr Buttlerischen sollt auch mitreiten.</l>
+<pb n="298" xml:id="tg1353.2.65"></pb>
+</sp>
+<sp who="erster_kuerassier">
+<speaker xml:id="tg1353.2.66.part1">ERSTER KÜRASSIER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.67">Und absonderlich wir Wallonen.</l>
+</sp>
+<sp who="marketenderin">
+<speaker xml:id="tg1353.2.68">MARKETENDERIN.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.69">Ei, das sind ja die allerbesten Schwadronen!</l>
+</sp>
+<sp who="erster_kuerassier">
+<speaker xml:id="tg1353.2.70.part1">ERSTER KÜRASSIER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.71">Den aus Mailand sollen wir hinbegleiten.</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1353.2.72.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.73">Den Infanten! Das ist ja kurios!</l>
+</sp>
+<sp who="zweiter_jaeger">
+<speaker xml:id="tg1353.2.74.part1">ZWEITER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.75">Den Pfaffen! Da geht der Teufel los.</l>
+</sp>
+<sp who="erster_kuerassier">
+<speaker xml:id="tg1353.2.76.part1">ERSTER KÜRASSIER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.77">Wir sollen von dem Friedländer lassen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.78">Der den Soldaten so nobel hält,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.79">Mit dem Spanier ziehen zu Feld,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.80">Dem Knauser, den wir von Herzen hassen?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.81">Nein, das geht nicht! Wir laufen fort.</l>
+</lg>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1353.2.82">TROMPETER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.83">Was zum Henker! sollen wir dort?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.84">Dem Kaiser verkauften wir unser Blut</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.85">Und nicht dem hispanischen roten Hut.</l>
+</lg>
+</sp>
+<sp who="zweiter_jaeger">
+<speaker xml:id="tg1353.2.86.part1">ZWEITER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.87">Auf des Friedländers Wort und Kredit allein</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.88">Haben wir Reitersdienst genommen;</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.89">Wärs nicht aus Lieb für den Wallenstein,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.90">Der Ferdinand hätt uns nimmer bekommen.</l>
+</lg>
+</sp>
+<sp who="erster_dragoner">
+<speaker xml:id="tg1353.2.91.part1">ERSTER DRAGONER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.92">Tät uns der Friedländer nicht formieren?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.93">Seine Fortuna soll uns führen.</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1353.2.94">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.95">Laßt euch bedeuten, hört mich an.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.96">Mit dem Gered da ists nicht getan.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.97">Ich sehe weiter als ihr alle,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.98">Dahinter steckt eine böse Falle.</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1353.2.99.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.100">Hört das Befehlbuch! Stille doch!</l>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1353.2.101">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.102">Bäschen Gustel, füllt mir erst noch</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.103">Ein Gläschen Melnecker für den Magen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.104">Alsdann will ich euch meine Gedanken sagen.</l>
+</lg>
+</sp>
+<sp who="marketenderin">
+<speaker xml:id="tg1353.2.105.part1">MARKETENDERIN</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1353.2.105.1.part1">ihm einschenkend.</hi>
+</stage>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.106">Hier, Herr Wachtmeister! Er macht mir Schrecken.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.107">Es wird doch nichts Böses dahinterstecken!</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1353.2.108">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.109">Seht, ihr Herrn, das ist all recht gut,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.110">Daß jeder das Nächste bedenken tut;</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.111">Aber, pflegt der Feldherr zu sagen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.112">Man muß immer das Ganze überschlagen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.113">Wir nennen uns alle des Friedländers Truppen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.114">Der Bürger, er nimmt uns ins Quartier,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.115">
+<pb n="299" xml:id="tg1353.2.115.1"></pb>
+Und pflegt uns und kocht uns warme Suppen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.116">Der Bauer muß den Gaul und den Stier</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.117">Vorspannen an unsre Bagagewagen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.118">Vergebens wird er sich drüber beklagen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.119">Läßt sich ein Gefreiter mit sieben Mann</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.120">In einem Dorfe von weitem spüren,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.121">Er ist die Obrigkeit drin und kann</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.122">Nach Lust drin walten und kommandieren.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.123">Zum Henker! Sie mögen uns alle nicht,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.124">Und sähen des Teufels sein Angesicht</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.125">Weit lieber als unsre gelben Kolletter.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.126">Warum schmeißen sie uns nicht aus dem Land? Potz Wetter!</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.127">Sind uns an Anzahl doch überlegen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.128">Führen den Knittel, wie wir den Degen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.129">Warum dürfen wir ihrer lachen?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.130">Weil wir einen furchtbaren Haufen ausmachen!</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1353.2.131.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.132">Ja, ja, im Ganzen, da sitzt die Macht!</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.133">Der Friedländer hat das wohl erfahren,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.134">Wie er dem Kaiser vor acht – neun Jahren</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.135">Die große Armee zusammenbracht.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.136">Sie wollten erst nur von zwölftausend hören:</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.137">Die, sagt' er, die kann ich nicht ernähren;</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.138">Aber ich will sechzigtausend werben,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.139">Die, weiß ich, werden nicht Hungers sterben.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.140">Und so wurden wir Wallensteiner.</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1353.2.141">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.142">Zum Exempel, da hack mir einer</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.143">Von den fünf Fingern, die ich hab,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.144">Hier an der Rechten den kleinen ab.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.145">Habt ihr mir den Finger bloß genommen?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.146">Nein, beim Kuckuck! ich bin um die Hand gekommen!</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.147">'s ist nur ein Stumpf, und nichts mehr wert.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.148">Ja, und diese achttausend Pferd,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.149">Die man nach Flandern jetzt begehrt,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.150">Sind von der Armee nur der kleine Finger.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.151">Läßt man sie ziehn, ihr tröstet euch,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.152">Wir seien um ein Fünftel nur geringer?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.153">
+<pb n="300" xml:id="tg1353.2.153.1"></pb>
+Prost Mahlzeit! da fällt das Ganze gleich.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.154">Die Furcht ist weg, der Respekt, die Scheu,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.155">Da schwillt dem Bauer der Kamm aufs neu,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.156">Da schreiben sie uns in der Wiener Kanzlei</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.157">Den Quartier- und den Küchenzettel,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.158">Und es ist wieder der alte Bettel.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.159">Ja, und wie lang wirds stehen an,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.160">So nehmen sie uns auch noch den Feldhauptmann –</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.161">Sie sind ihm am Hofe so nicht grün,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.162">Nun, da fällt eben alles hin!</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.163">Wer hilft uns dann wohl zu unserm Geld?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.164">Sorgt, daß man uns die Kontrakte hält?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.165">Wer hat den Nachdruck und hat den Verstand,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.166">Den schnellen Witz und die feste Hand,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.167">Diese gestückelten Heeresmassen</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.168">Zusammenzufügen und – zupassen?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.169">Zum Exempel – Dragoner – sprich:</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.170">Aus welchem Vaterland schreibst du dich?</l>
+</lg>
+</sp>
+<sp who="erster_dragoner">
+<speaker xml:id="tg1353.2.171.part1">ERSTER DRAGONER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.172">Weit aus Hibernien her komm ich.</l>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1353.2.173.part1">WACHTMEISTER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1353.2.173.1.part1">zu den beiden Kürassieren.</hi>
+</stage>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.174">Ihr, das weiß ich, seid ein Wallon,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.175">Ihr ein Welscher. Man hörts am Ton.</l>
+</lg>
+</sp>
+<sp who="erster_kuerassier">
+<speaker xml:id="tg1353.2.176.part1">ERSTER KÜRASSIER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.177">Wer ich bin? ich habs nie können erfahren,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.178">Sie stahlen mich schon in jungen Jahren.</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1353.2.179">WACHTMEISTER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.180">Und du bist auch nicht aus der Näh?</l>
+</sp>
+<sp who="erster_arkebusier">
+<speaker xml:id="tg1353.2.181.part1">ERSTER ARKEBUSIER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.182">Ich bin von Buchau am Feder-See.</l>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1353.2.183">WACHTMEISTER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.184">Und Ihr, Nachbar?</l>
+</sp>
+<sp who="zweiter_arkebusier">
+<speaker xml:id="tg1353.2.185.part1">ZWEITER ARKEBUSIER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.186">Aus der Schwitz.</l>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1353.2.187.part1">WACHTMEISTER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1353.2.187.1.part1">zum zweiten Jäger.</hi>
+</stage>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.188">Was für ein Landsmann bist du, Jäger?</l>
+</sp>
+<sp who="zweiter_jaeger">
+<speaker xml:id="tg1353.2.189.part1">ZWEITER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.190">Hinter Wismar ist meiner Eltern Sitz.</l>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1353.2.191.part1">WACHTMEISTER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1353.2.191.1.part1">auf den Trompeter zeigend.</hi>
+</stage>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.192">Und der da und ich, wir sind aus Eger.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.193">Nun! und wer merkt uns das nun an,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.194">Daß wir aus Süden und aus Norden</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.195">Zusammengeschneit und – geblasen worden?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.196">
+<pb n="301" xml:id="tg1353.2.196.1"></pb>
+Sehn wir nicht aus wie aus <hi rend="spaced" xml:id="tg1353.2.196.2">einem</hi> Span?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.197">Stehn wir nicht gegen den Feind geschlossen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.198">Recht wie zusammengeleimt und – gegossen?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.199">Greifen wir nicht wie ein Mühlwerk flink</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.200">Ineinander, auf Wort und Wink?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.201">Wer hat uns so zusammengeschmiedet,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.202">Daß ihr uns nimmer unterschiedet?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.203">Kein andrer sonst als der Wallenstein!</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1353.2.204.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.205">Das fiel mir mein Lebtag nimmer ein,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.206">Daß wir so gut zusammenpassen;</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.207">Hab mich immer nur gehen lassen.</l>
+</lg>
+</sp>
+<sp who="erster_kuerassier">
+<speaker xml:id="tg1353.2.208.part1">ERSTER KÜRASSIER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.209">Dem Wachtmeister muß ich Beifall geben.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.210">Dem Kriegsstand kämen sie gern ans Leben;</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.211">Den Soldaten wollen sie niederhalten,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.212">Daß sie alleine können walten.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.213">'s ist eine Verschwörung, ein Komplott.</l>
+</lg>
+</sp>
+<sp who="marketenderin">
+<speaker xml:id="tg1353.2.214">MARKETENDERIN.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.215">Eine Verschwörung? du lieber Gott!</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.216">Da können die Herren ja nicht mehr zahlen.</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1353.2.217">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.218">Freilich! Es wird alles bankerott.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.219">Viele von den Hauptleuten und Generalen</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.220">Stellten aus ihren eignen Kassen</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.221">Die Regimenter, wollten sich sehen lassen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.222">Täten sich angreifen über Vermögen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.223">Dachten, es bring ihnen großen Segen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.224">Und die alle sind um ihr Geld,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.225">Wenn das Haupt, wenn der Herzog fällt.</l>
+</lg>
+</sp>
+<sp who="marketenderin">
+<speaker xml:id="tg1353.2.226">MARKETENDERIN.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.227">Ach! du mein Heiland! das bringt mir Fluch!</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.228">Die halbe Armee steht in meinem Buch.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.229">Der Graf Isolani, der böse Zahler,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.230">Restiert mir allein noch zweihundert Taler.</l>
+</lg>
+</sp>
+<sp who="erster_kuerassier">
+<speaker xml:id="tg1353.2.231.part1">ERSTER KÜRASSIER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.232">Was ist da zu machen, Kameraden?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.233">Es ist nur eins, was uns retten kann,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.234">Verbunden können sie uns nichts schaden,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.235">Wir stehen alle für <hi rend="spaced" xml:id="tg1353.2.235.1">einen</hi> Mann.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.236">Laßt sie schicken und ordenanzen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.237">Wir wollen uns fest in Böhmen pflanzen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.238">
+<pb n="302" xml:id="tg1353.2.238.1"></pb>
+Wir geben nicht nach und marschieren nicht,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.239">Der Soldat jetzt um seine Ehre ficht.</l>
+</lg>
+</sp>
+<sp who="zweiter_jaeger">
+<speaker xml:id="tg1353.2.240.part1">ZWEITER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.241">Wir lassen uns nicht so im Land rum führen!</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.242">Sie sollen kommen und sollens probieren!</l>
+</lg>
+</sp>
+<sp who="erster_arkebusier">
+<speaker xml:id="tg1353.2.243.part1">ERSTER ARKEBUSIER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.244">Liebe Herren, bedenkts mit Fleiß,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.245">'s ist des Kaisers Will und Geheiß.</l>
+</lg>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1353.2.246">TROMPETER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.247">Werden uns viel um den Kaiser scheren.</l>
+</sp>
+<sp who="erster_arkebusier">
+<speaker xml:id="tg1353.2.248.part1">ERSTER ARKEBUSIER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.249">Laß Er mich das nicht zweimal hören.</l>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1353.2.250">TROMPETER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.251">'s ist aber doch so, wie ich gesagt.</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1353.2.252.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.253">Ja, ja, ich hörts immer so erzählen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.254">Der Friedländer hab hier allein zu befehlen.</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1353.2.255">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.256">So ists auch, das ist sein Beding und Pakt.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.257">Absolute Gewalt hat er, müßt ihr wissen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.258">Krieg zu führen und Frieden zu schließen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.259">Geld und Gut kann er konfiszieren,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.260">Kann henken lassen und pardonieren,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.261">Offiziere kann er und Obersten machen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.262">Kurz, er hat alle die Ehrensachen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.263">Das hat er vom Kaiser eigenhändig.</l>
+</lg>
+</sp>
+<sp who="erster_arkebusier">
+<speaker xml:id="tg1353.2.264.part1">ERSTER ARKEBUSIER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.265">Der Herzog ist gewaltig und hochverständig;</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.266">Aber er bleibt doch, schlecht und recht,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.267">Wie wir alle, des Kaisers Knecht.</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1353.2.268">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.269">Nicht wie wir alle! das wißt Ihr schlecht.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.270">Er ist ein unmittelbarer und freier</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.271">Des Reiches Fürst, so gut wie der Bayer.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.272">Sah ichs etwa nicht selbst mit an,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.273">Als ich zu Brandeis die Wach getan,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.274">Wie ihm der Kaiser selbsten erlaubt</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.275">Zu bedecken sein fürstlich Haupt?</l>
+</lg>
+</sp>
+<sp who="erster_arkebusier">
+<speaker xml:id="tg1353.2.276.part1">ERSTER ARKEBUSIER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.277">Das war für das Mecklenburger Land,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.278">Das ihm der Kaiser versetzt als Pfand.</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1353.2.279.part1">ERSTER JÄGER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1353.2.279.1.part1">zum Wachtmeister.</hi>
+</stage>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.280">Wie? In des Kaisers Gegenwart?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.281">Das ist doch seltsam und sehr apart!</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1353.2.282.part1">WACHTMEISTER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1353.2.282.1.part1">fährt in die Tasche.</hi>
+</stage>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.283">Wollt ihr mein Wort nicht gelten lassen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.284">
+<pb n="303" xml:id="tg1353.2.284.1"></pb>
+Sollt ihrs mit Händen greifen und fassen.</l>
+</lg>
+<lb xml:id="tg1353.2.285"></lb>
+<stage rend="zenoPC" xml:id="tg1353.2.286">
+<hi rend="italic" xml:id="tg1353.2.286.1">Eine Münze zeigend.</hi>
+</stage>
+<lb xml:id="tg1353.2.287"></lb>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.288">Wes ist das Bild und Gepräg?</l>
+</sp>
+<sp who="marketenderin">
+<speaker xml:id="tg1353.2.289">MARKETENDERIN.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.290">Weist her!</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.291">Ei, das ist ja ein Wallensteiner!</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1353.2.292">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.293">Na! da habt ihrs, was wollt ihr mehr?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.294">Ist er nicht Fürst so gut als einer?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.295">Schlägt er nicht Geld, wie der Ferdinand?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.296">Hat er nicht eigenes Volk und Land?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.297">Eine Durchlauchtigkeit läßt er sich nennen!</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.298">Drum muß er Soldaten halten können.</l>
+</lg>
+</sp>
+<sp who="erster_arkebusier">
+<speaker xml:id="tg1353.2.299.part1">ERSTER ARKEBUSIER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.300">Das disputiert ihm niemand nicht.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.301">Wir aber stehn in des Kaisers Pflicht,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.302">Und wer uns bezahlt, das ist der Kaiser.</l>
+</lg>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1353.2.303">TROMPETER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.304">Das leugn ich Ihm, sieht Er, ins Angesicht.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.305">Wer uns <hi rend="spaced" xml:id="tg1353.2.305.1">nicht</hi> zahlt, <hi rend="spaced" xml:id="tg1353.2.305.2">das</hi> ist der Kaiser!</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.306">Hat man uns nicht seit vierzig Wochen</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.307">Die Löhnung immer umsonst versprochen?</l>
+</lg>
+</sp>
+<sp who="erster_arkebusier">
+<speaker xml:id="tg1353.2.308.part1">ERSTER ARKEBUSIER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.309">Ei was! das steht ja in guten Händen.</l>
+</sp>
+<sp who="erster_kuerassier">
+<speaker xml:id="tg1353.2.310.part1">ERSTER KÜRASSIER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.311">Fried, ihr Herrn! Wollt ihr mit Schlägen enden?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.312">Ist denn darüber Zank und Zwist,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.313">Ob der Kaiser unser Gebieter ist?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.314">Eben drum, weil wir gern in Ehren</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.315">Seine tüchtigen Reiter wären,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.316">Wollen wir nicht seine Herde sein,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.317">Wollen uns nicht von den Pfaffen und Schranzen</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.318">Herum lassen führen und verpflanzen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.319">Sagt selber! Kommts nicht dem Herrn zugut,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.320">Wenn sein Kriegsvolk was auf sich halten tut?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.321">Wer anders macht ihn als seine Soldaten</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.322">Zu dem großmächtigen Potentaten?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.323">Verschafft und bewahrt ihm weit und breit</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.324">Das große Wort in der Christenheit?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.325">Mögen sich die sein Joch auf laden,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.326">Die mitessen von seinen Gnaden,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.327">Die mit ihm tafeln im goldnen Zimmer.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.328">
+<pb n="304" xml:id="tg1353.2.328.1"></pb>
+Wir, wir haben von seinem Glanz und Schimmer</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.329">Nichts als die Müh und als die Schmerzen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.330">Und wofür wir uns halten in unserm Herzen.</l>
+</lg>
+</sp>
+<sp who="zweiter_jaeger">
+<speaker xml:id="tg1353.2.331.part1">ZWEITER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.332">Alle großen Tyrannen und Kaiser</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.333">Hieltens so und waren viel weiser.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.334">Alles andre täten sie hudeln und schänden,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.335">Den Soldaten trugen sie auf den Händen.</l>
+</lg>
+</sp>
+<sp who="erster_kuerassier">
+<speaker xml:id="tg1353.2.336.part1">ERSTER KÜRASSIER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.337">Der Soldat muß sich können fühlen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.338">Wers nicht edel und nobel treibt,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.339">Lieber weit von dem Handwerk bleibt.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.340">Soll ich frisch um mein Leben spielen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.341">Muß mir noch etwas gelten mehr.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.342">Oder ich lasse mich eben schlachten</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.343">Wie der Kroat – und muß mich verachten.</l>
+</lg>
+</sp>
+<sp who="erster_jaeger zweiter_jaeger">
+<speaker xml:id="tg1353.2.344.part1">BEIDE JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.345">Ja, übers Leben noch geht die Ehr!</l>
+</sp>
+<sp who="erster_kuerassier">
+<speaker xml:id="tg1353.2.346.part1">ERSTER KÜRASSIER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.347">Das Schwert ist kein Spaten, kein Pflug,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.348">Wer damit ackern wollte, wäre nicht klug.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.349">Es grünt uns kein Halm, es wächst keine Saat,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.350">Ohne Heimat muß der Soldat</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.351">Auf dem Erdboden flüchtig schwärmen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.352">Darf sich an eignem Herd nicht wärmen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.353">Er muß vorbei an der Städte Glanz,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.354">An des Dörfleins lustigen, grünen Auen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.355">Die Traubenlese, den Erntekranz</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.356">Muß er wandernd von ferne schauen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.357">Sagt mir, was hat er an Gut und Wert,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.358">Wenn der Soldat sich nicht selber ehrt?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.359">Etwas muß er sein eigen nennen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.360">Oder der Mensch wird morden und brennen.</l>
+</lg>
+</sp>
+<sp who="erster_arkebusier">
+<speaker xml:id="tg1353.2.361.part1">ERSTER ARKEBUSIER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.362">Das weiß Gott, 's ist ein elend Leben!</l>
+</sp>
+<sp who="erster_kuerassier">
+<speaker xml:id="tg1353.2.363.part1">ERSTER KÜRASSIER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.364">Möchts doch nicht für ein andres geben.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.365">Seht, ich bin weit in der Welt rumkommen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.366">Hab alles in Erfahrung genommen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.367">Hab der hispanischen Monarchie</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.368">Gedient und der Republik Venedig</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.369">Und dem Königreich Napoli,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.370">
+<pb n="305" xml:id="tg1353.2.370.1"></pb>
+Aber das Glück war mir nirgends gnädig.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.371">Hab den Kaufmann gesehn und den Ritter,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.372">Und den Handwerksmann und den Jesuiter,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.373">Und kein Rock hat mir unter allen</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.374">Wie mein eisernes Wams gefallen.</l>
+</lg>
+</sp>
+<sp who="erster_arkebusier">
+<speaker xml:id="tg1353.2.375.part1">ERSTER ARKEBUSIER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.376">Ne! das kann ich eben nicht sagen.</l>
+</sp>
+<sp who="erster_kuerassier">
+<speaker xml:id="tg1353.2.377.part1">ERSTER KÜRASSIER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.378">Will einer in der Welt was erjagen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.379">Mag er sich rühren und mag sich plagen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.380">Will er zu hohen Ehren und Würden,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.381">Bück er sich unter die goldnen Bürden.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.382">Will er genießen den Vatersegen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.383">Kinder und Enkelein um sich pflegen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.384">Treib er ein ehrlich Gewerb in Ruh.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.385">Ich – ich hab kein Gemüt dazu.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.386">Frei will ich leben und also sterben,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.387">Niemand berauben und niemand beerben,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.388">Und auf das Gehudel unter mir</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.389">Leicht wegschauen von meinem Tier.</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1353.2.390.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.391">Bravo! Just so ergeht es mir.</l>
+</sp>
+<sp who="erster_arkebusier">
+<speaker xml:id="tg1353.2.392.part1">ERSTER ARKEBUSIER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.393">Lustiger freilich mag sichs haben,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.394">Über anderer Köpf wegtraben.</l>
+</lg>
+</sp>
+<sp who="erster_kuerassier">
+<speaker xml:id="tg1353.2.395.part1">ERSTER KÜRASSIER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.396">Kamerad, die Zeiten sind schwer,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.397">Das Schwert ist nicht bei der Waage mehr;</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.398">Aber so mag mirs keiner verdenken,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.399">Daß ich mich lieber zum Schwert will lenken.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.400">Kann ich im Krieg mich doch menschlich fassen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.401">Aber nicht auf mir trommeln lassen.</l>
+</lg>
+</sp>
+<sp who="erster_arkebusier">
+<speaker xml:id="tg1353.2.402.part1">ERSTER ARKEBUSIER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.403">Wer ist dran schuld, als wir Soldaten,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.404">Daß der Nährstand in Schimpf geraten?</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.405">Der leidige Krieg, und die Not und Plag</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.406">In die sechzehn Jahr schon währen mag.</l>
+</lg>
+</sp>
+<sp who="erster_kuerassier">
+<speaker xml:id="tg1353.2.407.part1">ERSTER KÜRASSIER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.408">Bruder, den lieben Gott da droben,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.409">Es können ihn alle zugleich nicht loben.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.410">Einer will die Sonn, die den andern beschwert,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.411">Dieser wills trocken, was jener feucht begehrt.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.412">Wo <hi rend="spaced" xml:id="tg1353.2.412.1">du</hi> nur die Not siehst und die Plag,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.413">
+<pb n="306" xml:id="tg1353.2.413.1"></pb>
+Da scheint <hi rend="spaced" xml:id="tg1353.2.413.2">mir</hi> des Lebens heller Tag.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.414">Gehts auf Kosten des Bürgers und Bauern,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.415">Nun wahrhaftig, sie werden mich dauern;</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.416">Aber ich kanns nicht ändern – seht,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.417">'s ist hier just, wies beim Einhaun geht,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.418">Die Pferde schnauben und setzen an,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.419">Liege wer will mitten in der Bahn,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.420">Seis mein Bruder, mein leiblicher Sohn,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.421">Zerriß mir die Seele sein Jammerton,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.422">Über seinen Leib weg muß ich jagen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.423">Kann ihn nicht sachte beiseitetragen.</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1353.2.424.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.425">Ei, wer wird nach dem andern fragen!</l>
+</sp>
+<sp who="erster_kuerassier">
+<speaker xml:id="tg1353.2.426.part1">ERSTER KÜRASSIER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.427">Und weil sichs nun einmal so gemacht,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.428">Daß das Glück dem Soldaten lacht,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.429">Laßts uns mit beiden Händen fassen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.430">Lang werden sies uns nicht so treiben lassen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.431">Der Friede wird kommen über Nacht,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.432">Der dem Wesen ein Ende macht;</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.433">Der Soldat zäumt ab, der Bauer spannt ein,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.434">Eh mans denkt, wirds wieder das alte sein.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.435">Jetzt sind wir noch beisammen im Land,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.436">Wir haben's Heft noch in der Hand,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.437">Lassen wir uns auseinander sprengen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.438">Werden sie uns den Brotkorb höher hängen.</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1353.2.439.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.440">Nein, das darf nimmermehr geschehn!</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.441">Kommt, laßt uns alle für <hi rend="spaced" xml:id="tg1353.2.441.1">einen</hi> stehn.</l>
+</lg>
+</sp>
+<sp who="zweiter_jaeger">
+<speaker xml:id="tg1353.2.442.part1">ZWEITER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.443">Ja, laßt uns Abrede nehmen, hört!</l>
+</sp>
+<sp who="erster_arkebusier">
+<speaker xml:id="tg1353.2.444.part1">ERSTER ARKEBUSIER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1353.2.444.1.part1">ein ledernes Beutelchen ziehend, zur Marketenderin.</hi>
+</stage>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.445">Gevatterin, was hab ich verzehrt,</l>
+</sp>
+<sp who="marketenderin">
+<speaker xml:id="tg1353.2.446">MARKETENDERIN.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.447">Ach! es ist nicht der Rede wert!</l>
+<lb xml:id="tg1353.2.448"></lb>
+<stage rend="zenoPC" xml:id="tg1353.2.449">
+<hi rend="italic" xml:id="tg1353.2.449.1">Sie rechnen.</hi>
+</stage>
+<lb xml:id="tg1353.2.450"></lb>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1353.2.451">TROMPETER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.452">Ihr tut wohl, daß ihr weiter geht,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.453">Verderbt uns doch nur die Sozietät.</l>
+</lg>
+<lb xml:id="tg1353.2.454"></lb>
+<stage rend="zenoPC" xml:id="tg1353.2.455">
+<hi rend="italic" xml:id="tg1353.2.455.1">Arkebusiere gehen ab.</hi>
+</stage>
+<lb xml:id="tg1353.2.456"></lb>
+</sp>
+<sp who="erster_kuerassier">
+<speaker xml:id="tg1353.2.457.part1">ERSTER KÜRASSIER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.458">Schad um die Leut! Sind sonst wackre Brüder.</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1353.2.459.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.460">Aber das denkt wie ein Seifensieder.</l>
+<pb n="307" xml:id="tg1353.2.461"></pb>
+</sp>
+<sp who="zweiter_jaeger">
+<speaker xml:id="tg1353.2.462.part1">ZWEITER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.463">Jetzt sind wir unter uns, laßt hören,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.464">Wie wir den neuen Anschlag stören.</l>
+</lg>
+</sp>
+<sp who="trompeter">
+<speaker xml:id="tg1353.2.465">TROMPETER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.466">Was? wir gehen eben nicht hin.</l>
+</sp>
+<sp who="erster_kuerassier">
+<speaker xml:id="tg1353.2.467.part1">ERSTER KÜRASSIER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.468">Nichts, ihr Herrn, gegen die Disziplin!</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.469">Jeder geht jetzt zu seinem Korps,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.470">Trägts den Kameraden vernünftig vor,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.471">Daß sies begreifen und einsehn lernen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.472">Wir dürfen uns nicht so weit entfernen.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.473">Für meine Wallonen sag ich gut.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.474">So, wie ich, jeder denken tut.</l>
+</lg>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1353.2.475">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.476">Terzkas Regimenter zu Roß und Fuß</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.477">Stimmen alle in diesen Schluß.</l>
+</lg>
+</sp>
+<sp who="zweiter_kuerassier">
+<speaker xml:id="tg1353.2.478.part1">ZWEITER KÜRASSIER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1353.2.478.1.part1">stellt sich zum ersten.</hi>
+</stage>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.479">Der Lombard sich nicht vom Wallonen trennt.</l>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1353.2.480.part1">ERSTER JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.481">Freiheit ist Jägers Element.</l>
+</sp>
+<sp who="zweiter_jaeger">
+<speaker xml:id="tg1353.2.482.part1">ZWEITER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.483">Freiheit ist bei der Macht allein.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.484">Ich leb und sterb bei dem Wallenstein.</l>
+</lg>
+</sp>
+<sp who="erster_scharfschuetz">
+<speaker xml:id="tg1353.2.485.part1">ERSTER SCHARFSCHÜTZ.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.486">Der Lothringer geht mit der großen Flut,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.487">Wo der leichte Sinn ist und lustiger Mut.</l>
+</lg>
+</sp>
+<sp who="dragoner">
+<speaker xml:id="tg1353.2.488">DRAGONER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.489">Der Irländer folgt des Glückes Stern.</l>
+</sp>
+<sp who="zweiter_scharfschuetz">
+<speaker xml:id="tg1353.2.490.part1">ZWEITER SCHARFSCHÜTZ.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.491">Der Tiroler dient nur dem Landesherrn.</l>
+</sp>
+<sp who="erster_kuerassier">
+<speaker xml:id="tg1353.2.492.part1">ERSTER KÜRASSIER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.493">Also laßt jedes Regiment</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.494">Ein Pro memoria reinlich schreiben:</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.495">Daß wir zusammen wollen bleiben,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.496">Daß uns keine Gewalt noch List</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.497">Von dem Friedländer weg soll treiben,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.498">Der ein Soldatenvater ist.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.499">Das reicht man in tiefer Devotion</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.500">Dem Piccolomini – ich meine den Sohn –</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.501">Der versteht sich auf solche Sachen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.502">Kann bei dem Friedländer alles machen,</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.503">Hat auch einen großen Stein im Brett</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.504">Bei des Kaisers und Königs Majestät.</l>
+</lg>
+</sp>
+<sp who="zweiter_jaeger">
+<speaker xml:id="tg1353.2.505.part1">ZWEITER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.506">Kommt! Dabei bleibts! Schlagt alle ein!</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.507">Piccolomini soll unser Sprecher sein.</l>
+<pb n="308" xml:id="tg1353.2.508"></pb>
+</lg>
+<lg>
+<l xml:id="tg1353.2.509">TROMPETER, DRAGONER, ERSTER JÄGER, ZWEITER KÜRASSIER, SCHARFSCHÜTZEN<hi rend="italic" xml:id="tg1353.2.509.1"> zugleich.</hi>
+</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.510">Piccolomini soll unser Sprecher sein.</l>
+</lg>
+<lb xml:id="tg1353.2.511"></lb>
+<stage rend="zenoPC" xml:id="tg1353.2.512">
+<hi rend="italic" xml:id="tg1353.2.512.1">Wollen fort.</hi>
+</stage>
+<lb xml:id="tg1353.2.513"></lb>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1353.2.514">WACHTMEISTER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.515">Erst noch ein Gläschen, Kameraden!</l>
+<lb xml:id="tg1353.2.516"></lb>
+<stage rend="zenoPC" xml:id="tg1353.2.517">
+<hi rend="italic" xml:id="tg1353.2.517.1">Trinkt.</hi>
+</stage>
+<lb xml:id="tg1353.2.518"></lb>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.519">Des Piccolomini hohe Gnaden!</l>
+</sp>
+<sp who="marketenderin">
+<speaker xml:id="tg1353.2.520.part1">MARKETENDERIN</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1353.2.520.1.part1">bringt eine Flasche.</hi>
+</stage>
+<lg>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.521">Das kommt nicht aufs Kerbholz. Ich geb es gern.</l>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.522">Gute Verrichtung, meine Herrn!</l>
+</lg>
+</sp>
+<sp who="kuerassiere">
+<speaker xml:id="tg1353.2.523">KÜRASSIERE.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.524">Der Wehrstand soll leben!</l>
+</sp>
+<sp who="erster_jaeger zweiter_jaeger">
+<speaker xml:id="tg1353.2.525.part1">BEIDE JÄGER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.526">Der Nährstand soll geben!</l>
+</sp>
+<sp who="dragoner scharfschuetzen">
+<speaker xml:id="tg1353.2.527.part1">DRAGONER UND SCHARFSCHÜTZEN.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.528">Die Armee soll florieren!</l>
+</sp>
+<sp who="trompeter wachtmeister">
+<speaker xml:id="tg1353.2.529.part1">TROMPETER UND WACHTMEISTER.</speaker>
+<l rend="zenoPLm4n4" xml:id="tg1353.2.530">Und der Friedländer soll sie regieren.</l>
+</sp>
+<sp who="zweiter_kuerassier">
+<speaker xml:id="tg1353.2.531.part1">ZWEITER KÜRASSIER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1353.2.531.1.part1">singt.</hi>
+</stage>
+<lg>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.532">Wohl auf, Kameraden, aufs Pferd, aufs Pferd!</l>
+<l rend="zenoPLm12n12" xml:id="tg1353.2.533">Ins Feld, in die Freiheit gezogen.</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.534">Im Felde, da ist der Mann noch was wert,</l>
+<l rend="zenoPLm12n12" xml:id="tg1353.2.535">Da wird das Herz noch gewogen.</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.536">Da tritt kein anderer für ihn ein,</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.537">Auf sich selber steht er da ganz allein.</l>
+</lg>
+<lb xml:id="tg1353.2.538"></lb>
+<stage rend="zenoPC" xml:id="tg1353.2.539">
+<hi rend="italic" xml:id="tg1353.2.539.1">Die Soldaten aus dem Hintergrunde haben sich während des Gesangs herbeigezogen und machen den Chor.</hi>
+</stage>
+<lb xml:id="tg1353.2.540"></lb>
+</sp>
+<sp who="chor">
+<speaker xml:id="tg1353.2.541">CHOR.</speaker>
+<lg>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.542">Da tritt kein anderer für ihn ein,</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.543">Auf sich selber steht er da ganz allein.</l>
+</lg>
+</sp>
+<sp who="dragoner">
+<speaker xml:id="tg1353.2.544">DRAGONER.</speaker>
+<lg>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.545">Aus der Welt die Freiheit verschwunden ist,</l>
+<l rend="zenoPLm12n12" xml:id="tg1353.2.546">Man sieht nur Herren und Knechte;</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.547">Die Falschheit herrschet, die Hinterlist</l>
+<l rend="zenoPLm12n12" xml:id="tg1353.2.548">Bei dem feigen Menschengeschlechte.</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.549">Der dem Tod ins Angesicht schauen kann,</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.550">Der Soldat allein ist der freie Mann.</l>
+</lg>
+</sp>
+<sp who="chor">
+<speaker xml:id="tg1353.2.551">CHOR.</speaker>
+<lg>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.552">Der dem Tod ins Angesicht schauen kann,</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.553">Der Soldat allein ist der freie Mann.</l>
+<pb n="309" xml:id="tg1353.2.554"></pb>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1353.2.555.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.556">Des Lebens Ängsten, er wirft sie weg,</l>
+<l rend="zenoPLm12n12" xml:id="tg1353.2.557">Hat nicht mehr zu fürchten, zu sorgen;</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.558">Er reitet dem Schicksal entgegen keck,</l>
+<l rend="zenoPLm12n12" xml:id="tg1353.2.559">Triffts heute nicht, trifft es doch morgen,</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.560">Und trifft es morgen, so lasset uns heut</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.561">Noch schlürfen die Neige der köstlichen Zeit.</l>
+</lg>
+</sp>
+<sp who="chor">
+<speaker xml:id="tg1353.2.562">CHOR.</speaker>
+<lg>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.563">Und trifft es morgen, so lasset uns heut</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.564">Noch schlürfen die Neige der köstlichen Zeit.</l>
+</lg>
+<lb xml:id="tg1353.2.565"></lb>
+<stage rend="zenoPC" xml:id="tg1353.2.566">
+<hi rend="italic" xml:id="tg1353.2.566.1">Die Gläser sind aufs neue gefüllt worden, sie stoßen an und trinken.</hi>
+</stage>
+<lb xml:id="tg1353.2.567"></lb>
+</sp>
+<sp who="wachtmeister">
+<speaker xml:id="tg1353.2.568">WACHTMEISTER.</speaker>
+<lg>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.569">Von dem Himmel fällt ihm sein lustiges Los,</l>
+<l rend="zenoPLm12n12" xml:id="tg1353.2.570">Brauchts nicht mit Müh zu erstreben,</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.571">Der Fröner, der sucht in der Erde Schoß,</l>
+<l rend="zenoPLm12n12" xml:id="tg1353.2.572">Da meint er den Schatz zu erheben.</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.573">Er gräbt und schaufelt, so lang er lebt,</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.574">Und gräbt, bis er endlich sein Grab sich gräbt.</l>
+</lg>
+</sp>
+<sp who="chor">
+<speaker xml:id="tg1353.2.575">CHOR.</speaker>
+<lg>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.576">Er gräbt und schaufelt, so lang er lebt,</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.577">Und gräbt, bis er endlich sein Grab sich gräbt.</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1353.2.578.part1">ERSTER JÄGER.</speaker>
+<lg>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.579">Der Reiter und sein geschwindes Roß,</l>
+<l rend="zenoPLm12n12" xml:id="tg1353.2.580">Sie sind gefürchtete Gäste;</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.581">Es flimmern die Lampen im Hochzeitschloß,</l>
+<l rend="zenoPLm12n12" xml:id="tg1353.2.582">Ungeladen kommt er zum Feste,</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.583">Er wirbt nicht lange, er zeiget nicht Gold,</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.584">Im Sturm erringt er den Minnesold.</l>
+</lg>
+</sp>
+<sp who="chor">
+<speaker xml:id="tg1353.2.585">CHOR.</speaker>
+<lg>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.586">Er wirbt nicht lange, er zeiget nicht Gold,</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.587">Im Sturm erringt er den Minnesold.</l>
+</lg>
+</sp>
+<sp who="zweiter_kuerassier">
+<speaker xml:id="tg1353.2.588.part1">ZWEITER KÜRASSIER.</speaker>
+<lg>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.589">Warum weint die Dirn und zergrämet sich schier?</l>
+<l rend="zenoPLm12n12" xml:id="tg1353.2.590">Laß fahren dahin, laß fahren!</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.591">Er hat auf Erden kein bleibend Quartier,</l>
+<l rend="zenoPLm12n12" xml:id="tg1353.2.592">Kann treue Lieb nicht bewahren.</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.593">
+<pb n="310" xml:id="tg1353.2.593.1"></pb>
+Das rasche Schicksal, es treibt ihn fort,</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.594">Seine Ruh läßt er an keinem Ort.</l>
+</lg>
+</sp>
+<sp who="chor">
+<speaker xml:id="tg1353.2.595">CHOR.</speaker>
+<lg>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.596">Das rasche Schicksal, es treibt ihn fort,</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.597">Seine Ruh läßt er an keinem Ort.</l>
+</lg>
+</sp>
+<sp who="erster_jaeger">
+<speaker xml:id="tg1353.2.598.part1">ERSTER JÄGER</speaker>
+<stage>
+<hi rend="italic" xml:id="tg1353.2.598.1.part1">faßt die zwei Nächsten an der Hand, die übrigen ahmen es nach; alle, welche gesprochen, bilden einen großen Halbkreis.</hi>
+</stage>
+<lg>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.599">Drum frisch, Kameraden, den Rappen gezäumt,</l>
+<l rend="zenoPLm12n12" xml:id="tg1353.2.600">Die Brust im Gefechte gelüftet.</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.601">Die Jugend brauset, das Leben schäumt,</l>
+<l rend="zenoPLm12n12" xml:id="tg1353.2.602">Frisch auf! eh der Geist noch verdüftet.</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.603">Und setzet ihr nicht das Leben ein,</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.604">Nie wird euch das Leben gewonnen sein.</l>
+</lg>
+</sp>
+<sp who="chor">
+<speaker xml:id="tg1353.2.605">CHOR.</speaker>
+<lg>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.606">Und setzet ihr nicht das Leben ein,</l>
+<l rend="zenoPLm8n8" xml:id="tg1353.2.607">Nie wird euch das Leben gewonnen sein.</l>
+</lg>
+<lb xml:id="tg1353.2.608"></lb>
+<stage rend="zenoPC" xml:id="tg1353.2.609">
+<hi rend="italic" xml:id="tg1353.2.609.1">Der Vorhang fällt, ehe der Chor ganz ausgesungen.</hi>
+</stage>
+<lb xml:id="tg1353.2.610"></lb>
+<pb n="311" xml:id="tg1353.2.611"></pb>
+<pb n="313" type="start" xml:id="tg1353.2.612"></pb>
+</sp>
+</div>
+</div>
+</div>
+</body>
+</text>
+</tei>

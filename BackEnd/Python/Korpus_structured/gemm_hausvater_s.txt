@@ -1,0 +1,470 @@
+Der deutsche Hausvater oder die Familie
+by Gemmingen-Hornberg, Otto Heinrich von
+Speakers: ['KARL', 'DROMER', 'BEDIENTER', 'SOPHIE', 'FRITZ', 'GRAF MONHEIM', 'MONHEIM', 'FERDINAND', 'EIN BEDIENTER', u'GR\xc4FIN AMALDI', 'AMALDI', 'ADJUTANT', 'MALER', 'LOTTCHEN', 'ANNE']
+
+Act 1
+
+Configuration 1
+
+KARL
+Guten Morgen, Dromer.
+DROMER
+Unterthäniger Diener, Graf Karl.
+KARL
+Ist meine Schwester noch nicht herausgekommen?
+DROMER
+Daß ich nicht wüßte. Ich komme zwar erst – –
+BEDIENTER
+Die Gräfin endigt ihren Anzug, wird gleich da sein. Geht ab.
+DROMER
+Sie sind übler Laune, Graf.
+KARL
+Das trübe Wetter – –
+DROMER
+Oder wieder – – –
+KARL
+Was Sie wollen, wie Sie wollen – – Auch denke ich, es ist besser, ich erwarte meine Schwester nicht: sein Sie so gut, ihr zu sagen, daß ich da war, um ihr einen guten Morgen zu wünschen.
+DROMER
+Ich habe Sie doch nicht beleidigt? Ihr bester Freund – – –
+KARL
+Mein Gott! im geringsten nicht. Aber ich mag mit meiner üblen Laune niemand beschwerlich fallen.
+DROMER
+O bleiben Sie doch, erwarten Sie Ihre liebenswürdige Schwester; es kommen noch mehrere Damen zum Besuch, wenigstens weiß ich gewiß, die Gräfin Amaldi, das wird Sie aufheitern.
+KARL
+Dromer, lassen Sie mich mit den Weibern ungeplagt. Ich hasse sie alle; sie machen aus den herrlichsten Gottesgeschöpfen, aus uns Männern, ein Ding, das sie mit der Puppe verwechseln. Hemmen einen jeden von uns in seinem ersten besten Lauf. Er will gehen, kommt aber von der Thüre zurück. Haben Sie mein Bürgermädchen nicht gesehen?
+DROMER
+Ja, sie geht alle Tage bei mir vorbei in die Kirche.
+KARL
+Sieht das Mädchen traurig aus?
+DROMER
+Wie Sie wissen, immer in stiller Bescheidenheit; kann auch wohl ein Mädchen, das ein Graf Karl –
+KARL
+Lieber Mann, Sie sind wieder mit einem Kompliment unterwegs: mir zur Liebe, ersticken Sie es in der Geburt. – Niedergeschlagen sieht sie also aus? Armes Mädchen!
+DROMER
+Sehn Sie sie denn nicht täglich?
+KARL
+Nein, schon seit einer ganzen Woche –
+
+Configuration 2
+
+KARL
+Guten Morgen, Schwester.
+SOPHIE
+Willkommen. Lieber Herr von Dromer, wollen Sie mir wohl die Gefälligkeit erweisen und den Brief meinem Mann hinaufbringen; er ist erst gekommen.
+DROMER
+Es wird mir eine große Gnade geschehen. Eilends ab.
+SOPHIE
+Es ist doch ein guter Narr.
+KARL
+Bis auf das langweilige Komplimentenmachen.
+SOPHIE
+Willst du mit mir frühstücken?
+KARL
+Meinetwegen.
+SOPHIE
+Geh mein Kind, sag, man soll das Frühstück hieher bringen, und bleib dann oben beim Hofmeister.
+FRITZ
+Gut, Mama. Harmlos will das Kind wegbringen, als
+SOPHIE
+Fritz, wohin, kein Kompliment?
+SOPHIE
+So recht.
+KARL
+Ich habe gehen wollen; aber du weißt, Schwester, daß ich dich zu lieb habe, um von dir weg zu können, wenn ich bei dir bin. Man bringt das Frühstück. Er setzt sich.
+SOPHIE
+Karl!
+KARL
+Was willst du?
+SOPHIE
+Sprachst du nicht eben wieder von deinem Bürgermädchen mit Dromern und versprachst mir doch – – –
+KARL
+Sie nicht mehr zu sehen, und das that ich auch; denn seit acht Tagen sah ich das Mädchen mit keinem Blick.
+SOPHIE
+Versprachst auch, sie zu vergessen.
+KARL
+Da habe ich eine Narrheit begangen – versprochen, was ich nicht halten konnte; nicht halten möchte. Wie du mir mit den lebhaftesten Farben vorhieltest das Verderben, in das ich durch solch eine ungleiche Verbindung rennen würde, die Erniedrigung, den Spott der ganzen Welt maltest; mich fühlen ließest, wie aller weiterer Weg der Ehre, des Ruhms für mich verschlossen sein würde. Mich erinnertest an den Unwillen, die Betrübnis unsers liebsten Vaters, wenn er von seiner Reise zurückkäme – – – was hätte ich da nicht versprochen? – – Nun habe ich gehalten, was ich konnte ...
+SOPHIE
+Folgtest du auch meinem Vorschlag? Hast du dich zu zerstreuen gesucht?
+KARL
+Habe es versucht; zusammengesucht, alles, was je Reize für mich hatte – – – und es war alles nichts. Habe mich an meine Arbeiten gesetzt, aber ich konnte nicht. Wollte dichten, meine Gefühle niederschreiben, ihnen dadurch Lust machen, – aber wer könnte Licht in das Chaos bringen?
+SOPHIE
+Hättest auf das Land gehen sollen, zum Genuß wohlthätiger Natur.
+KARL
+Auch das habe ich; der Abend war heiter, da setzt' ich mich am Ufer des Flusses; aber der Strom fließt so schnell, das giebt Unruhe, und war Bild, wie meiner Lotten Thränen vielleicht flossen. Nun setzt' ich mich abwärts unter einem Baum, zog meinen trauten Freund Homer aus der Tasche – – aber das nämliche Herz, das für Homer fühlbar ist, ist es auch für mein Mädchen.
+SOPHIE
+Gänzliche Abspannung unsrer Sinne hilft oft am besten.
+KARL
+Dacht's auch. Ging tiefer in den Busch hinein, legte mich an eine kleine Quelle im Walde; durch eine kleine Öffnung sah ich die Sonne untergehen; sie verbarg sich hinter den Kirchentürmen; die Natur ward stiller; ein Vogel nach dem andern sang seinen letzten Abendgesang – und nun alles still – Die Abendglocke schallte herüber; mein Herz war so voll, mir so weh und so wohl – und nun alles still, bis auf den kleinen rieslenden Bach – – aber ach! da hörte ich die Nachtigall – sonst himmlische Melodie für mich, heute waren es Klagetöne – wimmern um den Gatten – – und nun konnt' ich es nicht mehr ertragen – rannte nach Hause, warf mich auf mein Bette und quälte mich die lange, lange Nacht ab; sagte mir tausendmal bei jedem Perpendikelschlag meiner Uhr, morgen willst du wieder in ihre Arme, was ist ein Leben dieser Art? Und siehst du, es ward Tag – ist itzt bald Mittag, und ich war noch nicht dort.
+SOPHIE
+Ich wußte wohl, daß ich auf dein Wort zählen durfte; aber was soll mir alles dieses, solang ich dich in dieser Unruhe weiß? Geh in Gesellschaften.
+KARL
+Was soll ich da?
+SOPHIE
+Zerstreuung suchen; sehn, ob du nicht unter allen den weiblichen Geschöpfen eine findest – – –
+KARL
+Ich zweifle nicht, daß in all denen durch eure Moden verstellten Körpern hie und da noch eine gute Seele seie. Aber weg mit den Weibern; kann man einem von Bienen gestochnen Knaben zumuten, daß er wieder zum Korb gehe? – – – Und dann der ewige Taumel, in dem man sein muß, um mit euch zu leben. Um bei euch artig zu heißen, muß man seiner beinahe fast ganz entsagen, denn der Unangesehnste will man doch dort nicht sein, wo man ist. Tagelang von Hause zu Hause mit euch. herumfahren; mit jedermann sprechen müssen und niemand nichts zu sagen haben. – Wer das kann, der thue es, ich nicht.
+SOPHIE
+Auch riet ich es dir nur als Zerstreuung, um deine übrigen Gedanken zu vertreiben.
+KARL
+Schwester, offenbar ist jene Lebensart nichts; und du willst mit einem Nichts so etwas Wesentliches, als Liebe, wahre, innige Liebe ist, vertreiben? Aber was hat mir Dromer gesagt? Es kommen Leute zum Besuch? – in dem Fall laß mich gehn.
+SOPHIE
+Niemand als die Gräfin Amaldi. Sie hat sich selbst eingeladen: ich weiß nicht, warum.
+KARL
+Warum? um dich zu sehn, was ist natürlicher
+SOPHIE
+Oder meinen Mann.
+KARL
+Eifersüchtig? Ja, ja, ihr Weiber könnt Eifersucht und Gleichgültigkeit trefflich verbinden.
+SOPHIE
+Wer sagt dir, daß mein Mann gleichgültig ist? und wenn er's ist, wo fing die Gleichgültigkeit an?
+KARL
+Denkst du, ich wolle die Apologie deines Mannes machen: wir stimmen viel zu wenig zusammen.
+SOPHIE
+Doch war's nicht immer so. Es war eine Zeit – –
+KARL
+Reiz der Neuheit: erste Flittermonate –
+SOPHIE
+Glaube mir, wir liebten uns.
+KARL
+Wenn es auch war, so konnte es nicht dauren. Ein geschäftloser Mann kann nie ein guter Ehemann sein. Langeweile wird das Grab der Liebe und der Freundschaft. Und ist es gar ein Hofmann im eigentlichen Verstande, der sich Geschäfte macht, wo keine sind, seine Nullenexistenz für wesentlich hält und doch immer findet, daß er nur eine Nulle ist – – weh dann seiner Frau!
+SOPHIE
+Nur seit der Bekanntschaft mit der Gräfin Amaldi – –
+KARL
+Schwester, ich bin dir Bürge dafür, daß, wenn der Graf auch in sie verliebt ist, sie ihn bald entfernen wird. Es ist eine große Seele; ihr Umgang fordert mehr – Kokett freilich, wie ihr alle seid.
+SOPHIE
+Ich fühle mich so ganz geschaffen, das Glück eines stillen Hausvergnügens zu genießen. Jede meiner Handlungen sollte dahin zielen, meinen Mann glücklich zu machen; meine Gedanken nur dahin gerichtet sein. Mich selbst könnt' ich vergessen, nur ganz in ihm leben und selige Tage – Aber, wo bist du mit deinen Gedanken?
+KARL
+Da, wo du mich nicht haben willst, ich selbst nicht sein möchte und doch so immer bin.
+SOPHIE
+Aber, wo bleibt bei allen dem der Mann, die Festigkeit, die Geisteskraft, welche du immer so beredt im Munde führest: was soll das Weib thun, wenn das euch Männern geziemt, die ihr doch so gerne eine Art von Halbgötter scheinen möchtet.
+KARL
+Schwester, du berührst eine Saite, eine Saite – – – – Ich fühle Verstimmung; aber auch in meinem Entschluß etwas, das nicht sein sollte, das ich anders wünschte. Sei es drum, daß ich das Mädchen lassen soll, nicht knüpfen soll die Bande, welche ich ihr träumen ließ: muß ich deswegen wie ein Meineidiger sie stillschweigend verlassen? Ist es auch die Handlung eines Mannes, daß er wie ein Knabe fliehe für das, was er meiden soll?
+SOPHIE
+Und so sei dann wieder die Vernunft der Deckmantel der Leidenschaft.
+KARL
+Nicht so, Schwester; ich überlasse dir selbst die Entscheidung. Ist's nicht Unmenschlichkeit, das Mädchen, das mich so ganz liebt, so ganz an mir hängt; voll Zuversicht auf meine Worte sich schon die Gattin ihres Liebhabers träumte; eingewiegt in diesem Traum, so weit ging, daß sie bald Mutter werden wird – –
+SOPHIE
+Armes Mädchen! – – – Männer, was seid ihr vor Geschöpfe!
+KARL
+Sag es aus, sage daß sie Bösewichte sind; nenne mich auch so – aber dann laß mich murren über den Streit zwischen unsren Leidenschaften und Konventionen – – Sag nun selbst, ob es nicht Unmenschlichkeit wäre, das Mädchen so stille schweigend zu verlassen.
+SOPHIE
+Alles wahr – – – aber wo soll das alles hinaus? wenn du sie wiedersiehst –
+KARL
+Werde ich sie bis auf die Wiederkunft meines Vaters vertrösten.
+SOPHIE
+Der wird aber wiederkommen, und – –
+KARL
+Dann – weiß ich's selbst? – – Da ist alles Nacht. – Was wünsche ich sehnlicher, als meinen Vater wieder zu sehen? Und doch, Schwester, zittre ich für seine Ankunft.
+SOPHIE
+Kann man sich auch vor dem besten Ratgeber fürchten? Mir soll er das sein.
+
+Configuration 3
+
+GRAF MONHEIM
+Ihr Vater wird in weniger als einer Stunde da sein.
+KARL
+Mein Vater: o! ihm entgegen, dem besten Vater. Eilends ab.
+SOPHIE
+Freude; unser Vater wird nach so langer Zeit – –
+MONHEIM
+Er hat Sie zwar überfallen wollen; da es aber billig ist, daß man ihn in seinem Hause gut empfange, habe ich es Ihnen voraus zu sagen gut gefunden.
+SOPHIE
+Gleich werde ich die Bestellungen machen. Ab.
+MONHEIM
+Ja – dazu ist sie zu gebrauchen; als Haushälterin höchstens; zu sonst nichts.
+DROMER
+Verzeihen Euer Excellenz, es ist die liebenswürdigste Dame.
+MONHEIM
+Es ist mir lieb für Sie, wenn Sie sie so finden; mir ist es das langweiligste, abgeschmackteste Geschöpf.
+DROMER
+Doch eine sehr empfindsame Seele.
+MONHEIM
+Ja, so äußerst empfindsam, daß ich für sie gar nichts mehr empfinde.
+DROMER
+Freilich etwas übertrieben; aber wer kann auch gegen den durchdringenden, weit umfassenden Verstand von Euer Excellenz bestehen.
+MONHEIM
+Gehorsamer Diener, gehorsamer Diener! Ich bin gern tolerant, gern tolerant, – wenn man nur gesunden Menschenverstand hat.
+DROMER
+Als alter Freund vom Hause und devotester Diener von Euer Excellenz wollte ich doch unterthänig sagen, wie ich gewiß weiß, daß die Frau Gräfin einige Eifersucht über die Gräfin Amaldi haben, deswegen wollte ich raten, daß Sie gegen die Gräfin einige Rücksichten hätten.
+MONHEIM
+Rücksichten? – was für Rücksichten? Amaldi ist eine große, treffliche Dame, und sie ist ein albernes Ding, das höchstens etwas deutsche Romanenlektüre hat, sich in der Welt nicht zu präsentieren weiß und mir Langeweile macht. Das ist genug. – Sie hat nicht einmal den Verstand, ein Liebhaber zu haben.
+DROMER
+Das ist denn doch sonst ein ziemlich gewöhnlicher Verstand.
+MONHEIM
+Und wenn ich vollends von einer Gräfin Amaldi zurückkomme, der Königin unter den Weibern, und dann von ungefähr meiner langweiligen Frau begegne, die mit dem Mond in Konversation ist, oder so etwas Ähnliches treibt; da möcht' ich gleich. –
+DROMER
+Zur großen Welt ist die Gräfin freilich nicht sehr geneigt.
+MONHEIM
+Auch kann ich eigentlich kein Haus halten, wie es einem Manne meines Standes geziemte. Kurz, das beste Mittel, ich räume ihr ein Landhaus ein und sondere mich so ganz nach und nach von ihr ab.
+DROMER
+Ei, ei, wenn nun aber der Vater kömmt.
+MONHEIM
+Eben der muß mir zum Vorhaben helfen. – Ich möchte rasend werden, wenn ich denke, daß ich vielleicht itzt der Gemahl der Gräfin Amaldi werden könnte, eine der reichsten und vornehmsten Witwen. – – Denn, unter uns, ihre Neigung zu mir ist mir gar nicht zweifelhaft.
+DROMER
+Wo so eine Übereinstimmung des Geistes und der Seele ist – – –
+SOPHIE
+Alles habe ich besorgt.
+MONHEIM
+Auch bestellt, daß wir heute im großen Saal essen müssen, daß die Livree in Gala erscheinen muß.
+SOPHIE
+Das nicht.
+MONHEIM
+Warum aber nicht?
+SOPHIE
+Weil ich glaubte, dem Vater würde die Freude seiner Kinder die beste Gala sein.
+MONHEIM
+Nicht einmal zur Haushälterin in einem bürgerlichen Hause wäre sie nutz. Baron, gehen Sie mit mir. Ab.
+DROMER
+Wenn Euer Gnaden erlauben – ich bin ohnedem um diese Stunde zur Gräfin Amaldi bestellt; sie will, glaube ich, ausfahren.
+SOPHIE
+O ja, gehn Sie nur.
+DROMER
+Übrigens können Sie nicht glauben, was ich für eine Freude über die Ankunft Ihres Herrn Vaters habe.
+SOPHIE
+Ich danke Ihnen dafür. – Kennen Sie ihn?
+DROMER
+Ob ich ihn kenne? Er ist mein bester Freund.
+SOPHIE
+Das wäre! wo haben Sie ihn denn gesehn?
+DROMER
+Vor sechs Jahren habe ich einmal mit ihm in Wien zu Mittag gegessen, und da haben wir gar viel von hier gesprochen.
+SOPHIE
+Ja, so!
+DROMER
+Noch eins, Gräfin, aus bloßer Freundschaft. Geben Sie auf Ihren Gemahl Achtung, er spricht von Entfernung, von Scheidung. Aber wirklich, ich muß fort. Unterthänigster Diener! Ich hoffe, Sie werden meine Freundschaft nicht verkennen.
+SOPHIE
+Ich wüßte nicht, womit ich ihn beleidigt hätte.
+DROMER
+Nun, wenn man, wie der Herr Graf, verliebt ist – Ab.
+SOPHIE
+Dromer – –
+
+Configuration 4
+
+FERDINAND
+Guten Abend, Schwesterchen.
+SOPHIE
+Guten Abend. Du siehst ja ganz erhitzt aus.
+FERDINAND
+Ja, das verdammte Exerzieren den ganzen Tag. Komm' eben erst davon her: und dann habe ich die ganze Nacht nicht geschlafen.
+SOPHIE
+Wieder herumgeschwärmt.
+FERDINAND
+Du weißt, es war bis zwei Uhr Vauxhall, und hernach bin ich in eine Spielgesellschaft geraten – auch schläfert's mich ganz gewaltig.
+SOPHIE
+Du wirst dich noch ganz um deine Gesundheit bringen.
+FERDINAND
+Mit der Gesundheit hat es keine Not; aber desto mehr mit dem Gelde. – Schwesterchen, kannst mir keins lehnen?
+SOPHIE
+Gestern gab ich dir ja noch mein ganzes Monatgeld; wo ist denn das schon wieder hin?
+FERDINAND
+Frau Schwester, alles verspielt; die verfluchte Karodame! ich sehe sie noch.
+EIN BEDIENTER
+Die Gräfin Amaldi. Ab.
+
+Configuration 5
+
+GRÄFIN AMALDI
+Es freuet mich, Sie zu Hause anzutreffen.
+SOPHIE
+Setzen Sie sich, Gräfin. Was für einem Zufall kann ich die Ehre Ihres Besuchs zuschreiben?
+GRÄFIN AMALDI
+Wirklich, man muß es mir nicht übel nehmen, wenn ich nicht oft ausgehe: aber ich bin beständig nicht recht wohl und dann fange ich an bequem zu werden: habe immer viele Gesellschaften.
+SOPHIE
+Niemand kennt mehr den Wert des Hauslebens als ich. – Wollen sich die Herren nicht setzen?
+GRÄFIN AMALDI
+– Graf Ferdinand, haben Sie vorige Nacht viel getanzt?
+FERDINAND
+Ganz entsetzlich; wohl acht Kontertänze, glaube ich, ohne Aufhören.
+DROMER
+Auch ist ohne Schmeichelei der Herr Graf einer unserer besten Tänzer.
+AMALDI
+Immer weiß der Baron jedermann doch was Galantes zu sagen.
+SOPHIE
+Ja, ich glaube, vom Schweizer an der Thüre bis zum Hausherrn.
+DROMER
+Gar zu gnädig.
+FERDINAND
+Hör, Baron, ich glaube, du hast gleich am ersten Geburtstage deiner Mutter schon ein unterthäniges Kompliment gemacht für die Mühe, die sie gehabt hat. Alle lachen.
+AMALDI
+Wo ist der Graf Karl?
+FERDINAND
+Mein gelehrter Bruder? Ja, Gräfin, ich weiß wahrhaftig nicht. Er nimmt Dromer beiseite.
+SOPHIE
+Wie ich glaube, unsrem Vater entgegen.
+AMALDI
+Wie? soll der würdige Mann heute noch kommen?
+SOPHIE
+In weniger als einer Stunde.
+AMALDI
+In dem Fall wäre es unbillig, Sie länger aufzuhalten: nur erlauben Sie mir, daß ich Ihnen mit meiner gewöhnlichen Offenherzigkeit etwas sage.
+SOPHIE
+Ich bin bereit zu hören.
+AMALDI
+Dromer hat mir gesagt, daß Sie nicht gerne sähen, daß Ihr Mann in mein Haus komme.
+SOPHIE
+Der Schwätzer, was – – –
+AMALDI
+Still, Madame, geben Sie sich mit ihm nicht ab. Wenn ich Ihren Mann gelitten habe, so war es, weil ich mir eine Freude daraus mache, mehrere Männer um mich herum zu haben, um mit Vergnügen zu sehen, wie wir Weiber das schwache Männervolk nach Belieben leiten können. Nun aber – – – doch ich glaube, Dromer beobachtet uns, gehen wir in Ihr Kabinett.
+SOPHIE
+Wollen Sie meine Arbeiten sehen? Gehen ab.
+FERDINAND
+Die verfluchte Karodame! und so ging's, daß ich alles verspielte.
+DROMER
+Ich nehme außerordentlichen Anteil daran; befiehl nur, was ich dir als Freund erweisen kann?
+FERDINAND
+Ja – Geld lehnen.
+DROMER
+Geld – Geld – – ja, wo soll ich zu Geld kommen?
+FERDINAND
+Ja – da hat's der Teufel, wenn man mehr als Worte von euch Leuten haben will – –
+
+Configuration 6
+
+KARL
+Wo ist meine Schwester?
+DROMER
+Mit der Gräfin Amaldi im Kabinette.
+FERDINAND
+Eben recht, Bruder, daß du kömmst, ich brauche Geld.
+KARL
+Das glaube ich.
+FERDINAND
+Habe aber keines.
+KARL
+Schlimm.
+FERDINAND
+Hast du auch keines?
+KARL
+Für dich wenigstens nicht: was ich dir geben kann, ist der gute Rat, daß du doch einmal in deinem Leben vernünftig werden möchtest.
+FERDINAND
+Auf was für einer Kasse holt man die Münze?
+EIN BEDIENTER
+Der Regimentsadjutant will mit dem Graf Ferdinand sprechen.
+FERDINAND
+Hat den der Teufel schon wieder da. Er möcht' nur hier herein kommen.
+
+Configuration 7
+
+KARL
+Ich habe meinem Vater entgegen gewollt; aber besser überlegt, will ich vorher noch mit meiner Schwester reden.
+DROMER
+Ich glaube, der Besuch wird nicht lang dauern. Ich finde überhaupt sonderbar, warum Gräfin Amaldi mag hergekommen sein?
+KARL
+Was geht das uns an? Aber was mein liederlicher Bruder dort wieder haben mag?
+DROMER
+Er hat von mir auch Geld haben wollen; habe ihm aber gewiß keines gegeben, denn – – – Er spricht ihm leiser ins Ohr.
+FERDINAND
+Aber, was Teufels, warum soll ich denn in Arrest?
+ADJUTANT
+Das wird Ihnen der Oberst schon sagen; sein Sie nur so gut zu kommen.
+FERDINAND
+Gleich, gleich. Adieu! meine Herren, ich muß nur geschwind wohin gehen.
+KARL
+Weißt du denn auch, daß unser Vater gleich hier sein wird.
+FERDINAND
+Unser Vater? Zum Adjutanten, beiseite. Ja, Herr Adjutant, da kann ich nicht mitgehen; nur bis morgen, dann will ich gern in Arrest.
+ADJUTANT
+Herr Hauptmann, Sie wissen, ich habe meine Order.
+FERDINAND
+Sie haben recht. Ich will den Oberst selbst bitten. Sie gehen ab.
+
+Configuration 8
+
+MONHEIM
+Ist es wahr, daß Gräfin Amaldi bei meiner Frau ist?
+DROMER
+Ja, Herr Graf.
+MONHEIM
+Was macht sie hier?
+DROMER
+Ich weiß nicht, aber es kam mir vor, als wäre von Ihnen die Rede.
+MONHEIM
+Von mir?
+GRÄFIN AMALDI
+Verzeihen Sie. Graf Karl, wollen Sie mich wohl hinunter führen?
+MONHEIM
+Sie haben ganz recht. Dann mit heftiger Gebärde zu Sophie. Das haben Sie gethan, Madame, aber nicht umsonst. Glauben Sie nicht, daß man mir so mitspielen kann. Der Sache muß ein Ende gemacht sein, und ich werde dafür sorgen. Ab indem er den Dromer mitnimmt. Sophie bleibt ganz erstaunt stehen.
+KARL
+Was giebt's denn hier?
+SOPHIE
+Mißhandlung meines Mannes. O! ich bin die unglückseligste Kreatur!
+KARL
+Und was bin denn ich? Armer Vater, wenn du zurückkommen wirst, was wirst du finden? Du, dem sonst deine glücklichen Kinder harmlos entgegen sprangen: nun? ach, es ist in unserm Hause eine Zerrüttung; nie wird er allem abhelfen können.
+EIN BEDIENTER
+Der alte Herr kömmt.
+KARL
+Ach meine Lotte – – – doch, ist's nicht mein Vater? Seiner Schwester nach.
+
+Act 2
+
+Configuration 1
+
+MALER
+Dank dir, meine Tochter, für dein Lied, es war trefflich.
+LOTTCHEN
+Ich weiß es wohl, Vater, daß es Ihr Lieblingslied ist, drum hab' ich's auch gesungen.
+MALER
+Gutes Mädchen, und wenn du wüßtest, wie sich dabei so gut malen läßt, wie jedes Gefühl der Seele in Bewegung gesetzt wird, und wie in Dieser Lage die Farben auf der Leinwand hinschmelzen, und wie ich mich auch dann, trotz allem, so innig vergnügt, so selig glaube.
+LOTTCHEN
+Gott sei Dank, daß Sie doch einmal vergnügt sind.
+MALER
+O mein Kind, hier an der Staffelei, das große Gefühl der Kunst in meiner Seele, der Gedanke der Natur, und hier in der Hand die Farben, mit denen ich's wiedergeben kann, was ich so mächtig fühle; glaube mir, bei einem Trunk kühlen Wassers und einem Stück Brot wär' ich unter Gottes Geschöpfen sein dankbarstes und sein glücklichstes; wüßt' ich dich nur auch glücklich.
+LOTTCHEN
+Als wenn ich's nicht wäre wenn ich so bei Ihnen bin, liebster Vater.
+MALER
+Liebes, gutes Kind! aber wenn ich dich dürftig leben sehe, sehe, daß mit genauer Not du mit deiner Arbeit mich, nicht ich dich ernähre; sehe, daß andere von meinem Stande schöne Kleider und alles geben, was euch Mädchen freuen kann, ihnen Reichtum verschaffen –
+LOTTCHEN
+Ist das Ihre Schuld, Vater? Arbeiten Sie nicht Tag und Nacht? Können Sie davor, wann niemand Ihre Arbeit bezahlt?
+MALER
+Ja, ich kann davor Lottchen; ich hätte ein Handwerk lernen sollen, ich hätte nicht folgen sollen dem Rufe der Kunst, den ich so mächtig in meiner Seele zu fühlen glaubte.
+LOTTCHEN
+Sagen Sie mir nicht oft Vater, daß es im Menschen eine Stimme der Gottheit gebe, und daß man folgen müsse dem Beruf, den man fühle.
+MALER
+Weil ich es aber that, seh' ich dich dürftiger als andre.
+LOTTCHEN
+Und doch vielleicht glücklicher; gewiß, Vater, Sie werden mich so glücklich – so glücklich sehen.
+
+Configuration 2
+
+ANNE
+Lottchen, da bring' ich etwas Zugemüß und Brot, aber Zum Maler. sie sagen, es wäre das letzte Mal, daß sie was borgen wollten; und bei Gott, ich weiß nicht, wo ich euch morgen etwas hernehmen soll.
+MALER
+Entsetzlich! hast du ihnen denn nicht gesagt, daß ich hier vor mehr als viele tausend Gulden Arbeit hätte.
+ANNE
+Ja, was geht das dem Kaufmann an; und kann man denn Geld für Eure Sachen bekommen? hab' ich's nicht in der ganzen Stadt herumgeschleppt? Mein Mann, Gott hab' ihn selig, war ein Tüncher, und wenn er nichts anzustreichen hatte, malte er auch so Bilder von der gnädigsten Herrschaft und heilige Schutzpatronen; das ist reißend abgegangen; wir hatten immer vollauf zu leben. Wenn nur unser Herr Gott ihn nicht so früh genommen hätte, er sollt's Euch noch lehren, wie er's gemacht hat.
+MALER
+Gutes Weib!
+LOTTCHEN
+Da hab' ich ja Arbeit, die könnt' ich verkaufen.
+MALER
+Noch nicht, Herzenskind, ich will zu einem Herrn gehen, der mir letztens aus Windbeutelei Gemälde abgekauft hat, und nun kann ich von dem reichen Prasser kein Geld bekommen; ich will's nochmal versuchen. Geht ab.
+ANNE
+Nun, wie ist's, Lottchen? war der Graf noch nicht da?
+LOTTCHEN
+Seit acht Tagen hab' ich ihn mit keinem Auge gesehen. Mich so allein zu lassen! da er weiß, in was für einem Zustand ich bin; da er mir so heilig versprochen hat, daß wir jetzt unsre Bekanntschaft meinem Vater sagen wollten und vor dem heiligen Altar ewige Bande uns knüpfen sollten, sobald sein Vater käme.
+ANNE
+Aber liebes Lottchen, wie Sie auch sind. Sie wissen ja, daß er seinem Vater entgegengegangen ist, daß er dieser Tagen ankommen sollte, und daß auf dessen Ankunft Ihre Heirat beruhet.
+LOTTCHEN
+Ich weiß das alles, liebe Anne, weiß alles, und doch bin ich so unruhig; ich liebe meinen Karl so von ganzer Seele, würde ihm alles anvertrauen, glaube so fest an seine Ehrlichkeit und fürchte doch so sehr
+ANNE
+Sein Sie nur ruhig, das sind Folgen von Ihrem Zustande.
+LOTTCHEN
+Sag, Anne, es sind Folgen des Gewissens, das sich schuldig weiß, das sich hat einschläfern lassen; Vorwürfe, daß die Tochter etwas ohne Wissen ihres besten Vaters thun konnte; sag – ach, ich wollte, du hättest mir bei der Bekanntschaft nicht geholfen.
+ANNE
+So ist's, wenn man sich in solche Sachen einläßt; zuletzt hat man des Teufels Dank davon. Meine Gevatterin, die hat recht; sie sagt immer, man soll sich in die Händel nicht mischen; und hernach bin ich denn schuld, daß der Graf bei Ihrem Vater zeichnen lernte? daß er da täglich bei euch war? und daß ihr Bekanntschaft mit einander gemacht habt? Ich war nur die Briefträgerin; Euer Vater hätte auf euch acht haben sollen.
+LOTTCHEN
+Ach liebe Anne, seid nicht böse, ich meint' es nicht so; und mein Vater, er hatte zu viel Zutrauen, glaubte, – O, Ihr hättet vorhin sehen sollen, wie ich an seinem Halse hing, wie er mich so lieb hatte, ich hätte es ihm so gern sagen mögen, aber ich konnte nicht.
+ANNE
+Geben Sie sich nur zur Ruhe; worüber aber denn auch all der Lärm jetzund?
+LOTTCHEN
+Ich weiß nicht, ich weiß nicht, gute Alte; aber ich fühle eine Unruhe; jedermann spricht von der Bekanntschaft meines Karls mit einer Gräfin Amaldi – das ist nichts, kann nichts sein, – weiß es und bin doch unruhig. Ich bin ihr gestern in der Messe begegnet; sie sahe mich an, und wie ich ihrem Blick begegnete, verzeih' mir's, lieber Gott! aber da war's um meine Andacht gethan. – – Anne, wenn Karl, wenn er ungetreu werden könnte!
+ANNE
+Wird er doch nicht. Aber, womit kann ich Sie beruhigen? was soll, was kann ich thun?
+LOTTCHEN
+Willst du, liebe Alte, willst du ihm diesen Brief geben? – Such ihn auf, sag ihm, er sei mit Thränen geschrieben, sag ihm, wenn er zu seiner Geliebten nicht kommen wollte, so möchte er kommen zur Mutter seines Kindes. Willst du, Liebe?
+ANNE
+Gleich, liebes, teures Lottchen, gleich.
+LOTTCHEN
+So geh, Liebe, ich will unterdessen dem Vater das Abendessen bereiten.
+

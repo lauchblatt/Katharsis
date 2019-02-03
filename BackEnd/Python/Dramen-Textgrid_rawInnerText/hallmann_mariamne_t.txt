@@ -1,0 +1,6906 @@
+
+
+
+
+Mariamne
+
+
+hdl:11858/00-1734-0000-0003-3401-Ftextgrid:pj27.0
+ Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). 
+
+Lizenzvertrag
+
+
+ Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache 
+
+
+Hinweise zur Lizenz und zur Digitalen Bibliothek
+
+
+
+
+
+                              Erstdruck: Breslau (Baumannische Erben Druckerei), 1670. Uraufführung Mai/Juni 1669, Breslau.
+                           
+
+
+
+
+Johann Christian Hallmann: Sämtliche Werke. Herausgegeben von Gerhard Spellerberg, Berlin und New York: Walter de Gruyter, 1975.
+Hallmann, Johann Christian
+
+198-
+
+
+Berlin und New York
+
+
+
+
+
+
+
+
+
+
+drama
+
+
+
+
+
+
+
+
+Johann Christian Hallmann
+Mariamne
+Trauer-Spiel
+
+
+
+
+
+
+
+[Motto]
+
+
+
+
+
+
+
+Quod Regnum est, cui
+
+
+ non parata sit ruina, &
+
+
+ proculcatio, & Dominus, &
+
+
+ Carnifex? Nec Magnis ista
+
+
+ intervallis divisa, sed horæ
+
+
+ momentum interest inter
+
+
+ Solium & aliena
+
+
+ Genua.
+
+
+
+Senec. de Tranq. Anim. Cap. XI.
+
+
+
+
+
+
+
+
+
+[Widmung]
+
+
+
+
+[Widmung]
+Dem
+Hoch- und Wol-Gebohrnen
+Herren / Herren
+Christoph Leopold
+Schaffgotsch
+genannt /
+
+Deß Heil. Römischen Reichs
+Semper-Frey von und auff Kynast
+und Greiffenstein;
+Frey-Herren zu Trachenberg / Erb-Herren
+der Herrschafften Greiffenstein / Kynast
+und Bober-Röhrs-Dorff / etc.
+Der Röm. Kaiserl. auch zu Hungarn
+und Bohaimb Königlichen Majestät Rathe /
+würcklichen Cämmerern / und Cammer-
+Præsidenten in Hertzogthum Ober-
+und Nieder-Schlesien;
+Wie auch
+Der beyden Fürstenthümer Schweidnitz und
+Jauer Vollmächtigen Landes-Haupt-Mann /
+und Erb-Hof-Meistern.
+
+Meinem Genädigen Grafen
+und Herren.
+
+
+
+
+
+
+[Widmungsschreiben]
+
+
+
+
+
+
+Hoch- und Wol-Gebohrner Reichs-Grafe /Genädiger Herr.
+MARIAMNE, derer Unschuld weder bey dem Eh-Manne / noch den heiligsten Richtern konte Gerechtigkeit finden / suchet numehro selbte bey Euer Hoch-Gräflichen Excellentz. Wol wissend / daß diese Göttin fürnemlich bey Göttlichen Gemütern anzutreffen sey. Welches auch der Unüberwindlichste LEOPOLD (dessen Majestät GOTTES-Furcht und Gerechtigkeit /Witz und Stärcke mit Diamantenen Lorbern krönen /) aller-genädigst verspüret / und deßwegen seinen getreuesten LEOPOLD der blöden Sterbligkeit also vorgesetzet / daß niemand Scheu tragen dürffe / Schatten unter seinen Holdseeligen Gnaden-Flügeln zu suchen. Derowegen erkühnet sich auch meine Mariamne in Euer Hoch-Gräflichen Excellentz Zimmern (wo Pallas und Themis jhren Thron auffgerichtet /) zu erscheinen. Sie erscheinet; Aber in einem Teutschen Kleide /das ist: Jn ungefärbter Demuth. Hoffende / daß / wie vor weniger Zeit Erlauchteste Augen / und unter denen auch Eu. Hoch-Gräflichen Excellentz Hertzliebste Gemahlin sie auff dem Schau-Platze zu unterschiedenen malen genädig angesehen / also auch anjetzo Euer Hoch-Gräfliche Excellentz selbte auff diesem Papiere mit den Strahlen dero Genade beseeligen werden. Sintemal Götter mehr den guten Willen als das Vermögen anschauen. Wird nun diese Unschuldigste Princessin den Hafen jhrer demüthigen Hoffnung erreichen / so wird sie sich keiner Verläumbdung / noch Mord-Beiles ferner zu befürchten / ich aber mich ewig zu rühmen haben
+
+
+Euer Hoch-Gräflichen Excellentz
+
+
+gehorsamsten Hallmann.
+
+
+
+
+
+
+
+An den Leser
+
+
+
+
+An den Leser.
+Standes und Würden nach Geehrtester Leser.
+Hjermit überliefere ich dir meine längst-begehrte MARIAMNE; Ein solches Trauerspiel / von dem ich mit Wahrheit melden kan / daß es Threnen erwecket hat. Grausamste Ehr-Sucht / Verläumdung und Verrätherey bekämpfften die Tugend dieser schönsten Princessin.
+Sie sähe den Eh-Mann in einen Hencker / jhre Bluts-Freinde in beschimpffte Leichen / sich selber in eine Sclavin verwandelt. Nichts minder stund sie als ein Fels unter den Wellen. Jhr Purpur gläntzte niemals herrlicher / als da jhn die Rubinen jhres unschuldig-verspritzten Blutes bestrahlten. Ja ich würde nicht jrren / wenn ich sagte / daß MARIAMNE mehr im Tode / als im Leben gelebet. Massen jhr ungeschmincktes Lob nicht nur durch Griechisch- und Römische / sondern auch durch Frantzösische Federn verewiget worden. Welche der Meinigen Anlaß gegeben / dieser so grossen Königin grosses Gemüthe in einem Trauerspiele abzubilden / und dem hiesigen Schau-Platze zu gönnen. Sie hat sich gezeiget / und (darff ichs sagen?) mit höchster Vergnügung. Numehro zeiget sie sich auch auff dem Papiere nebst etlichen Anmerckungen / welche ich mehr der jetzigen Gewonheit als Nothwendigkeit wegen (weil Gelehrten ohne diß hierdurch zu viel / Ungelehrten aber annoch zu wenig berichtet wird /) kürtzlich hindanfügen wollen. Und so ja etwann über Verhoffen einige Druck-Fehler in das Trauerspiel möchten eingeschlichen seyn / so wird doch der nachsinnende Leser leicht erachten /wie dieses oder jenes Wort zu verstehen sey. Jndessen gehab dich wol / und urtheile von meiner MARIAMNE nicht zu scharff; Sondern
+
+
+Fürchte Gott
+
+und
+
+Ehre den Kaiser.
+
+
+
+
+
+
+
+Inhalt
+
+
+
+
+
+
+Kurtzer Jnnhalt deß Trauer-Spiels.
+Nach dem Herodes auß Anstifftung der Salome nicht allein Aristobulum und Hyrcanum / jenen der Mariamne Bruder / diesen jhren Groß-Vater; sondern auch seinen Schwager Josephum unschuldiger Weise hingerichtet / wird die hierüber rechtmäßig eifernde Mariamne auff Befehl deß wüttenden Königes durch ungerechtes Urthel zum Tode verdammet und enthauptet; Jn dem Herodes jhre Unschuld höchst-schmertzlich / jedoch zu spät beklaget. Besiehe hirvon JOSEPH. LIBR. XV. ANTIQ. JUD.
+
+
+
+
+
+
+
+Personen
+
+
+
+
+
+
+
+Spielende Personen.
+
+Herodes M. der Juden König.
+
+Mariamne, seine Gemahlin.
+
+Alexandra, jhre Mutter.
+
+Pheroras, deß Königes Bruder.
+
+Salome, seine Schwester.
+
+Antipater, Herodis Sohn von der verstossenen Dosis.
+
+Aristobulus IV.
+Alexander III., Herodis mit der Mariamne erzeugte Kinder.
+
+Hyrcanus, der Alexandra Vater und gewesener Jüdischer Hoher-Priester.
+
+Josephus, der Salome Gemahl.
+
+Sechs Stats-Jungfern der Königin.
+
+Sohemus,
+Philo, Zwey verschnittene / der Mariamnen Bediente.
+
+Ein Haupt-Mann von der Königlichen Leib-Wache.
+
+Zwey Jüdische Priester.
+
+Arsanes, deß vertriebenen und in die Mariamne verliebten Tyridates / Königes in Parthen / Abgesandter.
+
+Der Blut-Richter.
+
+Der Berg Sion.
+
+Joab.
+Israël.
+Ezechias.
+Schammæus.
+Simeon.
+Hillel.
+Ananeel.
+Joschua.
+Nicodemus.
+Jonathan.
+Gamaliel.
+Menahem. , Die fürnehmsten Rabbinen deß grossen Synedrii zu Jerusalem.
+
+
+
+Deß Königs Mund-Schencke.
+
+Ein Page deß Königes.
+
+Der Geist deß Königes David.
+
+Der Geist Aristobuli III. Bruders der Mariamnen / welchen Herodes ersäuffen lassen.
+
+Der Geist Josephi.
+
+Der Geist Hyrcani.
+
+Der Geist Mariamnes.
+
+
+
+
+
+
+Schweigende Personen.
+
+Unterschiedliche Hof-Leute und Trabanten / unter denen zwey Africanische Bogen-Schützen.
+
+Zwey kleine Mohren / so der Königin auffwarten.
+
+Die Pagen und Edel-Knaben.
+
+Etliche Juden / so Hyrcanum bedienen.
+
+Die Leiche Hyrcani.
+
+Zwey Parther / so den Arsanes begleiten.
+
+Die Beil-Träger und Hencker.
+
+Sechs Eitelkeiten / als Ehre / Reichthum / Keuschheit / Wollust / Stärcke und Schönheit. Jngleichen sechs Todte mit Pfeil und Bogen.
+
+
+
+
+
+
+Reyen.
+
+Reyen der Königlichen Genade / der Frauen-List / Leicht-Gläubigkeit / Ehr-Sucht / Mißgunst / deß Argwohns und Eigen-Nutzes.
+
+Reyen deß Lebens / deß Todes und der Freyheit.
+
+Reyen der Jüdischen Priester.
+
+Reyen deß Bach Kidrons und der Wald Nymfen.
+
+Reyen / darinnen Palæstina / die Tyranney / der Unglauben / die Zwietracht / Hunger / Pest / und König Salomons Geist.
+
+
+
+
+
+
+
+
+
+Einteilung
+
+
+
+
+
+Eintheilung deß Trauer-Spieles.
+Die Erste Abhandlung.
+
+Der Berg Sion bejammert den Untergang deß Königlichen Aßmonæischen Geschlechtes. Salome und Antipater unterreden sich / wie Mariamne nebst jhrer Mutter und gantzem Hause zu vertilgen sey. Pheroras widerräth dieses / stimmt endlich mit jhnen doch überein. Herodes rühmet gegen Hyrcano und Josepho sein merck-würdiges Gelücke / insonderheit aber der Mariamnen unvergleichliche Schönheit. Salome bringt dem Könige fälschlich bey / samb Mariamne in seinem Abwesen durch allzu grosse Gemeinschafft mit Josepho die Ehe gebrochen / welches der ohne diß argwöhnische König glaubet / und Josephum unverhörter Sachen in Kercker werffen lasset. Jm Reyen wird die Königliche Genade von der Frauen-List /Leichtgläubigkeit / Ehr-Sucht / Mißgunst / Argwohn und Eigen Nutz abscheulichst verwandelt.
+
+Die Andere Abhandlung.
+
+Mariamne erzehlet jhren Kindern und Stats-Jungfern einen Traum / und schließt hierauß wenig Gutes. Herodes wil sie trösten und jhr seine innbrünstige Liebe würcklich bezeigen / sie aber kan es nicht glauben /daß er sie recht liebe / weil er vor seiner Abreise nach Rom Josepho anbefohlen / sie / imfall jhn Antonius tödten würde / auch hinzurichten: Worauff der halb-rasende König im Argwohn bestättiget / Josephum Augen-Blicks zu enthaupten befiehlet. Josephus /seine und der Königin Unschuld beklagend / stirbt getrost. Alexandra überredet Hyrcanum bey so verwirrten Sachen in Arabien zu flihen; Welcher Anschlag aber von dem heimlich zuhörenden 
+Pherora und Antipatro dem Könige verrathen wird. Jm Reyen kämpffet das Leben mit dem Tode umb den Sieges-Krantz / welchen die Freyheit dem Tode auffsetzet.
+
+Die Dritte Abhandlung.
+
+Der verhetzte König läst Alexandram und Hyrcanum für sich fodern / welche von Pherora und Antipatro überwiesen / sterben sollen. Mariamne flehet den König umb beyder Begnadigung Fuß-fällig an. Worauff Alexandra zum Gefängnüß / Hyrcanus aber zum Strick verdammet wird. Salome giebt Herodis Mund-Schencken einen Liebes-Tranck / umb solchen dem Könige einzuliefern / mit Bericht / Mariamne habe jhn vergifftet / und trachte hierdurch nach deß Königs Leben. Der Gottsfürchtige Hyrcanus endet sein Leben mit grosser Bescheidenheit. Die Jüdischen Priester begehen im Reyen Hyrcani Sterbens-Tag.
+
+Die Vierdte Abhandlung.
+
+Der Geist deß Königes David verweiset dem schlummernden Herodes sein Blut-dürstiges Gemüte / und verkündiget jhm die unaußbleibliche Rache GOttes. Der erschrockene Herodes läst Mariamnen holen /welche / in dem sie den Beyschlaf verweigett / und mit jhme wegen jhres unschuldig hingerichteten Bruders und Groß-Vaters eifert / vom wüttenden Könige weggestossen und zu entweichen gezwungen wird. Der Mund-Schencke überreichet dem rasenden Herodes den falschen Liebes-Tranck. Salome / Pheroras und Antipater giessen auff diesen Brand frisches Oel /vorgebende / es könne numehro nicht anders seyn /Mariamne müsse wegen jhrer Unfreindlikeit und vorgenommenen Mord-That die eheliche Pflicht getrennet haben; Ja es würde wol ein mehrers auß jhren Verschnittenen zu erforschen seyn. Sohemus und Philo werden deßwegen scharff befraget und gefoltert / so aber auff der Königin Unschuld leben und sterben: Worauff 
+Herodes die Leichen wegzuschleppen / Mariamnen aber gefänglich einzuziehen befihlet. Alexandra und Mariamne den Untergang jhres Hauses sehende / trösten sich Göttlicher Hülffe und jhres guten Gewissens. Jm Reyen der Wald-Nimfen verfluchet der in Blut verwandelte Bach Kidron Herodis unersättliche Grausamkeit.
+
+Die Fünffte Abhandlung.
+
+Herodes hält mit den fürnehmsten Rabbinen über die Mariamne Blut-Rath / und wird schlüssig sie hinzurichten. Die Königin erscheinet vor Gericht / höret jhr Urtheil an und verantwortet sich mit grosser Vernunfft. Arsanes / die zwey unmündige Printzen / Aristobulus IV. und Alexander III. / das Königliche Frauen-Zimmer / ingleichen die Leib-Wache bemühen sich das Leben dieser unschuldigen Königin durch Vorbitte zu erhalten; Aber umsonst! Worauff Mariamne / nachdem sie sich mit jhren Kindern / auch mit allen beweglich gesegnet / den Schnee-weissen Nacken dem Hencker darbittet / und die tugendhaffte Seele auf! dem Richt-Block großmütig außbläset. Arsanes verfluchet der Salome Büberey / und beseufftzet / in Ansehung deß blassen Hauptes / den unverdienten Tod der allerschönsten Printzessin Mariamne. Der vor Reu und Wehmuth fast sterbende Herodes wird von den Geistern Mariamnes / Aristobuli III. Hyrcani und Josephi durch allerhand Vorstellungen
+
+
+1
+ künfftigen Unglücks erschrecklich geängstiget 
+und gequälet. Jm Reyen wird das in den Ketten der Herodianischen Tyranney schmachtende Palæstina vom Unglauben / Zwietracht / Hunger und Pest durch Weissagungen seines künfftigen Unterganges hefftig angefochten; Vom Geiste aber deß Königes Salomons getröstet / mit Bericht / daß selbtes zwar nach vielen Trübseelikeiten in der Saracenen Hände gerathen /unter dem Glorwürdigsten Scepter aber deß Oesterreichischen Salomons / nemlich deß unüberwindlichsten LEOPOLDI davon werde befreyet werden.
+
+
+
+Fußnoten
+
+
+
+1 Die Vorstellungen im Innern Schau-Platze sind folgende: 1. Tyridates der Mariamne Tod erfahrend /stirbt plötzlich. 2. Alexandra wird enthauptet. 3. Die Grausamkeit der Pest wird vorgebildet. 4. Herodis zwey Söhne von der Mariamne / nemlich Aristobulus IV. und Alexander III. werden erwürget. 5. Deß Königes Bruder Pheroras wird durch Gifft entseelet. 6. Herodis Sohn Antipater wird im Gefängnüß erdrosselt. 7. Der sterbende Herodes wil sich erstechen / wird aber verhindert. 8. Seine Seele wird in der Hölle von den bösen Geistern gepeiniget.
+
+
+
+
+
+
+
+Sonetto
+
+
+
+
+Sonetto
+Al Nobilissimo Signore
+Giovanni Christiano Hallmanno,
+Autore della Bellissima & Compiutissima
+Tragedia di Mariamne,
+Amico Suo Colendissimo.
+* * * *
+* * *
+
+O fiera crudeltà, cieca gelosia,
+Annestata nel petto d'un credulo amante,
+Al martiro dell'innocenza s'indragante!
+Rifiuta il cielo l'audace bugia.
+Piange ne'i tormenti la Tirannia:
+MARIAMNE nella morte costante
+Trionfa con la ghirlanda lampeggiante,
+Et camina gioiosa al celeste via,
+Dal sangve di lei germogliano le Viole,
+Le Rose, li Gigli dell' eterna lode,
+Che splende nel Paradiso à guisa del Sole.
+Vive MARIAMNE nel mondo per Vostra Penna,
+Signor, onde il Vostro Nome gode
+Del bello alloro, come Fama accenna.
+
+Giovanni Ehrenfredo
+Eichornio.
+
+
+
+
+
+
+
+1. Akt
+
+
+
+
+Die Erste Abhandlung.
+
+Der Schau-Platz stellet vor ein Gebürge in und umb Jerusalem. Der Berg Sion / als Vorredner / singet in die dazu gespielte Violen di Braccio und di Gamba folgender Gestalt.
+
+
+Njcht wundert euch / jhr Geister kluger Lippen /
+Daß Berg und Thal auch Mund und Zunge rührt /
+Daß Sand und Stein der Sinnen-losen Klippen
+Gantz wider die Natur vernünfft'ge Reden führt.
+Diß Werck ist klar und klarer als man meinet /
+So bald die Sonne nur bewehrter Deutung scheinet.
+Geht / Sterbliche / geht etwas doch in euch!
+Der Himmel hat meist überirrd'sche Gaben
+Jns Ebenbild der Götter zwar vergraben;
+Doch ist der Berge Last auch an viel Göttern reich.
+An welchem Ort ist Echo mehr zu finden /
+Als wo sich Berg und Thal verbinden?
+Jst Atlas unbekand /
+Auff dessen Schultern ruht der Sternen grosses Land /
+Jn dessen Leibe noch deß Königs Seele schwebet /
+Und unauffhörlich lebet?
+Hegt Ætna nicht der Donner Stimme macht /
+Wenn er in Flammen-reicher Hitze
+Statt Athems Schwefel zeigt / statt Wörter lichte Blitze /
+Daß Lufft und See und Welt erkracht?
+Gibt unser Marck und theures Eingeweide
+Dem gantzen Kreiß nicht unerschöpffte Freude?
+Wir hören wol / wenn euch der Geld-Durst plagt;
+Drumb wird manch edler Schatz dem Euclio versagt.
+Zu dem ist keinem unbewust /
+
+
+Daß GOTT offt selbst bey uns gesuchet seine Lust /
+Als die zwey Taffeln Er der heiligen Gesätze /
+Deß Jüd'schen Volckes höchste Schätze /
+Dem Moyses auff Sinai hohen Spitzen
+Genädigst anvertraut mit Donner-reichem Blitzen.
+Ja der Mann nach GOTTES Hertzen / der den Goliath bezwang /
+Und Salems Reich dem Himmels-Fürst vermählet /
+Hat mich zu seinem Sitz und Eigenthum erwehlet /
+Und den geweihten Thron
+Gebauet auff Sion.
+O güldne Zeit / da seine Harff' erklang!
+Die Harff' / ob der verschwand der Traur-Geist strenger Nöthen /
+Die Harffe / so numehr in grause Mord-Trompeten
+(Ach leider!) ist verkehrt!
+Hier / Sterbliche / wird euch der wahre Grund gewehrt /
+Warumb auch Berg' und Zungen-lose Klippen
+Eröffnen Mund und Lippen.
+Denn / wenn der tolle Mensch sich selber nicht mehr kennt /
+Und durch blinde rasereyen auch dem höchsten Krieg ansaget /
+Werden Berge / Flüß' und Sternen zu der Rache auffgejaget /
+So bald der Feuer-Zorn deß grossen GOTTES brennt.
+Unglückliche Sion! Vorhin deß Himmels Seele /
+Jtzt eine Folter-Höle!
+Herodes! ach! ach! ach!
+Dein Wütten / Blut-Hund / macht / daß Berg' auch müssen schreyen /
+Und dich vermaledeyen!
+Rach! Rach! Rach!
+Soll Assamons Geschlecht' und Königliches Haus /
+Daß mit der Kron' und Jnfel herrlich grünte /
+Und unser Väter Gott mit reiner Pflicht bediente /
+Durch dich / du tück'scher Hund / verfall'n in Asch' und Graus?
+
+
+Jst's nicht genug / daß du mit krummen Lügen
+Bist auff den Thron gestiegen?
+Jst's nicht genug / daß dich die Wässer klagen an /
+Was du / verdammter Fuchs / Aristobul'n gethan?
+Jedoch der Höllen Mohr reitzt dich zu grimmern Thaten!
+Sol der Jnfel heil'ger Glantz / das Hochpriesterliche Blut /
+Der Wertheste Hyrcan / so dich mit grossem Gut' /
+Und Wolthat stets bekrönt / auch in die Grufft gerathen?
+Kriegt Joseph vor die Treu-geleisten Dienste /
+Der keine Blum gepflückt auß deinem Paradieß /
+Und seinen Mantel ehr als Keuschheit fahren ließ /
+Ein blutig Beil und Richt-Klotz zum Gewienste?
+Soll MARIAMNE auch / dein überirrd'scher Schatz /
+Der Tugend Muster-Platz /
+Der Schönheit Konterfey / der Spiegel reiner Sitten /
+Durch ungerechtes Recht die ädle Seel' außschütten?
+Brecht Wolcken! blitzt und kracht!
+Entdeckt deß Höchsten Macht!
+Stürtzet deß Blut-Hunds verteuffelte Seele
+Jn die mit Flammen hellodernde Höle!
+Seht! wie sich schon mein grünes Kleid verkehrt!
+Der Erd-Kreiß bebt / weil er zu sehr beschwert
+»Aber schönste MARIAMNE zeuch 
+getrost von dieser Erden /
+
+Vor Tyrannen werden künfftig 
+Engel deine Buhler werden.«
+
+
+Der Schau-Platz bildet ab einen Lust-Garten.
+
+
+Salome. Antipater.
+
+
+
+SALOME.
+
+Monarche dieser Welt / der Printzen nimmt und gibt /
+Der Kron und Thron erhöht / entzeptert und betrübt /
+Wie lange rasen doch die stoltzen Asmonæer /
+Soll denn der güldne Glantz der tapffern Jdumæer
+
+
+Verrauchen und vergehn vor Mariamnens Dunst /
+Weil derer Zauber-Licht recht ungemeine Brunst
+Jn's Königs Hertz' erweckt / erreget und entzündet /
+So daß er ausser jhr fast keinen Himmel findet!
+Hai Liebe sonder Witz! Was ist ein schönes Weib?
+Ein Teuffel / nicht ein Mensch / so bald jhr zarter Leib /
+Durch Hochmuth auffgebläht / sich in ein Zucht-Haus wandelt /
+Das mit der Majestät als einem Sclaven handelt.
+Jhr grossen Götter jhr! Wenn wird es doch geschehn /
+Daß Salome sich kan in alter Freyheit sehn /
+Die eintzig und allein auff dieser Feindin Leiche /
+Der Zirze dieses Hoff's / der Pest im Jüd'schen Reiche /
+Und unserm Unglücks-Stern / den festen Grund-Stein setzt!
+Es weiß / der alles weiß / wie sehr wir sind verletzt /
+Seit der Comete hat in Salems Burg geschienen!
+
+
+
+ANTIPATER.
+
+So spielet Glück und Zeit: Unnütze Nesseln grünen /
+Wenn Ros' und Tulipan Liegt unter frembden Fuß /
+Und jhr bepurpert Kleid zutretten lassen muß.
+Wahr ist's; kein Zeuxis wird sich dürffen unterstehen /
+Der Mariamnen Pracht mit Farben zu erhöhen;
+Dem größten Künstler Fällt der Pinsel auß der Hand /
+Der diese Göttin sich zu mahlen unterwand:
+Denn / welche Feder kan das Alabast der Glieder /
+Wo Türckis und Rubin / als fest-verknüpffte Brüder /
+Jn schönster Anmuth spiel'n / entwerffen auffs Papier?
+Demosthenes verstummt ob jhrer Haare Zier /
+Ob jhrer Augen-Blitz und Majestät'schem Gange.
+Alleine dieser Schnee zerschmeltzt / und daurt nicht lange:
+So bald die Sorgen-Glutt der Jahre Herbst bestrahlt /
+Ja wenn der blasse Tod uns schleunig selber mahlt /
+Und gelbe Larven legt auffs Englische Gesichte /
+Dann schwinden mit der Brunst der Schönheit morsche Früchte.
+
+
+
+
+SALOME.
+
+Ja freylich! Zeit und Tod besieget alle Welt;
+Durch sie wird Ertzt und Stahl und Diamant zerschellt /
+Die Himmels Ampeln selbst / die doch so herrlich schimmern /
+Ersterben nach und nach in den saffirnen Zimmern.
+Jedoch Antipater trifft nicht den rechten Zweck:
+Ein Wund-Artzt bauet vor und schneidet zeitlich weg
+Das annoch frische Fleisch / eh sich der Brand vermehret /
+Und jhm den gantzen Leib biß an das Hertz versehret;
+Denn wer mit Schlangen spielt / verspielet Glück und Geist.
+So weil auch Mariamn' als eine Natter beist /
+Und mehr die Zwietrachts Gall' als Friedens-Zucker liebet /
+Dadurch der Fürst offt viel Stadt / Land und Volck vergiebet /
+Wolan / so last uns auch hierinnen wachsam seyn /
+Und fällen / eh man fällt.
+
+
+
+ANTIPATER.
+
+Jch stimme schuldigst ein /
+Wo nicht durch lindern Weg dem Ubel vor zu kommen.
+
+
+
+SALOME.
+Die Seuche wird durch nichts / als Gifft und Stahl benommen.
+
+
+ANTIPATER.
+
+Sie dencke doch was nach / erhitzte Salome!
+Wer Mariamnen hast / der thut dem König weh /
+Denn jhre Göttligkeit kan seinen Sinn bemeistern.
+
+
+
+SALOME.
+Diß reitzt mich eben an / sie listig zu entgeistern.
+
+
+ANTIPATER.
+Gewalt und List lescht nicht die Liebes-Fackeln auß.
+
+
+SALOME.
+Offt kehrt die Liebes-Glut sich selbst in Asch und Grauß.
+
+
+
+ANTIPATER.
+Die Flamme reiner Eh kan nimmermehr erbleichen.
+
+
+SALOME.
+
+Hat Mariamnen nicht selbst Dosis müssen weichen /
+Die Dosis / welche doch den Fürst durch dich vergnügt /
+Eh Alexandra jhn mit Worten eingewiegt /
+Hyrcan mit falschem Rath? Vermaledeite Sinnen!
+Soll uns das Pfaffen-Haus durch Klugheit abgewinnen /
+Uns / denen selbst August / die Sonne dieser Welt /
+Die Lorbern setzet auff?
+
+
+
+ANTIPATER.
+
+Was sie / Printzessin / meldt /
+Jst leider allzuwahr / und heller als die Sonne!
+War meine Mutter nicht deß Königs Licht und Wonne /
+Ein Schau-Platz höchster Lust / und fruchtbar Paradieß /
+Eh die Begierde sie von seiner Seiten stieß /
+Und Assamons Geburt das Eh-Bett' eingenommen /
+Dadurch der Fürst in Haß / wir in Verachtung kommen?
+Jedoch ich sehe nicht / wie hier die Rach-Lust kan
+Den Vorsatz führen auß: Es hangt einander an
+Was Maccabæisch heist / wie Koppeln junger Hunde:
+Deß Königs Gnade hat Hyrcan zu seinem Grunde /
+Der Alexandram stets und Mariamnen schützt /
+Damit kein Unglücks-Sturm auff jhre Purpur blitzt.
+Man weiß / wie sehr Anton auß Antrieb dieser Frauen /
+Umb das Aristobul must' in den Wellen schauen
+Sein wol-verdientes Grab / zum Eifer ward bewegt /
+Herodes zu der Reu. Drumb wer den Baum durchsegt /
+Und nützlich fällen wil / muß vor den Schlieff-Stein suchen /
+Sonst wird er Müh / und Zeit / und Holtz / und Beil verfluchen.
+
+
+
+SALOME.
+
+Die Waffen schärffen wir mit Kühnheit und Verstand.
+Wo mir Antipater und Pheroras die Hand
+
+
+Zu meinem Vorsatz reicht / so wird der Außgang weisen /
+Daß edle Frauen-List bezwinge Stahl und Eisen.
+Jndessen last uns schaun / wo unser Bruder sey /
+Umb den gefasten Schluß jhm stracks zu bringen bey /
+Eh Glück und Zeit verlaufft.
+
+
+
+Pheroras. Antipater. Salome.
+
+
+
+
+PHERORAS.
+
+Wie! find' ich sie beysammen?
+Und zwar eh Zynthius mit röthlich güldnen Flammen
+Den düstern Kreiß erleucht? Was deutet jhr Gesicht
+Hochwerthe Salome?
+
+
+
+SALOME.
+Stecht / eh' es uns ersticht!
+
+
+PHERORAS.
+Jst etwan Meuterey auff unsern Hals vorhanden?
+
+
+SALOME.
+
+Errettet Salomen auß Mariamnens Banden /
+Die uns auß frechem Trotz jhr Königlich Geschlecht
+Hoffärtig rücket vor / und uns als jhre Knecht' /
+Nicht Freund' und Schwestern halt! Ergrimme rechte Rache!
+Steh' Jdumæen bey! Beförder' jhre Sache!
+Behertz'ge / Bruder / doch den immerneuen Schimpff /
+Der auß dem Brun-Quell fließt! Hier dient kein sanffter Glimpff /
+Kein höfflich Nachsehn mehr. Wer bey erhitzten Flammen
+Nur müssig sihet zu / ist billich zu verdammen;
+So ists auch hier bewand: Die Fürstin ist verwehnt /
+Weil jhr das Glücke stets den Weg mit Rosen bähnt /
+Und sie der König ehrt.
+
+
+
+
+PHERORAS.
+
+Der Vorwurff ist nicht neue;
+Doch weiß Herodes wol / wer jhm mit grössrer Treue /
+Sie / oder wir verpflicht. Bezwinge / Schwester / dich
+Der Mißgunst gifftig Zahn quält keinen mehr / als sich.
+Jst Hoffart gleich bey jhr / laß uns die Demuth küssen;
+Die edle Tugend kan die Ehren-Pfort' entschlüssen /
+Wenn Stoltz und Ubermuth ins Thal der Schande stürtzt.
+Zu dem so seh' ich nicht / was jhre Zeit verkürtzt:
+Deß Königs heisse Brunst / der Frühling jhrer Jahre
+Und Engel-hoher Witz verdienet keine Bahre.
+Ja jhr durchlauchtig Haus ist jetzt in solchem Flor /
+Daß freylich Assamon geht Jdumæen vor
+An Würd' und Heilikeit.
+
+
+
+SALOME.
+
+Hier eben ist zu dencken /
+Wie dieser Nattern Schaar auff einmal zu versencken:
+Der Alexandra Trotz / die Weißheit deß Hyrcan
+Steht uns im Wege nur. So bald die weggethan /
+Jst Mariamne bloß / und leichtlich hinzurichten.
+Jedoch was schwätz' ich viel! Man kan die Zanck-Sucht schlichten
+Durch minderen Verdacht. Mir fällt was sonders ein /
+Das zu der Freyheit wird die erste Staffel seyn.
+
+
+
+ANTIPATER.
+Sie meld' uns jhren Sinn!
+
+
+SALOME.
+
+Deß Argwohns blancken Spiegel
+Führt Cypris stets mit sich / wolwissend / daß die Riegel
+Deß Eh-Betts wächsern sind / die Kammer-Thür' auß Glaß /
+Denn Hymenæus hat genaue Wag' und Maß /
+Der wie das Wolcken Schloß nicht kan zwey Sonnen tragen.
+
+
+Was hindert mich nun hier / dem König anzusagen /
+Wie Mariamne sich mit meinem Eh-Gemahl
+Durch allzufreyen Schertz / der meistens auß dem Saal
+Der reinen Tugend weicht / offt allzusehr vergangen /
+Auch an den Nagel wol geschworne Pflicht gehangen.
+Wird nun / wie ich vermein' / Herodes angestifft /
+Daß Joseph muß vergehn durch Eisen oder Gifft /
+Und Mariamnens Trotz im dunckeln Kercker küssen /
+So leb' ich höchst vergnügt.
+
+
+
+PHERORAS.
+
+Wo bleibet dein Gewissen /
+Die Liebe heil'ger Eh / und angelobte Treu?
+Zu dem steht noch im Glück' / ob dir der Fürst fällt bey /
+Und diesen Worten glaubt / die du jhm vor-wirst-mahlen.
+
+
+
+SALOME.
+
+Untreue in der Eh muß man mit Untreu zahlen.
+Der ist nicht Liebens werth / den frembde Brunst ergetzt:
+Hierdurch wird meine Seel' im wenigsten verletzt!
+Ja solt' auch diese List nicht alsobald gerathen;
+Muthmaßlicher Beweiß schlagt offt verborgne Thaten /
+Und macht den Argwohn klar. Mit kurtzem: Zweiffelt nicht;
+Wo euer Zweck mit mir auff unser Heil gericht /
+Und diß / was ich verlangt / so steht auff meiner Seiten /
+Helfft mir mit List und Macht die Schlangen-Zucht bestreiten /
+Die gleich der Hydra wachst und stündlich sich vermehrt.
+Jch zwar wil mühsam seyn / wie diß / was ich gelehrt /
+Glückseelig werd' erfüllt: Jhr aber seyd beflissen /
+Hyrcanum und sein Kind beym König anzugissen;
+Und wo sich ichtwas zeigt / daß unsre Galle kühlt /
+So werd' im minsten nicht ein Augenblick verspielt.
+
+
+
+PHERORAS.
+
+Jch starr' ob deinem Muth und dem so klugen Munde!
+Hier hast du meine Hand: Wir stehn in einem Bunde /
+
+
+Wir brechen Rosen ab / weil uns die Sonne scheint /
+Und leschen / was uns brennt.
+
+
+
+ANTIPATER.
+
+Jch meine / was jhr meint.
+Brich an gewüntschtes Licht! Brich an gewüntschter Morgen!
+Der uns befreyen wird von allem Ach und Sorgen /
+Und mir mein Mutter-Hertz / die werthe Dosis / giebt.
+
+
+
+SALOME.
+
+Sehr wol! dem Himmel selbst ist diese That beliebt /
+Der wird auch krönen euch mit schönsten Ehren-Lilgen.
+
+
+
+ALLE DREY.
+Wir schweren: Assamons Geschlechte zu vertilgen!
+
+
+Der Schau-Platz verwandelt sich ins Königes Gemach.
+
+
+Herodes. Hyrcanus. Josephus. Unterschiedliche Hof-Leute / Pagen und Trabanten.
+
+
+
+
+HERODES.
+
+Nun ist das heil'ge Land in sichre Ruh gesetzt /
+Der Grosse JEHOVAH hat seinen Knecht ergötzt
+Mit Wolstand / Fried- und Glück' und was den Statt vergnüget:
+Wir haben Neid und Feind großmütig obgesieget;
+Und unser Diamant sticht viel Rubinen weg.
+Deß Ezechias Mord' und höchst-verfluchtem Zweck
+Hat diese Faust gesteurt: Durch uns ist Palæstinen
+Ein lichter Morgen-Stern in Sions Burg erschinen /
+Nach dem uns Marck-Anton / das Wunder seiner Zeit /
+Doch unglückhaffter Held / diß Königliche Kleid
+Durch den Ventidius auß sondrer Gunst geschencket.
+
+
+Den grimmen Pacorus / der den Phasel gekräncket /
+Und jhn / Hyrcan / beschimpfft / hat dieser Arm verlacht:
+Das feste Sephorim ist nun in unsrer Macht.
+Den Vater-Mörder hat diß blancke Schwerdt zerstücket /
+Weil er Antipatern durch Gifft ins Grab geschicket /
+Antipatern / der noch herrscht in der Sterblikeit:
+Gantz Galilæa küst Herodis Purpur-Kleid.
+Der Mächtigste August / den selbst der Himmel schützet /
+Hat unsre Hoheit nie mit Ungunst angeblitzet:
+Der Pers' / und Med' / und Parth' / und Grich' / und African /
+Sind unsrer Majestät mit Freindschafft zugethan /
+Von uns weiß Jericho und Jsana zu sagen:
+Ja unsre Thaten tragt der Sonnen güldner Wagen
+Durch Ost / West / Sud und Nord. Ach aber! dieses Glück' /
+Das uns der Himmel gibt / ist gegen jenem Blick /
+Mit welchem Mariamn' die Göttin der Göttinnen
+Und mein unschätzbar Schatz bestrahlet unsre Sinnen /
+Nur Schatten / Nebel / Rauch und eitel-voller Dunst!
+Durch sie lebt unser Geist! Wie selig ist die Brunst /
+Die nicht beym güldnen Kalb' und Höllen-Bildern lodert /
+Denn solche Fantasie verschwindet und vermodert /
+So bald das faule Quell der Geilheit wird entdeckt.
+Hier unser Krystallin ist nirgends nicht befleckt:
+Candaulens Kleinod muß vor unsrer Kron' erbleichen /
+Es muß jhr Bathseba und Sisigambis weichen;
+Der Glantz Cleopatrens / und was uns Welsch-Land zeigt /
+Erblaßt ob jhrem Licht. Zu jhm Hyrcanus neigt
+Mein Danckbar Hertze sich! Durch jhn hat dieser Engel
+Den Himmel mir gebaut / in welchem keine Mängel
+Noch Finsternüsse sind. Auch Joseph sey beglückt /
+Der uns den theuren Schatz bewahret unverrückt /
+Ob schon das Unglück wolt' auff unsre Liebe wütten!
+Mit was für Wolthat werd' ich Beyd' euch überschütten /
+Und eur Verdienst erhöhn!
+
+
+
+
+HYRCANUS.
+
+Daß unser Väter GOTT /
+Der Abrahm / Jsaac und Jacob halff auß Noth /
+Auch seine Tugend / HERR / genädigst angesehen /
+Jst billich Rühmens werth: denn Glückes-Winde wehen
+Auffs Schloß der Danckbarkeit; wo dieser Grundstein liegt /
+Da wird Aßmodi stets vom Raphael besiegt /
+Und Obed-Edoms Heil in Haus und Hof gewehret.
+Daß Salems Tempel nicht sind gantz und gar verheeret /
+Daß Leuchter / und Altar / und Schau-Brodt' / und die Kist'
+Jn heil'ger Ruhe stehn / daß keine Sebel frist
+Der Unterthanen Blut / daß Fried' und Recht sich küssen /
+Und wir die Gnade nicht deß Röm'schen 
+Adlers missen /
+Jst freylich / Edler Held / bloß zu zuschreiben Dir.
+Drumb krönt auch Dich mit Recht der Mariamnen Zier /
+Mein liebstes Kindes Kind und Trost verlebter Jahre:
+Hier ists nicht Danckens noth: Jmfall ich nur erfahre /
+Und stets versichert bin / daß mir der Fürst geneigt /
+So scheid' ich frölich ab / wenn sich die Stunde zeigt
+Zu reisen auß der Welt.
+
+
+
+JOSEPHUS.
+
+Die süssen Zucker-Rosen /
+Wenn jhnen Delius und Zephyr Lieb-wil-kosen /
+Erhöhn deß Purpurs-Glantz: So / wenn dein Gunst-Wind weht /
+Und deine Sonne nur nicht einen Stern verschmäht /
+So wird auch Joseph hier sich höchst vergnügt befinden /
+Und zu deß Königs Heil biß in sein Grab verbinden.
+Hier opffer' ich mein Hertz: Die Brust ist das Altar /
+Die Flammen Treu und Pflicht! Der Erebinnen Schaar
+Mag mein verdammtes Haupt mit tausend Ach erdrücken /
+Wo meine Worte sich mit falschen Maßquen schmücken.
+Und wie kan's anders seyn / wem selbst der Printz zur Eh
+Eh Sein Schwesterliches Hertz / die wackre Salome
+
+
+Gegönnet und geschenckt / daß hier nicht Liebe glimme /
+Die Liebe / welche stets deß grossen Schwagers Stimme
+Als ein Orakul ehrt / und seine Wolfahrt sucht?
+Wie thöricht handeln doch / die deß Gelückes Frucht
+Mit Hoffart brechen ab / und nicht in Demut küssen!
+Nein! Joseph wil sich nicht als einen Schwager wissen /
+Nur unterthän'gsten Knecht. Zwar daß der König mir /
+Als er nach Rom verreist / sein' ausserkohrne Zier
+Und Seele seiner Seel' höchst-gnädig anvertrauet /
+Auß dem wird klar genug deß Fürsten Gunst geschauet:
+Jedoch der Mensch weiß nicht / was offt der Himmel dreut /
+Weil den Verleumbdungs-Jäscht der nimmer-satte Neid
+Meist auff Verdienste wirfft / gleich dunckel-grünen Schlangen /
+Die auß den Blumen Gifft / wie Bienen Honig fangen.
+
+
+
+HERODES.
+
+Was hat die Red' auff sich? Wir kennen Eure Treu:
+Werfft alle Sorgen hin! Wem Printzen stehen bey /
+Und in den Purpur hüll'n / dem ist kein Blitz zu hoffen.
+
+
+
+JOSEPHUS.
+Offt wird der Lorber-Baum vom Donner selbst getroffen!
+
+
+HERODES.
+Nein! Aller Fürsten Fürst wacht für den güldnen Thron.
+
+
+JOSEPHUS.
+Der Scharlach deutet Blut / Opale Schwerdt und Hohn.
+
+
+HERODES.
+Der Demand bleibet steiff / ob tausend Hammer rasen.
+
+
+JOSEPHUS.
+Es kan ein schlechter Wind die Sonnen-Wend' umblasen.
+
+
+
+HERODES.
+Bey Kaiser-Kronen kan auch Tulp' und Rose blühn,
+
+
+HYRCANUS.
+Ob Davids Liebe muß selbst Jonathan entfliehn.
+
+
+HERODES.
+Der niemals euch verließ / wird ferner euch nicht lassen.
+
+
+JOSEPHUS.
+Ach daß die Sternen nicht mit jhrem Mond' erblassen!
+
+
+HERODES.
+Der Monden steht zu hoch / die Sternen folgen nach.
+
+
+HYRCANUS.
+Haß / Ehr-Sucht / List und Neid raast biß ans Sternen-Dach.
+
+
+HERODES.
+Der Unschuld reiner Glantz vertreibet die Cometen.
+
+
+JOSEPHUS.
+Die Sonne muß sich selbst ob derer Strauß entröthen.
+
+
+HERODES.
+Jn unserm Himmel strahlt kein solches Schwantz-Gestirn'.
+
+
+HYRCANUS.
+Ein falsches Jrr-Licht kan Stern' / Sonn' und Mond verwirr'n.
+
+
+HERODES.
+Zwey Sonnen leuchten hier: Jm Himmel ist nur eine.
+
+
+JOSEPHUS.
+Wahr ists: Wir sind beglückt in Mariamnens Scheine!
+
+
+
+HERODES.
+Ach Nähme / der besiegt Violen und Jaßmin!
+
+
+HYRCANUS.
+Durch dessen Wunder-Krafft Fürst / Reich und Jnfel blühn!
+
+
+JOSEPHUS.
+Und Tugend wird erhöht / ob gleich die Laster wütten!
+
+
+HERODES.
+
+Ach! Mariamne! ach! dein' überirrd'sche Sitten
+Ziehn unsern Geist nach dir!
+
+
+
+HYRCANUS.
+O süsser Liebes-Platz!
+
+
+HERODES.
+
+Laßt unsern Abgott uns / den Engel-schönen Schatz
+Mit Opffern jtzt verehr'n! Sie meiner Seelen Sonne!
+
+
+
+HYRCANUS.
+
+ JOSEPHUS.
+Es lebe Mariamn' Herodis Lust und Wonne!
+
+
+
+Herodes. Salome. Der Haupt-Mann mit den Trabanten.
+
+
+
+
+HERODES.
+Woher doch / Salome / mit dieser Threnen-Flut?
+
+
+SALOME.
+Mir ist deß Königs Ruhm viel lieber als mein Blut!
+
+
+HERODES.
+
+An welche Klippen stöst die Muschel unsrer Ehre?
+Sie meld' uns / was sie drückt.
+
+
+
+
+SALOME.
+
+Es ist der Klugheit lehre /
+Nicht jedes zu erzehl'n / was im Pallast geschieht:
+Jedoch weil meine Treu dem Bruder mich verpflicht /
+Und das hochheil'ge Recht mir selbst die Wort' einbindet /
+So red' ich sonder scheu: die Fürstin ist entzündet
+Mit Liebe!
+
+
+
+HERODES.
+Gegen wem?
+
+
+SALOME.
+Den man am minsten meint.
+
+
+HERODES.
+Mit kurtzem: Nur herauß! Sind's Freinde oder Feind?
+
+
+SALOME.
+
+Es ist – (ich schäme mich den Buhler fast zu nennen!)
+Es ist –
+
+
+
+HERODES.
+Fort! Laß mich nicht in Unmuts-Nesseln brennen!
+
+
+SALOME.
+Es ist Josephus selbst / mein keusches Eh-Gemahl!
+
+
+HERODES.
+
+Hilff Himmel! Jch erstarr'! Ach unverhoffte Qual!
+Ach grimmer Seelen-Riß! Ach Leiden aller Leiden!
+Diß henckert Brust und Geist! Diß kan ins Hertze schneiden!
+Ach! daß der Zucker sich so schnell' in Wermuth kehrt!
+Ach! daß der Liebes-Brunn so bittre Flut gewehrt!
+Josephus? Ha! Jst dir der König so geringe?
+Mißbrauchstu unsrer Gunst? O Zufall frembder Dinge!
+
+
+Fürstin! Wo bleibt dein Witz? Wo / Joseph / deine Treu?
+Stracks Gifft und Schwerdter her / und Strick / und Zang' und Blei!
+Auff was vor Grund beruht diß schreckliche Berichten?
+
+
+
+SALOME.
+
+Die Bäume schnöder Art kennt man an jhren Früchten /
+Den Löwen an der Klau / am Eisen den Magnet /
+Und wie es wittern werd' / an trüber Morgen-Röth':
+Gantz Palæstina weiß der Mariamne Sinnen /
+Die durch den Ehr-Suchts-Reitz selbst Götter wil gewinnen /
+Weil Schönheit / Witz und Muth auß jhr was sonders macht.
+Und freylich ist beliebt die dreyfach ädle Pracht /
+So einen Mensch beglückt: Jedoch wenn diese Gaben
+Beym höchsten Gipffel stehn / so werden leicht die Graben
+Der Tugend übersprengt vom frechen Hoffarts-Gaul /
+Denn die Begierden sind hier niemals laß und faul /
+Umb jhrer Trefflikeit ein Probestück darzustellen.
+An Mariamnen wird ein Beyspiel hier erhellen /
+Die (trotz dem / dem es leid!) den hoch-gesinnten Muth
+So Fürst' als mir bezeigt. Jhr Königliches Blut
+Ward mehr als einmal uns hochtrabend vorgerücket /
+Ob deine Liebe gleich den Fehler nie erblicket:
+Sie zanckte stündlich sich / warff mir im Eifer vor /
+Daß du den Reichs-Stab führ'st und über Salems Thor
+Recht und Gerichte heg'st / wär' jhr allein zu dancken:
+Es kam' Antipater auß gar zu schlechten schrancken
+Deß Stamm-Registers her / sie aber hätte Cron'
+Und Jnfel stets geerbt vom Anherr Assamon.
+
+
+
+HERODES.
+Verfluchte Pralerey / so auch in Weibern stecket!
+
+
+
+SALOME.
+
+Doch dieses gienge hin / wenn sie nur nicht beflecket
+Die Schwanen-weisse Brust durch allzufreyen Schertz
+Mit meinem Eh-Gemahl.
+
+
+
+HERODES.
+
+Diß ist noch keine Kertz /
+Die zum Beweißthum dient und mich zur Rache fodert;
+Denn Schertz ist Schertz / nicht mehr!
+
+
+
+SALOME.
+
+Ja Schertz! der nicht verlodert /
+Wiewol der Bruder meint! Man höre ferner mich /
+Wofern es dir beliebt! Den härtsten Seelen-Stich
+Hat Salome gefühlt / als du nach Rom gezogen /
+Da dieses Paar in deß unkeuscher Lust gepflogen
+Jn reichem Uberfluß.
+
+
+
+HERODES.
+
+Was stärcket den Verdacht?
+Hast du es selbst gesehn?
+
+
+
+SALOME.
+
+Er hat bey Tag und Nacht
+Als rechter Printz und Herr jhr Schlaf-Gemach besuchet /
+Jn dem ich inniglich die arge That verfluchet /
+Und deine Wiederkunfft mit höchstem Schmertz verlangt.
+
+
+
+HERODES.
+
+Ob zwar diß wichtge Werck noch was in Zweifel hangt /
+Und die Gewißheit hier nicht sattsam kan erhellen;
+Jedoch weil der Verdacht in so bewandten Fällen
+Das Laster fast beweist / und starcken Anlaß gibt
+Zu dreuen mit der Pein dem / der uns hier betrübt /
+Und der sich nicht gescheut den Purpur zu entehren /
+
+
+So werde Joseph stracks ohn' eintziges Verhören
+Jns Kerckers Schacht gesetzt: Der Fürstin aber gebt
+Nicht einigen Bericht / was vor ein Wetter schwebt
+Ob dieses Frevlers Haupt.
+HAUPT-MANN.
+Jch werde mich bemühen /
+Deß Königs ernsten Schluß eilfertig zu vollziehen.
+
+
+Reyen
+
+
+Der Königlichen Genade. Der Frauen-List /Leichtglaubikeit / Ehrsucht / Miszgunst / deß Argwohns und Eigen-Nutzes.
+
+
+
+
+DIE KÖNIGLICHE GENADE.
+
+Kommt / Sterbliche / rufft meine Gottheit an!
+Jst euer Sinn / biß an den Pol zu steigen?
+Soll sich vor euch Po / Rha / und Jster neigen?
+Begehret Jhr der Ehre güldnes Fahn?
+Den fern-gepreßten Wein / und theure Marmeladen?
+Wolt jhr in Balsam baden?
+Soll euer Ebenbild in Alabaster stehn?
+Soll Venus euch mit Demant und Rubinen
+Zu Tisch' und Bette dienen?
+So kommt zu mir! Jch kan euch all' erhöhn.
+Hier! Hier! ist Muth / und gut / und blut zu finden!
+Vor meiner Sonne muß Mond / Stern' / und Jrrlicht schwinden.
+
+
+
+DIE FRAUEN-LIST.
+
+Wenn meine Schlang' in edlen Rosen lieget /
+Und Züngelnd saugt den Weißheits-vollen Safft /
+Wird Simson auch von Delilen besieget /
+Und schnell beraubt der überirrd'schen Krafft:
+
+
+Hat Joseph gleich der Juno Fahn getragen /
+Herodes jhn geküßt auff seinem Wagen /
+So schaut doch / wie mein Molch diß Karten-Blat zerritzt /
+Weil jhm sein Eh-Schatz selbst durch List die Bahre schnitzt.
+
+
+
+DER ARGWOHN.
+
+Kein Argus hat ein solch durchleucht Gesichte /
+Daß mein Krystall an Augen übertrifft;
+Schmeckt gleich Sejan deß Hofes Zucker-Früchte /
+So schmeckt er auch Beil / Schwerdter oder Gifft.
+»Denn Argwohn ist Pallästen stets verbrüdert« /
+Der Jonathans und Davids Bund zergliedert:
+Ja wenn ein Falsch Geschrey Monarchen kommet vor /
+So muß mein Spiegel stehn an jeder Thür' und Thor.
+
+
+
+DIE LEICHTGLAUBIGKEIT.
+
+Wer leichtlich glaubt / wird leichtlich auch betrogen /
+Diß Sprichwort hat in Schlössern keinen Nutz:
+Hier rauschen stets die tück'schen Wasser-Wogen /
+Auff diesem Buch ruht Fürstlich Heil und Schutz.
+»Man muß im Hof auch was unglaublich glauben« /
+Soll Meineyd nicht die Lorber-Krone rauben.
+Und ob Herodes gleich der Schwester Glauben gibt /
+Wird er doch nicht so sehr / als Salome / betrübt.
+
+
+
+DIE EHR-SUCHT.
+
+Sey / König / nicht zu mildreich mit den Gaben!
+Zertheile nicht die Gold-besteinte Kron!
+Wenn Joab wird vom Fürst zu sehr erhaben /
+Siht David nichts als Jammer / Schimpff und Hohn.
+Der Himmel kan nur eine Sonne leiden /
+»Zwey können nicht im Trohn' und Eh-Bett weiden.«
+Drumb wenn der Diener Rock fast mit dem Purpur kämpfft /
+So werde dieser Dunst durch meine Glut gedämpfft.
+
+
+
+
+DER EIGEN-NUTZ.
+
+Mein sanffter Stab mit der verborgnen Klinge /
+Mein doppelt Kleid zeigt Printzen klärlich an /
+Daß Eigen-Nutz in jhre Zimmer dringe;
+Ja wil er nicht / so muß der Unterthan:
+»Denn auß dem Schwamm / den du mit Flut gefüllet /
+Wird billich dir der Geldes-Durst gestillet.«
+Drumb weils der Statt erheischt / so brauche Fuchs und Leu /
+Damit kein Naboth nicht in deinem Reiche sey.
+
+
+
+DIE MISZGUNST.
+
+Die Mißgunst herrscht fürnehmlich in Pallästen /
+Ob sonsten auch mir dienet alle Welt:
+Und dieses kommt Monarchen selbst zum Besten /
+»Wenn Macht durch Macht / Stoltz durch die Hoffart fällt.«
+Ach Thörichte! vor Cronen und vor Tittel
+Verehr' ich euch den Krantz und Sterbe-Kittel:
+Seht / weil auch Salome mit meinem Gifft sich plagt /
+Wie Mariamne wird und Joseph außgetagt!
+
+
+
+Die Königliche Genade verwandelt sich in ein abscheuliches Todten-Gerippe.
+
+
+
+
+ALLE SECHS.
+
+Was sehen wir! Erschreckliche Gestalt!
+Abscheulichs Bild! So wird die Gunst verkehret /
+Die Hof und Burg auff kurtze Zeit gewehret!
+So wird die Glut der Ehre blaß und kalt!
+Wol dem / den nicht der eitle Dampff verblendet!
+Denn wenn das Glücke sich ergrimmt /
+Und euch den Untergang bestimmt /
+Wird auch die Tugend selbst in Sarg und Grab gesendet.
+
+
+
+
+
+
+
+
+2. Akt
+
+
+
+
+
+
+Die Andere Abhandlung.
+
+Der Schau-Platz bildet ab der Königin Zimmer.
+
+
+Mariamne. Aristobulus IV. Alexander III. Das Königl. Frauen-Zimmer. Sohemus. Philo. Ein Page deß Königes.
+
+
+
+MARIAMNE.
+
+Dem Himmel sey gedanckt / daß Licht und Tag erwacht /
+Daß die betrübte Zeit der schatten-braunen Nacht /
+Das schwartze Sorgen-Meer / weil Titan scheint / verflossen
+Was hat der Sternen-Printz doch über uns beschlossen!
+Ach was vor Unheil wird der Fürstin seyn bereit /
+Der Fürstin / die anjetzt mit blasser Traurigkeit
+Matutens Gold erblickt! Der Fürstin / die mit Zehren
+Euch / liebste Kinder / muß den Morgen-Kuß gewehren /
+Und euch / Freindinnen / grüßt! Ach! daß auch im Scarlat
+Die Kummer-Würme wühl'n! daß Türckis und Achat
+Nicht sonder Nebel sind! daß auch im Purpur-Bette
+Angst / Schrecken / Rach' und Mord stets kämpffen in die Wette!
+Wir wissen (weiß es Gott!) kaum selber / wo wir sind!
+Gleich einem / der dem Tod' auß grauser Schlacht entrinnt /
+Dem noch das Hertze klopfft und alle Glieder zittern:
+Gleich tauben / die nach Blitz und donnernden Gewittern
+Mit leiser Stimme girr'n / und gleichsam die Gefahr
+Einander mahlen ab. Es schreckt uns Tod und Bahr /
+Die das Verhängnüß dreut! Wir sind / wir sind verlohren!
+Auff Assamons Geschlecht hat sich das Glück verschworen /
+Jmfall der Himmel nicht besänfftigt seinen Zorn /
+Und uns geneigter ist!
+
+
+
+I. JUNGFER.
+Der Kummer-reiche Dorn /
+So jhr / Printzessin / Schmertz und herbes Ach erwecket /
+Werd' uns / wo fern man darff was bitten / doch entdecket!
+
+
+
+MARIAMNE.
+
+Uns hat ein grimmer Traum und schreckliches Gesicht
+Den süssen Schlaf verkürtzt: Dianens Silber-Licht
+Begonte nach und nach den Spiegel zu verliehren /
+Und wolte zu der Ruh die weissen Pferde führen /
+Es wahren biß zum Tag zwey Stunden übrig kaum /
+Als uns (ich zittre noch!) im unverhofften Traum
+Deß Brudern dürrer Geist / Aristobul / erschiene /
+Nicht wie er war geziert auff der geweihten Bühne /
+Mit Priesterlichem Schmuck höchst-prächtig angethan:
+Ach nein! Ein Todten-Kleid und schwartzes trauer-Fahn
+Umbhüllte Leib und Faust! Wir sassen als uns dünckte /
+Auff dem gestickten Thron / die Purpur-Farbe blinckte /
+Vermischt mit Perl und Gold / umb unsrer Glieder Schnee /
+Die Krone strahlt' umbs Haupt in angenehmer Höh;
+Rubin / Schmaragd / Saffir / und schönste Diamanten
+Beflammten Stirn' und Brust; unzehliche Trabanten
+Bedienten unsern Stul; Mit kurtzem: Alle Zier
+Der prächt'gen Eitelkeit war zu befinden hier.
+Drauff rieff uns das Gespenst': Auff Schwester! auff! und wache!
+Es zielt nach deinem Kopff die ungerechte Rache!
+Nihm deiner Wolfahrt war! Schmeiß dieses Mummwerck hin!
+Weil vor die Rosen dir jtzt (ach!) Zypressen blühn!
+Jch bebt' / ich starrt' / ich seufftzt'! Jn einem Augen-Blicke
+Sprang Thron und Kron' entzwey in vielmal hundert Stücke;
+Mein Zimmer wurde mir in eine Grufft verkehrt /
+Jn eine düstre Grufft / da nichts als Glut und Schwerdt /
+Und Strick und Beil und Dolch / und Folter-Bäncke stunden.
+(Wie hab' ich / grosser GOTT! mich damals doch befunden!)
+
+
+Hier / sprach Aristobul / hier wirff die Augen auff /
+Und schau wie Glück' und Zeit verändern jhren Lauff:
+Jch sah Hyrcanens Leich' in Strick und Ketten schmiegen /
+Dort Alexandrens Kopff / hier jhren Körper liegen;
+Ja Mariamne selbst ward grimmig angefast /
+Jn dem ein Henckers-Bub' und unverschämter Gast
+Mir nach dem Nacken hieb und Seel' und Lufft verkürtzte /
+So / daß ich recht empfand / wie er ins Grab mich stürtzte /
+Und mir den Athem nahm. Drauff fuhr mein lasser Geist
+Auß diesem Qualm empor! Diß ist es / was uns beist /
+Was unser Sinnen-Haus in tieffes Weh versetzet /
+Und Threnen presset auß!
+I. JUNGFER.
+Daß sie die Sonnen netzet /
+O Sonne dieses Reichs / weil Schatten und Gesicht
+Jhr sinnend Haupt erschreckt / ist zwar so übel nicht /
+Weil offt durch Träume wird ein künfftig Ach entdecket /
+Daß sonsten biß zum Fall blieb Zweiffels frey verstecket /
+Gleich einem Donner-Keil / der sich nicht eh'r bewegt /
+Biß er mit Blitz und Knall durch Wald und Eichen schlagt.
+Und zwar sind Kronen hier so sehr nicht zu verdencken /
+Weil jhnen Unglück meist den Gifft-Kelch ein-wil-schencken.
+Alleine glauben fest / es müsse so geschehn /
+Was unsre Fantasie bey dunckler Nacht gesehn /
+Jst (Fürstin sie verzeih!) ein Kummer / der auff Eise
+Und Trüb-Sand ist gebaut. Die Coloquinthen Speise
+Wird durch Vernunfft und Würtz' in Martzipan verkehrt;
+Die Wolcke / so uns Sturm und Dampff und Dunst gewehrt /
+Wird Augen-blicklich hell- und zeiget Demant-Lüffte;
+Ja in ein Paradieß verwandeln sich die Grüffte /
+So uns ein Traum gemahlt.
+
+
+
+II.
+
+ JUNGFER.
+Was sind die Träume doch?
+Ein selbst gezimmert Grab / ein selbst geschnitztes Joch /
+
+
+Ein Jrrlicht / das uns führt auff unbekante Höhen
+Und in die Wellen stürtzt / wenn wir jhm nach-woll'n-gehen.
+Denn die beklemmte Seel' ist niemals ohne Ruh;
+Wenn uns der Schlaf-Gott drückt die müden Sternen zu /
+Da geht die Würckung an: Was Augen / Händ und Ohren
+Gesehn / gefühlt / gehört / wird gleichsam neu gebohren;
+Und durch der Träume-Dunst lebhafftig abgebildt.
+So weil die Königin noch nicht den Kummer stillt /
+Den jhr Aristobul's unschuldger Tod erwecket /
+Was Wunder / daß auch sie ein solch Gesicht' erschrecket /
+Daß Furcht und Pein vermehrt?
+
+
+
+III.
+
+ JUNGFER.
+Wahr ists; Wo Sorgen sind /
+Daß sich ein grosses Heer unsanffter Träume findt /
+Die dem betrübten Hertz die eingebildten Sachen
+Mit Foltern grauser Qual noch zehnmal ärger machen:
+Der sihet Zang' und Rad / und Höll' / und Tod / und Geist,
+Dem wird ein Sammel-Platz vergnügter Lust geweist;
+Lufft / Wasser / Erd / und Glut / nebst allen Eitelkeiten
+Woll'n gleichsam Schlafenden ein Schau-Spiel zubereiten.
+Drumb weil diß Schau-Spiel selbst sich gleichet einem Traum /
+So gebe sie / Printzeß / der Wehmuth keinen Raum!
+
+
+
+IV.
+
+ JUNGFER.
+Wer viel auff Träume baut / der greifft nach Rauch und Schatten;
+Der Traum ist nur ein Bild. Wie / wenn auff grünen Matten
+Der rauhe Ost-Wind saußt / die Blumen-reiche Zier
+Jn kurtzer Frist erblaßt: So spielt auch Morpheus hier /
+Der / wenn wir nun erwacht / die schwärmenden Gedancken
+Jn einem Huy verjagt auß den entdeckten Schrancken
+Der sinnenden Vernunfft / so dieses Schattens lacht /
+Und uns mit Wonne krönt.
+
+
+
+V. JUNGFER.
+Wol! Doch der Träume Macht
+Hat gleiche Würckung nicht; Wem die Gespänster dreuen
+Kurtz eh Aurora wil jhr güldnes Haar außstreuen /
+Wird schlechter Dinge nicht verwerffen Traum und Bild /
+Weil mit so starckem Dunst die Geister nicht erfüllt /
+Als da des Mondens Glantz im Mittel-Punct erschiene.
+Jedoch wer nur den Printz auff der gewölckten Buhne
+Mit reiner Andacht ehrt / wie unsre Fürstin thut /
+Dem wird kein Morgen-Traum beängst'gen Geist und Blut.
+
+
+
+VI.
+
+ JUNGFER.
+So lasse sie demnach / Printzeß / die Sorgen fahren!
+Es müsse sich mit jhr die Freuden-Sonne paaren /
+So in verwichner Nacht ein fälschlicher Comet
+Mit Nebel überdeckt. Großmüth'ge Tugend steht /
+Auch ob's Verhängnüß gleich wil Grufft und Bahre zimmern!
+Man siht die Sternen ja bey Nacht am schönsten schimmern:
+Sie / die den Sternen selbst an Klarheit gehet vor /
+Wird auch beym Wetter strahl'n an deß Olympus Thor.
+
+
+
+MARIAMNE.
+
+Spahrt diese Tröstung doch / geliebteste Freindinnen!
+Wir wissen freylich wol / wie weit sey nachzusinnen
+Dem nächtlichen Gesicht': Ach aber! die Gestalt /
+So unsre Brust beschwert / hat grössere Gewalt /
+Als daß wir selten sie auß Sinn und Augen setzen.
+Hat nicht der Schöpftet selbst (wie uns auß seinen Schätzen
+Deß heil'gen Bund's bekant /) offt durch verborgne Träum'
+Bald diesem Gifft entdeckt / dem süsses Honigseim?
+Wie Mardochai erhöht / und Haman wird gestürtzet /
+Dem Babylon'schen Printz Vernunfft und Reich verkürtzet?
+Der Traum Calpurniens ist leider allzuwahr!
+
+
+
+I. JUNGFER.
+Ach hätte Julius verhüttet Tod und Bahr!
+
+
+
+MARIAMNE.
+Was das Verhängnüß schliest / kan keine Klugheit wenden!
+
+
+II.
+
+ JUNGFER.
+Man wird im grösten Sturm offt an den Hafen lenden.
+
+
+
+MARIAMNE.
+Ja offt: Nicht jedesmahl! Hier seh'n wir keinen Port.
+
+
+III.
+
+ JUNGFER.
+Wo Sonn' und Tugend scheint / muß Sturm und Laster fort.
+
+
+
+MARIAMNE.
+Die Laster sind beliebt / die Tugend wird geneidet.
+
+
+IV.
+
+ JUNGFER.
+Der Neid verzehrt sich selbst / wenn jen' auff Rosen weidet.
+
+
+
+MARIAMNE.
+
+Liegt unter Dornen nicht der Rose Purpur Rock?
+V. JUNGFER.
+Haß und Verleumbdung ist der Tugend schönster Schmuck.
+
+
+
+MARIAMNE.
+Kommt einmal Gifft hinein / so springt die Porcellane.
+
+
+VI.
+
+ JUNGFER.
+Die Farbe bleibet stets dem Kreiden-weissen Schwane.
+
+
+
+MARIAMNE.
+
+Hier wird das Krystallin der Unschuld selber blind.
+Setzt uns nicht ferner zu! Wir wissen wo wir sind!
+
+
+
+
+ARISTOBULUS IV.
+Frau Mutter und Printzeß! Was dient diß herbe Weinen!
+
+
+ALEXANDER III.
+Soll uns die Anmuth nicht bey unsrem Leit-Stern scheinen!
+
+
+ARISTOBULUS IV.
+Sie schaffe was sie wil; Hier ist jhr treuster Sohn!
+
+
+ALEXANDER III.
+Hier / der sein Leben gibt vor der Frau Mutter Kron!
+
+
+PAGE.
+Durchleuchtigste Printzeß / der König kommt gegangen.
+
+
+MARIAMNE.
+Weg Threnen! Stehet still! Laßt uns den Fürst empfangen.
+
+
+Mariamne. Herodes. Aristobulus IV. Alexander III. Das Königl. Frauen-Zimmer. Der Haupt-Mann mit den Trabanten / Die Verschnittnen / Die Edel-Knaben und Pagen.
+
+
+
+
+HERODES.
+
+Hier strahlet unsre Sonn'! Obschon das Firmament
+Mit Gold und diamant und tausend Ampeln brennt!
+Hier ist das Paradiß / dem Ros' und Liljen weichen /
+Dem Seraphinen selbst die Lorber-Kronen reichen!
+Mein Kind! was deuten uns die holen Seufftzer an /
+Der Sternen blasser Schein?
+
+
+
+MARIAMNE.
+Es ist umb uns gethan!
+
+
+
+HERODES.
+
+Mein Engel! Wie? Warum? Welch ungestümes blasen
+Ficht jhre Gottheit an? Laßt alle Wetter raasen /
+Laßt Himmel / Hölle / Welt / und Flut und Glut eingehn /
+Doch Mariamne wird in meiner Seele stehn!
+Jch zitter' und erstarr'! Muß ich diß Wort anhören!
+Eh soll der lichte Blitz die Geister mir versehren /
+Eh soll der Jordan sich in klares Blut verkehr'n /
+Eh soll der Oel-Berg nichts als Schlang' und Molch gebehr'n /
+Eh soll Jerusalem zur Mörder-Grube werden /
+Eh sich mein Augen-Trost in wenigsten Beschwerden
+Und Aengsten sehen soll! Hier steht jhr Morgen-Stern /
+Jhr unverwandter Schutz / O aller Frauen Kern!
+Wir athmen! wir vergehn ob der so grossen Liebe /
+Die deine Schönheit drückt in unser Sinn Getriebe /
+Nicht Schönheit nur allein; Auch Engel hoher Witz /
+Der in der ädlen Seel' hat festen Thron und Sitz.
+Vor unsern Flammen muß deß Amnons Brunst erbleichen /
+Admetus und August die Liebes Segel streichen;
+Ja Davids Harffe selbst zerspringt ob unsrer Glut.
+Printzessin! höre doch / wie wallt mein treues Blut!
+Wie durstet meinen Geist nach deiner Anmuths-Quelle /
+Wo nichts als Zucker rinnt! Ach Fürstin! ach! O stelle
+Die Kinder doch vor dich / dein wahres Konterfey /
+So wirstu klärlich sehn / daß ich dein Sclave sey /
+Der Tag und Nacht nur wüntscht in deiner Schoß zu sterben!
+Seht wie Aristobul kan jhre Sonnen erben /
+Die Sonnen / derer Glantz kein Sterblicher verträgt!
+Wie Alexandern ist jhr Stirn-Blat eingeprägt /
+Das weisser ist als Schnee und Elephanten Zähne!
+Wachst! Schönste Blumen / wachst! Der Himmel weiß / ich sehne
+Mich nicht so sehr nach dem / was Thron und Aug' erquickt /
+Als wenn jhr Sternen seyd in meinem Reich beglückt!
+Blüh / Mariamne / blüh! Du Muschel schönster Früchte!
+
+
+Blüh / Mariamne / blüh! Dein himmlisches Gesichte
+Verwelcke nimmermehr! Blüh / Mariamne blüh!
+Biß das Verhängnüß uns zugleich (doch spät!) entzieh!
+
+
+
+MARIAMNE.
+
+Mein Herr! Mein Fürst! Mein Schatz! Die ungemeinen Gaben /
+So seine Liebe preist / sind nicht in mir vergraben;
+Und ob der Himmel gleich mich hatte so geziert /
+Wie schnell' (ach leider!) wird diß Schatten-Werck entführt!
+Der Sorgen scharffes Schwerdt / die Sichel rauher Zeiten /
+Deß Todes grimmer Pfeil verstellen und bestreiten
+Muth / Schönheit und Verstand; Der Glieder Helffenbein
+Wird gelblich / blaß und kalt! Der Sternen Blitzend Schein
+Verkehrt in Nebel sich / die Alabaster Ballen
+Siht man in kurtzer Frist verwelcken und verfallen:
+Der Klugheit hell Krystall zerschellt so Zeit als Tod;
+Die Zunge wird gelähmt. Mit kurtzem: Ach und Noth
+Beherrscht den gantzen Kreiß / den kein Rabbuni heilet!
+Und hier ist Kronen auch kein Frey-Brieff nicht ertheilet.
+Blüht Mariamne gleich im Frühling jhrer Zeit /
+Wie bald wird uns gewehrt deß Winters Todten-Kleid!
+Beblühmt die Sonne schon die Rosen unsrer Wangen /
+Jn einem Augenblick muß ich mit Larven prangen /
+Die Tod und Kranckheit mahlt! blühn unsre Zweige gleich /
+Auch Kayser-Kronen fall'n durch unverhofften Streich!
+Doch ehr'n wir seine Brunst / und die erleuchten Flammen /
+Wo Mund und Hertze nur hier stimmen recht zusammen.
+Wir fürchten grosser Fürst!
+
+
+
+HERODES.
+Was kräncket jhren Sinn?
+
+
+MARIAMNE.
+Daß uns die Liebe nicht ein Sterbens-Netze spinn'!
+
+
+
+HERODES.
+Sie spinnet Seid' und Gold zu jhrem Purpur Kleide.
+
+
+MARIAMNE.
+Das Messer trennt entzwey auch Gold-gewürckte Seide.
+
+
+HERODES.
+Wir führen Messer zwar / doch nicht den Todten Stahl.
+
+
+MARIAMNE.
+Der prächtigste Pallast wird offt zum Trauer-Saal.
+
+
+HERODES.
+Die Trauer-Wolck' entweicht / wo Sonn' und Engel wohnen.
+
+
+MARIAMNE.
+Es sihet Assamon meist Blut-bespritzte Kronen.
+
+
+HERODES.
+Seit Jdumæa grünt / grünt auch der Lorber-Krantz.
+
+
+MARIAMNE.
+Ach! daß in Nebel sich nicht kehre dieser Glantz!
+
+
+HERODES.
+Weil sie / O Sonne / gläntzt / wird keine Nacht erscheinen.
+
+
+MARIAMNE.
+Das Silber weicht dem Gold / Krystall den Edel-Steinen.
+
+
+HERODES.
+Sie ist mein schönstes Gold / mein bester Diamant.
+
+
+MARIAMNE.
+Mein Silber ist zu blaß / und mein Saffir verbrant.
+
+
+
+HERODES.
+Ach daß der Himmel mir stets solch Krystall beschere!
+
+
+MARIAMNE.
+Mein Antlitz ist zu schwach; Ja wenn es Dosis wäre!
+
+
+HERODES.
+Mein Kind / sie schertze nicht! Zu was dient Dosis hier?
+
+
+MARIAMNE.
+Villeicht kan Dosis mehr / als Mariamnens Zier.
+
+
+HERODES.
+Wo rührt der Eifer her? Jst Dosis nicht entwichen?
+
+
+MARIAMNE.
+Doch durch Antipatern ist nicht die Lieb' erblichen.
+
+
+HERODES.
+Die Liebe blüht im Sohn / doch in der Mutter nicht.
+
+
+MARIAMNE.
+Jn Venus Zimmer brennt nicht ein gedoppelt Licht.
+
+
+HERODES.
+Wie / Fürstin! Zweifelt sie an meinen Liebes-Flammen?
+
+
+MARIAMNE.
+Nein! Aber eines muß mein lodernd Hertz verdammen.
+
+
+HERODES.
+Was ists?
+
+
+MARIAMNE.
+
+Daß / als der Fürst besucht den Marck-Anton /
+Man unterdessen mir zu rauben Geist und Kron
+Nicht nur allein gesucht / auch ernstlich anbefohlen.
+
+
+
+
+HERODES.
+Diß ist ein blosser Traum / und außgeleschte Kohlen!
+
+
+MARIAMNE.
+Wie liebt mich nun der Fürst / wenn er mir baut die Bahr'?
+
+
+HERODES.
+Wer schwätzt jhr dieses vor?
+
+
+MARIAMNE.
+
+Dem selbst die Mord-That war
+Vom König anvertraut / Josephus –
+
+
+
+HERODES.
+
+Jch erschrecke!
+Wil dieser Bube nun die Laster-vollen Flecke /
+Mit welchen er beschmutzt / dem Fürsten brennen an?
+Verfluchter Hund! Kein Mensch! Nun ists umb dich gethan!
+Nun ist der Argwohns Dunst zur hellen Sonne worden /
+Den Salome erweckt! Last uns den Dieb ermorden!
+Den tückschen Ehren-Dieb / den zweyfach Laster schlägt!
+Schau / Mariamne / nun / was du vor Glut erregt!
+Was du vor tollen Brand in unsrer Brust entzündet!
+Schau nun / an welchem Ort sich grössre Liebe findet!
+Entweicht! Hilff grosser GOtt! Hat Joseph diß entdeckt!
+So hat er auch gewiß mein Eh-Bett mir befleckt!
+Wahr ists: Wir hatten jhm / die Fürstin zu entleiben /
+Jm Fall uns ja Anton möcht' unverseh'ns auffreiben /
+Höchstheimlich anbefohl'n: Daß nun der Wäscher sich
+Nicht besser vorgesehn / und uns den Hertzens Stich
+So liederlich versetzt / so mag er auch nun büssen.
+Stracks Haupt-Mann! daß jhm bald der Kopff werd' abgeschmissen.
+HAUPT-MANN.
+Durchlauchster König / wem?
+
+
+
+
+HERODES.
+
+Der noch in Fesseln sitzt.
+HAUPT-MANN.
+Jm Kercker oder Hof?
+
+
+
+HERODES.
+
+Es donnre / wo es blitzt!
+Haut jhm den Schädel nur / den Zulauff zu vermeiden /
+Jn dem Gefängnüß ab.
+HAUPT-MANN.
+Er soll ohn säumbar leiden.
+
+
+
+HERODES.
+
+So müss' es allen gehn / die nicht die Heimligkeit
+Der Fürsten wol verwahr'n; Die Mißgunst / Zanck und Streit
+Erregen im Pallast durch ungezäumte Lippen!
+Selbst Simson strandete an diesen Schiff-BruchsKlippen /
+Als sein nicht fester Mund die heil'ge Krafft entdeckt:
+Ja in der Hölle wird noch Tantalus gereckt /
+Und mit dem Rad gequält / umb daß er nicht verschwiegen
+Der grossen Götter Schluß. Wo diese Laster siegen /
+Muß Fabius mit Schimpff und Martia vergehn.
+Jedoch was sinnen wir! Soll auch die Rache stehn
+Auff Mariamnens Haupt? Ach nein! wir wollen's sparen /
+Biß wir was weiters noch von dieser Pest erfahren.
+
+
+
+Der Schau-Platz verwandelt sich in ein Gefängnüß.
+
+
+Josephus. Der Haupt-Mann mit den Trabanten. Der Blut-Richter / die Beil-Träger.
+
+
+
+
+JOSEPHUS.
+
+Bemühte Sterblichen! die jhr das höchste Gut
+
+
+Auff Burg und Schlösser setzt; Die jhr Muth / Gut und Blut
+Vor Land und König wagt / und die zerstückten Leichen
+Durchlauchten Seelen wollt als stündlich Opffer reichen /
+Schlagt eur Gesichte doch auff dieses Kerckers Grufft!
+Mich hatte Glück' und Sonn' und Demanthelle Lufft
+So herrlich überstrahlt / daß fast kein Tag verschwunden /
+Daß ich nicht neue Gunst und Lust und Ruhm gefunden.
+Ach aber! Seht / wie schnell verwechselt Glück und Zeit!
+Der vor dem Fürsten saß zum nechsten an der Seit' /
+Der seine Schwester küßt' / und Stadt und Reich ergetzet /
+Wird Sclav- und Mördern gleich gefesselt eingesetzet.
+Diß ist deß Hofes Danck und der so grosse Lohn!
+Wir dienen Tag für Tag / erdulden Schmach und Hohn /
+Umb daß die Krone nur in Sicherheiten blühe:
+Was aber bringet uns die eisenharte Mühe?
+Wir gleichen einem Licht / das selber sich verzehrt /
+Jn dem es andern leucht. Wird ichtwas ja gewehrt /
+So ist es nur ein Schwamm / auß dem Monarchen pressen
+Die eingefüllte Flut / und den Verdienst vergessen:
+Denn bey Verdiensten seyn die Grossen taub und blind /
+Bey Fehlern aber scharff und schneller als ein Wind.
+Jedoch was red' ich hier von Fehlern und Gebrechen!
+Selbst Themis wird vor mich in dieser Sache sprechen.
+Holdseel'ge Fürstin! ach! ich seufftze nicht umb mich:
+Holdseel'ge Fürstin! ach! ich seufftze nur umb dich!
+Verdammte Salome! wenn wird dein Sinn sich beugen!
+Jch ruffe GOTT selbst an zum Zeugen aller Zeugen!
+Der ins verborgne siht / und richtet alle Welt /
+Weiß / daß Verleumbdung mich in Band und Ketten hält.
+Ach Leben voller Angst! Erschein' / O Tod! erscheine!
+Versetze meinen Geist und schmachtende Gebeine
+Jns Reich der Freyheit doch / die nimmermehr vergeht!
+Was ists / daß mich ein Mensch mit eitlem Dunst erhöht!
+Vor Palmen und Scarlat und hochgesinnte Tittel
+
+
+Seh' ich in einem Blick Zypreß' und Sterbe-Kittel:
+Der Ehre Leib-Standart kehrt sich in einen Molch /
+Der güldne Pusikan in einen Mörder Dolch /
+Mein Marmorn Conterfey in dürre Todten-Knochen /
+Daß Argwohn / Ehr-Sucht / List / und Haß und Neid zerbrochen /
+Jch wüntsche Sarg und Grab!
+HAUPT-MANN.
+Mein Herr / der König schafft /
+Daß er entnommen werd' auß der beschwerten Hafft /
+Und durch vergossnes Blut den letzten Schluß besiegel'.
+
+
+
+JOSEPHUS.
+
+Gar wol! befreyet mich von Ketten / Band und Riegel:
+Unschätzbahr Freyheits-Tag! Sey tausendmal gegrüßt!
+Nun wird der Gifft-Kelch mir bezuckert und versüßt!
+Nehmt Rock und Mantel weg / den Schaum der Eitelkeiten.
+Jch seh die Engel schon mich in das Reich begleiten /
+Wo ich mit Abraham zu Tische sitzen kan
+Nihm grosser JEHOVAH doch meine Seufftzer an!
+Herodes / ich verzeih! ob schon dein strenges Wütten
+Mir fälschlich vor der Zeit das Lebens-Garn zerschnitten.
+Ja ich verzeih auch dir / verwegne Salome /
+Ob gleich dein' arge List mich stürtzt' in solches Weh.
+Nun Erden gutte Nacht!
+BLUT-RICHTER.
+Hier liegt mit einem Streiche
+Auffs Königes Befehl die Blut-beströhmte Leiche.
+HAUPT-MANN.
+Genug: halt' unter deß beym Körper gute Wach';
+Jhr aber tragt den Kopff ins Fürstliche Gemach.
+
+
+
+
+
+Der Schau-Platz stellet vor einen Spatzier-Saal.
+
+
+Alexandra. Hyrcanus.
+
+
+
+
+HYRCANUS.
+
+Seht / wie der arme Mensch in steten Sorgen schwebet!
+Was hat mein graues Haupt vor Jammer nicht erlebet /
+Seit ich den morschen Leib vor Kirch' und Reich gewagt!
+Deß Brudern grimme Faust hat erstlich mich verjagt /
+Als er nach's Vatern Tod mir / als dem Erstgebohrnen /
+Zum hohen Priesterthum von GOTT selbst außerkohrnen /
+Daß Urim Thummim wolt' entreissen wider Recht /
+Und mit Gewalt regier'n das Jüdische Geschlecht /
+Biß er zu Malta must durch heimlich Gifft erblassen.
+Hat nicht der Scipio den Alexander lassen
+Dein liebstes Eh-Gemahl enthaupten mit dem Beil?
+So kriegt' Antipater das allerbeste Theil
+Von Salems Herrligkeit und Palæstinens Gräntzen.
+Denn ob gleich Assamon mit Jnfeln konte gläntzen /
+Blieb Kron' und Reichs-Stab doch beym Jdumæ'schen Haus;
+Und so fiel unsre Macht auff einmal in den Graus.
+Mein Hertze blutet noch / wenn es daran gedencket /
+Wie Pacorus mein Haupt / mein heilig Haupt gekräncket /
+Weil mich Antigonus umb Ohr' und Scepter bracht!
+Herodes hat mich zwar auß diesem Unglücks-Schacht
+Als ein behertzter Geist mit starckem Arm gerissen /
+So daß ich jhn auch ließ mit Mariamnen schliessen
+Durchs Band der heil'gen Eh' / weil seine Tapfferkeit
+Verdienet solche Lust / die Brust und Seel' erfreut.
+Allein es hat sich auch verändert sein Geblüte /
+Weil mir Aristobul stets lieget im Gemüte /
+Den er durch Meuchel-Mord im Fluß erträncken ließ.
+Jch weiß nicht / ob man ist deß Königs Gunst gewiß
+Bey so verwirrter Zeit!
+
+
+
+
+ALEXANDRA.
+
+Ja freylich ist zu schauen /
+Daß wir die Schlösser nicht auff falschen Trüb-Sand bauen:
+Denn ob der Jordan gleich weit lieget von dem Nil /
+So weint in Salem doch der tück'sche Crocodil;
+Und nirgends singen mehr die listigen Sirenen /
+Als wo zur Tafel stets Trompet' und Pauck' erthönen.
+Erweg' ich was genau den Zustand in dem Reich /
+Seit unserem Geschlecht' ward Jdumæa gleich /
+So muß ich nur gestehn / daß Ehr-Sucht / List und Räncke
+Jn dieser Burg geherrscht durch Wollust / und Geschencke.
+Denn daß Antipater uns Reich und Geist beschützt /
+Hierdurch hat er sich selbst und seinen Stamm gestutzt:
+Wie brachen bald hervor die hochgesinnten Brüder
+Herodes und Phasel; Sie wollen nicht nur Glieder
+Deß Jüd'schen Reiches seyn: Nein! sondern Printz und Fürst.
+Hat auch Herodes gleich dem Parther / den gedürst
+Nach unserm Gutt und Blut / die grimme Macht verschnitten!
+Hat er sich nicht hierdurch Gemahl und Kron' erstritten /
+Vor die er viel zu schlecht! Denn Mariamnens Glantz
+Jst vor Crystall zu hoch! Der Röm'sche Lorber-Krantz
+Hätt' jhr vergöttert Haupt mit grösserm Ruhm gezieret /
+Als der vom kahlen Dorff nur sein Geschlechte führet!
+Jedoch diß ist geschehn und abzulehnen nicht.
+Zu dem ist offenbar / wie er sich Rom verpflicht /
+Wie er durch Gaben sich bey Cæsarn eingeheuchelt /
+Dem grossen Marck-Anton und dem August geschmeichelt;
+Bey jhnen unsern Stamm verdächtig stets gemacht /
+Auch jhnen zugefall'n verändert Sprach' und Tracht /
+So daß jhm nicht allein Anton den Mord verziehen;
+Ja selbst August läst jhn im höchsten Wolstand blühen /
+Da er es doch zuvor mit seinem Tod's-Feind' hielt.
+Seht / was Herodes nun zu Rom und Salem gilt!
+Gesetzt auch / daß diß Glück' jhm wol zu gönnen wäre:
+
+
+Der Vogel lässet nicht die reiffe Zucker-Bähre /
+Biß er durch jhren Schmack den Hunger sich gestillt;
+Der Blut-begier'ge Wolff wird eher nicht erfüllt /
+Biß er die gantze Schaar der Lämmer auffgefressen:
+So wird auch er nicht ruh'n / biß er die Traur-Zypressen
+Auff allen Gräbern siht der Aßmonæer stehn.
+Hat nicht Aristobul schon müssen untergehn /
+Und gleichsam uns den Weg zu Grufft und Bahre weisen?
+Denn schleiffet Salome das grimme Hencker Eisen
+Selbst auff den Eh-Gemahl / den doch die Unschuld krönt /
+Wie werden künfftig wir nicht werden auch verhöhnt?
+
+
+
+HYRCANUS.
+Was hör' ich! Salome hat jhren Mann verschnitten?
+
+
+ALEXANDRA.
+So daß er stracks gemüst die reine Seel' außschütten.
+
+
+HYRCANUS.
+Hilff grosser Adonay! wo rührt solch Unheil her?
+
+
+ALEXANDRA.
+Verdacht und Falschheit hat geschärfft diß Mord-Gewehr.
+
+
+HYRCANUS.
+Was hat vor Argwohn denn die Furie erwecket?
+
+
+ALEXANDRA.
+Samb Mariamnens Brust mit Josephs sey beflecket.
+
+
+HYRCANUS.
+Auff was vor Grund hat sie die Lügen doch gebaut?
+
+
+ALEXANDRA.
+Weil sie Herodes jhm abwesend anvertraut.
+
+
+
+HYRCANUS.
+Gewiß als er zu Rom den Tod-Schlag solt' außführen?
+
+
+ALEXANDRA.
+Ja: Joseph hätte sich zu öffters lassen spüren – –
+
+
+HYRCANUS.
+Wo?
+
+
+ALEXANDRA.
+Jn dem Schlaf gemach der Fürstin Tag und Nacht.
+
+
+HYRCANUS.
+Hierdurch ist dieses Werck im minsten klar gemacht.
+
+
+ALEXANDRA.
+Doch hat der König sich diß Gifft bezaubern lassen.
+
+
+1
+
+
+
+
+HYRCANUS.
+Hilff Gott! kan Fürsten Gunst so schnell und gantz erblassen?
+
+
+ALEXANDRA.
+So gehts! Auch Schwägerschafft gilt bey Tyrannen nicht.
+
+
+HYRCANUS.
+
+Glaubt / daß mir dieser Fall Gemüth' und Seel' anficht.
+Jst aber Mariamn' auch etwan hier verletzet?
+
+
+
+ALEXANDRA.
+
+Nein: Weil die Liebe sich dem Fürst noch widersetzet.
+Jedoch wie lange wird die laue Brunst bestehn!
+Es darff ein schlechtes Feur nur einmal noch auffgehn /
+So wird die Königin nebst uns im Rauch' aufffliegen;
+Denn hier spielt Meister nun List / Argwohn / Ehr-Sucht / Lügen.
+
+
+
+
+HYRCANUS.
+
+Was Rath! Soll nun Hyrcan in dieser Mörder-Höl' /
+Jn dieser Leuen-Grub' auch die verlebte Seel'
+Außblasen und verliehr'n mit Aengsten / Schimpff und Schande?
+Nein! Last uns ziehen weg auß dem verfluchten Lande!
+Jedoch besinne dich du hochbetrübter Geist /
+Verdrucke / was dich kränckt / verschmertze / was dich beist!
+
+
+
+ALEXANDRA.
+
+Recht so / mein Vater / recht! Wer wil in Mesechs Hütten
+Und Kedars Läger ruhn / wo nichts als Mord und Wütten?
+Die Bundes-Lade kan beym Dagon gar nicht blühn.
+Laßt in Arabien zum Malichus uns fliehn /
+Da wird Hyrcanus sich in sichrer Freyheit schauen.
+
+
+
+HYRCANUS.
+
+Jst wol auff diesen Rath ein guter Grund zu bauen?
+Wie wenn Herodes mir nachsetzte in der Flucht?
+So würde Schutz und Ruh von mir umbsonst gesucht.
+
+
+
+ALEXANDRA.
+
+Jch wil diß leichte Werck schon wissen einzurichten /
+Daß unsern Anschlag wird kein rauher Sturm vernichten.
+Zu dem / wer weiß es noch / wie's das Verhängnüß schickt /
+Daß der Tyranne wird einst unverseh'ns erdrückt /
+So kan den Jüd'schen Thron Hyrcan noch einmal hoffen.
+
+
+
+HYRCANUS.
+Der seufftzt nach Sceptern nicht / der schon so hart getroffen!
+
+
+ALEXANDRA.
+
+Gewiß es ahnt mir fast / wo ferner sich Hyrcan
+Jn Salems Burg verweilt / so ist's umb jhn gethan.
+
+
+
+HYRCANUS.
+Wol / wol! ich wil inndeß mich auff die Reise schicken.
+
+
+
+ALEXANDRA.
+Der Himmel wolle jhn mit Krafft und Trost anblicken!
+
+
+Hyrcanus. Alexandra. Pheroras. Antipater.
+
+
+
+
+PHERORAS.
+Jch wüntsch' unsterblich Glück' auch zu der Reise dir!
+
+
+ANTIPATER.
+Jch in Arabien die Königliche Zier!
+
+
+HYRCANUS.
+
+Untreuer Reise-Wuntsch! Ach unglückseel'ge Thaten!
+Ach Alexandra ach! wir sind / wir sind verrathen!
+Was ist doch hier zu thun! Weil dieses schlimme Paar
+Den Anschlag angehört / so wird uns Grufft und Bahr
+Ohnfehlbahr zubereit durch jhr verleumbdrisch Wütten;
+So wird unschuldig mir das Lebens-Garn zerschnitten!
+Was ist doch hier zu thun! Soll ich durch schnelle Flucht
+Der Donner-Wolck' entgehn? Soll oder ich die Frucht
+Deß rauhen Gleißners-Hof's wie Joseph sehn und schmecken?
+Was ist doch hier zu thun!
+
+
+
+ALEXANDRA.
+
+Laßt schwinden Furcht und Schrecken!
+Hat gleich Antipater und Pheroras gehört /
+Was etwan wir gestimmt / so ist doch nicht versehrt
+Hierdurch deß Königs Nutz / noch das gemeine Beste.
+Wir sind in dieser Welt nur Pilgrams-Leut' und Gäste /
+Die stündlich setzen fort den nimmermüden Fuß.
+Gesetzt / man foder' uns ob dem gefaßten Schluß;
+Kan man die Klage nicht anfänglich gantz verneinen?
+Wil ja hernach das Glück' hierinnen uns nicht scheinen /
+So geb' Hyrcanus vor / es hab' jhn Malich offt
+Den Jüd'schen Glauben jhm zu zeigen / selbst gerufft;
+
+
+Ja es beruh' hierauff Jerusalems Gedeyen.
+
+
+
+HYRCANUS.
+GOTT wolle grössern Trost als Hoffnung uns verleihen!
+
+Reyen
+
+
+Deß Lebens / deß Todes / und der Freyheit.
+
+
+Der Schau-Platz bildet ab eine lustige Gegend mit vielen Gezelten.
+
+
+
+
+DAS LEBEN.
+
+ DER TOD.
+Bestürtzter Geist! Schau Tod und Leben an!
+Schau / welches Bild dich recht vergnügen kan:
+Hier ist entdeckt die Lust und folter-Kammer;
+Hier wird gewehrt die Anmuth und der Jammer /
+Hier zeiget sich so höll' als Paradieß:
+Hier gehen auff Dorn-Rosen und Zypressen /
+Hier wird die Zeit und Ewigkeit gemässen:
+Erwehle / was du wilt / und was dir mehr gewieß.
+
+
+
+DAS LEBEN.
+
+Mein güldnes Licht hat GOTT selbst angezündet /
+Als Adams Leib ein gangbar Uhr-Werck ward;
+Mein Krystallin ist vor der Welt gegründet /
+Mit mir hat sich die Ewikeit gepaart.
+Drumb weil GOTT selbst und Engel mich erhöhen /
+Muß ohne Glut deß Todes Fackel stehen.
+
+
+
+DER TOD.
+
+Der Seiden-Wurm spinnt jhm den Sterbe-Kittel:
+So hastu selbst mein schwartzes Licht erweckt /
+Als du verschertzt der Ewikeiten Tittel /
+Und meine Glut dein Jrr-Licht meist ersteckt.
+Schau! dein Krystall das unzerbrechlich wahre /
+Springt nun entzwey vor meiner Uhr und Bahre.
+
+
+
+
+DAS LEBEN.
+
+Dein Stunden-Glas zerbrach zwar meinen Spiegel /
+Weil Schlang' und List den Apffel mir gereicht;
+Es druckten mich zwar deiner Bahre Riegel;
+Doch meine Kertz' ist gäntzlich nicht erbleicht /
+Weil GOTT und Glück' und Zeit dem jrrdschen Leben
+
+
+2
+
+
+Macht / Reichthum / Witz / Lust / Stärcke / Schönheit geben.
+
+
+
+DER TOD.
+
+Ach Schatten! ach! worauff dein Glantz sich gründet!
+Diß Mumm-Werck ist nicht einer Bohne werth:
+Wenn meine Glut Pallast und Leib entzündet /
+Wird Gold in Glas / Scarlat in Stroh verkehrt.
+Steht GOTT / und Gluck / und Zeit auff deiner Seiten /
+Schau / wie die drey dich selbst durch mich bestreiten.
+
+
+3
+
+
+
+
+
+DAS LEBEN.
+
+Was sehen wir! Gifft / Schlangen / Dolch und Eisen?
+Ein blanckes Beil und fest gedrehten Strick:
+Jhr Schwestern / auff! Laßt unsre Schutz-Herrn weisen!
+Wen lacht nicht an diß Perlne Golden-Stück /
+Der theure Schatz / diß weise Buch / die Schilder /
+Diß tapffre Schwerdt / die Alabaster Bilder?
+
+
+
+DER TOD.
+
+Eh' Sophonisb' in deinen Ketten schmachtet /
+Muß sich in Gifft jhr Nectar stracks verkehrn;
+Wie nach dem Molch Cleopatra getrachtet /
+Der Freyheits-Stahl den Cato muß verzehr'n!
+Wie Bajazeth im Keficht sich zerschmettert /
+Jst offenbar. So wird mein Arm vergöttert!
+Solch Traur-Spiel kommt auß deinen Eitelkeiten!
+
+
+Solch Todten-Tantz wird in der Welt gehegt!
+Jedoch wol dem / den Zeit und Tod bestreiten /
+Der selber sich nicht grause Hand anlegt /
+Wie Joseph und Hyrcan ein Beyspiel geben /
+Die Franck und frey durch Beil und Stricke leben!
+
+
+
+DAS LEBEN.
+
+Was? Mir Gewalt? Auff Schwestern! greifft zu Waffen!
+Blitzt auff den Feind und seinen Anhang loß!
+Eh mir der Tod den Siegs-Krantz weg-soll-raffen /
+So schmeisset drauff und gebet Stoß umb Stoß
+
+
+
+DER TOD.
+
+Drückt / Brüder / ab die Demant-festen Pfeile /
+Werfft über sie Strick / Fessel / Kett' und Seile!
+
+
+
+Der Schau-Platz eröffnet sich und stellet die in einem helleuchtenden Himmel stehende Freyheit vor.
+
+
+
+
+DIE FREYHEIT.
+
+Laßt ab vom Streit / den selbst die Göttin schlichtet /
+Die über alle Pein deß Knecht'schen Lebens siegt /
+Die / wenn jhr Sterbliche in Band und Ketten liegt /
+Euch durch den Tod als freye Leut' auffrichtet!
+
+
+
+Ein Ruhm-bahr tod ist das bewehrtste Mittel /
+Deß Kerckers Nacht zu kehr'n in Lichte Freyheits-Lufft:
+Seht / wie Hyrcan mich sucht und Joseph in der Grufft!
+Wie sie vor Sammt erwehl'n den Sterbe Kittel!
+
+
+
+Drumb nihm den Krantz und diese Sieges-Fahne
+
+
+4
+
+
+Von meiner freyen Faust zum Zeichen deiner Macht!
+»Denn wer den Tod bedenckt / deß Lebens-Schaum verlacht /
+Wird fahren auff dem güld'nen Freyheits-Kahne.«
+
+
+
+
+
+
+
+
+3. Akt
+
+
+
+
+
+
+Die Dritte Abhandlung.
+
+Der Schau-Platz stellet vor deß Königes Gemach.
+
+
+Herodes. Pheroras. Antipater. Der Haupt-Mann mit den Trabanten.
+
+
+
+HERODES.
+Verhält diß Werck sich so / wie Jhr uns habt erzehlt?
+
+
+PHERORAS.
+Nicht anders: Rach' und Furcht ist beyden starck vermählt.
+
+
+HERODES.
+Wie könte Josephs Tod so bald zu jhnen fliegen?
+
+
+ANTIPATER.
+Was bleibt bey Hofe doch verborgen und verschwiegen!
+
+
+HERODES.
+War er denn / oder sie / geneigter zu der Flucht?
+
+
+PHERORAS.
+Die Alexandra hat den Vater stets versucht.
+
+
+HERODES.
+Die Unruh dieses Reichs muß stets was neues hegen.
+
+
+ANTIPATER.
+Sie wird nicht eher ruhn / biß man sie wird erlegen.
+
+
+
+HERODES.
+Gab denn Hyrcanus auch stracks seinen Willen drein?
+
+
+PHERORAS.
+Nur letzlich: Denn zu erst wandt' er viel Sachen ein.
+
+
+HERODES.
+Was wolte denn hierinn sein Furchtsam Hertze sagen?
+
+
+ANTIPATER.
+Es wurde Zweyfels frey jhm doch der Fürst nachjagen.
+
+
+HERODES.
+Getroffen; Nicht gefehlt! gab diß die Tochter zu?
+
+
+PHERORAS.
+Sie sprach: Die schnelle Flucht sey eintzig seine Ruh.
+
+
+HERODES.
+So ward der Schluß gefaßt / ohn' Abschied durchzugehen?
+
+
+ANTIPATER.
+Umb in Arabien in Sicherheit zu stehen.
+
+
+HERODES.
+
+Daß Alexandra stracks mit dem Hyrcan erschein'!
+HAUPT-MANN.
+Sie sollen Augenblicks ins Königs Zimmer seyn.
+
+
+
+HERODES.
+Dem / der sich uns nicht traut / ist gleichfalls nicht zu trauen.
+
+
+PHERORAS.
+Wer nicht dem Fürsten traut / dem ist der Sarg zu bauen.
+
+
+
+ANTIPATER.
+Wer Licht und König scheut / verdienet Grufft und Nacht.
+
+
+HERODES.
+Was ists denn / daß sie so auff diese Springe bracht?
+
+
+PHERORAS.
+Der Tod Aristobuls liegt jhnen stets in Sinnen.
+
+
+HERODES.
+Wahr ist's; Wir konten kaum der Weiber Klag' entrinnen.
+
+
+PHERORAS.
+So sehe nun der Fürst / was Alexandra kan.
+
+
+ANTIPATER.
+Wie nebst Cleopatren sie jhn zu Rom gab an.
+
+
+HERODES.
+Sie hatten freylich sich auff unsern Fall verbunden.
+
+
+PHERORAS.
+Doch diese raaset noch / ob jene gleich verschwunden.
+
+
+ANTIPATER.
+Ein stoltzes Weib erregt nur stündlich neue Pest.
+
+
+PHERORAS.
+Am besten bald gedämpfft / weil sich's noch dämpffen läßt.
+
+
+HERODES.
+Es laßt sich nicht so bald die Schwieger-Eltern tödten.
+
+
+PHERORAS.
+Wol: Wenn sich jhre Brunst verwandelt in Cometen.
+
+
+
+HERODES.
+Stirbt Alexandra gleich / so lebt doch noch Hyrcan.
+
+
+PHERORAS.
+Der geht deß Königs Gluck' am allermeisten an.
+
+
+HERODES.
+Soll Freundschafft nicht bestehn bey nahverwanten Kronen?
+
+
+PHERORAS.
+Auch Kronen sollen nicht der schlimmen Eltern schonen.
+
+
+HERODES.
+Es hat Hyrcanus mir nichts übels zugefügt.
+
+
+PHERORAS.
+Gnug / daß er mit dem Kind' in gleichem Laster liegt.
+
+
+HERODES.
+Sie hat jhn überschwätzt / bewogen und betrogen.
+
+
+PHERORAS.
+Mit solchen Gründen kömmt kein Weiser auffgezogen.
+
+
+HERODES.
+Sein Priesterlicher Stand befreyt jhn von der Bahr.
+
+
+ANTIPATER.
+Ward Zacharias nicht getödtet beym Altar?
+
+
+HERODES.
+Durch andrer Fehler muß man eigne nicht beschützen.
+
+
+PHERORAS.
+Der König wird hierdurch jhm Statt und Krone stützen.
+
+
+
+HERODES.
+Diß ist der rechte Zweck! Nun stimmt der Fürst dir bey!
+
+
+PHERORAS.
+So bald Hyrcanus fort / ist auch Herodes frey!
+
+
+HERODES.
+So ists: Durch seinen Tod wird Assamon vergessen.
+
+
+PHERORAS.
+Die Lorbeern blühen uns auß diesen Traur-Zypressen!
+
+
+HERODES.
+
+Halt an! Sie kommen gleich. Wir wollen List und Macht
+Den Richter lassen seyn.
+
+
+
+Herodes. Pheroras. Antipater. Alexandra. Hyrcanus. Der Haupt-Mann mit den Trabanten. Der Blut-Richter / die Beil-Träger.
+
+
+
+
+HERODES.
+
+Gleich wie der düstre Schacht /
+Wo höffliche Gebäu den schönsten Anbruch weisen /
+Vor Gold und Silber offt gewehret Bley und Eisen:
+Wie offt der reichste Schatz / den das Krystall uns zeigt /
+Jn einem Augen-Blick sich in den Abgrund neigt /
+Und nichts als Wasser quillt: So spielt mit uns das Glücke!
+Wer hatte wol vermeint / daß solche Mörder-Tücke /
+Solch gifftig Berg-Werck solt' in euren Hertzen seyn /
+Die zwar von aussen stets beliebten Sonnen-Schein /
+Jnwendig aber nur Cometen angezündet?
+Seht / wie der theure Schatz der Freindschafft nun verschwindet /
+Weil jhr mein Krystallin / mein redliches Gesicht
+
+
+Verändert und befleckt / so daß es nun zerbricht
+Mit Gnade gegen euch! Jst Fremden so zu trauen?
+Soll man nicht festern Grund auff Anverwandte bauen /
+Als leider hier geschieht? So schlage Blitz und Bley
+Auff solche Liebe loß! Jst nicht Hyrcanus frey?
+Wird Alexandra nicht als Mutter stets geliebet?
+Und doch hat eu'r Gemüth' ein solches Stück verübet /
+Daß Salems Nutzen schwächt / deß Königs Ruhm verkürtzt /
+Ja wo nicht wird gesteurt / uns auff die Bahre stürtzt.
+Verdammte Gleißnerey! Vermaledeiter Zweiffel!
+Welch Zwietrachts-voller Geist / welch heißerboster Teuffel
+Hat Euch Mißträuligkeit / die Seuche dieser Welt /
+So auch den Quader-Stein der Liebe selbst zerschellt /
+Jn Sinn und Hertz gepflantzt? Jst euch der Fürst verdächtig /
+Weil er durch Glück' und Muth im Reiche worden mächtig?
+Was reitzt euch hierzu an? Jst Salem euch zu schlecht?
+Jst Malichus ein Printz / und wir ein blosser Knecht?
+Sticht denn Arabia mit den unfruchtbar'n Jnseln
+Die heil'ge Landschafft weg / die sich mit Kron' und Jnfeln
+Längst über alle Reich' biß an den Pol erhöht?
+Jedoch was eifern wir! Ein Tauber fast versteht /
+Daß blosser Ehr-Geitz euch zu solcher Flucht verleite /
+Der / wenn Herodes nur die grimme Seel' außspeite /
+Nicht eher würd' erfüllt. Seht eure Heiligkeit /
+Eur schön Gewissen an! Ha teuffelischer Neid!
+Als sich Cæsareon vor dem August geflüchtet /
+Ward er / weil er geflohn / vom Kayser hingerichtet:
+Und jhr / die jhr von uns doch nichts als Freindschafft spührt /
+Werd't / nur zu unserm Schimpff / auff dieses Eiß geführt /
+Daß euch den Kopff abstößt.
+
+
+
+ALEXANDRA.
+
+Es sind der Boßheit Künste /
+Gekrönten vorzumahl'n von Fremden blaue Dünste /
+Die nichts als Schatten seyn. Der Fürst eröffne mir /
+
+
+Welch freches Läster-Maul mit schändlicher Begier
+Uns beyde schwartz gemacht und fälschlich angegeben.
+
+
+
+PHERORAS.
+
+Man sihet stündlich dich in lauter Unruh schweben /
+Und dennoch stehst du umb / was ich nicht nur allein /
+Auch selbst Antipater von dir genommen ein /
+Und deutlich angehört.
+
+
+
+ALEXANDRA.
+Wie heißt denn das Verbrechen?
+
+
+ANTIPATER.
+
+Daß jhr durch schnöde Flucht euch wollt am König rächen /
+Und bey dem Malichus bemühn umb Schutz und Ruh.
+
+
+
+ALEXANDRA.
+
+Ach! daß der Donner nicht schlägt augenblicklich zu /
+Und den Verleumbdungs Blitz in Asch' und Staub verwandelt!
+Wie daß Antipater so gifftig mit uns handelt /
+Und sonder Ursach uns beym Fürsten macht verhaßt?
+Gesetzt / doch nicht enträumt / es sey der Schluß gefaßt /
+Das Reich Arabien auff kurtze zeit zu grüssen:
+Hierdurch wird Stadt und Land im minsten was entrissen /
+Denn unsre Gegenwart nutzt Palæstinen nicht /
+Uns geht kein Scepter an / kein Jnfel / kein Gericht.
+Zu dem hat Malichus offt den Hyrcan ersuchet /
+Jhm / weil sein innrer Trieb das Heydenthum verfluchet /
+Deß Jüd'schen Gottes-Diensts und Glaubens wahren Grund
+Außführlich abzumahl'n / und zwar mit eignem Mund:
+Soll diß nun straffbar seyn / was GOttes Ruhm vermehret?
+Mit kurtzem: Unsre Treu ist hierdurch nicht versehret.
+
+
+
+
+HYRCANUS.
+
+So ists / verführter Fürst: Er dencke was zu rück'!
+Mich hat der Araber vor's Brüdern grimmer Tück /
+Der dir und mir den Thron gewaltsam wolt' entreissen /
+Mit starcker Faust beschützt. Soll nun mein Hertz nicht gleissen
+Hier mit dem Diamant der edlen Danckbarkeit /
+Die sonderlich erheischt mein GOtt verlobtes Kleid?
+Denn wer die Tugend nicht zumal in Glaubens Sachen
+Außübet / wenn er kan / auff den wird schrecklich krachen
+Deß grossen GOttes Zorn! So ist auch über diß
+Der König jetzt deß Bund's mit Malicho gewiß /
+Der weder Pfeil noch Schwerdt auff Salems Unheil spitzet.
+Ja Palæstina selbst wird hierdurch mehr gestützet /
+Wenn unsern GOttes-Dienst Arabien nimmt an.
+Und endlich ist zu sehn / ob / was man schloß / gethan;
+Ob oder Vorsatz nur ein schlechter Vorsatz blieben.
+Nein warlich! weil ich seh / daß diß wird angeschrieben
+Als ein mißträulich Werck / daß (wie der Himmel weiß!)
+Doch keine statt hier find / so breche Reiß' und Eiß /
+Auff welches keine Furcht / kein Zweifel mich verleitet.
+
+
+
+PHERORAS.
+
+Schaut / wie der Frechheit Mund vom rechten Zweck abschreitet!
+Diß sind nur faule Fisch': Erwegt die Reden doch /
+So jhr kurtz hin geführt! Das Eisen harte Joch /
+Daß Joseph allbereit im schnöden Beil empfunden /
+Die durch Aristobul'n euch eingesetzte Wunden
+Die würckten durch die Flucht die Rach' in eurer Seel'.
+War euch Herodis Burg nicht eine Mörder-Höl' /
+Deß Kedars Mord-Gezelt / und Mesechs grimme Hütten /
+Wo nichts als Hencker nur und grause Tyger wütten?
+Habt jhr dem Dagon nicht verglichen unsern Fürst?
+
+
+
+
+ALEXANDRA.
+Schau / wie / Verräther / dich nach unserm Blute dürst!
+
+
+HERODES.
+Halt inn' mit solchem Wort; verbittert nicht die Sinnen!
+
+
+ALEXANDRA.
+Man soll der Unschuld nicht den Sterbe Kittel spinnen.
+
+
+PHERORAS.
+Die Unschuld ist sehr klein / die Unthat trefflich groß.
+
+
+ALEXANDRA.
+Der Dorn in eurem Aug' ist Mariamne bloß.
+
+
+PHERORAS.
+Soll Mariamne nun auch eure Laster schützen?
+
+
+ALEXANDRA.
+Auff heil'ge Lorbern pflegt der Donner nicht zu blitzen.
+
+
+PHERORAS.
+Euch kommt noch Heiligkeit noch prächt'ge Lorbern zu.
+
+
+ALEXANDRA.
+Wir sind von heil'germ Blut / von besserm Stamm / als du.
+
+
+PHERORAS.
+Schaut / wie das Hoffarts Gifft kan in der Seele kochen!
+
+
+ANTIPATER.
+Schaut / wie der König selbst wird heimlich angestochen!
+
+
+HERODES.
+Vermäßner Hochmuths-Reitz! Stracks Beil und Hencker her!
+
+
+
+PHERORAS.
+Sind jhre Sinnen doch von aller Liebe leer!
+
+
+ANTIPATER.
+Scheut sich ein Weibs-Bild nicht den Fürsten anzutasten?
+
+
+HERODES.
+
+Mund und Gemüthe stehn in einem Meineids-Kasten /
+Dem hitz'ger Eifer nun die Riegel loß gemacht.
+Genug! Nun ist es Zeit / daß unsre Langmuth kracht /
+Und sich in Donner kehrt / und unsre Sorgen stillet.
+Nun ist jhr Sünden-Maaß im höchsten Grad erfüllet!
+
+
+
+PHERORAS.
+Wer Kron' und Thron beschimpfft / fäll't billich in das Grab.
+
+
+ANTIPATER.
+Soll Jdumæa blühn / so reißt diß Unkraut ab.
+
+
+PHERORAS.
+
+Wil güldne Sicherheit Herodes jhm erwerben /
+So müsse stracks Hyrcan und Alexandra sterben.
+
+
+
+HERODES.
+Der Spruch ist abgefaßt: Greifft die Verräther an.
+
+
+HYRCANUS.
+Thut Priestern nicht Gewalt! Denckt wer sie rächen kan!
+
+
+ALEXANDRA.
+Entweicht! Wer gibt euch Macht uns Fessel anzuwerffen?
+
+
+HERODES.
+
+Der Printz / auff dessen Hals jhr woll't den Mord-Stahl schärffen.
+Nur fort!
+
+
+
+
+ALEXANDRA.
+Der König hör'!
+
+
+HERODES.
+Es ist nicht Hörens Zeit.
+
+
+HYRCANUS.
+Besprengt mit Blute nicht mein Priesterliches Kleid!
+
+
+HERODES.
+Hoffärt'ge Jnfel muß in Purpur sich verwandeln.
+
+
+HYRCANUS.
+Hilff Himmel! wil man denn so mördrisch mit uns handeln!
+
+
+HERODES.
+Der Themis Richt-Axt ist kein mördliches Gewehr.
+
+
+HYRCANUS.
+Ach! daß die Themis doch mein' Unschuld hier erklähr'!
+
+
+ALEXANDRA.
+Man pflegt gekrönte nicht so sclavisch hinzurichten.
+
+
+HERODES.
+Wenn sich gekrönte selbst durch Unthat so vernichten.
+
+
+HYRCANUS.
+Ach Tochter!
+
+
+ALEXANDRA.
+Ach Hyrcan! Ach mein Aristobul!
+
+
+
+
+Herodes. Pheroras. Antipater. Hyrcanus. Alexandra. Mariamne. Der Haupt-Mann mit den Trabanten. Der Blut-Richter. Die Beil-Träger.
+
+
+
+
+HYRCANUS.
+
+ ALEXANDRA.
+Ach Mariamne! Ach! Errett' uns auß dem Pful
+Der unerschöpfften Schmach!
+
+
+
+HERODES.
+Sehn wir die Fürstin kommen!
+
+
+MARIAMNE.
+
+Hilff dreymal-grosser GOTT! was hat man vorgenommen!
+Mein Licht! Mein Schatz! Mein Herr! Mein König und mein Haupt!
+Wo Mariamnen jtzt zu reden ist erlaubt /
+Wo Mariamne sich darff ichtwas unterwinden /
+So laß' er seine Magd ein sanfftes Antlitz finden!
+Mir ist zwar unbewust / was seinen Geist erhitz' /
+Warumb der Donner-Schlag / der unverhoffte Blitz /
+Der traurige Comet / die seufftzende Gemeine /
+Jn Salems Friedens-Burg vor jhm / mein Fürst / erscheine.
+Jedoch weil umb und umb ein' innerliche Glut
+Mein klopffend Hertz' entflammt / weil mir das treue Blut
+Ob angebohrner Brunst an alle Adern schläget /
+Und einem Uhr-Werck gleich sich durch den Leib beweget /
+So wird der König ja die Kühnheit mir verzeih'n.
+Der Himmel pfleget nicht stets Regen außzustreun /
+Noch grause Wetter-Stürm' in Lüfften darzustellen /
+Wenn etwan Hitz und Frost zusammen sich gesellen /
+Und den nichts-werthen Dunst die Wolcken ziehn an sich.
+Hier / hier / mein Hertz / mein Trost / betrachte selber dich!
+Jn deinem Himmel braust (ich beb' / ich starr' / ich zitter'!)
+Ein ungeheurer Sturm und schädliches Gewitter /
+
+
+Daß ein unreiner Dampff hat Zweifels frey erweckt.
+Daß nun der Donner-Keil in Zeiten werd' ersteckt /
+Und nicht mit lichtem Knall auff Unschulds Zedern blitze /
+So bau / O König / doch in deinem Sternen-Sitze
+Mit starcken Armen vor! besänfft'ge dein Gesicht /
+Und gib vor Nebel uns ein Demant-helles Licht!
+Wer ists / auff den du tobst? Ein Frauen-Bild und Priester!
+Kein rauher Araber / kein scheußlicher Philister /
+Kein toller Götzen-Knecht / kein schwartzer Mauritan.
+Ach nein! Sie gehen dich mit heil'ger Freindschafft an.
+Als Abjathar den Thron deß Davids sehr verletzet /
+Ward nicht ein eintzig Schwerdt auff seinen Hals gewetzet /
+Er ward vom Tempel nur / nicht von der Welt verjagt.
+Als Cinna den August verräthrisch auch geplagt /
+Da sonst das blancke Beil höchstbillich jhm gebühret /
+Ward er mit neuem Ruhm vom Kayser außgezieret.
+Wofern nun / grosser Fürst / hier ichtwas ja versehn /
+So laß' er vor den Sturm doch Gnaden-Lüffte wehn /
+Die jhn und sein Geschlecht biß an den güldnen Wagen
+Der Diamantnen Sonn' unendlich werden tragen!
+
+
+
+HERODES.
+
+Printzeß / die Frevler sind nicht jhrer Bitte werth /
+Weil sie das Freindschaffts-Blut in Gall' und Gifft verkehrt:
+Jedoch daß uns die Welt nicht grimmig möge schelten /
+So soll / was sie gewüntscht / an einem Theil zwar gelten /
+Am ändern aber muß mein ernster Will' ergehn.
+Die Alexandra soll stets im Gefängnüß stehn /
+Hyrcanus aber sich den Strick erwürgen lassen.
+
+
+
+MARIAMNE.
+Mein Fürst / er wolle doch ein sänffter Urtheil fassen!
+
+
+HERODES.
+Vollzieht den letzten Schluß!
+
+
+
+MARIAMNE.
+
+Ach Himmel! er entlaufft!
+Voll Eifer / Rach' und Grimm! Seht wie der Wüttrich saufft
+Unschuldig Blut hinein! Ach fließt jhr Threnen! fliesset!
+Seyd / werthester Hyrcan / zu guter Nacht geküsset!
+Jhr zeiget mir den Weg!
+
+
+
+HYRCANUS.
+
+Der Himmel tröste dich /
+Betrübte Königin! Und du / mein ander ich /
+Gehab dich mehr als wol!
+HAUPT-MANN.
+Laßt ab! wir müssen eilen!
+Sonst blitzt der Fürst auff uns mit schwefellichten Keilen.
+
+
+
+Der Schau-Platz bildet ab den Königlichen Lust-Garten.
+
+
+Salome. Deß Königs Mund-Schencke.
+
+
+
+
+SALOME.
+
+Der Anschlag geht nach Wuntsch! Mein Mann ist nun erblaßt;
+Die Alexandra ist dem Fürsten höchst verhaßt /
+Hyrcanus wird auch bald im Strick erwürgen müssen;
+So wird das Pfaffen-Haus deß Assamons zerrissen /
+Daß wider unsern Stamm sich zänckisch auffgelehnt /
+Und Jdumæam stets nebst Printz und Reich verhöhnt!
+So siegt die Frauen-List! Was acht' ich die Zypressen!
+Der albre Joseph ist von Salomen vergessen:
+Mich ziert der Scharlach mehr als Asche / Sack und Flor!
+Die kluge Jüdin geht den Africanern vor.
+Doch eines fehlet noch zu dem gewüntschten Ende:
+So lang' ich nicht ins Blut der Fürstin meine Hände
+Kan freudig tauchen ein / so bin ich nicht vergnügt;
+
+
+Denn Mariamne ist's / so noch im Wege liegt.
+Hier ist es / Salome / hier ist es Zeit zu dencken /
+Wie dieser Eck-Stein sey ins Todten-Meer zu sencken /
+Der meine Brust beschwert und mir das Hertz abstößt!
+Jch habe zwar dem Fürst schon ichtwas eingeflößt
+Vom schärften Eifer-Gifft; Doch dieses war zu wenig.
+Hier ist ein stärckrer Tranck / der Zweifels frey dem König
+Gerechte Rach-Begier wird würcklich bringen bey.
+Jtzt bin ich nur bemüht / wo doch ein Mittel sey /
+Diß edle Trinck-Geschirr dem Fürsten darzu reichen.
+Wolan! Du kommst gleich recht! Dir sind die Gnaden-Zeichen /
+Mit welchen Salome dich offters überschütt /
+Mehr als zu wol bekant / du weißt / daß unsre Gütt'
+Nie gegen dir / mein Freind / ist jemals falsch gewesen:
+Daß ich nun deine Treu auch ferner möge lesen /
+So leist' uns deinen Dienst in einem wicht'gen Werck' /
+Das Salomen und dich tragt auff der Ehre-Berg.
+MUND-SCHENCK.
+Printzeß ich bin bereit / mein Leben auffzusetzen
+Vor diß / was sie erquickt.
+
+
+
+SALOME.
+
+Du wirst uns hoch ergetzen /
+Wenn du dem König wirst einlieffern den Pocal /
+So bald er kommen wird auß dem geheimen Saal
+Nach süsser Mittags-Ruh. Laß traurige Geberden /
+Ein seufftzend Angesicht stracks deinen Meister werden /
+»Und zeig' jhm höchstbetrübt mit kurtzen Worten an:
+Herr / meine Pflicht erheischt / daß ich nicht schweigen kan!
+Diß Trinck-Geschirr entdeckt der Mariamnen Liebe /
+Die durch verborgen Gifft sein inners Sinn-Getriebe /
+Wo nicht das Leben selbst in Abgrund stürtzen wil.
+Jch habe zwar vermeint / diß vorgesetzte Ziel
+
+
+Der Fürstin zu verhau'n: Sie aber mit Geschencken
+Hat eifrigst sich bemüht die Sinnen mir zu lencken
+Auff solche Greuel-That / umb diesen Liebes-Tranck
+Jn möglichster Geheim dem König ohne Zwang
+Und eingen Wiederwill als Labsal beyzubringen.«
+Herodes wird hierauff ohn' allen Zweiffel springen
+Und brennen gantz vor Zorn: Du aber scheue nicht /
+Dem König unverrückt zu treten ins Gesicht /
+Und alle fragen jhm umständlich zu erklären
+Mit Antwort / die sich ziemt.
+MUND-SCHENCK.
+Printzessin / jhr Begehren
+Scheint freylich in der erst unmöglich einzugehn /
+Weil Lieb' und Zweifel stets ins Fürsten Seele stehn /
+Die Mariamn' erweckt: Denn solche Liebes-Flammen
+Theilt weder schlaue List noch grimme Macht von sammen.
+Jedoch wo Salome mich nur nicht lassen wil /
+Und steiff befödern hilfft diß lust'ge Trauer-Spiel /
+So wil ich dieses Wercks mich klüglich unterwinden.
+
+
+
+SALOME.
+
+
+
+
+
+5
+
+
+Der Himmel lasse dich gewünschten Außgang finden!
+
+
+
+Der Schau-Platz verwandelt sich in ein heimlich Gefängnüß.
+
+
+Hyrcanus. Der Haupt-Mann mit den Trabanten. Die Hencker.
+
+
+
+
+HYRCANUS.
+
+Ach Schmertz! So ist numehr die bittre Stunde dar /
+Da ich vor Kirch' und Reich / und Tempel / und Altar
+Mein unbeflecktes Hertz zum Opffer dar-soll-stellen!
+Mein Gott! ich seufftze nicht / daß mich der Tod wird fällen /
+
+
+Daß mein verlebter Geist sein Wohn-Haus lassen muß:
+Ach nein! ich steh' ohn diß schon mit dem einen Fuß
+Jn dem gewüntschten Grab: Was solt' ich anders hoffen!
+Ob später was der Pfeil mich oder eh'r getroffen.
+Ach aber! daß man sich an meinem Haupt vergreifft /
+Und mit vermumtem Recht das Richt-Beil auff mich schleifft /
+Daß mit der Themis man den frechen Mord beschönet /
+Und Assamons Geschlecht vor aller Welt verhönet /
+Diß / grosser Zebaoth / preßt mir die Seufftzer auß!
+Unseeligs Priesterthum! Nunmehr verlohrnes Haus!
+Ach Mariamne! ach! wird man dich auch verschonen!
+Ach Alexandra! ach! wird man dich auch belohnen /
+Wie leider mir geschieht! Jch fürcht'! ich fürchte sehr!
+Jedoch der in der Pein uns stärcket mehr und mehr /
+Der auß der Gruben hilfft den Jeremias retten /
+Der Daniel'n erlöst von Leuen / Strick und Ketten /
+Der von dem Holofern Bethulien befreyt /
+Und Mardochai schenckt ein Königliches Kleid /
+Wird / liebste / auch auff euch ein gnädig Auge wenden.
+Jndeß laßt an den Port der Ruhe mich anlenden /
+Laßt auß Ægyptens-Nacht in Canaan mich gehn /
+Wo Milch und Honig fleußt / wo tausend Engel stehn /
+Und unsrem JEHOVAH das Dreymal 
+Heilig singen!
+
+
+6
+
+
+Mich dünckt ich höre schon die seel'ge Stimm' erklingen!
+Unschätzbare Music! Der keine gleichen kan!
+Schweig jrrd'sches Seiten-Spiel! Hier stimmt man Lieder an /
+Die Assaphs Anmuth nicht in Davids Hof-Capelle
+Gedichtet und gespielt: Hier ist die sichre Stelle /
+Die kein Philister nicht / kein Jebusiter trutzt.
+
+
+Hier ist das Paradieß / das über alle stutzt /
+Und uns die Lorbern reicht / die nimmermehr verblühen.
+Bestürtzte Sion! Ach! ich muß von hinnen ziehen!
+Bestürtzte Sion! Ach! dein Lehrer scheidet ab!
+Dein achtzig-jähr'ger Knecht fällt numehr in das Grab!
+Gehab dich / Sion / wol mit dem geweihten Tempel!
+Gehab dich / Sion / wol! Mein klägliches Exempel
+Sey eine Warnung dir! Der Himmel schütze dich /
+Biß jener lichte Stern auß Jacob zeige sich!
+Ade verführter Fürst! Regiere deine Sinnen /
+So wird deß Davids Glück auff deine Schlösser rinnen!
+Auch die jhr hier verdeckt mir Sarg und Grufft gebaut /
+Gehabt euch ewig wol! Ja die jhr mich jtzt schaut
+Den gantz versöhnten Geist im harten Strick auffgeben /
+Leb't wol! Es müß' umb euch Sieg / Heil und Wolfahrt schweben!
+Sagt Mariamnen doch und Alexandren an /
+Daß dieser nicht vertirbt / der stirbet wie Hyrcan.
+Wolan! Wir wollen nun diß Threnen-Thal verlassen!
+Daß Urim-Thummim muß zwar an der Brust erblassen /
+Doch wird das wahre Licht der ew'gen Herrligkeit
+Mich zwölfffach strahlen an nach außgestandnem Leid!
+Ach Monden! der du vor auff meinem Haupt geschienen /
+Sollst nun mir Sterbenden zur Todten-Fackel dienen!
+Jhr Zymbeln / derer Klang die Andacht stets erweckt /
+Kommt läutet mir zu Grab! Hier Hegt Hyrcan gestreckt!
+Erhöre / grosser GOTT / in meiner letzten Stunde /
+Was dir dein Knecht vortragt mit halbverbrochnem Munde /
+Der auch im Tode noch dich preiset und erhöht!
+Nihm / Schöpffer / mich zu dir!
+HAUPT-MANN.
+Er athmet! Er vergeht!
+Der müde Geist ist fort! Daß man die blasse Leiche
+Der Priesterlichen Schaar auff jhr Begehren reiche.
+
+
+
+
+Reyen
+
+
+Der Jüdischen Priester.
+
+
+Der grosse Schau-Platz bildet ab einen Jüdischen Trauer-Tempel / in dessen Mitte Hyrcani Leiche auff einem erhobenem Grab-Mahle ruhet: Jn der Vertieffung aber wird das Sanctum Sanctorum, oder das Allerheiligste nebst der Bunds-Lade / güldnem Leuchter / Schau-Brodten und andern Kirch-Schätzen vorgestellet.
+
+
+Erster Satz.
+
+
+So ist numehr deß Aaronis Ruthe
+Durch grimme Hitz' verdorret und entweiht
+So hat Hyrcan in seinem eignen Blute
+Den werthen Geist so kläglich außgespeit!
+Liegt Sions Schatz auff dieser Todten-Bahre /
+Der Nathans Witz und Zadocks Mund besiegt!
+Hat nicht der Schnee der zweymal viertzig Jahre
+Der Jnfel Treu mit bessrem Lohn vergnügt!
+Und müssen wir mit Ach und Leiden
+Sehn unsre Sonne von uns scheiden!
+
+
+Erster Gegen-Satz.
+
+
+Ja freylich! Ach! Die Sonn' ist nun erblichen!
+Der Monden sanck ins schwartze Todten-Meer!
+Das Brust-Schild ist von unsrer Brust gewichen /
+Die Zymbeln sind von aller Anmuth leer!
+Seht / wie der güldne Leuchter finster leuchtet!
+Es brennt nicht mehr das siebenfache Licht /
+Mit opffern wird jtzt kein Altar befeuchtet /
+Die Schau-Brodt sind verächtlich zugericht:
+Die Bunds-Küst selbst wil fast entweichen
+Ob solchem Mord und Greuel zeichen!
+
+
+Erster Zusatz.
+
+
+Laßt / Brüder / uns die letzte Pflicht abführen!
+Bringt Balsam / Kezia und Oel!
+
+
+Laßt Stirn' / und Aug' / und Mund / und Brust jhm schmieren:
+Daß Myrrh' und Aloe nicht fehl'!
+Und weil wir jhm den Mund nicht konten schlüssen /
+So lasset uns sein blasses Antlitz küssen!
+
+
+Zweyter Satz.
+
+
+Nihm von uns an die letzten Opffer-Gaben!
+Ob du nun gleich bist worden den Methim /
+So wirst du doch ins Kefer eingegraben
+Als ein Zaddick / nicht wie die Reschaim.
+Dein Tohora bedarff hier keiner Asche /
+Noch warmen Blut's von einer rothen Kuh:
+Es ist nicht Noth / daß man die Glieder wasche
+Mit Jsopen; Du schlaffst in schönster Ruh /
+Und sitzest auff der höchsten Staffel
+Bey Abrahams und Jsaacs Taffel.
+
+
+Zweyter Gegen-Satz.
+
+
+Beräuchert nun die GOtt-verlobten Glieder!
+Streut Weyrauch auff das güldne Krystallin!
+Die flöt' erschall'! Stimmt an die Todten-Lieder!
+Legt jhm nicht an die weissen Tachrichrin!
+Hyrcan soll stets als Hoher-Priester gläntzen /
+Auch wenn er schon vor'm Tod die Seegel streicht:
+Laßt mit Viol und Rosen uns bekräntzen
+Den heil'gen Leib / weil unsre Ros' erbleicht /
+Die Salems Dornen-reiche Wiese /
+Verwandelt stets in Paradiese!
+
+
+Zweyter Zusatz.
+
+
+Schlag't Brüst' und Seit'! Zerreißt die bunten Kleider!
+Kricht in den Sack! Streut Asch' und Staub auffs Haupt!
+Schreit! heult und weint! Ach leider! leider! leider!
+Der Morgenstern in Sion ist geraubt!
+Der grosse Schmertz wil uns zur Erde neigen /
+Und macht / daß wir erzitternd müssen schweigen!
+
+
+
+
+
+
+
+
+4. Akt
+
+
+
+
+
+
+Die Vierdte Abhandlung.
+
+Der Schau-Platz bildet ab deß Königes Schlaf-Gemach.
+
+
+Der Geist deß Königes Davids. Herodes auff dem Bette.
+
+
+
+
+NB.
+
+
+ Ehe der Geist erscheinet / kan zuvor im Verborgenen folgendes Schlaf-Liedgen von einem Discantisten nebst beigefügtem Ritornello von etlichen Violen di Braccio, Violen di Gamba und einem Stort lieblich gesungen werden.
+
+
+I.
+
+Wje seelig ist / dem nicht der Diamant
+Der morschen Kron' umb Haupt und Achseln schwebet!
+Den kein Lysipp auffs güldne Sternen Land
+Mit Gold / Krystall und Alabaster hebet!
+O seelig / wer in stiller Friedens-Ruh
+Den kurtzen Rest deß Lebens bringet zu!
+
+
+
+
+II.
+
+Das Wetter raast auff hohe Zedern bloß /
+Wenn Strauch und Schilff in schönster Freyheit grünet:
+Der Sturm-Wind saust nur umb Pallast und Schloß /
+Wenn sanffte Lufft das Hirten-Hauß bedienet:
+Monarchen nur empfinden Knall und Blitz /
+Wenn Schäffer ruhn auff Demant-festem Sitz.
+
+
+
+
+III.
+
+Ein Beyspiel wird an Salems Printz gezeigt /
+Den Rach' und Furcht mit schärffstem Pfeil verletzet!
+Der Freinde Schaar wird in die Grufft geneigt /
+
+
+Die dich / Herod / mit Wonn' und Lust ergetzet.
+Du bist zwar schuld; Jedoch hierzu bewegt /
+Weil Neid und List die Unruh hat erregt.
+
+
+
+
+IV.
+
+Die schwartze Nacht steckt auff das Silber-Fahn;
+Dein müder Geist wird durch den Schlaf bezwungen /
+Die Augen hat dir Kummer zugethan /
+Weil Ach und Weh in deine Burg gedrungen.
+Gebrauche dich deß Labsalls aller Welt /
+Das unsre Seel' und Witz / und Leib erhält.
+
+
+V.
+
+Schlaf ein! schlaf ein! entbürde dich der Last
+Der grausen Furcht und Zweifels-vollen Sorgen!
+Schlaf ein! schlaf ein! biß Mond' und Stern erblaßt /
+Biß uns erquickt der Rosen-lichte Morgen!
+Ja solt' auch gleich ein Traum dich fechten an /
+So dencke / daß kein Geist dir schaden kan.
+
+
+
+DAVIDS GEIST.
+
+Ruht hier der außerlesne Fürst?
+Der Sanfftmuth Conterfey / der so gerechte Richter /
+Den stets nach reiner Tugend dürst?
+Brich Erde! Blitzt und kracht jhr güldnen Himmels-Lichter!
+Verfluchter Hund! unmenschlichs Tygerthier!
+Soll nun Jerusalem / deß grossen GOTTES Zier /
+Durch dich / du Scheusaal dieser Erden /
+Zu einer Mörder-Grub' und Folter-Kammer werden?
+Schau! Davids Leib verlaßt die heil'ge Grufft /
+Weil deine Raaserey jhn hat hieher betaget /
+Und auch im Grabe plaget!
+Wilstu / Tyranne / denn die Silber-klare Lufft
+
+
+Durch unversättlichs Tödten
+Erfüllen mit Cometen?
+Glaubt / Joab hat mich nicht so sehr gequält /
+Als er dem Absalon den zarten Hals gebrochen /
+Den Amasa und Abner falsch erstochen:
+Mein Amnon selbst / als er der Schwester sich vermähl
+Durch Zunder höchst-verbotner Liebes-Kertze /
+Hat mir nicht so betrübt mein Väterliches Hertze /
+Als mich der Wüttrich kränckt /
+Der Wüttrich / der nicht werth / daß seiner man gedenckt.
+Erwege nur / du Kirchen-Rauber du /
+Wie dein verfluchter Geist / durch grausen Geitz getrieben /
+Gestöret mein' und meines Sohnes Ruh!
+Es steht auff deiner Brust mit Diamant geschrieben:
+»Herodes ist verdammt / vermaledeyet /
+
+Weil er deß Salomons und Davids 
+Grab entweihet.«
+Und ob du diesen Raub durch Andacht zwar beschön't /
+So hastu doch hierdurch den Himmel nicht versöhn't.
+Ach Sion! ach! Mein Geist muß sich erschüttern!
+Mein Harffen-Spiel verlieret Seit' und Thon!
+Mit was vor Sturm und schrecklichen Gewittern
+Jst nicht verletzt dein heil'ger Berg und Thron!
+Verstellte Sion! ach! Du bist jtzt nicht wie gestern
+Die Schönste deiner Schwestern!
+Ach nein! Dein Purpur-Kleid hat sich in einen Sack /
+Dein Räuch-Altar in einen düstern Herd /
+Deß Scepters Gold in eine Folter-Hakk'
+Verändert und verkehrt!
+Hieran ist eintzig Schuld der grause Jdumæer /
+Der Leopard / dem stets nach frembdem Blut
+Hoffärtig steht sein niemals-satter Muth.
+Undanckbarer! Jst diß der Lohn der Aßmonæer /
+Durch die dein Vater sich und dich zum Printz gemacht?
+Wird jtzt jhr heil'ger Stamm so frech von dir verlacht?
+
+
+Undanckbarer! ist nicht dein Grimm vergnüget /
+Daß schon Aristobul im feuchten Grabe lieget?
+Jsts nicht genug / daß Josephs Unschuld muß
+Die Seele blasen auß durch ungerechten Schluß?
+Ach! leider! ach! der / dem du doch zu dancken /
+Daß Salem dich als seinen Fürst verehrt /
+Der wertheste Hyrcan wird (leider!) auch versehrt /
+Und muß durch dich / du tückscher Fuchs / gehn in deß Todes-Schrancken!
+Ach! ach! ach!
+Gerechte Rach'! erwach'!
+Der Blut-Hund ist nicht werth den Reichs-Stab mehr zu führen!
+Weil Davids Heiligthum nicht soll den Schwein und Tyger-thieren.
+Ergrimme rechte Rach' in der gestirnten Höh
+Weh dir Herodes! Weh! ach weh!
+
+
+
+Herodes. Der Haupt-Mann mit den Trabanten. Mariamne.
+
+
+
+
+HERODES.
+
+Was blitzt und donnert hier! Wer raast in unsrem Zimmer!
+Welch kühner Teuffel bricht mit hell entbrandtem Schimmer
+Jns fürstliche Gemach! auff! auff Trabanten! auff!
+Bringt Fackeln / Spieß' und Schwerd mit Pfeil geschwindem Lauff!
+Hat niemand euch erschreckt? Sind Thür' / und Schloß versehret?
+HAUPT-MANN.
+Wir haben / grosser Fürst / im minsten nichts gehöret.
+
+
+
+HERODES.
+Jm minsten nichts gehört! So seyd jhr taub und blindt.
+
+
+HAUPT-MANN.
+Wir schweren / daß kein Schlaf die sinnen uns verbind.
+
+
+
+HERODES.
+
+Wolan! So ist's ein Traum! Was achten wir die Träume /
+Die nichts als Dampff und Dunst und Wurtzel-lose Bäume
+Und Fantasien seyn! Was aber schertzen wir!
+Es ist ein frembder Rauch ja noch zu sehen hier.
+Gesetzt auch / daß Gespenst' und Geister uns erschrecken:
+Wie viel Palläste giebts / die solche Gäste hecken!
+Die Burg Antonia wird auch nicht seyn befreyt.
+Gnug / daß der Himmel schützt das Diamantne Kleid.
+Jedoch das Hertze klopfft! ich muß mich fast erschüttern!
+Es überlauft! die Brust ein ungewohntes Zittern
+Der Angstschweiß dringt hervor! Rufft bald die Fürstin her /
+Daß sie die Traurigkeit in Freuden uns verkehr'
+Durch jhre Gegenwart und Zucker-süsse Lippen!
+Behütt' uns Adonay vor falschen Schiff-Bruchs Klippen /
+Daß unser Reichs-Schiff nicht zu scheitern möge gehn!
+Laß Jdumæens Sonn' in lichten Wolcken stehn /
+Ob derer Strahlen sich der Adler selbst erfreuet!
+GOTT Lob! Der Artzt erscheint! Nun werden wir verneuet!
+Nun wird der grimme Schmertz auß unsrer Seel' entrückt /
+Weil unsre Göttin uns mit holdem Strahl' anblickt!
+Printzessin sonder Fleck! Printzessin sonder Mangel!
+Mein Täubchen! Meine Perl'! Mein Leit-Stern / Trost und Engel!
+Du Venus dieser Welt / gantz Palæstinens Zier /
+Ach Mariamne! ach! komm' näher was zu mir!
+Komm näher was zu mir! Erquicke meine Seele
+Mit deinem Purpur Mund! Hier ist die sanffte Höle /
+Hier ist das Paradieß / die Rosen-volle Bahn /
+Wo deine Göttligkeit mich satt vergnügen kan!
+Wie / Fürstin! Wendet sie jhr himmlisches Gesichte
+Von unsrer Demuth ab? Sind jhr die Liebes-Früchte /
+
+
+So jhr Herodes gibt / nicht überzuckert recht?
+Mein Kind! Sie prüfe mich! Wie? Oder ist zu schlecht
+Der Juden grosser Printz in Mariamnens Augen?
+
+
+
+MARIAMNE.
+Man woll' uns ferner nicht so Blut als Lieb' außsaugen.
+
+
+HERODES.
+Wir sind kein Habicht nicht / der Turtel-Tauben frißt.
+
+
+MARIAMNE.
+Durch deine Habichts-Klau ist Stadt und Feld verwüst.
+
+
+HERODES.
+Nicht so! Printzeß! Nicht so! laßt uns der Wollust pflegen!
+
+
+MARIAMNE.
+Ein traurig Hertz laßt sich zur Liebe nicht bewegen.
+
+
+HERODES.
+So bald die Lieb' erscheint / muß Schmertz und Trauren fort.
+
+
+MARIAMNE.
+Der Nachen deiner Brunst verfehlt den rechten Port.
+
+
+HERODES.
+Wir können keinen Port als Mariamnen suchen.
+
+
+MARIAMNE.
+Nein! Mariamne muß dein Liebes-Schiff verfluchen.
+
+
+HERODES.
+Jn dem die lichte Glut der reinen Ehe brennt?
+
+
+MARIAMNE.
+Das Seegel fester Eh hat selbst der Fürst zertrennt.
+
+
+
+HERODES.
+Mein Liebes-Segel trotzt Ost / Westen / Sud und Norden.
+
+
+MARIAMNE.
+Ach währ' es (leider!) nicht zu einem Blut-Fahn worden!
+
+
+HERODES.
+Der Liebe Kleid ist roth / sie führet Hitz' und Glut.
+
+
+MARIAMNE.
+Nicht aber einen Rock mit reichbesprütztem Blut.
+
+
+HERODES.
+Blut ist jhr Opffer ja / jhr Tempel Leib und Seele.
+
+
+MARIAMNE.
+Offt kehrt sich jhr Altar in eine Folter-Höle.
+
+
+HERODES.
+Nein! Jhre Flamme leucht auch bey stockfinstrer Nacht.
+
+
+MARIAMNE.
+Auß Hymens Kertze wird ein Jrrlicht meist gemacht.
+
+
+HERODES.
+Wer Fürst und Eh-Bett trotzt / wird schmecken bittre Mandeln.
+
+
+MARIAMNE.
+Man muß die Venus nicht in Furien verwandeln.
+
+
+HERODES.
+
+Hier ist kein Zaubrer ja / kein schwartzer Teuffel nicht /
+Der unsre Zythere / die Mariamn' anficht.
+Mein Schatz! Sie jage weg die schädlichen Gedancken!
+
+
+Sie geb' uns doch Gehör' / und öffne Thür und Schrancken
+Der Schönheit / welche mich biß auff den Tod verletzt!
+Es werd' auff diesem Sammt mein schmachtend Hertz ergetzt!
+Ey folge doch / mein Kind! Wo unsre Thränen Bitte
+Nur was bey dir verfangt / so zeig' uns deine Gütte
+Mit einem Kuß doch an! Wird dieser auch versagt?
+
+
+
+MARIAMNE.
+Untreuer! Laß mich gehn! Wir sind vorhin geplagt!
+
+
+HERODES.
+
+Ha! trotzigs Frauen-Bild! Halsstarriges Gemüte!
+Wer siht nicht Assamons hoffärtiges Geblüte!
+Bin ich nicht dein Gemahl / dem du die Liebes-Pflicht
+Zu leisten schuldig bist?
+
+
+
+MARIAMNE.
+
+Dir aber / Mörder / nicht!
+Tod-Schläger! Lügen-Freind! Patron verfluchter Laster!
+Der stets in Gifft verkehrt das Mithridaten-Pflaster /
+Der reines Korn verterbt / und Unkraut lasset blühn;
+Wie soll die Liebe doch in meine Seel' einziehn!
+Der du den Bruder mir / als er zum Gipffel kommen
+Deß hohen Priesterthums / recht diebisch weggenommen /
+Und in der Linden Flut verräthrisch hast ersäufft?
+Dein mördrischer Verdacht hat Schimpff mit Schimpff gehäufft /
+Als Josephs Unschuld sich umb Mariamnens willen
+Must' auff dem Hencker-Platz ins Leich-Tuch lassen hüllen.
+Mein älter-Vater / (ach!) der heilige Hyrcan
+Fiel durch dein Buben-Stück in Charons Todten-Kahn!
+Ja Mariamne selbst ist stündlich dir verdächtig /
+Weil Geilheit mehr in dir als reine Brunst ist mächtig.
+Soll ich dem Wüttrich nun anjtzt zu willen seyn /
+Der mir und meinem Stamm den blut'gen Grabe-Stein
+
+
+Stets henckrisch richtet auff? Soll ich in dessen Armen
+Mich küssend schlössen ein / der sich nicht läßt erbarmen
+Noch Alters / noch Geschlechts? Ha! Wer sich so vergeht /
+Jst keines Weibes werth! Das Eh-Bett wird erhöht
+Durch keusche Liebes-Glut / nicht Blut-bemahlte Kertzen!
+Wie solt' ich / Mörder / nun dein gifftig Antlitz Hertzen /
+Das von deß Bruders Blut' und Vaters rauchet noch?
+Nein! solche Küsse sind ein unerträglichs Joch!
+»Denn wer sein Eh-Gemahl nur henckert / martert / plaget /
+Dem wird Mund / Brust und Schoß mit höchstem recht versaget.«
+
+
+
+HERODES.
+
+Sind solche Furien in dem so schönen Leib?
+Welch Teuffel reitet dich / vermaledeites Weib?
+Vergießt du der Natur? Verschmähst du deinen König?
+Schlag Blitz und Donner her! bin ich dir denn zu wenig?
+Hat mich das grosse Rom mit Lorbern nicht gekrönt?
+Daß du / hoffärt'ger Balg / nebst deinem Fürst verhöhnt?
+Seht / wie ein stoltzes Weib den Braut-Krantz kan entweihen /
+Wenn Gleichheit deß Geschlechts in dem so engen Reyen
+Nicht anzutreffen ist! Pfuy! schäme selber dich!
+Daß uns dein Aberwitz gibt solchen Hertzens-Stich
+Du darffst mir! aber ach! Wer kan sich doch vergreiffen /
+Wer kan die Klinge doch auff schwache Weiber schleiffen!
+Nun! Die Geduld reißt auß! Die Liebe / so bißher
+Stets Rach' und Grimm verjagt / ist nun von Pfeilen leer /
+Und weicht gerechtem Zorn! geh! packe dich von hinnen /
+Eh wir was Aergers thun in heiß-erhitzten Sinnen!
+Verwirrte Seelen Pein! Unglückligster Herod!
+Jch weiß nicht / wo ich bin / im Leben oder Tod!
+Soll mich mein Eh-Gemahl / mein Eh-Gemahl verlachen?
+Und in dem Eh-Bett zwar? Jn solchen Liebes Sachen /
+Die selbst Natur / und GOtt / Vernunfft und Recht zuläßt?
+Die Leuin sucht der Leu / der Storch den Storch im Nest /
+Die Sonnen-Wende kehrt sich stets nach jhrer Sonne;
+
+
+Und einem König soll gebrechen Lust und Wonne;
+Die unsern Anherr selbst im Paradieß erquickt?
+Verfluchter Weiber Trotz! Jedoch was wird geschickt?
+
+
+
+Herodes. Der Mund-Schencke. Der Haupt-Mann mit den Trabanten.
+
+
+
+
+HERODES.
+
+Wer heißt unangemeldt dich im Gemach erscheinen?
+MUND-SCHENCK.
+Sein Sclave / grosser Fürst / wil's treulich mit jhm meinen!
+
+
+
+HERODES.
+
+Wie? Treulich? Und in was? Entdeck' uns die Gefahr!
+MUND-SCHENCK.
+Auff diesem Becher / Herr / beruhet seine Bahr!
+
+
+
+HERODES.
+
+Den etwan selber du dem König eingeschencket.
+MUND-SCHENCK.
+Da sey der Himmel vor! Auff solche Mord-That dencket
+Mein reines Hertze nicht! Jch weiß / wie hoch die Treu
+Dem Fürsten mich verknüpfft!
+
+
+
+HERODES.
+
+So rede demnach frey!
+MUND-SCHENCK.
+Jch klage / daß mein Mund solch Ubel vor muß bringen!
+Allein es läßt sich hier nicht mein Gewissen zwingen!
+Mein König! Mariamn' hat Lieb' und Pflicht getrennt /
+
+
+Jn dem jhr grauser Haß in diesem Gifft-Kelch brennt /
+Der in Herodis Brust die Liebe soll entzünden /
+Durch derer Zauberey Vernunfft und Geist verschwinden.
+Und ob der Fürstin Schluß mir zwar gieng bitter ein /
+So hab' ich müssen doch als Knecht gehorsam seyn /
+Weil man mit Gaben mich zu dieser Thurst bestochen!
+
+
+
+HERODES.
+
+Hilff Himmel! ists gewiß / was du so kühn gesprochen?
+MUND-SCHENCK.
+Nicht anders / grosser Fürst! Sie / die voll Eifers raast /
+Hat sich vor langer Zeit deß Frevels angemaast /
+Und mir diß Werck entdeckt. Weil aber GOttes Rache
+So grimme Mord-Begier und Laster-volle Sache
+Mit Pech und Schwefel krönt / auch selbst für Thron und Kron
+Unendlich kämpfft und wacht / so hab' ich mich hiervon
+Gantz eilends loß gemacht und meine Seel' errettet
+Durch schuldigsten Bericht.
+
+
+
+HERODES.
+
+Nun hast du dir gebettet!
+Nun hast du / Bestie / dir selbst den Sarg gebaut!
+Wer hatte / Fürstin / dir solch Mord-Stück zugetraut!
+Jedoch was wil ich sie mit diesem Tittel zieren!
+Das Unthier ist nicht werth die Krone mehr zu führen!
+Wird sind zu sehr versucht! Wenn Schuld mit Schuld sich häufft /
+Dann wird mit gutem Recht das Hencker-Schwerdt geschleifft!
+Wer hilfft! Wer springt uns bey in den so strengen Nöthen!
+Mord! Mord! Mord! Mord! Mord! Mord! Man wil den Fürsten tödten!
+Mord! Mord! Mord! Mord! Mord! Mord!
+
+
+
+
+
+Herodes. Salome. Pheroras. Antipater. Der Haupt-Mann mit den Trabanten. Der Mund-Schenck. Die Pagen.
+
+
+
+
+SALOME.
+Was ficht den König an?
+
+
+HERODES.
+
+Ach Schwester Salome! Es ist mit uns gethan!
+Es ist mit uns gethan! Wir sind / wir sind verrathen!
+Man suchet unsern Tod!
+
+
+
+PHERORAS.
+O unerhörte Thaten!
+
+
+SALOME.
+Wo rührt solch Ubel her?
+
+
+ANTIPATER.
+Und die so bittre Qual?
+
+
+HERODES.
+
+Die Bröckin wil durch Gifft entseel'n jhr Eh-Gemahl!
+Sie hat uns nicht allein (O jammerreiche Plagen!)
+Auß hart-verweg'nem Trotz den Beyschlaf abgeschlagen /
+Ob ich sie schon hierum mit Trähnen fast ansprach;
+Man stellt uns heimlich auch durch Teuffels-Träncke nach!
+O grauser Ubermuth! Untreue Marianne!
+
+
+
+SALOME.
+
+Numehr ists hohe Zeit / daß er die Brunst verbanne
+Auß der verlockten Brust! Jhr Himmel! ich erstaun'!
+Jst Königinnen nun nicht mehr als so zu trau'n!
+So gehts! Die Schönheit pralt nicht nur mit stoltzen Sinnen /
+Sie darff auch endlich wol Gifft / Mord und Todschlag spinnen!
+Nun bricht die Liebe auß und die Demantne Treu!
+
+
+Nun siht der Fürst den Lohn / der nichts als Ach und Reu!
+Wenn nicht Antonius die Mohrin so geküsset /
+Hätt' er nicht in dem Dolch' / sie in dem Molch gebüsset.
+Diß ist die Zucker-Frucht! Drumb tilgt das Unkraut auß /
+Sonst fallen selber wir in Asche / Staub und Grauß!
+
+
+
+PHERORAS.
+
+O über-grosser Trotz! Wird / was Natur befiehlet /
+Was den Krafft-losen Geist als stärckster Julep kühlet /
+Verweigert und verwehrt? Ha! Schönheit sonder Witz
+Der Abschlag bloß allein verdienet Straff' und Blitz
+Wer siht und mercket nicht / daß sie die Liebes-Quälle /
+Den Schwanen-weissen Leib und wol-gewölbte Hölle /
+So Hymenæus dir nur eintzig wiedmet zu /
+Mit-Buhlern hab' entdeckt? So wird die sanffte Ruh
+Der Feder-leichten Eh' in schweres Bley verwandelt /
+Wenn Fürstin mit dem Fürst so schlimm und grausam handelt /
+Und die geschworne Pflicht / der Liebe festen Bund
+Selbst liederlich zertrennt!
+
+
+
+ANTIPATER.
+
+Wo Hoffart ist der Grund /
+Da können anders nichts als Wespen vor die Bienen /
+Vor keusche Lilien unreine Kletten grünen.
+Denn wenn Semiramis den güldnen Scepter trägt /
+Wird Ninus unversehns in Sarg und Grab gelegt:
+Hier wil Semiramis in zwey Personen raasen.
+Man sieht vergiffte Lufft auff allen Ecken blasen /
+Weil Alexandrens Stoltz / der doch im Kercker liegt /
+Und Mariamnens Trotz so Fürst als Reich besiegt.
+Was ist der Juden Printz? Nichts als ein blosser Schatten!
+Weil die Cometen sich in Salems Schloß begatten /
+Und Dosis meine Sonn' (ach leider!) ist verjagt /
+So wird Antipater als Stief-Sohn außgetagt /
+Was Jdumæisch heißt / verhönet und vernichtet!
+
+
+Drumb werde diese Pest in Zeiten hingerichtet /
+Und auß der Welt verbannt!
+
+
+
+HERODES.
+
+War ists: Wir sind veracht!
+Es ist Herodes auch auff Rach' und Straff bedacht:
+Ach aber! dencken wir in etwas nur zu rücke /
+So überwinden uns die Seraphin'schen Blicke /
+Die Mariamnens Glantz uns ewig eingepregt /
+Und auch im größten Zorn mein zweifelnd Hertz bewegt /
+Daß wir –
+
+
+
+SALOME.
+
+Mein Bruder! ach! diß sind nur Fantasien!
+Wie kan die Liebe doch in solchen Seelen glühen /
+Die Gegenliebe nicht mit lichter Glut ansteckt /
+Noch das verborgne Feur mit süssem Brand' erweckt?
+Der Blase-Balcken ist nur selbst dein eignes Hertze:
+Wenn Mariamne nicht die güldne Liebes-Kertze
+Mit Flammen lodernd macht / so fühlstu keine Hitz
+Der wahren Liebligkeit. Was ist der Augen Blitz /
+Der Glieder Helffen-Bein / die Liljen zarten Brüste /
+Wenn jhre Anmuth nicht die zugelaßnen Lüste
+Und den höchstdurst'gen Geist mit Labsall träncken wil?
+Ein Bogen sonder Strick / ein stummes Seiten-Spiel /
+Ein Demant sonder Glantz / und Balsam sonder Stärcke.
+Zu dem erwege nur die schnöden Liebes-Wercke /
+So Mariamnens List trieb mit dem Tyridat /
+Als dich Augustus rieff nach Rhodis in den Rath!
+
+
+
+HERODES.
+Wie? Hat der Parther sich auch gegen uns vergangen?
+
+
+SALOME.
+
+Sie trug mehr nach dem Printz / als er nach jhr / Verlangen.
+Halt sich nicht Arsanes annoch zu Salem auff /
+
+
+Umb daß er seinem Herrn mit Pflügel-schnellem Lauff
+Höchst heimlich jederzeit die Buhler-Brieffe sende?
+Drumb mache diesem Sturm ein längst-gewüntschtes Ende /
+Und fodre den Sohem und Philo stracks vor dich;
+Die werden dir erzehl'n / wie Mariamne sich
+Nicht nur mit Trotz und Mord / auch geiler Lust beflecket.
+
+
+
+PHERORAS.
+So ists: Kein Laster bleibt vergraben und verstecket.
+
+
+ANTIPATER.
+So ists: Ein Laster wird durchs andre klar gemacht.
+
+
+HERODES.
+Es werde bald Sohem und Philo hergebracht.
+
+
+SALOME.
+
+Der König frage nur erst güttlich diese beyde;
+Ob Tyridates nicht in einem frembden Kleide
+Die Fürstin stets besucht? Ob keine Schreiben nicht
+Von jhm gelauffen ein? Ja ob die keusche Pflicht
+Selbst Mariamne nicht mit dem Sohem entweihet?
+Folgt kein Bekäntnüß hier / so werde stracks gedreuet
+Mit Pein und Folter-Banck. Denn diß verschnittne Paar
+Weiß alle Heimligkeit dem Fürst zu stellen dar /
+Wofern Hartneckigkeit nicht jhren Sinn bemeistert /
+Die / wo sie sich nicht gibt / werd' Augen-Blicks entgeistert.
+
+
+
+HERODES.
+
+Wir loben deinen Rath: So wird der Themis Stahl
+Außführen unsern Zorn!
+
+
+
+
+
+Herodes. Salome. Pheroras. Antipater. Der Haupt-Mann mit den Trabanten. Der Mund-Schencke. Die Pagen. Sohemus. Philo. Der Blut-Richter mit den Henckern.
+
+
+
+
+HERODES.
+
+Jhr wißt / daß dazumal /
+Als nach Laodice wir zum August gezogen /
+Uns gnädge Zuversicht und Liebe hat bewegen /
+(Weil wir auff eure Treu nicht Zweifel durfften baun /)
+Euch unsern besten Schatz und Kleinod zu vertraun.
+Jedoch weil offters auch der allerreinste Spiegel
+Nicht schlechten Fleck bekommt / weil die Demantnen Riegel
+Sich offt in Wachs verkehr'n / und Basilischken Gifft
+Auch auff den Rosen-Strauch und schönste Blumen trifft /
+So werdet jhr dem Fürst auß Schuldigkeit entdecken /
+Ob ein unreiner Tau indeß mit gifft'gen Flecken
+Mein fruchtbar Paradieß / daß jhr bewachen sollt /
+Entehret und beschmutzt? Denn außgestreutes Gold
+Dringt in die Thürme auch / wo Danae verborgen /
+Und sprengt die Schlösser auff.
+
+
+
+SOHEMUS.
+
+Die ungemeinen Sorgen /
+Weßwegen seine Knecht' der Fürst zur Rede setzt /
+Sind nur ein blosser Wahn. Die wahre Treu verletzt
+Kein güldner Regen nicht noch Zentner-schwere Plagen.
+Zu dem wird unserm Mund was dunckel vorgetragen
+Deß Königs Will' und Schluß.
+
+
+
+SALOME.
+
+Wie hüllt die Boßheit sich
+Jn Einfalts-Kleider ein!
+
+
+
+
+HERODES.
+
+Sohem / erinnre dich /
+Wie offt sich Tyridat in Mariamnens Kammer
+Durch Mummerey gespielt.
+
+
+
+SOHEMUS.
+
+Ach unverhoffter Jammer!
+Jsts diß warumb der Fürst uns hat hieher gerufft?
+
+
+
+SALOME.
+Seht / wie den Schuldigen jhr furchtsam Hertze pufft!
+
+
+PHERORAS.
+Wie das Gewissen sich in jhrer Brust wil wüttern!
+
+
+ANTIPATER.
+Wie Augen / Lefftzen / Hand' / und alle Glieder zittern!
+
+
+SOHEMUS.
+
+Mein reines Hertz' erbeb't / nicht daß es schuldig sey;
+Ach nein! Sohemus ist von allem Meineyd frey!
+Was Mariamnens Brunst betrifft mit Tyridaten /
+So weiß / der alles weiß / daß solche Ubelthaten
+Der Fürstin und dem Printz Verdacht und Haß zuschreibt /
+Der offt die Tugend selbst auß Thron und Reich vertreibt.
+
+
+
+HERODES.
+Schau / daß dein Lügen-Maul dich nicht ins Unglück stürtzet.
+
+
+SOHEMUS.
+
+Es werde mir der Drat deß Lebens bald verkürtzet /
+Wo meine Worte sind auff Eiß und Schnee gebaut!
+
+
+
+HERODES.
+Du aber / Philo / hast den Tyridat geschaut?
+
+
+
+PHILO.
+Geschaut zwar / aber nicht in Mariamnens Zimmer.
+
+
+HERODES.
+
+Spielt / jhr Verstockten / nicht mit Majestätschem Schimmer!
+Du hast dem Tyridat die Schreiben ja gebracht /
+Und jhm die Kammer-Thür eröffnet bey der Nacht.
+
+
+
+PHILO.
+Wer ist / mein König / doch / der wider mich so zeuget?
+
+
+HERODES.
+Der klagt sich selber an / der's Fürsten Schimpff verschweiget.
+
+
+PHILO.
+Es hat uns kein Mercur die Augen eingewiegt.
+
+
+HERODES.
+Der treuste Argus wird durch Gold und List besiegt.
+
+
+PHILO.
+Die wahre Redligkeit acht keiner Silber Ballen.
+
+
+SALOME.
+Hat doch Sohemus selbst der Fürstin wolgefallen.
+
+
+SOHEMUS.
+Wer ehrlich dient im Hof / ist ja der Gnade werth.
+
+
+HERODES.
+Doch daß die Gnade nicht deß Königs Ruhm verzehrt.
+
+
+SOHEMUS.
+Deß Königs Ruhm hat auch abwesend stets gegläntzet.
+
+
+
+HERODES.
+Drumb sagt / ob Mariamn' mit Wollust sich bekräntzet.
+
+
+SOHEMUS.
+Der Tugenden Pallast kan Wollust nicht beziehn.
+
+
+HERODES.
+Man sihet Eisen-Kraut bey edlen Rosen blühn.
+
+
+PHILO.
+Deß Königs Rose ist mit Dornen starck beschützet.
+
+
+HERODES.
+Hat Tyridates sich nicht an die Hand geritzet?
+
+
+PHILO.
+Nein! Zucht und Erbarkeit ist diesem Printz vermählt.
+
+
+PHERORAS.
+Warumb hat Arsanes hier seinen Sitz erwehlt?
+
+
+PHILO.
+Vielleicht ist er bemüht in andern Reichs-Geschäfften.
+
+
+ANTIPATER.
+Es ist ja Zucker noth bey Wermuths-bittren Säfften.
+
+
+SOHEMUS.
+Der Zucker unsrer Treu weiß nichts von Gall' und Gifft.
+
+
+HERODES.
+Jhr seyd nicht / wie jhr meint / schon an den Port geschifft.
+
+
+PHILO.
+Der Mensch muß nehmen an / was jhm der Himmel schicket.
+
+
+
+HERODES.
+Der Himmel thut es nicht / wenn eigne Schuld uns drücket.
+
+
+SOHEMUS.
+Der Laster Mühl-Stein liegt auff unsrer Seele nicht.
+
+
+HERODES.
+Wie daß dein frecher Mund die Fürstin so verficht?
+
+
+SOHEMUS.
+Weil Recht und Himmel selbst vor jhre Keuschheit streiten.
+
+
+HERODES.
+Man muß verstimmen dir die auffgezognen Seiten.
+
+
+SOHEMUS.
+So ists: Wer Wahrheit geigt / dem schimpfft man die Viol.
+
+
+HERODES.
+
+Den Fürsten geigt man nicht / wie man sonst geigen soll.
+Bekennt! sonst wird euch Schmach und Pein und Marter zwingen!
+
+
+
+PHILO.
+Die Marter wird auß uns / was nie geschehn / nicht bringen.
+
+
+HERODES.
+Hast du dem Tyridat mein Eh-Bett nie entdeckt?
+
+
+PHILO.
+Der Abgrund thu sich auff / wo mich die That befleckt!
+
+
+HERODES.
+Hat Mariamne auch nie den Sohem geküsset?
+
+
+
+PHILO.
+Wol diesem / der sich stets nach reiner Tugend misset!
+
+
+HERODES.
+So mässe / Lügner / euch deß Henckers Folter-Banck.
+
+
+SOHEMUS.
+Die Unschuld wird gekrönt durch ungerechten Zwang.
+
+
+HERODES.
+Bringt Pech / und Zangen her / und hell-entflammte Kertzen.
+
+
+PHILO.
+Ein rein Gewissen lacht auch in den größten Schmertzen.
+
+
+HERODES.
+Es wird dich bald vergehn: Strengt die Verdammten an!
+
+
+SOHEMUS.
+Man färbt auß dieser Flut der Ehre Purpur-Fahn.
+
+
+HERODES.
+Ein ewig frischer Schimpff wird euch zum Grab-Stein bleiben.
+
+
+PHILO.
+Die Tugend aber uns den Sternen einverleiben.
+
+
+HERODES.
+Beträuffelt jhren Leib mit siedenheissem Bley.
+
+
+SOHEMUS.
+Gerechter Richter steh! ach steh der Unschuld bey!
+
+
+HERODES.
+GOtt sihet nicht auff euch / verfluchte Bösewichter!
+
+
+
+PHILO.
+Verändert euren Glantz jhr güldnen Himmels-Lichter!
+
+
+HERODES.
+Greifft mit den Zangen an die Laster-volle Brust.
+
+
+SOHEMUS.
+Der keine Missethat der Fürstin ist bewust.
+
+
+HERODES.
+Steckt in die Nagel kihn / und Fackeln an die Seiten.
+
+
+PHILO.
+Die werden unsern Geist ins Paradieß begleiten.
+
+
+HERODES.
+Wo Korah / Dathan und Abiram sich befindt!
+
+
+SOHEMUS.
+Wir werden stets bestehn / ob gleich der Leib verschwindt.
+
+
+HERODES.
+Es wird die Nach-Welt euch / jhr Frevler / stets verspeien.
+
+
+PHILO.
+Der Himmel aber dir mit tausend Plagen dreuen.
+
+
+HERODES.
+Woll'n Sterbende nun erst Prophet und Seher seyn!
+
+
+SOHEMUS.
+Ja: ins Thal Josaphat solst du dich stellen ein.
+
+
+HERODES.
+Jhr Narren! wißt jhr auch / was euch den Hals wird brechen?
+
+
+
+PHILO.
+Diß wol / daß Zerberus dir wird die Brust durchstechen.
+
+
+HERODES.
+Spannt beyde Lästerer noch etwas höher auff.
+
+
+PHILO.
+Du wirst der Wahrheit doch nicht hemmen jhren Lauff.
+
+
+HERODES.
+Zieht / foltert / reckt und brennt / biß sie die Wahrheit melden.
+
+
+SOHEMUS.
+Nun wird ein Hencker selbst der König Jüd'scher Helden!
+
+
+HERODES.
+Flößt heiß zerschmoltzen Pech in den verfluchten Mund!
+
+
+SOHEMUS.
+Auch stumme werden stets dein Raasen machen kund.
+
+
+HERODES.
+Streut Saltz auffs rohe Fleisch / und kützelt sie mit Bürsten.
+
+
+PHILO.
+So wird die Teuffel auch nach deiner Seele dürsten.
+
+
+HERODES.
+Bekennt! Nun habt jhr Zeit! Sonst ists umb euch gethan!
+
+
+PHILO.
+Soll man / Tyranne / dir denn Lügen deuten an?
+
+
+HERODES.
+Wo Mariamne dich bestochen / solst du leben.
+
+
+
+PHILO.
+Ehr wil ich meinen Geist in grimmster Qual auffgeben!
+
+
+HERODES.
+Peitscht / biß jhr schwartzes Blut auß allen Adern fließ'!
+
+
+SOHEMUS.
+Ein unverrückter Sinn acht weder Rad noch Spieß'.
+
+
+HERODES.
+So ist / Verteuffelte / gar nichts auß euch zu pressen?
+
+
+PHILO.
+Nein Mörder! Laß uns nur den bittern Tod aufffressen.
+
+
+HERODES.
+Du seufftzest nach dem Tod: Dein End' ist noch nicht dar.
+
+
+SOHEMUS.
+Ach Wüttrich! der besiegt Busiris Mord Altar!
+
+
+HERODES.
+Laßt Strick und Folter nach / damit sie was verblasen.
+
+
+PHILO.
+Ach Höchster! Steure doch deß Blut-Hunds tollem Raasen!
+
+
+HERODES.
+Was Rath! solln diese Zwey die Augen schliessen zu?
+
+
+SALOME.
+Jhr Leben schafft Gefahr / jhr Sterben Fried' und Ruh.
+
+
+HERODES.
+
+Wolan! So mögen sie im strengen Seil ersticken!
+Werfft jhnen Schlingen an / eh wir sie selbst erdrücken.
+
+
+
+BLUT-RICHTER.
+Sie rächeln / sie vergehn / die Ohnmacht nimmt sie fort!
+
+
+
+PHERORAS.
+Nun fährt Herodes ein in den beglückten Port!
+
+
+ANTIPATER.
+Nun wird das heil'ge Recht gerechte Rach' außführen!
+
+
+HERODES.
+
+Schleppt nur die Leichen weg / und werfft sie vor den Thieren /
+Daß jhr verdammtes Aaß von Hunden sey verzehrt:
+Denn solche Hunde sind nicht Sarch und Grabes werth.
+
+
+
+SALOME.
+Soll Mariamne auch die grause Unthat büssen?
+
+
+HERODES.
+
+Die Mörd'rin laßt indeß stracks in den Kercker schlüssen /
+Biß jhr der grosse Rath das Leben selbst abspricht.
+Jedoch wie wird diß Werck recht füglich eingericht /
+Daß Palæstina uns nicht grausam möge nennen /
+Wenn Mariamnen wir den Lebens-Fadem trennen?
+Gantz Salem siht auff sie / August ist jhr geneigt /
+Weil jhr Geschlechte sich mit Kron' und Jnfeln zeigt.
+
+
+
+SALOME.
+
+Was zweifelt hier der Fürst? Solch Laster macht auch Kronen
+Bey aller Welt verhaßt: Soll man der Mörder schonen /
+Die unsern Tod gesucht / das Eh-Bett frech entweiht /
+Und stündlich blasen auff ergrimmte Traurigkeit?
+Fürstinnen sollen sich auch halten wie Fürstinnen.
+Gantz Rom und Salem wird jhr Grufft und Bahre gönnen /
+Wenn durch Rabbin'schen Spruch sie küssen wird das Beil /
+Auff dessen Streich beruht deß gantzen Landes Heil.
+
+
+
+
+PHERORAS.
+
+Daß nicht Verrätherey sich etwan mög' erheben /
+So kan im Kercker sie den stoltzen Geist auffgeben.
+Gnug / wenn der grosse Rath jhr selbst das Urtheil fällt /
+Daß dich entschuld'gen wird bey Rom und aller Welt.
+
+
+
+ANTIPATER.
+
+Wol! wol! so müsse nun verschwinden und vergehen /
+Was über Kron' und Thron sich trotzig wil erhöhen /
+Und Fürst und Freunde schimpfft!
+
+
+
+HERODES.
+
+Wir woll'n uns gleich bemüh'n /
+Daß wir den heil'gen Rath auff unsre seite Zihn.
+
+
+
+Der Schau-Platz verändert sich ins Gefängnüß.
+
+
+Alexandra. Mariamne. Das Königl. Frauen-Zimmer. Der Haupt-Mann mit den Trabanten.
+
+
+
+
+ALEXANDRA.
+
+Mein Kind / so leuchtet hier der Aßmonæer Sonne!
+So wird in einem Blick die Zucker-süsse Wonne
+Jn Gallen-bittren Schmertz / das Fürstliche Gemach
+Jns Kerckers-Grufft verkehrt! Ach Mariamne! ach!
+Printzessin sonder Thron! Starts-Jungfern sonder Ehre!
+Ach! daß der Satan dir so leib als Geist versehre /
+Verfluchtester Herod / Blut-dürst'ges Tygerthier!
+Die Boßheit jauchtzt und schwärmt mit raasender Begier /
+Weil Unschuld unterdeß in grimmen Aengsten schmachtet /
+Und ein beschimpfftes Beil nach jhrer Scheitel trachtet.
+Jst Assamons Geschlecht dem Himmel gantz verhaßt!
+Aristobul ertranck / Hyrcanus ist erblaßt /
+
+
+Und Mariamne selbst / die Tugend konte schützen /
+Muß (thrent jhr Augen! thrent!) nebst mir im Kercker sitzen!
+O seelig / wenn dich nicht gesäuget diese Brust!
+
+
+
+MARIAMNE.
+
+So ists / wie ich erwähnt: Deß Wüttrichs geile Lust /
+Die Rachgier Salomens / deß Brüdern freche sinnen
+Bemühn sich nach und nach das Todten-Kleid zu spinnen
+Dem Aßmonæ'schen Stamm. Jedoch die Tugend lacht
+Nur solchen Wahnwitz auß: Je schwärtzer ist die Nacht /
+Je schöner sihet man in den saffirnen Zimmern
+Das Diamantne Heer der güldnen Sternen schimmern.
+Gesetzt es werd' auff uns nicht rechtes Recht erticht;
+Ein' unbefleckte Seel' acht falsche Mäuler nicht:
+Wil uns der tolle Neid so Reich als Geist verkürtzen /
+Offt muß die Untreu selbst sich in die Grube stürtzen /
+Die sie der Unschuld grabt. Es komme wie es wil /
+Ein rein Gewissen ist mein unverrücktes Ziel /
+Daß auch den Leich-Stein kan mit Ehren-Preiß bezieren /
+Den weder Welt / noch Tod / noch Teuffel wird entfuhren.
+Jndeß schreibt diesen Sturm nur nicht dem Himmel zu!
+
+
+
+ALEXANDRA.
+
+Ach! Wie kan unsre Seel' empfinden wahre Ruh!
+Die Schutz-Herrn unsers Glücks und Wolfahrt sind erblichen.
+
+
+
+MARIAMNE.
+Doch aller Printzen Printz ist nicht von uns gewichen.
+
+
+ALEXANDRA.
+Wie daß die Laster blühn / weil Tugend seufftzt und schmacht?
+
+
+MARIAMNE.
+Gold wird durch Feur / ein Geist durch Pein bewehrt gemacht.
+
+
+
+ALEXANDRA.
+Das Eisen frißt der Rost / Angst kan die Sinnen schwächen.
+
+
+MARIAMNE.
+Zwar schwächen; aber nicht der Tugend Stahl zerbrechen.
+
+
+ALEXANDRA.
+Der Trübsal heisse Glut bezwingt auch diesen Stahl.
+
+
+MARIAMNE.
+Man kan Gekrönten nicht anlegen Schimpff und Qual.
+
+
+ALEXANDRA.
+Qual und auch Schimpffs genug / wenn unsre Strahlen schwinden!
+
+
+MARIAMNE.
+
+Mit denen sich selbst wird die Ewigkeit verbinden.
+I. JUNGFER.
+Wahr ists: Die Ewigkeit verläst Fürstinnen nicht.
+
+
+
+II.
+
+ JUNGFER.
+Sie stehn / ob gleich der Tod den jrrd'schen Scepter bricht.
+
+
+
+IV.
+
+ JUNGFER.
+Sie stehn / ob Tyranney den Himmel selbst wil stürmen.
+V. JUNGFER.
+Denn vor Verwesung kan sie eignes Lob beschirmen.
+
+
+
+VI.
+
+ JUNGFER.
+Das über allen Ruhm der Eitelkeiten steigt.
+
+
+
+MARIAMNE.
+Was wil doch Bathseba / die sich so traurig neigt?
+
+
+
+III.
+
+ JUNGFER.
+Fürstinnen / ach verzeiht! daß ich mich unterwinde
+Zu melden was mich drückt / und neuen Schmertz entzünde!
+
+
+
+MARIAMNE.
+Eröffn' uns deine Noth / so sich vor uns verbirgt.
+
+
+III.
+
+ JUNGFER.
+Sohem und Philo sind gefoltert und erwürgt!
+
+
+
+MARIAMNE.
+Was haben / grosser GOtt / doch diese zwey verbrochen!
+
+
+III.
+
+ JUNGFER.
+Man weiß / daß Salome pflegt alles Gifft zu kochen;
+Denn jhr Zancksüchtger Geist liebt nie die Friedens-Bahn:
+Weil Philo und Sohem nicht wollen Zeigen an /
+Ob auch die Königin durch schnöde Liebes-Thaten
+Den Alabaster Leib befleckt mit Tyridaten /
+So musten beyde stracks den grimmen Strick außstehn.
+
+
+
+MARIAMNE.
+Unschuld'ger Tyridat! ach Himmel! wir vergehn!
+
+
+ALEXANDRA.
+
+Mein Kind!
+I. JUNGFER.
+Printzeß! auff! auff!
+
+
+
+II.
+
+ JUNGFER.
+Printzeß! Ach sie erblasset!
+
+
+
+III.
+
+ JUNGFER.
+Bringt Balsam / Oel und Wein / eh sie der Tod umfasset!
+
+
+
+
+IV.
+
+ JUNGFER.
+Bestreicht jhr Stirn' und Schlaf!
+V. JUNGFER.
+Printzessin! lebt sie noch?
+
+
+
+VI.
+
+ JUNGFER.
+Ach sie besinne sich!
+
+
+
+MARIAMNE.
+
+Laßt in der Ruh mich doch!
+Laßt ungerüttelt mir die höchst-vergnügten Glieder!
+Gebt uns den süssen Schlaf / den süssen Schlaf doch wieder!
+Wo sind wir!
+
+
+
+ALEXANDRA.
+Ach mein Hertz schlag diese Wehmuth auß!
+
+
+MARIAMNE.
+
+Numehr Fällt Assamon in Asche / Staub und Grauß!
+Mein unglückseel'ger Traum wird (leider!) nun erfüllet!
+Wir seh'n schon / wie man uns ins Leichen-Tuch verhüllet /
+Wie uns das Hencker-Beil nach Haupt und Nacken zielt /
+Und Salome den Grimm in unsrem Blute kühlt!
+HAUPT-MANN.
+Printzeß / sie soll alsbald im grossen Saal erscheinen.
+
+
+
+MARIAMNE.
+Wir folgen unverzagt.
+
+
+ALLE JUNGFERN.
+Ach weint / wer nur kan weinen!
+
+
+
+Reyen
+
+Der Bach Kidrons und der Wald-Nimffen.
+
+
+Der Schau-Platz bildet ab die Gelegenheit deß Bach Kidrons bey Jerusalem.
+
+
+Satz der Wald-Nimffen.
+
+Ach Kidron / der bey Salems Stadt
+Den Oel-Berg und's Thal Josaphat
+Mit seinem Silber netzet /
+Der du dem Schöpffer bist geweiht /
+Weil Baals Asch' in dich gestreut;
+Wie bistu doch verletzet!
+Wie schrumpfen deine Hörner ein!
+Man sihet nichts als Blut und Stein
+Auß deinem Eimer rinnen!
+Jst denn Mipflezeth auffgewacht /
+Den Assa dir verbrandt gebracht?
+Weich Unheil wil sich spinnen!
+Verändre / Vater / doch dein blutiges Gewand /
+Und mache / was dich druckt / jtzt deiner Schaar bekand!
+
+
+Gegen-Satz deß Bach Kidrons.
+
+Ach GOTT! mein Krystallinen Vaß
+Wird (leider!) fleckicht / warm / und laß
+Durch Blut-vermischten Schimmel /
+Weil Sonn' und Mond' und Stern vergehn /
+Und nichts als Blut-Cometen stehn
+Jm Palæstin'schen Himmel!
+Joseph / Aristobul / Hyrcan
+Ziehn mir den traur'gen Purpur an /
+Den Salems Fürst gefärbet.
+Der Fürst / in dem nichts Fürstlichs ist /
+Der selbst sein Paradieß verwüst /
+
+
+Vom Assamon geerbet.
+Weil nun der Himmel selbst ob solcher Mordthat weint /
+Was Wunder / daß auch jtzt mein Silber blutig scheint!
+
+
+Abgesang deß Bach Kidrons mit den Wald-Nimffen.
+
+Erboster Hund! verfluchtester Tyranne!
+Wie lange raast dein teuffelischer Geist /
+Der Kron' und Schild und Jnfeln niederschmeist!
+Wird nun das Gold der keuschen Marianne
+Auch eingesenckt ins Kerckers schwartzen Schacht /
+Da doch Sohem und Philo klar gemacht /
+Daß kein unreiner Tau jhr Liljen-Feld beflecket!
+Schau / wie der Satan schon nach dir die Hände strecket!
+Diana selbst verliehrt das grüne Kleid /
+Weil Flüsse / Berge / Thal und Tempel sind entweiht!
+Ja eh du dichs / du Mörder / wirst versehen /
+Wird dir der Höllen Mohr den krummen Hals verdrehen!
+
+
+
+
+
+
+
+
+5. Akt
+
+
+
+
+
+
+Die Fünffte Abhandlung.
+
+Der Schau-Platz stellet vor deß Königes Gemach.
+
+
+Herodes. Joab. Israël. Ezechias. Schammæus. Simeon. Hillel. Ananeel. Joschua. Nicodemus. Jonathan. Gamaliel. Menahem.
+
+
+
+HERODES.
+
+So ists: Scarlat und Gold bedient zwar unsern Fuß /
+Deß Glückes Zucker-Mund beut uns den sanfften Kuß;
+Rom hat die Lorbern uns geschencket vor Zypressen /
+Es wird Jerusalem nicht unsern Ruhm vergessen.
+Jedoch der Glantz erbleicht / wenn Jrrlicht und Comet
+Jm Fürstlichen Pallast mit gifft'gem Schimmer steht /
+Und mit Pech-schwartzem Dampff trotzt die erlauchte Sonne.
+Jhr Vater dieses Reichs / der Jdumæer Wonne /
+Und eures Fürsten Trost / euch ist nicht unbewust /
+Was vor ein Sorgen-Wurm durchnaget unsre Brust:
+Lieb' und auch Rache sind's / die Salems Printz bekämpffen.
+Helfft / Freinde / helfft uns doch die grause Flammen dämpffen /
+Die unser Eh'-Gemahl die Mariamn' erweckt!
+Jhr wißt / daß Joseph sich mit dieser Frau befleckt /
+Der auch numehr gebüßt: Hier haben wir geschonet /
+Weil Demant-feste Lieb' in unsrer Seele wohnet.
+Ach aber! Diese Gunst / und Langmuth / und Gedult
+Hat (wie wir Leider sehn!) vergrössert jhre Schuld;
+Gleich einer Feuers-Brunst / die Gips und Stahl verzehret /
+Wenn Kühnheit und Vernunfft nicht solchem Ubel wehret.
+Wir müssen / Väter / euch eröffnen unsre Noth:
+Die Mariamne hat gesucht deß Fürsten tod
+
+
+Durch gifft'gen Liebes-Tranck / der annoch ist verbanden.
+Ja sie hat jhren Leib zum Schau-Platz ärgster Schanden
+Durch geile Brunst gemacht / weil nicht nur Tyridat /
+Auch jhr Verschnittner selbst mein Bett' entehret hat.
+O Laster sonder gleich / die Glut und Stein verdienen!
+Hier sucht man euren Rath / jhr weisesten Rabbinen /
+Jn dem so schweren Werck / das unsern Ruhm betrifft.
+Sie sitzt im Kercker nun / die durch verräthrisch gifft
+Und schnöden Eh-Bruchs Reitz sich gegen uns vergangen.
+Drumb träget unsre Rach' ein sehnliches Verlangen
+Zu wissen / weil jhr führt der Themis heil'gen Stab /
+Ob eur hochweiser Schluß jhr spricht das Leben ab:
+Erwegt die Sache wol / und richtet nach Gesetzen.
+
+
+
+JOAB.
+
+Daß eure Hoheit sich der Thorah güldnen Schätzen
+Jn solchem Kummer mehr als eignem Witz vertraut /
+Jst billich Rühmens werth: Denn wer das Urtheil baut
+Auff GOttes wahren Mund / wird nicht den Zweck verfehlen.
+Wo diese Sorgen nur / so jtzt den König quählen /
+Verleumbdung nicht erweckt / so spricht das heil'ge Recht
+Jhr Thron und Leben ab. Als jene ward geschwächt /
+Fiel'n achtzehn Tausend Mann der streitbahrn Benjamitter:
+Denn wer die Geilheit liebt / den trifft das Ungewitter
+Deß grossen Zebaoths. Jn Jsraelis Hauß
+Soll keine Buhlerin eingehen oder auß /
+Wie Moyses bezeugt. Drumb weil diß grause Laster
+Durch Mordthat sich vermehrt / so wird kein ander Pflaster
+Zu diesen Wunden seyn / als ein gerechter Spruch /
+Den selbst der Himmel macht.
+
+
+
+ISRAËL.
+
+Kein lieblicher Geruch
+Kan auff dem Söhn-Altar der wolgebauten Erden
+Deß Schöpffers Heiligkeit von uns geopffert werden /
+
+
+Als Lilg' und Turtel-Taub' / der Keuschheit Ebenbild.
+Wo dieser Tugend-Rauch der Seele Tempel füllt /
+Da wird deß Jacobs Heil und Obed-Edoms Seegen /
+Bekrönen Hertz und Haus. Wer aber Wollust pflegen /
+Und geile Wespen nur auß Bienen machen wil /
+Wird allen Völckern seyn ein schimpflich Trauer-Spiel.
+So weil auch Mariamn' die edlen Keuschheits Lilgen
+Nicht Barbarn nur allein / auch Knechte laßt vertilgen /
+Und über diß jhr Sinn Gifft / Mord und Todschlag spinnt /
+So stürtzet sie sich selbst.
+
+
+
+EZECHIAS.
+
+Seht / wie das Blut noch rinnt
+Auff Jesabels Gewand / die durch unkeusche Blicke
+Den Jehu ziehen wolt' in jhre Liebes Stricke!
+Hier war der Wille nur / nicht selbst die That bestrafft.
+Weil Mariamne nun sich würcklich hat vergafft /
+Und jhr hochheil'ges Haus durch schnöde Brunst entweihet /
+So werde Stadt und Land durch jhren Tod befreyet
+Von GOttes schwerem Zorn / der wie ein Feuer brennt /
+Und sich nicht dämpffen laßt. Denn wer das Eh-Band trennt
+Durch frechen Ubermuth / und sündlichen Begierden
+Den Zügel schiessen läßt / wirfft alle Tugend-Zierden
+Auff einmal in den Koth.
+
+
+
+SCHAMMÆUS.
+
+Gab Eleasars Sohn
+Der Midianitin nicht den wolverdienten Lohn /
+Die in dem Winckel sich befleckt mit dem Ebræer?
+Soll nun diß adle Weib der heil'gen Aßmonæer
+Mit einem Parther sich vermischen und verstell'n?
+Jmfall die Wahrheit kan der Greuel-That erhell'n /
+Daß Mariamnens Mund unreine Milch gesogen
+Auß Tyridatens Brust / so werde stracks vollzogen /
+Was GOtt und Recht befihlt / und Rath und König schleußt.
+
+
+Denn wer das Heiligthum vor Hund' und Schweine schmeißt /
+Und seiner Ahnen Glantz verwandelt in Cometen /
+Sinckt billich in die Grufft.
+
+
+
+SIMEON.
+
+Wer jhm zu Mord-Trompeten
+Selbst schmeltzet das Metall / und Zwirn zum Tod's-Kleid spinnt /
+Verdient nicht / daß umb jhn die Threnen-Quelle rinnt.
+Es weiß der grosse GOtt / wie sehr mein Geist betrübet /
+Daß Mariamnens Witz in die Rappuse giebet
+Den Tugend-vollen Ruhm / der Assamons Geschlecht
+Biß an den Pol erhöht. Jedoch die Unthat schwächt
+Der Schönheit lichte Glut und hohe Wunder-Gaben /
+Die GOtt / Zeit und Natur in jhren Leib vergraben.
+Es bleibt der feste Spruch: Wer frevelt / wird belohnt.
+Ja ob jhn manchmal gleich das jrrd'sche Recht verschont /
+So strafft doch endlich GOtt.
+
+
+
+HILLEL.
+
+Nichts wird so klein gesponnen /
+Es bricht doch endlich auß und kommt ans Licht der Sonnen.
+Weh aber diesem! Weh! der Aergernüsse gibt /
+Der Engel in der Lufft / und Menschen hier betrübt!
+Denn eine Fürstin ist der Unterthanen Spiegel /
+Jn dem sie sich besehn: Sind nun der Tugend-Riegel
+Durch Laster weggethan / und ist selbst das Krystall
+Bemackelt und beschmutzt / so folget Fall auff Fall /
+Der mit dem Mantel sich der Herrschafft stets bedecket /
+Und mit so gifft'ger Pest das gantze Land anstecket.
+So ist auch Mariamn' zweyfacher Streiche werth /
+Die sich so sehr verstellt.
+
+
+
+
+ANANEEL.
+
+Unkeusche Brunst verzehrt
+Der Sodomiter Land und Trojens feste Mauren;
+Es kan Persepolis nicht vor den Flammen dauren /
+Die eine Thais samt in Alexanders Brust:
+Denn solcher Aberwitz ist nur geschminckte Lust /
+Der meist jhr Himmel-Brodt in schärffste Wermuth wandelt.
+Mich wundert / daß der Brand so grausam mit uns handelt /
+Uns / denen JEHOVAH sein werthes Land vertraut /
+Daß Mariamne nicht auff Salems Würde schaut /
+Noch ferner bauen hilfft durch löbliches Exempel
+Das Allerheiligste / den Tempel aller Tempel /
+Der auff die Frevler blitzt mit Felsenschwerer Rach'!
+
+
+
+JOSCHUA.
+
+Was ist diß wunderns noth? Wenn auff dem Sternen Dach
+Ein Schwantz-Gestirn erscheint / deßwegen geht dem Himmel
+An Schönheit gar nichts ab: So / ob auch diß Getümmel /
+Daß Mariamnens Brunst durch Geilheit hat erregt /
+Jn unsrem Horizont was frembde Zeichen hegt /
+So wird doch nicht hierdurch Jerusalem entweihet.
+Gnug / wenn gerechtes Recht mit Beil und Flammen dreuet
+Der schnöden Ubelthat / und GOttes Zorn außführt.
+Wo nun der Eifer hier rechtmässig wird gespurt /
+Und den nicht guten Baum / der Arge Frucht getragen /
+Zu Asch' und Pulver brennt / so hören auff die Plagen /
+Die der Comete zeugt.
+
+
+
+NICODEMUS.
+
+Es ist nun Sonnen klar /
+Daß Mord und Eh-Bruch sie stürtzt auff die Todten-Bahr /
+Weil auch ein geiler Blick das Eh-Bett kan beflecken /
+So bald unkeusche Glut die Augen an-wil-stecken.
+Und ob der Gifft Kelch schon die Wirckung nicht erreicht /
+Jn dem Herodes nicht durch jhre List erbleicht /
+
+
+So ist der Vorsatz doch nichts minder abzustraffen /
+Als wenn die That vollführt: Denn wer Beschützungs Waffen
+Erst nach vollbrachtem Werck auff Mörder Zucken wil /
+Der donnert nur umbsonst. Man muß mit Strumpff und Stiel
+Der Laster Pilsen-Kraut außrotten und vertilgen /
+Wo fern uns blühen soll'n der Tugend Ehren-Lilgen /
+Die keine Zeit besiegt.
+
+
+
+JONATHAN.
+
+Mir fällt was anders bey:
+Der Wund-Artzt schneidet nicht stracks Sehn' und Fleisch entzwey /
+Wenn etwan Gicht und Krebs die Glieder wil durchfressen.
+Denn wem ist wol gedient mit blut'gen Traur-Zypressen?
+Laßt diesen Schaden uns mit linderm Pflaster heil'n:
+Blitzt doch der Himmel selbst mit lichten Donner-Keil'n
+Nicht stracks auff unsern Kopff / wenn wir uns wo vergangen.
+Hier dient die Scheidung mehr! als Steine / Schwerdt / und Zangen.
+Man Scheid' / und Schneide nicht / was Kron' und Jnfel schmückt /
+Spricht GOttes Kantzler selbst. Sie werde abgeschickt
+Jn rauhe Wüsteney; Da mag die Fürstin büssen
+Vor diß / was sie verbrach.
+
+
+
+GAMALIEL.
+
+Beflecke dein Gewissen
+Mit solchem Urtheil nicht / barmhertz'ger Jonathan!
+Die Scheidung gehet nicht die Buhlerinnen an /
+Die in dem Eh-Bruch schon sind würcklich überwiesen.
+Wer hat die Gnade doch in solchem Fall gepriesen /
+Wo selbst die Majestät wird schändlich angetast?
+Gesetzt auch / nicht enträumt / man leg' auff sie die Last /
+Die Zeit zu bringen zu in öden Wüsteneyen:
+
+
+Wird die Verbannung uns von Schimpff und Schmach befreyen /
+Die Land und König quählt / und GOtt und Kirch' betrübt?
+Zu dem / wer weiß / ob sie dir selber Beyfall giebt /
+Und nicht vielmehr das Grab / als solches Elend suchet /
+Das arger als der Tod.
+
+
+
+MENAHEM.
+
+Ja freylich wird verfluchet
+Ein Leben voller Angst / das stirbt und auch nicht stirbt!
+Wie seelig aber ist / der hier den Lohn erwirbt /
+Den GOtt und Welt und Recht den Sündern wil ertheilen!
+Ach dieses Brand-Mahl kan auch keine Liebe heilen /
+Die Mariamnens Glantz ins Fürstens Hertz' erweckt!
+Sie hat sich allzusehr / und doppelt zwar befleckt.
+Ja wenn das Gifft-Glas sich mit Eh-Bruch nicht vermählet /
+So wurde eher noch Barmhertzigkeit erwehlet /
+Als allzustrenges Recht. Ach aber! es muß seyn!
+»Wenn Laster nehmen zu / so wachst auch Straff' und Pein.«
+
+
+
+HERODES.
+
+Jhr schlösset jhren Tod: Wolan sie soll erbleichen!
+Der Liebe Orlogs-Schiff muß nun die Seegel streichen
+Vor der Astræen Kahn / der sonst zu scheitern geht /
+Wenn diese Sünderin nicht auff der Bahre steht /
+Und GOTT und Welt versöhnt. Jedoch durch was vor Waffen
+Soll der gerechte Tod sie von dem Erd-Kreiß schaffen?
+
+
+
+JOAB.
+Das Recht der ersten Welt sties Thamarn in die Glut.
+
+
+ISRAEL.
+So hat auch Babels Printz belohnt das geile Blut.
+
+
+EZECHIAS.
+Die Steine werden hier den rechten Zweck ergreiffen.
+
+
+
+SCHAMMÆUS.
+Last in dem Jordan sie mit Sack und Bley ersäuffen.
+
+
+SIMEON.
+Man leg' jhr umb den Hals den Gold-gewirckten Strick.
+
+
+HILLEL.
+Daß sie mit sondrer Pracht in eignem Blut' erstick'.
+
+
+ANANEEL.
+Wer geilen Rauch geliebt / mag in dem Rauch aufffliegen.
+
+
+JOSCHUA.
+Wer grünes Gifft gemischt / den mag das Gifft besiegen.
+
+
+NICODEMUS.
+Es werd' ein scharffer Stahl dem stoltzen Haupt zu Theil.
+
+
+JONATHAN.
+Dein Außspruch ist beliebt: Sie sterbe 
+durch das Beil!
+
+
+
+GAMALIEL.
+
+Sie sterbe durch das Beil! Und lasse Kron' und Tittel!
+
+
+MENAHEM.
+
+Sie sterbe durch das Beil! Diß ist das beste Mittel!
+
+
+HERODES.
+
+Wir tragen / Väter / euch das Blut-Gerichte auff:
+Laßt dem erwognen Recht den unverrückten Lauff;
+Sprecht über jhren Hals das Urtheil herber Rache:
+Wolt' auch jhr stoltzer Mund beschönen jhre Sache /
+So hört sie kürtzlich an: gebt jhr zwey Priester zu;
+Und schafft durch jhren Tod euch Ruhm / uns Fried' und Ruh:
+Sie sterb im Kercker / daß sich kein Tumult erhebe.
+
+
+
+
+ALLE RABBINEN.
+Der Juden grosser Printz / Herodes / herrsch' und Lebe!
+
+
+Der Schau-Platz verwandelt sich in einen grossen Richt-Saal.
+
+
+Joab. Israël. Ezechias. Schammæus. Simeon. Hillel. Ananeel. Joschua. Nicodemus. Jonathan. Gamaliel. Menahem. Mariamne. Das Königl. Frauen-Zimmer. Der Haupt-Mann mit den Trabanten.
+
+
+
+
+JOAB.
+
+Wir haben nun gehört deß Königs ernsten Schluß /
+Dem unsre Heiligkeit nachkommen soll und muß;
+Drumb kan Gamaliel den Blut-Spruch jtzt verfassen:
+»Daß nehmlich sie durchs Beil im 
+Kercker soll' erblassen.«
+
+
+
+GAMALIEL.
+Jch werde mühsam seyn / das Urtheil zu vollziehn.
+
+
+ISRAEL.
+Noch eins: Man beuge vor / daß sie nicht mög' entfliehn.
+
+
+JONATHAN.
+Wie kan der Vogel doch auß seinem Keficht dringen?
+
+
+EZECHIAS.
+Der güldne Schlüssel kan jedwedes Schloß bezwingen.
+
+
+SCHAMMÆUS.
+Wahr ists: Die Fürstin hat das Volck auff jhrer Seit'.
+
+
+NICODEMUS.
+Der Pövel starrt und bebt / wenn man Gekrönten dreut.
+
+
+
+HILLEL.
+Zu dem ists Kerckers Schacht mit Wächtern rings umbschlossen.
+
+
+MENAHEM.
+Wie wenn die Reue würd' ins Königs Hertz gegossen?
+
+
+SIMEON.
+Was könten wir darvor? Der Fürst hegt das Gericht.
+
+
+JOSCHUA.
+
+Der Wanckelmuth würd' uns doch werden angeticht /
+Weil Mariamnen uns Herodes übergeben.
+
+
+
+ANANEEL.
+
+Drumb eilt / eh sich was zeigt / mit jhr auß diesem Leben /
+Und fuhrt den Blut-Spruch auß.
+
+
+
+EZECHIAS.
+
+Wol! Die Beklagt' erscheint /
+Versehn mit Wach' und Volck.
+
+
+
+JOAB.
+
+Wir hatten zwar vermeint
+Mit angenehmem Gruß die Fürstin zu empfangen:
+Allein weil über sie der Himmel hat verhangen /
+Daß der hochheil'ge Rath mit Widerwillen jhr
+Das Unglück / so sie trifft / anjetzt muß tragen für /
+So wird die Königin uns vor entschuldigt halten.
+Sie weiß / wer in der Eh die Liebe läßt erkalten /
+Und frembdes Labsall sucht / besonders wenn die Brunst
+Deß hurt'gen Eh-Gemahls zeigt nicht geschminckten Dunst /
+Daß solche Frevel-That GOtt / Welt und Recht erzürne:
+Denn kein unreines Licht / noch falsches Schwantz-Gestirne
+Soll in dem Sternen-Zelt deß keuschen Eh-Betts strahl'n.
+
+
+Sie weiß auch / wer mit Gifft die Liebe wil bezahl'n /
+Dadurch die heil'ge Eh uns biß ins Grab verbindet /
+Daß solcher Meuchel-Mord gerechte Straffe findet.
+Printzeß / es ist uns leid / daß jhre Schönheit jtzt
+Ein traurig Beyspiel zeigt / und in den Lastern sitzt
+Deß geilen Mörder-Gifft's! Printzessin / wir beklagen /
+Daß unsre Freundschafft jhr das Leben ab muß sagen /
+Weil selbst jhr Eh-Gemahl gerechte Rach' anfleht /
+Und uns zu Richtern setzt!
+
+
+
+MARIAMNE.
+
+Wie wird das Recht verdreht!
+Sagt mir / wer gibt euch Macht Gekrönte zu verdammen?
+Wer von deß Assamons Geschlechte her-kan-stammen /
+Wer Palæstinens Reich durch Erbrecht an sich bracht /
+Wer Kron' und Jnfel fuhrt mit hochgeweihter Pracht /
+Und mit der Tugend-Glantz besieget andre Lichter /
+Erkennt Rabbinen nicht vor seines Halses Richter.
+Gesetzt auch / daß der Fürst euch die Gewalt verliehn;
+Kein weltlicher Monarch kan Mariamnen ziehn
+Vor seinen Richter-Stul. Der Kayser aller Kayser
+Kan in Zypressen nur verkehr'n die Lorber-Reiser.
+Wir freveln jhm allein; Er hat zu straffen macht /
+Wenn ichtwas ja versehn. Der Silber-reiche Schacht
+Laßt kein unreines Aug' in seine Stollen fuhren /
+Sonst wird in einem Blick der Anbruch sich verliehren /
+Und vor berühmtes Ertzt nur zeigen Kieß und Stein.
+Gnug; Daß der Höchste weiß / daß Mariamne rein /
+Dem soll ich Rechenschafft von meinen Wercken geben;
+Und dieser wird auch einst mein unbeflecktes Leben
+Eröffnen aller Welt. Mein Ansehn leidet nicht /
+Daß Mariamn' erschein' vor derer Blut-Gericht /
+Die durch viel lange Jahr der Aßmonæ'schen Ahnen
+Leib-Eigne sind gewest und treuste Unterthanen /
+Ja mich als Diener selbst bedienet und verehrt.
+
+
+
+
+ISRAEL.
+
+Wie hat der Hochmuth sie / Printzessin / doch bethört!
+Kennt sie den Wechsel nicht / den Zeit und Glücke treiben?
+So lang' uns Gluck und Zeit must' in die Dienste schreiben
+Deß tapffren Assamons / so haben wir geleist
+Die schuld'ge Pflicht und Treu: Daß nun der Fürst uns heißt
+Der Fürstin Richter seyn / die vormals uns geschaffet /
+Jst nicht Verwunderns werth. Drumb weil das Recht nicht schlaffet /
+Auch Königinnen nicht vom Rach-Schwerdt wil befrey'n /
+So wird die Fürstin sich hierinnen auch nicht scheu'n
+Uns Antwort zu ertheil'n / auff was man sie befraget.
+
+
+
+MARIAMNE.
+
+Laßt jhr Rabbinen mich mit Fragen ungeplaget!
+Ein Laster reiner Geist darff angebohrne Zier
+Nicht mahlen in den Sand / nicht reissen auffs Papier.
+Man muß Fürstinnen nicht dem Pövel gleiche schätzen.
+Hat mich der Himmel woll'n in dieses Unglück setzen /
+Daß einen Hencker ich zum Eh-Mann hab' erlangt /
+Was ists denn / daß jhr erst mit vielen Worten prangt /
+Und mir den leichten Tod muthwillig wollt erherben?
+Jm Fall Herodes wil / daß Mariamn' soll sterben /
+Daß jhr nicht schuldig Blut soll spritzen auff die Bahr /
+Was baut er allererst ein falsches Rach-Altar?
+Was setzt er Richter ein? Was ist eur Spruch von nöthen?
+Er darff sein Eh-Gemahl nur mit dem Vorwand tödten /
+Wie er Aristobul'n und den Hyrcan entleibt.
+Denn wer so vielmal sich ins Blut-Regiester schreibt /
+Darff frembde Purpur nicht umb Themis Achseln legen.
+Jedoch diß Trauerspiel nur ichtwas zu erwegen /
+Befihlt die Unschuld mir zu mahlen kürtzlich ab /
+Was meine Tugend stürtzt so zeitlich in das Grab.
+Es weiß der grosse GOtt / der alles weiß und kennet /
+Daß Mariamne nicht den Liebes-Bund getrennet /
+
+
+Daß Mariamne nicht den GOtt und Glück gekrönt /
+Und zum Gemahl jhr gab hoffärtig hat verhöhnt.
+Der Fürst ist selber schuld an diesen Ungewittern /
+So jhn auff meinen Hals mit Mord und Rach' erbittern.
+Wir müssen frey gestehn / die grosse Liebes-Glut /
+So Anfangs uns beflammt / verschwand in unserm Blut /
+Als er den Bruder mir und Vater weggenommen:
+Ja als ich selbst bey jhm in schnöden Argwohn kommen /
+Weßwegen Joseph auch geküsset Block und Beil.
+Doch hat auch Salome und Pheroras den Pfeil
+Stets Tag vor Tag geschärfft auff Assamons Verterben /
+Biß sie sich endlich nun in meinem Blute färben /
+Daß jhnen spritzen wird in jhr verflucht Gesicht /
+Mir aber mahlen ab das Demant-helle Licht /
+So uns –
+
+
+
+EZECHIAS.
+
+Es ist nicht Zeit / weitläufftig hier zu fechten:
+Wir richten sie / Printzeß / nach den gemeinen Rechten /
+Und fragen erstlich zwar: Ob sie durch heimlich Gifft
+Dem König nachgestellt?
+
+
+
+MARIAMNE.
+
+Wo mich diß Laster trifft /
+So fühle meine Brust ein glüend-rothes Eisen!
+
+
+
+SCHAMMÆUS.
+Es ist der Zeuge dar / man kan sie überweisen.
+
+
+MARIAMNE.
+
+Verdammte Teuffels List! Wir kennen solches Weh:
+Diß Gifft mischt niemand nicht als nur die Salome.
+
+
+
+SIMEON.
+Die Außflucht wird sie nicht verdienter Straff' entbinden.
+
+
+
+MARIAMNE.
+Jch kan mich auff nichts mehr als mein Gewissen gründen.
+
+
+HILLEL.
+Daß leider! (wie ich furcht'!) hier Schiff-Bruch leiden muß!
+
+
+MARIAMNE.
+Wir schwehr'n euch keinen Eid: Diß ist mein kurtzer Schluß.
+
+
+ANANEEL.
+Bekäntnüß kan die Schuld / und Straff' und Pein vermindern.
+
+
+MARIAMNE.
+Zehlt Mariamnen nicht zu den befleckten Sündern.
+
+
+JOSCHUA.
+Wil an dem Eh-Bruch sie denn haben keine Schuld?
+
+
+MARIAMNE.
+Ach! Daß der Himmel doch so lange trägt Geduld!
+
+
+NICODEMUS.
+Sie hat den Joseph ja und Tyridat geliebet.
+
+
+MARIAMNE.
+Geliebt zwar; aber nicht / was jhr uns zeiht / verübet.
+
+
+JONATHAN.
+Sohem und Philo sind deßwegen hingericht.
+
+
+MARIAMNE.
+Jch weiß / daß auch jhr Geist von meiner Unschuld spricht.
+
+
+GAMALIEL.
+Fürstinnen machet auch ein holder Blick verdächtig.
+
+
+
+MARIAMNE.
+Bey dem / in dessen Brust Verdacht und Argwohn mächtig.
+
+
+MENAHEM.
+Ach wenn sie dem Gemahl ein sanfftes Aug' ertheilt!
+
+
+MARIAMNE.
+Wißt jhr / daß Liebe sich bey Mardern nicht verweilt?
+
+
+JOAB.
+
+Es sey! wir müssen thun / was Fürst und Zeit uns lehren.
+Sie wolle nun / Printzeß / jhr letztes Urtheil hören:
+
+
+
+MARIAMNE.
+Gar wol!
+
+
+GAMALIEL.
+
+»Weil Mariamn' durch Mord und 
+Eh-Bruch sich
+
+
+Auß frechem Ubermuth« –
+(MARIAMNE.
+O grimmer Seelen-Stich!)
+»An jhrem Eh-Gemahl vergriffen 
+und vergangen /
+
+So hat der heil'ge Rath auß 
+sondrer Gunst enthangen /
+
+Daß jhr beschuldet Haupt zu 
+Palæstinens Heil
+
+
+Jns Kerckers schwartzen Nacht 
+erblasse durch das Beil.«
+
+
+
+MARIAMNE.
+
+Ach Urthel wider Recht! Soll so die Tugend büssen!
+Wo bleibt / Rabbinen / doch / wo bleibet Eur Gewissen!
+Auff Salomon! auff! auff! Erschein' und sprich uns recht /
+Weil nun von Richtern selbst dein Richt-Stab wird geschwächt!
+
+
+Der Blut-Spruch kan uns nicht im wenigsten erschrecken:
+Ach aber! daß man mir die Seele wil beflecken /
+Daß man mit Mord und Gifft das falsche Recht beschönt /
+Und nicht nur unsren Leib / auch Ehr' und Ruhm verhönt /
+Diß / Richter / ist zu viel! Jch ruff' in dieser Sache
+Den Himmel wider Euch auff zur gerechten Rache /
+Der künfftig rächen wird der Aßmonæer Hauß!
+
+
+
+ISRAEL.
+Fuhrt den entdeckten Schluß im Kercker schleunig auß.
+
+
+Der Schau-Platz bildet ab deß Königes Gemach.
+
+
+Herodes. Ein Page. Arsanes. Aristobulus IV. und Alexander III. Das Königl. Frauen-Zimmer. Der Haupt-Mann mit den Trabanten.
+
+
+
+
+HERODES.
+
+Ach Schmertz! Was thun wir! Ach! Soll Mariamne sterben!
+Soll unser Augen-Trost durch schnöden Tod verterben!
+Soll keine Venus nicht umb unsern Purpur stehn!
+Und soll auff diesen Tag mein schönster Schatz vergehn!
+Wir stossen alles umb / was wir so blind geschlossen!
+Man hat in unsre Brust verleumbdungs Oel gegossen /
+Man hat uns überredt! Ach Liebe! die mich zwingt!
+Und / Mariamne / dich auß Grufft und Kercker bringt!
+Es kan Herodes dich / Printzessin / nicht verdammen;
+Die Rache wird besiegt durch deine Liebes-Flammen;
+Dein' Unschuld ist entdeckt. Wir haben selbst gehört /
+Was in dem heil'gen Rath dein kluger Mund gelehrt.
+Ja freylich hat der Fürst / Printzessin / dich betrübet!
+Man hat an deinem Stamm ein solches Stück verübet /
+Daß zwar der Purpur deckt / doch keine Seele lobt!
+
+
+So wandle demnach frey! Der Sturm hat außgetobt!
+Du solst uns noch erfreun mit vielmal tausend Küssen!
+Jedoch! was reden wir? Was wil Her ödes schlüssen?
+Soll uns der Wanckelmuth beflecken Thron und Recht?
+Soll man den Jüd'schen Printz nur der begierden Knecht /
+Und der sich Weiber stets beherrschen lasse / nennen?
+Solln wir das Unheil selbst / daß von uns kam / verbrennen?
+Da sey der Himmel vor! Es ward' uns diese Reu
+Ein ewig Wunden-Mahl und Feindschafft legen bey:
+Wir wurden selbst hierdurch bey Stadt und Land verdächtig:
+Ja der Rabbinen Schaar / die stachlich / groß und mächtig /
+Würd' unsern Wanckelmuth verfluchen und verspeyn /
+Und jhren König selbst vor ungerecht außschreyn.
+So würd' August uns feind! Was ist nun zu erwehlen /
+Daß wir die rechte Bahn zur Ehre nicht verfehlen!
+Jch muß / Printzeß / ich muß dich stürtzen in das Grab!
+Es gibt die höchste Noth den strengen Richter-Stab
+Mir selber in die Faust! Printzeß! du must erbleichen!
+Mein eintzig Heil beruht auff Mariamnens Leichen!
+
+
+
+PAGE.
+Es suchet Arsanes / Durchlauchster Fürst / verhör.
+
+
+HERODES.
+
+Er mag allein uns sehn: Laß keinen Diener mehr
+Eintreten ins Gemach. Wir können leicht' erachten /
+Wohin durch Arsanem wil Tyridates trachten;
+Allein es schlägt jhm fehl.
+
+
+
+ARSANES.
+
+Der Fürst verzeihe mir /
+Daß ich mich untersteh / weil Salems gröste Zier /
+Das Wunder dieser Welt / sein Eh-Schatz soll erbleichen /
+Deß Königs brennend Hertz durch Vorbitt zu erweichen /
+Und zwar ich nicht vor mich: Nein! Weil mir Tyridat /
+
+
+Der sich dem Fürst empfiehlt / diß anbefohlen hat /
+So hab' ich dem Befehl auch schuldigst nachgelebet.
+Es fragt nicht Tyridat / ob eintzig Brand-Mahl klebet
+An Mariamnens Leib; Er ist auch nicht bemüht /
+Zu forschen embsig nach / warumb die Blum verblüht /
+Die selbst die Gratien mit Nectar stets befeuchtet.
+Ach nein! Jhn jammert nur / daß die die Welt erleuchtet
+Durch überirrd'schen Glantz / ins Leich-Tuch wird verhüllt!
+Wofern nun Tyridat beym König ichtwas gilt /
+Wo meine Demuth kan durch Seufftzer was erhalten /
+So laß' Er seine Sonn' im Kercker nicht erkalten /
+Die gantz Jerusalem noch lange scheinen kan!
+Spricht sonst auch meinen Printz der Fürst umb ichtwas an /
+So wird er Tag und Nacht zu seinen Diensten leben.
+
+
+
+HERODES.
+
+Daß umb den Tyridat so grosse Sorgen schweben /
+Ob Mariamnen wir enthalsen / oder nicht /
+Was geht jhn dieses an? Man hegt das Blut-Gericht
+Auff Printzessinnen auch / wenn sie den Fürst betrüben.
+Es ist uns Tyridat tieff in das Hertz geschrieben:
+Wir wissen / wie er hat in unsrem Teich gefischt /
+Und uns zu Strick und Beil nicht wenig angefrischt:
+Drumb lescht nicht diese Glut / zu der jhr Oel getragen!
+
+
+
+ARSANES.
+
+Jch bin erstarrt ob dem / was mir der Fürst wil sagen!
+So wahr der Schöpffer lebt!
+
+
+
+HERODES.
+Bemüht euch ferner nicht!
+
+
+ARSANES.
+O Marmor-harter Sinn!
+
+
+
+HERODES.
+
+Geht uns auß dem Gesicht' /
+Eh wir die Rache selbst von eurer Scheitel nehmen!
+Der frevle Buhler darff auch jetzund sich nicht schämen
+Sein Beyleid darzustelln / umb weiß zu brennen sich.
+Man kennt der Boßheit Art; Es jammert Heuchler dich /
+Daß ich die Hündin dir auß deinen Zähnen rucke.
+Jedoch was sehen wir! O seltzam Ungelücke!
+Wil man uns überfall'n / und zwar in dem Pallast?
+Was macht / verwegne Schaar / dir deinen Fürst verhaßt?
+
+
+
+ARISTOBULUS IV.
+
+Wir üben nicht Gewalt / durchlauchtes Vater-Hertze;
+Ach nein! uns treibt hieher die blut'ge Todten-Kertze /
+Die auff der Mutter Sarch soll werden angezünd't:
+Wo ein'ge Vater Gunst sich nun dem Fürst verbind't /
+Wo auch die Kindheit sich darff ichtwas unterfangen /
+So laß' er Gnad' und Huld die Mutter doch erlangen!
+
+
+
+ALEXANDER III.
+
+Mein König / Fürst und Herr / beraube deinen Sohn
+Doch seiner Sonne nicht / so wird die güldne Kron'
+Jn unverrückter Lust und schönstem Wachsthum schweben.
+Laß uns die Mutter nur / ach Vater! Bey dem Leben!
+I. JUNGFER.
+Ach grosser Fürst verzeih!
+
+
+
+II.
+
+ JUNGFER.
+Verzeih!
+
+
+
+III.
+
+ JUNGFER.
+Verzeih!
+
+
+
+IV.
+
+ JUNGFER.
+Verzeih!
+
+
+
+V. JUNGFER.
+Verzeih!
+
+
+
+VI.
+
+ JUNGFER.
+Ach Fürst verzeih!
+
+
+
+ALLE JUNGFERN.
+
+Laß Mariamnen frey!
+HAUPT-MANN.
+Ach Gnad' / jhr Majestät!
+
+
+
+DIE TRABANTEN.
+Ach Gnade! Gnade! Gnade!
+
+
+ALLE
+
+zusammen.
+
+Daß doch die Fürstin nicht in eignem Blute bade!
+
+
+HERODES.
+
+Entweicht! Jhr fleht umsonst! Eur Seufftzen ist verhaßt:
+Wir sind nicht ehr vergnügt / biß Mariamn' erblaßt!
+Dem Anlauff zu entfliehn muß man die Pest außfegen /
+Sonst möcht' in Salems Burg was frembdes sich erregen.
+
+
+
+Der Schau-Platz verändert sich ins Gefängnüß.
+
+
+Mariamne. Alexandra. Aristobulus IV. Alexander III. Zwey Jüdische Priester. Das Königl. Frauen-Zimmer. Der Haupt-Mann mit den Trabanten. Der Blut-Richter / die Beil-Träger.
+
+
+
+
+ALEXANDRA.
+
+So gehts / wenn man die Gunst deß Eh-Gemahls verlacht /
+Und selbst den Blitz entzündt / der auff die Glieder kracht /
+
+
+Und uns das Hertz' abstößt! So werden stoltze Frauen /
+Wie Mariamne / stets den blut'gen Außgang schauen /
+Die weder Maß noch Ziel im Eifer halten woll'n!'
+Man hätte / Tochter / sich was besser zähmen soll'n /
+Jn dem sich Gifft durch Gifft nicht allzeit läßt verjagen.
+Du stürtzest mich und dich in ungeheure Plagen /
+Jn derer Abgrund wir nun leider sind vertiefft!
+
+
+
+MARIAMNE.
+
+Wie wird die Tugend doch in höchster Noth geprüfft!
+Was nutzt die Ungedult? Was haben wir verbrochen?
+Hat man auff unsren Hals den Blut-Spruch recht gesprochen?
+Hab' ich den Tod verwürckt? Sie meide dieses Eiß!
+Wie? Oder wil sie dann mich Sterbende mit Fleiß /
+Dem Kercker zu entgehn / beschimpften und verfluchen /
+Und / weil sie mich bestrafft / deß Fürsten Gnade suchen?
+Frau Mutter! nur umbsonst! diß Mumm-Werck dient hier nicht:
+Sie wird doch kaum entfliehn deß Mörders Blut-Gericht!
+Der eher nicht wird ruhn / biß Assamon vergessen!
+Denn er sucht Lorbern nur auß unsern Traur Zypressen.
+Laßt uns die Sterbens-Zek jtzt besser legen an:
+Man träget mit Geduld / was man nicht ändern kan!
+HAUPT-MANN.
+Durchlauchtigste Printzeß / die Stund ist nun verbanden
+Da sie der Himmel wird befreyn von irrd'schen Banden /
+Und ziehn auß diesem Joch.
+
+
+
+MARIAMNE.
+
+Nun schwindet unser Leid!
+Der Haupt-Mann habe Danck! Wir finden uns bereit!
+
+
+
+I. PRIESTER.
+O Helden grosser Geist! So muß man sich bezwingen!
+So muß man durch den Tod in jenes Leben dringen /
+Daß uns Ægyptens Nacht in Gosems Tag verkehrt /
+Und den beperlten Rock der Ewigkeit gewehrt!
+Printzessin / jhr Geschlecht zeigt jhre Tugend Sitten:
+Wird Mariamnen schon der Lebens-Drat zerschnitten /
+Bleibt Kron' und Jnfel gleich auff dieser wüsten Welt /
+So wird doch jhre Seel' in dem gestirnten Zelt
+Weit heller als die Sonn' / und Mond' / und Sternen gläntzen.
+Prahlt gleich mit Schnecken Blut und Diamantnen Kräntzen
+Der hoch-gesinnte Kreiß; So wird das Paradieß
+Mit ewig süsser Lust ersetzen Fall und Rieß.
+
+
+
+II.
+
+ PRIESTER.
+So ists / Printzeß! Geduld ist hier das beste Pflaster /
+Durch dessen Wunder-Krafft auch Zentner-schwere Laster
+Wie Asch' und Spreu vergehn: Die allergrößte Schuld
+Verkehrt in Tugend sich durch Hoffnung und Geduld /
+Wo die zwo Schwestern sich in eine Seele finden /
+Und mit deß Glaubens Licht biß in den Sarg verbinden /
+Da wird uns Welt und Grufft ein irrd'scher Himmel seyn.
+Fallt auch der Tempel gleich der ädlen Glieder ein /
+Verblaut schon Aug' / und Brust / und die Corallnen Lippen;
+Glaubt / Fürstin / glaubet fest / an rauhen Todes Klippen
+Zerscheitert kein Zaddick / den selber Adonay
+Gezeichnet in die Hand!
+
+
+
+MARIAMNE.
+
+Jch fall' euch willigst bey:
+Wir traun auff unsern GOtt / der unser rein Gewissen
+Durch ein verblühmtes Recht zwar auff der Welt läßt büssen /
+Doch seine Gnade wird (diß ist mein höchster Trost!)
+Uns wieder strahlen an! Hat sich der Fürst erboost
+Auff Mariamnens Blut durch ungerechte Rache /
+
+
+Wir fühlen keinen Zorn. Glaubt / daß uns diese Sache /
+Diß schwartze Traur-Gerüst weit angenehmer scheint /
+Als Thron und Krone war. Was ists nun / daß jhr weint?
+Daß ihr mit Thränen uns die Bahre wollt beflecken?
+Ein Laster reiner Geist laßt sich den Tod nicht schrecken.
+Sagt eurem König doch / daß er die graste Gunst
+Uns zeig' an diesem Licht / daß seine Liebes-Brunst /
+Die vor nur Schalten war / sich erst in Sonnen kehre /
+Daß er vor Gall' und Gifft uns Martzipan gewehre /
+Jn dem er Stock und Beil uns zum Geschencke schickt /
+Daß unsre Seele mehr als seine Lieb' erquickt /
+Womit er nur gequält der Mariamnen Glieder.
+Wir müssen frey gestehn / der Fürst war uns zu wider /
+Weil seine Grausamkeit so schrecklich uns verletzt /
+Und mein durchlauchst Geschlecht in tieffstes Ach versetzt:
+Denn wo man Eltern wil und Anverwandte tödten /
+Da kehrt die Liebe sich in zornige Cometen /
+Und weichet der Natur: Die Schneck' entrüstet sich /
+Das kluge Bienen Volck gibt summend Stich auff Stich /
+Jmfall man jhre Burg und Schlösser wil besteigen.
+Jedoch ich kan vor GOtt' und aller Welt bezeugen /
+(Denn solch Bekäntnüß heischt mein GOTT geweihter Stamm!)
+Daß Mariamne nie den Demant-festen Thamm
+Deß Eh-Betts überfahr'n mit geilen Liebes-Wagen.
+Mein sterbend Hertze muß diß ein'ge nur beklagen /
+Daß Joseph seinen Geist durch unsern Mund verspielt /
+Wiewol mein Eifer nicht auff seinen Tod gezielt.
+Was ferner anbetrifft deß Tyridates Flammen /
+So mag der Himmel mich in Ewigkeit verdammen /
+Wo ich mit diesem Printz mein Eh-Bett' je befleckt!
+Sein Tugend-voller Geist hat blosse Gunst erweckt /
+Jn meiner keuschen Brust: Denn Tugend muß man lieben.
+Wil mich Herodes auch nicht in der Grufft betrüben /
+Wil er / daß mein Gespenst' jhm niemals komme für /
+
+
+So end' er seinen Lauff der Grausamkeit an mir.
+Er wolle diesem Paar der Mutterlosen Waisen
+Erzeigen grössre Gütt' / als leider ich kan preisen /
+Damit der Feind auff sie nicht koche Gifft und Rach' /
+Wenn sie der Vater haßt! Ach Alexander! ach!
+Ach mein Aristobul! Jhr meines Eh-Betts Sternen!
+Seht! Eure Sonne muß sich nun von euch entfernen /
+Sie fällt ins Todten-Meer / sie geht nach Westen zu /
+Und sucht nach rauhem Sturm die unbewegte Ruh!
+Wo diese Bitte nun Herodes wil erfüllen /
+So werd' ich mich getrost ins Leich-Tuch lassen hüllen /
+Und hertzlich jhm verzeihn / was er an mir verbricht!
+Ob auch gleich Salome das strenge Blut-Gericht
+Auff meinen Hals bestellt / und sich nicht hat vergnüget /
+Daß Joseph und Hyrcan im düstern Grabe lieget /
+So sey es doch verziehn! Es lebe Salome!
+Sie leb! auff daß sie doch einst in sich selber geh!
+Wie ist mein Hertz' so leicht! Wir haben all's verziehen!
+Es richte GOtt und Welt! Jedoch eh wir verblühen /
+Und Unser Leichnam sinckt auff die beschwärtzte Bahr /
+So lasset unsern Geist zu vor beym Söhn Altar
+Abbitten unsre Schuld deß grossen GOttes Schimmer!
+Eröffnet ungesäumt das heil'ge Neben-Zimmer:
+
+
+
+Der innere Schau-Platz stellet eine Jüdische Capelle vor. Mariamne singt kniende folgendes Sterbe-Liedgen.
+
+
+
+Heiligster Schöpffer! HERR über Leib und Geist!
+Der Knecht' erhebet / und Kronen niederschmeist /
+Vernihm doch / was dir meine Seele
+Trägt vor in der geweihten Höle!
+
+
+
+Jch soll jtzt treten die rauhe Todes-Bahn:
+Schau! grosser König / schau deine Magd doch an /
+
+
+Die sich von angeerbten Sünden
+Beym Gnaden-Stuhl sucht zu entbinden!
+
+
+
+Verzeihe gnädigst! Ach JEHOVAH! verzeih!
+Denn Mariamne tragt ungefärbte Reu!
+Ach der du prüfest Hertz und Nieren /
+Weist wol / was mich zur Grufft muß führen!
+
+
+
+Jedoch ich heische hierinnen keine Rach' /
+Weil ich dir / Helffer / befehle diese Sach'!
+Laß nur / wenn nun die Geister schwinden /
+Den Weg zum Paradieß mich finden!
+
+
+
+Wolan! Es ist vollbracht! Wir sterben mit Begier!
+Es rufft Aristobul und auch Hyrcanus mir
+Jn das gelobte Land / wo Milch und Honig rinnen /
+Und Engel selber uns zum Purpur Seide spinnen.
+Auff Geist! ermuntre dich! wirff diß / was jrrdisch / weg!
+Der Himmel ist numehr mein einig liebster Zweck!
+Befreyt uns von der Last der Diamantnen Ketten /
+Die auch beym Unglücks-Sturm nicht Kronen können retten.
+Theilt euch in Perl' und Gold / und dencket stets dabey /
+Daß dieses Schau-Spiel nur Dampff / Wind und Schatten sey.
+Ade mit diesem Kuß!
+
+
+
+III.
+
+ JUNGFER.
+Ach! ist nicht mehr verhanden
+Ein kluger Daniel / der auß deß Todes Banden /
+Auß diesem Blut-Gericht Susannen reissen kan!
+V. JUNGFER.
+Wer steht uns ferner bey!
+
+
+
+II.
+
+ JUNGFER.
+Wer nimmt sich unser an!
+
+
+
+I. JUNGFER.
+Es ist umb uns geschehn!
+
+
+
+VI.
+
+ JUNGFER.
+Nun unsre Sonn' erbleichet!
+
+
+
+IV.
+
+ JUNGFER.
+Nun unsre Fürstin stirbt!
+
+
+
+MARIAMNE.
+
+Der allen Hülffe reichet /
+Der wird auch helffen euch!
+I. PRIESTER.
+Recht so / Printzessin recht!
+GOtt lasset nicht vergehn seyn außerwehlt Geschlecht /
+Das seine Thorah ehrt!
+
+
+
+MARIAMNE.
+
+Auch jhr betrübten Kinder!
+Deß Mütterlichen Geists großmächt'ge Uberwinder /
+Empfangt den Abschieds Kuß von unsrem blassen Mund!
+
+
+
+ARISTOBULUS IV.
+Ach Kuß! Der meine Brust biß auff den Tod verwundt!
+
+
+ALEXANDER III.
+Ach Kuß! Der mir erweckt ein ungewöhnlich zittern!
+
+
+ARISTOBULUS IV.
+Wer wird nun schützen uns vor künfft'gen Ungewittern!
+
+
+ALEXANDER III.
+Wo wird man fliehen hin / wenn Neid und Unglück blitzt!
+
+
+MARIAMNE.
+Zu aller Götter GOtt / der Waisen hilfft und schützt.
+
+
+
+ARISTOBULUS IV.
+
+ ALEXANDER III.
+Ach Mutter! laßt uns nicht!
+
+
+
+MARIAMNE.
+
+Der Schmertz wil sie bestreiten:
+Führt nur die Kinder weg! GOtt woll' euch stets begleiten /
+Und selbst eur Vater seyn!
+
+
+
+ARISTOBULUS IV.
+
+ ALEXANDER III.
+Nun Mutter / gute Nacht!
+
+
+
+MARIAMNE.
+
+Auch die jhr mit Gebet und Opffern stets gewacht
+Vor Mariamnens Heil / lebt in erwüntschter Wonne!
+Ade Jerusalem / deß Erden-Kreisses Sonne!
+Dein Ancker bricht entzwey! Wir ziehn in jenes Reich /
+Wo Königinnen nicht empfinden Stahl und Streich.
+Lebt schlüßlich alle wol / auch die jhr auß-solt-führen
+Deß Urtheils strengen Schluß! thut was euch wil gebühren!
+Wir küssen Block und Beil! Gehab dich Erden wol!
+
+
+
+II.
+
+ PRIESTER.
+Nun gläntzet Mariamn' in dem gestirnten Pol!
+I. PRIESTER.
+Nun hat die Königin den sichern Port gefunden!
+I. JUNGFER.
+Ach schrecklichs Trauer-Spiel!
+
+
+
+II.
+
+ JUNGFER.
+Ach grimme Seelen Wunden!
+
+
+
+III.
+
+ JUNGFER.
+Ach wein't!
+
+
+
+
+IV.
+
+ JUNGFER.
+Schlagt Brüst' und Haupt!
+V. JUNGFER.
+Ach! ach!
+
+
+
+VI.
+
+ JUNGFER.
+Ach! ach!
+
+
+
+ALLE JUNGFERN.
+
+Ach! Ach!
+I. PRIESTER.
+Reitzt nicht den grossen GOtt zu hell-entflammter Rach /
+Der auch solch Winseln strafft!
+
+
+
+II.
+
+ PRIESTER.
+Sie ist ja nicht vertorben;
+Sie ist als ein Zaddick / nicht als Raschah gestorben:
+Hier ist kein Jsop noth / der jhre Glieder wasch';
+Jhr Tohora bedarff hier keiner warmen Asch' /
+Noch umbgesprützten Blut's von einer rothen Kuhe:
+Sie speißt bey Abrah'ms Tisch' in Zucker-süsser Ruhe /
+Und lacht Eur Seufftzen auß in der gewölckten Höh!
+
+
+
+ALLE JUNGFERN.
+Ach tausendfacher Schmertz! Ach unergründtes Weh!
+
+
+Der Schau-Platz stellet vor einen Lust-Garten an der Königl. Burg.
+
+
+Arsanes. Zwey Parther.
+
+
+
+
+ARSANES.
+
+So ist / jhr Götter / nun die Schönheit selbst erblichen?
+So ist der Venus Stern auß diesem Kreiß entwichen?
+
+
+Weil Mariamnens Leib / das Wunder aller Welt /
+Durch unverdienten Streich so blutig niederfallt!
+Stirbt denn die Tugend auch? O Jammer-reiches Wesen!
+Hier kan ein Beyspiel man der höchsten Untreu lesen /
+Die geile Ehr-Suchts Glut in Weibern auch erweckt.
+Denck' ichtwas ich zurück / so wird mein Geist erschreckt!
+Denn wil man recht besehn den Ursprung dieser Flammen /
+So ist hier Salome / die Bröckin / zu verdammen.
+Man weiß / daß Tyridat deß Brüdern Grimm entflohn /
+Der mit der Brüder Blut gestiegen auff den Thron /
+Und den Orod' entleibt. Als nun in Palæstinen
+Umb mehrer Sicherheit der Parther Printz erschienen /
+Und Salems grossen Fürst umb Beystand angefleht /
+Hat jhn Herodes auch mit Sanfftmuth angeweht /
+Und wider den Phraat als Feld-Herr'n außgesendet /
+Der auch / nach dem die Schlacht mit höchstem Ruhm geendet /
+Deß Baraphernes Kopff in's Fürsten Schoß gelegt.
+Durch diese Helden-That ward stracks Herod bewegt /
+Dem Tyridates sich und alles zu vertrauen.
+Hier konte nun mein Printz die Mariamne schauen /
+Ob derer Göttligkeit er schleunig ward entzückt /
+Und in das Liebes Seil / doch mit Vernunfft / verstrickt.
+O wunderseltsam Ding der unergründten Liebe!
+Es fühlet Salome in jhrem Sinn getriebe
+Ob Tyridatens Glantz auch heisse Flammen stehn;
+Sie wil vor toller Brunst fast sterben und vergehn /
+Da doch die Furie dem Joseph war vermählet.
+Weil diese Närrin nun den rechten Zweck verfehlet /
+Und Tyridates sie nicht wie die Fürstin ehrt /
+So kocht sie Gifft und Mord. Es wird der Fürst bethört /
+Daß er durch jhre List den Joseph hin laßt richten /
+Umb Mariamnen bloß beym König zu vernichten /
+Die jhr im Wege stand ob Tyridatens Brunst.
+Jedoch als diese Glut nur zeiget Rauch und Dunst /
+
+
+So gibt die Eris vor: (ich zitter'! ich erbebe!)
+Samb an dem Tyridat ein grosses Brandmahl klebe /
+Daß Mariamne jhm durch Eh-Bruch angesetzt.
+Herodes wird alsbald auff meinen Printz verhetzt /
+Die Freundschafft bricht entzwey; Er dreut jhm grimmste Rache /
+Die jener auch gefühlt / wenn diese Mörder Sache
+Die Fürstin nicht verhütt durch klug-gefaßten Rath.
+Denn als ein starckes Gifft den ärmsten Tyridat
+Unwissend sollte fäll'n / und er den Kelch nun setzte
+An seinen Rosen Mund / der Götter selbst verletzte /
+So stieß jhm Argane den Becher auß der Hand /
+Drauff zog er heimlich fort in deß Augustus Land.
+Jedoch weil Tyridat zu Salem sich verweilet /
+Hat Mariamnens Witz die Liebe nie zertheilet /
+Noch mit unkeuschem Aug' auff meinen Printz geblitzt.
+Seht nun / wie neid'sche Brunst ein Frauen-Bild erhitzt!
+Seht nun / wie Salome durch ärgste Greuel-Thaten
+Die grosse Königin zugleich mit Tyridaten /
+Der jhre Tugend bloß und Englischen Verstand
+Mit reinster Gunst bedient / verjagt auß Welt und Land!
+Ha! grause Salome! sey hundertmal verfluchet!
+Die du den Fürst verhetzt / stets mördrisch Gifft gekochet /
+Das heil'ge Recht entweiht / den Richter-Stuhl vergüldt /
+Und aller Frauen-Cron' ins Todten-Kleid verhüllt!
+Herodes schäme dich / daß du dich so vergangen!
+Du bist nicht werth gewest / diß Kleinod zu erlangen /
+Daß dir den Lorber-Krantz auff deinen Kopff gesetzt /
+Und mit durchlauchtem Glantz Lufft / See und Welt ergetzt!
+Unschuldigste Printzeß! Wer wil dich nicht beweinen!
+Die Sonne selber traurt / und wil nicht Gülden scheinen!
+Schaut / wie das Sternen-Schloß sein Threnen-Quell entdeckt /
+Und mit entflammtem Blitz die grausen Hencker schreckt.
+Holdseeligste Printzeß! Wer wil dich nicht beklagen!
+Es wird der gantze Kreiß von deiner Tugend sagen.
+
+
+
+
+7
+Seht / wie jhr göttlich Haupt / das Milch und Blut besiegt /
+Mit lächlendem Gesicht' im reinen Silber liegt!
+Sie lacht die Mörder auß / die jhr den Sarch gezimmert!
+Seht / wie der Wangen Schnee mit viel Rubinen schimmert /
+So jhr die Purpur-Flut gesprützet auff die Haut!
+Nun ist jhr reiner Geist der Seraphinen Braut!
+Ach ärmster Tyridat! Ach! wirstu mir wol glauben /
+Daß Mariamnen dir der Wüttrich weg-liß-rauben?
+Ach ärmster Tyridat / ich furcht; Jhr schneller Tod
+Wird auch der deine seyn! O Felsen-schwere Noth!
+Auff! laßt uns ziehen weg auß diesen Mörder-Gruben /
+Wo weder Gunst noch Treu! Wo nur verwehnte Buben
+Mit Kron' und Jnfeln spiel'n! Denn bey der Laster Hauff
+Wird Tugend auch bestrafft: Drumb auff! wir fliehen! auff!
+
+
+
+Der Schau-Platz verwandelt sich ins Königes Gemach.
+
+
+Herodes. Der Geist Mariamnes, Aristobuli III. Hyrcani und Josephi.
+
+
+
+
+HERODES.
+
+Jst Mariamne tod? Und wird sind noch auff Erden?
+Jst Mariamne tod? Soll ich nun einsam werden?
+Jst Mariamne tod? Ach leider es ist wahr!
+Die Göttin liegt entseelt auff unsrem Mord-Altar!
+Seyd tausendmal verflucht / die Jhr den Rath ertheilet!
+Ach wo ist nun ein Artzt / der unsre Wunden heilet /
+Der unser schmachtend Hertz mit Pflastern decket zu!
+Wir jrren als ein Schein: Wir haben keine Ruh!
+Jst keine Salbe mehr in Gilead zu finden!
+
+
+Es wil uns fast Verstand und Muth und Geist verschwinden.
+Ach! Fürstin! Ach! geschehn! Ach Mariamne! ach!
+Ach! Mein' Abigail! Auff! fodre Straff' und Rach'!
+Auff! fodre Straff' und Rach'! Wir haben dich betrübet!
+Betrübt zwar / aber auch dich / Schönste / stets geliebet!
+Fließt Threnen! fließt! Ach fließt! die Rach' und Lieb' erweckt!
+Jedoch durch diese wird die Unthat nicht bedeckt!
+Eilt! bringt den Hencker umb / der jhr den Hals zerschnitten!
+Ach aber! Wer ist schuld an dem so strengen Wütten!
+Wer hat mein Paradieß verkehrt in Grauß und Stein?
+Wer hat mein Licht verlescht? Jch leider nur allein!
+Jch leider nur allein! jch ich bin abzustraffen!
+Es fiel der tapffre Saul durch eigne Wehr und Waffen:
+Wol! laßt auch Dolch und Stahl uns reissen auß der Noth /
+Die dreymal arger ist als der geschwinde Tod!
+Jedoch was rasen wir? was haben wir verbrochen?
+Uns hat kein Richter ja das Leben abgesprochen!
+Ach Richters gnug! Ach! ach! der Himmel selbst klagt an /
+Was ich am Assamon verübet und gethan!
+Wie wird mir! lebt sie nicht? Ja ja! die Fürstin lebet!
+Schaut / wir jhr reiner Geist umb unsre Glieder schwebet!
+Wie Perlen und Rubin jhr Güldnes Haar bekräntzt!
+Wie jhr Schnee-weisses Kleid mit Diamanten gläntzt!
+Hier steht ja Mariamn'I auff Diener! tragt zur Taffel!
+Setzt Speis' und Trachten auff: Wir sind nun auff der Staffel
+Der höchsten Seligkeit! Printzeß / sie setze sich!
+Sie reich' uns jhre Faust! Welch Nebel decket mich!
+Jst Mariamne fort! Wie? sehn wir nichts als Schatten?
+Ach leider! welche Furcht wil sich mit mir begatten!
+Die Glieder starren mir! Es bricht der Angstschweiß auß!
+Es klopfft die matte Brust! Jch wat' in Asch' und Grauß!
+Wer zielt nach unsrem Kopff mit Donner-schwangrem Blitzen?
+Wer dreut mit Ketten uns? Wer wil die Schwerdter spitzen?
+
+
+Welch Teuffel schreit uns zu das Jammervolle Weh?
+Der Abgrund selber brüllt! Jch zittert ich vergeh!
+Ach GOtt! was sehen wir! die grimme Marianne?
+Gerüst mit Feur und Stahl? Prinzessin! ach verbanne
+Die Zorn-Glut doch von uns! Prinzessin! ach verzeih!
+Verzeih was wir verübt! Und lebe mehr als frey!
+Wie? Wil Aristobul auch Gruft und Bahre lassen?
+Wil uns sein Schattenbild mit Ach und Quahl umfassen?
+Wie? Wird Hyrcanus auch von seiner Ruh bewegt /
+Weil sein verschrumpffter Arm so Strick als Fackel trägt?
+Ach Schmertz! kan Joseph auch nicht in dem Grabe bleiben?
+Wil er das blancke Beil auff unsre Glieder treiben?
+Seyd / Geister / doch versöhnt! Schlaft / schlaft in eurer Ruh /
+So lange Tod und Zeit euch drückt die Sternen zu!
+Wie Geister? Wil man uns den freyen Außgang wehren?
+Wo wird sich doch der Fürst! der Fürst! der Fürst hinkehren!
+O Höllen-bittre Pein! Tragt / Geister / doch Geduld!
+Jch habe nicht allein' an eurem Tode schuld!
+
+
+
+MARIAMNES GEIST.
+
+Ja freylich trägstu Schuld / Blut-dürst'ger Ubelthäter /
+Tyranne sonder gleich / deß Eh-Gemahls verräther /
+An Mariamnens Tod / die du mit List gefällt;
+Und jhr nicht nur den Leib / auch Ehr' und Ruhm zerschellt!
+Wie seelig ist der Geist / dem's Kleinod dieser Erden /
+Der Menschen bester Schatz / durch den wir Göttlich werden /
+Der Nachklang guten Ruhm's nicht wird im Sarch geraubt!
+Brecht Wolcken! blitzt und kracht auff dieses Mörders Haupt!
+Verblühme wie du wilt das Mord-Beil unsrer Glieder;
+Bau Thürm' auff unser Grab; stimm' an die Todten Lieder;
+Doch hilfft / du Crocodil / dich nichts diß falsche Leid:
+Dir wird Gewissens-Angst und Schimpff und Spot bereit!
+
+
+
+
+8
+Schau / wie ob meinem Mord selbst Tyridat erblasset /
+
+
+Der dich / du Tygerthier / mit höchster Gunst umbfasset /
+Und meine Tugend nur / das Eh-Bett nie / geliebt!
+Schau / wie der keusche Printz den edlen Geist auffgiebt!
+Doch dis ist nicht genug!
+
+
+9
+ durch deine Raasereyen
+Muß Alexandra auch die müde Seel' außspeyen /
+Und durch das grimme Beil der Tochter folgen nach!
+Gantz Palæstina selbst fühlt GOttes schwere Rach'
+Der ob unschuld'gem Blut sich über dich entrüstet /
+
+
+10
+
+
+Und dir durch grause Pest so Stad als Land verwüstet.
+Kanstu die Leichen auch begreiffen mit der Zahl?
+
+
+
+ALLE GEISTER.
+So wird die Tyranney belohnt mit Ach und Kwahl!
+
+
+ARISTOBULI GEIST.
+
+Erbooster Henckers-Knecht / vermaledeiter Schwager /
+Deß Aßmonæschen Stamms höchst-ungerechter Plager /
+Du gifft'ger Erden-Wurm und Seuche dieser Zeit /
+Welch Ubel hastu nicht auff meinen Kopff gestreut!
+Du hast die Jnfel mir von Hals und Brust gerissen /
+Und in die sanffte Flut verräthrisch mich geschmissen /
+Nachdem Jerusalem das Urim Thummim mir
+Freywillig überließ. O grimme Mord-Begier!
+Und ob du gleich mein Grab bedient mit viel Zypressen /
+So hat Aristobul doch deiner nicht vergessen;
+Sein höchst-beschimpffter Leib hat auch im Sarch nicht Ruh /
+Weil du dem heil'gen Recht die Augen drucktest zu /
+Und dich beym Marck-Anton mit Silber außgesöhnet /
+Dadurch mein Tod-Schlag ward vor aller Welt beschönet.
+Schaut mir der Juden-Printz / den fromen König an /
+Der sich durch falschen Schein so heilig stellen kan!
+Jedoch!
+
+
+11
+ was sieht mein Geist vor schwartzes Ungewitter!
+
+
+Der Printzen zartes Paar / (ich beb'! ich starr'! ich zitter'!)
+Dein Kind Aristobul und Alexander hat
+Den Strick umb seinen Hals! Ach teuffelische That!
+Ob der sich die Natur selbst weinend muß entröthen!
+Wilstu dein Fleisch und Blut / du Raben-Vater / tödten /
+Und zwar durchs Henckers Hand? So ists! wer einmal sich
+Zur Raaserey gewehnt / gibt ferner Stich auff Stich /
+Und achtet weder GOtt / noch die geweihten Rechte!
+
+
+
+ALLE GEISTER.
+Ach Höchster! stürtze doch Jdumens Mord-Geschlechte!
+
+
+HYRCANI GEIST.
+
+Er wird es stürtzen / ja! So wahr mein Geist sich regt!
+Denn stoltzes Morden wird in gröster Pracht erlegt.
+Armseeligster Hyrcan! Was hastu nicht erlitten /
+Eh dir diß strenge Seil das Lebens-Garn zerschnitten!
+War dis die Danckbarkeit / so mir der Hund erzeigt?
+Vor den geschenckten Thron ward ich ins Grab geneigt /
+Daß mir Antipater und Pheroras gebauet.
+Jedoch / wie wird die Rach' an diesem Paar geschauet!
+Durch dessen Heucheley Altar und Kirch' entweiht,
+
+
+12
+
+
+Seht / wie dem Pheroras das traur'ge Sterbe-Kleid
+Jm Gifft-Glas wird gereicht: Wie seine Glieder schwellen /
+Und voller Flecken sind. O Vorschmack bittrer Höllen!
+Auch selbst Antipater entlaufft der Straffe nicht /
+Weil er auffs Vätern Wort im Kercker wird gericht
+Durch den verdammten Strick.
+
+
+13
+ Seht / wie der Bube leidet /
+Der Assamons Geschlecht hoffärtig stets geneidet /
+Und Mariamnen selbst in Sarch und Grufft gestürtzt!
+
+
+
+ALLE GEISTER.
+So wird den Frevlern stets jhr Lebens-Ziel verkürtzt!
+
+
+
+JOSEPHI GEIST.
+
+Ergrimmter Leopard / du Scheu-Sall dieser Erden /
+Soll Palæstina denn zur Schlangen-Höle werden?
+Soll Sions werthe Stadt durch dich / du Hund / vergehn?
+Und weil du raast und tobst / in Zwitrachts-Flammen stehn?
+Nein Wüttrich! Nein! Zu viel! das Unkraut muß verschwinden /
+Und die verdiente Pein in Babels Ofen finden.
+So wird der Richter auch dich zu der Straffe Ziehn.
+Du sihst den Bruder zwar / und Freind' und Kind verblühn;
+Jedoch dein Raasen wird dis Traur-Spiel erst beschlüssen /
+Und vor in dieser Welt / dann auch in jener büssen!
+Bestürtzte Sterblichen! Eröffnet Aug' und Geist!
+
+
+14
+
+
+Seht / wie der grosse GOtt Tyrannen niederschmeißt /
+Die auß verwegnem Trotz den Himmel selbst außfodern!
+Seht / wie Herodes muß auff eignem Mist vermodern /
+Wie man die Nase stopfft vor seiner Kranckheit zu /
+Wie jhm ein Messer soll gewehren Fried und Ruh /
+Weil er zwar stündlich stirbt / doch niemals kan ersterben!
+
+
+
+ALLE GEISTER.
+So muß die Tyranney durch langen Tod verterben!
+
+
+MARIAMNES
+
+geist.
+
+Wie unerforschlich ist doch / Höchster / dein Gericht!
+
+
+ARISTOBULI
+
+geist.
+
+Das Unschuld mächtig schützt / und Boßheit niedersticht!
+
+
+HYRCANI
+
+geist.
+
+Das uns zwar leiden läßt / doch auch mit Wonne krönet!
+
+
+MARIAMNES
+
+geist.
+
+Die alle Liebligkeit der ekeln Welt verhönet!
+
+
+
+ARISTOBULI
+
+geist.
+
+Und Lorbern uns gewehrt / die Blitz und Keil verschont!
+
+
+HYRCANI
+
+geist.
+
+So wird der Wütterich mit Ach und Weh belohnt!
+
+
+JOSEPHI
+
+geist.
+
+
+Ach ja!
+
+
+15
+ Er schwitzet schon in der entflammten Hölle!
+Seht / wie die Teuffel jhm bereiten Ort und Stelle /
+Wie sie den Schwefel-Tranck einflössen seinem Mund /
+Wie er nach Labsall seufftzt in dem erhitzten Schlund!
+Recht so / jhr Geister / recht! peitscht / martert / reißt und plaget!
+Es werd' jhm Abrahams gewünschter Trost versaget /
+Weil er Lufft / See und Welt zu Rach' und Zorn bewegt!
+Schaut / wie der lichte Blitz selbst nach dem Mörder schlägt!
+
+
+
+ALLE GEISTER.
+
+»So werden / Sterbliche / gequählet 
+die Tyrannen /
+
+Wenn sie auß Seel' und Reich die 
+ädle Tugend bannen!«
+
+
+Reyen
+
+Darinnen Palæstina / Die Tyranney / Der Unglauben / Zwietracht / Hunger / Pest / und König Salomons Geist.
+
+
+
+
+PALÆSTINA.
+
+Ach! Ach! Ach!
+Wie henckert mich die hell-entbrandte Rach'!
+Soll Palæstina nun ins Todten-Meer versincken?
+
+
+Jm eignen Blut ertrincken?
+Wer war ich wol vor dieser Zeit?
+Ein Land / da Milch und Honig stets geflossen /
+Ein Land / das selbst den Höchsten hat umbschlossen;
+Ein Bild der Ewigkeit.
+Ach aber! Ach! Jtzt werd' ich gantz verhönet!
+Entzeptert und entthronet!
+Nimmt niemand sich umb meine Noth mehr an?
+Gerechter Himmel hör'! Ach höre doch mein Klagen!
+Weil ich ja kaum noch athmen kan;
+Und rette mich von den ergrimmten Plagen!
+
+
+
+TYRANNEY.
+
+Sweig! deß Winßelns ist zu viel!
+Dieses ist nur Kinder-Spiel /
+Und ein Vorschmack größ'rer Nöthen.
+Wen das Glücke stets bescheint /
+Dem ist's seltzam / wenn er weint /
+Und vor Sonnen sieht Cometen.
+
+
+
+Auff jhr Schwestern! Kommt herbey!
+Paart euch mit der Tyranney!
+Seyd nicht schläffrig mir zu dienen!
+Hunger / Zwietracht / Pest / und Streit /
+Die jhr herrschet weit und breit /
+Kommt / und martert Palæstinen!
+
+
+
+UNGLAUBEN.
+
+ ZWIETRACHT. HUNGER UND PEST.
+Wir stellen uns / O Schwester / willig dar /
+Zurichten auff ein süsses Mord-Altar.
+
+
+
+UNGLAUBEN.
+
+Jch lege dir den ersten Grabe-Stein /
+Mein Eiffer wird auff dich das erste Richt-Beil schärffen /
+Wenn du den Tempel wirst entweihn /
+Und in verblendtem Wahn deß Höchsten 
+Sohn verwerffen.
+
+
+
+
+ZWIETRACHT.
+
+Mein Schlangen-Haar wird deine Geissel seyn;
+Denn wo Religion mein gifftig Opffer liebet /
+Da gehet Kron' / und Stab / und Jnfel ein /
+Ja selbst der Himmel wird durch meinen Blitz betrübet.
+
+
+
+HUNGER.
+
+Mein Schatten-Bild mahlt ab dein Konterfey /
+Wenn dich Vespasian bis auff das Marck wird nagen /
+Und Kinder-Fleisch (O grause Henckerey!)
+Die Mutter fressen wird mit unergründten Plagen.
+
+
+
+PEST.
+
+Wo Hunger wohnt / da herrschet auch die Pest:
+Zypressen wirstu sehn statt hochgesinnter Tittel /
+Die Todten-Lufft vor's glückes sanfften West /
+Vor's güldne Purpur-Kleid den blassen Sterbe-Kittel.
+
+
+
+ALLE VIERE.
+
+So muß man das stoltze Jerusalem quälen /
+Dem sündliche Laster sich stündlich vermählen!
+
+
+
+PALÆSTINA.
+
+Ach Schmertz! Ach Pein! Ach strenge Tyranney!
+Ach! Jch vergeh! Ach Himmel steh mir bey!
+
+
+
+KÖNIG SALOMONS GEIST.
+
+Besänfftige / O Tochter / deine Schmertzen /
+Die mich gelockt auß meinem düstern Grab!
+Auff! wische dir die reichen Threnen ab!
+Versichre dich / dein Leid geht mir zu Hertzen!
+Doch schau auff den / der in der weiten Welt
+Die Majestät der Länder schützt und fällt.
+
+
+
+Wahr ist's: Dich wird deß Titus Grimm vertilgen /
+Drauff Adrian durch Götzendienst verführ'n;
+
+
+Heraclius beym Omar dich verliehr'n /
+Bis Bullion dich krönt mit Wolfahrts-Lilgen:
+Doch Saladin bricht diese Blum' entzwey
+Durch Gwidons Schuld / Raimunds Verrätherey.
+
+
+
+Dann wirstu stehn in Sarazen'schen Banden /
+So lang' es das Verhängnüß haben wil:
+Allein es wird sich ändern dieses Spiel;
+Dein Heiland ist in Oesterreich vorhanden /
+Dein Salomon / dem GOtt und Welt ist hold /
+
+Der Christen Schutz / der Grosse LEOPOLD!
+
+
+
+
+
+
+
+16
+Schau / wie allhier sein Göttlich 
+Bildnüß gläntzet!
+Wie Muth und Witz auß seinen Augen spielt!
+Schau / diesen hat der Himmel dir erzielt!
+Der ist es / der mit Lorbern dich bekräntzet;
+Der dich entreißt dem grimmen Sarazen /
+Und künfftig wird biß an den Pol erhöhn!
+
+
+
+PALÆSTINA.
+
+O süsser Trost! Nun wil ich willigst leiden /
+Weil GOttes Schluß solch Glücke mir bescheiden!
+
+
+
+PALÆSTINA.
+
+ SALOMON.
+
+Es lebe LEOPOLD, deß 
+Erden-Kreisses Zier!
+
+
+Es lebe LEOPOLD, Er siege für und 
+für!
+
+
+
+
+
+
+Fußnoten
+
+
+
+1
+Pheroras und Antipater hören zu / biß sie sich in folgender Abwechselung im Vorübergehen zeigen.
+
+
+
+
+
+2
+Sechs Eitelkeiten erscheinen auffs herrlichste bekleidet.
+
+
+
+
+
+3
+Sechs Todte treten auff mit benennten Werckzeugen nebst Pfeil und Bogen.
+
+
+
+
+
+4
+Sie setzet dem Tode einen Lorber-Krantz auff /und gibet jhm in die Hand eine blaue Fahne / auff welcher ein güldner Hut gemahlet / nebst dieser Beyschrifft: LIBERTAS.
+
+
+
+
+
+5
+Salome gibt dem Mund-Schencken eine Hand-voll Geld.
+
+
+
+
+
+6
+Jm Verborgenen werden in ein darzu gespieltes Pfeiff-Werck von zwey Discantisten folgende Worte zierlich gesungen:
+
+
+Heilig! Heilig! Heilig! Jst der 
+HERR Zebaoth!
+
+
+Alle Lande sind seiner Ehren voll!
+
+
+
+
+
+7
+Der innere Schau-Platz stellet der Königin Haupt in einer Schüssel auff dem Tische nebst den weinen 
+den Statts-Jungfern vor.
+
+
+
+
+
+8
+Die 1. Vorstellung.
+
+
+
+
+
+9
+Die 2. Vorstellung.
+
+
+
+
+
+10
+Die 3. Vorstellung.
+
+
+
+
+
+11
+Die 4. Vorstellung.
+
+
+
+
+
+12
+Die 5. Vorstellung.
+
+
+
+
+
+13
+Die 6. Vorstellung.
+
+
+
+
+
+14
+Die 7. Vorstellung.
+
+
+
+
+
+15
+Die 8. Vorstellung.
+
+
+
+
+
+16
+Der innere Schau-Platz stellet in einem hell-leuchtenden Himmel vor das Bildnüß Unsers Aller-Gnädigsten LEOPOLDI, welchem Palæstina und Salomon demüthigste Ehr-Erbietung bezeigen.
+
+
+
+
+
+
+

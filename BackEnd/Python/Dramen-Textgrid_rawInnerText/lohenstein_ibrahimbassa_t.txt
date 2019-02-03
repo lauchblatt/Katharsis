@@ -1,0 +1,4956 @@
+
+
+
+
+Ibrahim
+
+
+hdl:11858/00-1734-0000-0004-1D68-7textgrid:s4jp.0
+ Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). 
+
+Lizenzvertrag
+
+
+ Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache 
+
+
+Hinweise zur Lizenz und zur Digitalen Bibliothek
+
+
+
+
+
+                              Entstanden 1649–1650, später unter dem Titel »Ibrahim Bassa«. Erstdruck: Leipzig (gedruckt von Johann Wittigau), 1653. Uraufführung während des Karnevals 1650, Breslau. Hier in der ersten Fassung von 1653.
+                           
+
+
+
+
+Daniel Casper von Lohenstein: Türkische Trauerspiele. Herausgegeben von Klaus Günther Just, Stuttgart: Hiersemann Verlag, 1953.
+Lohenstein, Daniel Casper von
+
+12-
+
+
+Stuttgart
+
+
+
+
+
+
+
+
+
+
+drama
+
+
+
+
+
+
+
+
+Daniel Casper von Lohenstein
+A.Z.
+Ibrahim
+Trauer-Spiel
+
+
+
+
+
+
+
+[Widmung]
+
+
+
+
+[Widmung]
+
+
+Denen Hoch- und Wol-Gebohrnen
+
+Herren / Herren
+
+Carl Henrich
+
+und
+
+Primislaus /
+
+Freiherren von Zirotin / von und auff
+
+Olbersdorff / Wisenberg / Schön Johnsdorff /
+
+Groß-Wilkaw und Vogel-gesang / meinen gnädigsten
+
+Herren
+
+übersendet solches
+Daniel Caspar von Nimptsch
+aus Schlesien.
+
+
+
+
+
+
+[Vorrede]
+
+
+
+
+
+
+Gros-günstiger Läser.
+Wenn Ich dir in diesem nunmehr frembden Vrtheil unterworffenem Ibrahim ein gelehrtes Werck fürställete / würde Ich zu besorgen haben / die neidische Miß-gunst würde so wenig als sonst jhren gifftgefülleten Zahn von Ihm abhalten. Weil aber der Neid nur dem was ruhms-würdig als wie der Schatten dem Lichte nachfolget / hoffe Ich diese meine nidrige Stauden wärden sich keines Donners zu befahren haben. Gleich wol aber wie das Wasser aus dem Macedonischen Flusse Lyncestis eben als der Wein truncken macht; Also wärden manche Neidharte auch von solchen Sachen die wenigern Ruhm verdihnen / aufgeblehet / daß selbige ihrem spitzigen Auslachen und klügelndem Tadeln nicht entrinnen können. Damit nun auch dises mein geringes Trauer-Gedichte / von dem spitzfinnigen durchzihen des scharfsichtigen Momus möchte verschonet bleiben; Wenn dir etwan dise frühe Früchte / wegen zu unahrtiger Erfindungen und nicht gar zu reiner Aus-Rede / all zu sauer schmäkketen / wirstu von Mir dihnstschuldigst ersuchet / du wollest Sie mit der Sonne deines linden Vrtheils etwas besser durchwürken und reiffer machen.
+Was in Deutscher Sprache dise Ahrt zu schreiben belanget / wird der gelehrte Läser leicht abnähmen /daß Ich Mir in einem und dem andern einen fürtrefflichen Lands-Mann zu einem Weg-Weiser zu haben Mich nicht geschämet / der hierinnen die Bahn gebrochen / und dässen unterschidene Trauer-Spile Mir nicht alleine unter die Hände sondern auch auf den Schau-Platz kommen. Welchen Ich hiermit samt noch vielen geitzigen Libhabern unserer Mutter-Sprache aufzumuntern gedänke / daß Er die / wie man weis /theils schon verfärtigte / theils noch unter händen wachsende Schrifften der begihrigen Welt nicht länger wolle Mißgönnen. Die Trauer-Geschichte von dem Weltberühmten Ibrahim wird von unterschiedenen /welche sich der Sachen im Außgange erkundiget /aber mit unterschiedenen umbständen und ungleichem Außgange beschrieben.
+Ich / wie wol Ich Mich allenthalben an die ausführliche Beschreibung 
+Philip Zesens in seinem aus dem Frantzösischen übersätzten Ibrahim gehalten / hab Ich doch nothwändig mit den meisten Geschicht-Schreibern in dem von seiner Meinung abschreiten müssen /wenn dise / daß Er nicht / Er aber / daß Er unerwürget davon kommen / berichten.
+Das Ich aber dise frühzeitige Frülings-Frucht für dem reiffenden Herbste ans Licht gegäben / wirstu Mich disfalls / weil Sie mehr etliche gutte Freunde /als meine eigene Vermässenheit heraus gelokket /desto eher entschuldigen. Wie die ausschlagenden Bäume erstlich die Blätter / die Knospen und die Blüthe / darnach erst die volkommenen Früchte tragen /also wächset in fortpflantzung der Weißheit auch eines nach dem andern. In mittels bleibe Mir ferner bewogen.
+Leibzig den 1. Mey des 1653. Jahrs.
+Dein
+D.C.
+
+
+
+
+
+
+Inhalt
+
+
+
+
+Innhalt.
+Ibrahim ein Wälscher Fürst / welchen Soliman wegen tapferer Thaten aus einem Leibeigenen zum grossen Visihre gemacht / wird aus der Flucht nach Genua /durch welche Er seine Libste zu retten dachte / in die sich in währendem Aussen-Sein des Ibrahims in Persen Soliman verliebet / nach Constantinopel gefangen bracht / und auf Ohrenbläserisch Anstiften der Keiserin und des Rusthans / jämmerlich erwürget.
+Der Schau-Platz ist zu Konstantinopel die Burg zu den sieben Thürmen. Daß Trauer-Spiel begünnet des Morgens / endet sich umb Mitter-Nacht.
+
+
+
+
+
+
+An den Verfertiger des Trauer-Spiels
+
+
+
+
+An den Verfertiger des Trauer-Spiels.
+Opitz weis dir grossen dank / unser Flemming lobt dein Wesen /
+Tscherning wil Ihm allbereit einen schönen Tag erlesen
+
+Nur ein Wort mit dir zu sprächen / umb daß du bemühet bist /
+Vnser Deutschen Mutter Reden und was zihrlich an Ihr ist
+Vnermüdet fortzupflantzen. Clio windt die edlen Myrten
+Vnd Mich däucht Ich sehe schon dein Gehirntes Haupt umbgürten
+Mit den grünen Lorber-Zweigen: der Apollo heist dich Sohn
+Vnd begehret dich zu sähen neben sich auf seinem Thron /
+Auf daß du / was unter dir kanst ergrimt zu Bodem treten.
+Ibrahim erhebt dich hoch: aber Bruder sei gebethen
+Laß die Ader nicht vertrocknen welche Febus dir verehrt /
+Laß Sie immer höher springen / weil Sie deinen Ruhm vermehrt.
+
+Melchior Fribe.
+
+Dein hoch entbrandter Geist / der schwingt sich Himmel an
+Vom Erden-Klumpen weg / und trit die rechte Bahn
+Dem grossen Opitz nach. Dis Weißheit-volle schreiben
+Wird künftig deinen Ruhm der Nach-Welt einverleiben
+Vnd diser Ibrahim den durch der Feder Macht
+Aus der Vergässungs-Gruft du hast ans Licht gebracht
+Wird dich zu keiner Zeit im minsten lassen stärben /
+Er wird dir schon den Preis und Lorber-Krantz erwärben.
+
+S.S.S.E.F.
+Christian Vincens /
+
+
+
+LL.
+
+
+ St.
+
+
+
+Indem du werther Freund / den Ibrahim dem Leben /
+Aus der verfaulten Asch und stäubichtem Gebein /
+Die von der Jahre Zahn längst aufgefressen sein /
+Durch dis dein Traur-Gedicht jetzt wider suchst zu geben:
+Stifftstu ein Leben dir / das nicht die Zeit wird fressen /
+Das nicht die Todten-Gruft mit dir vergraben kan /
+Das aus dem irdschen dich schreibt bei die Sternen an /
+Vnd das in deinem Tod auch dein nicht läst vergessen.
+
+
+H.V.B.S.
+Henrich Haupt /
+
+Theol. Stud.
+
+
+
+
+
+
+
+
+
+
+Personen
+
+
+
+
+
+
+
+Spielende Personen.
+
+Soliman. Türckischer Kayser.
+
+Roxolane. Seine Gemahlin.
+
+Ibrahim. Türckischer Groß-Visier.
+
+Isabelle. Dessen Gemahlin eine Fürstin von Monaco.
+
+
+
+Rusthan.
+Achmat. , Zwey Bassen.
+
+Hali Bassa über das Meer und Schiffs-Flotte.
+
+Mufti. Obrister Priester bey den Türcken.
+
+Mustaphens Gespenst.
+
+Asien.
+
+Die gefangenen Christen.
+
+Reyen der Vernunft / der Begierde / und des Menschen.
+
+Reyen der Sarazenischen Pfaffen.
+
+Reyen der Sinnen und des Schlafs.
+
+Reyen der Sänger.
+
+Etliche Bassen.
+
+Die Janitscharen.
+
+Die Hencker und Stummen.
+
+
+
+
+
+
+
+
+
+[Prolog]
+
+
+
+
+[Prolog]
+
+
+
+Asien wird in gestalt einer Frauen von den Lastern angefässelt auf den Schau-Platz gestället.
+
+
+Weh weh! Mir Asien / ach! weh!
+Weh mir! ach wo Ich Mich vermaledeien
+Wo Ich bei diser Schwermuths-See
+Bei so vil Ach selbst mein bethränt Gesicht verspeien;
+Wo ich Mich selbst mit höuln und Zetter-Rüffen
+Durch strängen Vrtheils-Spruch verdammen kan!
+So nim dis lächtsend Ach / bestürtzter Abgrund an!
+Bestürtzter Abgrund! o die Glider triffen
+Vol Angstschweis! ach des Achs! der lawe Brunn der dürren Adern schwällt
+Den Jäscht der Purper-flut! mein Blut-schaum schreibt mein Elend in den Sand!
+Entthrönte Königin! entzepterte Beherscherin der Welt!
+Gestürtztes Asien! aus Ichts in Nichts und Staub verstobens Land!
+Ja wol aus Jchts / als mein gekröntes Haupt
+Ein Haupt so viel gekrönter Häupter war;
+Als ich noch mit Sigs-Palmen war belaubt
+Vnd aller Welt gesätze reichte dar;
+Als noch gesänkt zu disen Füffen
+Europens Haupt und Afrika mein Zepter musten küssen:
+
+
+Als mein Geboth wie Stahl und Glut durch-drang
+Vnd Länder zwang.
+Ach! aber ach! so hoch als ich beim Tugend-Gipffel
+In Goldgestickten Kleidern stand /
+So tief hat sich das Spil verwand
+So starb mein Ruhm! so schlägt die Zeit die grünen Wipfel
+Von den bejahrten Zedern ab.
+Man schmükt mir ia noch wol mit diesem Purper-Rokke
+Mit Inseln / Königs-Krantz und -Stab
+Hals / Achseln / Hand / und Haupt; wo man mit solchem Schmukke
+Mich nicht nur spötlich schminckt und äffet und geheiht.
+Doch auch gesätzt / daß dis beschönungs-Kleid
+Mich nicht beschimpft:
+So trag ichs doch nur zu Vermummung meiner flekke /
+Zur brand- und schand-mals schminkk / und meiner schalkheit Däkke /
+Wiwol Ich weis / daß man die Nase rimpft
+Vnd Mäuler auf Mich flennet /
+Ich weis nicht wie? wol nennet.
+Vmb prächtgen Schmuck der aussen gleist und schimmert
+Daß der Sere von den Wipffeln seidne Wolle drüselt ab /
+Daß der Tirer Schnekken-Farbe / Gangens Schaum-schwolst Perlen hab;
+Der Inde Gold; des bin ich nicht bekümmert.
+Wird wer den aussen-Glantz beim innern Glider-Koth besähen /
+Der wird mich viel verächtlicher noch schmähen.
+Mich schmertzts / und Ich beschmertz es auch mit disem bangen Säufzer-galme
+Wenn Ich mich wie aus einem träum und kwalme
+Auf Mich / als Ich noch in der blüthe war / besinn,
+War Ich nicht Asien /die gröst und ältst und schönste meiner Schwestern?
+Hat Neid und Geiffer-Sucht Mich für der Themis Richtstuhl können lästern?
+Der Menschen Ahn-Herr hilt mich erblich inn'.
+Hat alles All / den Ost und West / und Sud und Nord nicht schlissen
+Mich selbst nicht oft mit seinem Glantz erfüllt
+
+
+Vnd sich selbst-ständig in mich ein verhüllt?
+Luft Himmel / Erde Meer / Glut / Felder / Wälder / Klippen wissen
+Mit stummer Zunge noch zu sprächen /
+Das sie gesähn die Sonne stehn /
+Gewölkte Feuer-Säulen gehn
+Die Felsen bersten Klippen brächen /
+Den Regen Brodt / die Wellen Mauern werden.
+Weh! weh / mir Asien / ach weh!
+Stund imand auf dem Schau-Saal diser Erden
+So hoch gepflantzt zur Ehren-höh?
+Mein Mund hat Kirch und Volk den Gottes-Dinst gelehrt /
+Die Welt hat unsern Arm als Kronen-Herrn verehrt.
+Das zwölf-bekrönte Haupt / des Halfes Alabaster
+Pflügt unter Gog und Magogs Joch.
+Der freie Nakken ist verkoppelt an die Laster
+Für den ich kaum nur athme noch.
+Der Zepter und die Hand die vor nichts Mördrisches mißhandelt
+Hat Ach Mir in Metall und in Blut-dürftig Ertzt verwandelt.
+Das dürre Hertze schwimt in Flamm und Glutt /
+Der Glider Ketten schwirn / die stählernen gelänkk erschüttern /
+Der steinern-schwere Fus trit und zerknikt durch sein erbittern /
+Die treuge Zunge lekt gelifert Blut
+Die welke Seuge-Brust
+An die des Schöpfers Sohn der Schöpffer angehangen /
+Gibt Hunger / Krig' und Pest als Egeln / Molch und Schlangen
+Vergifte Lebe-Kost.
+Geitz / Mord-lust / Geld-durst / Haß und was der Abgrund zeuget
+Wird alls an Mir gesäuget.
+Fragt Sterbliche / nach Kind- und Eiter-Mördern
+Und die durch Dolch und Gifft und Strang und schwerd /
+Der Freunde Rei und Brüder schaar begehrt
+Ins Bein-Haus für bestimter Zeit zu fördern.
+Fragt / Fürsten fraget nach / nach denen die die Klawn
+Umb Lust zu herschen durch des Herschers Brust gehaun.
+
+
+Ach! tausend Würme wol die sich also beflekket
+Hat meine Schos gehökket.
+Ha Bluthund! Bluthund ha! unmenschlichs Mensch! verzweifelter Tyrann
+Durch-teuffeltes Gemüth / Ertzt-Mörder Soliman!
+Ertz-Mörder! Ach hab Ich
+Dich Tigerthier dich Wurm mit meiner Milch gesogen
+Hab Ich dich Drache Mich zu fressen aufferzogen
+Dich Kinder-Mörder dich!
+Was stifftestu? du Grewel dieser Zeit
+Auf Ibrahims gerechten Kopff für Leid!
+Blitzet ach! blitzet ach! Wolkken und machet von den umbfäßelnden Lastern mich loß!
+Donner ach! Donner! zerschlag und zersplitter ides in einen zerdrümerten Klos.
+
+
+
+
+
+
+1. Akt
+
+
+
+
+Die erste Abhandlung.
+
+Der Schaw-Platz bildet ab das Keiserliche Geheime Zimmer des Solimanns.
+
+
+Soliman. Achmath. Hali Bassa über das Meer.
+
+
+
+SOLIMAN.
+Ist kein Verfolgungs-Schiff noch nicht zurükke kommen?
+
+
+HALI.
+Man hat das minste noch mein Keiser nicht vernommen.
+
+
+SOLIMAN.
+War Rusthans Schiff-Armee zur See besegelt wol?
+
+
+HALI.
+Vol Volk vol Zeug / wie man in solchen fällen sol.
+
+
+SOLIMAN.
+Sätzt jhm kein Nachdruk nach?
+
+
+HALI.
+
+Es ist in See gelauffen
+Was nur in Ankkern lag: der gantze Krigs-Schiff-hauffen
+Fast fiebzig Segel stark.
+
+
+
+SOLIMAN.
+
+Vmb das die Mänge sie
+Zu mehrer Tregheit reitz / und uns der Feind entflieh.
+
+
+
+HALI.
+
+Entflihe? wem? wohin? des Keisers langen Händen?
+Aus Solimans Gebitt? der bis zur Erden enden
+Mit Sieg und Schrekken herscht.
+
+
+
+SOLIMAN.
+
+Ja herscht! Wenn Ibrahms Flucht
+Den Blitz des Bosphors trotzt.
+
+
+
+HALI.
+
+Er findet / was er sucht
+Wenn Ibrahms bluttig Kopff auf Osmanns hoher Pforte
+
+
+Zum Schimpf gespist wird sein.
+
+
+
+SOLIMAN.
+
+Was freveln deine Wortte?
+Aufwigler! ist dir wol darzu dein Keiser gut /
+Das Er / was jhm ein Knecht vorschwatzt / gehorchend thut?
+Daß du? dem / dem wir Reich und Leben schier zu dankken
+Aufbürdest eignen Haß.
+
+
+
+HALI.
+
+Der Argwohn der Gedankken
+Verläscht durch dise Flut / wenn es mir Sklaven nicht
+Bei dir verfänglich ist / daß er den Feind versicht
+Vnd für des Badens Heil beim großen Sulthan bittet.
+
+
+
+SOLIMAN.
+
+Hat dir Verwägenheit gantz dein Gehirn zerrüttet?
+Welch Wahnwitz bleht dich auf? ha unverschämter Hund.
+Verdrüßlicher Fasall; vermag dein frecher Mund
+Dem greifen Soliman Gesätze fürzumahlen?
+Du darfst Mir! sol dein Kopff mir deinen Frefel zahlen?
+Du darfst Mir! aber schweig. Was ist denn Achmaths Rath
+Das Soliman hirbei zu thun und lassen hat?
+
+
+
+ACHMAT.
+Mein Keiser heischt zu vihl.
+
+
+SOLIMAN.
+Pflichtschuldigkeit ein mehres.
+
+
+ACHMAT.
+
+Darf Ich als Sklaf und Knecht mißbrauchen des Gehöres
+Des weisen Solimanns?
+
+
+
+SOLIMAN.
+
+Des Solimanns / der dir
+Zu reden uhrlaub gibt.
+
+
+
+ACHMAT.
+
+Wol denn! weil Osman Mir
+Zu urtheiln freigestellt / (wie wol an ein Entschlüssen
+Des Kefers / sich nicht wird der Adler binden müssen)
+So gibt Mir die Vernunft bewegungs-Gründ in Mund /
+Zwar nicht fürs Flüchtgen Recht zu sprechen kurtz und rund
+Doch für sein Heil zu flehn. Hat Ibrahm sich versündigt
+An seiner Majestät? ists Ibrahm; dem verkündigt
+Des milden Fürsten Hold / des grossen Reiches Rath
+Des leichten Pöfels Gunst / der siegende Soldat
+Der grossen thaten Ruhm / das Kriegs-erlegte Persen /
+Der Straffe Minderung. Man folg jhm auf der Fersen
+Mit Heer und Schiff-Flott nach / man stell ihn ernstlich dar
+Fürs strenge Hals-Gericht: wird der Soldaten schaar
+Wird der auf-rührsche Kopf der wüttenden Gemeine
+Sehn unbestürtzt vergehn den / welchem auf die Beine
+Zuvor der Keiser half: sol er gefässelt stehn /
+So wird der Länder Ruh / des Keisers Sig eingehn.
+
+
+
+
+SOLIMAN.
+
+Die Vnhold ärgsten Zorns / der Eifer ernster Rach
+Des Grimmes Mörder-galm / die undanks-reiffe Sache
+Der freche Trotz der uns steif in den Ohren ligt /
+Die Blut-sucht des Gemüts / die aller Gunst obsigt
+Vnd allen Libreitz tilgt / das frevelnde Verbrächen /
+Mus billichen das Beil und nur den Strang gut sprächen.
+Vndankbar Mensch! den wir vom Staub ans Licht gebracht
+Vom Kerkker in Palast; hastu den Arm veracht
+Den Arm der aus Metall zum Purper dich gezogen?
+Vnd mein gantz Hertz gekränkt / das Ibrahm dir bewogen
+Mehr als mir selber war. Nein red es mir nicht ein:
+Es kostet Ibrahms Hals / nein Achmath nein ach nein.
+Man träte was uns trit; Komm Hali nicht zurükke /
+Es sei / daß Rustahn denn den bluttgen Kopf uns schikke
+Wo Ibrahim entwischt und nicht den Zorn kan kühln
+Sol Sulthans strenger Fus mit euern Köpffen spiln.
+
+
+
+Rustahn. Soliman. Ibrahim. Isabelle. Hali. Achmath.
+
+
+Die Gefangenen. Die Janitscharen.
+
+
+
+
+RUSTAHN.
+
+Großmächtigster Monarch / der Donner herber Rache
+Des rechten Himmels schlus / der für den Sulthan wache
+Vnd seine Hoheit hält / der für des Ossmanns Kron
+Selb-selbst zu Felde zeucht / hat den verwägnen hohn
+Des frechen Ibrahims / durch seinen Knecht gerochen /
+Durch Rustahns strängen Arm. Ich war erst aufgebrochen
+Vom Bizantiner Port / als unsers Keisers heis
+Vnd ernstes dräw-Geboth / der starkken Rudrer fleis
+Mehr als verdoppelte. Die steiffen Winde pfiffen
+Die Segel günstig an / und sprächen unsern Schiffen
+So Rachch als Nach-satz gut / der Flüchtgen Jagt-Schiff kam
+Vns gehling ins Gesicht / als schon der Feind wahr-nam
+Bei Sest und Abid uns entwischend zu entkommen:
+Da unsre Losung man im Blokk-Haus erst vernommen
+
+
+Und ihre Flucht verschnitt. Als ihr der Paß verrannt
+Hilt unsre Gegen-Part aus zwang verzweifelnd stand.
+Des Ibrahms festes Schiff ward bald von uns besprungen /
+Dem wir aufs Keisers Wort die Waffen abgedrungen
+Die Fässel angelägt / in welchen Soliman
+Der frechen Hunde Trotz mit Ernste straffen kan.
+
+
+
+SOLIMAN.
+
+Mit Ernst und nach verdihnst. Was hat dich so vermässen
+Vndanckbar Mensch! gemacht? hastu wer du vergäßen
+Vnd Bosphors Sonne sey? Was hat dich angesträngt
+Zu flihn den man umb sonst zu flihn sich unterfängt.
+Hat Stambul dis umb dich / der aus dem Mord-getümmel
+Der Henkker dich zum glantz zu seiner Hoheit Himmel
+Mit gröstem Ruhm erhob; hat Ossman dis umb dich
+Hat Ossman dis verdihnt / der von dem throne sich
+Zu deines Kerkkers Schimpff / zur fässel Schand ernidrigt
+Trew-Loser! hat sich ie ein Sklaff ein Knecht gewidrigt
+Zu herrschen über den dem er gehorchen mus?
+Zu träten dessen Haupt dem er doch unterm fuß
+Verschmachtend dihnen sol. Schien dir Stambuldens König
+Schien Ossman dir zu schlecht / schien Ossman dir zu wenig
+Zu üben der dich übt / und der zwar Keiser hies
+Doch der dich mehr als Herrn mehr sein als Keiser lies.
+Mehr sein als Keiser! könt Ich Mich mehr vergeringern?
+War dir die Hand zu schwer die dich mit linden Fingern
+So sanft in Schlaff einwiegt? die Sonne zu Bizanz
+Zu dunkkel? die dir gab als seinem Monde Glantz?
+Was flohstu? hatte dich die Ehrfucht so vergiftet?
+Was für ein Mordstükk war auf unsern Hals gestiftet?
+Was für ein Fallstrikk war auff Stambuls Reich und Haus
+Vnd Kron und thron geställt? ha; ietzt iß selber aus
+Was du dem Soliman für Gift hattst eingebrokket;
+Hat Karl zu seinem dihnst hat Karl dich hin-gelokket?
+Kirrt dich Venedig weg / und der Geneser Rath?
+Daß du was Ossmanns Stul trotz Christ trotz Persen hat
+
+
+Für Kräfft und Heimligkeit verräthrisch mögst entdäkken.
+Kom Karl / kom kom / dein Kopflf sol bald die Zähne bläkken /
+Vnd kreischen an der Sonn / wo schon die Blut-Fahn stäkkt
+Die iden Christen-Hund und Krig und Tod entdäkkt /
+Dir Marter / ach / und Angst.
+
+
+
+IBRAHIM.
+
+Ha! Ibrahm wirds nicht schäuen
+Ich will noch so behertzt den harten Knoten käuen
+Der Mich bald strängeln wird; ich wil mit Hertzens-Lust
+Dem stumpffen Dolch bestehn auf der zernarbten Brust;
+Ich wil das scharffe Beil / ich wil die Schwerdter küssen /
+Den Henkker der mich bald wird säbeln oder spissen /
+Auf des Tirannen Wortt / so standhaft / so behertzt:
+Als Ich dem Zelebes der deine dräuung schertzt'
+Vnd deine Wortte schimpft' und deinem heer obsigte
+Den kahlen Kopff abhihb / den ihre Hoheit krigte
+Gesihlt in Sand und Blutt geworffen für den Thron!
+Ich wil mit so viel Muth erdulden Schmach und Hohn
+Als Ich Chach Tachmas Volkk Chach Tachmas heer bezwungen;
+Vnd den bestürtzten Pers' aus gräntz und land verdrungen.
+Dis wil Ich! ohne frag ob unrecht oder recht
+Dein Ibrahim vergeh / dein Ibrahim / der schlecht
+Für Stambuls füssen ligt; Nur dis / mein Keiser schmertzet
+Dis jammert mich / mein Fürst / daß der / der nie gestertzet
+Aus Ossmans Lib und dinst mus Mammelukke seyn
+Und Ertzt-verräther heist / und Aufruhr führen ein.
+Daß der / der Persens Kron auff Ossmanns Haar gehäuffet
+Nach Solimans Verdacht / auf Ossmann schwerdter schleiffet /
+Und auf Bizanz erherbt / und auf den stul erhitzt
+Den er (es weis es Gott!) mit Rath und That geschützt.
+Gott weis / der alles weis / daß Ibrahm nichts gesponnen
+Auf Ossmans grosses Reich / das Ibrahm nichts gesonnen
+Verfänglichs / großer Fürst / daß Ibrahm durch die flucht
+wo Gott soll mein Zeuge sein / nur sein Gemahl gesucht
+Zu flüchtgen aus gefahr / und diesen zu entrinnen
+Die noch voll Haß voll Neid auf Ibrahm Nätze spinnen;
+
+
+Vnd ihn beim Soliman durch süsses Häuchel-Gifft
+Verschneiden ie und ie. Ist wer der sicher schifft
+Wenn die ergrimten wind' erboßter Mißgunst brausen
+
+
+
+RUSTHAN.
+
+Ich hör aus Ibrahms Halß erlogen Antwort sausen
+Umb Solimans Gehör. Beschönestu noch dis
+Was hell und Sonnen-klar? Zausch Bassa schreibt gewis
+An Ossmanns hohe Pfort / es sei zu Wien ankommen
+Ein Türckscher Bottschaffter / den Karl so angenommen
+Als keines Sulthans nicht / mit dem er Tag für Tag
+Geheim zu Rauhe geh: von wem er kommen mag
+Wird unser Bottschafft selbst vom Keiser nicht entdäkket /
+Wer weis ob Ibrahim verräthrisch nicht verstäkket
+Lig unter dieser Däkk / ob er nicht heimlich Ränkk
+Auf unsers Keisers Stul auf Stambuls Reich erdänkk
+Und nach der Krone steh. Auch hat nach wenig stunden
+Nach unsrer Rükkunft sich viel Volkks zur See gefunden
+Das nicht gar weit von Sest die Ankker eingesänkkt /
+Und wie in einer Schlacht der Schiffe Rei umbschränkkt.
+Kan der Verräther sie nicht ihm bestellet haben?
+Denn als die unfrigen vom Schloffe Feuer gaben
+Ging alles nach gehöul und heuserm Krigs-Geschrei
+Mit vollem Segel durch / als wenn ihr Anschlag sei
+Ein Schelm-stükk zu begehn / entdäkket durch die Wache.
+Was meinet Soliman!
+
+
+
+IBRAHIM.
+
+Ha! ungereimte sache.
+O gantz unscheinbar Schein! O Anklag ohne Grund.
+Hat dein verschlagnes Hertz / hat dein zwey-Züngicht Mund
+Was glätter nicht gewust die Lügen zu besalben?
+Doch was bekümmerstu dich / Vogel / meinet-halben
+Arg-listger Schaden-froh! was geht es Ibrahm an
+Was Wien und Sest vermeld? gesätzt auch / daß was dran!
+Daß Karl / wiewol es falsch mit Mir Verständnüß habe /
+Das Ibrahim nach Kron und Ossmanns Königs-stabe
+Ein geitzigs Auge wärff / hett er zum Aufruhrs-Brand
+Ins Keisers Haupt-stad nicht mehr Mittel an der Hand
+
+
+Als fern von Stambuls Sitz in weit-entlägnen Ländern
+Durch der Soldaten Gunst die kein Gelükkssturm ändern
+Aus Ibrahms dihnsten wird. Die gantze Heers-kraft siht
+Auf mich und diesen Arm. Was hätt ich mich bemüht
+Zu flihn für Soliman und aus des Keisers Händen?
+
+
+
+RUSTAHN.
+Dort desto sicherer dein Schelm-stükk zu vollenden.
+
+
+IBRAHIM.
+Auf was für weis' und weg?
+
+
+RUSTAHN.
+Durch Krigs- und Waffen-Macht.
+
+
+IBRAHIM.
+
+Hat ie ein Thor ein Kind so alber ding für-bracht?
+Gesätzt / Karl führe was auf Ossmans pfort im Schilde!
+Bedörft er mich darzu? Was nützet es gefilde
+Bereichern mit Gehöltz? Karl hat wol andre Karl!
+Doch allzu sorglichs thun! Karl wird umb diese Perl
+Sich stürtzen in die See? Karl wird sich so verbrännen?
+Laß ein gerüstet Heer den Bosphor rings umbrennen
+Und für Bizanz sich ställn / laß das geharnschte Meer
+Mit schiffen schwanger stehn? hat man zur gegen-wehr
+Nicht Zeug nicht Volk zur Hand? der schon den Pers' geschlagen
+Würd er von Keiser Karln geringern Ruhm wegtragen?
+Doch Karl dankkt selber Gott daß er zu fride bleibt
+Nun sein ein-heimscher Krig sein eigne Kräfft auf-reibt.
+Hett auch ein Christen-Schif / (das du doch leugest) gestern
+Den engen Pont erreicht / sie würden sich den Sestern
+Für Maul und Nase stelln. Mein Vnschuld bricht an Tag /
+Mein Kläger spricht für Mich / weil Rustahn mir nichts mag
+Gereimtes bürden auf?
+
+
+
+SOLIMAN.
+
+Was spricht für dein entführen?
+Wer spricht für deinen Raub? kont es dir Hund gebühren
+Zu stehlen was für uns / zu nehmen was uns lieb /
+Zu rauben was nicht dein? Ha? un-gestümer Dieb!
+Vnd du auch loses Weib! Bezauberin der Sinnen!
+Vn-keuscher Huren-Balg? hat Ossmann dich nicht können
+Beställn in seinen dihnst? brach Ossmanns Gunst und hold
+Nicht dein verstoktes Hertz? ent-liefstu / als Er wolt
+Aus Koth aus Asche dich auf Stul und Eh-bett haben?
+Last hören / was der Balg uns wird für Antwort gäben /
+
+
+Last hörn auf was für Ahrt / sie wird verreden sich.
+Last hören / was sie spricht.
+
+
+
+ISABELLE.
+
+Die Tugend spricht für Mich /
+Die Vnschuld / Ehr und Recht.
+
+
+
+RUSTAHN.
+Hihr geht Gewalt für Rechte.
+
+
+SOLIMAN.
+Trug für dem Keiser dich dein Hertze zu dem Knechte?
+
+
+ISABELLE.
+
+Mein Keiser / es trug Mich für dem / den seine Brunst
+Mich nur zu üben zwang / und der durch seine Gunst
+Mir blossen Haß anboth / zu meinem Eh-gemahle.
+Ich zog die Tugend für in der Erköhrungs-wahle
+Und sties den Ehr-geitz aus. Zwar Ossmann wies den Glantz
+Deß Purpurs / aber Ich nahm Ibrahms Tugend-Krantz.
+
+
+
+SOLIMAN.
+Nihm itzt den Hänkkers-strang.
+
+
+ISABELLE.
+
+Der Mich doch nicht beraube
+Des Vnschuld-Krantzes kan. Hielt Ossmann Trew und Glauben
+Was er dem Ibrahim eh er in Persen zog
+Mit Hand und Mund versprach?
+
+
+
+SOLIMAN.
+Was ists / das Ich dir log?
+
+
+ISABELLE.
+Mein Keiser / er verhies vertraulich Mich zu schützen.
+
+
+SOLIMAN.
+Heist dises nicht geschützt auf Throne heissen sitzen?
+
+
+ISABELLE.
+Auf Throne; wol / wenn fi nicht Folter-bänkke sein.
+
+
+SOLIMAN.
+Wenn fi erwünschte Luft.
+
+
+ISABELLE.
+
+Ach! wenn Ach und Pein /
+Läst uns umb rechte Flucht den Grimm der Sulthan blikken?
+
+
+
+SOLIMAN.
+Weil jhr die hold ausschlugt.
+
+
+ISABELLE.
+
+Versprach Mir doch / zu schikken
+Mich ihre Hoheit heim / wo ja in einer Schlacht l
+Mein Ibrahim kähm umb: sol nun er Friden bracht
+Und mit sighafter Hand aus Persen heimgekehret /
+Vns beiden / Mir und Ihm der Heimzug sein verwehret?
+
+
+
+SOLIMAN.
+
+Verwehrt! nun er verschertzt; als ihr so frech und kühn
+Zoht un-beuhrlaubt weg.
+
+
+
+ISABELLE.
+
+Wir musten also zihn
+Weil die Vergünstigung vom Sulthan nicht zu hoffen.
+
+
+
+SOLIMAN.
+
+Steht Zung und Läster-Maul dir nur zum schmähen offen?
+Wer schreibt dem Soliman zu thun und lassen für?
+Dem unrecht recht mus sein / und der gesätze dir
+Nach seiner Wülkühr schreibt. Ist eine Satzung stärkker
+Als Ossman der sie sätzt? Schleus in absondre Kerkker
+Den Ibrahm ein und Sie / die andern schmide man
+
+
+Zum Rudern in Metal auf den Galeen an /
+Laß weder aus noch ein ihmanden von dem Pövel /
+Daß der Gemeine Grimm nicht etwann einen Frevel
+Und Auf-ruhr unterfang auf Ossmanns thun und Haus.
+Stekkt eine Todten-Fahn an Sieben-Thürmen aus.
+
+
+
+Isabelle. Ibrahim. Rustahn. Achmat. Hali.
+
+
+Die Janitscharen. Die Gefangenen.
+
+
+
+
+ISABELLE.
+
+O Vrtheil herbster Rach; o un-aus-sprächlichs wütten;
+O stränger Aus-spruch; ach; kan wol der Blut-hund schütten
+Mehr Elend über uns? kan uns der Soliman
+Kan uns des Abgrunds Fürst was grimmigers thun an?
+Als bei so trübem Glükk uns von einander scheiden /
+Als kurtz für unserm Tod uns nicht beysammen leiden?
+O daß der Blut-hund uns nicht balde strängeln läst!
+O daß das Unthier uns nicht bald den letzten Rest
+Im ersten sturme gab! O das man selbst nicht rännet
+In Rusthans sebeln eh / als er uns zwei zertrännet
+Die nur ein Hertze sind! daß man zugleiche nicht
+Vergehn und leben kan; Ist was / das schärffer sticht
+Kan wem sich herberer die Glükkes-gall erherben /
+Als wenn man gerne stirbt / und doch nicht kan ersterben?
+Zu was für Marter hebt / zu was für Hänkkers-kwal
+Er beide langer auf? sinnt über strang und Pfal
+Er neue Marter aus? Kommt hauet mich in stükke;
+Zerfleischt die Glider uns; Ich schätz Mirs für ein glükke /
+Ihr thut mir einen dihnst / kommt stost mich in die brüst /
+Bis blutt und Seel aus-sprütz ich sterbe wi ein Christ.
+
+
+
+IBRAHIM.
+
+Ich gleichfals sonder schuld! bekomm ich dis zu Lohne!
+Hat dieser dis umb dich verdihnt / der Persens kröne
+Dir willig über-ließ? der Ossmans Erb und Sitz
+Frei-müthig unter-schob den Nakken zu der Stütz
+Als er schon wakkelnd hing und halb-zersplittert knakte /
+Als Phrat und Tigers Greiff nach Stambuls Monden hakkte
+
+
+Die Blut-gewaschne Klau.
+
+
+
+RUSTAHN.
+
+Offt nimmt sich unser an
+Ein Mörder / nur darumb daß er uns tödten kan.
+Ein stoltzer dihnt / daß er zur Zeit hersch auf dem Throne.
+Doch dir fehlts! lerne nun: Daß oft der blitz nicht schone
+Der Wolkke die ihn zeugt / indem dein Schelm-stükk dich
+Das uns galt / selber stürtzt!
+
+
+
+IBRAHIM.
+
+Wol! er erdrükke mich
+Mein Fall fällt ihn und euch / mein Kerkker wird ihn stürtzen.
+
+
+
+RUSTAHN.
+Du kanst durch fluch und dräun dir sein die Marter würtzen!
+
+
+IBRAHIM.
+Dein Auf-hatz ist die Würtz.
+
+
+RUSTAHN.
+
+Gäbt seiner Läster-Zung
+Und schmach nicht mehr Gehör. Er ist gehört genung!
+
+
+
+IBRAHIM.
+
+Gehört doch nicht erhört / beschuldigt nichts erwiesen
+Verdammet!
+
+
+
+RUSTAHN.
+
+Führt sie hin / und iden unter diesen
+Schlißt auf die Ruder-Bank.
+
+
+
+ISABELLE.
+
+O wort / das wie der blitz
+Durch Mark und Adern dringt! O wort / das einen Ritz /
+Durch beider Seelen reist! o Donner-Keul der Hertzen!
+
+
+
+IBRAHIM.
+Mein Hertz ich bin der Brunn und Vrsprung eurer schmertzen!
+
+
+ISABELLE.
+
+Ich euers Vntergangs! O das man uns wie sie
+Eh ins Metall verdamm / und an die Ketten zih
+Als von einander trenn!
+
+
+
+IBRAHIM.
+
+O un-glükkhaffte Libe!
+Libt Ibrahm sie mein Hertz / daß Ibrahm sie betrübe;
+Verflucht / daß ich gelibt! verflucht / verflucht bin ich!
+Doch / was gedänkk ich / ach! räwt ihrer Libe mich?
+
+
+
+RUSTAHN.
+Fort / fort / hier ist nicht Zeit daß man die zeit verschertze.
+
+
+ISABELLE.
+Ade! mein Leben!
+
+
+IBRAHIM.
+Ach! ade!
+
+
+ISABELLE.
+Mein Licht!
+
+
+IBRAHIM.
+Mein Hertze!
+
+
+ISABELLE.
+
+Mein Aufenthalt! ade! wir scheiden / ach! mein Licht!
+Wir scheiden / gutte Nacht!
+
+
+
+IBRAHIM.
+
+Allein / mein Hertze nicht
+Mein Hertze nicht / mein Sinn!
+
+
+
+ISABELLE.
+Ade! zu gutter letzte!
+
+
+IBRAHIM.
+Ich lib und ob man mich auf lichten Schweffel sätzte!
+
+
+ISABELLE.
+Ich lib / und ob ich stürb / ach Jammer! ich vergeh!
+
+
+IBRAHIM.
+Noch einen kuß / mein Schatz!
+
+
+ISABELLE.
+Noch einen küß! ade!
+
+
+Achmat. Hali Bassa.
+
+
+
+
+ACHMAT.
+
+Ist Hali so behertzt / dis traur-spiel ohne schmertzen
+Und Thränen anzuschaun?
+
+
+
+HALI.
+
+Es geht mir tiff zu Hertzen
+
+
+Und macht mich höchst bestürtzt / wenn ich den Fürsten stehn
+In Stein und Eisen seh / und ins Gefängnüß gehn
+Den ehe gestern noch Bizanz mit Furcht und Zittern
+Und Ehr-Erbittung prieß.
+
+
+
+ACHMAT.
+
+So werden von gewittern
+Die Gipffel stets erschällt / wenn dis zu friden bleibt
+Was in den Thälern kreucht. Das elend mahlt und schreibt
+Sein Tag-Regiester vol mit eitel Fürsten-Namen.
+Wie daß dir vor so tif nicht in Gedankken kamen
+Die thaten Ibrahims? So siht man auf das Licht
+Des Sonnen-Rads so sehr bei heiterm Wetter nicht
+Als wenn ein Finsternüß den hellen Blitz versehret
+Und ihr Gesicht umbhüllt. Dis itzge Beyspihl lehret
+Was mir und dir für-steht. War dir nicht kurtz zuvor
+Kaum ein scharff Wortt entfahrn / wie schon des Keisers Ohr
+Sich höchst verletzt befand.
+
+
+
+HALI.
+
+Sich stets in Fürsten schikken
+Wird Mir / und dir / und nicht dem hundersten gelükken.
+
+
+
+ACHMAT.
+
+Wol / dis ent-schuldigt ihn / und spricht den Ibrahm los.
+Wenn mans beim lichten siht ist nicht die Schuld so gros
+Als sie die Miß-gunst macht / die / (kan ich anders rathen)
+Uns auch noch stürtzen wird. Vermögen Ibrahms Thaten
+Nicht dis zu läschen aus / was ihm zwar was Verdacht
+Doch keine Schuld auf-halßt / und ihn zwar scham-roth macht
+Doch durch kein Recht verdammt. Was werden unsre taugen?
+Die nur ein Schatt und Schimpff und Schertz in Ossmanns Augen?
+Der Fürste räumt zu vihl Platz für die Miß-gunst ein /
+Du sihst beim Sulthan den am Brette wider seyn /
+Der nichts als Vn-glükk stift und nur zum Schaden wachet /
+Der durch Schmarutzen nur der Mord-Lust Feur auf-sachet /
+Das vor schon ohne Wind und neuen Zunder glimmt /
+Und den der nicht mit ihm in seine Pfeiffe stimmt /
+Verdächtigt und verhaßt / wenn er ihn hinterm Rükken
+Verschneidet wie er weis.
+
+
+
+HALI.
+
+Doch kan man solchen strükken
+Durch Vnschuld wol entgehn.
+
+
+
+ACHMAT.
+
+Die reinste Vnschuld läscht
+Oft diesen Flekk nicht aus / und der verdihntste wäscht
+
+
+Sich nicht vom Arg-wohn rein.
+
+
+
+HALI.
+
+Man glaubet oft nicht ehe
+Doch arg-wohnt man / biß daß der Fürste gar vergehe.
+All unschuld bricht wol aus.
+
+
+
+ACHMAT.
+
+Uns lehrt des Bassen fall
+Das unschuld oft verdirbt.
+
+
+
+HALI.
+
+Sprichstu den Ibrahm all
+Von dem Verbrechen los?
+
+
+
+ACHMAT.
+
+Von diesem / das den Kerker
+Wo nicht den Strang / verdihnt.
+
+
+
+HALI.
+
+Sein Frevel ist vihl stärker
+Als ich und du vermeint.
+
+
+
+ACHMAT.
+
+Nicht stärker als verdihnst'
+Als Tugend.
+
+
+
+HALI.
+
+Vndank nimmt den vorigen Gewihnst
+Der ersten Wohl-that weg.
+
+
+
+ACHMAT.
+Kanstu ihn Vndank zeihen?
+
+
+HALI.
+Zwar ich nicht / Ossmanns Gunst.
+
+
+ACHMAT.
+
+Wird zwang sich zu befreien
+Für Laster aus-geschrien?
+
+
+
+HALI.
+Was zwang ihn zu der flucht?
+
+
+ACHMAT.
+Sein Wol-stand sein Gemahl.
+
+
+HALI.
+Hett ers durch bitt ersucht.
+
+
+ACHMAT.
+Umbsonst man hett es ihm unfehlbar abgeschlagen.
+
+
+HALI.
+Wer kont ihm dis gewiß von so vihl Zweiffeln sagen?
+
+
+ACHMAT.
+Die Brunst die Solimann zur Isabellen trug.
+
+
+HALI.
+Stand nicht die Ehr ihm ob die selbe Brunst ausschlug?
+
+
+ACHMAT.
+Der Ehre Feuer war im Liebes-Rauch erstikket.
+
+
+HALI.
+Sie glam noch in der Asch und ward hieher erblikket.
+
+
+ACHMAT.
+Itzt ist noch Strumpff noch Stiel nicht übrig mehr von ihr.
+
+
+HALI.
+Wer weis ob nicht ein Funk erst wider komm herfür.
+
+
+ACHMAT.
+Kein Funke kan wo er nicht Nahrung hat verbleiben.
+
+
+HALI.
+
+Wer weis es / bis der Wind die Asche wird zerstäuben.
+Wie leicht kan Zelebes dem Keiser fallen ein /
+Vnd Tauris / die durch Ihn allein bezwungen sein.
+
+
+
+ACHMAT.
+
+Vergäbens! nichts nicht ist / das also bald verrauchet / |
+Und aus dem Sinn uns fällt / als Wohlthat: man gebrauchet
+Ihr als des Rosen-Zweigs / der länger nicht belibt
+Als weil er blüht und raucht.
+
+
+
+HALI.
+
+Des Ibrahms Gutthat gibt
+Noch Soliman Geruch.
+
+
+
+ACHMAT.
+
+Du glaub es. Ich besorge
+Daß man dem Ibrahim den Tod und Strang nur borge.
+Vmbsonst siht der / auf den so mancher Sturmwind geht
+Sich nach dem Hafen umb. Wer auf der Schippe steht
+Stürtzt leichtlich Kopff und Hals. Auf den ein Fürst gewändet
+
+
+Vihlfältge Wohlthat an / in eben selbem endet
+Und fürchtet Er Sie auch. Des Neides Augen sind
+Auf das Gelükk ein Luchs / auf die verdihnste blind.
+Der Menschen Eifer ist geahrtet mehr zum schälten /
+Zur Rach / als die verdihnst und Wohlthat zu vergälten.
+
+
+
+HEI.
+
+Getrost? die Sturm-Well hat oft in den Port verfätzt /
+Der Nord-Wind hat oft mehr als lauer West ergätzt:
+Der Dorn ward oft zur Ros' und unser Schmertz zum Schertze /
+Der Fall erhöht' uns oft.
+
+
+
+ACHMAT.
+
+Du machst mir schier ein Hertze!
+Es sei / daß sein Gemahl Ihm denn im wege stünd
+Und Ossmann neue bränd aus ihrer Kält empfind.
+Ich fürcht auch Roxelan und Rustahn wird die länge
+Wol schwerlich feiern mehr / bis Ibrahm wird die gänge
+Des trauten Mustaffa noch auch gegangen sein.
+Doch bricht des Ibrahms Halß bricht Ossmanns Thron auch ein.
+
+
+Chor der Leibeigenen Christen.
+
+Satz.
+
+
+Die in erhitzter Schlacht
+Behertzt für Gott und Land die hand-voll Jahr beschlossen /
+Die mit versprütztem Blutt auch Seel und Geist vergossen
+Und Türkk und Tod verlacht /
+Kan man so billich nicht betrauern /
+Als uns die wir allhier in dises Kerkers Felsen
+Das Vrtheil unserm Kopff und Mord-Spruch unsern Hälfen
+Erwarten / und fürm Tod uns schauern.
+Wird man uns auf Galeen schmiden?
+In sidend-heissem Oele fiden?
+Wird man uns braten an dem Pfal?
+Wird man in Mörseln uns zerstossen?
+Wird man umb unsre Köpfte lossen?
+Wird man uns spissen an den Stal?
+Wird man uns köpffen oder wird man uns erwürgen?
+
+
+Wird man uns unsern Leib zersegen?
+Auf Holtz-stöß und auf Röste legen?
+Mit glüend-rothen Kohln und warmer Asch umbschürgen?
+Wil man uns Därm und Lung und Eingeweid aus-reissen?
+Vnd umb das blutge Maul die fetten Hertzen schmeissen /
+O höchster! kanstu sehn
+So deine Christen schmähn?
+
+
+Gegen-Satz.
+
+
+O Ja er siht es wol!
+Vnd hat ein wachsam Aug auf dise die uns tretten
+Und Ihn durch uns verschmähn. Doch weis Er / wenn er retten
+Und wenn er helffen sol!
+Der Akkers-Mann haut Strauch und Dörner
+Nicht eh ab / als bis er davon die Frucht beisammen:
+Der Mohre wirfft nicht eh in das gestrüttig Flammen
+Als er des reiffen Weirauchs Körner
+Hat abgelesen von den ästen:
+Also hilft Gott zwar den gepresten /
+Doch stürtzt er nicht Tirannen eh
+Ob sie zwar jhm ein Dorn in Augen
+Vnd uns aus-ädern und aus-saugen
+Als bis von jhnen Nutz entsteh
+Als bis Er / wenn wir uns an jhm sich oft versündigt
+Durch Sie als Dihner seiner Rachche
+Als Bohten seiner muntern Wachche
+Hat seines Eifers Grimm und heissen Zorn verkündigt.
+So dihnen Schlang' und Molch' und Nattern oft den Aertzten /
+Und ist ihr ärgstes Gifft für Gifft nur am bewährtsten.
+Doch kurtz nach dem gebrauch
+Stürtzt er Tirannen auch.
+
+
+Satz und Gegen-Satz.
+
+
+Beherscher über uns / und über unsre Fässel
+Wie lange peitscht uns deine Rutt
+Wie lange brennstu uns mit diser Jammer-Nessel;
+
+
+Wie lange wäscht in warmem Blut
+Der wilde Bluthund sich der dir vertrauten Christen /
+Kan deine Lang-Muth noch die Rachche länger fristen?
+Erbarm dich über die
+Die Hand-voll Volcks / o Gott; gerechter Richter wachche;
+Die für dir auf dem Knie
+In Türckschen Banden schrein und winseln: Rachche! Rachche!
+
+
+
+
+
+
+
+
+2. Akt
+
+
+
+
+Die andre Abhandlung.
+
+Der Schau-Platz verändert sich in den Keiserlichen Spatzir-Saal.
+
+
+Solimann.
+
+
+Ist Ossmann bei Vernunfft / ist Soliman bei Sinnen?
+Vnd weis nicht was er läst noch thut?
+Kan unser zweifelnd Hertz noch Grimm noch Gunst gewinnen?
+Noch Rachche beugen unsren Muth?
+Läst Eifer und Verstand nicht ihren Fürsten wissen
+Wes Er sich sol entschlissen?
+Wol; Ossmann wol erwägs / es steht dir beides frei
+Ob mehr mit schärff als Gunst hihr zu verfahren sei.
+Wol! Ossmann / wol; erwägs! doch was ist zu erwägen /
+In dem / was Rachch und Recht gutt spricht?
+Verruchter! pflegt darumb die Natter man zu pflägen /
+Daß sie uns in die Ferse sticht?
+Es ist nicht sicher / nein / der gifftgen Schlangen häucheln
+Und mit den Fingern sträucheln.
+Nicht sicher; ob man sie mit süsser Milch gleich tränkt /
+Daß man sie auff die Schos hebt / und an Halß jhm hängt.
+Wol an; verruchter Hund; wol an; weil unsre gütte
+Nur einen Drach an dir ernährt;
+Nur einen Wurm gesäugt / weil dein verstokt Gemütte
+All unsre Lib in Eis verkährt /
+
+
+All unsre Gunst in Schmach / weil unser guttes hoffen
+Im Vndankk ist ersoffen:
+Weil du die hold aus-schlägst / und uns gibst Fluch zum Dank
+So fühle Mord und Todt und Pein und Hänkkers strang!
+Schawn wir trew-loser Hund dich Hund an / als Verrähter
+Als Räuber / als ent-lauffnen Knecht
+Als flüchtgen Vnterthan / als frechen übelthäter /
+Spricht Wohlstand / Majestäth und Recht:
+Man mus dich auf den Pfal auf brand- und Holtz-stoß binden
+Ja wol lebendig schinden.
+Man mus umb Ossmanns Lib umb unsers Reiches Heil
+Ergreiffen Stal und Spiff' und Säbel Dolch und Beil.
+Man mus dich! aber ach! wer kan das Haupt verdammen
+Den Arm dem Hänkker sprächen zu?
+Der so vihl Auf-ruhrs bränd und so vihl Kriges-Flammen
+Verwächselt zu des Reiches Ruh?
+Dem Ossmann Kron und Stuhl / des Reichs verlängte Schranken
+Ja Leben schier zu danken.
+Wer kan den Ibrahim verdammen / der durch Flucht
+Ihm nur mit dem Gemahl nothwändig Ruh gesucht?
+Doch was erwägen wir? wird und kan der wol leben?
+Der dise / die nur uns gebührt /
+Vnd ohne welche wir in ängstgen Säufzern schweben /
+Verrähtrisch unsrer Lib entführt?
+Wen? umb den Soliman in hitzger Sucht verwäset /
+Der unsre Lib aus-bläset?
+Kan der wol lebend sein / umb den man gantz vertirbt /
+Vmb welchen / Soliman so lang Er lebet / stirbt?
+Ach aber! wird uns wol die Fürstin können üben?
+Die Fürstin? uns? die wir durch Blut
+Durch Ibrahims Verlust Sie bis in Tod betrüben?
+Gesätzt! daß ihre Libes-Glut
+Des Bassen Blut-Bad ab aus ihrem Hertzen wäschet
+Und Ossmanns Grimm ausläschet /
+Kan Sie uns holder sein / als an dem strengen Phrat /
+Ein Tiger dem / der es der Frucht beraubet hat?
+
+
+O Zwitracht unsrer Seel und der entsinnten Sinnen!
+Wie wenn man Ihn beim Leben liss'?
+Ach! würde Sie sonst wen als Ihn recht lihb-gewinnen
+So lang Er nicht den Geist ausbliss'?
+Nein nein! man sondert nicht das Vnkraut von den Bäumen
+Weil seine Wurtzeln käumen.
+Weil Ibrahm lebt und übt / des herben Hasses kwell
+Findt Ossmanns üb und flehn nicht bei der Fürstin stell.
+Ergrimme rechte Rach! Er sterb! er sterb! er sterbe!
+Er sterb und kühle Stambuls Grimm!
+Zum minsten tröstets uns / daß Sie kein Libs-gewärbe
+Nach dem erblasten Ibrahim
+Mit andern treiben kan; wird Ossmann sie nicht lenken
+Und wo sie Ihn wird kränken!
+Ergrimme Soliman / laß Si den Eifer fühln /
+Sein Mord und ihr verlust darf unsern Eifer kühln!
+
+
+Soliman. Rustahn.
+
+
+
+SOLIMAN.
+
+Wol gleich zu rechter Zeit hastu dich eingestället!
+Hastu den Hund verwahrt? den Hund der uns vergället
+Zeit / leben / Lib und Lust?
+
+
+
+RUSTAHN.
+Mein Fürst / es ist verricht.
+
+
+SOLIMAN.
+
+Wie stält' er sich? sahst du Ihm unter Augen nicht
+Absondre Regung an?
+
+
+
+RUSTAHN.
+
+Ein frech und kekk Gebehrden:
+Wie die die ohne schuld geführt zur Schlacht-Bank werden.
+
+
+
+SOLIMAN.
+
+Oft ists der ärgste Schelm der bei der follter sich
+Am unerschroksten ställt.
+
+
+
+RUSTAHN.
+
+Der tüksche Dieb fuhr Mich
+Doch mehr den Keiser an / mit un-gestümen Worten;
+Als wie ein Ketten-Hund der huttsam an der Pforten
+Auf iden billt und schnautzt.
+
+
+
+SOLIMAN.
+
+Was warff auf uns für Schmach
+Sein Läster-Maul heraus?
+
+
+
+RUSTAHN.
+
+Mein Keiser gäbe nach
+Das Ich mit disem nicht den Sulthan darf verlätzen /
+Was un-werth des Gehörs und des Erzählns zu schätzen.
+
+
+
+SOLIMAN.
+Entdäkk es / was wir wolln.
+
+
+RUSTAHN.
+
+Idweder Auspruch klang
+Nach Lästern / fluch und dräwn / ja / iedes Wort-glid zwang
+Mich zur Erbitterung / doch kont ichs so verbeissen
+
+
+Daß nicht mein Eifer aus in Rache dörfte reissen:
+Wiewol der Hund ihm leicht aus Stirn und Augen schlos
+Und aus der Zähne knirsch wie sehr es mich verdros.
+
+
+
+SOLIMAN.
+Laß hören was er log?
+
+
+RUSTAHN.
+
+Er ließ sich frey verlauten
+Das ihre Hoheit blos auf seinen Rükken bauten es
+Des Reiches sicherheit / daß / wenn nicht er geschützt
+Schach Tachmas längst das Reich des Solimans zerrützt
+Und ihn vom Stul gestürtzt / ja / ihm seis zuzumässen
+Daß Ossman Keiser sei.
+
+
+
+SOLIMAN.
+
+Ha / hastu Hund vergäßen /
+Wer du bist und wer wir.
+
+
+
+RUSTAHN.
+
+Noch eines; Er gab für
+Daß Konstantinus Erb und Reichs-Stul ihm gebühr.
+
+
+
+SOLIMAN.
+Ihm Schelmen?
+
+
+RUSTAHN.
+
+Endlich schloß er also: zwar er ställe
+Es Ossman gerne frei / ob er ihn lieber fälle
+Als zu Genaden nahm: allein er müsse dis
+Zuvor ihm offen-bahrn / das ihn sein fall gewis
+Auch kürtzlich würde fälln. Sein dräwn sei Blitz und krachen
+Ein winken köndte Stadt und Reich auf-rührisch machen /
+Ein winken könte dich in Asch und Graus verkährn /
+Der Pers' und Türkke stünd ihm / wolt er sie begährn
+Gehorsam zu geboth.
+
+
+
+SOLIMAN.
+
+O schwaches Mensch-geschöpffe
+In was bläßtu dich auf! wol! hättstu tausend Köpffe
+Von Stein und Ertzt geetzt / sie müsten alle dran /
+Schnautz aber wie du wilst den grossen Welt-Printz an
+Doch geht dirs umb den Hals / der Monde kehrt ans bällen
+Sich toller Hunde nicht. Man pflägt es heim-zuställen
+Dem Spihler der verspihlt / ob er ein Blatt zerreist.
+Wie spreust der Käfer sich!! kein todter Hunds-Kopff beist!
+Du thust uns kleinen Hohn! wie wenn wir es nicht wüsten?
+Der Löwe wird sich nicht ob dieser Maus ent-rüsten!
+Bill immer in die Luft! doch! wes Gesichtes nam
+Sich an die Isabell als es zum scheiden kam?
+
+
+
+RUSTAHN.
+
+Sie thät / mein Fürst / als wenn sie gar vrzweifeln müste.
+Sie fihl ihm umb den Hals mit beidem Arm / und küßte
+Mit Thränen sein Gesicht / und hilt sich an Ihm an
+
+
+So feste / daß man Sie schwer von Ihm abgewann.
+Es müst / ich selbst gestehs / ein stähl- und steinern Hertze
+Zugegen sein gewest / dem Sie mit ihrem Schmertze
+Nicht Weh-Muth hett erregt. Er auch war anders nicht
+Gebährdet / als ein Mensch dem man den Hals ab /bricht.
+Ein mehrers! sie vermaß Sich Ihm und Er Ihr wider
+Daß ihre Libes-Glut / wenn Sie gleich ihre Glider
+Den Flammen würden solln auf-opffern auf dem Pfal
+Doch nicht verglimmen würd.
+
+
+
+SOLIMAN.
+
+O neue Seelen-kwal
+O bluttger Hertzens-stos! Erweicht noch Printz noch Bittel
+Noch Schmach noch Ehre dich? wird auch durch dises mittel
+Der Anschlag uns zu nichts / der nächst durch Lindigkeit /
+Uns auch zu Wasser ward. O trauriger Bescheid!
+Durch was hat Sie der Hund bezaubert und bethöret?
+Das ihr verstopftes Ohr nicht unser Drangfaal höret! |
+Daß unsrer Hoheit Glantz Sie nicht verbländen kan /
+Daß Sie den Kerker mehr als Ossmanns Stul siht an /
+Den stoltzen Sklafen küßt / den grossen Printz verlachet
+Den Keiser höhnisch hält / und den zum Mörder machet
+Zum Mörder / der Sie übt / daß er gezwungen thut
+Was Ihm die Rach einbläst / daß er ihr kreuschend Blut
+Auf blauen Schweffel-Loh und Flammen lässt verzischen.
+Woll last uns noch einmal die bitt mit dräwn vermischen!
+Wol laßt uns noch einmal versuchen unser Heil /
+Ob mehr der Henker hab als Ossmann an Ihr Theil!
+
+
+
+Solimann. Roxelane.
+
+
+
+
+ROXELANE.
+
+Wohin? wie so bestürtzt? mein Keiser / was entdäkket
+Das traurige Gesicht? welch neuer Aufflauf stäkket
+Das Hertz mit Vnruh an? Wünscht Soliman was mehr
+Als daß Er endlich Ihn sein Ossmanns-pochen lehr?
+Der der des Fürsten Brust mit un-luft noch behäuffet
+Schwimmt in der Welle schon / bis sie Ihn gaar ersäuffet
+
+
+Und in den Grund verschlingt / so bald als Ossmann läst
+Den letzten Zorn-sturm loos und ihn aufs Tods-Meer bläst.
+
+
+
+SOLIMAN.
+Ja bläst! wenn uns der Wind von nichts ward aufgehalten.
+
+
+ROXELANE.
+Welch anhält ist so stark das man ihn nicht kan spalten?
+
+
+SOLIMAN.
+
+Der der uns Hertz und Sinn und Hand und Glider hält.
+Auf dem Rach Haß und Grimm mit Kraft zurükke prellt
+Wie die erboste Schwulst des Meer-schaums an den Felsen.
+
+
+
+ROXELANE.
+
+Was ists / mein Fürst / was ists / das den verdammten Hälfen
+Das Blut-gericht verschäubt.
+
+
+
+SOLIMAN.
+Der Rache wider-spihl.
+
+
+ROXELANE.
+Sie sind in Ossmanns Hand.
+
+
+SOLIMAN.
+
+Sie sinds / doch der so vihl
+Nicht Macht hat über sie als da sie weit von hinnen.
+
+
+
+ROXELANE.
+
+Wer wird dem Soliman die Hände binden können?
+Wer können? längst geschehn.
+
+
+
+ROXELANE.
+
+Geschehn / was nimpt / was reift
+Aus Stambuls thürmen sie?
+
+
+
+SOLIMAN.
+Dis was selbst Ossmann preist.
+
+
+ROXELANE.
+
+Hat wer / der ihm villeicht mit Mitschuld angekettet
+Und mit im Spihl gewest / durch Vorbitt Ihn errettet?
+
+
+
+SOLIMAN.
+Vergebens!
+
+
+ROXELANE.
+Hat sie Ihm der Pöfel loos gemacht?
+
+
+SOLIMAN.
+Nein! auch nicht!
+
+
+ROXELANE.
+Hat betrug sie aus den Fässeln bracht?
+
+
+SOLIMAN.
+Sie irrt!
+
+
+ROXELANE.
+
+Steht Mohamed der Pers villeicht im wäge?
+Daß seine Botschaft sich nicht uns ins Mittel läge /
+Weil Ibrahms schlauer Frid ihm schier sein Reich verehrt
+Daß ihrer Hoheit hett nach Krigs-Gebrauch gehört?
+
+
+
+SOLIMAN.
+Vmbsonst! was hätt uns Schach hir thulichs fürzuschreiben?
+
+
+ROXELANE.
+
+Und nun noch dis / noch das / welch andre gründe treiben
+Den Keiser auf den wahn?
+
+
+
+SOLIMAN.
+Wo nicht auf rechten schlus!
+
+
+ROXELANE.
+
+Auf rechten schlus? Wenn man den Frefel lassen mus
+Gantz un-gestraft hingähn? wenn man dem Ertz-Verräthe
+Dem trew-vergäßnen Hund und ärgsten Vbelthäter
+Der Galg- und Rad verdihnt / noch durch die Finger siht?
+Daß Er verdrüßlich uns als Dorn in Augen blüht?
+Kan ihre Hoheit dem kan Rach und Recht vergäben
+Der nach des Keisers Stuhl ja nach des Keisers Leben
+Meineidisch hat gezihlt?
+
+
+
+SOLIMAN.
+
+Man arg-wohnts: aber dis
+Das Er das Keiserthumb erhalten / ist gewis.
+
+
+
+
+ROXELANE.
+Durch dis erhalten hats der Hund ihm vorbehalten.
+
+
+SOLIMAN.
+
+Es sei ihm wie ihm sei / man heist ihn schlechts erkalten;
+Und gibt nicht auf verdihnst auf Stärk und Tugend acht.
+Katz-Bektas Nachkomm hatt in solch Gedräng uns bracht;
+Die Türksche Heers-Krafft war meist flüchtig durchgelauffen;
+Wir kämpften rings umbringt vom Chientayer hauffen
+Es hat uns wach und Volk verlassen / ausser Ihn
+Wiewol er als ein Sklaf an Ketten muste zihn \
+
+Entwaffnet / un-geharnscht. Es ward nach uns geschmiffen
+Ein Spis durch welchen wir wol in das Gras gebissen / \j
+
+Wenn Er Ihn von der Brust uns nicht vorbei geweist.
+Er säbelt' umb uns her auf die die uns umb-kreist
+Mit einem von der Erd ergriffenen Gewehre;
+Bis Er dem hin und her zerstreuten Türkschen Heere
+Ein Loos gab / daß zu stehn / sie könten Siger sein.
+Er drang auch in die Stad sich mit den Flüchtgen ein
+Alleine / sonder hülff / und gab auf ihren Thürmen
+Ein Zeichen unserm Volk wo sie sei zu er-stürmen.
+Der Bassa Sinan ward geschlagen bis aufs Haupt
+Als er mit uns zog heim / doch als wir Ihm erlaubt
+Nur einen Zug zu thun / hat er mit eignen Fäusten
+Des Zellibs Kopff zerkipft / und die das Schwerd uns weisten
+Straks zum gehorsam bracht / was er in Persen thät
+Erweist Karamide / Orfanzehf / Bagadet
+Wo er dem Ossmann auf den göldnen Reichs-krantz sätzte /
+Als uns der Califa für Persens König schätzte.
+Vmb nechsten Friden-Schluß / als Er durch Siges-hand
+Den Bosphor und den Phrat / Sark und Bizanz verband /
+Ist Stambul Ihm wie Schach und Vlama verpflichtet.
+
+
+
+ROXELANE.
+
+Durch neue Laster wird / mein Fürst / verdihnst vernichtet.
+So viel als Er genützt verdihnt kaum also viel
+Als unsre Sulthanin für die Erlösung wil
+Da Ihn die Hänker schon zum Halß-Gerichte führten /
+
+
+Ich schweige / mit was ihn für Ehren-ämptern zihrten /
+Des Keisers Majestät
+
+
+
+SOLIMAN.
+
+Selbst Ossman spricht für Ihn
+Selbst Ossmann / der ihn sol dem Hänker gäben hin;
+Der einen Augen-blik verflucht / verdammt / verhöhnet /
+Den andern liber ihn verehrt / begnadigt / krönet
+Bald Gunst bald strang spricht zu.
+
+
+
+ROXELANE.
+
+Wo nicht mein Fürst das Flehn
+Der die er übt / verschmäht / so laß mein Keiser den /
+Der nur auf Ossmans Stul auf unser ungedeien
+Und beider Tod umbgeht / die schwartze Seel ausspeien /
+Den schuldgen Kopff abhaun. Mein Fürst / mein Solimann
+Wo Ibrahm lebend bleibt / wird schälten was gethan /
+Verfluchen Stund und Tag / an dem er nicht gewüttet
+Auf dieses Vn-thier hat / wenn Stambuls Reich beschüttet
+Mit Flamm und Aschen sein / mit Leichen überdäkkt
+Der Stul in Graus zermalmt / die burk in Brand gestäkkt /
+Und uns sein heimlich Gift des Meineids auf wird reiben /
+Uns die wir mit der Glutt nur spil und Kurtz-weil treiben.
+
+
+
+SOLIMAN.
+
+Es sei denn / was sie wil straks bald in eil verriebt /
+Prinzessin / der wir Macht was abzuschlagen nicht.
+Geh Rustahn lad ihn uns zum schwartzen Todten-Essen
+Und Mord-Trankk / weil hir nichts gebräuchlichs zu vergässen:
+Du solst auch / wenn er sich gesätzt an Hali Seit
+Zur Taffel haben wird / das lange Sterbe-Kleid
+Selbst überreichen ihm samt den schwartz-seidnen strängen.
+Itzt Last uns etwas nach des Hertzens Schwer-muth hängen.
+
+
+
+Solimann.
+
+
+
+Der Schluß ist denn gemacht / das Vrtheil ist gefällt /
+Wo nicht ein ander schon den ersten Schluß aufhällt!
+Der schluß ist denn gemacht auf Ibrahms Halß und rükken /
+Auf Ibrahms Kopff und Blut. Den mag der Henker drükken
+Den mag die Rach in Koth vertreten / welchem wir
+Mit unsrer sanften Hand zu harte kommen für
+Er sterbe / nein / nein / nein / umbsonst / in eil / verhätzet
+
+
+Aus Anreitz / unbedacht / gesprochen! Freundschafft sätzet
+Uns andern Vorfatz für. Wir wider-ruffens gar
+Wir stossen alles umb / was vor geschlossen war.
+Wir schiben alles auf / in willens vor zu wissen /
+Was sich noch gegen uns wird Isabell entschlüssen.
+
+
+Reien der Begihrde / der Vernunft / des Menschen.
+
+
+
+BEGIHRDE.
+
+Dis ist der Pfeil / und dis die Kertze
+Die mit begihrgen Flammen kan
+Des Menschen Glider Sinn und Hertze
+Verzaubern und sie zünden an.
+
+
+
+VERNUNFT.
+
+Dis ist der Zaum / und dis die Spritze
+Der wider deine Pfeile kämpfft /
+Die der Begihrde Flamm und Hitze
+Verläschet / bläset auf und dämpfft.
+
+
+
+BEGIHRDE.
+
+Dis ist die Glutt die alle Glider
+Und alle Sinnen nimmet ein /
+
+
+
+VERNUNFT.
+
+Auch meinem Zaume folgt ein ieder
+So vihl ihr in dem Menschen sein.
+
+
+
+BEGIHRDE.
+Die Nihren zünd ich an mit liben;
+
+
+VERNUNFT.
+Ich mit erfreuter Tugend-Brunst.
+
+
+BEGIHRDE.
+Verstand führ ich zum Wollust-üben;
+
+
+VERNUNFT.
+Ich zu tif-sinnger Künste gunst.
+
+
+BEGIHRDE.
+Das Hertze zu der hoch-muth Throne;
+
+
+VERNUNFT.
+Ich zu der hohen Demuth Glantz.
+
+
+BEGIHRDE.
+Das Haupt zur stoltzen Ehren-Krone;
+
+
+VERNUNFT.
+Ich zu dem grünen Weißheits-Krantz.
+
+
+BEGIHRDE.
+Die Augen zu verbuhlten Blikken;
+
+
+VERNUNFT.
+Ich Gottes Wunder zu beschaun.
+
+
+BEGIHRDE.
+Die Hand zum geilen Wange-drükken;
+
+
+VERNUNFT.
+Ich etwas nutzbars zu erbaun.
+
+
+BEGIHRDE.
+Die Ohren zum Belustgungs-Klange;
+
+
+VERNUNFT.
+Ich selbst des Höchsten wort zu hörn.
+
+
+
+BEGIHRDE.
+Die Zung zu Lust- und schertz-gefange;
+
+
+VERNUNFT.
+Ich Gotts-Dihnst / Artznei / Recht zu lehrn.
+
+
+BEGIHRDE.
+Die Lippen zu un-keuschem küssen;
+
+
+VERNUNFT.
+Ich sie zu Gottes Preis zu rührn.
+
+
+BEGIHRDE.
+Das Fleisch die Libs-brunst zu genüssen;
+
+
+VERNUNFT.
+Ich die Geschlechte fortzuführn.
+
+
+BEGIHRDE.
+Die Kräffte zu gros-müttgem zwingen;
+
+
+VERNUNFT.
+Ich für Gefahr zu schützen sich.
+
+
+BEGIHRDE.
+Den Fuß zum tantzen und zum springen;
+
+
+VERNUNFT.
+Ich hin und her zu tragen mich.
+
+
+BEGIHRDE.
+
+Mein Pfeil trift durch die Ahrten-Zeugung
+Auch frücht und unvernünftig Vih:
+
+
+
+VERNUNFT.
+
+Ich auch weil die Geburts-Zuneigung
+Mir von sich selbst erspart die Müh.
+
+
+
+BEGIHRDE.
+
+Begihrd ist von Natur gezeuget
+Den meisten Welt-Geschöpffen an.
+
+
+
+VERNUNFT.
+
+Wol! wenn dich die Vernunfft nur beuget
+Und aus dem Grund aus-rotten kan.
+
+
+
+BEGIHRDE.
+
+Begihrd ergätzt mit tausend Lüsten
+Und gibt Vergnügung / stärkk / und Krafft.
+
+
+
+VERNUNFT.
+
+O schlechte Luft! wenn aus dem süssten
+Bald Galle wird und Wermuth-Safft.
+
+
+
+BEGIHRDE.
+
+Ich schantze meinen Kindern Tittel
+Schätz / Ehre / Zepter / Insel zu /
+
+
+
+VERNUNFT.
+
+Vnd bist bald Hänkers-Bub und Bittel
+In der Gemütter sanften Ruh.
+Du leitst auf Wäge die verborgen /
+Du leutest / und hast selbst den Star.
+
+
+
+BEGIHRDE.
+
+Vernunfft siht nichts als schwere Sorgen.
+Si hat Licht-heller Augen zwar;
+Doch wo si die begihrd anzündet
+Siht Sie wi durch ein Blaaster kaum.
+
+
+
+VERNUNFT.
+
+Bis daß vernunfft dich überwindet
+Und macht für Dunst der Sonne raum.
+Begihrd hat alles über-flüssig /
+
+
+
+
+VERNUNFT.
+Doch ist sie nur an Mängeln reich.
+
+
+BEGIHRDE.
+Begihrd ist räg' und keinmahl mussig.
+
+
+VERNUNFT.
+Sie ist dem Wetter-Hahne gleich.
+
+
+BEGIHRDE.
+Mein Reich reicht über alle Reiche.
+
+
+VERNUNFT.
+Mein Reich ist Fride / deines Krig.
+
+
+BEGIHRDE.
+Mein Krig findt nichts das ihm nicht weiche /;
+
+
+VERNUNFT.
+Dein Krig ist flucht / mein Frid ist Sig.
+
+
+BEGIHRDE.
+
+Ich kriche nicht wie du auf Erden /
+Mein Zihl ist Sternen-gleiche Höh.
+
+
+
+VERNUNFT.
+
+Dein Himmel kan nicht höher wärden
+Als wo ich mit den Püffen steh. l
+Mein tiffter Zihl-Zwek ist der Himmel /
+Dein böchster Gipffei Erd und Koth:
+Dein jauchtzen ist ein traur-getimmel / i
+Geld / Ehre / Wollust ist dein Gott.
+Mein trauren Lust; mein Armuth Fülle /
+Dein Wohl-stand kränke trauer-sucht /
+Dein Will ist leer und blosser Wille /
+Dein Wunsch hekkt Wünsch und meiner Frucht.
+
+
+
+Der Mensch.
+
+
+
+Wenn der Erde Schatten-Kugel körnt gerade zwischen ein
+Wird der Monde blaß und machet schwartz der Sonne Gegenschein:
+Wie vihl finsterer erscheinet des vernünftgen Menschen Hertze /
+Wenn Ihm die begihrd umb-nebelt / der Vernunft erleuchtungs-Kertze.
+Wer der begihrde folgt / verbrennt in ihrer Glut,
+Verschmältzt in ihrer Flamm / erläufft in ihrer Flut.
+Wer sich mit der Vernunfft gedrangen Zügeln zäumet /
+Der Fakkel der Vernunfft sein dunkkel Hertz einräumet /
+Und ihren Anker fänkt in der Gedancken Hauß
+Mit Strömen der Vernunfft läscht die begihrden aus;
+An dem wird die Begihrd mit ihrem Pfeil nichts enden /
+Den wird nicht die Begihrd mit ihrem Dunst verbländen /
+Ihr Sturm-Wind wird ihn auch in Schiff-bruch nicht gefährn
+Den wird nicht die Begihrd in ihrer Glut verzehrn.
+
+
+
+
+
+
+
+
+3. Akt
+
+
+
+
+
+
+Die dritte Abhandlung.
+
+Der Schau-Platz verändert sich in der Isabelle Gefängnüs.
+
+
+Isabelle.
+
+
+Bestürtzte Sterblichen / die Ihr die band voll Jahre
+In Lust und Jammer theilt / eh Ihr Sie auf der Baare
+Nach Schuldigkeit lägt ab / Elende / schaut uns an /
+Ob der geängstigste sich uns vergleichen Jean!
+Schaut / urtheilt ob ein Mensch im Schau-Platz diser Erden
+Durchs Himmels Haß und Neid mehr kan geängstigt wärden;
+Schaut urtheilt / ob ein Mensch der sich durch herben fall
+In gleichem Elend weis; schaut ob des glükkes Ball
+Mit imand trüber spilt! schaut urtheilt meine Schmertzen!
+Ob Euch ein Donner-Keil des Trübsaals mehr die Hertzen
+Gerührt / zerschmettert hat! Die Thränen rühm Ich nicht
+Die dis gesicht benätzt / seit Ich das Tage-Licht
+Bestrahlet von Kind auf; was uns für Vnglüks-Fälle
+Zur Hand gestossen sind. Die erste Jammers-Kwälle /
+Die erste Schif-bruchs-Flut die uns durch ernste Noth
+Fast gar zu Scheitern schmiß / und uns die Waffen both
+War der Grimbalder Haß zu den Justinianen
+Die bis zun Eltern sich von den uhralten Ahnen
+Schier un-versöhnlich span. Als diser Sturm verging
+Zog ein new Wetter auf das Luft und Krafft empfing
+Von dem versöhnungs-Wind der uns zwar einen Hafen
+Doch auch neu Vnglük wieß: als die mehr schlechte Sklafen
+Als edlen Spinoler den Rudolf bei der Nacht
+Mit stürmer Hand fieln an / und einer umbgebracht
+Durch Ibrahms Spitze fiel / der sich aufs Vaters seite
+Straks aus dem zwei-Kampff gab. Wiewol nun von dem Streite
+Der Väter Haß hört' auf / so ward aus Stad und Land
+Doch mein Justinian von unserm Rath verbannt.
+Die tiffen Säufzer sind von nimand zu ermässen
+
+
+Die als Ich zu Monahk hab oft bethränt gesässen
+Mein jammernd Hertz aussties / wenn Ich die Briffe schrieb
+Dem Libsten / ohne den ich Lib und Zeit vertrib!
+Doch was erzähl Ich dis? was war es / was beklaget
+Zu schätzen gegen dem / als Mir an ihm verfaget
+War schriftlicher besuch / und uns die Julie
+Dem Printz von Massarahn zu gäben zu der Eh
+Durch-aus entschlossen war: Bis daß des Himmels gütte
+Des Hertzogs Lib auf-hob / aus Juliens Gebitte
+Und stränger Aufsicht nam: Doch bald ward dise Lust
+Mit neuer Pein vergällt. Es war uns nichts bewust
+Als das Justinian Bestallung sollte haben
+Ins Deutschen Keisers Heer / doch erste Briffe gaben
+Uns Nach-richt / daß Er längst dem Krigs-Ampt ab-gedankt;
+O Nach-richt! Wie hat uns die lange Zeit verlangt
+Zu wissen / ob mein Fürst schon todt sei / oder lebe.
+Die Hand war stets geschikkt das sie dem Jammer gäbe
+Ein Ende durch den Tod. Doch nach so rauer Pein
+Schien einen Augen-Blikk des Glükks geschminkter schein /
+Als meinen Ibrahim mit Frewd und Ehrn-Gepränge
+Gantz Genua nahm an / den Ossmann nach der länge
+Begnadigt heim zu zihn. O trauriger Verlust
+Als Er nach kurtzer Zeit uns lassend zihen must
+Ins Türkschen Blut-Hunds dihnst. Doch wie bei kühlem Mertzen
+Des Himmels Angefleht bald finstre Wolken schwärtzen
+Bald auch die Sonne scheint: so handelt' uns die Noth
+Als Rustahns nützlich Raub nach Solimans Geboth
+Uns nach Stambulden bracht'/ und uns nach Wunsch ergätzte
+Mit Ibrahms Gegenwart. Doch ach! was ich mir schätzte
+Für günstigstes Gelükk / das hat / ach ach! ach Weh
+Uns in den Jammer-Schlund / uns in die Thränen-See
+Uns in dis Schiff-bruchs-Meer / uns in dis trübfals-Feuer
+In disen Tod gestürtzt / wo wir so schwer so teuer
+Bezahlen was erkwikt'/ hat uns ein Tag ergätzt /
+Seit Ibrahim den Fuß in Persens Krig gesätzt!
+Mit was erschröknüs hab Ich die erboosten Wellen
+
+
+Die mächtiger / als mich mich schwaches Weib zu fallen
+Erduldet auf der Brust? Mit was Bestand hab Ich
+Die Brunst zurükk gedrükt / durch welcher Flamm an mich
+Der tolle Sulthan sätzt'! Ach! Hänkker unsers Lebens!
+Ach Blut-Hund! ach Tiran! hat Ibrahm dir vergebens
+Geleistet treue dihnst? hat Ibrahm dir so viel
+Zu Lib und nutz gethan? daß wir ein Zwek und Ziel
+Itzt deinem wütten sein! Gott / mächtigster Erretter
+Printz aller Printzen Printz / laß uns dis Vnglüks-Wetter
+Nicht gar in nichts verkehrn; wo nicht / hilf / das der Nacht
+Des Kerkkers / uns der Tod geschwind ein Ende macht.
+
+
+Soliman. Isabelle.
+
+
+
+SOLIMAN.
+
+Wir fragen noch einmal ob sie noch un-verrükket
+Harr auf dem alten Kopff / ob sie noch nicht geschikket
+Zu dem / worzu wir Ihr bedänk-Zeit lissen zu?
+
+
+
+ISABELLE.
+Bedänk-Zeit ändert uns nicht die Gewissens-Ruh.
+
+
+SOLIMAN.
+Was nicht bedänk-Zeit kan wird Schärff und Eifer wenden.
+
+
+ISABELLE.
+Wir wünschen aus der See in Tods-Port ein-zuländen.
+
+
+SOLIMAN.
+Dünkkt Klipp und Strudel sie ein froher Port zu sein?
+
+
+ISABELLE.
+Ja wol! wir fahrn zur Ruh aus disen Banden ein.
+
+
+SOLIMAN.
+Sie kan ein besser Wind zum Ehren-Hafen führen.
+
+
+ISABELLE.
+Wenn wir durch disen Port nur nicht den Port verlieren.
+
+
+SOLIMAN.
+Wie daß Sie flüchtig Ihn / ist er ein Port / umbfahrn?
+
+
+ISABELLE.
+Weil die Gedanken uns auf einem bessern warn.
+
+
+SOLIMAN.
+Wie daß Euch der nicht taug der besser ist als alle?
+
+
+ISABELLE.
+
+Ich wil Ihn wo Ich kan umbsegeln: Er gefalle
+Wem Er gefallen wil!
+
+
+
+SOLIMAN.
+Wie wenn er euch denn mus?
+
+
+ISABELLE.
+Er mus nicht / dem es nicht zu sterben ein Verdrus.
+
+
+SOLIMAN.
+Bedänkt wol was ihr thut / bedänkts wo euch zu rathen!
+
+
+ISABELLE.
+Es dünkt uns wol gethan was wir zuvor schon thaten.
+
+
+SOLIMAN.
+Bedünkts euch wol gethan wenn ihr den Keiser höhnt?
+
+
+ISABELLE.
+Nein / wenn wir ihn verehrn.
+
+
+SOLIMAN.
+
+Wenn ihr den der euch krönt
+Mehr als zum Sklafen macht?
+
+
+
+ISABELLE.
+Der uns in Kerker stäkket?
+
+
+
+SOLIMAN.
+In der nur gifftgen Haß des Keisers lib erwäkket?
+
+
+ISABELLE.
+Der Keiser feindet uns nur durch sein liben an.
+
+
+SOLIMAN.
+Der unser Demuth nur mehrt ihren hoch-muths-wahn?
+
+
+ISABELLE.
+Des Keisers Demuth schrökkt uns mehr als wenn er krachet.
+
+
+SOLIMAN.
+Die unser bitt und flehn nur unerbittlich machet!
+
+
+ISABELLE.
+Des Keisers bitt und flehn ist rauer als ein Schwerd.
+
+
+SOLIMAN.
+Der unser thränend Aug das Hertz in stein verkehrt!
+
+
+ISABELLE.
+Des Keisers Thränen dräun uns mehr als schwerdter-schleiffen.
+
+
+SOLIMAN.
+
+Wol! so last strang und Pfal und schwerdter uns ergreifen.
+Wol / so last unsre Thrän abwaschen euer Blut
+Weil / wie ihr fagt der Tod euch so gelinde thut.
+
+
+
+ISABELLE.
+
+Wir finden uns geschikkt. Vnd wo wir ja den wissen
+So laß mein Fürst allein uns für den Ibrahm büssen
+Der nichts an dem hat schuld / was Isabell begeht.
+
+
+
+SOLIMAN.
+
+Nichts schuld hat / der der uns allein im Wege steht
+Und einen Ein-trag thut?
+
+
+
+ISABELLE.
+Was hat er ie begangen?
+
+
+SOLIMAN.
+Auf was für einer That ward er mit Euch gefangen?
+
+
+ISABELLE.
+Auf der zu der ihn Noth und Recht gedrungen hat.
+
+
+SOLIMAN.
+Fand Wollust mehr bei Ihm als der gehorsam statt?
+
+
+ISABELLE.
+
+Bei Schiffbruch und gefahr ergreifft man zu entkommen /
+Brett / Holtz und was man kan.
+
+
+
+SOLIMAN.
+
+Es ist denn fürgenommen /
+Daß sie mit einem Wortt sich rund ent-schliessen sol.
+
+
+
+ISABELLE.
+Wir thun was Tugend heist.
+
+
+SOLIMAN.
+
+Bedänkts bei zeite wol
+Daß Ossman der sie bitt ihr Macht hat zu gebitten.
+
+
+
+ISABELLE.
+In dem nicht / wo er wil recht handeln / und nicht wütten.
+
+
+SOLIMAN.
+Daß Ossman der sie übt der übe würdig sei.
+
+
+ISABELLE.
+Libt uns der Keiser denn so mach Er uns doch frei.
+
+
+SOLIMAN.
+Sie sol den Keiser selbst Ihr zum Leib-eignen haben.
+
+
+ISABELLE.
+Dis heist mit Ketten / nicht mit Freiheit uns begaben.
+
+
+SOLIMAN.
+
+Kan ihr der / der so bald sie zu Monak verlies
+So vihl am Wäge stehn?
+
+
+
+ISABELLE.
+
+Selbst ihre Hoheit prieß
+Den der auch Preisens werth / daß Er die nach-gesätzet /
+Die er doch mehr als sich mehr als die Welt geschätzet /
+Der Zu-sag und dem Eid.
+
+
+
+SOLIMAN.
+
+Wir prisens zwar als gutt
+
+
+Für uns / doch nicht vor sie.
+
+
+
+ISABELLE.
+
+Wenn er mir unrecht thut /
+Dem Keiser wol / warumb strafft er ihn unsert-wägen?
+
+
+
+SOLIMAN.
+Weil auch der Keiser wil der Fürstin Wolfarth pflägen.
+
+
+ISABELLE.
+
+Ach / dis ist nicht gepflägt / wenn den mein Fürst betrübt
+Den Isabelle mehr als selbst ihr Leben übt?
+
+
+
+SOLIMAN.
+
+Libt sie den Ibrahim mehr als ihr eigen Leben /
+Wol / so kan sie hirdurch ihm straks die Freiheit gäben.
+
+
+
+ISABELLE.
+Die Freiheit? wie! durch was?
+
+
+SOLIMAN.
+Wenn sie den Keiser übt
+
+
+ISABELLE.
+
+Was nützt es / wenn man dis für ihn zur Beute gibt
+Daß wir so gerne nicht als seel und Geist entbehren /
+Und ohne das ihm nicht wird Ibrahim begähren
+Zu leben / frei zu seyn.
+
+
+
+SOLIMAN.
+
+Sol denn der Keiser eh
+Sich selber bringen umb / als das sein knecht vergeh?
+Der Keiser kan sich selbst mit samt den knecht erhalten.
+
+
+
+SOLIMAN.
+Nein / Ossmann mus wo sie nicht libet straks erkalten.
+
+
+ISABELLE.
+Und Isabelle wil eh sie ihn übt vergehn.
+
+
+SOLIMAN.
+Itzt wird ihr Ibrahim den schwartzen strang ausstehn.
+
+
+ISABELLE.
+
+Es geh nun wie es geh / Er wirds erfreuter leiden
+Als uns aus seiner Lib ins Keisers Dihnst sehn scheiden /
+Doch ach! wo dänkk ich hin. Ich führ ihn in die Noth
+Auf diese Schiffbruchs-klipp in Marter Angst und Tod /
+In diese Donner-Wolkk / die über ihn ergrimmet.
+Wo noch ins Keisers Hertz ein Freindschaffts-funkke glimmet
+Wo Ibrahm ihm nur noch mein Fürst im träum kompt ein
+Wo Ibrahms Thaten ihm nur nicht ein ekel sein
+Wo meine Thränen noch mein Fürst so viel verfangen /
+So laß Er seine Magd die jüngste bitt erlangen /
+Die jüngste bitt / mein Fürst / mein Keiser / er gesteh
+Das die die es verdihnt / nicht Unschuld untergeh.
+Was hat hier Ibrahm schuld wenn Isabelle sündigt
+Warumb denn das man Ihm nicht Ihr den Hals ab-kündigt?
+Muß anders Rach und Grimm auf seinem Kopf beruhn
+So laß uns auch mit ihm.
+
+
+
+SOLIMAN.
+Wir wissen was zu thun.
+
+
+
+
+Der Schau-Platz verändert sich in den Keiserlichen Richt-Saal.
+
+
+
+Ibrahim. Hali. Achmatb. Rustahn.
+
+
+Etliche andere Bassen / die Stummen.
+
+
+Der Aufzug zu der Todten-Mahlzeit.
+
+
+
+
+RUSTAHN.
+
+Nachdem die Majestät die Rach und Recht befästigt
+Des großen Solimans / vom Ibrahim belästigt
+Gereitzt durch deine Schuld verlätzt durch deine Flucht /
+Durch deinen Vnter-gang des Reiches bestes sucht;
+Heist seine Hoheit mich den Ich in Demüth ehre
+Dir reichen diesen Rokk.
+
+
+
+IBRAHIM.
+
+Mein itzigs Beispihl lehre
+Den Rustahn / daß sein Fall so nah ihm sei als mir.
+
+
+
+RUSTAHN.
+Ich thus vom Soliman nicht von mir selber dir.
+
+
+IBRAHIM.
+Wir wissens / was dein Maul uns fälschlich angedichtet.
+
+
+RUSTAHN.
+Weistu nicht das dich selbst dein Schelmstükk hingerichtet.
+
+
+IBRAHIM.
+Die Tugend wird durch Neid zum Laster oft gemacht.
+
+
+RUSTAHN.
+
+So spricht der / der sich selbst zu seinem falle bracht:
+Der Neid kan keinen nicht ohn Vrsach überschütten.
+
+
+
+IBRAHIM.
+Wie kan ich als ein Mensch was menschlich ist verhütten?
+
+
+RUSTAHN.
+Steigt eine Flamm empor wenn sie nicht Nahrung findt?
+
+
+IBRAHIM.
+Des schelen neides Aug ist des Gelükkes kind.
+
+
+RUSTAHN.
+Mißhandlung darf allein dem neide Platz gestatten.
+
+
+IBRAHIM.
+Wem Glükk und Sonne scheint / den däkt auch neid und Schatten.
+
+
+RUSTAHN.
+Der Geier rücht ein Aaß / leb-haffte Leiber nicht.
+
+
+IBRAHIM.
+
+Manch Hund billt wenn ihm gleich oft gar kein leid geschicht:
+Der neid blüth nirgends mehr als wo die Tugend grünet.
+
+
+
+RUSTAHN.
+Der neid körnt nicht so hoch der bloßer mißgunst dihnet.
+
+
+IBRAHIM.
+Manch starkes Last-Schiff geht zu Scheittern durch den Wind.
+
+
+RUSTAHN.
+Doch weis man / das ein Kahn noch seltener entrinnt.
+
+
+IBRAHIM.
+
+Genung hirvon! genung / weg schlechtes Wort-rgezänke!
+Wir nähmen disen Rokk dis grimme traur-geschänke /
+Zwar unerschrokken an / und scheun dis Mordgericht
+Und schmäliche vergehn mit keiner Ader nicht.
+
+
+Weil unschuld und Verdihnst und unbeflekkt gewissen /
+Die Marter / denen die sie nicht verdihnt / versüssen.
+Uns graust nicht vor dem Tod und harten Hänker-strang
+Weil unser Ehren-Ampt noch niemals bessern Dank
+Noch bessern Lohn verdihnt. Die roth-bespritzten Wände
+Vons Kassa Bassen blut / in welchem seine Hände
+Der dürstge Sulthan wusch / erinnern uns im Schlaff
+Daß dis uns heute triff was jenen gestern traff.
+Doch schmertzt michs minder nicht / daß Osmann unserthalben
+Mit disem Schand-flek ihm wird seinen ruhm besalben /
+Daß unser blut ihm wird ein Brand-mahl brännen ein /
+Dem wir ob dieser Rach dennoch nicht ab-hold sein.
+Noch schmertzlicher fällts uns / wenn wir die Neider sehen /
+Die auf uns dieses Gifft mit steiffen Bakken wehen /
+Frolokkend über uns / wenn unser Tods-seind kan /
+Die Seel uns sprächen ab die strängel kündgen an.
+
+
+
+Die stille Mahlzeit.
+
+
+
+
+IBRAHIM.
+
+Wol an / denn laßt uns gehn die rauen todes-gänge
+Uns wird die saure frist des lebens nicht zu enge /
+Weil Rustahns Vngedult uns zu verstehen gibt /
+Daß Stund und Tod sei dar. Ist daß uns Ossmann libt
+Dis unser Bürg und Pfand? dem wir mit Lib und Traue
+Bis auf den Tag gedihnt / dem wir mit Stein und Bleie
+Und schwerem Stahl belägt erhilten Leib und Geist /
+Als Ihn der Feind mit Tartsch und Spiß und Schild umbkreist:
+Vns? die wir gantz bedekkt bei den Nifaten Steinen
+Das fändicht harte Land / mit Leichen / Hirn und Beinen;
+Die wir mit Eisen / Helm und Harnisch / stein und Schwerd
+Der Parten Feld gepflügt / des Sofi Kron gewehrt
+Dem der uns hir erwürgt mit den gedrangen Strikken /
+Daß wir in eignem schaum geronnen Blutts erstikken.
+Wiewol ist Wund und Zeit umb dieses schwartze band
+Umb diesen Todten-Rokk so traulich angewand!
+
+
+O hette ja mein blutt des Sinans durst gestillet!
+O hett ich meine Seel im strängeln aus-gebillet!
+O wär ein gifftig Pfeil durch lung und Hertz geschlipfft;
+O hett ein Persisch beil mir nakk und Stirn zerkipfft.
+Doch Last uns gehn! wol an! du schau-Platz meiner Sige
+Du Zuflucht / Schirm und Trotz der Keyserlichen Krige
+Du aller Städte Stad / und du / ihr Keyser auch /
+Ade! dein Siger stirbt; du du durch mich in Rauch
+Und in umb-schwermend Asch und graus verkehrtes Persen
+Ade! dein schrekken liegt! mein siegs-Lob wird doch herschen
+Und meiner Palmen Ruhm wird eingeetzet seyn
+Den halben Marmeln / die von mir geäschert ein;
+Dem Sande / der noch naß von unser Feinde blutte
+Das unsre Faust vergos dem Soliman zu gutte
+Ihr Freunde gutte Nacht! Ihr / die Euch Mund und Hand
+Und Hertze mir verknipft! Ade! mein Vaterland!
+Vertraute Fürstin / Ach! zu gutter Nacht / mein Leben /
+Der wir dis letzt Ade mit schweren Säuftzern gäben /
+Mit schweren Säuftzern / ach! man lasse dise Glut
+Des Sulthans läschen aus / allein durch unser Blut /
+Und lasse sie nicht des was Ibrahm büst / entgälten /
+Sol der erblaste Geist nicht eure Mord-Lust schälten /
+Den strenges Blut-Recht tagt aus seiner Grufft herfür.
+Ihr alle / die Ihr Mich bestürtzt schaut / und was Mir
+In eurer Gegenwart für Jammernüs begegnet /
+Seid von Mir zum Ade! zu gutter Nacht gesegnet!
+Ihr legt den Rokk uns umb: hier ligen wir gesträkt!
+Schlingt uns die strängel an. Wenn wir den Kopff gestäkt
+Zur Erden / denn ziht zu / daß wir im eignen Bade
+Ersauffen unsers Blutts.
+
+
+
+
+
+Trompeten.
+
+
+Soliman. Ibrahim. Rustahn. Die Bassen.
+
+
+Die Stummen.
+
+
+
+
+SOLIMAN.
+
+Halt halt verziht Genade!
+Verziht halt inne halt / verziht! Es ist geschehn
+Es ist geschehn / daß Er noch nicht den Tod sol sehn.
+Was starrt Ihr? hebt Ihn auf / bald macht ihm los die Strikke /
+Ziht Ihm das Tods-Kleid aus!
+
+
+
+RUSTAHN.
+
+Zeucht Soliman zurükke
+Was erst sein Aus-spruch war?
+
+
+
+SOLIMAN.
+Thu was dein Keiser heist.
+
+
+IBRAHIM.
+
+Wo bin Ich? Himmel hilf! welch Blitz welch Donner reist
+Den harten Strang entzwei?
+
+
+
+SOLIMAN.
+
+Pakt euch aus dem Gesichte /
+Geht Hänkker!
+
+
+
+IBRAHIM.
+
+Wie mein Fürst? hebt Er das Blut-Gerichte
+Von Ibrahms Nakken auf?
+
+
+
+SOLIMAN.
+Ziht Ihm den Purper an.
+
+
+IBRAHIM.
+Den Purper / wie? wem / Mir? Mir? Keiser.
+
+
+SOLIMAN.
+
+Ossmann kan
+Dich nicht verdammen.
+
+
+
+IBRAHIM.
+Er mein Keiser?
+
+
+SOLIMAN.
+
+Wir begnaden
+Den Ibrahm / daß Er frei.
+
+
+
+RUSTAHN.
+Was mag dem Keiser schaden?
+
+
+SOLIMAN.
+
+Schweig Hund! Es ist geschworn / befästigt durch den Eid
+Daß Ibrahm leben sol.
+
+
+
+IBRAHIM.
+
+Ach glüklicher Bescheid /
+O meines Keisers Gunst / ach meines Keisers gütte!
+
+
+
+SOLIMAN.
+
+Die Tugend Ibrahims dein redliches Gemütte
+Der hoch-betheuert Eid der erst gefaste Schlus
+Bezwingt den Soliman. Er Ibrahm Ibrahm mus
+Noch leben! trit herbei / mein Ibrahm / trägstu schäue
+Uns zu umb-armen? komm! die uns sonst fremde Räue
+Vertilgt den grimmen Haß / die Gunst verneuert sich
+In der verhasten Seel / und Ossmann übet dich
+Der dir vor spinnen-Feind. Des Ibrahms Freundschafft findet
+Den alten Sitz in uns: der Libes-Dunst verschwindet /
+Der uns umb-nebelt hilt / durch den erneuten Glantz
+Der würkenden Vernunfft. Wir schaun den grünen Krantz
+Des kräfftigen Bestands / die tapfermüthge Tugend
+Der Isabellen an: nicht ihre schöne Jugend
+Nicht ihres kinnes Perl nicht ihrer Augen Schein /
+Die Marmel-Brüste nicht / der Stirne Helffenbein
+Nicht den Korallnen Mund und die Milch-rothen Wangen;
+
+
+Wir sind verwundernd zwar doch itzt nicht mehr gefangen /
+Wir wünschen sie zu ehrn doch nicht ihr Eigenthum.
+Wir wünschen den Geruch nicht selbst die Ros' und Blum.
+
+
+
+IBRAHIM.
+
+O itzt erkänn Ich erst des Keisers eigne Stimme!
+Itzt lern Ich daß so sehr noch Ossmanns Tugend glimme!
+Itzt hör Ich / daß er noch der alte Sulthan sei /
+Der den nicht tödten kan der vom verbrechen frei.
+Es ist nicht Soliman nicht meines Keisers Wille
+Gewesen / was verdammt. Die falsch-beschönte hülle
+Der Wahrheit die den Sinn mit scheinbarm Dunst verbländt
+Der Neid-Sturm der sein Hertz auf disen Schlund gewändt
+Hat über uns geblitzt; der Auf-hatz hat die Säbel
+Auf unsern Kopff geschärft. Itzt werden Dünst und Nebel
+Verstäubt / zertrennt / erhellt / wenn Ossmanns Sonn aufgeht
+Mit seiner Tugend Glantz. Mein Kärker wird erhöht
+Wenn Oßman freundlich siht. Begihrde kan zwar sätzen
+An Oßmanns gros Gemütt allein es nicht verlätzen:
+Wie der erhitzte schaum zwar an die Fälsen schlägt /
+Auf Klippen rawer Wind / doch beides nicht bewägt.
+Scheint auch zwar der Vernunfft begihrd oft obzuligen /
+So scheints nur: Wie ein Pfeil vom Bogen hoch zu fligen
+Bis an den Himmel scheint / ob Er das Mittel-Theil
+Der Luft gleich kaum erreicht. Nun trag Ich wider feil
+Mein Leben für den Nutz und Wol-stand meines Fürsten /
+Das Ich sätzt in die Schantz als ide Waffen knirschten
+Zu trotze Stambuls Burg; dein Ibrahm steht geschikt
+Daß Er was Oßman feind gewaffnet unterdrükt.
+Ich schwer' es teur und sehr daß Ibrahim die Glider
+Daß Ibrahim sein Haupt nicht sanffte lägen nider
+In Stambuls Gräntzen wil / es sei daß der verlauff
+Des Krigs / durch den der Feind sich wider dich lehnt auff
+Durch disen Arm erlägt.
+
+
+
+SOLIMAN.
+
+Wir kennen dein Gemüte
+Und dein gut-hertzicht Hertz.
+
+
+
+IBRAHIM.
+
+Begnadigt seine Gütte
+Mit diser Freiheit auch / mein Keiser Isabelln?
+
+
+
+SOLIMAN.
+
+Wir heissen / ja! mit dir auf freien Fuß sie ställn.
+
+
+Geht / laßt im Kärker bald die schöne Fürstin wissen /
+Daß unsre Gnade sie der Freiheit läst genissen /
+Das Ossmanns Ehr / und ihr Bestand / und Ibrahms preis /
+Den Kärkker ihr eröffn und aus den Fässeln reiß.
+
+
+
+IBRAHIM.
+
+Was wünsch Ich mehr mit Ihr als daß Ich Ossmanns Füsse
+Mit tifstem Dehmuths-dihnst und Ehr-erbittung küsse /
+Als das Ich – –
+
+
+
+SOLIMAN.
+Hebt ihn auff.
+
+
+IBRAHIM.
+Mein dankbar Hertz erweist:
+
+
+SOLIMAN.
+Wir: daß ihr heute noch mit uns zur Taffel speist.
+
+Reien der Sarazenischen Pfaffen.
+
+1. Satz.
+
+Heinte wenn die kühle Nacht wird ihr Haupt mit Maah bekrönen
+Und Bizanz mit Schatten däkken / fällt der heilge Neu-Mond ein /
+Und in Jetti-Gula Burg wird bei den Musulmans-Söhnen
+Des berühmten Bujuk-Weiram grosse Fest-Begehung sein.
+Nun dem Mahumeth zu Ehrn
+Auf Befehl der Kadi-Orden
+Die uns Recht und Gotts-Dihnst lehrn
+Heilig schon gefasset worden.
+
+
+1. Gegen-Satz.
+
+Unser Ramadam fällt ein / aber wird den Ertz-Propheten
+Unser Feier auch versöhnen? Weil sich Soliman beflekt
+Und den grossen Ibrahim lässet durch die Hänker tödten /
+Der mit Kiful-Bassens Kronen unsers Sulthans Haupt bedäkkt /
+Der des Roth-Kopffs Trotz versehrt /
+Die Kalenders überwunden /
+Stambuls Türksches Reich vermehrt
+Und den edlen Friden funden?
+
+
+2. Satz.
+
+Freilich ist zu fürchten uns daß uns Mahumeth nicht hasse /
+Weil der Sulthan der Musulman nicht der Christen blutt vergeust /
+
+
+Weil von Padi-Schach erwürgt bald wird der bald jener Basse /
+Daß der Bosphor auch beschäumt roth von Türkschen blutte fleust
+Seit der Kaimekam starb
+Mustaffa verging durch Stränge /
+Kassens Rath den Strik erwarb /
+Ists wol eines Menschen Länge?
+
+
+2. Gegen-Satz.
+
+Heilger Sohn des Abdala / Ertzt-verkündger unsrer Zeiten /
+Wende dises Vngewitter von des Ibrahms Nakken ab /
+Daß er deine Lehre könn in den gantzen Aufgang breiten /
+Biß der Ketzer Hali selber Wahl-farth geh in Mechchens Grab /
+Biß der Christ und Indian
+Sei bekehrt zu unser Lehre
+Biß der Adler Ossmans Fahn
+Und Stambuldens Monden ehre.
+
+
+Ab-Gesang.
+
+Dem Mahumeth sei Dank
+Er hats dem Padi-Schach vom Himmel eingegäben
+Daß er den Ibrahim ihm läst zum besten leben /
+Wiewol ihm schon der Strang
+Ihn zu er-würgen lag geschlingt umb seinen Halß.
+Er leb er leb / er lebe!
+Des Schöpffers Hülffe gäbe
+Daß Ossmans gnade nicht sei Vrsach seines Falls!
+
+
+
+
+
+
+
+
+4. Akt
+
+
+
+
+Die vierdte Abhandlung.
+
+Der Schaw-Platz verändert sich in der Keiserin Zimmer.
+
+
+Rustahn. Roxelane.
+
+
+
+RUSTAHN.
+Dis ists / was mich und Sie bißher so sehr bekümmert!
+
+
+ROXELANE.
+Ist Ibrahm todt?
+
+
+RUSTAHN.
+
+Ja todt! dem wir das Grab gezimmert
+Dem baut der Keiser Kron und Reich.
+
+
+
+ROXELANE.
+Was redestu?
+
+
+
+RUSTAHN.
+Was mir solch Vn-lust macht.
+
+
+ROXELANE.
+Sag uns gerade zu.
+
+
+RUSTAHN.
+Der Ibrahm lebt und herscht!
+
+
+ROXELANE.
+Träumt dir?
+
+
+RUSTAHN.
+
+Wie ich erzähle
+So ists.
+
+
+
+ROXELANE.
+Du irrst dich.
+
+
+RUSTAHN.
+O daß meine Rede fehle!
+
+
+ROXELANE.
+Ich selbst ja sah Ihn erst zum Hals-Gerichte führn.
+
+
+RUSTAHN.
+
+Dis glaub Ich; half Ich ihn doch gar zum Tode zihrn.
+Wir waren neben Ihn zur Mahl-Zeit schon gelassen
+Man sah einander an / es wolle nimand essen /
+Die Taffel war voll-aus mit frembder Kost bedäkkt
+Kein einger redt' ein Wort; Er bloos saas un-erschräkkt
+Vihr Stumme dihnten Ihm auf mit schwartz-feidnen Strängen
+Uns ward die Zeit zu kurtz / Ihm wolt sie sich verlangen.
+Er stand zu erst auch auf und ging den sauern Gang
+Des Todes / als Ihn rief der Mord-Trompeten Klang.
+Er lag die länge schon zur Erden aus-gesträkket
+Er hatte schon den Halß ein in den Strang gestäkket
+Die Hänkker dorften nur die Schlinge zihen zu
+Als unser Sulthan gleich – –
+
+
+
+ROXELANE.
+
+O der verdammten Ruh
+Der langsamen Fasalln?
+
+
+
+RUSTAHN.
+
+Geplatzt kam in das Zimmer /
+Vnd uns zu-winkend rief:
+
+
+
+ROXELANE.
+
+O könt uns etwas krümmer
+Begegnen.
+
+
+
+RUSTAHN.
+
+Hali / verzieht! Er fuhr Mich trotzig an /
+Ich sagte nur ein Wort.
+
+
+
+ROXELANE.
+O närscher Gütte Wahn!
+
+
+RUSTAHN.
+Ich starrt und hätte gern mein Wort gehabet wider.
+
+
+ROXELANE.
+Sah der verdammte zu?
+
+
+RUSTAHN.
+
+Der Hund fihl vor ihm nider
+Doch Achmat hob Ihn auf: die Bassen lägten Ihm
+Den Purper wider an.
+
+
+
+ROXELANE.
+Als wenn Er ihm geziem!
+
+
+RUSTAHN.
+
+Der Keiser nahm Ihn selbst mitleidend in die Armen /
+Und reicht Ihm Kuß auf Kuß.
+
+
+
+ROXELANE.
+Ha Weibisches Erbarmen!
+
+
+RUSTAHN.
+
+Dem Hali gab Er auch aus-drüklichen Befähl
+Daß Er die Fürstin straks frei vom Gefängnüs zähl.
+
+
+
+ROXELANE.
+
+Die Fürstin? nein die Magd / die Magd die wir verlachen.
+Wie? oder wil Er sie zur Keiserin Ihm machen?
+Nein allzu weit gefehlt. Wo dise Sklafin nicht
+
+
+Wird disen Abend noch sein schmählich hingericht't /
+Wo wir für Mitternacht nicht noch den Ibrahm stürtzen
+So mus der Himmel uns der Jahre Rest verkürtzen /
+So müssen wir verhöhnt / ent-sätzet unsrer Würd /
+Verstoffen aus der Burg / belästigt mit der Bürd
+Der harten Dihnstbarkeit / und von der Ehren-Staffel
+In Grund gedrümert sein.
+
+
+
+RUSTAHN.
+
+Er hies ihn auch zur Taffel
+Erscheinen.
+
+
+
+ROXELANE.
+Daß Ihr bund ja bald bekräftigt ward.
+
+
+RUSTAHN.
+
+Man feier länger nicht. Wenn uns ein Ast entfährt
+Den man vom Wipffel hat gebeugt zur Erden nider /
+So schnellt er aus der Hand empor vihl höher wider
+Als er zu erste wuchs. Entwischt der tolle Hund
+Uns anders disesmahl so drükt er uns zu grund
+Und wächst uns mehr zu Hals / als da Er an der Spitze
+Der Ehren-würden stand.
+
+
+
+ROXELANE.
+
+Der Kummer ist nichts nütze.
+Wird der / die durch Vernunfft und Arglist und Verstand
+Den Vater Bajazet / wie weit er weg verbannt
+Aus Stad und hoffe war voll-kömlich eingelibet /
+Die dem was Ossmann schleuft / kraft / Würkung / ausschlag gibet /
+Die aus Leib-Eigenschaft sich künstlich eingespielt
+Ins Keisers Bett und Thron und ihren muth gekühlt
+An seinem Mustaffa / dis schwer sein zu verrichten?
+
+
+
+RUSTAHN.
+
+Ich zweifel an der Macht der Sulthanin mit nichten /
+Auch weiß Ich: Frauen-List sei schärffer als der Blitz
+Der durch das trächtge Tuch der Wolkken einen Ritz
+Mit hellen Flammen macht. Doch wenn sie gegen-wärtig
+Besichtigt den Verlauff / wie freudig / fiks und färtig
+Der Keiser ihn umbarmt / begnadigt angeredt /
+Und wie er vorgab / ihm sein Heil beeidet hätt /
+Die Fürstin würds ihr selbst so leichte schwerlich machen.
+
+
+
+ROXELANE.
+Noch leichter!
+
+
+RUSTAHN.
+
+Ist ein Feind doch nicht wol zu verlachen
+Der schon halb unten ligt.
+
+
+
+ROXELANE.
+
+Es ist uns umb ein nein
+Und umb ein Wortt zu thun.
+
+
+
+RUSTAHN.
+
+Was ging er vor erst ein
+Auf unser bitt und Wunsch und stösts doch über hauffen.
+
+
+
+
+ROXELANE.
+
+Wir wissens mit was wir solln seine langmuth kauffen.
+Es ging noch langsamer mit seiner Zusag her
+Es machtens ihm sein Sohn und Reichs-Verordnung schwer
+Eh er an beischlaffs-statt uns ihm zur Eh empfinge.
+Du weists / wie scharf allzeit wie schlecht und wie geringe
+Gleich das Gelatze war / er über selbem hilf
+Doch gleichwol brach ers uns.
+
+
+
+RUSTAHN.
+
+Sie weis was Ibrahm gilt
+Beim Keiser.
+
+
+
+ROXELANE.
+
+Auch was wir. Er wirds uns nicht versagen /
+Gesätzt / er solts uns auch ab wieder hoffen schlagen /
+Du weist was Muffti kan. Vnd ist uns dieser nicht so
+Nach unserem begehr zu willfahrn hoch verpflicht?
+Den unsre vor-bitt hieß zum Prister-Ampt erhaben.
+
+
+
+RUSTAHN.
+O hat der Mahumeth den Rath ihr eingegäben.
+
+
+ROXELANE.
+
+Die Sache wie wir sehn erduldet nicht Verzug
+Wir haben gleich ietzund den Keiser guten fug
+Zu sprächen.
+
+
+
+RUSTAHN.
+
+Sie kan sich / als wenn Ihr seine gnade
+Unwissend / nähmen an.
+
+
+
+ROXELANE.
+
+Wol! wir gehn schon gerade
+Aufs Keisers zimmer zu. Beställ uns du hieher
+Den Muffti / sprich / daß sein die Keiserin begehr.
+
+
+
+Der schau-platz verändert sich in des Solimans zimmer.
+
+
+Roxelane. Achmat. Soliman. Hali.
+
+
+
+
+ROXELANE.
+Ist nicht der Keiser hier?
+
+
+ACHMAT.
+
+Er ging un-längst in Garten
+Uns hieß er seiner hier in disem Zimmer warten.
+
+
+
+ROXELANE.
+Ging er alleine?
+
+
+ACHMAT.
+
+Nein. Er trat den blauen Steig
+Mit dem Visier hinab zur Sommer-laube.
+
+
+
+HALI.
+
+Schweig
+Der Keiser.
+
+
+
+ROXELANE.
+
+Wo gewest mein Fürst / mein Schatz /
+mein Hertze?
+
+
+
+SOLIMAN.
+
+Wir gingen unsrer Sorg und kummer-reichem schmertze
+Zu hälffen ab / als schon die Sonne nicht mehr stach
+Und gleich zu Golde ging / in Lust-gang / vom Gemach /
+In welchem sich uns hat was seltzams zugetragen.
+
+
+
+ROXELANE.
+Wil seine Hoheit uns nicht ihren Zufall sagen?
+
+
+SOLIMAN.
+
+Wir gingen / wie erwähnt / im Garten ohngefähr
+Nach-hängend unserm Weh und Schwermuth hin und her
+
+
+Wo sich der Erden Schos mit tausend Blumen schwängert.
+Besonders einer war ihr blättricht Haupt verlängert /
+Die lacht' uns bevoraus gleich einem Lib-Reitz an /
+Biß unser Aug ihr sich zu nähern kurz besan.
+Je näher wir auch ihr mit unsern Augen kamen /
+Und die vollkommne Pracht in das Gesichte namen
+Ie schöner daucht sie uns / sie war breit aus-gesprist
+Doch hatte sie bereit zwei Blätter eingebüst;
+Zum Vber-flusse hilt sie noch ein andre wider
+Die nicht viel minder schon / das sie nicht sank darnider:
+Doch augen-bliklich ward die stützende zerdrükt
+Von diser die sie hielt; auch kurtz darnach zerknikt
+Ent-blättert / dürr und welck der hohen Blume Krone
+Und stoltze Keiserin.
+
+
+
+ROXELANE.
+
+Mein Hertz / es ist nicht ohne
+Daß oft des Himmels Schluß / durch Zeichen gleicher Art
+Verborgne Zufall hat die künfftig offenbahrt.
+Doch daß man dis und das was ohn-gefähr geschihet
+Nach seinem Sinn und Kopff zu deuten sich bemühet
+Ist Arbeit sonder Frucht. Der Keiser steht in Ruh
+Und siht dem Zischen nur der Todten-Flamme zu /
+Er lebe wol mit uns mit Reich und Stad vergnüget
+Nun nur der Ibrahim der Hund gesträngelt liget
+Der nach gepochter gunst den ihm erhohlten Lohn
+Bekommen seinen Rest.
+
+
+
+SOLIMAN.
+
+Er hat die Tugend-Kron
+Und unsre Gnad erlangt.
+
+
+
+ROXELANE.
+Was fagt mein Fürst?
+
+
+SOLIMAN.
+
+Wir lassen
+Ihm Gnade widerfahrn.
+
+
+
+ROXELANE.
+
+Dem den der Fürst erblassen
+Erst noch für abends hies? den Ibrahm unsern Feind?
+Den Ibrahm der uns hast.
+
+
+
+SOLIMAN.
+Nein / unsren träusten Freund.
+
+
+ROXELANE.
+Ist dis ein Freund der uns nach Stul und Reiche trachtet?
+
+
+SOLIMAN.
+Nein der / der unser Heil mehr als sich selbst geachtet.
+
+
+ROXELANE.
+Der unsern Vntergang und gantz Verdarben sucht?
+
+
+SOLIMAN.
+Nein der uns noch beschützt.
+
+
+ROXELANE.
+
+Der uns in Abgrund flucht
+Wie ists / wo dankt er hin? wie? läst mein Fürst zerplatzen
+
+
+Den End-Spruch? oder wie / wil er uns überschwatzen
+Zu glauben was er spricht? Es red uns niemand ein
+Wir müsten denn nicht klug nicht wol gescheuet sein /
+Daß Soliman so bald den ersten Vorsatz änder.
+Nein / er hat umb ein Wort Leib / Leben / Glük und Länder
+Oft in den Stich gesätzt. Wie vihlmal haben wir
+Selbst ihrer Hoheit Mund groß-müttig bringen für
+Den tapfern Spruch gehört; das Widerruff und Räue
+Nur blosse Schwachheit sei / der Hertzen welche schäue
+Begleitet für Gefahr.
+
+
+
+SOLIMAN.
+
+Nein nein / es räut uns nicht /
+Es räut uns nicht / nein nein! denn dis was itzt geschicht
+Sol uns der Abweg sein aus den verzagten Schranken
+Der Räw und Wiederruffs.
+
+
+
+ROXELANE.
+Von was wil er nicht wanken?
+
+
+SOLIMAN.
+Von dem was Gott noch ich noch Tugend brächen läst.
+
+
+ROXELANE.
+Mein Hertz entdäkk uns doch was diese Glutt ausbläst?
+
+
+SOLIMAN.
+Der Eid-Schwur welcher ihm mit uns versprach das Leben.
+
+
+ROXELANE.
+Der Keiser ist des Schwurs gar leicht zu überhaben.
+
+
+SOLIMAN.
+Wer billigt ausser ihr uns den ertheilten Rath?
+
+
+ROXELANE.
+Dis / daß der Hund den Eid zu erst gebrochen hat.
+
+
+SOLIMAN.
+Er hat nicht weniger als wir den Eid gehalten.
+
+
+ROXELANE.
+So pflägt man dieses Loch zu richten in die Falten.
+
+
+SOLIMAN.
+Heist uns die Keiserin so mit dem Eide spieln?
+
+
+ROXELANE.
+Nein / den der sie verdihnt die Rache lassen fühln.
+
+
+SOLIMAN.
+Kurtz / Osmann hats geschworn der nie den Eid gebrochen.
+
+
+ROXELANE.
+Der Osmann welcher stets den Eifer scharf gerochen.
+
+
+SOLIMAN.
+Ein Narr schleust heute dis und häbt es morgen auf.
+
+
+ROXELANE.
+Ein Fürste läst der Zeit und Rechte seinen lauf.
+
+
+SOLIMAN.
+Wir wolten ihm das Reich / wenn wirs versprochen / gäben.
+
+
+ROXELANE.
+Der Fürst schwur ihm den Tod / itzt wil er ihn aufhäben.
+
+
+SOLIMAN.
+Der erste Schwur zerreist was erst der ander spricht.
+
+
+ROXELANE.
+Der ander Eidschwur macht das erste Wort zu nicht.
+
+
+SOLIMAN.
+Das ander war kein Schwur. Dis hängt an dinner seide.
+
+
+ROXELANE.
+Der Fürsten ides Wort gilt eben viel als Eide.
+
+
+SOLIMAN.
+Die Räue würd in uns ein Hänker ewig sein.
+
+
+ROXELANE.
+Denn erst / wenn Er uns wird die lang-Muth bringen ein.
+
+
+
+SOLIMAN.
+Mit seinem Helden-Muth?
+
+
+ROXELANE.
+Und unserm Vntergange.
+
+
+SOLIMAN.
+
+Der Blumen Fall entdäkkt uns / was wir mit dem Strange
+Für Vnheil abgethan.
+
+
+
+ROXELANE.
+Wie lägts der Fürst ihm aus
+
+
+SOLIMAN.
+
+Vns dünkt / als wenn wir wärn bedäutet durch den Straus
+Der hohen Sonnen-Blum: und Ibrahm durch diselbe
+Die zwar was nidriger; Doch mit roth-dunkler Gelbe
+Nicht minder schön als wir. Wir hätten auch vielleicht
+Doch künftig / wo nicht schon / den harten Strang erreicht
+Und warn aus unserm Pracht / verwälkt / verdorrt / zerknikket
+Ins schlechte Gras gefalln / so bald wir ihn erdrükket
+Der unsre Schwerd auf-hilt: mit Ibrahm blüht und fällt
+Das glükke Solimans. Was uns der fall fürställt
+Des walken zwifach-Blats / ist un-schwer auszulegen.
+Dis nemlich / was uns muß das Vater-Hertze rägen /
+Des trauten Mustaffen / und des GiangirsTod /
+Der beiden Kinder / ach!
+
+
+
+ROXELANE.
+
+Der Fürst zeucht sonder Noth
+Zu Hertzen ihm dis Ding / und spielt mit diser Welle
+Bis sie uns gar ersäufft.
+
+
+
+SOLIMAN.
+
+Die Räu hat keine stelle
+Gefunden noch in uns. Wir wolln / wir wolln / ja wol!
+Daß Er den ärgstenTod noch heute stärben sol.
+Wir wolln! alleine Nein wir dörffens nicht gedänkken. /
+Wir würden uns sonst an den höchsten Meineid hänkken.
+Wir wolln! ja wenn uns nicht die Hand gebunden war
+Die ihn erwürgen sol.
+
+
+
+ROXELANE.
+
+Mein Fürst machts Ihm zu schwer.
+Doch kan mein Keiser sich beim Muffti Raths erholen
+Dem die Gesätze sind vom Mahumeth befohlen.
+
+
+
+SOLIMAN.
+
+Wir wolln zwar / was sie wil in disem Falle thun;
+Doch schwerlich wärden wir auf anderm Schlus beruhn.
+
+
+
+Der Schau-Platz verändert sich in der Keiserin Zimmer.
+
+
+Rusthan. Mufti. Roxelane.
+
+
+
+
+RUSTAHN.
+
+Ia sie hies unterdes im Zimmer uns verzihen.
+Sie wolte nur zuvor beim Keiser sich bemühen
+
+
+Umb dis was ich erzählt.
+
+
+
+MUFTI.
+
+Die grosse Sulthanin
+Vermag hirbei sehr viel. Sie hat des Keisers Sinn
+Des Keisers Hertz / ja selbst den Keiser in den Händen.
+Rustahn. Doch gleichwol kan sie schwer Ihn auf die seite wänden.
+
+
+
+MUFTI.
+
+Hirinn ist vil versähn das man mit diser That
+Als ers schon einmahl sprach so sehr gekünstelt hat.
+
+
+
+RUSTAHN.
+
+Wer hätt es Ihm gedacht was er so deutlich wolte
+Daß Er im Augenblikk es widerruffen sollte.
+
+
+
+MUFTI.
+
+Ein Mensch der nach Vernunft bald nach begihrden thut
+Ist wie auf stürmer See die auf-geschwöllte Flut /
+Die bald der West hieher bald dort der Nord hinschläget.
+
+
+
+RUSTAHN.
+Am klügsten wird ein Ding nach Ausgang ausgeläget.
+
+
+MUFTI.
+Ein vor bedachtes Werk schlägt seiten übel aus.
+
+
+RUSTAHN.
+
+Wir sind hir im Palast; weis man ob dises Haus
+Noch heut einbrechen wird?
+
+
+
+ROXELANE.
+Ist Mufti denn erschinen?
+
+
+MUFTI.
+Ja jhrer Majestät nach Wünschen aufzudihnen.
+
+
+ROXELANE.
+
+Nein nicht zu dihnen / uns zu helfen. Den bescheid
+Des Werks / warumb hiher uns deine Heiligkeit
+Erschinen auf der Burg / wird unser Rustahn haben
+Dir hoffentlich entdäkkt. Der Anschlag / den wir gaben
+Dem Keiser / schlägt uns fahl. Das Werk beruht auf dir.
+Kömpt deine Heiligkeit nicht diesem Vnheil für
+So wird der freche Hund / der mit den Christen-Hunden /
+Den'n er beim Keiser stets gelibkost hat / verbunden
+Auf Osmanns Erb und Reich; der ein vermumter Christ
+In einer Türkschen Larv und kein Musulman ist;
+So wird der / der den Arm des Keisers hat gehöhnet
+Der Kopf und Halß verwürgt / noch endlich gar gekrönet.
+Wir flehn bey unserm Gott beim Mahumeth dich an /
+Wo deine Heiligkeit dem Vnheil stewern kan /
+Wie sie denn / wie man weis / gar wol kan / hilf der Sachen /
+Es ist dem Reich und uns / der Kirche / daß wir wachen
+Ihr Heil gelegen dran. Stünd es in unser Macht
+Es war kein Kummer nicht daß er nicht umgebracht.
+
+
+
+
+MUFTI.
+
+Wenn ich der Sulthanin durch welcher gunst ich funden
+Dis hohe Prister-ampt / zu willfahrn hoch verbunden
+Und nicht schon schuldig war / so würde mich der Eid
+Die Wohlfarth dises Reichs / der Insel Heiligkeit
+Des Mahumets Gesätz und Wort dahin vermögen
+Was ihre Hoheit heischt. Er mag uns gleich entgegen
+Sich sätzen wie er wil. Wir haben Rath und Krafft
+Die was der Keiser nicht wil eingehn / künlich schafft.
+Des Mahumeths Gesätz und Ausspruch spricht ausdrüklich;
+Die iemals einen Christ verschonet / augen-bliklich
+Verflucht / verdammt / erwürgt. Er wärff uns etwas ein
+Ich weiß schon wie auch dem wird zu begegnen sein.
+
+
+
+ROXELANE.
+
+Wol! du machst dir hierdurch uns ewig hoch verpflichtet.
+Itzt / das es wärd ie eh ie besser ausgerichtet
+Eh auch in Stad und Hoff ein Auf-ruhr mög entstehn /
+Last uns in Solimanns geheimes Zimmer gehn.
+
+
+
+Der Schau-Platz verändert sich in des Solimanns geheimes Zimmer.
+
+
+Soliman. Mufti. Roxelane. Rustahn.
+
+
+
+
+SOLIMAN.
+
+Dv kennst / den Bosphors Sonn gemacht zum Monden hatte
+Am Himmel unsers Reichs / den Ossmanns Vngunst-schatte
+Itzt gantz verfinstert hat / weil unser Gegen-schein
+Ihm wol zu dunkel daucht und nur geborgt zu sein /
+Dem waren wir und sinds auch noch durchaus entschlossen
+Zu brächen Kopf und Halß / der unsrer Hold genossen
+Mit blossem Ekel hat: Doch als die Seel ihm gleich
+Schon auf der Zunge saaß alsbald zu werden bleich
+Erinnerten wir uns was wir so hoch geschworen /
+Ihm bei dem Mahumeth in beisein seiner Ohren /
+Diß nehmlich was wir ihm zu nähmen gleich gesinnt.
+Ob Ossmann nun den Eid so schlechts hin brächen könt
+Und stränges Halß-gericht auf den verdammten hegen /
+Wird deine Heiligkeit gerathfragt auszulägen:
+
+
+Doch zweifeln wir sehr viel / das solche teure Schwühr
+Ohn unsers Gottes Zorn zu brächen uns gebühr.
+
+
+
+MUFTI.
+
+Des Keisers Frömigkeit läst sich aus Red- und werkken
+Wie sehr er über all Gewissenhaftig märken.
+Wahr ists und ewig fest / wie ihre Hoheit spricht /
+Daß schlechter dings ein Eid wol sei zu brächen nicht /
+Auch daß unfehlbar Gott den Meineid lasse büssen.
+Doch bitt Ich / lasse Mich nur etwas klärer wissen
+Der Keiser seinen Eid zu sähn ob nicht hierbei
+Nach Machmets Satzungen was auszunähmen sei.
+
+
+
+SOLIMAN.
+
+Ja / ja! du kanst den Schwur von uns gar leicht erfahren
+Wir wissen eigentlich noch / was die Wortte waren /
+Der Ort war eben der wo diser Fuß steht hier.
+Ich schwör es teur und hoch bei unserm Gotte dir
+Daß Ibrahim den Geist weil Soliman wird leben
+Nicht sol gewaltsam auf dem bittern Tode gäben.
+
+
+
+MUFTI.
+
+Der Eid ist gros und schwer! Er kan nicht klärer sein!
+Doch / Himmel! was gibt uns für einen Rathschlag ein
+Der große Mahumeth / der unser Gotts-befleissung
+Viel dunkel Ding entdäkt? Ists wahr / daß die Verheißung
+Die er dem Ibrahm thät / nicht weiter sich ersträkt
+Als weil der Sulthan lebt?
+
+
+
+SOLIMAN.
+So ists wie wir entdäkt.
+
+
+MUFTI.
+
+Nun wol! so sol mirs ihn nicht schwer falln zu vergnügen.
+Er Ibrahm wird gar wol die Achsein können schmügen
+Ins strängen Hänkers Joch / wenn Soliman den Eid
+Gleich kräftig halten wird. Weil täglich eine Zeit
+Und wenig Stunden sind / in den er Mensch nicht lebe.
+
+
+
+SOLIMAN.
+Wir fassens nicht / was uns für Antwort Mufti gäbe.
+
+
+MUFTI.
+
+Weis ihre Hoheit nicht das man der Sorgen End
+Das Kind der Nacht den schlaff des Todes Bruder nennt:
+Und warlich hat der Mensch / in dessen müde Glider /
+Die Ruh des lauen schlaffs sich hat gelassen nider
+Kein rechtes Leben nicht: weil sein sonst weises Haupt
+Der Würkung des Verstands auch alles sinns beraubt
+Und was den Menschen macht. Ich wils nicht widersträben /
+
+
+Daß er der Stauden Seel und grüner Pflantzen Leben
+Und frisches Wachsen hab / alleine dessen nicht
+Was ein vollkommen Mensch durch die Vernunfft verricht.
+Die Fürsten sind so wol als die geringen Schäffer /
+So wol die Haar und Stroh als Purpur tragen / Schläffer.
+Der Schlaff fällt Kron und Stab so wol als Insel an
+Die die so wol dem Glükk als Vnglükk unterthan.
+Wol an denn / weil der Schlaf ein kurtzer Tod zu achten
+Der Tod ein langer Schlaff / weil weißlich zu betrachten
+Ein Schlassender noch eh todt / als lebendig Heist
+So schließ ich kurtz so viel: So bald den matten Geist
+Des großen Solimanns und die entsinnten Sinnen
+Die Schlaff-Sucht wird umbhülln; Wird Er am Ibrahm können
+Gar wol den Muth abkühln / und seinen Spruch vollzihn
+Durch den verdihnten Strang / wiewol der Meineid Ihn
+Mit nichts besudeln wird.
+
+
+
+SOLIMAN.
+
+Man kan sich zwar bemühen /
+Der Wortte Klang und Sinn bald hin bald her zu zihen /
+Doch gibt nur Gott aufs Hertz und die Gedanken acht.
+
+
+
+MUFTI.
+Das Hertz ist nur verpflicht dem / was der Mund fürbracht.
+
+
+SOLIMAN.
+Der Mund verhies so vihl als wir Ihm konten gäben.
+
+
+MUFTI.
+Nur bei der Lebens-Zeit des Solimanns das leben.
+
+
+SOLIMAN.
+Wir leben auch / wenn uns der süsse Schlaff verläst.
+
+
+MUFTI.
+Denn aber lebt Er nicht wenn Er die See! ausbläst.
+
+
+SOLIMAN.
+Er darf nicht gantz / weil wir nicht gantz gestorben / stärben.
+
+
+MUFTI.
+Sein Nahme / Lob und Schmach darf nimmermehr verdarben.
+
+
+SOLIMAN.
+Des Nahmens leben ist kein rechtes leben nicht.
+
+
+MUFTI.
+Auch dis nicht / wenn ein Mensch nicht dankt / nicht sinnt / nicht spricht.
+
+
+SOLIMAN.
+Ein schlaffender dänkt sinnt und spricht auch wenn ihm träumet.
+
+
+MUFTI.
+Der schläfft nicht recht / der Platz der Träume Dunst einräumet.
+
+
+SOLIMAN.
+Wie wenn uns denn im Schlaff ein leichter Traum einhüll'.
+
+
+MUFTI.
+Ob schon / wenn man es nur in Meynung des erfüll'.
+
+
+SOLIMAN.
+So würden wir uns hoch an Gott und ihm verbrächen.
+
+
+MUFTI.
+Nicht höher als wenn sie ihn un-gestrafft los-sprächen.
+
+
+ROXELANE.
+
+Die Vorsorg über uns des Ertz-Propheten hat
+
+
+Des Muffti Heiligkeit entdäkket disen Rath.
+Des Keisers Hertze macht ihm allzu viel Gewissen.
+Weis ihre Hoheit nicht wen sie hie folgen mussen?
+Es redet Mahometh mit uns durchs Mussti Mund
+Und thut uns sein Gesätz und seinen Willen kund.
+
+
+
+SOLIMAN.
+
+Wir gehn es endlich ein; doch schiben wir die Sache
+Wofern Sie uns beflekt / auf den / der uns zur Rache
+Gibt Vhrsach an die Hand.
+
+
+
+MUFTI.
+
+Der Keiser lägs auf mich
+Schlägt etwas übel aus.
+
+
+
+SOLIMAN.
+
+Geh Rustahn hin / und sprich
+Daß Er auf unser Wort sich wider lasse binden:
+Daß Sie auch wider sich mög ins Gefängnüs finden /
+Auf weiteren Bescheid. Wenn uns die kühle Nacht
+Wird haben sanffte Ruh in Sinn und Augen bracht /
+So mag der harte Stand des grimmen Eifers springen /
+Den weder wir noch Er zum beugen können bringen.
+
+
+Reien der Sinnen und des Schlaffes.
+
+Das Gehöhre.
+
+Der grosse Mensch der Auß-zug diser Welt
+Hat nichts das Ihm mehr nützet und gefält;
+Als das Gehöhr und die geschwinden Ohren.
+Sie sind die Pfort in Himmel der Vernunfft /
+Sie sind der Weg wenn Wonn und Lust verlohren
+Durch süssen Klang zur Freude wider-kunfft.
+
+
+Das Gesichte.
+
+Der Augen Blitz das strahlende Gesicht
+Hat in der kleinen Welt seins gleichen nicht.
+Sie sind die schnellen Bothen der Gemütter /
+Durch die die eingeschlosshen Hertzen schaun
+Als durch ein weit-eröffnetes Gegütter
+Was der Natur geschikte Hände baun /
+Sie sind das helle Licht des süssen Leben-Lichtes /
+Der Farben Schau-glas / das Gesichte des Gesichtes.
+
+
+
+
+Der Geruch.
+
+Ist etwas süsser / wenn das Hertz erschrikt
+Als der Geruch der ides Glid erkwikt?
+Er ist der Balsam der Luft-vollen Nasen /
+Des Athems Würtz und Kraft / der Säffte Safft.
+Er läst den ab-gematten Geist verblasen
+Wenn Er die flüchtgen Sinnen zu sich rafft.
+
+
+Der Geschmak.
+
+Ist etwas das den Mensch ergätzen mag /
+Und das mehr nöthig ist / als der Geschmak?
+Er ist das süsse Mittel daß man lebet /
+Der Zukker-Taw die scharffe Libligkeit
+Die in dem Gaumen / Mund und Zunge schwebet;
+Durch die des warm und kalten Unterscheid
+Die Kost des sauer-bitterns und des Zukker-süssen
+Die Speiß und Trank des naß- und truknen zu genüssen.
+
+
+Das Fühlen.
+
+Das Fühlen hat mehr Nutz / auch Kräffte mehr /
+Als der Geschmak / Geruch / Gesicht / Gehöhr.
+Es ist der Grund und Pfeiler aller Sinnen
+Und hat (da sonst die andern nur ein Glid)
+Die Sinnen all und alle Glider innen.
+Es fühlt was schmäkt / was reucht / was höhrt / was siht.
+
+
+Der Schlaff.
+
+Am stärksten ist der Schlaff / der dis was lebt
+Und fühlt und sinnt in sein Gemach vergräbt.
+Er ist des Todes Bruder / Bild und Schatten /
+Der Glider Band / und aller Sinnen Grufft /
+Das Kind der Nacht / mit dem sich Träume gatten
+Doch auch / durch den die Sorgen schöpffen Luft.
+
+
+Sinnen und der Schlaff.
+
+Je mehr wer / weil er lebt / dem schlaffen ist ergäben /
+Je weniger ist Er lebendig in dem Leben.
+
+
+
+
+
+
+
+
+5. Akt
+
+
+
+
+
+
+Die fünffte Abhandlung.
+
+Der Schau-Platz ver-ändert sich in der Isabellen Zimmer.
+
+
+Ibrahim. Isabelle.
+
+
+
+IBRAHIM.
+
+Ie finsterer die Nacht / ie häller ist das Liecht;
+Je öfter man die Hand an spitzge Dörner sticht
+Ie mehr bekräntzt man sich mit Blut-bemilchten Rosen:
+Je mehr die Mittags-Hitz uns sticht / ie süsser kosen
+Die feuchten Abends-Lüft: Ist Wetter / Sturm und Well
+Und Wolke trüb und schwarte / so dünkt uns noch so hell
+Und luftig Sonn und Port. Die steinern-harten Ketten
+Die Felsen-Last / die uns zu Boden schier getretten /
+Des Lebens steter Tod der ieden Blikk uns schrökt
+Das dunkel-grause Loch in das wir eingestökt /
+Der Trauer-Rauch hat sich verkehrt in sanfte Wonne;
+Die Nacht hat sich verhellt in eine lichte Sonne.
+
+
+
+ISABELLE.
+
+Wo diese Sonn uns nur ist anders wider nicht
+Zu einer dunklern Nacht ein Weg-weis und ein Licht.
+Wie manchmal ist die Luft uns worden schon verbittert!
+Wenn es nach langem Blitz so plötzlich helle wittert
+Ist meist ein neuer Sturm auf frischer Fahrt bereit
+Der ärger als zuvor.
+
+
+
+IBRAHIM.
+
+Es hat ja lange Zeit
+Geblitzt / gewölkt genug / genug gewetter-leuchtet.
+Der tapfre tugend-Sinn des grossen Sulthans däuchtet
+Uns noch nicht gantz verzehrt. Ein räger Helden-Muth
+Dem die Geburths-Ahrt selbst die frohe Tugend-Glutt
+Hat würklich eingepflantzt / den nur frembd Miß-begönnen
+Und häftge Leidenschaft und An-trieb ärgern können
+Kehrt auf den gutten Weg in einem Augen-Blik /
+Wenn nur ein Tugend-Funk Ihn leutet / straks zurükk.
+
+
+
+ISABELLE.
+
+Wie oft / wie oft / mein Hertz / hat sie Ihn schon geleutet!
+Wir wissens / was dis Licht uns für Gefahr bedeutet /
+Aus viel Erfahrung schon. Die häftige begier
+Mit der Er unser Hertz als ein erhitztes Thier
+
+
+Blut-dürftig an-gefalln / wird nicht so bald verglommen
+Zu todter Aschen sein.
+
+
+
+IBRAHIM.
+
+Ein Pfeil fällt wenn Er kommen
+Zum höchsten Gipfel ist. Sein heisser Liebes-Brand
+Zur Axiamire / wie heis Er war / verschwand
+Als er am sehrsten glam. Wie nimmt Sie ihr zu Hertzen
+Mein Hertze / was sie kränkt / die itzt verschwundnen schmertzen!
+Sie schlage / was Sie so bekümmert / aus der acht?
+
+
+
+ISABELLE.
+
+Das Hertze wallet noch mit ängstigem Bedacht
+Weil die erschröklich Angst uns übel läst vergässen
+Was so gewurtzelt ein; seit wir allhier gesässen
+Voll Schwer-muth und voll Furcht / seit uns der Soliman
+Als eine Hinde / die schon vor begarnt / fiel an;
+Seit wir den stoltzen Trotz und das bedräute Bitten
+Zwar sonder Schwachheit nicht doch mit bestand gelitten
+Seit man von Ihm / mein Hertz / uns zu verstehen gab /
+Daß Ihn die Hänkers-Rott gehöhlt zur Follter hab /
+Und auf den Saal geführt / der umb und umb bekleidet
+Mit schwartzem Sammet ist / wenn ein Verdammter leidet /
+Und Strang und Tod aus-steht. Doch furcht ich / das der Geist so
+Für etwas sich entsätzt was sich Ihm künftig weist
+Und ärgern zu-fall dräut.
+
+
+
+IBRAHIM.
+
+Ein schrekken-volles Hertze
+Steht oft / wenn es umbsonst in Furcht für neuem Schmertze.
+
+
+
+ISABELLE.
+
+Gleich so begegnets uns / als die Gefängnüs-Thür
+Zu knarrn fieng plötzlich an / und Achmats Auge mir
+Eh Er ein Wort noch sprach die frohe Botschaft brachte.
+
+
+
+IBRAHIM.
+Ich weis / daß Sie von Mir Ihr schweren Kummer machte.
+
+
+ISABELLE.
+
+Nachdem Ich kurtz vor-her das Mord-getümmel hört
+Und Mich ein Wächter hier den trauer-Auf-Zug lehrt'/
+Meint ich / daß ihr mein Licht schon würdet sein erblichen;
+Und daß man / würd ich nicht in Ossmanns Schand-Bett krichen / l
+Nachdem man seine Leich und schröklichen Ver-lust
+Gezeigt würd haben uns / mir auch durch diese Brust
+Das von Blutt fette Schwerd und scharffe Säbel winden.
+
+
+
+IBRAHIM.
+So kan man oft den Port bei trübstem Wetter finden.
+
+
+ISABELLE.
+
+So ists / mein Lebens-Licht / der Ausgang übertraf
+Die Hoffnung und den Wunsch. Der matten Seelen Schlaf
+
+
+Das stets-gehäuffte Weh / und der Verdruß zu leben
+Verboth mir / zu begehrn: Mich des zu über-häben
+Was wegen des Verlusts des liebsten Ibrahms Mir
+Mehr Vor-theil schien als bürd. Ich wünschte für und für
+Den Hafen meiner Noth und Jammers / nur zu stärben:
+Daß Ich aufs minste nicht sein klägliches vertärben /
+Mein Hertze / dörfte sehn.
+
+
+
+IBRAHIM.
+Wir –
+
+
+ISABELLE.
+
+S't / wer kömmt herbei /
+Welch ein gepolter? S't.
+
+
+
+IBRAHIM.
+
+Man wird zur Gasterei
+Zu der der Fürst uns lud vielleicht uns hohlen sollen.
+
+
+
+ISABELLE.
+
+Es ist schon ziemlich späth. Wer weis / was sie erst wollen.
+Wer weis / welch neuer Schmertz sich rägt vons Sulthans Grimm
+Hilf Himmel! Rustahn ists! Ich kann ihn an der Stimm.
+
+
+
+Rustahn. Ibrahim. Isabelle. Die Trabanten.
+
+
+
+
+RUSTAHN.
+
+Dv solst aufs Keisers Wort in sein Gemach dich ställen /
+Und du gefangen sein.
+
+
+
+ISABELLE.
+O Frucht der schwartzen Hellen.
+
+
+IBRAHIM.
+Wer heist es / wer befiehlts?
+
+
+RUSTAHN.
+Der Keiser.
+
+
+ISABELLE.
+Du für dich.
+
+
+IBRAHIM.
+Sein Wort versprach uns erst was bessers.
+
+
+RUSTAHN.
+
+Er hat sich
+Auf einen sndern Schlus vernünftiger besonnen.
+
+
+
+IBRAHIM.
+Nun du / und Roxelan auf uns dis Garn gesponnen.
+
+
+RUSTAHN.
+Fort fort!
+
+
+IBRAHIM.
+Ach Schandflek! ach der Zeit!
+
+
+RUSTAHN.
+Kom folg uns nach.
+
+
+ISABELLE.
+Ach Hänker!
+
+
+RUSTAHN.
+Ihr / führt sie in ersten Kärker!
+
+
+ISABELLE.
+Ach!
+
+
+IBRAHIM.
+
+Steht / Schelmen / steht! und Last sie mir un-angegriffen /
+Sonst sol des ersten Blutt an diser Säbel triften.
+
+
+
+RUSTAHN.
+Was trotzstu? greift Ihn an / den widerspänstgen Hund.
+
+
+IBRAHIM.
+
+Ich wil euch Folge thun; wofern dis Handeln Grund
+Auf Oßmanns wortten hat. Sie aber Last zu friden.
+
+
+
+ISABELLE.
+
+Ach! hat uns der Tirann auf disen Dank beschiden?
+Ist dis das schöne Mahl / auf dem man unser Blut
+Vermischt mit Speiß und Wein in die Christallen thut?
+Wol! reist uns auch mit Ihm / erwürgt / kocht Hertz und Lunge /
+Verbrennt und läscht mit mir den Blutt-durst eurer Zunge!
+Ich wil viel liber todt / als im Gefängnüs sein.
+
+
+
+IBRAHIM.
+Nicht also / nein / mein Hertz.
+
+
+ISABELLE.
+
+Es ist ja Trost / nicht Pein /
+
+
+Wenn zwei / die nur ein Hertz / zwar in zwei Leibern leben /
+Zusammen Seel und Geist und traue Lib aufgeben.
+
+
+
+Der Schau-Platz verändert sich in des Keisers Schlaff-Gemach.
+
+
+Soliman. Rustahn. Ibrahim. Die Trabanten.
+
+
+Die Stummen. Die Sänger.
+
+
+
+
+SOLIMAN.
+
+Denn thu / was dir befohln / wenn uns der Schlaff gebracht
+Wird haben zu der Ruh. Gib anders fleissig acht
+Daß uns die Hänker nicht / wenn wir noch schlummernd wachen
+Verbrechen halfen auf / und Ihm sein Letztes machen.
+
+
+Reien der Sänger.
+
+
+Der grosse Fürst / auf Ossmanns Stul und Reich /
+Des Auf-gangs Sonn und Blitz / die Furcht der Welt /
+Der Sud und Ost / und was der Tiger gleich
+Und Phrath und Nil umb-schweift / im Zaume hält.
+Schrökt / und erschrökt / fällt ihn der Schlaff gleichen
+Mit seines Eifers hartem Donner-Strahl /
+Den Tarter / Mohr / und Christ und Indian
+Den Szith und Reuß / die Persen allzumal.
+Der Ossmans Reichs-Stul an den Himmel hat
+Mit Demant-Ketten selbst gebunden an /
+Der Mahometh / des Keisers Hülff und Rath /
+Kämpft / siegt und wacht für unsern Soliman.
+Wer sich auf den / den Gott und Himmel schützt
+So frech erbost / und Grub und Nätz Ihm ställt /
+Macht das er in der Brunst selbst schmältzt und schwitzt /
+Im Strom er-säufft und in die Klinge fällt.
+Der grosse Fürst der unterm Sulthan zwar /
+Doch über die / die nächst des Keisers Macht
+Beim Pöfel sind in höchstem An-sähn / war /
+Fühlt wie sein Grimm auf die Verbrächer kracht.
+Lernt / die ein Fürst durch Wohl-that ihm verknipft /
+Wenn ihr ihm Schimpff und manchen Fuchs verkaufft
+
+
+Wie bald auf die des Löwen Rach aufschlipft /
+Und sie verschlingt / die ihn gezöft / geraufft.
+So spigelt Euch / wie einer der durch Püsch
+Und öden reift / der / wenn der Donner Wehn
+Ihm an der Seit erschlägt / bleibt er gleich frisch
+Für schrökken zitternd nicht kan hörn noch sehn.
+
+
+
+Mustaffens Gespänste. Soliman auf dem Bette.
+
+
+Das Gespenste.
+
+
+
+Welch schräkklich Jammer-galm
+Welch höulend Todten-ruff / welch Geist-ausblasends Mord-gekräusche /
+Welch kochend hertzen-schaum / welch zischend Blutt-Jäscht in dem Fleische
+Tagt aus dem tiffen Kwalm
+Aus der mit Finster und schräkken bedäkketen Höle
+Die in der bluttigen Strängel erstikkete Seele?
+Welch fäufzend schweres ach
+Stört die mit eignem Leben theur erkauffte ruhe-Stelle?
+Welch donnerndes gekrach
+Bricht und zerrüttet der verdammten Geister sterbe-Schwelle?
+Ach greuel ach! wer irret neben mir
+Welch zitterndes Gespänst schleicht ein in Schloß und Kammer?
+Bistu es nicht / vertrautster Bruder? ach! ach Jammer!
+Ist die durchs Hertz gedrungne Säbel dir
+Noch nicht aus deinen blutt-besprützten Händen
+Zum Zeichen verbittertes Eifers gefalln?
+Wie? oder bistu auch verkracht in branden
+In welchen nach uns auch noch andere walln /
+Die das un-menschlich-vertärbende Rasen
+Ihm über Kinder und Kinds-Kind geblasen.
+Schaut / wie der Geist erbebt! schaut / wie erschüttert sich
+In gliedern blaße Furcht! schaut / kalten Angst-schweiß schwitzen!
+
+
+Schaut wie die Wunden noch gefärbte Ström ausspritzen!
+Du bists / Giangir? ja! mich dünkt ich sehe dich
+Noch über meinen todten Leib bethränend deine Glieder sträkken /
+Und in dein mir eröfnet Hertz die ungeheure Klinge stäkken.
+Ach ärgster Greuel! ach! ach jammriches Gesicht!
+Wer ist das blasse Weib?
+Ist es Saraide mit unserm Sohne nicht?
+Schaut / schaut! wie sie den Leib /
+Wie sie die brüste schlägt / schaut doch / wie sie zum Himmel
+Mit kläglichem geschrei und winselndem getümmel /
+Die nakten Armen sträkt / die Hände schränkend windt!
+Schau / Vater Mustaffe! schau / Mustaffen dein Kind /
+Erbärm-erbärmlich zugericht!
+Den krumb-verdrehten Halß an den verdammten Hänker-Strängen
+Erblast; und im Gesicht
+Von dem erstökten Blute braun und blau darnider hängen.
+Weh! weh! weh!
+Hastu / du Drachen-geahrteter Vater / du von den Tigern gesäugeter Wurm
+Von Schlang und Nattern genähreter Blutt-hund / über mich einen so häfftigen Sturm
+Solche See
+Solche trübe Well ergossen?
+Daß mit meines Bluttes Flutt /
+Meines Stammes Stärk und Blutt
+Auf ein-mahl in Sand geflossen.
+Mir selber graust vor diser Einsamkeit allhier;
+Das Haar steht mir zu Berg; ich werd erschrökket und erschrökke;
+Weil dieser Mord-Palast nur eine dunkel-grause Hekke
+Ein stränger Hänkers-Platz / ein Mord-loch wilder Thier'/
+Erhitzter Löwen Auffenthalt
+Ein Irr-Saal blasser trauer-Geister;
+Wo Rach und Rach-gier und Gewalt
+Für rechtem Rechte spilt den Meister.
+Erde brich / Erde brich schütternd ent-zwei /
+
+
+Blitz und erkrache du wölkichte Feste der Lüffte!
+Öffne dich finsterer Abgrund verschränketer Klüffte /
+Lasse den stürmenden Zwirbel-Wind frei /
+Bosphorus Meer-schlund / schwälle die Wellen
+Über die ufer / über die Gräntzen / über die Stad!
+Daß sie dis Mord-haus gründlich umb-fällen /
+Zwischen dem dieses Vn-thier der Wohnung Auffent-halt hat.
+Verruchter Blutt-hund; wohnt ein Tiger
+Der von so grimmer Vh-ahrt ist
+In öder wildnüs an dem Niger
+Der seine Leibes-Frucht auf-frist?
+Blutt-dürstger Blutt-hund; dessen Rache
+Auch noch in tiffstem schlaff ist wache.
+Blutt-dürstger Blutt-hund! ach! das Unschuld-reiche blutt
+Des tapfern Ibrahims / das du als epp und flutt
+Als schwäm' hältst und als schilff / das seine Zunge mus auf-läkken
+Schreibt an die wänd / und mahlt auf die beflekten Todten-däkken /
+Höult / winselt / bittet / schreit umb Rach:
+Wehmuth / Angst / Schrökken / Betrübnüs und Räue / böses Gewissen / Furcht / Zittern und zagen
+Müssen den Mörder / den teuffels-Tirannen / peinigen / züchtigen / martern und nagen.
+Ach! Zetter! Zetter! Zetter! ach!
+
+
+
+Soliman. Rusthan. Achmat. Hali.
+
+
+
+
+SOLIMAN.
+
+Mein Sohn! mein Mustaffe! mein Mustaffe! verzih;
+Verzih / verzih! hilf Gott! was ists? hilf Himmel! wie
+Schrökt' Euch hier kein Gespänst? Er ist ja noch bei Leben
+Der Ibrahm? wo ist er?
+
+
+
+RUSTAHN.
+
+Dar wo er nicht mehr streben
+Nach Ossmanns Zepter kan.
+
+
+
+SOLIMAN.
+Was sagstu?
+
+
+RUSTAHN.
+
+Er ist todt.
+Es hat / Gott Lob / nunmehr mit Stambul keine noth.
+
+
+
+SOLIMAN.
+
+Ha! ärgster Galgen-dieb! verruch-verruchter Hänker /
+Vermaledeiter Hund; verfluchter Hertzens-Kränker /
+Mus Ossman denn durch dich / betrübster Schelm / vergehn?
+Mus Ossman denn durch dich so raue Pein ausstehn?
+Verfluchter Hund! kein Mensch!
+
+
+
+RUSTAHN.
+
+Ich bin dem / was er schaffte
+
+
+Mein Keiser / kommen nach.
+
+
+
+SOLIMAN.
+
+Wie? daß auch hier nicht schlaffte
+Dein fleis / wie anderwerts? o das ich nicht als-bald
+Dir sol den Hals verdrehn?
+
+
+
+RUSTAHN.
+
+Wer braucht sich der gewalt
+Daß er des Keisers heisch nicht in dem nu verrichte?
+
+
+
+SOLIMAN.
+
+Geh / pak dich uns du hund / pak dich aus dem Gesichte
+Und kom uns nimmer nicht für unsre Augen mehr;
+Eh ich / du ertz-dieb / dich des Keisers Donnern lehr;
+Geh / schaff uns bei verlust des Kopffs / des Ibrahms Leiche
+Hier Augen-bliklich her! laufft / wenn mit Ossmanns Reiche
+Ihm noch gedihnt ja war! laufft / rettet / laufft / laufft kühlt
+Laufft / ob ihr ja bei Ihm noch einen Athem fühlt /
+Ob sich ein Glid noch rägt! Wer hats den Dieb geheissen
+Von hier Ihn weg-zu thun? Wo lies er ihn hinschmeissen?
+
+
+
+ACHMAT.
+
+Den Leichnam warf er hin in der Erwürgten Ort
+Den ab-gehakten Kopf stäkt' Er auf auf die Pfort.
+
+
+
+SOLIMAN.
+
+Ach! hat der Teuffels-Hund so schäutzlich dich zerfleischet
+Vertrautster Ibrahim! Hat Ossmann je geheischet
+Dis Hänker-stükk von dir? habt Ihr der That gekönt
+Geduldig schauen zu? hat uns noch Ruh gegönt
+Der Himmel / wo auch Ruh solch schröknüs recht zu nennen?
+Könt uns des Ab-grunds Rach auch ärger Wunden brännen?
+Lauf Hali / lauf lauf straks und bring uns bei Verlust
+Des deinen / Rustahns Kopf / und aus der schwartzen Brust
+Sein aus-geschnittens Hertz in sein noch warmem Blutte.
+Und du entschuldige / was in erbostem Muthe
+Uns Grimm und Feind ein-gab / bei seiner Isabelln;
+Auch sprich! daß wir nun-mehr auf freien Fus sie ställn
+Mit allen / die mit Ihr in Band und Kärker stäkken.
+Beinebenst / möcht es Ihr nur nicht mehr Leid erwäkken /
+Verehr ihr Ibrahms Haupt zum trüben traur-geschänk
+Und daß sie noch an Ihn zu gutter letzte dänk.
+
+
+
+
+
+Der Schau-Platz verwandelt sich in der Isabelle Gefängnüs.
+
+
+Achmat. Isabelle.
+
+
+
+
+ACHMAT.
+
+O daß / Durchläuchtigst / Ich auch dis-mal überhoben
+Der Bottschaft / die Befehl mir auf den Hals geschoben /
+Doch hette mögen sein; wenn ja nichts bessers mir
+Der große Soliman zu ver-gewissern Ihr
+Ent-bitten hätte wolln.
+
+
+
+ISABELLE.
+
+Was hat er zu befählen?
+Wir wissens schon / Er woll uns nur nicht länger kwälen
+Mit Auf-zug unsersTods.
+
+
+
+ACHMAT.
+
+Die Fürstin / bitt ich / lag
+Auf disen nicht die Schuld / der solche Donner-schläg
+Ihr kurtz entdäkken sol.
+
+
+
+ISABELLE.
+
+Wir wissens / wer uns tödtet /
+Wir wissens / wer die Faust mit unserm Bluthe röthet /
+Wer Narb' und Wunden schlägt! Er / ja / wir wissens wol /
+Ist ausser aller Schuld; nur sag Er / wie man sol
+Durch was für Pein vergehn. Wir sind der Noth gewohnet
+Die uns nicht seltzam ist / und seiten unser schonet.
+
+
+
+ACHMAT.
+
+Der Fürstin Wahn ist falsch. Nein; Ossman spricht / daß Sie
+Noch heinte / wo Sie wil / samt den Gefangnen zih
+Heim in ihr Vaterland: Er spricht Sie für gefänglich
+Itzt los / kwit / frank und frei.
+
+
+
+ISABELLE.
+
+Er macht uns arg-gedänklich
+Und furchtsamer als vor.
+Achm.
+Wahr ists zwar; aber ach!
+Ach! das ich schweigen möcht!
+
+
+
+ISABELLE.
+
+Sein schmertz lehrt das die Rach
+Auf uns noch wilder haußt als furcht und arg-wohn meinte.
+
+
+
+ACHMAT.
+Ich schweige! dieses Haupt ist Vhrsach das ich weinte.
+
+
+ISABELLE.
+
+Ach Gott! ach weh! ach weh! wo bin ich? wie ist mir?
+Ach! wie geschicht mir? ach! O das der Blutt-hund dir
+Den ernsten Spruch ertheilt uns / ihn nicht / auf-zureiben!
+O das der Blutt-hund dir die Kling ins Hertz zu treiben
+Durch unser Brust / befohln! du soltst ein werther Both
+Als mit der Freiheit sein! O freiheit / der der Tod
+Noch gar ver-zukkert ist! Auf! heist mich auch erbleichen!
+Auf! Last mich auch den Strang / sein bluttig Beil erreichen
+Uns dient die Freiheit nicht! O höchst-beschimpstes Haupt
+Von dieses Panthers Klaw! das dich des Schmuks beraubt
+
+
+Des Ansehns freier Stirn / des fremdlichen Gesichtes
+Mit unter-mengtem Ernst! des langsamen gewichtes
+Des stoltzen Augen-throns. O werthes Haupt! dem vor
+An Zierath wenig gleich / eh es den Leib verlohr;
+Itzt nichts an Schäutzligkeit! läst er zum libes-Zeichen
+Für die verdihnste dich also der Libsten reichen?
+Heist dis mit dem gekrönt / was Wolthat und was Ruhm
+Und Helden-Muth verdihnt / solch eine Tugend-Blum?
+Ist dis der Abschieds-dank die schöne Morgen-Gabe
+Du Hund / du Blutt-hund du? schik uns nur bald zu Grabe
+Du schäutzlicherTirann; plag uns nur länger nicht
+Du blutt-begierger Löw! wir wissens / was dich sticht /
+Du Schlangen-Zucht / du Wurm! wir kännen deine tükke
+Du Drach und Tiger-thier! du hohlst uns doch zurükke
+Auf deine Folter-Bank!
+
+
+
+ACHMAT.
+
+Sie gäbe sich zur Ruh /
+Und minder' ihr gros Leid. Sonst trau sie mir es zu;
+Der Keiser hat den Mord erbärmlich selbst beräuet /
+Und dem / der ihn vollbracht den Vnter-gang gedräuet
+Bei seines Kopfs verlust. Ja / wo sie sich wil kühin
+Am Mörder / sol sie bald mit Rusthans Kopffe spieln.
+Auch daß sie sich nichts mehr vom Keiser zu befürchten /
+Wil ich ihr Bürge sein
+
+
+
+ISABELLE.
+
+Was können die Verbürgten
+Uns hälffen? dein und ihr und unser aller Blutt
+Ist dem Tirannen nicht so viel als schaum und flutt.
+Arm-seeligst Isabell / wünschstu dir auch zu leben?
+Wünschstu dir auch den Fuß aus der Türkei zu haben?
+Wünschstu / nun er mein Hertz mein halbes leben hin /
+Armseelge Isabell armseelge! weg-zu zihn?
+Nein nein! laß es nur auch laß es den Blutt-hund wissen /
+Daß wir auch dar wo er wolln unser Blutt vergissen;
+Daß wirs verkauffen wolln / dafern ihm auch vielleicht /
+Mit unserm Blutt gedihnt / und's ihm zu Nutzen reicht!
+Doch ach! was sinnen wir? ja! Last uns immer scheiden /
+Ja Last uns immer / ja / dis Hänker-Mord-Haus meiden /
+
+
+Weil hier nur Nattern-Zucht und Drachen wohn-haft sind.
+Dis Mord-haus ist nicht werth daß man sein Grab hier findt /
+Auf! Last uns weit von hier! Last Schiff' und Segel fligen!
+Ziht Port und Anker auf / Last alles stehn und ligen!
+Das in Sud West und Nord dis Haupt aus-sprächen kan /
+Was der verdammte Türk für gräulich Ding gethan.
+Sonst wünsch Ich: daß sein' Asch in lichte Flamm entglimme /
+In der Stambuldens Burg und ihr Tiranne schwimme l
+Daß aus des Ibrahms Blutt ein Rächer wachs' herfür
+Durch den des Bosphors Fürst so Kron als Grimm verlier.
+
+
+
+Ende.
+
+
+
+
+
+
+
+
+
+Anhang
+
+
+
+
+
+
+Anhang: Zusätze In B
+Denen Durchlauchtigen
+Fürsten und Herren /
+
+Herrn Georgen /
+
+Der Röm. Kayser- auch
+zu Hungarn und Böheimb Königl.
+Maystt. Oberhauptmannschaffts-
+Verwaltern im Hertzogthum Ober-
+und Nieder-Schlesien.
+Wie auch
+
+Herrn Ludwig /
+
+und
+Herrn Christian /
+
+Allerseits Gebrüdern und Hertzogen
+in Schlesien / zu Liegnitz / Brieg
+und Goldberg /
+Meinen Genädigsten Fürsten
+und Herren.
+
+Durchlauchtigste Hertzoge
+Genädigste Fürsten und Herren.
+
+Wenn Eurer Hochfürstl. Durchl. vielfältige Tugenden / besonders aber die ruhmwürdige Kunstbewogenheit mich nicht überredeten: wie das große Welt-Auge die Sonne ihre durchdringende Feuer-Strahlen von dem höchsten Gipffel ihres Umbkreißes / auch den niedrigsten Thälern; Also E.H.F. Durchl. ihre Gnadens-Bezeugungen /denen die guten Künste und Wissenschafften sich gewiedmet /ich geschweige dem gemeinsten Pöfel / nicht mißgönneten; würde ich billich einer Selbst-Liebe / und Eigendünckels zu beschuldigen seyn: daß ich diese meiner Jugend noch unreiffe Sinn-Frucht und unzeitige Mißgeburth E. Hoch-Fürstl. Durchl. fürzutragen nicht 
+schamroth würde. Diese zu Deroselbten gedachte Zuversicht bekräfftigt mir leichte zu glauben: daß Eur. Hoch Fürstl. Durchl. dieses in schuldigster Demuth überreichtes Trauer-Spiel nicht allein nicht zu schmähen / [A3] sondern auch mit Ihren genädigsten Gunst-Strahlen anzublicken werden gesonnen seyn. Wird die Sonne doch nicht befleckt / wenn sie gleich unsaubere Oerter bescheinet. Also wenn Eur. Hoch Fürstl. Durchl. diese von keiner gelehrten Zierde gefüllete Blätter mit Ihrem vorhergesetzten Glantze derer durch alle Welt bekannten HochFürstlichen Nahmen bestrahlen werden.
+
+Eur. Hoch Fürstl. Durchl. werden in des tapffern Ibrahims seiner unüberwindlichen Tugend / seiner großmüthigen Hertzhaftigkeit / seiner unsterblichen / wiewol übel belohnten Verdienste /wo nicht mit lebhaften Farben des langsamen Zeuxes abgebildet / doch mit nachahmenden Strichen des überhineilenden Agatarchus angedeutet / Dero eigene Tugenden als in einem Schau-Glase abgemahlet befinden. An der edelsten Fürstin Isabelle werden Sie verwundern die biß zu der Asche durch kein Unglück erleschliche Liebe. An dem Solymann werden sie schauen einen Tugendhafften / doch von den zwey schärffsten Gemüths-Regungen übermeisterten Fürsten; An der Roxellanen mehr ein von allen Welt-Lastern aufgeblasenes Weib / als eine Kayserin; An dem Rusthan aber einen [A3 b] Ehr-vergessenden Hof-Heuchler und Mord-stifftenden Ohrenbläser.
+Ich weiß: daß Eur. Hochfürstl. Durchl. sich mit völliger Hertzens-Vergnügung ergetzen werden / wenn Sie das bey Ihnen selbsten noch vollkömmlicher / was an unterschiedlichen Gemüttern lobwürdig / dies aber / was an dem Türckischen Hofe zu schänden ist / aus Ihren Hochfürstlichen Höfen weit weg verbannet befinden werden. Ich lebe demnach vorgesetzter unterthänigster Bitte des ungezweifelten Vertrauens / Eur. Hoch Fürstl. Durchl. werden dieses meines in Unterthänigkeit verpflichteten Gemüttes für Dero Füsse gelegtes Opffer nicht von sich stossen / sondern als ein Zeichen meiner schuldig-sten Dienstfertigkeit / wiewol es von keiner sonderlichen Vortreffligkeit ist / auslegen. Hält man doch diesen auch für einen fruchtbaren Acker / welcher gleich nur mit dicken Unkraute / und Dörnichten Gestrittig bewachsen ist; weil man muthmassen kan: daß er / so er gepfleget würde / auch nutzbaren Uberfluß tragen würde; Also ich / da ich mit etwas besserm bey Eur. Hoch Fürstl. Durchl. mich angenehm 
+machen könte.
+Vor solche hohe Gnaden-Bezeugung findet sich meine geringe Wenigkeit in schon-schuldigster Unterthänigkeit E.H.F.D. aufs höchste verpflichtet; und erwünschet sambt dem zuruffenden Vaterlande Eur. Hoch Fürstl. Durchl. glückselige Regierung / brüderliche Einigkeit / und dem gantzen von dem großen Piastus herstammenden Hause / des güttigen Himmels Seegen und Wohlergehen / der ich ersterben werde Eur. Hoch Fürstl. Durchlauchtigkeiten
+
+Unterthänig-gehorsamster
+Daniel Casper.
+
+Hochgeneigter Leser!
+
+Gegenwertiger Ibrabim Bassa ist vorlängst vergessen und verloren / auch unter des seelig-verstorbenen Herren von Lohensteins Schrifften kein Buchstaben davon zu finden gewesen; ausser daß etliche gutte Freunde / welche demselben in ihrer Jugend allhier in Breßlau auf dem Schau-Platze öffentlich vorstellen helffen / sich dessen erinnert / und nicht allein offtermahls nach ihme gefraget; sondern auch endlich einen Abdruck von ihme zuwege gebracht / und solchen drucken zu lassen inständig gebethen. Weil denn die Lüsternheit der menschlichen Gemütter derogestalt beschaffen ist: daß dieselben offtermals an unvollkommenen Sachen eben so grosse Vergnügung als des Grichischen Fürsten Pericles Gemahlin Aspasia /an unreiffen Weintrauben zu haben pflegen; Als wird in Ansehung dessen / auch solcher Ibrahim dem Leser hiermit wolmeinende überreichet; und derselbe darbeyis dienstfreundlich ersuchet; dafern ihm dessen Ausarbeitung oder Redens-Arth denen andern Lohensteinischen Trauer-Getichten nicht gleich zu seyn bedüncken möchte / hiervon kein übeles Urtheil zu fallen / weniger einige Lehrsätze davon zu nehmen. Sintemahl es eine Frucht ist / welche dem Seelig-Verstorbenen im funfzehenden Jahre seines Alters auß seiner Lehr-begierigen Feder gewachsen: die zum wenigsten angezeiget: daß dieser edle Stamm bey Männlichen Jahren der Welt einen viel schönern Schatz herrlicher Tugend-Früchte mittheilen 
+würde. Der hochgeneigte Leser gedencke im übrigen des seel. Herrn Verfassers im besten / und lebe darbey in Hoffnung eines bessern / allezeit wol.
+Der Verleger.
+
+Innhalt
+Des Trauer-Spiels.
+
+Das von den Lastern angefesselte Asien / erzehlet seine alte Herrligkeit / bejammert seine Unglückseligkeit / worein es durch die Laster gestürtzet worden; verfluchet des Solymanns Tyranney / und die gegen dem Ibrahim bezeigete Grausamkeit; ruffet auch deßwegen die Wolcken umb Straffe an.
+
+Die Erste Abhandlung.
+
+Nachdem Ibrahim ein Welscher Fürst / welchen Sultan Solymann / wegen tapfrerer Thaten aus einem Leibeigenen zum Groß-Visier gemacht / sich auf die Flucht nach Genua begeben / als wordurch er seine Liebste Isabelln / in welche sich der Solymann zeit seiner Abwesenheit in Persien / verliebet / zu retten gedacht: so verlanget der Sultan von dem Hali Bassa zu wissen: Ob er keine Nachricht von denen Flüchtigen habe? von dem Achmet aber ein Guttachten; wie Ibrahim / wenn man ihm bekäme / zu bestraffen sey? Dieser giebt den Rath: daß man ihm nachsetzen / und ihn fürs strenge Hals-Gerichte stellen und zum Tode verdammen lassen solle. Worauf Solymann ihnen beyden / bey Verlust ihrer Köpffe befiehlet / des Ibra-[A7] hims Kopf zu liefern. Nach diesem bringet Rusthan den Ibrahim und Isabellen vor den Kayser / und erzehlet / wie er dessen Schif erobert / und sie beyderseits gefangen bekommen habe. Der Kayser verweiset dem Ibrahim seinen Undanck und Flucht; gegen welchen aber Ibrahim seine Unschuld unerschrocken vertheidigt / auch daß er keine Verrätherey wider den Kayser angesponnen / sondern nur seine Gemahlin ausser Gefahr zu flüchten willens gewesen. Hingegen beschuldigt ihn Rusthan: daß er zu Wien bey Kayser Carln durch einen Türckischen Botschaffter gefährliche Anschläge wider das Türckische Reich schmieden lassen; gegen deme sich aber Ibrahim gleichfals hertzhafft verantwortet. Hierauff setzet 
+Solymann auch die Isabelle deßwegen zur Rede; die aber eben dergleichen Entschuldigung brauchet. Nachgehends befiehlet Solymann dem Rusthan / sie beyderseits / nebst andern eingebrachten Gefangenen ins Gefängnüs zu führen. Diese beklagen ihren unglückseligen Zustand / und nehmen voneinander mit vielen Liebes-Bezeugungen Abschied. Achmet und Hali-Bassa reden mit einander von des Ibrahims Falle /dessen Beyspiel sie in zimliche Furcht setzt.
+In den Reyen bejammern die leibeignen Christen ihren elenden Zustand / und ruffen Gott umb Erlösung an.
+
+Die andere Abhandlung.
+
+Der Kayser Solyman gehet mit sich selbst zu Rathe /was er mit dem gefangenen Ibrahim thun solle; und ob ihn auch alsdenn die Isabella lieben würde; beschleust aber doch endlich bey sich seinen Tod. Hierauf erzehlet ihm Rusthan weitläuftig / wie sich der Ibrahim im Gefängnüs gestellet / und sich gegen dem Kayser zu rächen gedrohet / auch wie sich Isabella geberdet habe; worüber der verliebte Solymann sehr bestürtzt ist; den aber die darzu kommende Kayserinn Roxellane zu bestillen sich bemühet / und ihn beredet: daß er den Ibrahim aus dem Wege räumen lassen solle. Wiewol zwar Soliman hierein anfangs nicht willigen wil / sondern ihr des Ibrahim grosse Verdienste / und die wider das Türckische Reich ausgeübte tapffern Thaten dargegen hält; so verspricht er ihr doch auff ferneres Anhalten seinen Tod zu befördern; befiehlet auch bald dem Rusthan das Todes-Urtheil an dem Ibrahim zu vollziehen. Jedoch stehet der Kayser deßwegen in lauter Zweifel.
+In den Reyen streiten die Begierde und Vernunft wegen ihrer Macht und Stärke mit einander; der Mensch aber giebet ihrer Sache einen rechten Außschlag.
+
+Die Dritte Abhandlung.
+
+Isabelle beklaget im Gefängnüs ihre vielfältig erlittene Zufälle und Unglücke seit ihrer mit dem! Ibrahim gepflogenen Liebe. Worauf Solimann zu ihr ins Gefängnüs kommet / und ihr mit vielen Dreuen / daß er sie nebst dem Ibrahim tödten lassen wolle / heftig zusetzet: daß sie ihn lieben solle. Die aber gantz nicht zu bewegen ist / also daß der 
+Kayser abziehen muß. Rustahn kündigt im Nahmen des Kaysers dem Ibrahim den Tod an / und überreicht ihm zugleich das Todten-Kleid und einen seidenen Strick; welches Ibrahim freudig annimbt / und sich bey der angestellten stillen Mahlzeit zum Sterben fertig macht. Als er aber bereits mit dem umb den Hals gemachten Stricke auf der Erden zum Würgen fertig liegt / kommt Solimann / und rufft: Genade! heißt ihn aufstehen und umbarmet ihn als seinen Freund. Der sich hierüber verwundernde Ibrahim verspricht mit vielen Dancksagen / vor den Solymann und sein Reich / Gutt und Leben aufzusetzen.
+In den Reyen besingen die Saracenischen Priester das einfallende Opffer-Fest / und dancken darbey dem Mahomet und andern Propheten vor die sonderbahre Erhaltung des Ibrahims.
+
+Die Vierdte Abhandlung.
+
+Rusthan erzehlet der Roxolane: daß der Ibrahim / als er schon den Strick umb den Hals gehabt / und bereits zur Erden gelegen / von dem Solimann Genade bekommen / auch die Isabella auf freyen Fuß gestellet habe; welche sich darüber sehr verwundert; auf den [A 8 b] Kayser als einen weibischen Mann schmähet /und sich mit ihm berathschlaget / wie Ibrahims Todt am besten zu befördern sey. Der Kayser kommt und erzehlet der Sultanin einen seltzamen Zufall / der sich im Garten in seiner Gegenwart zugetragen / und deutet solchen als eine Anzeigung künftigen Unglücks auf sich. Die es ihm aber ausredet / und den geenderten Schluß wegen des Ibrahims hefftig verweiset; auch ihm ferner anlieget / nicht allein seinem ersten Schluße nachzukommen / sondern sich auch bey dem Mufti Raths zu erholen ermahnet. Rusthan hilft auff Begehren der Sultanin den Mufti bereden: daß er auf Mittel sinnen / und beym Kayser des Ibrahims Untergang und Todt befördern helffen solle. Welches die darzu kommende Roxellane wiederholet / und dem Mufti deßhalben alle Gnade verheißet. Hierauf verfüget sich der Mufti zum Solymann / bemühet sich ihn mit beweglichen Gründen zu vermögen; giebt ihm auch den Rath: daß der Kayser / damit er nicht wieder seinen Eyd handeln möchte / wenn er schlaffen würde / an dem Ibrahim das Todes-Urtheil vollziehen lassen solle; weil er geschworen: weil er lebte / solle dem Ibrahim nichts leides geschehn; hingegen aber ein schlaffender Mensch gleichsam vor 
+einen Todten zu achten were. Worein endlich auch der Kayser williget / und solche Vollziehung dem Rusthan von neuen befiehlet.
+In dem Reyen erheben die Sinnen und der Schlaf ihre Gewalt / und streiten umb den Vorzug.
+
+Die Fünfte Abhandlung.
+
+Ibrahim und Isabelle preisen ihre Befreyung des Gefängnisses glückselig / und erzehlen einander / wie ihnen zur selben Zeit zu muthe gewesen; doch stehen sie in neuer Furcht und Gefahr; biß Rusthan nebst den Trabanten ihnen aufs neue im Nahmen des Sultans das Gefängnüs ankündiget; Welcher Befehl ihnen zwar seltzam vorkommt / sie doch selbigem gehorsamen müssen. Solimann befiehlet dem Rusthan / daß so bald er eingeschlaffen seyn würde / er den Ibrahim erwürgen lassen solle. Hierauf preisen die Sänger des Osmanns Macht / und warnigen hohe Bedienten: daß sie sich an Ibrahims Falle spiegeln sollen. Mustaphens Gespenste verfluchet des schlaffenden Solimanns verübte Grausamkeit; und zeiget die Leichen des ermordeten Giangirs / der Seraide / des jungen Mustapha / und endlich Ibrahims; schreyet deßwegen Weh und Zetter über ihn. Worüber Solimann mit grossen Schrecken erwacht / und nicht allein des Ibrahims Todes-Urthel hefftig bereuet / sondern auch den Rusthan mit harten Worten schilt / daß er den Ibrahim so geschwinde ermorden lassen; befiehlet ihm auch dessen Leiche herbey zu bringen / welche er sehr beklaget; dem Hali aber: daß er dem Kayfer des Rusthans Kopf und Hertze liefern solle; wie ingleichen: daß Achmat bey Isabellen ihres Liebsten Ibrahims Ermordung bestens entschuldigen / auch ihr dessen Haupt überbringen / und sie auf freyen Fußstellen solle. Worüber Isabelle Jämmerlich klaget / und sich durch nichts wil trösten lassen / sondern dem Solimann alles Unglück auf den Halß / und seinen Untergang wünschet.
+
+
+
+
+

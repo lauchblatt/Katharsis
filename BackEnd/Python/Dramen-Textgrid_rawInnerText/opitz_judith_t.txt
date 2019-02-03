@@ -1,0 +1,1453 @@
+
+
+
+
+Judith
+
+
+hdl:11858/00-1734-0000-0004-632E-4textgrid:svt2.0
+ Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). 
+
+Lizenzvertrag
+
+
+ Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache 
+
+
+Hinweise zur Lizenz und zur Digitalen Bibliothek
+
+
+
+
+
+                              Erstdruck: Breslau (Georg Baumann), 1635.
+                           
+
+
+
+
+Judith-Dramen des 16./17. Jahrhunderts. Herausgegeben von Dr. Martin Sommerfeld, Berlin: Junker und Dünnhaupt Verlag, 1933.
+Opitz, Martin
+
+115-
+
+
+Berlin
+
+
+
+
+
+
+
+
+
+
+drama
+
+
+
+
+
+
+
+
+Martin Opitz
+Judith
+
+
+
+
+
+
+
+Personen
+
+
+
+
+
+
+
+Die Prersonen deß Schawspiels.
+
+Holofern.
+
+Arsace / Hauptmann.
+
+Bagos / Kämmerling.
+
+Judith.
+
+Abra / Kammermagd.
+
+Orontes / Marschalck.
+
+Hircan / Wachtmeister.
+
+Osias / König.
+
+
+
+Chore.
+
+Der Gefangenen Könige.
+
+Der Wache.
+
+Der Hebreer in der Stadt.
+
+Der Hebreischen Jungfrawen.
+
+Der Soldaten.
+
+
+Der Hoch Wolgebornen Frawen / Frawen Margarethen / Frawen von Kolowrath / geborner Freyin von Redern / Frawen auff Groß-Strelitz / Tost vnd Peißkretschamb / Meiner Gnädigen Frawen.
+
+
+
+
+
+
+
+
+
+
+[Vorrede]
+
+
+
+
+[Vorrede]
+Gnädige Fraw! Es ist vnschwer zu erweysen, daß vnter aller Arth zu reden die Poeterey (den Mißbrauch außgenommen) die Stelle vnd den Vorzug habe, ja daß sie von den ältisten Zeiten an eine Lehrerinn der Frömigkeit, eine Erforscherin der Natur, eine Mutter der Tugenden, eine Geleitßmännin der Weißheit vnd ein Duäll der gutten Künste vnd Sitten gewesen sey. Vnter allen Poetischen sachen oder Getichten aber ist sonder zweiffel nichts vber die Schawspiele, darinnen die Verwirrungen der Gemütter, die Fälle deß Lebens, der Vnbestand deß Glücks vnd das thun vnd lassen der Menschen, nebenst so schönen Lehren vnd Sprüchen, mit kluger erfindung, vnnd nach der Personen eygenschafft bequemen Worten dermassen außgedruckt wird, daß wir darauß das geschehene nüetzlich betrachten, das gegenwertige vernünfftig anstellen, vnd das künfftige besser suchen oder vermeyden, ja vns mit vorstellung solcher Exempel in Glück vnd Vnglück desto leichter schicken vnd richten können. Darumb haben viel Kayser, Fürsten vnd Helden von dergleichen Tragedien nicht allein jederzeit sehr viel gehalten: Sondern auch dieselbigen zu schreiben sich mit grosser Embsigkeit selbst beflissen. Heutiges Tages ist diese herrliche Kunst eben wie andere auß Nachläßigkeit vnd Vnverstande der Leuthe so gar verloschen, daß in Lateinischer Sprache wenig tüchtiges, in der Deutschen aber, die sich doch sonsten etwas wittern wil, durchauß nichts dergleichen an den Tag gebracht worden. Meine Judith hier, welche ich doch auch vor etzlichen Jahren an Erfindung vnd Worten einen grossen Theyl aus dem Italiänischen entlehnet, kan sich deß Tituls eines vollkommenen Schawspieles nicht rühmen, alldieweil jhr so viel an schönheit vnd demjenigen, was der Gelehrten Künstler Aristoteles haben wil, allerseits fehlet, daß ich sie auff den Platz vnd für Augen so vieler Richter zu stellen bedencken trüge, wann ich nicht hoffete, es würden die sachen, darvon darinnen gehandelt wird: die Ehre Gottes nemblich, die 
+Liebe deß Vaterlandes vnd die Handhabung der Keuschheit dasjenige, was an jhr tadelhafftig vnd nicht sonder Mackel ist, etzlicher massen bekleiden vnd vordecken. Die Historie an sich selber ist E. Gn., derer grösseste Erquickung vnd Trost auff lesung Geistlicher sachen bestehet, besser bekandt, als daß ich sie alhier wiederholen dürffe. Zwar wird sie von vnsern Theologen nicht für ein eygentliches Glied der heyligen Schrifft vnd also zu sagen für kein Evangelium gehalten; weil Hieronymus selber diß Buch gar zweyffelhafftig anzeucht; weil Hilarius in der Vorrede vber den Psalter, Gregorius Nazianzenus in den Versen von der H. Schrifft, Eusebius im 10. Cap. deß 3. Buches seiner Historien vnd bey jhm Origenes, Epiphanius im Buche vom Maß vnd viel andere es vnter das Verzeichnüß der Bücher deß Alten Testaments nicht setzen; weil es die Laodicenische vnd andere Geistliche Zusammenkunfften wie auch das Buch der Canonum oder Richtschnuren der Kirchen, welches der Kayser Justinian bestetigt hat, vor Alters nicht angenommen; weil es von den Juden nie für gültig erkandt noch in der Hebreischen Bibel jemals gefunden, vnd etwan nur aus Chaldeischer Sprachen vmbgesetzt worden; weil es im Newen Testament nirgend wird angezogen; weil das 4. vnd 5. Capitel so viel anzeigen, alß ob sich diese Geschichte nach der Wiederkunfft aus der Babylonischen Gefängnüß begeben, im 1. vnd 2. Cap. aber angereget wird, daß es bey Nebucadnezars Leben fürgegangen, der länger alß für 60 Jahren gestorben war, vnd also die Zeiten, was etwan gleich der Ehrwürdige Beda vom Cambyses, so der andere Nebucadnezar solle genennt worden sein, einwerffen wil, gar vbel stimmen; weil derjenigen meinung, welche fürgeben, es scheine, daß die Historie auff die Zeit Manasse treffe, nach dem er aus der Babylonischen Gefängnüß zurück kommen, darumb nicht bestehet, daß Holofernes im 5. Cap. von den Juden alß einem vnbekandten Volcke Nachfrage helt vnd weder im Buche Judith vom Manasse, noch in deß Manasse Historie einige erwehnung von der Judith oder dem Holofernes oder sonst dergleichen Belägerung geschihet; weil Judith im 9. Cap. diejenige That, so Simeon vnd Levi an den Sichemiten begangen, dermassen lobet vnd herauß streicht, welche Jacob im 49. Cap. deß 1. Buchs Mose, alß er die Welt gesegnen soll, weniger alß gut heisset; weil sie Gott vmb die Gnade deß Betrügens bittet, mit heraußputzung vnd liebkosenden Worten ziemlich weit gehet vnd eines vnd anders vorgiebt, das einem Frawenzimmer sich gleichwol allerdings nicht geziemet: jedennoch dieweil jhr Vertrawen zu Gott, die behaltung der Keuschheit auch mitten vnter derselbten vnd deß Vaterlandes Feinden, das Männliche Hertze in einem Weiblichen Leibe, die Nüchterkeit bey Vollen Leuthen, das jnbrünstige Gebeth vnd dergleichen wo nicht ein warhafftiger Verlauff, dennoch kein böses Exempel sindt; dieweil auch Augustinus vnd andere den Text jhrer Außlegung gewürdiget vnd jhn zum wenigsten für leydlich haben gelten lassen; als wird man mich hoffentlich wol für entschuldiget halten, daß ich an stat einer Electra, einer Medea, einer Helena vnd wie etwan die Heydnischen Spiele sonst heissen, diese Keusche vngeschmünckte Judith 
+auff den Schawplatz führen vnd in solcher Tracht, wie es die Deutsche sauberkeit mit sich bringt, habe vorstellen wollen. Bevorauß wartet sie E. Gn. auff, nicht sich für Ihr zu zeigen alß ein Exempel, sondern (nebenst dem daß ich wegen gnädiger Wolmeinung vnd vieler Gutthat diese Zuschreibung an E. Gn. zu richten für meine Person grosse Vrsach habe) an deroselbten viel mehr zu sehen die Tugenden, welche theyls die Kirche an jhr selbst gelobet vnd theyls nicht gefunden hat. Judith henckt gantze Reichthümber an die Ohren, ergrösset jhre Natürliche Schönheit mit der gemachten Hoffarth vnd verblendet deßjenigen Augen, der durch die Augen auch im Hertzen Blind wird: E. Gn. höchster Schmuck ist Demutt, eine solche Zier, die dero Vhralten hohen Standt nicht niedriger, dero Zeitliche Gütter nicht geringer, sondern Sie selber vor der Ehrbarn Welt desto ansehnlicher macht, weil sie Weltliche Pracht vnd Ansehn nicht achtet. Judith erlegt den Feind des Göttlichen Namens mit gewaffneter Hand: E. Gn. macht die Degen der Verfolger stumpff vnd schwach mit ernstem Gebethe. Judith erbittet Hülffe vnd Beystandt von oben her vnd befreyet durch solche Verleyhung jhr Vaterlandt: Wann dem Eyfer der Gotteßfurcht, dem Christlichen Leben vnd Wandel, der vngefärbten Andacht so E. Gn. führen, von männiglich nachgestrebt würde, es solte auch vnser betrübtes Vaterlandt von Gott bald erhöret, in seine gehörige Rechte vnd Freyheit gesetzet, von Leibes- vnd Gewissens-Zwang vnangetastet vnd in solchem Stande sein, wie alle trewe Patrioten wüntschen vnd hoffen. Ich wolte den Vergleich ferner strecken vnd von E. Gn. hohen Gaben vnd Schätzen der Tugendt weitleufftiger reden: aber wie ein vngeschliffener Mahler ein Bildt, je mehr er daran künstelt, nur schlimmer vnd vngestallter macht; also würde ich mit meinen vngewaschenen Worten E. Gn. wolverdientem Preyse besorglich mehr entziehen alß geben vnd zusetzen. So ist auch E. Gn. von Rhumretigkeit vnd begier deß Lobes dermassen abgesondert, daß sie auch dißfals die Warheit eine Schmeicheley vnd diese vngebundene freye Rede mit dem Namen einer Poetischen erfindung tauffen möchten. Hierumb ich dann lieber dero Vollkommenheit mit stillschweigen ehren vnd den Höchsten, welcher Sie an so vielen Tugenden mit voller Handt bereichert hat, allein bitten vnd hertzlich ersuchen soll, daß Er E. Gn. ersprißlichen Segen vnd Wolfarth verleyhen vnd Sie den Ihrigen Ihr Gn. lange Zeit einen Trost vnd Frewde, in gemein aber allen ein solches Exempel der Gotteßfurcht, Andacht vnd hochrhümlichen Wandels wolle sein lassen, als wie E. Gn. bißher jederzeit löblich gewesen ist vnd die Heldinn Judith (oben außgestellte mängel beygesetzt) vor Zeiten sol gewesen sein.
+
+Breßlaw, den 13. deß Hornungs, im 1635. Jahre.
+E. Gn. Trewgehorsamer Diener
+
+M. Opitz.
+
+
+
+
+
+
+
+
+1. Akt
+
+
+
+
+
+1. Szene
+
+
+
+
+Die 1. Scena.
+
+HOLOFERN.
+
+Soll der Hebreer dann mir jetzt zum Meister werden,
+Mir, dessen Helden Muth
+Nichts gleiches weiß auff Erden,
+Für den Araxes selbst legt seine Wilde Flut,
+Für dessen Macht der Strom deß Tigers schweiget,
+Vnd Taurus auch sein Schneegefilde neiget?
+Mag nun diß Arme Volck mich länger hinterziehn?
+Nein, Nein: sie sollen bald erfahren wer ich bin.
+
+
+
+ARSACE.
+
+Der Erden Kreiß erschüttert,
+Die Hölle zittert
+Auch selbst für dir.
+Der Angel Stern
+Erbleichet schier,
+Wann du das Heer aufführest
+O Holofern!
+Vnd deine Waffen rührest.
+
+
+
+HOLOFERN.
+
+Aber ach! ich kan ja Siegen!
+Doch was hilfft es, daß die Handt
+Zähmet so viel Leuth' vnd Landt,
+Vnd das Hertze muß erliegen,
+Muß sich lassen jetzt bekriegen
+Nicht durch Strenge Schlacht vnd Streit,
+Sondern schöne Freundligkeit?
+Kein Starckes Heer hat mich
+Gejaget je zurücke,
+Jetzt zitter ich
+Für einem leichten Augenblicke.
+Es muste mein Geboth so mancher König spüren,
+Jetzt aber kan ich selbst mich nicht regieren.
+Du hat gewonnen, du Hebreer;
+Du zwingest meinen Sinn:
+Wie hoch ich bin,
+So ist ein Weib aus deiner Stadt doch höher.
+
+
+
+BAGOS.
+
+Sehr stets hat die Natur: Behertzet sein vnd lieben
+In einen hohen Sinn zusammen eingeschrieben.
+
+
+
+HOLOFERN.
+
+Da mein Verstandt zuvor so viel gehalten hat,
+Gebricht mir jetzund selber Rhat.
+
+
+
+ARSACE.
+
+Solte dem ein Weib entgehen,
+Dem ein Heer ist vnterthan?
+Dem zu freyem Willen stehen
+Der Araber vnd Hircan?
+Dem Armenien gehorchet, den der Parther Schütze hört,
+
+
+Den die Schwartzgebrandten Mohren, den der Kühne Meder ehrt,
+Dem der Reiche Perß sich ziert,
+Der das Volck der Ammoniten
+Vnd die frechen Moabiten
+Allesampt zu Felde führt?
+Was verhindert deine Rhue?
+Schaffe nur, so ists gethan!
+Weil ein Heldt wie du
+Nicht alleine kräfftig bitten, sondern auch gebieten kan.
+
+
+
+HOLOFERN.
+
+O Ihr Götter! saget mir,
+Ists der Himmel der mich zwinget,
+Ist es etwan ein Gestirne, welches mich zur Liebe bringet,
+Oder ist es jhre Zier?
+O ja sie ists allein! Diß Reden, dieses Lachen,
+Der Augen Vnstern ists, der mein Gesicht' entzückt,
+Das Haar, das mein Gemütt' vnd allen Muth bestrickt,
+Der Mund, der meinen Mund kein gantzes Wort leßt machen.
+
+
+
+ARSACE.
+
+Des Mannes Hauß wird billich abgebrandt,
+Der Wasser klagt vnd hat es bey der Handt.
+
+
+
+BAGOS.
+
+Vnd magst du wol nicht schlagen
+Das Wildt, so ohne Jagen
+In dein Gehäge kompt?
+Ich glaube, daß es auch sie selber wunder nimbt
+Vnd jhr Gedancken macht,
+Dieweil sie ist zu lieben,
+Daß dannoch sie von dir schon nach der dritten Nacht
+Hindan gestellt ist blieben.
+Gesetzet auch, daß sie dir was versagt:
+Bist du nicht Herr vnd sie ist deine Magd?
+
+
+
+HOLOFERN.
+
+So sey es dann; auffs Nachtmal lade mir
+Die Obristen vnd diese meine Zier!
+Vnter dessen daß ich ord'ne, wie man morgen auff den Tag
+Allerseits zusammen rücken vnd die Stadt ersteigen mag.
+Ich wil mich an sie wagen!
+O Zunge, waffne dich!
+Vnd was ich nicht kan sagen,
+Soll Bachus thun für mich.
+
+
+
+BAGOS.
+
+Herr, geht, verrichtet ewre sachen!
+Im vbrigen last mich nur machen.
+Ein Weibeßvolck, wie Keusch es auch mag sein,
+Wird offtermals bezwungen durch den Wein.
+Da kompt sie gleich, deß Fürsten Trost vnd Pein,
+Die gar wol mächtig ist, die Götter selbst zu binden
+Vnd durch der Schönheit glantz den Himmel anzuzünden.
+
+
+
+
+
+
+
+
+
+2. Szene
+
+
+
+
+
+
+Die 2. Scena.
+
+JUDITH.
+
+Sonne, Zier der Erde,
+Die du zu der Nachtrhue schreitest,
+Vnd die müden Pferde
+In die See zum Trincken reitest:
+Zürne nicht, daß du mich siehst
+In deß Rawen Volckes Händen,
+Das ein Feind deß Höchsten ist.
+Ich verhoffe zu vollenden
+Für das Landt vnd Billigkeit,
+Was mein Sinn jhm fürgenommen,
+Ehe du zur Morgen Zeit
+Widerumb herauff wirst kommen.
+
+
+
+BAGOS.
+
+Was sagst du zu der Sonne,
+Du Sonne dieser Welt,
+Der Menschen Lust vnd Wonne,
+Der kein Gestirne nicht die Gegenwage helt?
+Klagest du, daß jetzt der Abend vns beraubet jhrer Zier?
+Laß sie jmmer vntergehen; scheinest du doch bey vns hier.
+
+
+
+JUDITH.
+
+Recht zusagen was ich mache, mich bedünckt, der Sonnen Licht
+Sey ein Bildnüß deines Herren: weil mein Antlitz aber nicht,
+Wie es wündtscht, jhn sehen kan,
+Schawt es diß sein Vorbild an.
+
+
+
+BAGOS.
+
+Eben dieser, den du lobest, Judith, wil auffs Nachtmal hier
+Viel deß Volckes Edle Helden bey sich wissen neben dir.
+Komm; dann dein vnd sein begehren stimmet gäntzlich vberein.
+Wündtschest du jhn stets zu sehen, so gefellst du jhm allein.
+
+
+
+JUDITH.
+
+Ich arme Magd, was für Verdienst vnd sachen
+Sind doch an mir, darauff ein solcher Held,
+Die Furcht vnd Krafft der Welt,
+Ihm darff Gedanken machen?
+Wiewol ich nun der Gunst mich Vnwerth schätze,
+So stell ich sie doch nicht zurücke:
+Sein Wollen ist mein Glücke,
+Sein Wincken mein Gesetze.
+
+
+
+BAGOS.
+
+Ich wil mit dieser Post zu meinem Herren eylen;
+Du wollest dich allhier ein wenig nur verweilen.
+
+
+
+
+
+
+
+
+
+3. Szene
+
+
+
+
+Die 3. Scena.
+
+ABRA.
+
+Sol dann nun diß die Judith sein,
+Der Spiegel Keuscher Jugend,
+Deß Frawenzimmers Licht vnd Schein,
+Der Außzug aller Tugend?
+
+
+Nun solche Sinnen vnd Gedancken
+Auch wollen wancken,
+So muß ich nur gestehn, daß auff der gantzen Erden
+Nichts eher alß ein Weib kan vnbestendig werden.
+Du Morgenstern der Zucht, du Engelreines Bildt!
+Was ists, daß du dahin zu Gaste gehen wilt,
+Vnd zwar so gantz allein,
+Wo Tyranney vnd Macht,
+Wo Spiel, wo Wein vnd Nacht
+Beysammen werden sein,
+Die Feinde gutter Sitten,
+Von denen Ehrbarkeit nie bleibet vnbestritten?
+
+
+
+JUDITH.
+
+Bin ich dir so vnbekandt?
+Was mich reitzt dahin zu kommen, ist gewiß kein Frewdenfest,
+Sondern GOTT vnd vnser Landt.
+Welchem kan es vbel gehn, der sich nur auff Ihn verleßt?
+
+
+
+ABRA.
+
+Ich weiß es Fraw, du wirst nicht wancken,
+Wirst bleiben für vnd für
+Bey deinen Züchtigen Gedancken;
+Jedoch dein grosser Feind, die Schönheit, geht mit dir.
+
+
+
+JUDITH.
+
+Sey nur getrost vnd komm zum Brunnen hier,
+Wo ich gewohnet bin
+Zu waschen mein Gesichte.
+Es kennt ein jed'rer wol
+Mein Ehrliches Gerüchte,
+Das Ehrlich bleiben sol.
+
+
+
+CHOR DER GEFANGENEN KÖNIGE.
+
+Was machstu, falsches Glücke,
+Wie greiffen deine Tücke
+Auch hohe Zepter an!
+Die Macht, in der wir waren,
+Das Landt, die Starcken Scharen,
+Sind andren vnterthan.
+
+
+
+DER KÖNIG AUS LIBIEN.
+
+Gantz Libien war meine,
+Das stets mit heissem Scheine
+Erwärmt der Hundes Stern.
+
+
+
+EIN ANDERER.
+Ich hatte die Phenicer.
+
+
+EIN ANDERER.
+Ich Euch, O Ihr Cilicer.
+
+
+ALLE ZUGLEICH.
+
+Jetzt hat vns Holofern.
+In Eysen sein geschlagen
+Vnd dannoch Cronen tragen,
+Ist Leidt vnd Spott zu gleich.
+Ach Holofern, die Sinnen,
+Die selbst sich zähmen können,
+Sind halbes Königreich.
+
+
+Wer ist sie, die hier gehet,
+Vnd schöner für vns stehet
+Alß Luna bey der Nacht?
+O Blum vnd Licht der Jugend,
+Die Keuschheit, Scham vnd Tugend
+Wird vbel hier verwacht.
+Doch wann die Götter wollen,
+Auff die wir hoffen sollen,
+So kan auch dieser Schein,
+Der Glantz vns Freyheit bringen,
+Den Wütterich bezwingen
+Vnd vnser Rächer sein.
+Ach Himmel! laß die Augen
+Diß Freche Blutt außsaugen!
+Gieb daß diß Güldne Haar
+Zu Stricken müsse werden,
+Vnd stürtze zu der Erden
+Das Haupt der stoltzen Schaar!
+
+
+
+
+
+
+
+
+
+2. Akt
+
+
+
+
+
+1. Szene
+
+
+
+
+Die 1. Scena.
+
+HOLOFERN.
+
+O Monde, dessen Licht die braune Nacht bestralt,
+Ihr Sternen, welcher Glantz den Baw deß Himmels mahlt:
+Im fall jhr euch nicht schämbt für meiner Judith Zier,
+So blicket diese Nacht mit Fröligkeit herfür.
+O Monde, fahre langsam zue,
+Halt an der Weissen Pferde Zügel.
+Ihr Sternen, gönnt mir diese Rhue,
+Nembt nicht geschwinde Flügel.
+Der Morgenröthe Zier
+Begehr ich nicht, ist doch mein Leitstern hier.
+O Judith, wenn ich dich zu schawen nicht vermag,
+Ist ohne Monden Nacht vnd ohne Sonne Tag!
+
+
+
+BAGOS.
+
+Orontes kömbt, ohn Zweyffel anzusagen,
+Daß nunmehr sey zur Taffel auffgetragen.
+
+
+
+
+
+
+
+
+
+2. Szene
+
+
+
+
+Die 2. Scena.
+
+ORONTES.
+
+Herr, die Gäste sind verhanden, vnd die Speisen stehen schon;
+Bachus vnd der Venus Sohn
+Scheinen selber zu verlangen.
+
+
+
+HOLOFERN.
+
+Aber wo muß Judith sein?
+Schaw, hier kompt sie hergegangen,
+Meine Lust vnd meine Pein.
+
+
+Keine Mutter, die jhr Kind
+Vber See hat außgesendet,
+Ist so froh, wann gutter Wind
+Seinen Mast nach Hause lendet,
+Als mein Herze sich erquicket,
+Nun das Auge die erblicket,
+Die mein Port, den ich erkiest,
+Vnd mein Wind vnd Segel ist.
+
+
+
+
+
+
+
+
+
+3. Szene
+
+
+
+
+Die 3. Scena.
+
+JUDITH.
+
+Du Kühnster Heldt,
+Der jemals Lantz vnd Schildt
+Geführet hat, der alles Landt erfüllt,
+So weit die Welt von grossen Thaten sagt:
+Wie sol doch deine Magdt
+Das vnverhoffte Glück in ewigkeit verschweigen,
+Daß du sie anzusehn die Gnad jhr wilst erzeigen?
+
+
+
+HOLOFERN.
+
+Sol die zu meinen Füssen liegen,
+Die meinem Hertzen ob kan siegen?
+O Edle Fraw, du Außbund aller Zier,
+Du findest jetzt nicht Mayestät allhier,
+Nicht Waffen, sondern Liebeßflammen.
+Ach stelle diese Demuth ein!
+Es schickt sich nicht zusammen
+Verliebt vnd Prächtig sein.
+Wird deine Trew sich deiner Schönheit gleichen,
+Vnd du mich meinst, wie dich mein Hertze liebt,
+So wil ich deiner Gunst vom halben Theyle weichen
+Deß Zepters, welches mir mein Sieg vnd Stärcke giebt.
+Man sol von dir forthin vmb meinetwillen wissen,
+Wo Oxus vnd Eufrat vnd Ister selber flissen.
+
+
+
+JUDITH.
+
+Herr, deine grosse Freundligkeit
+Benimbt der Hoheit nicht:
+Die Sonn erleuchtet weit vnd breit
+Auch Thäler, nicht nur Höhen;
+Jedennoch bleibt jhr klares Licht
+Am Himmel allzeit stehen.
+Dich lieben, fürcht ich nur, das wil mir kaum gehören.
+Ich wil alß Dienerinn dich mit Gehorsamb ehren.
+
+
+
+HIRCAN.
+
+Sie gehen fort. Wer hat doch weit vnd ferren
+So Schönes Weib, so einen grossen Herren
+Zugleich gesehn? O der gewündtschten Nacht,
+Die diß Pancket vnd was drauff folget, macht!
+
+
+Wolan jhr lieben Rottgesellen,
+Indessen wir hier wachen,
+So laßt vns auch vns Lustig machen!
+Auff, rufft mit mir den lieben Wein Gott an,
+Der Frölich ist vnd Frölich machen kan!
+
+
+
+CHOR DER WACHE.
+
+Was thustu jetzund oben,
+Du Sohn der Semele?
+Komm her vnd laß dich loben!
+Jach! Evoe!
+
+
+
+Komm her vnd gieb zum besten
+Die Süsse Rebenbach
+Den angenehmen Gästen!
+Evoe! Jach!
+
+
+
+Der Feldtherr liegt Gefangen,
+Schifft auff der Venus See;
+Hilff ihm den Port erlangen!
+Jach! Evoe!
+
+
+
+Weil deine Milch nicht springet,
+Da bleibt die Liebe nach;
+Du bist, der Wollust bringet!
+Evoe! Jach!
+
+
+
+Ein Nüchternes Gehirne,
+Das fühlet Angst vnd Weh;
+Erhitze du die Stirne!
+Jach! Evoe!
+
+
+
+Viel besser ist ein Becher
+Als Leidt vnd Vngemach:
+Komm her, du Sorgen Brecher!
+Evoe! Jach!
+
+
+
+Komm Bassareu, komm Bache,
+Komm Vater Bromie!
+O Evan, O Jache!
+Jach! Evoe!
+
+
+
+
+
+
+
+
+
+4. Szene
+
+
+
+
+Die 4. Scena.
+
+HIRCAN.
+
+Ihr Pursch, jetzt könnt jhr sehn vnd ewer Vrtheyl fellen,
+Wie gerne Hoher Sinn vnd Schönheit sich gesellen.
+Der grosse Holofern henckt seinen Heldenmuth
+An diß zwar Zierliches doch gleichwol Feindlichs Blut.
+
+
+Vnd sie sucht Liebe hier vnd achtet nicht der Schande,
+Die sie zu Hause leßt, wird jhrem Vaterlande
+Ein Vngetrewes Kindt.
+Es ist kein Donner nicht,
+Kein Vngehewrer Windt,
+Der Mast vnd Schiff zerbricht,
+So grimmig als ein Weib, das in Begier entbrennet.
+Ihr gleicht kein Tiegerthier, wie sehr es tobt vnd rennet,
+Wann seine Jungen jhm genommen worden sindt;
+Nicht Ganges, wann sein Strom aus seiner Gräntze rinnt
+Vnd reißt die Bäume fort. Diß Fewer ist verblendet,
+Fängt sich vnd andre bald vnd wird nicht bald geendet.
+Wie gar wol aber gleicht sich dieses Edle Par!
+Doch Holfern liebt Lust vnd Judith auch Gefahr.
+
+
+
+SOLDAT.
+
+Wie blicken doch aus jhrer Lufft herfür
+Der Mars vnd Venus Stern!
+Die Judith gleicht der Venus felbst an Zier,
+Vnd Mars ist Holofern!
+Es steht schon längst am Himmel angeschrieben,
+Daß er vnd sie einander sollen lieben.
+
+
+
+CHOR DER WACHE.
+
+Halt Bachus, halt nun jnnen,
+Der Feldt Herr trinckt zu viel.
+Er netzet auch die Sinnen
+Vnd wil nicht was er wil.
+
+
+
+Das Oele muß zwar flissen,
+So brennt die Lampe gutt;
+Doch gar zuviel angissen
+Erseufft die gantze Glutt.
+
+
+
+Der dem du steckst im Kopffe,
+Vergißt der Liebeßpflicht.
+Er gehet auff dem Kopffe
+Vnd kennt sich selber nicht.
+
+
+
+Wann schon die Zunge klebet,
+Du Lust- vnd Vnlust-Gott,
+Vnd Hand vnd Fuß nicht hebet,
+Da ist die Liebe Todt.
+
+
+
+Halt Bachus, halt nun jnnen
+Vnd dämpffe deinen Wein:
+Wer dißfals wil gewinnen,
+Muß Voll vnd Nüchtern sein.
+
+
+
+
+
+
+
+
+
+5. Szene
+
+
+
+
+
+
+Die 5. Scena.
+
+HIRCAN.
+
+Sehet, wie der Holofern sein beschwertes Haupt leßt sincken,
+Vnd die Helden stehen auff, satt vom Essen, laß vom Trincken.
+
+
+
+SOLDAT.
+
+Sie gehen fort; er selber folget nach,
+Vnd Bagos führt jhn in sein Schlaffgemach.
+
+
+
+HIRCAN.
+
+Nun wir wollen auch vns letzen,
+Wollen dieser gutten Zeit
+Kein Gebot vnd Weise setzen;
+Morgen muß man an den Streit.
+Stärckt vnd schärffet Hertz vnd Glieder,
+Greiffet an vnd stürmt den Wein:
+Wissen wir doch nicht, wer wieder
+Auff die Nacht wird lustig sein.
+
+
+
+ZWEY AUS DEM CHOR DER SOLDATEN.
+
+Komm Bachus, komm, du must vns auch erquicken;
+Komm Bachus, komm; es wil sich vbel schicken,
+Daß Herren Voll vnd Diener Nüchtern sindt:
+Babacta komm, du Nasses Hüffte-Kindt,
+Komm Lenean, wir haben Wein vnd Degen,
+Da wollen wir den Feind darmit erlegen:
+Der Degen sol für den Hebreer sein;
+Jtzt tödten wir die Sorgen durch den Wein.
+Recht, Eleleu; Jaha, Jach, Jache!
+Wann alles schläfft, so trincket erst die Wache.
+Gieb gutten Windt, das Schiff ist in der See.
+Herumb, herumb! O Evan! Evoe!
+
+
+
+
+
+
+
+
+
+6. Szene
+
+
+
+
+Die 6. Scena.
+
+JUDITH.
+
+Abra geh', es ist von nöthen, daß man heimlich sich erkiest,
+Ob die Königliche Wache für der Thür verhanden ist.
+
+
+
+ABRA.
+
+Es ist ein tieffes Schweigen;
+Ich seh' auch niemandt als die Sternen,
+Die sich von fernen
+Am hellen Himmel zeigen.
+
+
+
+JUDITH.
+
+Nun Judith, jetzt ists Zeit, den Weiber Muth zu lassen;
+Jetzt muß die schwache Handt den kühnen Degen fassen
+Für Spindel vnd für Garn; sie muß durch einen Streich
+Erlösen Israels betrübtes Königreich.
+GOTT, der du Davids Faust so kräfftig hat gereget,
+Daß Goliath von jhm zu Boden ward geleget
+Durch einen Schleuderstein, das Vngehewre Thier;
+Der Jael hat gesterckt, sey jetzundt auch bey mir
+
+
+Vnd führe diesen Arm, damit er dem Tyrannen
+Sein Lohn ertheylen mag, der deinen Dienst verbannen
+Vnd dich Entzeptern wil: es werde diese Nacht
+In Freyheit vnser Landt, die Kirch in Rhue gebracht!
+
+
+
+ABRA.
+
+Deß Himmels Gnade sey mit dir
+Vnd rette dich vnd vns auß Nöthen!
+Hilff GOTT, ein Weib das nimbt jhm für,
+Den Wüterich zu tödten,
+Der vnter seine grimme Macht
+Viel Volck vnd Länder hat gebracht:
+Sie wil das Haupt abhawen,
+Das ich auch anzuschawen
+Zu furchtsam bin.
+
+
+
+JUDITH.
+
+Abra, nim es hin,
+Was bißher vns hat gejrret
+Vnd den Erdenkreiß verwirret.
+Was für diesem zu vollbringen sich entschlossen hat kein Mann:
+Das hat GOTT durch mich gethan.
+
+
+
+ABRA.
+
+O der grossen Helden That!
+Zittert mir doch Arm vnd Beine,
+Anzusehen nur alleine,
+Was dein Muth verrichtet hat.
+Wie nichts vnd nichtig sind der Menschen Thun vnd Zier?
+Wo ist deß Heyden Macht? sein stoltzer Kopff ist hier!
+
+
+
+JUDITH.
+
+Wir mussen fliehn für allen dingen!
+Komm, laß vns vns'rem Vaterlande
+Sein Heyl vnd seiner Feinde Schande
+Zur gueten Zeitung bringen!
+
+
+
+CHOR DER GEFANGENEN KÖNIGE.
+
+Es wil mir nicht zu Sinne,
+Daß dieses Edle Weib
+Mit arger Liebe könne
+Beflecken jhren Leib.
+
+
+
+Ihr Ehrliches Gesichte
+Zeigt viel ein bessers an:
+Die Zucht, aus der ich richte,
+Benimbt mir allen Wahn.
+
+
+
+Doch kann sie Fewer fassen
+Vnd gibt demselben nach,
+Der nichts verdient alß hassen,
+So ists ja Spot vnnd Schmach.
+
+
+
+
+
+So muß ich ja erfahren,
+Wie Blüte der gestalt
+Sehr ähnlich sey den Wahren,
+Die selten werden Alt.
+
+
+
+Ich wil gar gerne sagen,
+Daß freylich vngemein
+Zugleiche sich vertragen
+Keusch vnd auch schöne sein.
+
+
+
+Doch wil mir nicht zu Sinne,
+Daß dieses Edle Weib
+Mit arger Liebe könne
+Beflecken jhren Leib.
+
+
+
+
+
+
+
+
+
+3. Akt
+
+
+
+
+
+1. Szene
+
+
+
+
+Die 1. Scena.
+
+EIN EBREISCHER SOLDAT VON DER MAUREN.
+
+Jetzund sprich, Israel, daß doch dein GOTT noch lebe!
+Daß er biß an des Himmels Zelt
+Dein Horn erhebe.
+Der schnöde Heyd' ist nun gefellt:
+Hier stecke nun sein Haupt, damit es aller Welt
+Ein Spiegel sey vnd zu erkennen gebe,
+O Israel, daß doch dein GOTT noch lebe.
+
+
+
+CHOR DER EBREER IN DER STADT.
+
+Auff, auff! vnd fodert Rache!
+Es ist jetzt Zeit zur Sache!
+
+
+
+
+
+
+
+
+
+2. Szene
+
+
+
+
+Die 2. Scena.
+
+ARSACE.
+
+Hört jhr Aßyrier, hört an, jhr Purßgesellen!
+Wie trutzig dürffen doch die Hunde drinnen bellen?
+Das nichtige Gesinde
+Wil noch den Muth nicht legen,
+Darff auch die Drummel regen
+Vnd schlägt sich mit dem Winde.
+Ich weiß nicht, wo der Muth herkömbt,
+Den jhr die Handtvoll Leute nimbt.
+
+
+
+WACHE.
+
+Lerm! Hola! Waffen, Waffen!
+Jetzt ist nicht Zeit zue schlaffen!
+Auff jhr Soldaten, auff! Der Feind kombt schon mit Hauffen
+Den Berg herab gelauffen!
+
+
+
+HIRCAN.
+
+Auff dann, auff vnd säumet nicht:
+Bagos, trag du den Bericht
+Eylends vns'rem Herren für,
+
+
+Daß er möge baldt erwachen!
+Wir indessen wollen hier
+Vns zum Schlagen fertig machen
+Vnd das Volck in Ordnung stellen.
+
+
+
+EINER VON DER WACHE.
+
+Ich bekenn', ihr Rottgesellen,
+Mir erschüttert Marck vnd Bein!
+Glaubt, es muß was grosses sein,
+Was der Feind sich vnterfangen.
+Heute wie der Sonnenschein
+Noch nicht recht war auffgegangen,
+Vnd ich nechst dem Brunnen hin
+Wache gleich gestanden bin,
+Hab ich furchtsamb angehöret,
+Wie sich durch die gantze Stadt
+Ein Geschrey vnd Jauchzen hatt
+Schnell erhaben vnd empöret.
+Betreuget mich auch nicht mein schrecken,
+Vnd ich sol Warheit melden,
+So sah' ich auff dem Thurne stecken
+Ein Haupt gleich vns'rem Helden.
+Du grosse Derceto vnd auch Astarte du,
+O Chamos vnd O Bel, O Adad, gieb nicht zue,
+Daß ich auff dieses mal sol haben recht geschawet.
+Ihr Götter, derer Macht diß starcke Heer vertrawet,
+Verschafft daß Holofern anjetzt verlasse hier
+Die And're Venus seine Zier,
+Darmit wir mögen kämpffen,
+Vnd komme bald herfür,
+Des Feindes Trutz zue dämpffen.
+
+
+
+
+
+
+
+
+
+3. Szene
+
+
+
+
+Die 3. Scena.
+
+BAGOS.
+
+O Armer Holofern! O du Verruchtes Weib!
+Wo ist das Edle Haupt? ich finde nur den Leib.
+Ach! Ach, Aßyrien! Daß ich doch Bothe bin
+Der grossen Vbelthat! Deß Hauptes Haupt ist hin!
+Dein Licht ist außgelescht! ach Weh! ach, jhr Chaldeer!
+Ein Weib das siegt vns ob vnd rettet die Ebreer!
+Ach! Ach! Der Ritterliche Heldt
+Ist durch die schnöde Magd gefellt!
+
+
+
+HIRCAN.
+
+O Weh! O Weh! ach Jammer, Noth vnd Klagen!
+Ein Weib hat vns geschlagen.
+Ach! Ach! O Weh! O Weh! wer wird dir Zeitung bringen
+Du Armes Ninive!
+
+
+Ich hör', ich höre klingen
+Der Feinde Spieß vnd Schwerdt.
+Die vor sich nie gewehrt,
+Die werden vns jetzt zwingen.
+Ob wir entgegen ziehn?
+Nein; auff vnd last vns fliehn.
+
+
+
+CHOR DER EBREER IN DER STADT.
+
+Auff, auff! vnd fodert Rache!
+Es ist jetzt Zeit zur Sache!
+
+
+
+
+
+
+
+
+
+4. Szene
+
+
+
+
+Die 4. Scena.
+
+ABRA.
+
+Da ist das Wilde Haupt, das alle Welt zue fressen
+Vorhin gemeinet war; jetzt wird sein baldt vergessen.
+Da ist des Wütrichs Haupt, das jhm (O Wunderthat!)
+Ein Weib herab gerissen hat.
+
+
+
+JUDITH.
+
+Wer seinen Kräfften trawt vnd nicht den Feind wil achten,
+Der kan mich Schwaches Weib vnd diesen hier betrachten:
+Der alle Welt gedruckt, der dich, du Heyl'ges Landt
+Zue fangen hat vermeint, dem mangelt jetzundt Sandt,
+In dem er faulen mag; sein Aaß liegt vnbegraben,
+Gestümmelt vnd Zerhackt; sie wollen alle haben:
+Egypten sagt, ein Arm der müsse seine sein,
+Der Bürger am Eufrat ergreifft das Rechte Bein,
+Das Lincke der von Tyr: ein jeglicher begehret;
+Doch würde gleich sein Leib in Sonnen Staub verkehret,
+So wer' er nicht genung. Nun diß hat der gethan,
+Der auch ein Weibeßbildt zum Manne machen kan.
+Wie sol ichs doch, O HERR, verdancken deiner Güte?
+Du hast mit Himmelßkrafft verpantzert mein Gemüte:
+Durch dich erhielt ich mir das Leben ohne Noth,
+Die Jugendt ohne Fall, die Keuschheit ohne Spoth.
+
+
+
+ABRA.
+
+Kompt, jhr Jungfrawen, kompt herbey
+Vnd lobt mit Süsser Melodey
+Die Werthe Fraw, das Heyl der Stadt,
+Die euch vnd sie erhalten hat.
+Herbey vnd lobet ewre Zier!
+
+
+
+JUDITH.
+Nein; nicht mich, GOTT vielmehr für mir.
+
+
+ABRA.
+
+Seidt frölich Wiesen, Wald vnd Feldt,
+Erhebt euch jhr Gefilde.
+Der euch vnd vns hat nachgestellt,
+
+
+Ist selbst erlegt vnd vmbgebracht
+Von einem Weibeßbilde.
+
+
+
+JUDITH.
+Von mir nicht, von des Höchsten Macht.
+
+
+Judith sampt dem Chore der Jungfrawen.
+
+
+
+Laßt vns ein Getichte singen,
+Das biß durch die Wolcken thönt,
+Vnd dem HERRN ein Opffer bringen,
+Der der Fürsten Pracht entthrönt,
+Vnd dem Armen, der Ihn liebet,
+Thron vnd Cron vnd Zepter giebet.
+
+
+
+Hett' es jemand glauben können?
+Dennoch ist das Haupt gefellt,
+Das in seinen Stoltzen Sinnen
+Herr war dieser gantzen Welt,
+Also weit der Sonnen Stralen
+Mohren Land vnd Calpe mahlen.
+
+
+
+Holofern ist eine Leiche
+Vnd noch minder dieser Zeit,
+Der so manchem Königreiche
+Auffdrang schwere Dienstbarkeit.
+Der viel Länder vberwunden,
+Hat nur keinen Sarch gefunden.
+
+
+
+Wüterich, laß dich begraben
+In Porphir vnd Marmorstein.
+Nein; dein Ebenbildt, die Raben,
+Sollen dein Begräbnüß sein.
+Es muß dir, du Last der Erden,
+Erde nicht zu theyle werden.
+
+
+
+Vnser GOTT hat Obgesieget,
+Hat diß grosse Werck gethan:
+Er ists der nicht vnten lieget
+Vnd durch Wincken schlagen kan.
+Wem Er seine Gunt wil senden,
+Der bezwingt mit Weiber-Händen.
+
+
+
+JUDITH.
+
+Schawt, kommen doch die Könige gegangen,
+Die Holofern so schändlich hielt Gefangen.
+Sie sind hinfort erlöst von Menschen-Dienstbarkeit;
+Ach weren sie deß diensts der Götter auch befreyt!
+
+
+
+
+
+
+
+
+
+5. Szene
+
+
+
+
+
+
+Die 5. Scena.
+
+EIN GEFANGENER KÖNIG.
+
+O Glantz Bethuliens, O Sions Auffenthalt,
+O aller Weiber Zier, du hast vns der Gewalt
+Deß Wüterichs entrissen!
+Nun kommen wir alhier,
+Die Keusche Handt zue küssen.
+
+
+
+JUDITH.
+
+Das Lob gehört nicht mir.
+Mein GOTT errettet euch vnd vns beschert Er Rhue:
+Für Ihm beugt ewre Knie, doch auch den Sinn darzue.
+
+
+
+EIN ANDERER KÖNIG.
+
+O du Heerfürst der Hebreer, O du höchster Capitein,
+Wir erkennen, du verbleibest, bist vnd warest GOTT allein.
+Wir erkennen, vnsre Götter sind nur Götter ohne Gott,
+Ihre Hülffe kan nicht helffen, jhr Arm schläfft vnd sie sind Todt.
+Weg mit jhnen! Deine Güte, die den Feind hat vmbgebracht,
+Hat vns jetzund auch die Augen vnd die Hertzen auffgemacht.
+Freylich haben wir gefehlet; doch die Handt, die Siegen kan,
+Nimpt auch die, so sich ergeben, wiederumb zu Gnaden an.
+Laß vns dir nun eyffrig dienen, laß vns rühmen jederzeit,
+Daß wir dich zum HErren haben: dir sey Lob in Ewigkeit.
+
+
+
+Trommeten.
+
+
+
+
+ABRA.
+
+Laßt den Triumph Gesang durch Lufft vnd Wolcken dringen!
+Es müsse diesen Sieg erheben vnd besingen
+Die Erde, Landt vnd Meer.
+Wie Frölich kompt gegangen
+Vnd hat nun Sieg empfangen
+Osias, vnsrer Fürst, vnd auch sein schönes Heer.
+
+
+
+
+
+
+
+
+
+6. Szene
+
+
+
+
+Die 6. Scena.
+
+CHOR DER EBREER.
+
+Der Höchste sei gelobt, Bethulien ist Loß!
+O daß man jederzeit der Judith Rhum vnd Ehre
+Biß an deß Himmels Schloß
+Durch Waldt vnd Feldt vnd Berg vnd Thal erschallen höre!
+
+
+
+OSIAS.
+
+O Heldinn, Blum vnd Spiegel aller Zucht,
+Der Feindt ist Todt, Todt oder in der Flucht.
+Sie ist dahin die stoltze grimme Schar,
+Der fast die Welt zu enge worden war.
+Die vns gedrewt zue schlagen in die Eysen,
+Die müssen jetzt Wildt vnd Geflügel speisen.
+
+
+Daß nun Bethulien noch steht,
+Daß Sion nicht zue grunde geht,
+Daß ich diß Zepter führen kan,
+Das hast, O Judith, du gethan.
+
+
+
+JUDITH.
+
+Osias, GOTT allein, der hat mich wollen leiten,
+Hat meinen schwachen Arm gelehrt so kräfftig Streiten,
+Die Finger meiner Handt erregt, Behertzt zue sein:
+Drumb ehren wir auch recht vnd rhümen GOTT allein.
+
+
+
+OSIAS.
+
+So laß vns Sion nun die Edle Beute bringen
+Der jetzundt nicht mehr starcken Macht;
+Worinnen sie zuvor so Stoltz vnd Mutig giengen,
+Das wird jetzt sein des Tempels Pracht;
+Vnd du, O Keuscher Stern des Landes, solt nun leben
+Geruhig in derselben Stadt,
+Die billich höchste Gunst vnd Liebe dir wird geben,
+Weil sie von dir die Freyheit hat.
+
+
+
+VOLLER CHOR.
+
+Der Höchste sey gelobt, Bethulien ist Loß!
+O daß man jederzeit der Judith Rhum vnd Ehre
+Biß an deß Himmels Schloß
+Durch Waldt vnd Feldt vnd Berg vnd Thal erschallen höre!
+
+
+
+JUDITH.
+
+O GOTT, durch dessen Arm die Schwächeren gewinnen,
+Verschaffe, daß hinfort das listige beginnen
+Deß Volckes, so dich schertzt vnd frembde Götter ehrt,
+Auch werde wie anjetzt gehindert vnd zerstört.
+Brich ihren Vbermuth, laß sie die Degen wetzen
+Auff jhren eig'nen Kopff, vnd in dem Blute netzen,
+Das gegen deine Schar so grimmig ist entbrandt.
+Du aber sey Gegrüßt, O liebes Vaterlandt!
+
+
+
+VOLLER CHOR.
+
+Der Höchste sey gelobt, Bethulien ist Loß!
+O daß man jederzeit der Judith Rhum vnd Ehre
+Biß an deß Himmels Schloß
+Durch Waldt vndt Feldt vnd Berg vnd Thal erschallen höre!
+
+
+
+
+
+
+
+

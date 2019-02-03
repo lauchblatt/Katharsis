@@ -1,0 +1,8477 @@
+
+
+
+
+Das Erbtheil des Vaters
+
+
+hdl:11858/00-1734-0000-0003-899F-1textgrid:qkmh.0
+ Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). 
+
+Lizenzvertrag
+
+
+ Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache 
+
+
+Hinweise zur Lizenz und zur Digitalen Bibliothek
+
+
+
+
+
+                              Erstdruck: Leipzig (Georg Joachim Göschen) 1802.
+                           
+
+
+
+
+August Wilhelm Iffland: Das Erbtheil des Vaters. Ein Schauspiel in fünf Aufzügen, Leipzig: Georg Joachim Göschen, 1802.
+Iffland, August Wilhelm
+
+2-
+
+
+Leipzig
+
+
+
+
+
+
+
+
+
+
+drama
+
+
+
+
+
+
+
+
+August Wilhelm Iffland
+Das Erbtheil des Vaters
+Ein Schauspiel in vier Aufzügen
+Fortsetzung des Schauspiels: Der
+Essighändler, von Mercier
+
+
+
+
+
+
+
+Personen
+
+
+
+
+
+
+
+Personen.
+
+Herr Delomer.
+
+Dominique, sein Schwiegersohn.
+
+Dessen Frau.
+
+Peter, ihr Sohn, sechs Jahre alt.
+
+Der alte Dominique.
+
+Marquis de Valiere.
+
+Graf Warbing.
+
+Die Gräfin, seine Gemahlin.
+
+Horfmann, Haushofmeister des Herrn Delomer.
+
+Neurath, Gerichtshalter der Gräflich-Warbingschen Güter.
+
+Ein Gärtner.
+
+Der Schulz von einem der Gräflichen Güter.
+
+Bedienter bey Dominique.
+
+Dorfgerichte.
+
+
+
+
+
+
+
+
+
+1. Akt
+
+
+
+
+
+1
+
+
+
+
+Erster Auftritt.
+
+Horfmann. Neurath komplimentiren sich im Eintreten.
+
+
+
+NEURATH.
+ Ich habe zu bitten –
+
+
+HORFMANN.
+ Wird nicht geschehen.
+
+
+NEURATH.
+ Ich weiß, was Ihnen von nun an gebührt, Herr Haushofmeister!
+
+
+HORFMANN.
+ Ihr gehorsamster Diener, Herr Gerichtshalter! Künftig wie bisher.
+
+
+NEURATH
+
+tritt ein und geht vor.
+
+
+
+HORFMANN.
+ Also ist nun alles in Richtigkeit. Herr von Delomer haben wirklich das hochgräfliche 
+Gut Ihro Excellenz dem Herrn Grafen Warbing abgekauft?
+
+
+NEURATH.
+ Alles richtig. Heute, als an des jungen Herrn Baron von Dominique Geburtstage wird die förmliche Uebergabe hier auf dem Schlosse vor sich gehen.
+
+
+HORFMANN.
+ Gewiß?
+
+
+NEURATH.
+ Ganz gewiß. Die. gräfliche Herrschaft ist deshalb unterweges.
+
+
+HORFMANN.
+ Der junge Herr von Dominique wissen gar nichts davon, daß Ihr Herr Schwiegervater, der Herr Baron von Delomer, das gräfliche Gut kaufen, darauf schwöre ich.
+
+
+NEURATH.
+ Es soll ja auch alles eine Ueberraschung für ihn seyn.
+
+
+HORFMANN.
+ Freylich! Es wundert mich nur, daß Ihr Herr Graf das schöne Gut aus der Hand geben.
+
+
+NEURATH.
+ Was ist zu machen! Wir haben viele Schulden; zudem bezahlt uns der Herr von Delomer das Gut weit über den Werth.
+
+
+HORFMANN.
+ Je nun! Er kann zahlen.
+
+
+NEURATH.
+ Das will ich meinen. Ey ja! solche Emigranten, wie die Herren Barone von Delomer und von Dominique, lasse ich mir gefallen. Herren der Art hätten gar nicht genug nach Deutschland kommen können.
+
+
+
+HORFMANN.
+ Der Herr Graf sind wohl recht froh über den Verkauf?
+
+
+NEURATH.
+ O ja. Aber die Frau Gräfin sind, ihrerseits, wüthend über den Verkauf. Sie haben gestern Abend dermaßen darüber gezankt, daß man es hinten am Ende des Schloßgartens gehört hat. Bis gegen Morgen um drey Uhr haben sie gebellt; da wäre ihnen endlich die Stimme ausgegangen, sagt die Kammerfrau, und so hätte es Ruhe gegeben.
+
+
+HORFMANN.
+ Was haben denn die Dame gegen den Verkauf?
+
+
+NEURATH.
+ Es ist ein altes Stammgut; ferner, merke ich wohl, sind bey dem Verkauf noch Separatartikel geschlossen, die ich nicht erfahrt. Darüber besonders mag der Lärmen losgehen.
+
+
+HORFMANN.
+ Ueberhaupt sind die gnädige Gräfin kaltsinnig und manchmal recht spitzfindig gegen unsere Herrschaften.
+
+
+NEURATH
+
+sucht die Achseln.
+
+
+
+HORFMANN.
+ Woher kommt das?
+
+
+NEURATH
+
+legt den Finger auf den Mund.
+
+
+
+HORFMANN.
+ Nun, wir kennen ja einander, und – brauchen einander noch.
+
+
+NEURATH.
+ Freylich! – Sehen Sie, Herr Horfmann! das kommt von den respektiven Unterschied. Das hochgräfliche Haus Warbing ist uralt.
+
+
+
+HORFMANN.
+ Weiß es, liebster Herr Neurath! – Sie stammen noch von vor Christi Geburt her –
+
+
+NEURATH.
+ Nun eben darum! – Mit dem braven Herrn von Delomer, und dem guten Herrn von Dominique, weiß man doch nicht recht, woran man ist.
+
+
+HORFMANN.
+ Wie so?
+
+
+NEURATH.
+ Mit ihrem Adel, will ich sagen. – Es ist erstlich ein Französischer Adel. Zweytens hat man doch auch weiter noch keine Dokumente darüber gesehen.
+
+
+HORFMANN.
+ Die sollen ja in der Revolution mit verbrannt seyn.
+
+
+NEURATH.
+ Ja, ja! – Es nennt sich aber jetzt alles, was über die Grenze kommt, Monsieur de – und ein ächter, gerechter Monsieur de – gilt wahrhaftig immer noch nicht so viel, als hier – bey uns in Deutschland ein Herr von und zu.
+
+
+HORFMANN.
+ Das versteht sich. Aber wie der alte Herr von Delomer sagt, so liegt das Von in Bretagne.
+
+
+NEURATH.
+ Da sind sie davon gegangen.
+
+
+HORFMANN.
+ Richtig! Nun ihr zu beweisen die Kapitalien, womit sie sich ankaufen.
+
+
+NEURATH.
+ Der junge Herr von Dominique sind gar nicht hoffärtig; die sprechen gar nicht von ihrem Stammhause und Adel.
+
+
+
+HORFMANN.
+ Sie sind überhaupt ein stiller, mäßiger, guter Herr; wenn der Papa, der Herr von Delomer, so recht hoch gehen, betrüben sich der Herr von Dominique darüber.
+
+
+NEURATH.
+ Das sagt man. Kurios!
+
+
+HORFMANN.
+ Ich habe es dem Kinde beygebracht, zum Herrn von Delomer immer – Gnädiger Großvater! zu sagen; darüber hat er mich recht angefahren. Er ist ein wahrer Landmann, so auch die junge gnädige Frau. Aber der alte Herr von Delomer, die gehen sehr hoch und ins Große.
+
+
+NEURATH.
+ Freylich? Der Herr von Delomer sollen aber für gewiß zu Paris ehemals Handel und Wandel getrieben haben.
+
+
+HORFMANN.
+ So? Du mein Gott! Herr Neurath – wir wissen ja, wie es jetzt in der Welt geht. Jedermann handelt; alles ist feil, und jedermann läßt sich behandeln. Uebrigens sollen der Papa, der alte Herr von Dominique, wie der Herr von Delomer sagt, ein respektabler Kavalier seyn, und noch jetzt in Bretagne hausen.
+
+
+NEURATH.
+ Nun – was geht es uns an, wovon? Sie haben, wozu. Es sind eben Emigrirte, sie haben baar Geld geflüchtet; das öffnet ihnen Thüren und Herzen; also muß man es so genau nicht nehmen.
+
+
+
+HORFMANN.
+ Es muß ihnen indeß bey uns in Deutschland wohl so gut gefallen, als in ihrem hochseligen Frankreich, denke ich.
+
+
+NEURATH.
+ Ey, es kauft sich ja überhaupt hier bey uns an der Ostsee Jedermann mit Land und Leuten an, der nur Geld hat.
+
+
+HORFMANN.
+ Leider! Gott sey es geklagt! müssen die fort ziehen, die kein Geld mehr haben.
+
+
+NEURATH.
+ Wenn nur das Geld bleibt! das Geld ist die Hauptsache; die Menschen mögen fallen oder aufstehen, gehen oder kommen; wo Geld ist, da sind wir beide gut.
+
+
+
+
+
+
+
+
+2
+
+
+
+
+Zweyter Auftritt.
+
+Vorige, Bedienter.
+
+
+
+BEDIENTER.
+ Sr. Excellenz der Herr Graf von Warbing sind angekommen, und verlangen den Herrn Gerichtshalter.
+
+
+NEURATH.
+ Sogleich! – Das geht an die Uebergabe des Gutes. Geht ab.
+
+
+
+HORFMANN.
+ Nun, Musje Jakob! hat man bedacht, daß heute ein großer Tag ist?
+
+
+BEDIENTER.
+ Des jungen Herrn Geburtstag.
+
+
+
+HORFMANN.
+ Des jungen Herrn? Seht doch, wie tölpelhaft! Des jungen gnädigen Herrn, des Herrn Barons von Dominique, so sagt man.
+
+
+BEDIENTER.
+ Er wills ja nicht haben.
+
+
+HORFMANN.
+ Macht nichts!
+
+
+BEDIENTER.
+ Er hat mir alle Titel verboten.
+
+
+HORFMANN.
+ Macht nichts! Er muß sie haben. Nun, hat man meine Aufträge erfüllt? Der Wein?
+
+
+BEDIENTER.
+ Ist sortirt, und herausgesetzt.
+
+
+HORFMANN.
+ Der Tisch für die Musikanten – ihr Frühstück?
+
+
+BEDIENTER.
+ Ist im Park, hinter dem neuen Tempel, im Bosquet angerichtet.
+
+
+HORFMANN.
+ Giebt der Gärtner Acht, daß sie sich nicht im Getränk übernehmen, ehe der Aktus an geht?
+
+
+BEDIENTER.
+ Es ist ihm bedeutet.
+
+
+HORFMANN.
+ Wer giebt Acht, daß sich der Gärtner nicht im Getränke übernimmt?
+
+
+BEDIENTER.
+ Seine Frau.
+
+
+HORFMANN.
+ Haben der Kantor und seine Jugend Kuchen genug?
+
+
+BEDIENTER.
+ Einen Berg von Kuchen.
+
+
+HORFMANN.
+ Wohl! Essen mögen sie im Ueberfluß! Nur vor Nachts kein Getränke, sonst kommen sie aus dem Takt.
+
+
+
+BEDIENTER.
+ Der Kantor meint, wenn sie nur erst im Takt wären.
+
+
+HORFMANN.
+ Das geht den Kantor und den Hofmeister an, welche die Singerey besorgen. Verse, Musik und Gesang zu herrschaftlichen Festtagen, das ist so neu ausgekommenes Wesen, das braucht ein Haushofmeister nicht zu verstehen. Ehrenpforten – Vorschneiden, Illuminationen, Küche, Keller und Rechnungsbuch – darin bin ich perfekt.
+
+
+BEDIENTER.
+ Ja, das haben Sie mir schon oft gesagt.
+
+
+HORFMANN.
+ Wenn ihr's nur zu Herzen nähmt! – Was ich sagen wollte – Ist der Rasen um den neuen Tempel gestern Abend begössen, daß er heute schön frisch leuchte?
+
+
+BEDIENTER.
+ Wir haben ein Faß Wasser nach dem andern hingefahren, bis spät in die Nacht.
+
+
+HORFMANN.
+ Schön! denn das ist des Herrn Barons Lieblingsplatz.
+
+
+BEDIENTER.
+ Mit dem Platze und dem Tempel muß es eine kuriose Beschaffenheit haben.
+
+
+HORFMANN.
+ Der Herr Baron haben diesen Tempel ihrem gnädigen Papa, dem alten Herrn Baron von Dominique, zu Ehren gebaut.
+
+
+BEDIENTER.
+ Ich kann Ihnen sagen, an dem Platze habe ich den jungen Herrn schon etliche Male weinen sehen.
+
+
+
+HORFMANN.
+ Ihr ungeschliffener Gast! was sagt ihr da? was untersteht Ihr Euch?
+
+
+BEDIENTER.
+ Weiß Gott! das habe ich gesehen.
+
+
+HORFMANN.
+ Nichts habt Ihr gesehen. – So ein Herr wird weinen – dummer Mensch!
+
+
+BEDIENTER.
+ Nun! ich werde doch Thränen kennen – ich!
+
+
+HORFMANN.
+ Einen Katarrh mag der gnädige Herr gehabt haben –
+
+
+BEDIENTER.
+ Nun, ich weiß, was ich gesehen habe.
+
+
+HORFMANN.
+ Wollt Ihr fort! Ihr Lügner!
+
+
+BEDIENTER
+
+geht ab.
+
+
+
+HORFMANN.
+ Ich weiß wohl, daß er Recht hat. Er weint nur gar zu oft da. Aber ein treuer Diener muß, die Gebrechen seiner Herrschaft verstecken. Wenn das unter die Leute kommt mit den Thränen – kein Mensch wird es glauben, daß er von vornehmer Geburt ist.
+
+
+
+
+
+
+
+
+3
+
+
+
+
+
+
+Dritter Auftritt.
+
+Herr Delomer. Horfmann.
+
+
+
+DELOMER.
+ Wie ist's, Horfmann? Alles in Ordnung?
+
+
+HORFMANN.
+ Alles.
+
+
+DELOMER.
+ Aber hier sind nur vier Lehnstühle; fünf Lehnstühle habe ich ja befohlen.
+
+
+HORFMANN.
+ Ich will gleich –
+
+
+DELOMER.
+ Einer für Graf und Gräfin dort rechts, einer in die Mitte für mich.
+
+
+HORFMANN.
+ Excellenz Graf und Gräfin rechts; der gnädige Herr in der Mitte; die junge Herrschaft links – sehr wohl! Geht.
+
+
+
+DELOMER.
+ Horfmann!
+
+
+HORFMANN
+
+kommt.
+
+ Euer Gnaden!
+
+
+DELOMER.
+ Die Musik dort in das Nebenzimmer –
+
+
+HORFMANN.
+ Nicht im Park?
+
+
+DELOMER.
+ Nein, nicht im Park.
+
+
+HORFMANN.
+ Und der Kantor mit den Kindern?
+
+
+DELOMER.
+ Alle in das Nebenzimmer! Die Gerichtspersonen kann man erinnern, daß sie meinem Schwiegersohn die Hand küssen.
+
+
+
+HORFMANN.
+ Beyleibe – den Rock!
+
+
+DELOMER.
+ Pfui! – Ach! sie mögen ihm – auch nur die Hand geben. Er wird mehr ihr Freund seyn, als ihr Herr.
+
+
+HORFMANN.
+ Das thut mein Lebtage kein gut, gnädiger Herr! Wenn die Unterthanen die Hand haben, und respektive Freunde sind, nehmen sie den ganzen Mann und partagiren die ganze Herrschaft. Darum submittire ich gehorsamst, daß sie, als Leibeigene, ihren gemeinen Mund nur an den Rock bringen dürfen.
+
+
+DELOMER.
+ Horfmann, das ist gemein gedacht.
+
+
+HORFMANN
+
+submiß.
+
+ Ich verstehe.
+
+
+DELOMER.
+ Und wenn ich Ihm ein Zeichen gebe, geht die Musik an.
+
+
+HORFMANN.
+ Wie soll das Zeichen gestaltet seyn? Ich bin gern pünktlich.
+
+
+DELOMER.
+ Ich werde Ihm mit dem Kopfe zunicken.
+
+
+HORFMANN.
+ Sehr wohl. Und die Speisetische?
+
+
+DELOMER.
+ Bleiben im Park.
+
+
+HORFMANN.
+ Also am Tempel geht nichts vor?
+
+
+DELOMER.
+ Da werden wir in der Stille ein herzliches Wort reden.
+
+
+HORFMANN.
+ Und niemand darf hinkommen?
+
+
+
+DELOMER.
+ Niemand.
+
+
+HORFMANN.
+ Aber die Leute aus dem Dorfe haben sich so gefreut –
+
+
+DELOMER.
+ Sie können gehen, wo sie wollen; nur am Tempel soll niemand seyn, wenn wir dort sind. Wenn Er einen Kourier hört –
+
+
+HORFMANN.
+ Das ist alles bestellt; so wie er sich blicken läßt, wird er mir gemeldet –
+
+
+DELOMER.
+ Und Er ruft mich gleich, und –
+
+
+HORFMANN.
+ Ganz verstohlen. Gott! Euer Gnaden! ich bin ja der Mann, der alles begreift. Malén Dieselben einen Punkt auf ein leeres Blatt Papier, so rathe ich den Buchstaben, der darunter gehört. Geht ab.
+
+
+
+DELOMER.
+ Nun denn! So bin ich denn jetzt dicht am Ziel meiner Wünsche. Meine Kinder, die wackern Seelen, die des Guten so viel verdienen – werden zu Glück und Ehre erhoben. Zu einer Zeit, wo so mancher alles verliert, – gewinnen sie, was sie nie hoffen durften. Braver Dominique! ich kann deine Treue dir vergelten. An deinem Geburtstage kann ich dir sagen: – Du hast mein Glück neu geschaffen; nimm aus der Hand deines Vaters den Lohn dafür!
+
+
+
+
+
+
+
+
+4
+
+
+
+
+
+
+Vierter Auftritt.
+
+Delomer. Der junge Dominique.
+
+
+
+DOMINIQUE.
+ Guten Morgen, lieber Vater! Sie sind heute sehr früh auf.
+
+
+DELOMER.
+ Ich habe die ganze Nacht kein Auge zugethan, so habe ich auf diesen Morgen mich gefreut.
+
+
+DOMINIQUE.
+ Ich bitte um ein Geschenk, und an diesem Tage werden Sie es nicht verweigern.
+
+
+DELOMER.
+ Und das Geschenk ist?
+
+
+DOMINIQUE.
+ Daß Sie nun Ihr Wort halten, hier mit uns zu wohnen.
+
+
+DELOMER.
+ Bald, bald soll das geschehen.
+
+
+DOMINIQUE.
+ Des Handels überdrüßig, ziehe ich daher, aus einer Meyerey ohne Geräusch Landwirthschaft zu treiben. Sie überreden mich, statt deß, dieses Gut zu kaufen. Aus Ihren Wunsch richte ich dieß Schloß ein, weil Sie es mit uns bewohnen wollen –
+
+
+DELOMER.
+ Nur Geduld! wir kommen dahin.
+
+
+DOMINIQUE.
+ Sie selbst endigen alle Geschäfte, und bewohnen zwey Meilen von hier ein kleines unansehnliches Haus –
+
+
+
+DELOMER.
+ Machen Sie mich nicht plaudern, Dominique! Es ist noch nicht Zeit dazu.
+
+
+DOMINIQUE.
+ Für mich allein ist dieser Besitz hier viel zu prunkvoll –
+
+
+DELOMER.
+ Das finde ich nicht.
+
+
+DOMINIQUE.
+ Man hält uns mit Gewalt für Edelleute –
+
+
+DELOMER.
+ Mag man doch!
+
+
+DOMINIQUE.
+ Meine Verlegenheit darüber –
+
+
+DELOMER.
+ Ihre übertriebene Anspruchlosigkeit macht Verlegenheit.
+
+
+DOMINIQUE.
+ Die benachbarten Edelleute verkehren immer hier, und so wird mir eine Lebensweise aufgenöthigt, bey der ich weder Ruhe noch Vergnügen habe.
+
+
+DELOMER.
+ Unsre Herrn Nachbarn brüsten sich mit dem Adel, den sie nicht besonders verdienen. Der thätige Bürger darf wohl hinausrücken, und erwerben, was er verdient.
+
+
+DOMINIQUE.
+ Den Adel? Um keinen Preiß! Ich will bleiben, was ich bin.
+
+
+DELOMER.
+ Dominique! – Doch jetzt keine Erklärung darüber! Im Allgemeinen nur so viel – Sie müssen die Freude meines Alters nicht stören.
+
+
+DOMINIQUE.
+ Mit jedem Opfer will ich sie befördern. Aber –
+
+
+DELOMER.
+ Darauf baue ich ganz.
+
+
+
+DOMINIQUE.
+ Aber –
+
+
+DELOMER.
+ Lieber Sohn! verderben Sie mir keine Freude!
+
+
+DOMINIQUE.
+ Haben Sie nicht gesehen, wie es mich quält, wenn die Gräfin Warbing nach meinem Herrn Vater fragt, und wo sein Schloß in Bretagne läge –
+
+
+DELOMER.
+ Nun – lassen Sie mir doch den kleinen Spaß!
+
+
+DOMINIQUE.
+ Sie haben den Leuten das so ernstlich versichert, – daß ich leider schweigen muß.
+
+
+DELOMER.
+ Mein Sohn! es ist Ihnen gut, daß ich zuweilen durch Ihren Sinn fahre. Sie sind sehr unterrichtet, Sie haben viel Verstand; – aber Sie haben noch viel zu viel Jugendphantasien, und schwärmerische Träume. Sie kennen die Welt nicht genug. In sechs und zwanzig Jahren wirst man manches von sich, was nachher nicht wieder zu erlangen ist. – Wieder in tiefen Gedanken?
+
+
+DOMINIQUE.
+ Wenn ich meines ehrwürdigen Vaters denke, und daß ich den Anschein gebe, als wäre der wackere Bürger mir zu gering – Sie glauben es nicht, wie schmerzlich mir dann zu Sinne ist. Ach! wäre er dahin zu bringen gewesen, Paris zu verlassen, lebte er hier mit uns, und führten wir ferner das Leben thätiger Bürger, wie glücklich wären wir! Welch ein Himmel auf Erden wäre das!
+
+
+
+DELOMER.
+ Konnten wir in der Schreckenszeit zu Paris bleiben? War es nicht Ihres Vaters ernster Wille, daß wir flüchten sollten?
+
+
+DOMINIQUE.
+ Ach! daß meine heißen Bitten ihn nicht vermögen konnten, uns zu begleiten. Sechs Jahre von ihm getrennt – und seit vier Monaten nicht eine Zeile von ihm – nicht eine Zeile! Mein Herz ist so bewegt, und heute mehr als jemals.
+
+
+DELOMER.
+ Haben unsere Freunde nicht vor vier Wochen gemeldet, daß er lebe und recht frisch sey?
+
+
+DOMINIQUE.
+ Warum sagt er nicht ein Wort? Bin ich ihm nicht mehr werth? – Weiß er, daß ich zugebe, daß er hier, für einen Edelmann ausgegeben wird? Wenn er es weiß, – so begreife ich sein Stillschweigen. Das wird er mir nie verzeihen.
+
+
+DELOMER.
+ Morgen davon! Nur heute nicht. Hören Sie – heute davon nichts!
+
+
+DOMINIQUE.
+ Ich kann meinen Worten gebieten – meinen Gefühlen nicht.
+
+
+DELOMER.
+ Und seyn Sie gegen unsere Gäste recht freundlich!
+
+
+DOMINIQUE.
+ Ach diese Gäste! Der Herr Graf und die Frau Gräfin –
+
+
+DELOMER.
+ Nun ja doch! Die Gräfin ist eine Närrin, ich räume es ein, und der Herr Graf 
+ist ein flacher Mensch. Nach und nach werden wir ihrer los. Nur heute seyn Sie freundlich mit ihnen, das verlange ich. Leiden Sie es, daß Sie heute noch Herr von Dominique sind, morgen – soll diese Unwahrheit Sie nicht mehr kränken.
+
+
+DOMINIQUE.
+ Meine Aufrichtigkeit, lieber Vater, kann Sie unmöglich beleidigen.
+
+
+DELOMER.
+ Sie haben so viel Gutes und Liebenswürdiges, daß es Pflicht ist, ihrem Eigensinne die Geduld nicht zu versagen. – Nun! habe ich denn alle Ihre Grillen verscheucht?
+
+
+DOMINIQUE.
+ Noch etwas drückt mich.
+
+
+DELOMER.
+ Nennen Sie es! – denn ich muß Sie heute ganz unbefangen sehen und froh.
+
+
+DOMINIQUE.
+ Seit unserer Ankunft in Deutschland haben Sie mir kein Wort mehr von Ihren Geschäften gesagt. –
+
+
+DELOMER.
+ Meine Geschäfte sind ja zu Ende. Wir sind im Hafen, und faßten beide den gleichen Entschluß, in den Stürmen des Handels nicht mehr wagen zu wollen.
+
+
+DOMINIQUE.
+ Ihre Geschäfte müssen die letzten Jahre her, allem Anschein nach, mit ungewöhnlichem Glück betrieben worden seyn –
+
+
+DELOMER.
+ Nun ja –
+
+
+DOMINIQUE.
+ Fern ist von mir Neugier und Eigennutz.
+
+
+DELOMER.
+ Das weis ich.
+
+
+
+DOMINIQUE.
+ Ehedem machte es Ihnen Freude, über Ihre Geschäfte mit mir zu reden: die Unruhen und Freuden Ihrer Spekulationen mit mir zu theilen. – Wodurch habe ich dieß Vertrauen verloren? wodurch?
+
+
+DELOMER.
+ Sie sind mir werth, wie mein eigner Sohn. Wenn ich diesen und jenen für mich günstigen Vorfall verschwiegen habe, – so schreiben Sie das einer gewissen Zartheit zu, die auf die herzlichste Liebe für Sie gegründet ist. – Von dem allen – morgen! Ganz gewiß morgen ausführlich über Vergangenheit, Gegenwart und Zukunft!
+
+
+DOMINIQUE.
+ Nun – so möge der morgende Tag uns alle wieder in die vorige Fröhlichkeit bringen! Seufzt.
+
+
+
+DELOMER.
+ Das soll er, das wird er – wenn Sie gerecht sind.
+
+
+
+
+
+
+
+
+5
+
+
+
+
+Fünfter Auftritt.
+
+Madam Dominique. Vorige.
+
+
+
+MADAM DOMINIQUE.
+ Sieh nur, Dominique, wie mich der Vater zu deinem Geburtstage geschmückt hat. Sie deutet auf kostbare Brillantohrringe.
+
+
+
+
+DOMINIQUE.
+ Ich danke Ihnen dafür. – Ach lieber Vater! als Sie diese Hand in die meinige legten, haben Sie jeden Tag meines Lebens zu einem Feiertage geweiht.
+
+
+DELOMER.
+ Ihr guten Kinder! Ihr lieben Seelen! Kann ich denn wohl genug für euch thun? Nein, es ist kein Glück so groß, das ihr nicht verdientet. Könnte ich doch viel mehr für euch thun! Gott sey mein Zeuge, ich würde für euch mit Freuden sterben.
+
+
+MADAM DOMINIQUE
+
+tritt zwischen beide.
+
+ Sie beiden und unser Sohn – ach! – Hier fehlt nur der Fünfte, um uns zu den glücklichsten Menschen zu machen.
+
+
+DOMINIQUE.
+ Der Fünfte! Seufzt. Ständen wir neben diesem Fünften aus vaterländischem Boden – wie gern wollte ich Glanz, Gut und Gemächlichkeit hier zurücklassen –
+
+
+DELOMER.
+ Das kann nicht seyn.
+
+
+DOMINIQUE.
+ Wie gern wollte ich für alle arbeiten! Anstrengung der Seele oder der Hände wellte ich unermüdet geben, wenn der schöne Himmel des Vaterlandes über uns lächelte!
+
+
+DELOMER.
+ Diese Schwärmerey –
+
+
+DOMINIQUE.
+ Sie ist mir Religion.
+
+
+DELOMER.
+ Ist eine liebenswürdige Schwachheit.
+
+
+DOMINIQUE.
+ Sie ist sehr stark in mir.
+
+
+
+DELOMER.
+ Weg damit! – für heute. Wenigstens für heute!
+
+
+DOMINIQUE.
+ Ach mein Vater!
+
+
+DELOMER.
+ Mein guter Sohn!
+
+
+DOMINIQUE.
+ Sie verschieben vieles auf morgen.
+
+
+DELOMER.
+ Und morgen werdet ihr finden, daß ich euer Glück nie verschoben, daß ich es immer vor Augen hatte, bey jedem Gedanken, in allem Thun. Mir wird wenig davon mehr zu Theil; denn mein Weg ist gemacht. Werdet ihr mir morgen freundlich die Hand reichen – werdet ihr um des Willens halber dem Vaterherzen Nachsicht schenken, so achte ich mich belohnt. Geht ab.
+
+
+
+
+
+
+
+
+
+6
+
+
+
+
+Sechster Auftritt.
+
+Madam Dominique. Dominique.
+
+
+
+MADAM DOMINIQUE.
+ Dominique!
+
+
+DOMINIQUE.
+ Julie!
+
+
+MADAM DOMINIQUE.
+ Ich weiß, – es geht nicht alles, wie es gehen sollte.
+
+
+DOMINIQUE.
+ Ach!
+
+
+
+MADAM DOMINIQUE.
+ Aber heute suche es zu vergessen. Sey freundlich, lieber Mann!
+
+
+DOMINIQUE.
+ Ich bin sehr gerührt, recht herzlich, das weiß Gott. Du verkennst mich gewiß nicht.
+
+
+MADAM DOMINIQUE.
+ Mit jedem Tage schließe ich mich inniger an deine Empfindungen.
+
+
+DOMINIQUE.
+ Darum verhehle ich dir nicht, daß ich für Morgen zittre.
+
+
+MADAM DOMINIQUE.
+ Was kann ein so zärtlicher Vater thun, das einen so guten Sohn zittern machen könnte?
+
+
+DOMINIQUE
+
+sehr tief.
+
+ Ach!
+
+
+MADAM DOMINIQUE.
+ Was fürchtest du?
+
+
+DOMINIQUE.
+ Hoheit!
+
+
+MADAM DOMINIQUE.
+ Seyn wir auch nicht zu hart gegen die Schwäche, womit ein thätiger, reicher Bürger am Ziele einen Lohn sucht, dessen wir freylich nicht bedürfen –
+
+
+DOMINIQUE.
+ Der uns unglücklich macht.
+
+
+MADAM DOMINIQUE.
+ Den wir uns bescheiden gefallen lassen, und unsre Ehre in dem Gehorsam finden, womit wir dem Vater folgen.
+
+
+DOMINIQUE.
+ Wir werden zum Gelächter.
+
+
+MADAM DOMINIQUE.
+ Durch kindliche Geduld?
+
+
+
+DOMINIQUE.
+ Das ist nicht alles. Wir könnten strafbar werden, liebe Julie!
+
+
+MADAM DOMINIQUE.
+ Wodurch?
+
+
+DOMINIQUE.
+ – Ich will den morgenden Tag abwarten.
+
+
+MADAM DOMINIQUE.
+ Strafbar? Darüber darf kein Geheimniß unter uns bleiben. Sage mir alles!
+
+
+DOMINIQUE.
+ Liebe Freundin, es giebt Besorgnisse, die allein dem Manne gehören.
+
+
+MADAM DOMINIQUE.
+ Wenn es der Frau an Muth fehlt und an Willen, sie zu tragen. Seit wann scheine ich dir so schwach?
+
+
+DOMINIQUE.
+ Seit ich mich selbst unzuverlässig gefunden habe, lege ich keine erdrückende Last auf Andere.
+
+
+MADAM DOMINIQUE.
+ Unzuverlässig? Du?
+
+
+DOMINIQUE.
+ Vergißt du, was um uns vorgeht? Man nennt mich Baron von Dominique, und ich habe dem aus – unzeitiger Rücksicht nicht widersprochen.
+
+
+MADAM DOMINIQUE.
+ Es ist gut, über Thorheiten zu lächeln, und ich halte es für weise, nicht jede Schwäche mit Strenge zu verfolgen.
+
+
+DOMINIQUE.
+ Ich hätte das durchaus nicht zugeben müssen.
+
+
+
+MADAM DOMINIQUE.
+ Mußtest du den lächerlich machen, der es sich übersehen hatte, diesen Irrthum zu veranlassen?
+
+
+DOMINIQUE.
+ Von diesem Irrthume schreibt sich alles, was mich beengt und beugt –
+
+
+MADAM DOMINIQUE.
+ Dominique!
+
+
+DOMINIQUE.
+ Darauf ruhet das Gebäude der – Verkehrtheiten, die geschehen sind –
+
+
+MADAM DOMINIQUE.
+ Lieber Dominique!
+
+
+DOMINIQUE.
+ Und die uns unmittelbar bevorstehen. –
+
+
+MADAM DOMINIQUE.
+ Du hast einen redlichen Mann bey Wort und Ehre erhalten; du hast lieber heimlich leiden, als meinen alten Vater lächerlich werden lassen wollen. Nimm dafür einen Händedruck von Herzen aus, und den Kuß der dankbaren Liebe!
+
+
+DOMINIQUE
+
+umarmt sie.
+
+
+
+MADAM DOMINIQUE.
+ Auf unsrer Flucht, wenn der Tod uns zur Seite stand, fühltest du dich durch mich so mit Muth beseelt. Laß meine Liebe jetzt nicht weniger gelten, da sie für deine Geduld dich nicht reicher belohnen kann.
+
+
+DOMINIQUE.
+ Ach Julie! – du kannst alles aus mir machen. Seit du das so innig gesprochen hast, – – ist auch das Verdienst dahin, was ich mit meiner Geduld um dich zu haben glaubte. Es 
+sey darum! Je mehr ich deinen Werth empfinde, je glücklicher bin ich. –
+
+
+HORFMANN
+
+bringt den fünften Lehnstuhl.
+
+
+
+DOMINIQUE.
+ Nun – ich sehe denn wohl, daß mir irgend eine Maskerade bevorsteht, die mir vielleicht sehr weh thun wird, so gut sie auch gemeint ist. Ich will den Zwang unterdrücken, der mir damit aufgelegt wird, so lange ich irgend kann. Aber Eins gelobe mir –
+
+
+MADAM DOMINIQUE.
+ Was?
+
+
+DOMINIQUE.
+ Wenn es so weit kommen sollte, daß du selbst es dir gestehen müßtest, es gehen Dinge vor, die meine Grundsätze umstoßen, meinen Charakter durchaus zweydeutig machen, – dann gebrauche nicht die Gewalt der Liebe, meine Empfindungen zu bekämpfen, sonst werde ich ganz kraftlos, und sterbe ab an deiner Seite.
+
+
+MADAM DOMINIQUE.
+ Wenn es so weit kommen sollte, – so werde Bürger oder Bauer! Die Seele, welche die Deinige so ganz versteht, kann dann weder bitten, noch klagen.
+
+
+DOMINIQUE.
+ Nun bin ich getrost, gefaßt auf alles, und gehe dem Sturm an deiner Hand entgegen.  Geht.
+
+
+
+
+
+
+
+
+
+7
+
+
+
+
+
+
+Siebenter Auftritt.
+
+Vorige. Graf und Gräfin Warbing.
+
+
+Wechselseitige Empfangskomplimente.
+
+
+
+DOMINIQUE.
+ Herr Graf!
+
+
+GRAF.
+ Der Ihrige, lieber Baron!
+
+
+GRÄFIN
+
+küßt Madam Dominique.
+
+ Guten Morgen! Da tragen Sie ja ein Paar allerliebste Ohrgehänge –
+
+
+MADAM DOMINIQUE.
+ Ein Geschenk meines Vaters.
+
+
+GRÄFIN.
+ Sehr schön! Recht viel Geschmack! Der Herr Vater verstehen sich wohl aus den Artikel?
+
+
+GRAF.
+ Sehen Sie, liebe Comtesse, da ist das glückliche Paar allein beysammen. So findet man sie doch stets bey einander.
+
+
+GRÄFIN.
+ Ja, recht unzertrennlich.
+
+
+GRAF.
+ Ich estimire beiderseits recht glücklich, daß sie sich so in einander zu schicken wissen.
+
+
+DOMINIQUE.
+ Es ist wohl etwas mehr, als das bloße Ineinanderschicken.
+
+
+GRÄFIN.
+ Ja! Ein rechtes Hirtenleben.
+
+
+GRAF.
+ So arkadisch! Oui! –
+
+
+
+GRÄFIN.
+ Um so verdienstlicher ist diese exemplarische Ehe, da dergleichen sonst in ihrem Vaterlande nicht sehr zu Hause zu seyn pflegte –
+
+
+GRAF.
+ Ey – so hie und da auch wohl.
+
+
+GRÄFIN.
+ Wenigstens nicht in den ersten Häusern, da war man anders routinirt.
+
+
+DOMINIQUE.
+ Haben die Frau Gräfin wohl darüber nachgedacht, wie sehr die schlechten Ehen der ersten Häuser das Ganze deroutinirt haben?
+
+
+GRÄFIN.
+ Hm! Das ist eine Reflexion, die ganz der Feyerlichkeit eines Geburtstages angemessen ist.
+
+
+GRAF.
+ Mais, il n'a pas tort.
+
+
+GRÄFIN.
+ Ich statte meine Gratulation ab, Herr Baron!
+
+
+DOMINIQUE
+
+verneigt sich.
+
+
+
+GRÄFIN.
+ Wenigstens haben wir der moralischen Deroute Ihres Vaterlandes die Ehre zu danken, daß Sie Ihr Stammschloß verlassen, und den deutschen Boden besucht haben.
+
+
+DOMINIQUE.
+ Ach!
+
+
+GRÄFIN.
+ Nicht wahr? Aus Bretagne stammen die Herrn Barone von Dominique?
+
+
+MADAM DOMINIQUE.
+ Wir sind hier so gut aufgenommen, daß wir es für billig halten, aus Dankbarkeit unsers Vaterlandes selten zu erwähnen.
+
+
+
+GRÄFIN.
+ Mögen Sie hier alle Verluste verschmerzen, die Sie erlitten haben! Wahrlich, wenn ich mir das lebendig denke, – was Sie zurück gelassen haben – das Stammhaus – die Unterthanen!
+
+
+DOMINIQUE.
+ Wenigstens darf ich verbürgen – Er hält inne.
+
+
+
+GRÄFIN.
+ Was, Herr Baron?
+
+
+DOMINIQUE.
+ Daß ich niemals Unterthanen verkauft haben würde.
+
+
+GRÄFIN.
+ Schön! Auch traue ich Ihnen jeden andern Handel eher zu. Seufzt. Wer aber Unterthanen aus der Hand geben muß, dein rathe ich, sie an ebenbürtige Familien zu überlassen. Denn wer so ein Stammhaus an – ich will sagen – Kaufleute abgiebt, der riskirt, eine Residenz in eine Puderfabrik noch bey seinem Leben verwandelt zu sehen. Pause. Was meinen Sie dazu?
+
+
+DOMINIQUE.
+ Ein Schloß verzehrt, eine Fabrike ernährt.
+
+
+GRÄFIN.
+ So? Hm! Sind der Herr Delomer – ach! – Sie entschuldigen – der Herr von Delomer auch der Meinung?
+
+
+GRAF.
+ Der Herr Baron von Delomer haben ein nobles Gemüth unter andern –
+
+
+GRÄFIN.
+ Und er hat, Gottlob! viel Geld sauvirt. Wie ist ihm das gelungen? Aha, vermuthlich in Wechseln. Ja, ja! Er ist ein vorsichtiger 
+Mann, der wohl mit soliden Häusern liirt war. Ha ha ha! Sie setzt sich. Werden der Herr Graf ewig da stehen bleiben? Setzen wir uns!
+
+
+MADAM DOMINIQUE.
+ Wir erwarteten Ihre Anordnung, Frau Gräfin! –
+
+
+GRÄFIN.
+ Ja, von Anordnungen – setzen Sie sich doch zu mir, Frau von Dominique! – Sie entschuldigen, daß wir so früh lästig fallen! Aber der Herr Vater haben es angeordnet, daß mein Gemahl und ich bey einem Bouquet gegenwärtig seyn sollen, was er dem Herrn Baron da zu machen denkt.
+
+
+GRAF.
+ Ja, es ist eine freundschaftliche Bedingung von seiner Seite.
+
+
+GRÄFIN.
+ Gar sehr freundschaftlich. Es ist überhaupt ein sehr freundschaftlicher Mann.
+
+
+DOMINIQUE.
+ Die Frau Gräfin werden begreifen, daß ich von seinem Geschenk nicht unterrichtet bin.
+
+
+GRAF.
+ Natürlich.
+
+
+GRÄFIN.
+ Freylich – die Surprise bey einem Cadeau ist die Hauptsache! O das ist so recht häuslich. So recht – bürgerlich gut gedacht.
+
+
+MADAM DOMINIQUE.
+ Du hast noch manches Geschäft zum Empfang unsrer Gäste – dir Frau Gräfin werden mir die Unterhaltung erlauben.
+
+
+GRÄFIN.
+ Sehr gern. Sie sind noch nicht ganz arrangirt. Sie sind noch im Schlosse nicht 
+so recht gewohnt – so – eingewohnt, will ich sagen, geniren Sie sich nicht.
+
+
+DOMINIQUE
+
+heftig.
+
+ Madam –
+
+
+GRÄFIN.
+ Was beliebt? –
+
+
+MAD.
+ DOMINIQUE. Nun, lieber Dominique!
+
+
+DOMINIQUE.
+ Frau Gräfin! – Ich bin in meinem Hause sehr eingewohnt – wenn mich etwas verlegen machen kann über die Art, wie ich mich darin zu nehmen habe, – so ist es der sanfte Ton, den dieß liebe Auge da zu meinem Herzen geleitet. Geht.
+
+
+
+GRÄFIN.
+ Es ist zum Bewundern, wie der Mann den Ton der großen Welt inne hat.
+
+
+GRAF.
+ Recht – recht galant, en verité.
+
+
+
+
+
+
+
+
+
+8
+
+
+
+
+Achter Auftritt.
+
+Vorige. Delomer. Horfmann. Schulz und Gerichte. Neurath.
+
+
+
+DELOMER.
+ Vergebung, daß ich warten lasse! Er tritt in die Mitte.
+
+
+
+GRAF.
+ Nun frisch weg, Herr Baron! ohne Eingang!
+
+
+GRÄFIN.
+ Zum interessanten Ende!
+
+
+
+GRAF.
+ Nun, da wären wir denn alle beysammen. Nun zur Sache, Herr Neurath! Ohne Formalitäten.
+
+
+DOMINIQUE
+
+zu Delomer.
+
+ Diese Leute – Deutet auf die Bauern.
+
+
+
+DELOMER.
+ Nur eine kleine Geduld, mein Sohn! Zum Grafen. Sie erlauben also setzt –
+
+
+GRAF.
+ Ja doch! Nur zu, Herr Neurath –
+
+
+NEURATH.
+ »Nachdem Ihro Excellenz, der Herr Graf zu Warbing« –
+
+
+HORFMANN.
+ Mit Erlaubniß, es kann noch nicht angehen.
+
+
+DELOMER.
+ Weshalb?
+
+
+HORFMANN.
+ Wir sitzen nicht recht –
+
+
+GRÄFIN.
+ Was ist das?
+
+
+DELOMER.
+ Nur weiter –
+
+
+HORFMANN.
+ Euer Excellenzen kommen dort rechts zu sitzen.
+
+
+GRÄFIN.
+ Das ist ja allerliebst – recht decént –
+
+
+DELOMER.
+ Horfmann! Was soll das?
+
+
+HORFMANN.
+ O ich habe alles wohl behalten. Mein Herr Baron von Delomer gehören in die Mitte; – und die junge gnädige Herrschaft dort linker Hand; – die gräflichen Excellenzen dort rechter Hand.
+
+
+GRÄFIN.
+ Ich gehorsame. –
+
+
+
+GRAF.
+ Nun, nun! – Man setzt sich.
+
+
+
+DELOMER.
+ Euer Excellenz verzeihen – Horfmann, das war überaus einfältig!
+
+
+GRAF.
+ Nur weiter, Herr Neurath – wo wir stehen blieben.
+
+
+NEURATH.
+ »– Das Gut Feldenstein, nebst Schloß, Unterthanen, Waldungen, Wiesen, Aeckern und dem Inventarium dem hochgebornen Herrn, Herrn Baron von Delomer käuflich überlassen, und aller weitern Ansprüche darauf sich begeben haben: so geschieht hiermit die Uebertragung gedachten Gutes und Unterthanen an hochgedachten Herrn Baron von Delomer in aller Form, vor gegenwärtigen Zeugen, und werden die Unterthanen hiermit an Herrn Baron von Delomer und dessen Erben gewiesen, übertragen, und aller Pflichten gegen das gräfliche Haus Warbing entlassen.« – Er übergiebt Delomer das Instrument. Gott erhalte die neue Herrschaft! Vivat!
+
+
+DIE BAUERN
+
+treten zu Delomer.
+
+ Vivat!
+
+
+GRÄFIN.
+ O ja! – Vivat! – j'enrage!
+
+
+
+DELOMER.
+ Lieben Kinder! Ich nehme euch mit Liebe und Vertrauen an, bestätige alle eure Rechte, Privilegien und gebe euch in die Hand meines geliebten Sohnes dort. Gebt ihm den Handschlag der Liebe und Treue!
+
+
+MADAM DOMINIQUE
+
+meint.
+
+
+
+
+DOMINIQUE.
+ Mein Gott – lieber Vater – ich kann nicht – ich bitte, ich beschwöre Sie.
+
+
+DELOMER.
+ Fassung und Entschluß, lieber Sohn!
+
+
+SCHULZ.
+ An wen wenden wir uns denn? – Wo gehören wir hin?
+
+
+DELOMER.
+ Dorthin an den jungen Mann, der wahrlich euer Glück machen wird. Glaubt mir, daß er mehr empfindet, als er spricht.
+
+
+HORFMANN.
+ Nun, so küßt doch die Hand!
+
+
+SCHULZ
+
+will es thun.
+
+
+
+DOMINIQUE.
+ Ehrlicher Mann, so steht es nicht. Ich nehme den Händedruck eines wackern Mannes an. – Das ist alles, was ich jetzt aus das, was hier vorgeht, zu sagen haben kann.
+
+
+SCHULZ.
+ Gnädiger Herr! – zu geben haben wir nicht viel; denn wir sind bisher recht in der Ordnung ausgesaugt worden; – aber wir wollen wie ehrliche Leute alles thun, was recht ist.
+
+
+DELOMER.
+ Und da ich uns nun mit Recht für Eingeborne halte, so ist hier das Diplom des deutschen Adels für meine Kinder.
+
+
+DOMINIQUE
+
+will fort.
+
+
+
+MADAM DOMINIQUE
+
+hält ihn auf.
+
+
+
+DELOMER.
+ Empfangt die Gabe eines dankbaren Vaters mit Wohlwollen!
+
+
+MADAM DOMINIQUE
+
+weint und küßt ihres Vaters Hand.
+
+
+
+
+DOMINIQUE.
+ Ich – kann – Er nähert sich ihm. O Gott! Gott! Er tritt zurück. Ach! das fürchtete ich wohl.
+
+
+GRÄFIN.
+ Ein Adelsdiplom – nun – Vivat!
+
+
+ALLE.
+ Vivat!
+
+
+DOMINIQUE.
+ Ich vergehe.
+
+
+Aus dem Nebenzimmer hört man eine Musik.
+
+
+
+
+DER KLEINE DOMINIQUE
+
+geht zu seinem Vater, und giebt ihm ein Bouquet.
+
+ Da! Nimm das Geschenk, den Blumenstrauß aus meinen, kleinen Garten, lieber Vater!
+
+
+DOMINIQUE
+
+nimmt es hastig, bedeckt das Gesicht.
+
+ O welch ein Andenken rufst du zurück!
+
+
+DELOMER
+
+tritt zu ihm.
+
+ Was machen Sie? Laut. Was ist ihm?
+
+
+DOMINIQUE.
+ Ein solches Geschenk aus unserm kleinen Garten erhielt ich sonst alle Jahre am Geburtstage von meinem Vater. Vater – Vater! ehrlicher alter Vater! Geht ab.
+
+
+
+DELOMER
+
+folgt.
+
+
+
+MADAM DOMINIQUE.
+ Einfache Freude hat für uns den größten Reitz – ich muß seine schöne Empfindung mit ihm theilen. Geht ab.
+
+
+
+DIE BAUERN
+
+folgen.
+
+
+
+HORFMANN
+
+ins Nebenzimmer.
+
+ Haltet das Maul! Es ist nichts!
+
+
+
+NEURATH.
+ Tausend Element! Was ist das? Das muß ich wissen. Läuft nach.
+
+
+
+GRÄFIN.
+ Jetzt weiß ich alles.
+
+
+GRAF.
+
+Ma chere! Sie waren brillant; aber zu skoptisch.
+
+
+GRÄFIN.
+ Sie haben nun, leider! das Gut; aber auch ihren Aerger.
+
+
+GRAF.
+ Hätte ich nur schon das andere Geld! Die 10000 Thaler vom Separatartikel. Wenn nun alles zurückgeht?
+
+
+GRÄFIN.
+ Es muß zurückgehn. Ich will nichts davon wissen. Edelleute? Gauner sind es.
+
+
+GRAF.
+ Pst! Nicht so laut! Sie haben doch Geld in Menge.
+
+
+GRÄFIN.
+ Je nun! Es ist in der Revolution manches dem rechten Eigenthümer entwendet –
+
+
+GRAF.
+ Kann seyn; aber sie haben es doch nun.
+
+
+GRÄFIN.
+ Ich denke es noch zu erleben, daß sie alle als Gauner ausgeliefert werden. Gerechter Gott! Und wie wird man sich nachher haben, daß man mit dem Volke gelebt, gegessen, sie tituliert hat!
+
+
+GRAF.
+ Dann ignorirt man sie.
+
+
+GRÄFIN.
+ Und haben Sie denn die Brillanten gesehen, die die Kreatur in den Ohren hatte? 
+Jetzt nur gleich nach! Das muß ich alles heute noch wissen. O sie sollen vor Wuth platzen. Ich will sie recht langsam sterben lassen. Geht ab.
+
+
+
+GRAF.
+ Ja – aber wenn ich das Geld nicht bekommen hätte, – so stürbe ich decidirt am langsamsten. Die Comtesse hat einen heroischen Geist. – Schade nur, sie fällt gleich so mit der Thür ins Haus. Geht ab.
+
+
+
+
+
+
+
+
+
+2. Akt
+
+
+
+
+
+1
+
+
+
+
+Erster Auftritt.
+
+Neurath. Bedienter.
+
+
+
+BEDIENTER.
+ Nun, wenn Sie mich denn durchaus allein sprechen wollen und müssen, hier sind wir gewiß ungestört; denn da soll ja heute Niemand sich blicken lassen.
+
+
+
+NEURATH.
+ Desto besser!
+
+
+BEDIENTER.
+ Was verlangen Sie eigentlich von mir zu wissen?
+
+
+NEURATH.
+ Die Zeit wird mir gewaltig lang. Erzähle Er mir etwas. Histörchen aus der Nachbarschaft, oder auch meinetwegen einige unschädliche Nachrichten und Vorfälle aus der Familie.
+
+
+BEDIENTER.
+ Von der Familie weiß ich nichts, als daß sie alle zusammen gut, einig und glücklich leben.
+
+
+NEURATH.
+ Gut und einig? Nun ja, sie werfen einander nicht die Treppe herunter. Glücklich? – Nein. Der junge Herr ist sehr tiefsinnig.
+
+
+BEDIENTER.
+ Das ist wahr.
+
+
+NEURATH.
+ Weshalb? Vielleicht ein Duellchen? So ein Mord plagt doch das Gewissen.
+
+
+BEDIENTER.
+ Kann seyn.
+
+
+NEURATH.
+ Nicht wahr? – Oder hat er sonst eine Unthat begangen? – so –
+
+
+BEDIENTER.
+ Unthat? Es sieht dem Herrn nicht gleich, daß er Unthaten begangen hätte.
+
+
+NEURATH.
+ O lieber Freund! – wir sind alle Menschen.
+
+
+BEDIENTER.
+ Das wohl.
+
+
+NEURATH.
+ Nun – der beste Mensch kann fallen.
+
+
+BEDIENTER.
+ Wie denn?
+
+
+
+NEURATH.
+ Was weiß ich? – Man kann eine junge Frau entführt haben; man kann unrechtes Gut an sich gezogen haben.
+
+
+BEDIENTER.
+ Warum nicht gar?
+
+
+NEURATH.
+ Bedenke Er nur alles! Von der Huldigungs-Ceremonie ist der junge Herr Baron hinausgestürzt, und hat überlaut gerufen: – Ich Unglücklicher!
+
+
+BEDIENTER.
+ Das ist wahr.
+
+
+NEURATH.
+ Nun da sieht Er es! – »Ich Unglücklicher!« – Hm! – Das ist ein schweres Wort. Ueber so ein Wort kann man ein ganzes Buch schreiben.
+
+
+BEDIENTER.
+ Wenn man will, o ja!
+
+
+NEURATH.
+ Wer ist denn eigentlich ein Unglücklicher?
+
+
+BEDIENTER.
+ Der nicht glücklich ist.
+
+
+NEURATH.
+ Ganz recht. Wer aber jung ist, gesund – eine schöne Frau hat, ein liebes Söhnchen, Geld im Ueberfluß, ein Gut, ein Schloß – der ist doch glücklich?
+
+
+BEDIENTER.
+ Man sollte es meinen!
+
+
+NEURATH.
+ Wenn nun aber so einer öffentlich ausruft: Ich Unglücklicher! was steckt dann dahinter?
+
+
+BEDIENTER.
+ Das ist's eben, was wir beide nicht wissen.
+
+
+
+NEURATH.
+ Wir könnten es erfahren.
+
+
+BEDIENTER.
+ Wie?
+
+
+NEURATH.
+ Wenn Er mir so dieß und das erzähle wollte –
+
+
+BEDIENTER.
+ Zum Exempel?
+
+
+NEURATH.
+ Ich will sagen – so Tischgespräche –
+
+
+BEDIENTER.
+ Bey Tische reden sie kein Deutsch.
+
+
+NEURATH.
+ Nun, ein fleißiger Bediente ist im Vorzimmer, er hält sich da auf –
+
+
+BEDIENTER.
+ Aber er horcht nicht.
+
+
+NEURATH.
+ Bewahre! Da hat Er recht. Horchen ist ein garstiges Laster. Aber ohne zu horchen, vernimmt man so dieß und jenes, was laut geredet wird.
+
+
+BEDIENTER.
+ O ja! Das wohl.
+
+
+NEURATH.
+ Zum Exempel?
+
+
+BEDIENTER.
+ Ich habe Manches gehört; aber alles, was ich gehört habe, habe ich nicht hören sollen –
+
+
+NEURATH.
+ Freylich.
+
+
+BEDIENTER.
+ Also sage ich es auch Niemand wieder.
+
+
+NEURATH.
+ Das ist brav! – Aber man hat so Vermutungen – nicht wahr?
+
+
+
+BEDIENTER.
+ Eine ganze Menge.
+
+
+NEURATH.
+ Nun, her mit einer einzigen!
+
+
+BEDIENTER.
+
+ Nach meiner Vermuthung ist die ganze Familie durchaus grundbrav.
+NEURATH: Nun – das – das höre ich schon gern.
+
+
+
+BEDIENTER.
+ Und nun muß ich an die Arbeit – es gehen da ohnehin ein Paar Leute herum, und die könnten glauben, Sie wollten mich ausfragen. Da – dort kommt auch Ihr Schulz aus Feldenstein mit einem alten Pfahlbürger heran. Gott befohlen, Herr Neurath! Sie wissen jetzt doch, woran Sie sind. Geht ab.
+
+
+
+NEURATH
+
+bey Seite.
+
+ Teufelskind! Ihm nach. Pst! liebe Seele! Ich gehe da noch ein wenig mit Ihm. Er folgt.
+
+
+
+
+
+
+
+
+
+2
+
+
+
+
+Zweyter Auftritt.
+
+Schulz. Dominique Vater in gemein bürgerlicher Kleidung.
+
+
+
+SCHULZ.
+ Nun, nur geradezu! Er geht ja da herum, und forscht, und duckt sich, als wenn Er kein gutes Gewissen hätte. Heute ist großes 
+Fest hier, und es kann Jedermann gehen, wo es ihm gefällt.
+
+
+DOMINIQUE
+
+tritt jetzt ein.
+
+ Ey ja doch! Aber man muß es darum doch bescheiden treiben.
+
+
+SCHULZ.
+ Nun freylich wohl!
+
+
+DOMINIQUE.
+ Also dieß Gut hat der Dominique vier Jahre?
+
+
+SCHULZ.
+ Ich habe nicht gesagt, vier Jahre; sondern es geht ins vierte Jahr.
+
+
+DOMINIQUE.
+ So, so! Nun, und wie hält er denn seine Leute? Das sagt mir!
+
+
+SCHULZ.
+ Man weiß nichts als Gutes von ihm.
+
+
+DOMINIQUE.
+ Gott sey gelobt!
+
+
+SCHULZ.
+ Den ganzen Tag geht er nicht müßig. Bald ist er auf dem Felde bey den Arbeitern; dann pflanzt er im Garten; dann sieht er im Walde nach. Er liest, er reitet herum, er geht schlecht und recht einher. – Das ist gut; aber Eins ist das beste. Man sieht ihn fast nicht ohne seine Frau; er ist mildthätig – gutherzig, redsprächig –
+
+
+DOMINIQUE.
+ Nun das – das ist ja recht.
+
+
+SCHULZ.
+ Sie gehen manchmal, er und sie, bis spät in die Nacht im Felde ganz allein herum mit dem Kinde –
+
+
+DOMINIQUE
+
+lebhaft.
+
+ Warum schleppen sie denn das Kind mit in die späte Nachtluft? – Faßt sich. So – das Kind – das Kind – das – das –
+
+
+
+SCHULZ.
+ Was fehlt Ihm?
+
+
+DOMINIQUE.
+ Ich – ey! ich bin ein wenig müde. Geht sich.
+
+
+
+SCHULZ.
+ Eins ist wunderbar. Der Herr von Dominique und seine Gemahlin, sie gehen nie einen andern Spaziergang, als in die Gegend nach Abend zu – immer in die Gegend nach Abend.
+
+
+DOMINIQUE.
+ Da liegt das Vaterland – das Vaterland liegt da.
+
+
+SCHULZ.
+ So? Ja! Frankreich liegt gegen Abend.
+
+
+DOMINIQUE
+
+hochherzig.
+
+ Und da wohnen auch Leute, die – Verlegen und freundlich. nicht zu verachten sind.
+
+
+SCHULZ.
+ Warum das nicht? – Ja, die junge Herrschaft ist brav; der alte Herr, der Herr von Delomer, ist auch nicht übel. Aber der geht schon höher hinaus.
+
+
+DOMINIQUE.
+ Nun ja freylich! Lacht. Der war immer – Also der geht höher hinaus?
+
+
+SCHULZ.
+ Das will ich meinen. Wenn der mit seinen sechs Mohrenköpfen angefahren kommt –
+
+
+DOMINIQUE.
+ Er führt mit Sechsen?
+
+
+SCHULZ.
+ Lang gespannt; ein Vorreiter, und sein Kutschwagen funkelt in der Sonne wie ein Spiegel. Die Mohrenköpfe werfen den Erdboden an die Seiten, und tragen sich stolz, wie die Pfauen. Mein Seele! es ist eine Lust anzusehen.
+
+
+
+DOMINIQUE.
+ Und der junge Herr, der fährt –
+
+
+SCHULZ.
+ Zweyspännig. Höchstens einen Postzug von den Arbeitspferden, wenn sie Sonntags zum gnädigen Papa hinüber fahren. – Ja, ich muß doch nun hören, was aus uns wird. Nun, Gott grüße Ihn! Geht ab.
+
+
+
+DOMINIQUE.
+ Gott helf' Euch!
+
+
+
+
+
+
+
+
+3
+
+
+
+
+Dritter Auftritt.
+
+Dominique Vater. Marquis.
+
+
+
+DOMINIQUE.
+ Ey, mein lieber Reisegefährte, mein wackerer Herr Marquis! Kommen Sie denn endlich wieder zu mir her?
+
+
+MARQUIS.
+ Lieber Freund! Ich mache es, wie Sie; ehe ich mich zeige, forsche und frage ich, wie alles steht. Am Ende des Dörfchens habe ich unsre Equipage untergebracht.
+
+
+DOMINIQUE.
+ Unsre Equipage? – Die beiden kleinen Felleisen? Nun meinetwegen. Ihr Herren, möchte ich wohl faden, könnt es nicht verlernen, kleinen Dingen große Namen zu geben.
+
+
+
+MARQUIS
+
+herzlich.
+
+ Mein launiger, wackerer Freund! streiten wir nicht mehr um Worte; wir sind nun an der Sache.
+
+
+DOMINIQUE
+
+sieht sich um.
+
+ Das sind wir. Seufzt. Ach ja!
+
+
+MARQUIS.
+ Wie? Ein banger Seufzer? Ist das die Freude des Wiedersehens, wovon mein lieber Reisegefährte mich auf dem Postwagen von Düsseldorf bis hierher so herzlich unterhalten hat?
+
+
+DOMINIQUE.
+ Ja nun – ich höre hier so wunderbarliche Dinge – von der Kinder hohem Adel, und des Herrn Delomers großem Wappen, von Schlössern, sechs Mohrenköpfen und gnädigen Herren, daß mein guter Muth darüber verloren gegangen ist.
+
+
+MARQUIS
+
+zuckt leicht die Achseln.
+
+ Je nun! man sagte auch mir von Herrn Delomers Hoheit Manches –
+
+
+DOMINIQUE.
+ Ja, und was soll das vorstellen? warum thut er so vornehm?
+
+
+MARQUIS.
+ Doch lobt ihn auch Jedermann als gutherzig und freygebig.
+
+
+DOMINIQUE.
+ Er wird mir mit seiner gnädigen Herrschaft die Kinder zu Grunde richten.
+
+
+MARQUIS.
+ Ueber Ihre Kinder ist nur eine Stimme des Lobes –
+
+
+DOMINIQUE.
+ Nun ja! aber sie sind doch auch gnädig. Was soll das nun? Haben sie das 
+Ihre gerettet, warum verwalten sie es nicht in der Stille? Dabey kann man ja so froh und lustig seyn, daß es den Nachbarn eine Herzensfreude ist, so was mit anzusehen.
+
+
+MARQUIS.
+ Daß Herr Delomer den Handel ausgegeben hat –
+
+
+DOMINIQUE.
+ Nun, da hat er recht. Es mag ihm wohl manches zu Glück geschlagen seyn. Er war immer im Handel ein unternehmender Mann, und ein sehr verständiger Mann; aber kühn, gewaltig kühn. Es ist gut, daß er aufgehört hat: so ist er nun sicher im Hafen.
+
+
+MARQUIS.
+ Und ich auch. Ich mit ihm.
+
+
+DOMINIQUE.
+ Sie mit ihm? Wie verstehe ich das?
+
+
+MARQUIS.
+ Wackerer Mann! Ehrwürdiger Weltbürger! Ich habe aus der Reife, wie ein armer Ausgewanderter, mich zu Ihnen gesellt. Ich habe nach meiner wenigen Baarschaft kümmerlich gelebt. Sie haben es nicht dulden wollen; ich mußte auf Ihre Kosten mit Ihnen reichlich zehren –
+
+
+DOMINIQUE.
+ Nun, warum denn nun davon Aufhebens machen? Sie geben sich mir als ein Busenfreund des Herrn Delomer zu erkennen; und das ist doch wohl für mich Anweisung genug, nicht zu leiden, daß Sie Salz und Brot essen?
+
+
+MARQUIS.
+ Aber die brüderliche Art, womit Sie das Ihrige mit mir getheilt haben –
+
+
+
+DOMINIQUE.
+ Pah! Lassen wir das! – Es ist Unglücks genug, daß die Uebel, die im Großen geschehen, nur im Kleinen wieder gut gemacht werden.
+
+
+MARQUIS.
+ Jetzt, lieber Freund, bin ich nicht mehr arm.
+
+
+DOMINIQUE.
+ Nicht? Nun desto besser! Aber was stehen wir hier noch länger? Nun muß ich zu den Kindern.
+
+
+MARQUIS.
+ Sie wollten ja erst erforschen, ob –
+
+
+DOMINIQUE.
+ Nichts mehr – mags, daß ich morgen ein wenig schelten muß. – Heute will ich segnen, und ich kann aus der Stelle hier nicht mehr ausdauern. –
+
+
+MARQUIS.
+ Aber wie wollen Sie sich zeigen? –
+
+
+DOMINIQUE.
+ Wie? – Heda! Hier bin ich, Gott sey mit uns! – Das Großkind an mein Herz – Amen! Nun macht mit mir, was ihr wollt! So wirds werden – Vorwärts!
+
+
+MARQUIS.
+ Ein Wort nur vorher –
+
+
+DOMINIQUE.
+ Geschwind!
+
+
+MARQUIS.
+ Nun Delomer gut steht, bin ich sehr reich.
+
+
+DOMINIQUE.
+ Ja so! Nun das will ich noch hören. Wie denn?
+
+
+
+MARQUIS.
+ In der Schreckenszeit sammelte ich mein Vermögen in Wechsel, und sandte es Herrn Delomer, des Willens, gleich nachzufolgen. Ich ward verhaftet, der Guillotine durch ein Wunder entrissen. Ein treuer Freund brachte mich, indem er mich bey Tage versteckte, und bey Nacht reifen ließ, aus ein Schiff nach Amerika.
+
+
+DOMINIQUE
+
+steht in Gedanken.
+
+
+
+MARQUIS.
+ Das Unglück wollte, daß wir an die Kanarischen Inseln verschlagen wurden. Wir litten Schiffbruch. Ich und drey Andere retteten uns an das Ufer. Sie starbet bald darauf. Mir ward es nicht möglich, ein Zeichen des Lebens zu senden. Mein Glück führt ein Schiff dorthin; es bringt mich arm nach Holland. Wäre Herr Delomer oder Ihre Kinder arm, oder gar todt gewesen; so war es beschlossen, ich wollte einen andern Namen führen, und mein Brot! kümmerlich erwerben. Nun aber ist das Alles, Gottlob! anders. Erst will ich hier meinen Dank an diesem redlichen Herzen niederlegen, und nun – sehne ich mich darnach, die Tracht des Unglücks abzulegen, und meinem redlichen Freunde in die Arme zu fliegen. Kommen Sie –
+
+
+DOMINIQUE
+
+aus dem Nachdenken erwerbend.
+
+ Was? – Ja, ja. Ihre Geschichte, Herr Marquis! – Sie haben sie mir erzählt, und ich danke Ihnen dafür; aber ich habe nicht viel davon gehört, als daß es Ihnen jetzt gut geht, und das freuet mich.
+
+
+
+MARQUIS.
+ Kommen Sie zu Ihren Kindern! Kommen Sie!
+
+
+DOMINIQUE.
+ Ja, ja. Bewegt die Atme, geht aber nicht. Wir wollen –
+
+
+MARQUIS.
+ Sie stehen an? Wie?
+
+
+DOMINIQUE.
+ Bey meiner Seele! Ja – ich stehe an. – So ist der Mensch! Bey hohen Jahren mache ich mich aus den weiten Weg, denke die ganze Reise über nichts, als den Augenblick des Wiedersehens, ärgere mich eben noch, daß Sie mich aufhalten, zittre für Wonne während Ihrer Erzählung. – Mit einem Male aber befällt mich eine Angst, eine Bangigkeit – und so wahr ich lebe, ich kann fast nicht von der Stelle.
+
+
+MARQUIS.
+ Was ängstet Sie?
+
+
+DOMINIQUE.
+ Das herrschaftliche Wesen des Herrn Delomer und meines Sohnes. Sehen Sie, wenn es möglich wäre, daß meine Erscheinung, wie ich da vor Ihnen stehe – und anders kann ich nun nicht seyn – wenn die meinen Sohn hier in Verlegenheit setzen könnte –
+
+
+MARQUIS.
+ Wo denken Sie hin?
+
+
+DOMINIQUE.
+ Ach, wenn ich das Unglück erleben müßte – ich würde für Thränen den Rückweg in mein Vaterland nicht finden.
+
+
+MARQUIS.
+ Nein, es ist nicht möglich, daß der Sohn eines so vollherzigen Vaters aus der Art schlagen könnte.
+
+
+
+DOMINIQUE.
+ Was meinen Sie denn? Ey! gut ist er gewiß: das habe ich keinen Augenblick bezweifelt. Aber so – vornehm gut wird er seyn, und damit kann ich nichts anfangen. Ach, der Hoheitstrank – er giebt einen bösen Rausch.
+
+
+MARQUIS.
+ Da kommt Jemand! – Stellen wir uns als gleichgültige Zuschauer!
+
+
+DOMINIQUE.
+ Ich soll gleichgültig seyn? – Da legen Sie einmal Ihre Hand her! Ach! so schlug es hier nicht seit der Nacht, wo mein Sohn aus Paris flüchtete.
+
+
+MARQUIS.
+ Sehen Sie sich hier um! – Das allgemeine Getöse, was hier heute ist, kommt uns zu statten. Hernach gehen wir nach dem Schlosse. Werden wir vorher befragt, und er kommt, so ist es um die Ueberraschung gethan.
+
+
+DOMINIQUE.
+ Die Ueberraschung – nun ja! die gebe ich nicht auf.
+
+
+
+
+
+
+
+
+4
+
+
+
+
+
+
+Vierter Auftritt.
+
+Vorige. Horfmann.
+
+
+
+HORFMANN.
+ Was wollt Ihr hier? Es ist ja doch genug bekannt gemacht, daß die gnädige Herrschaft nicht will, daß hier Jemand ist.
+
+
+MARQUIS
+
+geht etliche Schritte.
+
+
+
+DOMINIQUE.
+ Erlaubt es denn die Herrschaft nicht, daß Fremde in den Garten gehen?
+
+
+HORFMANN.
+ Ach ja! Alles zu seiner Zeit; aber hier soll heute. Niemand seyn. Ueberhaupt sind der Herr Baron von Dominique hier gern allein. Sie kommen bald.
+
+
+DOMINIQUE.
+ Warum ist er denn hier gern allein?
+
+
+HORFMANN.
+ Den Tempel da hat er zum Gedächtniß seines alten gnädigen Herrn Vaters errichtet.
+
+
+DOMINIQUE.
+ So? Er fällt Horfmann um den Hals. Hat er das?
+
+
+HORFMANN.
+ Nun? was ist denn das?
+
+
+MARQUIS
+
+zupft Dominique.
+
+
+
+DOMINIQUE.
+ Nun! das – das muß ja dem alten Herrn Vater – Er trocknet sich seitwärts die Augen. eine rechte Herzensfreude seyn.
+
+
+
+HORFMANN.
+ Mag seyn, mag auch nicht seyn! – Wir hier, sind mit dem Tempelchen arg geschoren. Da muß alles so nett und sauber gehalten werden, wie im schönsten Saale.
+
+
+DOMINIQUE
+
+zupft den Marquis.
+
+ Hören Sie das?
+
+
+HORFMANN.
+ Ja, lacht nur! Es ist wahr. Um den übrigen Garten bekümmert er sich nicht halb so viel. Da, les't nur die Inschrift!
+
+
+DOMINIQUE
+
+sieht umher.
+
+
+
+MARQUIS
+
+liest für sich.
+
+
+
+DOMINIQUE.
+ Wo denn?
+
+
+HORFMANN.
+ Dort oben.
+
+
+DOMINIQUE
+
+zwischen Lächeln und Thränen.
+
+ Wo denn? Aha! – Was steht denn da geschrieben?
+
+
+HORFMANN.
+ Der Vatertreue.
+
+
+DOMINIQUE.
+ Ach, auf der Stätte – da will ich ein wenig ruhen. Er setzt sich an den Fuß des Tempels.
+
+
+
+HORFMANN.
+ Bey meiner Seele! es ist hier mehr Spektakel um den alten Papa, wie um die gnädigste Landesherrschaft; und es mag doch wohl ein rechter Bär seyn!
+
+
+DOMINIQUE
+
+steht auf und lacht.
+
+ Weil er nicht kommt?
+
+
+HORFMANN.
+ Hm! Er möchte meinetwegen bleiben, wo er ist. Aber er fragt nicht nach der Dienerschaft, schickt auch nichts von Präsenten, 
+und man arbeitet sich doch so ab, daß es eine Schande ist. – Nun jetzt macht euch fort. Sie kommen daher, und –
+
+
+MARQUIS.
+ Hierher?
+
+
+DOMINIQUE.
+ Sie werden kommen?
+
+
+HORFMANN.
+ Ja. Und es sind vornehme Herrschaften dabey, und da sehen der Herr von Delomer, nicht gern gemeine Leute um sich her. Uebrigens geht es heute hoch her, und wenn ihr arme Schlucker seyd – wie ich wohl merke, weil ihr gar nicht von der Stelle wollt, – so meldet euch hernach! Ihr kriegt gewiß eine Kollecte von der Herrschaft. Geht. Da steht auch noch das Geräthe – Hm! Das Volk denkt an nichts. Er nimmt zwey Gießkannen und sie fort. Was hilft da meine Ordnung?
+
+
+DOMINIQUE.
+ Der Vatertreue? Ja, Dominique! treu war ich dir und bleibe es, so lange noch ein Athem mir ist. Jeden Morgen warst du mein erster Gedanke, und jeden Abend betete ich für dich. Sey mir treu, bleib mir treu! Laß mir den alten Platz in deinem Herzen, so mag immer kein Tempel für mich gebauet werden, wenn du mir nur so offen und vertraulich ins Angesicht sehen kannst, wie sonst.
+
+
+MARQUIS.
+ Ach, wie gern wollte ich kein Vermögen wieder finden, hätte ich hier einen Sohn wieder zu finden! Meine Söhne sind gefallen, 
+Niemand lebt, der meinen Namen trägt. Ich bin allein in der Welt.
+
+
+DOMINIQUE.
+ Nun, nun – Sie finden doch Freunde! – Sie werden also kommen. Was machen wir nun? Wir wollen uns hier wo verbergen, und wenn sie denn recht mitten in der Herrlichkeit sind, so trete ich in Gottes Namen unter sie und vor sie hin.
+
+
+MARQUIS.
+ Ganz recht.
+
+
+DOMINIQUE.
+ Kein Wort werde ich sprechen, sie alle rund herum ansehen, meinen Sohn, die Tochter; und wenn der alle gnädige Herr von Delomer im Anfange auch ein wenig erschrickt, so freut er sich am Ende doch wohl den alten ehrlichen Schlag wieder zu finden. Nicht wahr?
+
+
+MARQUIS.
+ O gewiß! Aber so lange bis euer aller lautes Entzücken sich in ruhige Freude verwandelt hat, ziehe ich mich zurück –
+
+
+DOMINIQUE.
+ Was ist das?
+
+
+MARQUIS.
+ Lieber, alter Vater! Die ersten schönen großen Augenblicke muß ein Fremder nicht stören.
+
+
+DOMINIQUE.
+ Haben Sie ein fremdes Herz? Sie müssen mit mir hervor, da hilft nichts.
+
+
+MARQUIS.
+ Mein, Dominique! Die Rechts der Natur sind noch heiliger, als die Rechte der Freundschaft. Aber hernach lasse mich melden, als ein armer Emigrant, der Hülfe bedarf. –
+
+
+
+DOMINIQUE.
+ Schön! Ja, das thun Sie! Denken Sie den Jubel der Leute, die, statt eines kleinen Geschenks, das Glück haben, sie auf einmal zum reichen Mann zu machen. Reich werden, das will nicht so viel heißen; aber einen andern reich machen – Herr! das geht über alles.
+
+
+MARQUIS.
+ O was das ist, das weiß ich, das kennen Sie.
+
+
+DOMINIQUE.
+ Wie ich dem Herrn Delomer damals mein Faß bringen konnte, mit 3778 Stück Louisd'or in Rollen, und sechs Säcken mit Münze, jeden mit 1200 Livres – wie er so kümmerlich da stand, und ihm nun auf einmal das Gold in die Augen leuchtete, und mein Sohn starr hinblickte, reden wollte – nicht konnte, die Hände ausbreitete, und meine Schwiegertochter – aber wir müssen fort. Wo verbergen wir uns denn? Er sieht umher. Ach – ach! Was ist das? Was sehe ich dort? Mein Seele! das ist gut, das muß so seyn –.
+
+
+MARQUIS.
+ Was denn?
+
+
+DOMINIQUE.
+ Das lasse ich mir nicht nehmen. Da – sehen Sie nur dorthin! – Nun will ich dem Herrn Delomer einen Streich spielen.
+
+
+MARQUIS.
+ Ich begreife nicht –
+
+
+DOMINIQUE.
+ Das thut nichts. Helfen Sie mir nur den Schubkarren da in den Tempel schieben; wir wollen dort das Fäßchen darauf setzen. Sie thun es, und setzen es in den Tempel vor dem Altar.
+
+Das sieht so zufällig aus, und doch muß es ihnen auf das Herz fallen.
+
+
+MARQUIS.
+ Ja, ja! Ganz recht!
+
+
+DOMINIQUE.
+ Sie werden nicht wissen – sie werden sich die Köpfe zerbrechen, und Niemand denkt, daß ich so nahe bin.
+
+
+MARQUIS.
+ Still! Ich höre Jemand –
+
+
+
+
+
+
+
+
+5
+
+
+
+
+Fünfter Auftritt.
+
+Vorige. Gärtner.
+
+
+
+GÄRTNER
+
+sieht nur etwas hinter dem Tempel vor.
+
+ Was nur der Herr Horfmann will? Da soll alles herum liegen; es ist ja nichts da. Geht ab.
+
+
+
+DOMINIQUE
+
+sieht den Tempel an.
+
+ Das haben wir gut gemacht, sage ich Ihnen.
+
+
+MARQUIS
+
+sieht nach der andern Seite.
+
+ Freund! Lieber Dominique!
+
+
+DOMINIQUE.
+ Was giebts? Was ist?
+
+
+MARQUIS.
+ Ich sehe kommen.
+
+
+DOMINIQUE.
+ Ach du lieber Gott!
+
+
+MARQUIS.
+ Sie sinds!
+
+
+DOMINIQUE.
+ Wo? wo?
+
+
+MARQUIS.
+ Dort! Sehen Sie nur da rechts!
+
+
+
+DOMINIQUE.
+ Das, das – der – dort kommt er; das ist er! – da der blaue – In freudiger Angst mit Thränen überlaut. Dominique!
+
+
+MARQUIS.
+ Pst! Er hält ihm den Mund zu. Verderben Sie den schönen Augenblick nicht!
+
+
+DOMINIQUE.
+ Nein, nein! Neben ihm das ist meine Tochter – Da Er stellt sich auf die Fußspitzen. He! Sehen Sie! Dahinten da springt was – ein Kind! mein Großkind – so sehen Sie doch! Das ist mein Großkind! –
+
+
+MARQUIS.
+ Leise, leise!
+
+
+DOMINIQUE.
+ Ach du lieber Gott! wie kann ein Großvater leise reden, der seinen Enkel zum ersten Male springen sieht. Fort, weg, hin!
+
+
+MARQUIS
+
+hält ihn rasch auf.
+
+ Aber Ihr Sohn –
+
+
+DOMINIQUE
+
+steht vor Freuden starr.
+
+ Da kommt er um die Ecke – da, da! – Laut. Domin – – ja so, stille, stille! Er sieht noch eben so aus – er ist mich noch eben so, ich weiß es gewiß. Bey meiner Seele! er hat sich nicht geändert.
+
+
+MARQUIS.
+ Die Gesellschaft bleibt stehen. Dahinten kommen noch zwey andre sehr geputzte Leute, und hinter ihnen viele Landleute.
+
+
+DOMINIQUE
+
+lacht.
+
+ Das ist Herr Delomer –
+
+
+MARQUIS.
+ Ja, das ist er.
+
+
+DOMINIQUE.
+ Der geht recht feyerlich und langsam. – Jetzt – jetzt kommen sie alle, alle.
+
+
+MARQUIS.
+ Nun fort von hier!
+
+
+
+DOMINIQUE.
+ Da hinten ins Gebüsche! Er geht nicht.
+
+
+
+MARQUIS.
+ Nur fort! Treibt ihn weg.
+
+
+
+DOMINIQUE
+
+hält ihn fest umschlossen.
+
+ Aber wenn lasse ich mich sehen?
+
+
+MARQUIS.
+ Ich will's Ihnen sagen.
+
+
+DOMINIQUE.
+ Ja, wenn's so der rechte Augenblick ist, dann schieben Sie mich heraus! Ich weiß nichts mehr; ich höre und sehe nicht mehr. Die Augen sind voll Wasser; die Kniee zittern, und ich kann – ich kann nicht mehr reden. Spricht Jemand von den Leuten meinen Namen aus, so schreye ich gleich laut: – Hier bin ich, hier!
+
+
+MARQUIS
+
+zieht ihn in das Gebüsch hinter dem Tempel.
+
+
+
+
+
+
+
+
+
+6
+
+
+
+
+Sechster Auftritt.
+
+Dominique Sohn; und seine Frau.
+
+
+
+DOMINIQUE
+
+bleibt am Eingange stehen.
+
+ Warum jetzt gerade daher?
+
+
+MADAM DOMINIQUE
+
+führt ihn in ihren Armen vor.
+
+ Habe Nachsicht!
+
+
+DOMINIQUE.
+ In dem Geleit der herzlosen Menschen an diese Stelle, die mir heilig ist.
+
+
+
+MADAM DOMINIQUE.
+ Daß der Graf und die Gräfin uns folgen, das ist ganz gegen meines Vaters Plan. Wir wollten hier, fern von allem Geräusch und Ueberlästigen, von Vergangenheit und Zukunft vertraulich reden.
+
+
+DOMINIQUE.
+ Dieß unselige Adelsdiplom! Es nimmt mir allen Frieden der Seele.
+
+
+MADAM DOMINIQUE.
+ Heute liege das Spielwerk da zur Schau! Morgen legen wir es in den Schrank.
+
+
+DOMINIQUE.
+ Und brauchen es nie.
+
+
+MADAM DOMINIQUE.
+ Nie!
+
+
+DOMINIQUE
+
+reicht ihr die Hand.
+
+ Habe Dank!
+
+
+MADAM DOMINIQUE.
+ Habe Geduld mit des Vaters Schwäche, und empfinde seine Liebe!
+
+
+DOMINIQUE.
+ Das gräfliche Gut und die Herrschaft kann ich nicht besitzen wollen.
+
+
+MADAM DOMINIQUE.
+ Auch nicht als Bürger?
+
+
+DOMINIQUE.
+ Auch nicht als Bürger. Ach! ich habe dazu mehr als eine Ursach.
+
+
+MADAM DOMINIQUE.
+ Die du nicht nennen willst?
+
+
+DOMINIQUE.
+ Liebst du mich, so thust du die Frage nicht wieder.
+
+
+MADAM DOMINIQUE.
+ Nur heute Frieden! – Nur um Frieden bitte ich dich für heute!
+
+
+
+DOMINIQUE.
+ Wir werden morgen nicht weiter kommen, als heute.
+
+
+MADAM DOMINIQUE.
+ Bey dem Andenken, was hier so oft uns glücklich machte – bey deines ehrwürdigen Vaters Andenken, bitte ich dich – hoffe auf eine milde Wendung der Dinge!
+
+
+DOMINIQUE
+
+reicht ihr die Hand.
+
+ Ich will es.
+
+
+MADAM DOMINIQUE.
+ Bey diesem Namen hat noch Niemand etwas vergeblich von dir gebeten. Sie umarmt ihn.
+
+
+
+DOMINIQUE.
+ Daß er hier wäre! Daß sein gerader froher Sinn zwischen uns entschiede! Ach, er würde jeden von uns sanft auf die Stelle leiten, wohin er gehört.
+
+
+
+
+
+
+
+
+7
+
+
+
+
+
+
+Siebenter Auftritt.
+
+Vorige. Herr Delomer, der die Gräfin führt. Der Graf, das Kind an der Hand, welches ein Körbchen mit Rosen trägt.
+
+
+
+DAS KIND
+
+macht sich los, läuft zu seiner Mutter, mit der es heimlich und sehr fröhlich redet.
+
+
+
+MADAM DOMINIQUE
+
+setzt sich, und redet ihm angelegentlich ins Ohr.
+
+
+
+DAS KIND
+
+nickt dazu mit dem Kopfe, und springt etliche Mal freudig auf.
+
+
+
+MADAM DOMINIQUE
+
+zieht seinen Hemdkragen zurecht, streicht seine Haare aus dem Gesicht.
+
+
+
+GRAF
+
+hat indeß Herrn Delomer auf die rechte Seite geführt, wo er ihm zu bedeuten scheint, daß noch alles recht gut gehen würde.
+
+
+
+DELOMER
+
+hört ihn unruhig zu, und man sieht, daß er seht zerstreut ist.
+
+
+
+DOMINIQUE S.
+
+hat der Gräfin, welche sich gleich rechts vom Tempel gesetzt hatte, einen Schritt der Höflichkeit entgegen gethan.
+
+
+
+GRÄFIN
+
+spricht, so bald sie sich gesetzt hatte, während alles obige vorgeht.
+
+ Mich dünkt, die Luft wäre sehr drückend.
+
+
+
+DOMINIQUE.
+ In der That! Er seufzt. Obschon es hier angenehm ist – kühl und freundlich.
+
+
+GRÄFIN.
+ Die Gewohnheit macht alles erträglich. Ich bin es sonst nicht gewohnt, so früh am Tage in die Luft zu gehen. Also dieß ist der Ort, welcher dem Andenken des alten Herrn Barons von Dominique consacrirt ist?
+
+
+DOMINIQUE.
+ Dieser Ort ist dem Andenken meines Vaters geweiht.
+
+
+GRÄFIN.
+ Recht artig! Zu Delomer. Sagen Sie mir doch, Herr von Delomer!
+
+
+DOMINIQUE
+
+tritt zurück, dem Tempel vorbey an die linke Seite.
+
+
+
+GRÄFIN.
+ Ist der alte Baron von Dominique in Militairdiensten gewesen?
+
+
+DELOMER
+
+der zur Gräfin tritt.
+
+ Nein.
+
+
+MADAM DOMINIQUE
+
+geht zu ihrem Manne.
+
+
+
+GRAF.
+ Welche Charge hat er denn bekleidet?
+
+
+DOMINIQUE.
+ Die – eines sehr ehrlichen, Gerührt. höchst edlen Mannes.
+
+
+DELOMER
+
+beachtet sorgsam den Dominique, und sieht so den Schubkarren.
+
+ Aber was ist denn das? Welche Unordnung! Er deutet in den Tempel.
+
+
+
+ALLE sehen neugierig dahin.
+
+
+DOMINIQUE S.
+
+herzlich und laut. Ach! Zu seiner Frau. Ach Gott! Julie, sieh! – siehst du das? Er setzt sich, stützt den Kopf, verbirgt seinen Thränen.
+
+
+
+
+MADAM DOMINIQUE
+
+geht zu ihm, küßt ihn auf die Stirne.
+
+
+
+DELOMER.
+ Diese Unordnung ist doch unleidlich. Ich will Leute rufen, die das Geräthe da wegbringen.
+
+
+DOMINIQUE S.
+ Nein, nein, lieber Vater! Halb für sich. Der Zufall feyert mein Fest hier so herzlich.
+
+
+DELOMER.
+ Aber, lieber Sohn, die Dinge müssen wirklich da weg – denn – nun – sie haben mir die Ueberraschung genommen. – Der Kleine hat da oben ein Wort zu reden.
+
+
+DOMINIQUE S.
+
+verneigt sich, damit er die Thränen verberge. Muß das Geräthe da weggebracht werden, so geschehe es durch mich! Er geht in den Tempel, und erhebt den Karren. Ach! Sie etinnern sich gewiß mit mir eines Augenblickes, wo ich so vor Ihnen stand. Er fährt ihn herunter.
+
+
+
+DELOMER
+
+gerührt.
+
+ Allerdings!
+
+
+MADAM DOMINIQUE.
+ Und da half ich dir. Sie geht zu ihm und führt ihn vollends an die Seite. Weißt du es noch? Sie, setzten den Karren hin, und umarmen sich innig.
+
+
+
+DELOMER.
+ Nun, Kleiner!
+
+
+DAS KIND
+
+geht hinauf und bekränzt den Altar mit einer Rosenkette.
+
+
+
+GRÄFIN.
+ Weshalb ist Herr von Dominique von dem Karren so saisirt?
+
+
+
+DELOMER
+
+mit Theilnahme.
+
+ Eine Anekdote von Paris her. –
+
+
+GRAF.
+ Gewiß eine Avantüre, oder –
+
+
+DELOMER.
+ Pst! pst! nicht weiter!
+
+
+DAS KIND.
+ Lieber Vater!
+
+
+DOMINIQUE
+
+wendet sich um – giebt seiner Frau die Hand und setzt sich.
+
+
+
+DAS KIND.
+ Du hast von uns allen schon gute Wünsche für dein Leben empfangen. Ich bin ein Abgesandter, und spreche für den Großpapa in Frankreich zu dir.
+
+
+DOMINIQUE S.
+ Ach! Er sinkt an den Busen seiner Frau.
+
+
+
+DELOMER
+
+trocknet die Augen.
+
+
+
+DAS KIND.
+ Du bist sehr gut und wohlthätig; darum segnet dich Gott mit vielem Glück. Du bist noch sehr jung; darum sey froh und fröhlich. Denn wir sind nur glücklich, wenn du reche vergnügt bist.
+
+
+DOMINIQUE S.
+
+richtet sich auf, sieht aber vor sich nieder.
+
+
+
+DAS KIND.
+ Nun will der Großpapa in Frankreich, daß du ihm schreibst, und bittest, daß er daher komme.
+
+
+DOMINIQUE V.
+
+wird hinter dem Altare sichtbar.
+
+
+
+DAS KIND.
+ So kommt er auch zu uns, und wird dich hier an dieser Stelle segnen und uns alle.
+
+
+
+DOMINIQUE V.
+
+steht zitternd, schwankend, eine Hand ausgebreitet, hinter dem Altar; er will reden und kann es nichts.
+
+
+
+DAS KIND.
+ Dann sind wir alle recht glücklich und froh.
+
+
+DOMINIQUE S.
+
+streckt unwillkührlich die Arme nach dem Altar, und wie er die Augen dahin hebt, fährt er auf. Allmächtiger Gott!
+
+
+DOMINIQUE V.
+ Dominique!
+
+
+DOMINIQUE S.
+
+stürzt hinauf. Mein Vater! mein Vater! Das ist der Vater!
+
+
+MADAM DOMINIQUE.
+ Er ists – der Vater! Sie umarmt ihn von der andern Seite. Großer Gott!
+
+
+DELOMER
+
+geht an der Rückseite hinauf, umarmt ihn von hinten zu.
+
+ Gott segne ihn! – Ja, das ist er, das ist er!
+
+
+GRAF UND GRÄFIN sind aufgestanden von ihren Sitzen, stehen erstaunt.
+
+
+DOMINIQUE S.
+
+hebt das Kind auf den Altar. Dein Großvater! Umarme deinen Großvater!
+
+
+DOMINIQUE V.
+ Sohn! Enkel! Tochter! – O haltet mich aufrecht – haltet mich!
+
+
+Von mehreren Seiten stürzen Arbeiter, Bediente, Bauern hinzu, und sehen mit Besorgniß nach dem Geräusch hin.
+
+
+
+
+ETLICHE.
+ Was ist das? – Was ist geschehen?
+
+
+
+DOMINIQUE S.
+ Mein alter Vater! Seht her! Das ist mein Vater! Er führt ihn etwas vor. Dieser hier!
+
+
+DOMINIQUE V.
+
+behält das Kind auf dem Altar im Arm, und küßt es innig.
+
+
+
+DAS KIND
+
+schlingt seine Arme ihm um den Hals.
+
+
+
+DOMINIQUE S.
+
+stürzt zu seinen Füßen. Ihren Segen auf uns, uns Alle!
+
+
+ALLE umgeben den Tempel.
+
+
+
+Der Vorhang fällt.
+
+
+
+
+
+
+
+
+
+3. Akt
+
+
+
+
+
+1
+
+
+
+
+Erster Auftritt.
+
+Dominique Vater sitzt zwischen seinen Kindern; den Großsohn hat er auf dem Schooße.
+
+
+
+DOMINIQUE S.
+ Ach! verbergen Sie es nicht, guter Vater! – Unsre Lebensweise kann Ihren Beyfall nicht haben.
+
+
+DOMINIQUE V.
+ Ey, versteh mich nur recht! Daß du den Handel aufgegeben und dafür hier einen einträglichen, angenehmen Ankauf gemacht hast, das finde ich ganz wohl bedacht, mein Sohn! Nur dabey müßt ihr bleiben, daß ihr euch nicht etwa von der Schloßwohnung verleiten laßt, so ganz und gar eine Schloßherrschaft vorstellen zu wollen.
+
+
+
+DOMINIQUE S.
+ Gewiß nicht, gewiß nicht!
+
+
+MADAM DOMINIQUE.
+ Seyn Sie versichert, daß ich darüber mit meinem Manne ganz gleich denke.
+
+
+DAS KIND.
+ Lieber Großpapa, fange wieder an, erzähle uns noch mehr von Paris!
+
+
+DOMINIQUE V.
+ Nun ja, liebes Kind! erzählen läßt sich davon recht gut.
+
+
+DOMINIQUE S.
+ Wie oft haben wir für Sie gezittert, lieber Vater!
+
+
+MADAM DOMINIQUE.
+ In bangen Träumen fuhr mein Mann auf, rief Ihren Namen, und wir konnten uns gar nicht darüber beruhigen, daß Sie nicht mit uns gegangen waren.
+
+
+DOMINIQUE V.
+ Alt und nicht reich – was hatte ich zu wagen? Es ist mir auch leidlich gut gegangen. Ich baute meinen Garten, verabschiedete alle Zeitungen, und wenn mir es dann im Hause gar weit und zu leer war, und im Herzen so eng und bange; dann schrieb ich an euch lange Briefe.
+
+
+DOMINIQUE S.
+ Die Briefe waren immer frohen Muthes; Sie ließen nicht eine Klage hören.
+
+
+DAS KIND.
+ Bist du denn auch mit in den Krieg marschirt, Großpapa?
+
+
+DOMINIQUE V.
+ Beynahe, beynahe!
+
+
+
+
+DOMINIQUE S.
+ Wie? Er steht auf, lehnt sich auf den Stuhl und fast seine Hand. Davon weiß ich nichts.
+
+
+MADAM DOMINIQUE.
+ Das muthete man Ihnen zu?
+
+
+DAS KIND.
+ Davon erzähle uns etwas!
+
+
+DOMINIQUE V.
+ Meinetwegen! Du kennst den Nachbar Hüllard – er hat den schönen Garten dicht neben mir.
+
+
+DOMINIQUE S.
+ Ein kalter, verlebter, verdrüßlicher Mensch, dieser Hüllard.
+
+
+DOMINIQUE V.
+ Mein Seele, das ist er! Der Mann hat mich nie leiden können –
+
+
+MADAM DOMINIQUE.
+ Giebt es Menschen, denen es möglich ist, Sie nicht zu lieben?
+
+
+DOMINIQUE V.
+
+legt seine Hand auf ihre Stirne.
+
+
+
+MADAM DOMINIQUE
+
+küßt sie.
+
+
+
+DOMINIQUE V.
+ Nun, dieser Hüllard – – – Er hält inne, und trocknet die Augen. Einen Augenblick nur –
+
+
+DOMINIQUE S.
+ Was ist Ihnen? Sie sind sehr gerührt –
+
+
+DOMINIQUE V.
+ Ey! du hast gut reden, du! Sechs Jahre lang hast du alle Tage den schönen Mund der lieben Seele da küssen dürfen. Aber ich, der ich sechs Jahre lang fast allein gelebt habe – mein Gott! wie wird mir, wenn so ein 
+schöner Mund mich liebevoll Vater nennt, und auf meine rauhe Hand sich neigt!
+
+
+MADAM DOMINIQUE.
+ Vater!
+
+
+DOMINIQUE V.
+ Das ists eben – Vater! – Wie lange habe ich das Wort nicht gehört! – Er sieht sie alle an. Nun, so umarmt mich alle dreye noch einmal – und recht von Herzen! Sie thun es. Kinder! ich werde wieder jung in euren Armen. – Gott sey dafür gelobt! Ach! wir können hier bessere Dinge thun, als von dem griesgramen Hüllard reden.
+
+
+DOMINIQUE S.
+ Wir müssen alles wissen, was mit Ihnen vorgegangen ist. Der kleinste Umstand ist uns wichtig.
+
+
+DOMINIQUE V.
+ Nun denn! Ich erwies: dem Hüllard alle nachbarliche Gefälligkeit; aber er konnte mich doch nicht leiden. In der ersten harten Zeit wollte man deine Entfernung von Paris übel deuten. Der Nachbar Hüllard brachte es gar dahin, daß man mich zuletzt für einen gefährlichen Mann hielt.
+
+
+DOMINIQUE S.
+ Bösewicht!
+
+
+DOMINIQUE V.
+ Ich sollte bedenkliche Correspondenz nach Deutschland führen – ich!
+
+
+MADAM DOMINIQUE.
+ Ist es möglich, daß man von Ihnen so etwas geglaubt hat?
+
+
+DOMINIQUE V.
+ O – unsre alte Magd, Frau Süsette – sie läßt dich grüßen, und Sie auch – recht herzlich grüßen.
+
+
+
+DOMINIQUE S.
+ Ist sie gesund? die ehrliche Frau!
+
+
+DOMINIQUE V.
+ Munter und frisch. Nun, die ward gefährlich böse und wollte dem Hüllard dieß und das thun –
+
+
+DOMINIQUE S.
+ Das sieht ihr ähnlich –
+
+
+DOMINIQUE V.
+ Ich aber ärgerte mich nicht viel. – Das Meinige that ich ehrlich. Ich trank schlechtern Wein, aß ein Gericht weniger; davon brachte ich den Ertrag der Regierung dar. Ich zeigte alle deine Briefe vor, und eines Tages, wie sie meinen Stolz beleidigt hatten, da nahm ich eine Flinte, trat vor sie hin, und bat sie von ganzem Herzen, sie möchten mich unter den Veteranen des Vaterlandes aufstellen.
+
+
+DOMINIQUE S.
+ Mein ehrwürdiger Vater! Er kniet vor ihm nieder. Zu Madam Dominique. Und indeß lebten wir hier manchmal wohl in leichtsinniger Freude!
+
+
+DOMINIQUE V.
+ Allmälig gab es bessere Zeit. – Man ließ mich in Ruhe, – man billigte stillschweigend die Erhaltung meines einzigen heiratheten Sohnes durch die Flucht, und jetzt unter der milden Regierung habe ich die Erlaubniß, dich zu besuchen, auf ehrenvolle Art erhalten. Da, nun habt ihr meine ganze Geschichte. – Aber wo bleibt denn der Bruder Delomer? Aha, der gewiß der gräflichen Gesellschaft zur Seite!
+
+
+
+MADAM DOMINIQUE.
+ Er hat wohl noch Geschäfte mit diesen Leuten; aber was ihn jetzt abruft – ich sollte wohl von seiner Freude nichts ausplaudern – aber seine Geschäftigkeit macht mir eine so rührende Freude, daß ich es nicht über mich gewinnen kann, zu schweigen.
+
+
+DOMINIQUE V.
+ Sie müssen nichts verrathen – eine Ueberraschung lasse ich nicht verderben. Aber jetzt muß ich Herrn Delomer haben. Mein Seele! er muß daher kommen. Wir haben mancherley mit einander abzumachen. Kleiner, lauf hin, rufe mir den Bruder Delomer!
+
+
+DAS KIND.
+ Den gnädigen Großpapa? Ja, ich rufe ihn. Geht ab.
+
+
+
+DOMINIQUE V.
+ Der Mann ist so brav; warum will er doch mit Gewalt gnädig seyn?
+
+
+DOMINIQUE S.
+ Aus seinem Vaterlande verbannt – ergreift man ohne Wahl ein Spielwerk, sich zu zerstreuen.
+
+
+MADAM DOMINIQUE.
+ Seit der Vater aus deutschem Boden lebt, findet er einen eignen Genuß in dem unbeschränkten Herrschaftsrechte einzelner Gutsbesitzer.
+
+
+DOMINIQUE S.
+ Sein einziges Bestreben geht dahin, dieß Glück seinen Kindern zu hinterlassen.
+
+
+DOMINIQUE V.
+ Hm! Wunderlich, wenn er ihnen Geld hinterläßt –
+
+
+
+
+
+
+
+
+2
+
+
+
+
+
+
+Zweyter Auftritt.
+
+Vorige. Delomer.
+
+
+
+DELOMER.
+ Sie verlangen nach mir, lieber Bruder?
+
+
+DOMINIQUE V.
+ Von Herzen.
+
+
+DELOMER.
+ Mein Freund, mein Vater, mein Wohlthäter! Umarmen Sie mich doch von ganzer Seele!
+
+
+DOMINIQUE V.
+ Ja, bey Gott! von ganzer Seele. Sie umarmen sich. Er sieht noch recht wacker und ansehnlich aus, der Bruder Delomer.
+
+
+DELOMER.
+ Ihr Besuch macht mich so glücklich. Ich bin stolz darauf, Ihnen meine liebevolle Verehrung zu beweisen.
+
+
+DOMINIQUE S.
+ Das ist ein Geburtstagsgeschenk, was Ihnen der Himmel reich vergelte! Dieser Empfang meines ehrwürdigen Vaters rührt mich so, daß ich meine Freudenthränen mit dankbarem Entzücken auf Ihre liebe Hand fallen lasse. –
+
+
+DELOMER
+
+droht ihm sanft.
+
+ Dominique!
+
+
+DOMINIQUE S.
+ Nehmen Sie immer die Huldigung für Ihre Empfindung an, sie kommt aus dem Herzen.
+
+
+
+DELOMER.
+ Aber, lieber Sohn, welchen andern Empfang konnten Sie erwarten? Was wäre ich ohne Ihren Vater? Verlasse mich alles Glück, wenn ich das je vergesse!
+
+
+DOMINIQUE V.
+
+zu seinem Sohn. Der Mann ist brav. Seine Gutsherrlichkeit sieht unter der Herrschaft seines Herzens. Drum wird sich das Uebrige schon finden.
+
+
+DELOMER.
+ Das Uebrige – – Kinder, laßt mich einen Augenblick mit dem Vater allein!
+
+
+DOMINIQUE V.
+ Ach, warum allein?
+
+
+DELOMER.
+ Einen Augenblick nur!
+
+
+DOMINIQUE S.
+ Lange kanns nicht seyn. Mein weitester Weg ist gemacht – was noch übrig ist – das müssen wir Hand in Hand gehen. – Nun so geht; aber in der Nähe müßt ihr bleiben, daß ich euch gleich haben und rufen kann; denn – Er nimmt die Kinder bey Seite. es giebt hier noch etwas von Freude. – – Kein Geld. Mein Seele! ihr habt damals alles von mir gekriegt; – aber etwas, das dem Herzen noch besser thut, als Geld.
+
+
+DOMINIQUE S.
+ Darf ich rathen?
+
+
+DOMINIQUE V.
+ Du verfällst nicht darauf.
+
+
+MAD.
+ DOMINIQUE. Ich werde forschen –
+
+
+DOMINIQUE V.
+ Nein! Dominique, leide das nicht! Verderbt mir meinen Spaß nicht, Kinder! Du mußt mir dafür stehen.
+
+
+
+DOMINIQUE S.
+ Wir werden unterdeß von Ihnen reden, lieber Vater! – Ach, dann vergessen wir über der gegenwärtigen Freude, daß es noch eine größere geben kann. Sie gehen Arm in Arm ab.
+
+
+
+
+
+
+
+
+
+3
+
+
+
+
+Dritter Auftritt.
+
+Delomer. Dominique Vater.
+
+
+
+DOMINIQUE V.
+
+sieht ihnen nach. Das muß wahr seyn, wir haben da ein Paar hübsche Kinder. Nicht wahr, Herr Delomer? oder lieber – Bruder Delomer! Denn – Herr von Delomer – wie hier alles spricht – daran werde ich mich schwerlich gewöhnen.
+
+
+DELOMER.
+ Verkennen Sie mich nicht! – Man ist hie und da in Deutschland sehr titelsüchtig und so – so ist es gekommen – daß ich –
+
+
+DOMINIQUE V.
+ Ach ja! dergleichen ist ansteckend, das begreife ich wohl.
+
+
+DELOMER.
+ Indeß hat dieß Kapitel auch eine sehr ernsthafte Seite.
+
+
+DOMINIQUE V.
+ Ja wohl.
+
+
+DELOMER.
+ Von dieser haben wir jetzt zu reden, und der Vater Dominique, wenn er mit 
+Liebe in meine Plane eingehen will, ist gekommen, meinem Glücke des Kranz aufzusetzen; dem Glücke, was er selbst geschaffen hat.
+
+
+DOMINIQUE V.
+
+reicht ihm die Hand. Lassen Sie hören.
+
+
+DELOMER.
+ So manches Mal – Sie wissen es –
+
+
+DOMINIQUE V.
+ Mit Erlaubniß! – Nennen Sie mich – Ihr – wie sonst! Darauf bin ich und mein Rock eingerichtet. Nur nicht Sie –
+
+
+DELOMER.
+ Nun denn – Du! Du weißt es, lieber Bruder! So manches Mal hat mich das Geschäft des Handels hoch erhoben und dem Abgrund nahe gebracht. Vor drey Jahren – eben da ich am höchsten stand, und ein Zufall – ein ganz besonderer Zufall mir auf einmal eine beträchtliche Summe in die Hand geworfen hatte – da schloß ich mein Buch zu. Lebe, dachte ich, in Wohlthun und Frieden auf schönen Gütern! Es ward ins Werk gesetzt. Die Rangsucht des benachbarten Adels nannte uns gleich bey unsrer Ankunft, Herr von Delomer, und Herr von Dominique, und ich – ließ es geschehen.
+
+
+DOMINIQUE V.
+ Ja. Und der alte Vater Essigkrämer in der Vorstadt St. Victor zu Paris ward hier zum Edelmann aus Bretagne erhoben. Ey, ey!
+
+
+DELOMER
+
+zuckt die Achseln.
+
+ Ein Schritt führt zum andern.
+
+
+
+DOMINIQUE V.
+ Man muß immer wahr bleiben.
+
+
+DELOMER.
+ Was hast du aber dabey verloren?
+
+
+DOMINIQUE V.
+ Aber ihr werdet nun dabey verlieren.
+
+
+DELOMER.
+ Wahrscheinlich nicht. Davon hernach! Ohne diese unschuldige Lüge –
+
+
+DOMINIQUE V.
+ Eine Lüge ist nie unschuldig –
+
+
+DELOMER.
+ Ohne diese hätten wir hier zu Lande wenig gegolten.
+
+
+DOMINIQUE V.
+ Euer blankes Gold hätte überall gegolten.
+
+
+DELOMER.
+ So bald der Wunsch, eine unmittelbare Herrschaft zu besitzen, mein Ziel geworden war – änderten sich alle bisherigen Gesichts, punkte.
+
+
+DOMINIQUE V.
+ Weiter!
+
+
+DELOMER.
+ Ich habe mir es in der Welt sauer werden lassen.
+
+
+DOMINIQUE V.
+ Sie haben wacker gearbeitet, das müssen Ihre Feinde Ihnen nachsagen.
+
+
+DELOMER.
+ In der bisherigen Laufbahn bringe ich es nicht weiter. Nach dem Höheren streben wir alle.
+
+
+DOMINIQUE V.
+ Nach dem Besseren –
+
+
+DELOMER.
+ Nach dem Besten!
+
+
+
+DOMINIQUE V.
+ Das Höchste ist nicht das Beste.
+
+
+DELOMER.
+ Jedes Alten hat seine Leidenschaft. Wäre eine Art Glanz meine Schwäche, so drücke ich doch Niemand damit. Meine Kinder zu erheben, das ist mein väterlicher Wunsch.
+
+
+DOMINIQUE V.
+ Zu dem Ende?
+
+
+DELOMER.
+ – Vater Dominique, sey freundlich und nicht strenge!
+
+
+DOMINIQUE V.
+
+schlägt ihm freundlich auf die Schulter. Weiter, lieber Bruder Delomer!
+
+
+DELOMER.
+ Zu dem Ende habe ich dem Grafen Warbing, der sehr verschuldet ist, eine Herrschaft abgekauft, mit dem Rechte über Leben und Tod. Diese erbt aus unsre Kinder.
+
+
+DOMINIQUE V.
+ Wenn unsre Kinder Gold haben für fremde Noth – klares Brot und ein gesundes verdientes Glas Wein aus ihrem Tische – so danke ich Gott dafür. Das Recht über Leben und Tod – macht Kopfschmerzen. Was sollen sie damit?
+
+
+DELOMER.
+ Mein Freund, dieß Recht in unsers Sohnes Hand –
+
+
+DOMINIQUE V.
+ Ach! Er soll es vor dem Gesetzbuche niederlegen und in andre Hände geben, dann schläft er ruhiger.
+
+
+DELOMER.
+ Um den Besitz dieser Herrschaft mit Anstand zu führen, und künftige Verbindungen 
+den Nachkommen zu erleichtern, habe ich ihn in den Adelstand erheben lassen.
+
+
+DOMINIQUE V.
+ Aber warum das? Wäre das Geld an Leute auf euern Gütern ausgeliehen worden, so wären viele Einwohner dem Wucher entrissen. Die Quittungen der Leute hätten freylich nicht so stattlich ausgesehen, wie der Adelsbrief; aber statt des großen Siegels, was unter jenem leuchtet – wäre wohl auf die Schuldbriefe der Unterthanen hie und da eine dankbare Thräne gefallen; die spräche dann zum Herzen nicht, als das große Siegel.
+
+
+DELOMER.
+ Ich habe bey dieser Sache an dich gedacht. Der Adel ist auch mit auf dich ausgedehnt worden.
+
+
+DOMINIQUE V.
+ Auf mich? Ich weiß nichts damit zu machen.
+
+
+DELOMER.
+ Zum Gedächtniß unserer Rettung enthält Das Wappen in dem einen blauen Felde ein Faß, und im andern gelben Felde ein Rad.
+
+
+DOMINIQUE V.
+ Wohl gedacht! Aber die Urenkel schämen sich des Dinges –
+
+
+DELOMER.
+ Nimmermehr! Das Adelsdiplom ist unserm Sohne ausgehändigt –
+
+
+DOMINIQUE V.
+ So höre ich.
+
+
+DELOMER.
+ Die Herrschaft ist bezahlt –
+
+
+DOMINIQUE V.
+ Das ist das Beste –
+
+
+
+DELOMER.
+ Und unserm Sohne als Geburtstagsgeschenk übertragen.
+
+
+DOMINIQUE V.
+ Das Geschenk ist schwer.
+
+
+DELOMER.
+ Doch vollwichtig.
+
+
+DOMINIQUE V.
+ Ich sage – überwichtig.
+
+
+DELOMER.
+ Nun haben wir noch eine Hauptbedingung zu erfüllen.
+
+
+DOMINIQUE V.
+ Den ehrlichen Namen abzulegen?
+
+
+DELOMER.
+ Nein.
+
+
+DOMINIQUE V.
+ Oder gar –
+
+
+DELOMER.
+ Der Graf hat eine Tochter; ein schönes liebenswürdiges Mädchen von dreyzehn Jahren.
+
+
+DOMINIQUE V.
+
+lacht. Und die wollen Sie heirathen?
+
+
+DELOMER.
+ Diese soll mit unserm Großsohne verlobt werden.
+
+
+DOMINIQUE V.
+ Was ist das?
+
+
+DELOMER.
+ Sie ist freylich älter –
+
+
+DOMINIQUE V.
+ Mein Großsohn ist jetzt sechs Jahre alt –
+
+
+DELOMER.
+ Man schließt die Verbindung in seinem siebzehnten Jahre.
+
+
+DOMINIQUE V.
+ Dann ist sie vier und zwanzig Jahre alt.
+
+
+
+DELOMER.
+ Höre mich nur an! – Die junge Gräfin ist die letzte ihres Hauses –
+
+
+DOMINIQUE V.
+ Warum soll mein Großsohn der letzte seines Hauses bleiben?
+
+
+DELOMER.
+ Er erbt alle Güter –
+
+
+DOMINIQUE V.
+ Wird verkauft.
+
+
+DELOMER.
+ Führt den Namen Dominique von Warbing.
+
+
+DOMINIQUE V.
+ Ehe er weiß, was Glück oder Unglück ist.
+
+
+DELOMER.
+ Dazu habe ich mich anheischig gemacht.
+
+
+DOMINIQUE V.
+ Und das giebt mein Sohn zu?
+
+
+DELOMER.
+ Die Kinder wissen es noch nicht. Aber –
+
+
+DOMINIQUE V.
+ Gott sey gelobt! Sie wälzen mir ein Gebirge von der Brust. – Daraus wird nichts.
+
+
+DELOMER.
+ Durch Zureden –
+
+
+DOMINIQUE V.
+ Und das wollten Sie?
+
+
+DELOMER.
+ Durch Ueberraschung. – Ihr Sohn ist zum offenbaren Widerstande zu gutmüthig. Er wird sich sträuben –
+
+
+DOMINIQUE V.
+ Das hoffe ich zu Gott.
+
+
+DELOMER.
+ Er wird sich Anfangs betrüben –
+
+
+
+DOMINIQUE V.
+ Er soll froh bleiben, und Nein sagen.
+
+
+DELOMER.
+ Aber zuletzt meine väterliche Absicht und sein Glück erkennen. Dominique! Es ist die Krone auf meine väterlichen Wünsche.
+
+
+DOMINIQUE V.
+ Nein! Es ist ein Seelenverkauf, und darf nicht seyn.
+
+
+DELOMER.
+ Aber das Glück –
+
+
+DOMINIQUE V.
+ Um des Unglücks willen – weg mit dem Glück! – Das arme verhandelte Kind, da springt es in seiner glücklichen Unwissenheit herum, – und Sie haben den armen Wurm schon an die goldne Kette vermäkelt!
+
+
+DELOMER.
+ Ey, ich weis doch wahrlich auch, was Vaterpflicht ist –
+
+
+DOMINIQUE V.
+ Sie wissen es; aber Sie empfinden es nicht immer.
+
+
+DELOMER.
+ Wie?
+
+
+DOMINIQUE V.
+ Das haben Sie mir damals bewiesen, als Sie Ihre Tochter in ein Kloster sperren wollten, weil sie keine standesmäßige Mitgift hatte.
+
+
+DELOMER.
+ Damals, mein lieber Freund –
+
+
+DOMINIQUE V.
+ Damals habe ich Ihnen auch die Wahrheit gesagt. Wissen Sie noch? – Nein, aus dieser Heirath darf nichts werden.
+
+
+DELOMER.
+ Aber ich habe mein Wort gegeben.
+
+
+
+DOMINIQUE V.
+ Das war ein harter Fehler.
+
+
+DELOMER.
+ Es ist ein geschlossener Handel.
+
+
+DOMINIQUE V.
+ Handel? Ein Großsohn ist doch kein Sack mit Kaffee. Sie müssen den Handel aufsagen.
+
+
+DELOMER.
+ Das kann ich nicht.
+
+
+DOMINIQUE V.
+ Haben Vater und Mutter denn keine Rechte? und glauben Sie, die Stimme der Natur mit Brillanten und Festivitäten zu betäuben? Nun, Gott sey tausendmal gelobt, daß ich mich auf den Weg gemacht habe!
+
+
+DELOMER.
+ Ich will Gott herzlich dafür danken; nur steh mir jetzt bey, daß ich –
+
+
+DOMINIQUE V.
+ Ja, ja! Ich will Ihnen gegen Sie selbst beystehen, und das treulich!
+
+
+DELOMER.
+ Wie?
+
+
+DOMINIQUE V.
+ Und damit Sie alles selbst gut machen, und bey den Kindern nichts verlieren, so müssen die kein Wort davon erfahren. Bey Leib und Leben nicht! Ich gebe Ihnen meine Hand darauf, ich sage kein Wort von diesem häßlichen Handel.
+
+
+DELOMER.
+ Ich bin schon zu weit gegangen.
+
+
+DOMINIQUE V.
+ Ja wohl! Viel zu weit.
+
+
+DELOMER.
+ Ich kann nicht mehr zurück.
+
+
+DOMINIQUE V.
+ Ey ja doch! Fassen Sie meine Hand! – Courage! Ich ziehe Sie zurück.
+
+
+
+DELOMER.
+ Die gräfliche Familie –
+
+
+DOMINIQUE V.
+ Ach! diese gräflichen Personen mögen wenig Väterliches in der Brust haben. Lassen Sie mich mit ihnen reden.
+
+
+DELOMER.
+ Durchaus nicht! Unter keiner Bedingung! Das verbitte ich durchaus, durchaus.
+
+
+DOMINIQUE V.
+ Nun – so thue ich es nicht.
+
+
+DELOMER.
+ Unterdeß soll nichts ohne Ihr Vorwissen geschehen.
+
+
+DOMINIQUE V.
+ Das erkenne ich dankbar.
+
+
+DELOMER.
+ Nur – nach allem, was ich Ihnen gesagt habe, lassen Sie sich es gefallen, nicht alles, was ich mühsam gebauet habe, niederzureißen. Schonen Sie meiner Verlegenheit! – Und wenn Sie auch nichts bestätigen wollen, stellen Sie mich nicht durch Wiederruf bloß. – Wenigstens im Aeußern entsprechen Sie meiner Angabe.
+
+
+DOMINIQUE V.
+ Wodurch? Wie kann ich das?
+
+
+DELOMER.
+ Wenn Sie aus Liebe für mich – einen andern Anzug –
+
+
+DOMINIQUE V.
+ Das kann ich nicht. Der Rock ist mein Ehrenkleid. In einem andern bin ich fremd.
+
+
+
+DELOMER.
+ Bey der Benennung: Herr von Dominique, bleibt es mit Recht; denn Sie sind geadelt. Dabey ist nun keine Unwahrheit mehr.
+
+
+DOMINIQUE V.
+ Aber Auf das Herz deutend. hier ist die Unwahrheit bekannt, und hier Auf das Gesicht deutend. ist sie zu lesen.
+
+
+DELOMER.
+ So lassen Sie sich nur so nennen! Das können Sie doch, wenn ich Sie darum bitte.
+
+
+DOMINIQUE V.
+ Sie mögen mich Herr von Dominique nennen, wenn ich nur das Lachen lassen kann. Nennt mich aber Jemand gnädiger Herr, – so werde ich böse.
+
+
+
+
+
+
+
+
+4
+
+
+
+
+Vierter Auftritt.
+
+Vorige. Horfmann.
+
+
+
+DELOMER.
+ Was will Er, Horfmann.?
+
+
+HORFMANN.
+ Ach, ich bin ganz wie vor den Kopf geschlagen. Hätte ich nur gewußt, vermuthet – ich bitte viel tausendmal um Pardon.
+
+
+DELOMER.
+ Weshalb?
+
+
+DOMINIQUE V.
+
+lacht.
+
+
+
+HORFMANN.
+ Wer hätte vermuthen sollen, daß Dieselben der gnädige Herr –
+
+
+
+DELOMER.
+ Es ist gut.
+
+
+HORFMANN.
+ Hätte ich gewußt, daß so ein respektable Kavalier –
+
+
+DOMINIQUE V.
+ Wenn der Vater seines Herrn auch ein Bettler wäre, mußte Er ihn doch nicht einen alten Bären tituliren.
+
+
+DELOMER.
+ Unverschämter!
+
+
+HORFMANN.
+ Du mein Gott! Wenn unser eins einen alten braven Mann – einen ächten gerechten Haudegen tituliren will – pflegt er wohl zu sagen: – ein alter Bär.
+
+
+DELOMER.
+ Geht!
+
+
+DOMINIQUE V.
+ Weil indeß der alle Bär nichts geschickt hat, und Er doch den Tempel so wohl erhält, so soll er Ihm doch hier etwas mitgebracht haben. Da! Giebt ihm ein Goldstück.
+
+
+
+HORFMANN.
+ O tausend, tausend Dank –
+
+
+DOMINIQUE V.
+ Gut das!
+
+
+HORFMANN.
+ Ich weiß auch gar nicht, wo ich meine Augen gehabt habe. Trotz Dero Verkleidung sieht man Hochdenenselben den Kavalier auf den ersten Blick an.
+
+
+DOMINIQUE V.
+ Meint Er?
+
+
+HORFMANN.
+ O Gott! freylich. Und dann der Hofschritt –
+
+
+DOMINIQUE V.
+ Mein Hofschritt! Ha ha ha!
+
+
+HORFMANN.
+ Ist ja gar nicht zu verkennen.
+
+
+
+DELOMER.
+ Wird Er gehen?
+
+
+HORFMANN.
+ Im Augenblick. Es ist ein Fremder draußen, der der hohen Familie vorgestellt zu werden wünscht.
+
+
+DELOMER.
+ Ein Fremder? Wer?
+
+
+DOMINIQUE V.
+
+bey Seite. Aha!
+
+
+HORFMANN.
+ Ein Herr aus Frankreich.
+
+
+DELOMER.
+ Er soll gleich kommen.
+
+
+HORFMANN.
+ Sieht nothbedürftig aus.
+
+
+DELOMER.
+ Ein armer Landsmann? Herein! herein!
+
+
+DOMINIQUE V.
+ Und meine Kinder sollen kommen.
+
+
+HORFMANN.
+ Wie Euer Gnaden befehlen. Im Gehen giebt er den Vater Dominique zu verstehen, daß er den Auftrag gut ausgerichtet habe.
+
+
+
+DOMINIQUE V.
+
+nickt ihm zu. Zu Delomer. Sie können sich darauf verlassen, Herr Delomer, daß ich den Kindern kein Wort sagen werde, was Sie gesündigt haben; denn Sie werden es gewiß wieder gut machen wollen.
+
+
+
+
+
+
+
+
+5
+
+
+
+
+
+
+Fünfter Auftritt.
+
+Vorige. Dominique Sohn, und seine Frau. Beide forschen ängstlich auf den Gesichtern ihrer Aeltern.
+
+
+
+DOMINIQUE V.
+ Ich habe ein wenig nachgefragt, wie der Vater Delomer mit euch zufrieden ist. Alles, was ich indeß gehört habe, das spricht für euch, und davon bin ich herzlich erfreut, lieben Kinder!
+
+
+DELOMER
+
+der sich etwas verlegen hatte.
+
+ Lieber Sohn! Sie müssen von Ihrem Vater noch dieß und jenes erbitten. Sie haben das Recht der ersten Bitte, und Sie werden es für mich gebrauchen.
+
+
+DOMINIQUE V.
+ Für jetzt sollt ihr wissen, hat sich ein armer Landsmann ansagen lassen –
+
+
+DOMINIQUE S.
+ Ach, ein Landsmann!
+
+
+MADAM DOMINIQUE.
+ Ein Landsmann! Wer ist es?
+
+
+DOMINIQUE V.
+ Recht so, ihr guten Seelen! Haltet immer das Vaterland in Ehren! So wahr ich lebe, aus der Liebe zum Vaterlande gedeihet das herzlich Gute.
+
+
+
+
+
+
+
+
+6
+
+
+
+
+
+
+Sechster Auftritt.
+
+Vorige. Marquis, dem Horfmann die Thüre öffnet, welcher aber nicht eintritt.
+
+
+
+MARQUIS
+
+verneigt sich.
+
+
+
+ALLE
+
+erwidern es.
+
+
+
+MARQUIS
+
+tritt auf Delomer zu.
+
+
+
+DELOMER
+
+tritt betroffen einen Schritt zurück.
+
+
+
+MAD.
+ DOMINIQUE. DOMINIQUE S. sehen gespannt darauf hin.
+
+
+
+DOMINIQUE V.
+ Kinder, lieben Kinder! – jetzt gebt einmal Acht auf euren Vater!
+
+
+DELOMER
+
+sieht den Marquis starr an, faltet die Hände.
+
+
+
+MARQUIS
+
+öffnet herzlich die Arme.
+
+ Delomer!
+
+
+DELOMER
+
+erschüttert.
+
+ Marquis de Val – – Das Wort erstirbt ihm.
+
+
+
+MARQUIS.
+ Ja, ich bins! – Ihr unglücklicher – glücklicher Freund! Er umarmt ihn.
+
+
+
+ALLE
+
+treten freudig zu ihnen.
+
+
+
+DELOMER.
+ Willkom – – Er wird schwach.
+
+
+
+MADAM DOMINIQUE.
+ Was ist Ihnen? Sie faßt ihn in ihre Arme. Vater!
+
+
+
+
+DOMINIQUE V.
+ Die Freude, die Freude!
+
+
+DOMINIQUE S.
+
+hält ihn aufrecht. Lieber Vater!
+
+
+MARQUIS
+
+tritt zurück.
+
+
+ Zu Dominique Vater. So wirkt die plötzliche Freude, wieder Kummer.
+
+
+DOMINIQUE V.
+ Ey, das schadet nicht. Das geht vorüber. Ihr sollt wissen, Kinder, wir sind von Düsseldorf aus mit einander gereiset, der Herr Marquis und ich.
+
+
+DOMINIQUE S.
+ Mit einander?
+
+
+MARQUIS.
+ Durch den glücklichsten Zufall.
+
+
+DOMINIQUE V.
+ Herr Delomer hat das Vermögen des Marquis in seiner Verwahrung –
+
+
+DOMINIQUE S.
+
+sieht erschrocken auf.
+
+
+
+DOMINIQUE V.
+ Der Marquis hat viel gelitten. In diesem Augenblick wird er auf einmal wieder ein reicher Mann.
+
+
+DELOMER
+
+erholt sich etwas.
+
+
+
+MARQUIS.
+ Wie ist Ihnen? besser?
+
+
+DOMINIQUE V.
+ Nun, Dominique! wie stehst du da? Geh, hole deinem Vater eine Stärkung! Ey, hätte ich jetzt nur von meinem Essig bey der Hand!
+
+
+MADAM DOMINIQUE.
+ Es ist nicht nöthig, er erholt sich.
+
+
+MARQUIS.
+ Mein lieber, guter Delomer!
+
+
+
+DOMINIQUE V.
+ Eine Flasche alten Wein bringt uns her! Ich trinke mit auf die glückliche Rückkehr.
+
+
+DELOMER.
+ Sie leben? Ist es möglich?
+
+
+MARQUIS.
+ Durch ein Wunder. Mein guter, treuer Freund! – Gottlob, daß wir uns wieder sehen!
+
+
+DELOMER.
+ Ja – Gottlob! Seufzt. Indeß hat der Augenblick mich sehr angegriffen.
+
+
+MARQUIS.
+ Das thut mir so leid!
+
+
+DELOMER.
+ Ich danke Gott, daß Sie gerettet sind. Aber das Unvermuthete – die Freude – so manches, was mich heute beglückt, – hat meine Seele erschüttert. Ich bedarf einen Augenblick, mich zu erholen.
+
+
+DOMINIQUE V.
+ Er sieht wahrhaftig ganz entstellt aus – Sie müssen wahrlich ausruhen.
+
+
+MARQUIS.
+ In der That, ich bitte recht bringend darum.
+
+
+MADAM DOMINIQUE
+
+führt ihn weg.
+
+
+
+DOMINIQUE S.
+ Julie! ich überlasse den Vater deiner Sorgfalt. – Zum Marquis. Von dem Glück, meinen wackern Vater zu sehen, schon innig erschüttert, ergreift diese zweyte Freude den würdigen Mann so innig –
+
+
+MARQUIS.
+ Ich mache mir Vorwürfe über meine unvorbereitete Erscheinung –
+
+
+
+DOMINIQUE V.
+ Warum nicht gar? Der Freude kann man nicht zu viel haben.
+
+
+DOMINIQUE S.
+ Aber Sie selbst, Herr Marquis! bedürfen nach der Reise der Ruhe.
+
+
+DOMINIQUE V.
+ Ja, ja! Führe unsern Freund auf mein Zimmer und laß dir erzählen, wie es ihm ergangen ist. Ich werde indeß dem Bruder Delomer ein Glas Wein einschenken.
+
+
+DOMINIQUE S.
+
+umarmt den Marquis. Kommen Sie, lieber Landsmann, und lassen Sie mich in dieser Umarmung aller Freude gedenken, die ich im Vaterlande zurückgelassen habe. Sie gehen ab.
+
+
+
+DOMINIQUE V.
+ Hm! Es ist sonderbar. Ich könnte nicht für Freude schwach werden. Mich macht die Freude jung und stark. – Diese vornehmen Leute haben abgenutzte Nerven, die lassen die Seele fallen, wenn sie gedeihen will, und sich erheben.
+
+
+
+
+
+
+
+
+7
+
+
+
+
+
+
+Siebenter Auftritt.
+
+Dominique V. Der Graf.
+
+
+
+GRAF.
+ Darf man stören?
+
+
+DOMINIQUE V.
+ Nur zu – Sie stören mich gar nicht, Herr Graf – glaube ich?
+
+
+GRAF.
+ Graf Warbing! Ja der bin ich. Ich weiß nicht, ob ich die Ehre habe, daß man Ihnen von mir und meiner Gemahlin, und der Verbindung, darin wir sind, etwas gemeldet hat.
+
+
+DOMINIQUE V.
+ Ach ja! Von Ihnen und der Frau Gräfin und von – – – ja, ja! O ja!
+
+
+GRAF.
+ Der Herr Baron von Delomer, und Ihre Kinder, wir haben eine tendre liaison geschlossen.
+
+
+DOMINIQUE V.
+ So höre ich.
+
+
+GRAF.
+ Und werden sie mit göttlicher Hülfe nun noch intimer schließen.
+
+
+DOMINIQUE V.
+
+lebhaft. Herr Graf! das sollten Sie nicht thun.
+
+
+GRAF
+
+hoch auf.
+
+ Wie meinen Sie das?
+
+
+DOMINIQUE V.
+ Sie nehmen mir nicht übel – es fuhr mir so heraus. Alte Männer, wie ich –
+
+
+GRAF.
+ Mein bester Herr Baron –
+
+
+
+DOMINIQUE V.
+ Ach du lieber Gott!
+
+
+GRAF.
+ Einem respektablen Kavalier, wie Sie –
+
+
+DOMINIQUE.
+ V. Ich bitte, verschonen Sie mich –
+
+
+GRAF.
+ Nein, ohne Flatterie! Einen Mann Ihrer Art halte ich für den wahren preux chevalier.
+
+
+
+DOMINIQUE V.
+ Halten Sie mich für eine gute, ehrliche Haut, so sind Sie nicht gar weit vom Ziele.
+
+
+
+
+
+
+
+
+8
+
+
+
+
+Achter Auftritt.
+
+Vorige. Dominique Sohn.
+
+
+
+DOMINIQUE S.
+ Ich will nur einen Augenblick nach dem Vater sehen, ich komme gleich zurück. Er geht in Delomers Zimmer.
+
+
+
+GRAF.
+ Ihr Kostume, Ihre Verkleidung abgerechnet, sieht man wohl, woran man mit Ihnen ist.
+
+
+DOMINIQUE V.
+ Bey meinem Leben! Meine eigentliche Kleidung steht mir besser als diese.
+
+
+GRAF.
+ Das glaube ich gern. Aber hier in Deutschland hätten der Herr Baron sich keinen 
+Zwang anthun sollen, und gehen in Ihrem wahren Kostüme.
+
+
+DOMINIQUE V.
+
+verlegen. Meinen Sie?
+
+
+GRAF.
+ Allerdings. Thun Sie es ja!
+
+
+DOMINIQUE V.
+ Nun – bey Gelegenheit.
+
+
+GRAF.
+ Wir werden nicht ermangeln, Ihre glückliche Ankunft bey uns gehörig zu celebriren.
+
+
+DOMINIQUE V.
+ Wie. – wie weit liegt denn die See von hier?
+
+
+GRAF.
+ Eine Meile von meinem Stammgute. Wir werden Sie hinführen –
+
+
+DOMINIQUE V.
+ Ich werde einmal hinspaziren – ja.
+
+
+GRAF.
+ Ich werde den ganzen benachbarten Adel einladen.
+
+
+DOMINIQUE V.
+ O! –
+
+
+GRAF.
+ Wie beliebt?
+
+
+DOMINIQUE V.
+ Machen Sie sich keine Ungelegenheit!
+
+
+GRAF.
+ Ohnfehlbar sind der Herr Baron auch Ordensritter?
+
+
+DOMINIQUE V.
+ Hm! Er trocknet die Stirn.
+
+
+
+GRAF.
+ Wie?
+
+
+DOMINIQUE V.
+ O – o ja!
+
+
+GRAF.
+ Von welchem Orden?
+
+
+DOMINIQUE V.
+ Vom – vom braunen Fließ.
+
+
+
+GRAF.
+ Vom braunen – sagen Sie? Wie ist das? Wie verstehe ich das?
+
+
+DOMINIQUE V.
+ Ja, es ist so.
+
+
+GRAF.
+ Sie wollen sagen: vom goldnen Fließ?
+
+
+DOMINIQUE V.
+ Nun – mein Fließ machte sich golden.
+
+
+GRAF.
+ Darf ich fragen –
+
+
+DOMINIQUE V.
+ Gehen wir zu dem fremden Herrn, wenns Ihnen gefällig ist. Will gehen.
+
+
+
+
+
+
+
+
+
+9
+
+
+
+
+Neunter Auftritt.
+
+Vorige. Gräfin.
+
+
+
+GRÄFIN.
+ Wer ist denn der Fremde, der hier angekommen ist?
+
+
+GRAF.
+ Denken Sie nur, ma chere! der Herr von Dominique sind Ritter des goldnen Fließes.
+
+
+GRÄFIN.
+ So?
+
+
+DOMINIQUE V.
+ Ich empfehle mich. Geht.
+
+
+
+GRÄFIN
+
+holt ihn zurück.
+
+ Des goldnen Fließes? Den bekommen nur Kavaliere aus den ersten Häusern. Ey, den tragen Sie ja bey uns! den steht man hier sehr selten.
+
+
+
+GRAF.
+ Und der Fremde?
+
+
+DOMINIQUE V.
+ Es ist der Herr Marquis de Valiere.
+
+
+GRÄFIN.
+ So? Ein Marquis? auch vom goldnen Fließe?
+
+
+DOMINIQUE V.
+ Nein.
+
+
+GRÄFIN.
+ Es sind wohl lauter Marquis und Barone über die Grenze nach Deutschland gegangen. Lacht. Was meinen Sie?
+
+
+DOMINIQUE V.
+
+der seine Verlegenheit nicht mehr tragen kann, und von dem spöttischen Lächeln der Gräfin gereißt wird, etwas lebhaft. Was ich meine? daß alle Marquis und Barone besser gethan hätten, wenn sie nicht über die Grenze gegangen wären, das meine ich.
+
+
+GRAF.
+ Mit Ausnahme, Herr von Dominique!
+
+
+DOMINIQUE V.
+ Ohne Ausnahme!
+
+
+GRAF.
+ Die Herren konnten doch ihr Leben nicht auf die Schlachtbank liefern.
+
+
+DOMINIQUE V.
+ Bey meiner armen Seele! wäre ich ein Edelmann gewesen, so hätte ich den Degen zu Hause gezogen für meine Ritterpflicht. Ich hätte für meine Meinung sterben können; aber davon gegangen wäre ich nicht. Nein, mein Seele! das hätte ich nicht gethan.
+
+
+GRAF.
+ Nun! Lacht. Und was haben Sie denn zu Hause angegeben?
+
+
+
+DOMINIQUE V.
+ Ich habe statt meines Sohnes Dienst und Leben angeboten.
+
+
+GRAF.
+ Wem?
+
+
+GRÄFIN.
+ Welcher Partie?
+
+
+DOMINIQUE V.
+ Das Vaterland ist meine Partie.
+
+
+GRAF
+
+lacht.
+
+ So, so!
+
+
+GRÄFIN.
+ Guter, aller Papa! Ein grundehrlicher Mann mögen Sie seyn; – aber ein Edelmann sind Sie nicht.
+
+
+DOMINIQUE V.
+
+heftig. Ich bin –
+
+
+GRAF.
+ Nun?
+
+
+GRÄFIN.
+ Was?
+
+
+DOMINIQUE V.
+ Top! Ich halte die große Ahnenprobe aus.
+
+
+GRÄFIN.
+ Auch die deutsche?
+
+
+GRAF.
+ Haben Sie Dokumente?
+
+
+DOMINIQUE V.
+ Ja.
+
+
+GRÄFIN.
+ Die lassen Sie doch sehen!
+
+
+DOMINIQUE V.
+ Auf meiner Stirne sind sie zu lesen. Ich kann allen Leuten gerade und vertraulich in die Augen sehen. Diese Ahnenprobe gilt in allen vier Welttheilen. Geht.
+
+
+
+GRAF.
+ Hm! Falsch Gold!
+
+
+GRÄFIN
+
+heftig.
+
+ Was habe ich gesagt?
+
+
+
+DOMINIQUE V.
+
+kommt wieder. Und von der Art ist der Herr Marquis auch. Der hat aber sonst noch pergamentne Dinge gehabt, die Ihnen besser gefallen werden, als mein ordinärer Paß, den mir Gott erhalten hat. Geht ab.
+
+
+
+
+
+
+
+
+
+10
+
+
+
+
+Zehnter Auftritt.
+
+Graf. Gräfin.
+
+
+
+GRÄFIN.
+ Nun, Herr Graf? Sind hier alte Edelleute?
+
+
+GRAF.
+ Man kann es doch nicht wissen. Der Mann ist vielleicht ein neuer Philosoph.
+
+
+GRÄFIN.
+ Philosoph? Der Kerl ist nicht mehr, als sein Rock werth ist.
+
+
+GRAF.
+ Je nun – an den Röcken kann man auch die Philosophen nicht erkennen.
+
+
+GRÄFIN.
+ Ein alter Bäcker oder Schlosser ist der Herr Baron.
+
+
+GRAF.
+ Aber –
+
+
+GRÄFIN.
+ Aber ich habe es nie gewollt, und jetzt verbiete ich es, daß aus einer Heirath meiner Tochter mit diesem Volk jemals etwas werden soll.
+
+
+GRAF.
+ Dieß Volk hat viel Geld.
+
+
+GRÄFIN.
+ Ihr gemeines Geld!
+
+
+
+GRAF.
+ Die gemeinen Kreditoren! Das Gut erbt ja, wenn die Heirath zu Staude kommt, auf meine Tochter, und fällt so gewissermaßen an unsere Familie zurück.
+
+
+GRÄFIN.
+ Es sind Spitzbuben.
+
+
+GRAF.
+ Daß Gott verhüte! Indeß ist hier nichts bekannt.
+
+
+GRÄFIN.
+ Was sie haben, ist Plünderung. Und glauben Sie mir, der Herr Schwiegersohn ist schon als Filou in den Schubkarren geschmiedet gewesen. Ja, ja!
+
+
+GRAF.
+
+Mon Dieu!
+
+
+
+GRÄFIN.
+ Das behaupte ich.
+
+
+GRAF.
+ Sie frappiren mich. In den Schubkarren geschmiedet! Woher wissen Sie das?
+
+
+GRÄFIN.
+ Mein Verstand hat es an den Tag gebracht.
+
+
+GRAF.
+ Wie denn? das sagen Sie mir!
+
+
+GRÄFIN.
+ Aber so erinnern Sie sich doch nur an die skandalöse Begebenheit von vorhin.
+
+
+GRAF.
+ An welche?
+
+
+GRÄFIN.
+ Wie die Familie den Schubkarren im Tempel erblickte –
+
+
+GRAF.
+ Nun?
+
+
+GRÄFIN.
+ Wurden sie nicht alle feuerroth?
+
+
+GRAF.
+ Das ist wahr! Roth wurden sie alle.
+
+
+GRÄFIN.
+ Blickten sie nicht alle weg?
+
+
+
+GRAF.
+ Ganz verlegen! Oui!
+
+
+
+GRÄFIN.
+ Sie haben gezittert! Und der Monsieur Dominique, fing er nicht an zu weinen?
+
+
+GRAF.
+ Comtesse! Sie stecken mir ein fünestes Licht auf.
+
+
+GRÄFIN.
+ Sagte er nicht ganz desperat zu dem Herrn Schwiegerpapa: – Erinnern Sie sich nicht, daß Sie mich in der Stellung gesehen haben?
+
+
+GRAF.
+
+C'est vrai! das hat er gesagt.
+
+
+GRÄFIN.
+ Ward da nicht die Verwirrung allgemein?
+
+
+GRAF.
+ Sie haben einen großen Geist, ma chere! Sie sehen alles, wie es ist. Ja – ich fange nun meiner Seits an, sie alle für eine schädliche Bande zu halten.
+
+
+GRÄFIN.
+ Wird es endlich Tag bey Ihnen? Gottlob! – Gleich zur Sache! Die Separat-Bedingung wird aufgehoben.
+
+
+GRAF.
+ Ich habe mich in dem Falle zu einer Geldbuße verpflichtet.
+
+
+GRÄFIN.
+ Besser Geld verloren, als Ehre!
+
+
+GRAF.
+ Auf das baar erhaltene Geld sind andere Gläubiger angewiesen.
+
+
+GRÄFIN.
+
+Quelle betise!
+
+
+
+GRAF.
+ Sie vergessen, wie exigeant die Kreditoren waren. Der Jude Dreyfuß ist uns hierher gefolgt –
+
+
+
+GRÄFIN.
+ Insolenter Bursche!
+
+
+GRAF.
+ In einem Kabriolet! Auch zwey zu Pferde.
+
+
+GRÄFIN.
+ Fahren Sie nur den alten Delomer recht an –
+
+
+GRAF.
+ Weswegen?
+
+
+GRÄFIN.
+ Lassen Sie mich machen!
+
+
+GRAF.
+ Was?
+
+
+GRÄFIN.
+ Mein Plan ist da.
+
+
+GRAF.
+ Welcher?
+
+
+GRÄFIN.
+ Ich werde einen solchen Rumor anfangen, und das Volk so zu blamiren drohen, daß sie, um ihre falsche Dignität zu erhalten, gern alle fernern Ansprüche sacrifiziren.
+
+
+GRAF.
+ Der Alte besteht auf der Heirath; auf diese Bedingung hat er das Gut so enorm theuer bezahlt.
+
+
+GRÄFIN.
+ Solche Leute haben keine Bedingungen zu machen.
+
+
+GRAF.
+ Aber sie haben doch nun den deutschen Adel.
+
+
+GRÄFIN.
+ Ich gebe meine Tochter nicht in ein neues Haus –
+
+
+GRAF.
+ Freylich! Aber unser altes Haus – es ist nur –
+
+
+GRÄFIN.
+ Nun?
+
+
+GRAF.
+ Ich meine –
+
+
+
+GRÄFIN.
+ Was?
+
+
+GRAF.
+ Es fällt uns über dem Kopfe zusammen.
+
+
+GRÄFIN.
+ So werden wir mit Ehren darunter erschlagen. Ich gehe aus der Stelle, alles gegen diese Heirath zu thun. Sie muß unmöglich werden. Und wenn alles nichts hilft, denunzirt man sie als Spitzbuben. Sie müssen dann unsre Versprechen zurück geben, und ihr nagelneues Diplom wird ihnen zerrissen und vor die Füße geworfen. Geht ab.
+
+
+
+GRAF.
+ Ja! Es klingt, bey Gott! schön; aber – die menschliche Foiblesse regt sich dagegen. Drum werde ich gleich auf die Realisirung des Ehedokuments, und die Auszahlung der ferneren 10000 Thaler dringen. Dann kann die Comtesse wüten, wie sie will! Denn ich für mein Theil möchte lieber in einem neuen Hause, wohlgenährt, auf eine Ottomanne mich nachlässig hinstrecken, als meinen Leichnam unter den Trümmern des alten Hauses admiriren lassen. Geht ab.
+
+
+
+
+
+
+
+
+
+11
+
+
+
+
+
+
+Eilfter Auftritt.
+
+Dominique Sohn. Mad. Dominique aus Delomers Zimmer.
+
+
+
+MADAM DOMINIQUE.
+ Du kannst ganz ruhig seyn, lieber Mann! Der Vorfall wird auf die Gesundheit meines Vaters gewiß keine nachtheilige Wirkung haben.
+
+
+DOMINIQUE
+
+unruhig.
+
+ Das kann man nicht wissen.
+
+
+MADAM DOMINIQUE.
+ Ich danke dir für deine herzliche Theilnahme. Aber nun mußt du heiter seyn, sonst verdirbst du meines Vaters Fest.
+
+
+DOMINIQUE.
+ Ein Fest?
+
+
+MADAM DOMINIQUE.
+ Ja, mein Freund! Glaubst du, mein Vater würde dich den Abend so leer ausgehen lassen? Er hat sich noch ein Vergnügen vorbehalten, und da wir so glücklich sind, daß dem Vater hier ist, so hat er auch seinen Theil daran. Jedermann hat alle Hände voll zu thun, und ich kann dabey nicht müßig seyn. Es wird dir wohlgefallen, sage ich dir. Es ist ganz auf deine Weise berechnet. Adieu, mein Freund! Sie küßt ihn geht.
+
+
+
+DOMINIQUE.
+ Das war meine Befürchtung, und nun trist sie ein. Woher konnte er sonst diese 
+großen Summen verwenden. Er hielt Valiere für todt – sicher ist sein Geld dazu verwendet, die Ausgaben zu machen, die mich so quälten, und die mich nun zur Verzweiflung treiben. Er sagt mir nichts – er ist zerstreut – unstät – er seufzt – in tiefes Nachdenken versunken! – Ich kann meine Sorge Niemanden entdecken, und doch muß ein Entschluß aus der Stelle genommen werden. Wie rathe ich mir?
+
+
+
+
+
+
+
+
+12
+
+
+
+
+Zwölfter Auftritt.
+
+Dominique Vater, und Sohn.
+
+
+
+DOMINIQUE V.
+ Nun, wie stehts da drinn?
+
+
+DOMINIQUE S.
+
+leiht. Gut, mein Vater! recht gut.
+
+
+DOMINIQUE V.
+ Hat sich Herr Delomer wieder erholt?
+
+
+DOMINIQUE S.
+ So ziemlich, ja.
+
+
+DOMINIQUE V.
+ Nun, so muß er zu dem Marquis gehen. Ohnehin wird er nicht säumen wollen, ihm Rechnung abzulegen. Keinen Augenblick darf er die Freude verschieben, dem Manne, der so viel gelitten hat, seine Reichthümer darzulegen.
+
+
+
+DOMINIQUE S.
+ Er wird es –
+
+
+DOMINIQUE V.
+ Wann?
+
+
+DOMINIQUE S.
+ Hernach.
+
+
+DOMINIQUE V.
+ Ja, diese Geschäftsmänner! Ueber allen ihren Formalitäten gehen ihnen die besten Augenblicke verloren.
+
+
+DOMINIQUE S.
+ Die Formalitäten – Sie haben recht, damit wird so vieles verdorben. – Könnten wir das nicht abkürzen, so daß alles auf einmal abgethan würde?
+
+
+DOMINIQUE V.
+ Recht so, Dominique!
+
+
+DOMINIQUE S.
+ Herr Delomer hat seine Papiere nicht hier.
+
+
+DOMINIQUE V.
+ Er weiß ja die Summe, und wo sie angelegt ist.
+
+
+DOMINIQUE S.
+ Freylich! – Aber da ist nun Herr Delomer mit einer kleinen Fete beschäftigt –
+
+
+DOMINIQUE V.
+ Giebts ein größeres Fest, als den Armen schnell reich zu machen?
+
+
+DOMINIQUE S.
+ Allerdings! Aber wie er nun ist – ehe er sich jetzt mit den Details abgiebt – so trainirt er. – Fragen Sie doch, als für sich, den Marquis, wie viel er an Herrn Delomer zu fordern habe?
+
+
+DOMINIQUE V.
+ Und das weißt du nicht?
+
+
+
+DOMINIQUE S.
+ Nein. Die letzte Zeit her war Herr Delomer sehr eifersüchtig, alle seine glücklichen Geschäfte allein zu treiben –
+
+
+DOMINIQUE V.
+
+mit Kopfschütteln. Wunderlich!
+
+
+DOMINIQUE S.
+ Um uns auch mit dem Erfolg zu überraschen. Ich, lieber Vater, gehe ganz in Ihre Ideen ein. Ich wünsche das Geschäft mit dem Marquis keinen Augenblick verschoben.
+
+
+DOMINIQUE V.
+ Dominique!
+
+
+DOMINIQUE S.
+ Lieber Vater!
+
+
+DOMINIQUE V.
+ Du bist sehr dringend.
+
+
+DOMINIQUE S.
+ Ihre Freude nicht aufzuhalten –
+
+
+DOMINIQUE V.
+ Du glühest über und über –
+
+
+DOMINIQUE S.
+ Ich? – Nun, sollte so viele Freude meinen Puls nicht treiben?
+
+
+DOMINIQUE V.
+ Auf deiner Stirne ist keine Freude.
+
+
+DOMINIQUE S.
+ Im Herzen, ist Gutes und Willen.
+
+
+DOMINIQUE V.
+ Hm! – Die Frage kann ich wohl thun.
+
+
+DOMINIQUE S.
+
+froh. Dann rufen Sie mich heraus!
+
+
+DOMINIQUE V.
+
+bejahet das.
+
+
+
+
+DOMINIQUE S.
+ Und geben die Antwort mir allein! So ists schön!
+
+
+DOMINIQUE V.
+ Ich gehe auf der Stelle. Geht.
+
+
+
+DOMINIQUE S.
+ Wohl, mein Vater! Geht auf und ab.
+
+
+
+DOMINIQUE V.
+
+kommt zurück. Dominique!
+
+
+DOMINIQUE S.
+ Lieber Vater!
+
+
+DOMINIQUE V.
+
+nimmt seine Hand. Ich verstehe dich. Er will gehen.
+
+
+
+DOMINIQUE S.
+
+hält ihn zurück. Mißverstehen Sie mich nicht!
+
+
+DOMINIQUE V.
+
+schließt ihn in seine Arme. Fühle an diesem Herzen, ob es dich mißverstehen kann. Geht schnell fort.
+
+
+
+DOMINIQUE S.
+ Nein! Nie darf Delomer über diesen Punkt bey einem so ehrlichen Manne, als mein Vater ist, verlieren. In Ewigkeit gebe ich diese Beschämung nicht zu. – Ich gehe zu Delomer – ich rede, wie ich fühle – ich reiße sein Vertrauen an mich. Fort! – gleich zu ihm! Er geht. Delomer kommt heraus.
+
+
+
+
+
+
+
+
+
+13
+
+
+
+
+
+
+Dreyzehnter Auftritt.
+
+Delomer. Dominique Sohn.
+
+
+
+DELOMER.
+ Ah! – Etwas betroffen. Sie sind hier allein?
+
+
+DOMINIQUE.
+ Ich war im Begriff, zu Ihnen zu gehen.
+
+
+DELOMER.
+ Nun – hier bin ich, lieber Dominique!
+
+
+DOMINIQUE.
+ Aber ich sehe, daß ich Sie aufhalte.
+
+
+DELOMER.
+ Ganz und gar nicht.
+
+
+DOMINIQUE.
+ Sie wollen zum Marquis gehen –
+
+
+DELOMER
+
+verlegen.
+
+ – Ja.
+
+
+DOMINIQUE.
+ Wie glücklich sind Sie?
+
+
+DELOMER.
+ Ach, Dominique!
+
+
+DOMINIQUE.
+ Sie sind erschöpft. Sie werden zu rechnen haben. Soll ich statt Ihrer arbeiten?
+
+
+DELOMER.
+ Bedauren Sie mich!
+
+
+DOMINIQUE.
+ Sehen Sie diese Schwäche nicht für Abnahme der Kräfte an! Dieses Uebermaß des Gefühls, dem Ihr Körper erliegt, ist der Triumph schöner Seelen.
+
+
+
+DELOMER.
+ Grausamer Sohn!
+
+
+DOMINIQUE.
+ Ich will Ihnen alles erleichtern. Deshalb habe ich den Marquis um den Betrag der Summe fragen lassen, die er Ihnen anvertraut hat.
+
+
+DELOMER
+
+hastig.
+
+ Warum haben Sie das gethan?
+
+
+DOMINIQUE.
+ Damit Sie recht bald alles mit ihm berichtigen können.
+
+
+DELOMER.
+ Das kann ich nicht –
+
+
+DOMINIQUE.
+ Ich ehre so sehr Ihre Pünktlichkeit. Nichts soll Sie hindern, auch hier Ihren alten Grundsätzen zu folgen.
+
+
+DELOMER.
+ Der Marquis galt überall, all überall für todt. Er ist ohne nahe und weitläuftige Verwandte.
+
+
+DOMINIQUE.
+ Nicht ohne treue Freunde. Sie sind Einer seiner ältesten Freunde.
+
+
+DELOMER.
+ Sie reißen mein Geheimniß mir aus der Seele. – Nun – so mögen Sie es denn wissen! Weil ich ihn nach den genauesten Nachrichten für todt halten mußte, habe ich sein Geld verwendet.
+
+
+DOMINIQUE.
+ So geben Sie ihm die Verwendung!
+
+
+DELOMER.
+ Das geht nicht an.
+
+
+DOMINIQUE.
+ Geben Sie ihm all unsern Besitz.
+
+
+
+DELOMER.
+ Er wird Wechsel wollen.
+
+
+DOMINIQUE.
+ Verkaufen wir, was wir haben.
+
+
+DELOMER.
+ Nein! Ich werde ihm sein Kapital verzinnsen.
+
+
+DOMINIQUE.
+ Er ist Herr seines Vermögens.
+
+
+DELOMER.
+ Nicht in diesem Augenblick.
+
+
+DOMINIQUE.
+ Ihre Ehre fordert augenblickliche Rechenschaft.
+
+
+DELOMER.
+ Das kann ich nicht.
+
+
+DOMINIQUE.
+ Nichts kann Sie davon entbinden.
+
+
+DELOMER.
+ Das Warbingsche Gut ist dafür gekauft –
+
+
+DOMINIQUE.
+ Ihr Privat, Vermögen –
+
+
+DELOMER.
+ Ist viel geringer, wie Sie glauben.
+
+
+DOMINIQUE.
+ Nehmen Sie alles, was wir haben!
+
+
+DELOMER.
+ Ich gebe die Plane für meine Kinder nicht auf.
+
+
+DOMINIQUE.
+ Nie sollen unsre Nachkommen über unsre Liebe für sie erröthen dürfen.
+
+
+DELOMER.
+ Dominique!
+
+
+DOMINIQUE.
+ Vater!
+
+
+
+DELOMER.
+ Das Gut ist gekauft, bezahlt, und auf Bedingungen gewonnen, die nur Sie erfüllen können.
+
+
+DOMINIQUE.
+ Nicht einen Augenblick kann ich Sie im falschen Lichte erscheinen sehen, und das ist der Fall, wenn Sie nicht heute noch mit dem Marquis sich berechnen, und bald ihn auszahlen.
+
+
+DELOMER.
+ Ich werde das Seine hoch verzinnsen. –
+
+
+DOMINIQUE.
+ Sie müssen ihn bezahlen.
+
+
+DELOMER.
+ Ich muß – ich muß – welch ein Ton!
+
+
+DOMINIQUE.
+ Die Angst der Sohnestreue entschuldige meine Worte!
+
+
+DELOMER.
+ Sie bleibe bescheiden!
+
+
+DOMINIQUE.
+ Ich kann es nicht ertragen, Sie meinem Vater gegenüber beschämt zu sehen.
+
+
+DELOMER.
+ Ich bin ihm alles schuldig; aber durch die Pedanterie eines Vorurtheils soll er mir nicht alles wieder nehmen.
+
+
+DOMINIQUE.
+ Ich verkaufe alles –
+
+
+DELOMER.
+ Was ist das?
+
+
+DOMINIQUE.
+ Zahle Ihre Schuld.
+
+
+DELOMER.
+ Das verbiete ich.
+
+
+DOMINIQUE.
+ Die Liebe für Ihren Namen und Ihre Ruhe befiehlt es. Ich ziehe fort.
+
+
+
+DELOMER.
+ Wohin?
+
+
+DOMINIQUE.
+ Mit meinem Vater.
+
+
+DELOMER.
+ Und wer bin ich?
+
+
+DOMINIQUE.
+ Ihr eigner Feind.
+
+
+DELOMER.
+ Herr über meine Handlungen.
+
+
+DOMINIQUE.
+ Nicht über mein Gefühl. Gern und willig verlasse ich diese erzwungene Herrlichkeit, die mich drückt, ziehe mit Weib und Vater in meine Heimath. Dort führe ich den Schubkarren meines Vaters für unsere Erhaltung, und so erwarte ich den Augenblick, wo Sie sich selbst wieder finden, und den Sohn segnen wollen, der rasch den Namen des gnädigen Herrn weggiebt, um den Ehrentitel des guten Sohnes zu erhalten. Geht.
+
+
+
+DELOMER.
+ Halt!
+
+
+DOMINIQUE.
+ Fort!
+
+
+DELOMER.
+ Wohin?
+
+
+DOMINIQUE.
+ Zur Sache!
+
+
+DELOMER.
+ Nicht von der Stelle.
+
+
+DOMINIQUE.
+ Alles geschieht schon.
+
+
+DELOMER.
+ Ohne mich?
+
+
+DOMINIQUE.
+ Aber in Ihrem Namen.
+
+
+DELOMER.
+ Das ist gewiß?
+
+
+DOMINIQUE.
+ Aus Ehre!
+
+
+DELOMER.
+ Was haben Sie der Gattin und dem Sohne zu verschenken?
+
+
+
+DOMINIQUE.
+ Einen untadelhaften Namen des Vaters zu erhalten.
+
+
+DELOMER.
+ Fort! Mir aus den Augen! Nimmermehr vergebe ich Ihnen das. Wenn ich zu weit gehe, für wen thue ich es? – Für dich, Undankbarer! der du meine Schwäche aus Zärtlichkeit so hartherzig behandelst. Geht.
+
+
+
+DOMINIQUE
+
+hält ihn auf.
+
+ War ich hart? Vergebung für jede Silbe! – ach – nicht Eine sollte weh thun! Die Ruhe eines guten Mannes will die Liebe. Spricht denn die treue Liebe nicht mehr aus dem Herzen, daran Sie so oft Ihr Haupt lehnten, wenn Stürme Sie quälten?
+
+
+DELOMER.
+ Lieber Dominique! gehen Sie zurück!
+
+
+DOMINIQUE.
+ Ich kann nicht.
+
+
+DELOMER.
+ Ich auch nicht. Ich kann nicht, und ich will nicht.
+
+
+DOMINIQUE
+
+zuckt die Achseln.
+
+
+
+DELOMER.
+ Was soll nun werden?
+
+
+DOMINIQUE
+
+die Hand aufs Herz.
+
+ Das steht hier niedergeschrieben. Geht ab.
+
+
+
+
+
+
+
+
+
+4. Akt
+
+
+
+
+
+1
+
+
+
+
+Erster Auftritt.
+
+Neurath. Schulz.
+
+
+
+SCHULZ.
+ Wie können Sie über meine Sorge ungeduldig werden? Das ist denn doch wahrhaftig ganz begreiflich, daß wir gern wissen wollen, woran wir sind.
+
+
+NEURATH.
+ Es wird sich ausweisen.
+
+
+SCHULZ.
+ Der gnädige Herr Graf hat uns verkauft; der Käufer giebt uns in andere Hand. Dort werden wir auch nicht angenommen. –
+
+
+NEURATH.
+ Es mag werden, wie es wolle, so wißt ihr doch das, ohne Herrn werdet ihr nicht bleiben. Ob es nun der ist, oder ein Anderer, das kann Euch gleich viel seyn.
+
+
+SCHULZ.
+ Mit nichten, Herr Gerichtshalter!
+
+
+NEURATH.
+ Laßt mich ungeschoren!
+
+
+
+SCHULZ.
+ Nun – ja. Das ist eine Redensart, die wir ehedem wohl zu Ihnen hätten sagen mögen.
+
+
+NEURATH.
+ Das?
+
+
+SCHULZ.
+ Als Sie uns so scharf geschoren haben, meine ich.
+
+
+
+
+
+
+
+
+2
+
+
+
+
+Zweyter Auftritt.
+
+Vorige. Delomer. Hernach Bedienter.
+
+
+
+DELOMER
+
+tritt in merklicher Unruhe und Bewegung ein.
+
+ Ist mein Sohn nicht hier?
+
+
+NEURATH.
+ Ich komme eben mit ihm von der Promenade.
+
+
+DELOMER.
+ Wo ist er hingegangen?
+
+
+NEURATH.
+ In den Garten.
+
+
+DELOMER
+
+schellt.
+
+
+
+SCHULZ.
+ Gnädiger Herr! Sagen Sie uns doch, was wird aus uns?
+
+
+DELOMER.
+ Glückliche Leute, so hoffe ich.
+
+
+BEDIENTER tritt ein.
+
+
+DELOMER.
+ Horfmann soll kommen.
+
+
+BEDIENTER geht.
+
+
+DELOMER
+
+ihm nach.
+
+ Aber gleich!
+
+
+
+SCHULZ.
+ Wem gehören wir denn an?
+
+
+DELOMER.
+ – Meinem Sohne.
+
+
+SCHULZ
+
+freudig.
+
+ Dabey bleibt es?
+
+
+DELOMER.
+ Unabänderlich.
+
+
+SCHULZ.
+ Das will ich den Uebrigen aus unserm Orte sagen. Damit werde ich große Freude anrichten; denn der junge gnädige Herr wird von allen geehrt und geliebt. Geht ab.
+
+
+
+DELOMER
+
+bey Seite.
+
+ Der Undankbare! Wie glück lich könnte er seyn!
+
+
+NEURATH.
+ Es ist nicht genug zu wünschen, daß Euer Gnaden den Handel durch Aushändigung der, von dem Herrn Sohne und Frau Tochter vollzogenen, Vermählungsurkunde abschließen.
+
+
+DELOMER
+
+sehr unruhig.
+
+ Freylich! Wovon hat mein Herr Schwiegersohn sich mit Ihnen unterhalten?
+
+
+NEURATH.
+ – Von dem Ertrag des Gutes und dessen Werth.
+
+
+DELOMER.
+ Hat er nicht merken lassen, ob es ihm Freude macht –
+
+
+NEURATH.
+ Nein. Es war ihnen überhaupt gar nichts anzumerken. Etwas Zerstreuung, nebst untermischten Seufzern, ließ sich deutlich erkennen. Zuletzt fragten mich der Herr von Dominique noch, wie hoch ich ihr Gut, nach dem getroffenen Meliorationen bey einem Verkauf in Werth hielte! –
+
+
+
+DELOMER.
+ Nehmlich das neugekaufte gräfliche Gut?
+
+
+NEURATH.
+ Bitte um Verzeihung. Dieses eigenthümlich hochadelich von Dominiquesche Gut.
+
+
+DELOMER
+
+betroffen.
+
+ Dieses –
+
+
+NEURATH.
+ Wo wir gegenwärtig uns befinden.
+
+
+DELOMER.
+ So? Er wird nachdenkend und unruhig; nach kürzer Pause etwas schnell, und mit einer Verbeugung den Neurath entlassend. Ich werde eilen, alles in Ordnung zu bringen.
+
+
+
+
+
+
+
+
+3
+
+
+
+
+Dritter Auftritt.
+
+Vorige. Horfmann.
+
+
+
+NEURATH.
+ Ich muß bitten. Es stehen Euer Gnaden sonst Verdrüßlichkeiten bevor, welche ich gern beseitigen möchte. Geht ab.
+
+
+
+DELOMER
+
+zu Horfmann.
+
+ Wo ist meine Tochter?
+
+
+HORFMANN.
+ Sie sind im Garten.
+
+
+DELOMER.
+ Allein?
+
+
+HORFMANN.
+ Bey den Arbeitern. Sie sind alldorten mit den Anstalten zur Festlichkeit des Abends beschäftigt.
+
+
+
+DELOMER
+
+seufzt und wendet sich ab.
+
+
+
+HORFMANN.
+ Ach! Ich bin ja aber ganz erschrocken.
+
+
+DELOMER
+
+faßt sich.
+
+ Weshalb?
+
+
+HORFMANN.
+ Ueber das, was der Herr Neurath sagte, – daß Euer Gnaden Verdrüßlichkeiten bevorständen –
+
+
+DELOMER.
+ Rufe Er meine Tochter zu mir! Sie soll gleich kommen. Er geht lebhaft auf und ab.
+
+
+
+HORFMANN
+
+schlägt ängstlich die Hände zusammen und geht.
+
+
+
+DELOMER.
+ Horfmann!
+
+
+HORFMANN
+
+kommt.
+
+ Gnädiger Herr!
+
+
+DELOMER.
+ Wenn Er meinen Schwiegersohn zum Marquis gehen sieht, – so rufe Er ihn auf der Stelle ab, und schicke Er ihn daher!
+
+
+HORFMANN.
+ So? – Geht. Sehr wohl!
+
+
+
+
+
+
+
+
+4
+
+
+
+
+Vierter Auftritt.
+
+Vorige. Bedienter.
+
+
+
+BEDIENTER.
+ Sr. Excellenz, der Herr Graf verlangen den Herrn von Delomer zu sprechen. –
+
+
+DELOMER
+
+sehr unruhig.
+
+ Ich werde bald zu ihm kommen.
+
+
+
+BEDIENTER.
+ Es wäre sehr dringend.
+
+
+DELOMER.
+ Bald! bald! Ich bäte nur um eine kleine Geduld.
+
+
+BEDIENTER
+
+geht ab.
+
+
+
+HORFMANN.
+ Gnädiger Herr!
+
+
+DELOMER.
+ Was giebts?
+
+
+HORFMANN.
+ Wenn aber nun der junge gnädige Herr nicht zum Herrn Marquis gehen?
+
+
+DELOMER.
+ So ruft Er ihn nicht ab.
+
+
+HORFMANN.
+ Nun verstehe ich. Geht. Wenn er aber nun bey dem Herrn Marquis ist, soll ich ihn gleich oder erst nach einer Weile abrufen?
+
+
+DELOMER.
+ Gleich!
+
+
+HORFMANN.
+ So, so! – Wenn aber nun der Herr Marquis zum Herrn von Dominique geht?
+
+
+DELOMER.
+ So ruft Er Herrn von Dominique doch ab! Das ist dasselbe.
+
+
+HORFMANN.
+ Sehr wohl. – Euer Gnaden verzeihen! wenn nun aber beide Herren mit einander spazieren gehen – was thue ich dann?
+
+
+DELOMER
+
+ungeduldig.
+
+ Er ruft ihn ab.
+
+
+HORFMANN.
+ So, so, so! Der eigentliche Zweck scheint also der zu seyn, daß beide Herren nicht mit einander reden?
+
+
+DELOMER.
+ Um den Zweck hat Er sich nicht zu bekümmern. Er thut, was ich Ihm befehle.
+
+
+
+HORFMANN.
+ Allemal. Wenn man aber doch den Zweck eines Befehles weiß, so gehorcht man mit mehrerer gesunden Vernunft, als gewöhnlich employirt wird. Geht ab.
+
+
+
+DELOMER.
+ Ich übersehe den Plan, den meines Sohnes romantische Ehrlichkeit sich vorgelegt hat. Pause. Das darf nicht seyn! – Er geht auf und ab. Ich gebe nichts auf. Ich werde alle Schwierigkeiten ausgleichen, und gegen seinen Willen will ich sein Glück machen, und das seiner Nachkommen. Ich weiß, es kommt eine Zeit, wo er es mir danken wird.
+
+
+
+
+
+
+
+
+5
+
+
+
+
+Fünfter Auftritt.
+
+Delomer. Graf.
+
+
+
+GRAF.
+ Ich komme Ihnen vielleicht ungelegen?
+
+
+DELOMER.
+ Aufrichtig gesprochen! Jetzt bin ich wohl etwas beschäftigt –
+
+
+GRAF.
+ Aber wir müssen uns sprechen.
+
+
+DELOMER.
+ Die Fremden beschäftigen uns.
+
+
+GRAF.
+ Ihr Herr Schwiegersohn ist sehr allarmirt! Ist ihm etwas zugestoßen?
+
+
+DELOMER.
+ Die plötzliche Ankunft –
+
+
+
+GRAF.
+ Ja, ja. Aber er ist distrait; il est reveur –
+
+
+DELOMER.
+ Er ist ein junger Mensch, – den – mehr als mir lieb ist, manche Schwärmerey den Sinn verkehrt –
+
+
+GRAF.
+ Also zu vollblütig!
+
+
+DELOMER.
+ Die neuern Schriften haben ihn zu ernst und reitzbar gemacht. – Erfahrung wird das schon abkühlen.
+
+
+GRAF.
+ Abkühlen? So! Dann empfehle ich Ihnen mein rothes Pulver.
+
+
+DELOMER
+
+unmuthig.
+
+ Ach! da liegt das Uebel nicht.
+
+
+GRAF.
+ Das Pulver thut Wunder. Könnte ich die Comtesse, meine Gemahlin, bereden, es zu gebrauchen, so erlebte ich manchen vehementen Auftritt nicht.
+
+
+DELOMER.
+ In der That, die Frau Gräfin ist sehr heftig.
+
+
+GRAF.
+ Ich bin es zwar nun schon gewohnt –
+
+
+DELOMER.
+ Manchmal, ich kann es nicht bergen, recht –
+
+
+GRAF.
+ Recht heroisch? ja.
+
+
+DELOMER.
+ Recht beleidigend heftig.
+
+
+GRAF.
+ Das kommt von den Vorfahren. Ihre meisten Ahnherren waren kommandirende Generale. Ihr hochseliger Großherrvater unter andern – es ist der, welcher im großen Saale mit 
+dem Helm in der Hand gemahlt ist, er hängt über dem Buvet –
+
+
+DELOMER.
+ Vergebung! Unruhig. Ich muß bitten, zur Sache zu kommen.
+
+
+GRAF.
+ In allem Betracht sehr gern. Mein bester Herr von Delomer, es ist Ihnen bekannt, daß Sie bey dem Verkauf des Gutes über mich vermögt haben –
+
+
+DELOMER.
+ Ich bitte nur gerade die Sache zu nennen. Wir dürften sehr bald unterbrochen werden.
+
+
+GRAF.
+ Nun ja. Daß Sie die Vermählung meiner Gräfin Tochter mit Ihrem Herrn Großsohn, und die weitere Zahlung von 10000 Thaler an mich, zwar als geheime Bedingung, aber als conditio, sine qua non, festgesetzt haben.
+
+
+DELOMER.
+ Ja.
+
+
+GRAF.
+ Das Gut ist Ihnen überliefert.
+
+
+DELOMER.
+ Und Ihnen die Kaufsumme.
+
+
+GRAF.
+ Richtig. Ich habe aber freundschaftliche und andere sehr nöthige Ursachen, auf Vollziehung der Vermählungsakte, durch Unterschrift Ihrer Kinder ungesäumt zu dringen.
+
+
+DELOMER
+
+betroffen.
+
+ Doch nicht in diesem Augenblick?
+
+
+GRAF.
+ Spätestens vor Ablauf einer Stunde.
+
+
+DELOMER
+
+empfindlich.
+
+ Bin ich Ihnen nicht sicher?
+
+
+
+GRAF.
+ Sie? – O ja! sehr sicher!
+
+
+DELOMER.
+ Also?
+
+
+GRAF.
+ Meine Gemahlin will diese Verbindung durchaus nicht, od –
+
+
+DELOMER.
+ Die Verhandlung ist mit Ihnen abgeschlossen.
+
+
+GRAF.
+ Ja. Wenn Sie mir aber nicht plötzlichst die Urkunde verschaffen, daß ich meiner Gemahlin alles, wie eine abgemachte Sache vorlegen kann – so muß ich ihr gegen meinen Willen nachgeben.
+
+
+DELOMER.
+ Und was verlangt die Frau Gräfin?
+
+
+GRAF.
+ Daß die geheime Bedingung, als erschlichen angesehen, kassirt, und ohne alle Weiterung aufgehoben werde.
+
+
+DELOMER.
+ Wer hätte denn, ohne Rücksicht dieser Art, für das Gut so viel gegeben, als ich – unverzeihlicherweise dafür bezahlt habe?
+
+
+GRAF.
+ Darüber mag sie denn doch wohl sehr sichere Plane haben. Ueberdem – car la Comtesse est une Dame de beaucoup d'esprit – elle a fait des combinaisons – sie will hinter gewisse geheime epineuse Angelegenheiten der Ihrigen gekommen seyn.
+
+
+DELOMER
+
+verlegen.
+
+ Geheime Angelegenheiten? – welche?
+
+
+
+GRAF.
+ Sie will mancherley penetrirt haben, und was weiß ich, wie sie unter den Umständen procediren könnte.
+
+
+DELOMER.
+ Sagen Sie mir geradezu –
+
+
+GRAF
+
+nimmt freundlich Delomers beide Hände.
+
+ Lieber Baron! der beste, vertneufeste Mensch kann doch so ein Winkelchen haben, wohin er das Licht nicht Kern gebracht sieht.
+
+
+
+
+
+
+
+
+6
+
+
+
+
+Sechster Auftritt.
+
+Vorige. Horfmann.
+
+
+
+HORFMANN.
+ Die gnädige Frau von Dominique sind so eben zu dem Herrn Gemahl gerufen. Nachher wollen sie sogleich –
+
+
+DELOMER.
+ Ich lasse meine Tochter rufen, und ich verlange sie gleich aus der Stelle.
+
+
+HORFMANN.
+ Sehr wohl! Geht ab.
+
+
+
+GRAF.
+ Lieber Baron, ich bin ein aufrichtiger Freund und Nachbar. Folgen die mir, spielen Sie mir die Urkunde von den lieben Kindern in die Hände, und zahlen Sie mir, je eher, je lieber die noch versprochenen 10000 Thaler aus. Sonst steht Ihnen etwas – wie soll ich mich expliciren – Schmachartiges bevor.
+
+
+
+DELOMER.
+ Wenn Sie mich böse machen, Herr Graf, so hebe ich alles auf. Ich erlasse Ihnen Ihr Wort, und Sie zahlen mir die 20000 Thaler zurück, die ich nach Ihrem eignen Geständnisse über den Werth des Gutes bezahlt habe.
+
+
+GRAF.
+ O, der Handel ist einmal geschlossen; das Geständnis war bloß mündlich, ich erinnere mich seiner nicht einmal mehr, und erwarte sehr ruhig, ob Sie, aus dem nie genug zu bestimmenden Werth des Gutes, die zu hoch angeschlagene Kaufsumme so gerichtlich darthun können, daß ich in deren Ersatz verurtheilt werde. Gegen die projektrirte Familienverbindung sichert mich Ihr, nie erweislich zu machender, mir vorgespiegelter Adel.
+
+
+DELOMER.
+ Herr Graf, wie muß ich Sie kennen lernen?
+
+
+GRAF.
+ Als einen vorsichtigen Kavalier! Und was ich Ihnen zuletzt aus wahrer Freundschaft noch sage – ist das – seyn Sie gleichfalls vorsichtig!
+
+
+DELOMER
+
+schlägt die Hände zusammen.
+
+ Es ist schändlich! Aber in diesem Augenblick ist die Mißhandlung mir willkommen. – Einen so ungeheuren Verlust können weder Vater noch Sohn mir zumuthen. Sie werden zürnen; – aber sie werden sich fügen. – Jetzt Muth im Sturme, so landen wir bald im Hafen.
+
+
+
+
+
+
+
+
+7
+
+
+
+
+
+
+Siebenter Auftritt.
+
+Delomer. Madam Dominique.
+
+
+
+MADAM DOMINIQUE.
+ Sind Sie sehr eilig, lieber Vater –
+
+
+DELOMER.
+ Ja!
+
+
+MAD.
+ DOMINIQUE. Mein Mann wünscht, daß ich –
+
+
+DELOMER.
+ Und dein Vater verlangt diesen Augenblick. Gieb mir den Vorzug! Du weißt, daß davon in sechs Jahren niemals die Rede war –
+
+
+MADAM DOMINIQUE
+
+niedergeschlagen.
+
+ Befehlen Sie –
+
+
+DELOMER
+
+herzlich.
+
+ Du weißt, daß ich deinen Mann so zärtlich liebe, als dich.
+
+
+MADAM DOMINIQUE.
+ Sie geben uns jeden Tag Beweise davon. Wir können das kostbare Geschenk, was Sie heute geben, nicht inniger verehren; als jeden liebevollen Blick, den Sie uns schenken.
+
+
+DELOMER.
+ Julie! belohne deinen Vater für seine Liebe!
+
+
+MADAM DOMINIQUE.
+ Kann ich das? Sagen Sie mir schnell, wodurch? Sie faßt seine beiden Hände.
+
+
+
+
+DELOMER.
+ Durch ein Versprechen, was ich von dir unbedingt fordere.
+
+
+MADAM DOMINIQUE
+
+zieht unwillkührlich eine Hand zurück.
+
+ Ein Versprechen?
+
+
+DELOMER.
+ Du wankst?
+
+
+MADAM DOMINIQUE.
+ Mein Herz wankt nicht, und Ihr Herz, lieber Vater, hat gewiß bedacht, daß ich Pflichten habe –
+
+
+DELOMER.
+ Die Pflicht für deinen Vater ist die ältere. Gelobe mir, daß du mich nie verlassen willst!
+
+
+MADAM DOMINIQUE
+
+erschrocken.
+
+ Mein Gott! Ist denn davon die Rede?
+
+
+DELOMER.
+ Gieb mir dein kindliches Gelübde!
+
+
+MADAM DOMINIQUE
+
+mit Herzensangst.
+
+ Was kann uns trennen?
+
+
+DELOMER
+
+sehr weich.
+
+ Julie! laß mich nicht allein und fern von dir sterben! Mit Wehmuth. Versprich es mir, daß deine Hand meine Augen schließen soll!
+
+
+MADAM DOMINIQUE
+
+rasch und herzlich.
+
+ Ja, das verspreche ich.
+
+
+DELOMER
+
+umarmt sie.
+
+ So! – Nun ist alles gut.
+
+
+MADAM DOMINIQUE.
+ Was steht mir bevor! O lassen Sie mich alles wissen! Ich beschwöre Sie darum.
+
+
+
+DELOMER.
+ Du hast mir jetzt die Ruhe meines Lebens gegeben. Nun geh ohne Sorge deinen Geschäften nach!
+
+
+MADAM DOMINIQUE
+
+geht schwermüthig, kommt zurück.
+
+ Ich darf meinem Manne sagen, was unter uns vorgegangen ist?
+
+
+DELOMER
+
+leicht.
+
+ Wozu ist das nöthig?
+
+
+MADAM DOMINIQUE.
+ Ich habe nie ein Geheimniß vor ihm gehabt.
+
+
+DELOMER.
+ Glaubst du, daß dein Mann dein Gelübde mißbilligen würde?
+
+
+MADAM DOMINIQUE.
+ Warum fordern Sie nicht dasselbe von ihm?
+
+
+
+
+
+
+
+
+8
+
+
+
+
+Achter Auftritt.
+
+Vorige. Dominique Sohn.
+
+
+
+DELOMER.
+ Laß uns, meine Tochter!
+
+
+MADAM DOMINIQUE
+
+nimmt ihres Vaters Hand.
+
+ Bin ich denn unter Ihnen beiden zu viel? Zärtlich zu Dominique. Dominique! – muß ich gehen?
+
+
+DOMINIQUE S.
+ Ich heiße dich nicht gehen, liebe Frau!
+
+
+
+DELOMER.
+ Wir haben von Geschäften zu reden, mein Kind!
+
+
+MADAM DOMINIQUE.
+ Gieb mir deine Hand!
+
+
+DOMINIQUE S.
+
+reicht sie ihr herzlich.
+
+
+
+MADAM DOMINIQUE
+
+führt ihn zu Delomer, nimmt seine Hand, und legt sie in Dominiques Hand.
+
+Ach! der schönen Zeit, wo kein Geheimniß unter uns war!
+
+
+
+DOMINIQUE S.
+
+seufzt.
+
+
+
+DELOMER
+
+sieht verlegen abwärts.
+
+
+
+MADAM DOMINIQUE.
+ Sie wird uns wiederkehren. Sie thun beider Hände an ihr Herz. So bleiben wir treu vereint! Ihre Thränen hemmen ihre Worte. Und niemals wird dieser Bund zerrissen – niemals werden wir uns trennen. Geht ab.
+
+
+
+
+
+
+
+
+
+9
+
+
+
+
+Neunter Auftritt.
+
+Delomer. Dominique Sohn.
+
+
+
+DOMINIQUE S.
+
+faltet die Hände und sieht an den Boden.
+
+
+
+DELOMER
+
+legt die Hand auf seine Schulter.
+
+ So sey es! Er geht rasch von ihm.
+
+
+
+
+DOMINIQUE S.
+
+folgt ihm etliche Schritte, und fragt herzlich. Was ist hier vorgegangen?
+
+
+DELOMER
+
+er deutet mit der Hand, daß das auf sich beruhen solle; dann sagt er mit Ernst.
+
+ Dominique! – Ich verzeihe den Ungestüm, womit Sie mich vorhin verlassen haben. Er reicht ihm die Hand und sanfter. weil ich noch niemals Ihnen etwas zu verzeihen hatte.
+
+
+DOMINIQUE S.
+
+küßt seine Hand. Es ist unmöglich, daß Sie mein Herz verkennen konnten.
+
+
+DELOMER.
+ Aber – jetzt verlange ich Fassung. Ich habe nun mit dem Marquis gesprochen, – lange gesprochen.
+
+
+DOMINIQUE S.
+
+mit Ehrerbietung. Und was haben Sie ihm gesagt?
+
+
+DELOMER.
+ Daß ich 250000 Livres vor fünf Jahren für ihn empfangen habe.
+
+
+DOMINIQUE S.
+ Wohl!
+
+
+DELOMER.
+ Das habe ich ihm rund erklärt.
+
+
+DOMINIQUE S.
+
+gutmüthig. Und wegen der Rückzahlung dieses Geldes an ihn –
+
+
+DELOMER.
+ In der That, er dürfte ein ungünstiges Schicksal belebt haben, wenn sein Vermögen in andre Hände gekommen wäre.
+
+
+DOMINIQUE S.
+
+treuherzig. Gott sey gedankt, daß sein Loos in Ihren Händen ist!
+
+
+DELOMER.
+ Es ist nur zu oft geschehen, daß unter begünstigenden Umständen, Summen, die 
+so unvorsichtig, auf Gerathewohl, übermacht waren –
+
+
+DOMINIQUE S.
+
+schnell. Daß diese, als fremdes Gut, sehr hazardirt gebraucht worden sind. –
+
+
+DELOMER.
+ Man hat sie, leider! auch wohl ganz und gar abgeläugnet.
+
+
+DOMINIQUE S.
+
+will reden, schweigt, steht vor sich nieder.
+
+
+
+DELOMER
+
+der seine Betroffenheit fühlt.
+
+ Ich will damit nur sagen, daß des Marquis Loos sehr glücklich vor vielen andern ist.
+
+
+DOMINIQUE S.
+
+niedergebeugt. Allerdings.
+
+
+DELOMER.
+ Ich habe ihm die ganze Verzinnsung vorgerechnet –
+
+
+DOMINIQUE S.
+
+belebt. Das ist schön! –
+
+
+DELOMER.
+ Und zum Kapital geschlagen.
+
+
+DOMINIQUE S.
+
+bekümmert. So? – Schonend. Und wann haben Sie die Rückzahlung des Kapitals an ihn festgesetzt?
+
+
+DELOMER
+
+etwas unmuthig.
+
+ Er hat davon nichts gesagt.
+
+
+DOMINIQ.
+ S. erstaunt, doch kindlich. Sie auch nicht?
+
+
+DELOMER
+
+etwas trocken.
+
+ Nein. Er geht einige Schritte von ihm.
+
+
+
+DOMINIQUE S.
+
+der ebenfalls bey Seite geht, den Kopf schüttelnd, für sich. Mein Gott!
+
+
+
+DELOMER.
+ Er hat keine Verwandte – kann ich nicht beynahe darauf rechnen, das sein Herz ihm einige Verbindlichkeit für den auferlegt, der sein Glück ihm bewahrt hat? Und darf ich nicht in dieser Rücksicht –
+
+
+DOMINIQUE S.
+
+mit unterdrücktem Unwillen. Auf diesem Wege wird ihm ein Testament für Sie abgedrungen.
+
+
+DELOMER
+
+bricht mit Zorn ab.
+
+ Sie sind von einem Starrsinn, – Er geht von ihm. von einer Härte, die mich beleidigt.
+
+
+DOMINIQUE S.
+
+legt seine gefalteten Hände auf die Brust, verbeugt sich etwas mit dem Kopfe, und sagt im innerlichen Kampfe. Verschonen Sie mich! Ich kann in Ihre Ideen nicht eingehen.
+
+
+DELOMER
+
+gereitzt.
+
+ Wie?
+
+
+DOMINIQUE S.
+
+mit dem Ausbruch seiner Gefühle. Nein, den Druck dieser Dinge und einer solchen Lebensweise ertrage ich nicht. Mit Schmerz. Ich kann es nicht – es ist unmöglich. Geht lebhaft umher.
+
+
+
+DELOMER
+
+heftig.
+
+ Ich durchschaue Sie ganz. Sie gehen damit um, den Marquis zu bezahlen?
+
+
+DOMINIQUE S.
+ Ich bitte, daß ich zu Ihrer Erleichterung es dürfe.
+
+
+DELOMER.
+ Ihr Gut zu verkaufen –
+
+
+DOMINIQUE S.
+ Anders kann ich nicht bezahlen.
+
+
+
+DELOMER
+
+etwas herabgestimmt.
+
+ Wovon leben, wenn Ihr Gut dahin ist?
+
+
+DOMINIQUE S.
+
+sanft. Von der Arbeit, wie sonst.
+
+
+DELOMER.
+ Wo?
+
+
+DOMINIQUE S.
+
+mit Sehnsucht. Im Vaterlande.
+
+
+DELOMER.
+ So ists mit Ihrem Vater verabredet? Ich begreife.
+
+
+DOMINIQUE S.
+
+rasch und kräftig. Mein Ehrenwort darauf – daß von Ihrer Lage mit dem Marquis mein Vater nicht eine Silbe weiß. Mit Feuer. Nicht eine Silbe!
+
+
+DELOMER.
+ Ist das gewiß?
+
+
+DOMINIQUE S.
+ Auf Ehre!
+
+
+DELOMER
+
+reicht ihm abgewandt die Hand.
+
+ Ich danke dafür.
+
+
+DOMINIQUE S.
+
+umarmt ihn. Lassen Sie mich Ihnen doch alles verdanken! Bezahlen Sie den Marquis, und –
+
+
+DELOMER.
+ Unbarmherziger Mensch! – ich kann es ja nicht. Bey Gott! ich kann es nicht, und ich gehe nicht zurück.
+
+
+DOMINIQUE S.
+
+tritt zurück.
+
+
+
+DELOMER.
+ Der Schande setze ich mich nicht aus. Thun Sie, was Sie wollen; – aber das sage ich Ihnen, meine Tochter wird mich nicht verlassen. Ich habe ihre Gelübde, daß sie mein Auge schließen will; und ich sterbe hier, hier, wo Sie 
+mein Werk zernichten. Wollen Sie mich verlassen, so müssen Sie auch Ihr Weib verlassen. Wagen Sie es! darauf, so vergebe Ihnen Gott meinen Gram, mein trostloses Leben, und die Verachtung meiner treuen Vatersorge. Geht.
+
+
+
+DOMINIQUE S.
+ Das habe ich nicht verdient. Er stutzt sich auf einen Stuhl.
+
+
+
+
+
+
+
+
+
+10
+
+
+
+
+Zehnter Auftritt.
+
+Dominique Vater. Marquis, welche Delomer in der Thüre aufhalten. Dominique Sohn.
+
+
+
+DOMINIQUE V.
+ Wir haben großen Rath zu halten. Sie müssen mit uns umkehren, lieber Delomer!
+
+
+DOMINIQUE S.
+
+sammelt sich und will gehen.
+
+
+
+MARQUIS.
+ Dabey bedürfen wir auch Ihres Rathes, lieber Dominique!
+
+
+DOMINIQUE S.
+
+bejahet das gefällig, und kehrt zurück.
+
+
+
+DOMINIQUE V.
+ Wie seht ihr beide aus?
+
+
+DELOMER.
+ Eine Verschiedenheit der Meinung brachte uns nach und nach in ein lebhaftes Gespräch –
+
+
+
+DOMINIQUE V.
+ Gewiß herrschaftliche Regierungssorgen? Je nun – weshalb wollt ihr durchaus Andre regieren? Man hat genug zu thun, sich selbst vernünftig zu regieren.
+
+
+DELOMER.
+ Nun, wovon ist die Rede?
+
+
+DOMINIQUE V.
+ Lieber Bruder Delomer, Sie müssen jetzt mit Ihrer Erfahrung – worauf ich große Dinge halte, dem Marquis an die Hand gehen. Was kann denn nun wohl hier aus ihm werden?
+
+
+MARQUIS.
+ Lieben Freunde! In mein Vaterland zurückkehren – das ist mir unmöglich.
+
+
+DELOMER
+
+lebhaft.
+
+ Sie haben Recht.
+
+
+DOMINIQUE V.
+ Sie haben Unrecht.
+
+
+MARQUIS.
+ Was mich liebte – ist nicht mehr. Was mich erfreute – ist verändert. Den mühseligen Lebensrest will ich in der Stille im Geleit der Freundschaft tragen.
+
+
+DELOMER.
+ Wir öffnen Ihnen die Arme.
+
+
+DOMINIQUE S.
+ Von Herzen.
+
+
+DOMINIQUE V.
+ Aber Herr Marquis! das Vaterland hat Rechte –
+
+
+MARQUIS.
+ Freund! Meine Söhne sind dort erschlagen.
+
+
+DOMINIQUE V.
+
+hastig. Nun freylich. – Nun ja – – ja! Ey! – so kaufen Sie sich hier an! –
+
+
+DELOMER
+
+ist etwas verlegen.
+
+
+
+
+MARQUIS
+
+nachdenkend.
+
+ Ankaufen?
+
+
+DOMINIQUE V.
+ So wie Herr Delomer sich recht wacker angekauft hat. Sie können es ja.
+
+
+MARQUIS.
+ Auch habe ich wohl schon daran gedacht.
+
+
+DOMINIQUE V.
+ Sie pflanzen sich dann Bäume an –
+
+
+MARQUIS.
+ Ich würde ihren Schatten nicht mehr erleben.
+
+
+DOMINIQUE V.
+ So pflanzen Sie Ihren Kohl! Ja bey meiner Seele! Wenn die Hoffnung uns lange genug irre geführt hat in dem bunten Gewirre – so hören unsre Entwürfe auf mit einem Beet Kohl. Um die Zeit wird es ruhig in der Brust; wir befinden uns nicht am schlechtesten dabey, und will die Uhr eben ablaufen, stoßen wir unsern Spaten in die Erde, verlassen das ehrliche Tagewerk in Frieden und ohne Reue.
+
+
+DOMINIQUE S.
+
+herzlich. Das ist sehr wahr.
+
+
+DELOMER.
+ Ein solcher Ankauf hat allerdings manchen Reitz. Aber doch auch viel Belästigendes. –
+
+
+DOMINIQUE V.
+ Kaufen Sie sich einen Hof – nur keine Herrschaft. Das Recht über Gras und Korn – nur nicht das traurige Recht über Leben und Tod.
+
+
+MARQUIS.
+ Eben daran habe ich eine Weile gedacht. Aber mit jedem Ankauf würde ich die 
+guten Leute in Verlegenheit setzen, denen ich den größten Theil meines geretteten Vermögens – vielleicht alles zugedacht habe.
+
+
+DELOMER.
+ Wie fern?
+
+
+DOMINIQUE S.
+ Sie haben noch Verwandte?
+
+
+MARQUIS.
+ Sehr weitläuftige. Die Veränderung der Dinge hat sie reich gemacht, reicher als ich bin und war. Sie verdienen ohnehin mein Andenken nicht. Aber einen Freund habe ich noch in Paris.–
+
+
+DOMINIQUE S.
+
+herzlich. Gewiß? Sie werden ihn nicht vergessen.
+
+
+MARQUIS.
+ Einen Freund! – Sehr gerührt. Ach! ich kann ihm nie vergelten, was er an mir gethan hat.
+
+
+DELOMER
+
+etwas gezogen.
+
+ Wer ist es?
+
+
+DOMINIQUE V.
+ Kenne ich ihn?
+
+
+MARQUIS.
+ Verkannt liegt das ungeschliffene Juweel! – Mein Freund ist mein ehemaliger Kutscher.
+
+
+DELOMER.
+ So?
+
+
+DOMINIQUE V.
+ Wodurch ist Ihnen der Mann so werth geworden?
+
+
+MARQUIS.
+ Mit Gefahr seines Lebens hat er das Meinige gerettet.
+
+
+DOMINIQUE V.
+ Das ist brav!
+
+
+DOMINIQUE S.
+
+sanft. O vergelten Sie ihm seine That reichlich!
+
+
+
+MARQUIS.
+ Als in jener Zeit, aus einer irrigen Maßregel, der Adel alle seine Bedienten verabschiedete – hatte ich – ein Jahr vor meiner Rettung auch ihn entlassen –
+
+
+DELOMER.
+ Und dieser Kutscher hat Sie gerettet?
+
+
+DOMINIQUE S.
+ Gerade der?
+
+
+MARQUIS.
+ Als ich gefangen war, grämten sich meine Freunde; aber ihre Betäubung, oder ihre Muthlosigkeit unternahm nichts für mich. Man sieht meine Verurtheilung voraus; das geht diesem Manne zu Herzen; er hat nicht Ruhe noch Rast. Er geht bey meinen Freunden umher, erschüttert sie. Sie entwerfen einen Plan; er giebt sein Ersparnis dazu her, und führt ihn aus.
+
+
+DOMINIQUE V.
+ Erzählen Sie uns das!
+
+
+DOMINIQUE S.
+ Wie that er das?
+
+
+
+MARQUIS.
+ Früh vor Tage ward mein Kerker ausgeleert, und ich in zahlreicher Gesellschaft dem Tode zugeschleppt. Eine dichte Menge Volkes erwartete uns vor dem Gefängniß, empfing uns mit schadenfrohem Gebrüll, und die schon halb trunkne Wache konnte und wollte sie nicht zurückhalten. Von dieser Masse, der wir als gefährliche Verbrecher geschildert waren, wurden wir umringt, gedrängt, geschmäht, beschimpft. Ich ging ganz zuletzt. Ganz besonders ward ich hin- und hergezerrt, gemißhandelt, und die Wache neben mir 
+immer mehr von Bacchanten mit heißem Getränk fast sinnlos gemacht.
+
+
+DELOMER.
+ Schrecklich!
+
+
+MARQUIS.
+ Der Zug rückt fort, muß oft halten, kann endlich nicht mehr vorwärts. Man sendet nach stärkerer Bedeckung. Das Getümmel, das Geschrey steigt an die Wolken. Dieser Bösewicht ist der ärgste; ruft eine Stimme – ich fühle mich mißhandelt, sehe in ein blutiges Gesicht; – diese Gestalt reißt mich aus dem Zuge; – fort mit ihm! rufen die Trunknen; er weiß noch mehr Mitschuldige, und muß sie bekennen. Zurück vor den Richter! Man reißt mich zu Boden – Die Menge schneidet mich ab von dem Zuge; in der Mißhandlung wird mein Gesicht mit Gewalt entstellt; man reißt die Kleider mir ab; der Haufen drängt mich von einer Gasse in die an dere; – ein kurzer Mantel wird mir umgeworfen. Der trunkne Pöbel wüthet blind fort, und kennt nicht mehr den Gegenstand, dem es gilt.
+
+
+DOMINIQUE S.
+ Ich hole kaum Athem.
+
+
+MARQUIS.
+ So schimpfen Sie doch, so verfolgen Sie doch mit – ruft die blutige Gestalt mir in die Ohren. –
+
+
+DOMINIQUE V.
+ Brav, brav!
+
+
+DOMINIQUE S.
+ Weiter! weiter!
+
+
+DELOMER.
+ Sehr brav!
+
+
+MARQUIS
+
+mit Begeisterung.
+
+ Ein Strahl der Rettung begeistert mich; ich wüthe so arg, wie jene; 
+wir drängen uns vorwärts; – an den Gassenecken werden feurige Reden und Aufrufe gelesen – die Menge verliert sich dort – zuletzt bin ich mit etlichen Gedungenen allein. Man bringt mich in den Keller eines kleinen Hauses, kleidet mich um. Mein blutiger Verfolger fällt mir um den Hals – und es ist mein ehrlicher Kutscher, der unter dieser Larve und durch Mißhandlungen mein Leben mir gerettet hat.
+
+
+DOMINIQUE S.
+
+umarmt ihn. Dank ihm! – O wie mich das erschüttert hat!
+
+
+DELOMER.
+ Tief in die Seele.
+
+
+MARQUIS.
+ Und dieser Mann ist Gatte und Vater.
+
+
+DOMINIQUE V.
+ Gott segne den Ehrenmann!
+
+
+MARQUIS.
+ Er bringt mich in mancherley Gestalten durch das Land. Er wagt in jeder Stunde, sein Leben mehr als einmal. Wir kommen endlich an die Küste. Er erkauft ein Fischerboot, mich einem Dänischen Schiffe nachzuführen. Er sieht mich einsteigen, bleibt am Ufer, bis ich Nahe am Schiffe bin, fällt auf die Knie, schwenkt seinen Hut – läuft fort landeinwärts. – So ist er mir aus den Augen gekommen, aber nie aus dem Herzen. Er setzt sich erschöpft.
+
+
+
+DOMINIQUE V.
+
+küßt den Marquis auf die Stirn.
+
+
+
+DOMINIQUE S.
+
+faßt seine Hand und sieht ihn starr an.
+
+
+
+
+DELOMER
+
+trocknet die Augen.
+
+ Es ist wahr, der Mann hat überaus brav gehandelt.
+
+
+DOMINIQUE V.
+
+Ueberaus brav? Nur brav? Heldenmäßig heiße ich das, und es ist gar nicht zu vergelten.
+
+
+DELOMER
+
+mit Feuer.
+
+ Ja! Sie müssen ihm ein gutes Legat aussetzen.
+
+
+DOMINIQUE V.
+
+drückt dem Marquis die Hand. Das müssen Sie nicht thun.
+
+
+DELOMER.
+ Bey Gott! das müssen Sie.
+
+
+DOMINIQUE V.
+ Ein Legat? So lange soll der Mann seine Dankbarkeit in seiner Brust verriegeln? Wenn sein Athem ausgelöscht seyn wird, dann soll sein Retter erst einen frischen Athemzug führen? Das ist Nichts! Lassen Sie sich hier auszahlen, und wenn Ihr Eigenthum so vor Ihnen da liegt, dann zahle Ihr Herz seine Schuld gleich ab. Fort mit der Summe an ein sicheres Haus! der Mensch wird hingerufen; man schiebt ihm in die Taschen, was er verdient hat; Ihr Wort aus dem Herzen steckt man ihm in die Hand – fahr zu, Kutscher! Und nun weiter kein Wort mehr!
+
+
+MARQUIS.
+ Ja, wir wollen redlich zusammen theilen. Er steht auf. Und das diese Woche noch.
+
+
+DOMINIQUE V.
+ Je eher, je lieber. Der Augenblick ist unser – wer weiß, was wir im nächsten Augenblicke sind.
+
+
+
+MARQUIS
+
+auffahrend.
+
+ Sehr wahr! – Ja, lieber Delomer! Machen Sie mir diese Freude recht bald, so geschieht doch, so gut ich kann, einmal etwas Ganzes.
+
+
+DOMINIQUE S.
+ Ach! das geschieht ja so selten.
+
+
+DELOMER
+
+die Bedenklichkeiten, welche Delomer von nun an macht, kommen nicht aus dem Geitz, sondern aus den Verlegenheit, das Geld nicht schaffen zu können.
+
+
+ Der Ton ist daher gutmüthig verlegen; nicht kalt bedenklich. Ich gehe von ganzer Seele in Ihr schönes Gefühl und in die rasche Handelsweise meines Freundes Dominique. Aber man muß doch zuvor bedenken –
+
+
+DOMINIQUE V.
+ Man muß geben!
+
+
+DELOMER.
+ Ob Ihre Gabe auch so sicher in seine Hände kommt –
+
+
+MARQUIS.
+ Dazu weiß ich Maßregeln.
+
+
+DELOMER.
+ Und ob der Mensch auch –
+
+
+DOMINIQUE.
+ V. Lieber Bruder Delomer! Alle Bedenklichkeiten, die hier gemacht werden können, verlieren sich vor der großen Bedenklichkeit, daß der Mensch zu spät glücklich wird.
+
+
+DELOMER.
+ Freylich! Nun, es ist zu hoffen, daß er noch lebt – denn sonst –
+
+
+DOMINIQUE V.
+ Ja wohl lebt er! Ey so eine Handlung giebt langes Leben.
+
+
+MARQUIS.
+ Er lebt. Es war meine erste Nachforschung in Europa.
+
+
+
+DELOMER.
+ Nun das ist gut. Denn sonst –
+
+
+DOMINIQUE V.
+ Wissen Sie wohl, Herr Bruder daß Ihre Vorsicht mich recht ärgert?
+
+
+MARQUIS.
+ Tadeln wir unsern Freund nicht! Er drückt Delomer die Hand. Danke ich nicht dieser seiner Vorsicht die Erhaltung des Meinigen?
+
+
+DELOMER.
+ Ich werde übrigens gleich Anstalt machen, daß das Geld –
+
+
+DOMINIQUE V.
+ Anstalt! so recht! das ist die Sache! Nun denn – Das wären denn so Ihre Anstalten. Er seufzt unwillkührlich, lächelt aber gleich darauf. Wir haben doch deren auch noch zu machen.
+
+
+DOMINIQUE S.
+ Wozu, lieber Vater?
+
+
+DOMINIQUE V.
+
+sieht ihn an. Ey! Er klopft ihm freundlich auf die Schulter. Du mußt nicht fragen, du! Er geht zu Delomer. Das geht uns Väter an. Er faßt ihn vertraulich bey der Hand. Und wenn ihr andern mir es nicht übel nehmen wolltet – so möchte ich wohl jetzt mit meinem Bruder Delomer ein Wort davon reden.
+
+
+MARQUIS
+
+zu Dominique S.
+
+ Kommen Sie, lieber junger Freund! Wir wollen indeß meine Zukunft ausmalen. Der Grund des Gemäldes ist nicht hell – indeß – träumen wir so angenehm, als möglich. – Geht mit Dominique Sohn.
+
+
+
+DOMINIQUE S.
+
+läßt ihn vorausgehen, und dabey sieht er in der Thüre sich um.
+
+
+
+DELOMER
+
+steht nachdenken.
+
+
+
+
+DOMINIQUE S.
+
+kehrt rasch um, führt Delomer bey Seite. Sie sind Nicht ungehalten auf mich?
+
+
+DELOMER
+
+verneint es, und reicht ihm die Hand.
+
+
+
+DOMINIQUE S.
+
+legt Delomers Hand zwischen seine beiden Hände, verneigt sich etwas, und im Gehen wirft er Dominique einen Kuß zu. Gute Anstalten, lieber Vater! Geht ab.
+
+
+
+
+
+
+
+
+
+11
+
+
+
+
+Eilfter Auftritt.
+
+Dominique Vater. Delomer.
+
+
+
+DOMINIQUE V.
+
+nickt im zu. Ja, lieber Brüder! – ich bin denn, Gottlob, hier. Da Sie nun gerade im Begriff sind, diese und jene Verfügung für die Kinder zu treffen, die mich doch nahe angeht, so ist es nun auch nöthig, ein Wort davon zu sprechen, was künftig aus mit werden soll.
+
+
+DELOMER.
+ Wie so? Wir werden gewiß recht glücklich mit einander seyn.
+
+
+DOMINIQUE V.
+ Mit einander? Er schüttelt den Kopf. Ja, das ist nun eben die große Frage.
+
+
+DELOMER.
+ Das kann wohl keinem Zweifel unterworfen seyn.
+
+
+
+DOMINIQUE V.
+ Ich werde immer eine feine Weile hier seyn. Aber ich kann denn doch nicht hier bey euch bleiben.
+
+
+DELOMER.
+ Warum nicht? Ja, allerdings.
+
+
+DOMINIQUE V.
+ Nein, Herr Delomer! Fest. Zu seiner Zeit gehe ich zurück in mein Vaterland.
+
+
+DELOMER.
+ Das gebe ich nicht zu. Nimmermehr!
+
+
+DOMINIQUE V.
+
+ernst. Das kann gar nicht anders seyn.
+
+
+DELOMER.
+ Wie? So sollte –
+
+
+DOMINIQUE V.
+ Verlieren Sie deshalb kein Wort! – Die Frage ist nur die, wer von hier wird mit mir gehen?
+
+
+DELOMER
+
+herzlich.
+
+ Lieber Dominique! wir lassen dich nicht.
+
+
+DOMINIQUE V.
+ Ey gut das! So geht alle mit mir!
+
+
+DELOMER
+
+entschlossen.
+
+ Das kann nicht seyn.
+
+
+DOMINIQUE V.
+ Warum nicht?
+
+
+DELOMER.
+ Wir haben uns hier angekauft. Wir haben –
+
+
+DOMINIQUE V.
+ Man kauft an – man verkauft wieder.
+
+
+DELOMER.
+ Wo denkst du hin?
+
+
+DOMINIQUE V.
+ Nach Hause.
+
+
+DELOMER.
+ Und was blühet dir dort noch?
+
+
+
+DOMINIQUE V.
+ O – mancherley! Da ist mein Garten –
+
+
+DELOMER.
+ Du sollst hier einen Garten aussuchen. Welcher dir gefallen wird, soll –
+
+
+DOMINIQUE V.
+ Keiner! denn der allerschönste ist doch nicht mein Garten in der Vorstadt St. Victor –
+
+
+DELOMER.
+ Aber wenn doch ein besserer Platz, als jener ist –
+
+
+DOMINIQUE V.
+ Was habe ich in meinen Garten nicht alles wachsen, vergehen und wieder wachsen sehen! Wie froh bin ich dort gewesen! Dort werde ich alle Frühjahre wieder stark und jung, und mit jeden Herbste hoffe ich wieder auf ein neues Frühjahr. Dergleichen kann man nur an derselben Stelle erleben, und man findet es auf keiner andern Stelle wieder. Und was sollte ich denn wohl hier treiben? Da ist die Grafenfrau, die weiß schon, daß es mit meinem Adel nichts ist.
+
+
+DELOMER.
+ Wer hat ihr davon gesagt?
+
+
+DOMINIQUE V.
+ Sie müssen es nicht übel nehmen! Die Frau ärgerte mich sehr, und bey der Gelegenheit habe ich mich tüchtig verschnappt. Dem Dominique, merke ich wohl, ist die Herrlichkeit hier auch zu enge. Wenn Sie sich nun bekehren, Ihre Schloßgedanken aufgeben, und mit uns in den Reisewagen steigen wollten – so wären wir alle sehr glücklich.
+
+
+
+DELOMER.
+ Ich kann nicht. Streng. Es ist unmöglich.
+
+
+DOMINIQUE V.
+ Das thut mir recht leid. – Nun also zu denen, die hier bleiben! Daß mein Großsohn verkauft werden soll – Sehr fest. daraus wird nichts. Das sage ich Ihnen.
+
+
+DELOMER.
+ Und wenn ich nun erkläre, daß, um diese Heirath möglich zu machen, ich 20000 Thaler für das Gut zu viel bezahlt habe, die folglich aus dem Fenster geworfen sind, – was werden Sie dann antworten?
+
+
+DOMINIQUE V.
+
+streicht sein Kinn. So werde ich antworten: – es ist viel Geld! – Aber nehmen Sie die Feder zur Hand, denken – es ist mir ein Schiff mit der Ladung untergegangen – gehen Sie an Ihr Buch, und streichen Sie mit fester Hand die 20000 Thaler ganz ruhig aus.
+
+
+
+
+
+
+
+
+12
+
+
+
+
+Zwölfter Auftritt.
+
+Vorige. Dominique Sohn.
+
+
+
+DELOMER.
+ Können Sie sich es vorstellen, Dominique? Ihr Vater will nicht hier bey uns bleiben.
+
+
+DOMINIQUE V.
+ Müssen Sie denn alles gleich ausplaudern?
+
+
+
+DOMINIQUE S.
+ Wie, mein Vater? Sie wollten –
+
+
+DOMINIQUE V.
+ Höre mich an! Ich bin alt und brauche einen warmen Himmel. Und wenn ich einst sterbe, verlangt mich darnach, neben deiner guten Mutter zu ruhen. – In deinen Armen möchte ich wohl einschlafen. Wenn das so seyn könnte, würde der Augenblick recht gut abgehen. Was sagst du dazu?
+
+
+DOMINIQUE S.
+
+läßt den Kopf sinken, faltet die Hände, sieht Delomer bittend und sehnsuchtsvoll an. Herr Delomer!
+
+
+DELOMER
+
+gerührt.
+
+ Bin ich euch denn gar nichts mehr?
+
+
+DOMINIQUE S.
+ Es wird mir unmöglich seyn, Sie zu verlassen. Aber – soll ich denn meinen armen Vater verlassen?
+
+
+DOMINIQUE V.
+
+geruhrt. Höre Dominique! Wenn ich von hier nach Paris zurückkehre, und von dir scheiden werde, dann sehen wir uns auf dieser Welt nicht wieder, das weiß ich.
+
+
+DOMINIQUE S.
+ Mein Vater! Umarmt ihn.
+
+
+
+DOMINIQUE V.
+ Nun – du kannst wohl denken, wie mir dabey zu Sinne wird –
+
+
+DOMINIQUE S.
+ Vollenden Sie nicht! Wie? diese Kränkung sollte ich Ihrem Herzen anthun, nur um mich in dem Besitz eines äußern Glanzes zu erhalten, der mir nicht zukommt 
+und der mich nicht einmal glücklich macht? O so müßte ich vergessen haben, wie Sie in meiner Jugend sich mühselig beholfen haben, um mir ein Vermögen zu hinterlassen.
+
+
+
+
+
+
+
+
+13
+
+
+
+
+Dreyzehnter Auftritt.
+
+Vorige. Madam Dominique.
+
+
+
+MADAM DOMINIQUE.
+ Lieber Vater, ich bedarf Ihrer im Garten sehr nöthig.
+
+
+DELOMER
+
+weggewandt.
+
+ Jetzt kann ich nicht hinkommen.
+
+
+MADAM DOMINIQUE.
+ Nicht? Zu Dominique V. Was ist hier vorgegangen?
+
+
+DELOMER.
+ Dominique will uns alle nach Paris zurück haben. Ich kann es nicht – wie nun die Sachen stehen, ist es mir schlechterdings unmöglich. Wer will mit ihm gehen? wer bleibt bey mir?
+
+
+DOMINIQUE V.
+ Ey, ey, Herr Delomer –
+
+
+DOMINIQUE S.
+
+sieht Delomer scharf an, und zieht Madam Dominique an sich.
+
+
+
+MADAM DOMINIQUE
+
+wankt an ihren Mann hin, und sieht zitternd ihren Vater an.
+
+
+
+
+DELOMER.
+ Julie! Ich habe dein Gelübde, daß du meine Augen schließen willst. Das ist deine heilige Pflicht. Es ist nun an dir, den Entschluß deines Mannes zu erlangen.
+
+
+DOMINIQUE S.
+ Wie? Sie wären im Stande – Sie könnten die Grausamkeit –
+
+
+MADAM DOMINIQUE.
+ Nicht weiter, lieber Mann! Sie fällt ihrem Vater in die Arme. Vater! was verlangen Sie?
+
+
+DOMINIQUE V.
+ Halt! Diese Sache muß nicht weiter gehen.
+
+
+DELOMER.
+ Ich verlange mein Schicksal zu wissend Ich muß es wissen.
+
+
+DOMINIQUE V.
+ Ich bitte ernstlich, Herr Delomer, reden Sie jetzt nicht weiter!
+
+
+DELOMER.
+ Ich bin auf das äußerste gebracht.
+
+
+DOMINIQUE S.
+ Und was machen Sie aus uns?
+
+
+DOMINIQUE V.
+ Dominique!
+
+
+DOMINIQUE S.
+ Nein, nie hätte ich geglaubt, daß es Ihnen möglich wäre, mein Herz so grausam zu zerreißen.
+
+
+DOMINIQUE V.
+ Ich befehle dir, zu schweigen und auf der Stelle hinaus zu gehen. Wirst du mir gehorchen?
+
+
+DOMINIQUE S.
+
+verneigt sich und geht.
+
+
+
+
+
+
+
+
+
+14
+
+
+
+
+
+
+Vierzehnter Auftritt.
+
+Vorige. Das Kind.
+
+
+
+DAS KIND.
+ Gnädiger Großvater, Sie möchten zu Herrn Horfmann in den Garten kommen.
+
+
+DOMINIQUE S.
+
+umarmt das Kind, und hebt es auf.
+
+
+
+DAS KIND.
+ Mama, Sie möchten doch auch kommen. Die Arbeiter warten aus Sie.
+
+
+DOMINIQUE V.
+
+nimmt Dominique das Kind ab. So geht! Ich will es haben.
+
+
+DOMINIQUE S.
+ Komm, Julie! Sie gehen.
+
+
+
+
+
+
+
+
+
+15
+
+
+
+
+Funfzehnter Auftritt.
+
+Dominique Vater. Delomer. Das Kind.
+
+
+
+DELOMER
+
+wirft sich in einen Stuhl.
+
+
+
+DOMINIQUE V.
+
+geht mit dem Kinde umher, herzt und drückt es an sich. Armer Wurm! – Du liebes Püppchen du! Er setzt sich mit ihm.
+
+
+
+
+DAS KIND.
+ Warum weinst du, Großpapa?
+
+
+DOMINIQUE V.
+
+setzt das Kind in den Stuhl, sieht Delomer an, sieht das Kind an; er küßt es und geht dann zu Delomer, dem er mit vielem Ansehen sagt. Es giebt Fragen, Herr Delomer, die ein Vater an seine Kinder gar nicht thun darf. Nein, gar nicht darf. Verstehen Sie mich?
+
+
+DELOMER
+
+schwach.
+
+ Meine Lage fühlt Niemand.
+
+
+DAS KIND
+
+geht auf die andere Seite zu Delomer.
+
+ Gnädiger Großpapa, sind Sie krank?
+
+
+DOMINIQUE V.
+ Recht krank. Mache ihn gesund – sage ihm: – Großpapa, sieh mich armen verhandelten Jungen an – sey nicht gnädig; aber werde gerecht, und verkaufe mich nicht, so sind wir alle reiche Leute.
+
+
+DELOMER.
+ O Gott! Umarmt das Kind.
+
+
+
+DAS KIND
+
+macht sich von ihm los.
+
+ Wollen Sie mich verkaufen, Großpapa? Weint. Ich habe Ihnen ja nichts zu Leide gethan. – Bitte, Großpapa! – Verkaufen Sie mich nicht! Bitte, bitte.
+
+
+DELOMER
+
+springt auf und bedeckt das Gesicht.
+
+
+
+DAS KIND.
+ Ich bitte den Vater, der läßt mich nicht verkaufen. Mama auch nicht. Läuft fort.
+
+
+
+DELOMER.
+ Höre mich an!
+
+
+DOMINIQUE V.
+
+hält ihn auf. Bleibe da!
+
+
+DAS KIND.
+ Nein, nein! laß mich zum Vater, zum Vater!
+
+
+
+DOMINIQUE V.
+
+hebt ihn auf. So wahr ich ein ehrlicher Mann bin, du wirst nicht verhandelt. Ich gebe es nicht zu, so wahr mit Gott gnädig seyn soll.
+
+
+DELOMER.
+ Unmenschen seyd ihr an meinem Herzen und meinem ehrlichen Willen.
+
+
+DOMINIQUE V.
+ Schlinge deine Arme um meinen grauen Nacken, halte mich fest, laß mich nicht los! Herr Delomer, – das Kind macht mich zum Kinde – Ich schlage Ihnen einen Handel vor, und biete alle Procente, die ich habe – Geben Sie den Grafenhandel auf, daß der arme Junge frisch und wohlgemuth heranwachse. Geben Sie das Gut zurück, verlieren Sie Geld, und retten Sie das Kind – dann will ich – ja ich will hier bleiben, so lange – bis Sie selbst nach dem Segen des Vaterlandes verlangen. Wollen Sie aber auf der Heirath bestehen, so trete ich, mit dem Kinde auf dem Arme, vor seinen Vater und Mutter hin – erzähle den Handel, wovon sie, so wahr ich ein ehrlicher Mann bin, noch kein Wort wissen. Wenn wir alle drey unsere Hoffnung umschlungen haben, so will ich einmal sehen, ob die Natur in Ihnen nicht Meister wird über Ihre Pergamente und Sie in unsre Arme führt? das will ich einmal sehen.
+
+
+DELOMER
+
+zitternd für Freude, die er, weil er innlast betroffen ist, nicht laut außern kann.
+
+ Du willst bey uns bleiben? ist das ein Wort?
+
+
+
+DOMINIQUE V.
+
+reicht ihm die Hand. Wenn die Heirath zurückgeht, ja!
+
+
+DELOMER.
+ Kann ich mich darauf verlassen?
+
+
+DOMINIQUE V.
+ Ich habe den Handschlag darauf gegeben.
+
+
+DELOMER.
+ Kleiner! lauf und hole deinen Vater daher – Und daß er gleich käme! gleich!
+
+
+DAS KIND
+
+geht ab.
+
+
+
+DOMINIQUE V.
+ Herr Delomer! ich habe das Kind so theuer erkauft, als ich kann; daher mache ich die ausdrückliche Bedingung: unsre Kinder müssen nie erfahren, daß von einer solchen Heirath die Rede war. Das könnte Ihnen sonst großen Schaden thun.
+
+
+
+
+
+
+
+
+16
+
+
+
+
+
+
+Sechszehnter Auftritt.
+
+Vorige. Gräfin.
+
+
+
+GRÄFIN.
+ Es beliebt Herrn von Delomer nicht, zu kommen, so muß denn das, was ich nie angefangen haben würde, durch mich geendigt werden. Aus der projektirten Vermählung kann nichts werden. Das erkläre ich rund und gerade.
+
+
+DOMINIQUE V.
+ Recht so! Je gerader, je besser.
+
+
+GRÄFIN.
+ Ihr sämmtlicher Adel ist ein Blendwerk, das weiß ich.
+
+
+DELOMER.
+ Das erlangte Diplom des deutschen Adels –
+
+
+GRÄFIN.
+ Ist gekauft, auch erlangt? Das Diplom können Sie zu gar nichts brauchen.
+
+
+DOMINIQUE V.
+ Ganz recht!
+
+
+GRÄFIN.
+ Eine Familie, deren Erbherr zum Karren verurtheilt gewesen ist –
+
+
+DOMINIQUE V.
+ Was soll das heißen?
+
+
+DELOMER.
+ Frau Gräfin, was unterfangen Sie sich?
+
+
+GRÄFIN.
+ So eine Familie kann nicht geadelt werden.
+
+
+
+DOMINIQUE V.
+
+ruhig. Auf dem Schubkarren habe ich mein Essigfaß 45 Jahre durch Paris hin- und hergefahren. Was haben Sie dagegen zu sagen, Madam?
+
+
+DELOMER
+
+mit innigem Gefühl und Feuer.
+
+ Ja, Madam! in diesem Essigfaß hat der Ehrenmann 100000 Livres als Mitgift seines Sohnes in mein Haus gebracht.
+
+
+DOMINIQUE V.
+ So viel war beysammen; kein Heller drüber oder drunter.
+
+
+DELOMER.
+ Mit dieser Summe hat er mich vom Banquerot gerettet. Was ich bin und habe, ist sein Werk. Mit Wurde. Sein Handwerksgeräth sey meinen Nachkommen so werth, wie die älteste Trauerfahne im Chor des Dohmes Ihrer Familie ist.
+
+
+GRÄFIN.
+ So ist das? Also ein Essighändler? Hm! ein saures Metier!
+
+
+DELOMER
+
+mit Stolz.
+
+ Brechen wir ab! – Das Gut ist bezahlt und mein. Heben wir die Heirath auf! Sie können nicht vergnügter darüber seyn, als ich.
+
+
+GRÄFIN
+
+mit Entzücken.
+
+ Dieu soit loué! Sie geben mir das Wort des Grafen zurück?
+
+
+DOMINIQUE V.
+ Mit tausend Dank! Nehmen Sie mirs nicht übel, gnädige Gräfin, aber ich hätte es Ihnen vor einigen Stunden nicht angesehen, daß Sie uns alle so glücklich machen würden.
+
+
+
+GRÄFIN.
+ Ich versichere Ihnen, daß mir das auch nicht eingefallen ist. Zieht ein Papier heraus, das sie zerreißt. So vermacht ich die himmelschreyendste Thorheit meines Gemahls. Wir reisen gleich auf eines unserer andern Güter; denn Sie werden begreifen, daß wir hier nicht an unserer rechten Stelle sind.
+
+
+DOMINIQUE V.
+ Eine wohlausgedachte Handlung! denn dadurch kommen wir Uebrigen allgemach an unsre rechte Stelle.
+
+
+GRÄFIN.
+ Hm! – Der alte Herr wird wohl hier sein Metier fortsetzen mit dem Essig?
+
+
+DOMINIQUE V.
+ Das möchte ich, mein Seele, wohl.
+
+
+GRÄFIN
+
+zu beiden.
+
+
+A jamais revoir! – Man wird niemals zu uns kommen, denn man würde abgewiesen werden. Geht ab.
+
+
+
+DOMINIQUE V.
+ Lieber Delomer! das Reiß, was auf den Stammbaum gepfropft worden wäre, hätte, mein Seele, verdorren müssen.
+
+
+
+
+
+
+
+
+17
+
+
+
+
+
+
+Siebzehnter Auftritt.
+
+Vorige. Dominique Sohn.
+
+
+
+DELOMER
+
+der die ganze Zeit in Gedanken gestanden.
+
+ Dominique! Ihr Vater bleibt hier bey uns.
+
+
+DOMINIQUE S.
+
+mehr erstaunt, als erfreut. Wie?
+
+
+DOMINIQUE V.
+
+guter Laune. Ja, es ist so – es ist so gekommen.
+
+
+DELOMER.
+ Nun, lieber Bruder Dominique, geh und beruhige meine Tochter!
+
+
+DOMINIQUE V.
+ Jetzt wäre ich gern hier geblieben –
+
+
+DELOMER.
+ Die größte Schwierigkeit muß nun noch gehoben werden.
+
+
+DOMINIQUE V.
+ Giebt es noch Eine? Welche?
+
+
+DELOMER.
+ Davon ein Wort unter uns beiden!
+
+
+DOMINIQUE V.
+ Muß das seyn? So sey es ein Wort aus dem Herzen – und gleich darauf die That! – ich gehe zu der Tochter. Geht ab.
+
+
+
+
+
+
+
+
+
+18
+
+
+
+
+
+
+Achtzehnter Auftritt.
+
+Dominique S. Delomer.
+
+
+
+DELOMER
+
+gerührt.
+
+ Ihr Vater hat eine unbegreifliche Gewalt über mein Herz.
+
+
+DOMINIQUE S.
+ Jeder gute Mensch hat sie über den andern.
+
+
+DELOMER.
+ Ich bin im Hingeben – und ich muß für Sie noch etwas thun. Wenn ich jetzt Ihnen gewähren soll, so muß ich Ihnen vorher nehmen.
+
+
+DOMINIQUE S.
+ Was Sie wollen. Nur den unbefangenen Sinn lassen Sie uns erhalten! Das Uebrige ist zu erwerben.
+
+
+DELOMER.
+ Mit dem Marquis will ich mich gleich auseinander setzen.
+
+
+DOMINIQUE S.
+ Gott segne Sie –
+
+
+DELOMER.
+ Ich möchte ihn auszahlen.
+
+
+DOMINIQUE S.
+ O ja!
+
+
+DELOMER.
+ Ich kann es nicht. Es müßte denn seyn, Sie wollten ihn disponieren, das Warbingsche Gut anzunehmen. Er gewinnt dabey.
+
+
+DOMINIQUE S.
+ Das will ich.
+
+
+
+DELOMER
+
+wendet sich ab, und drückt Dominique die Hand.
+
+ Erhalten Sie dabey meine Ehre!
+
+
+DOMINIQUE S.
+ Durch die Wahrheit. Er ward für todt gehalten, und Sie liefern die Verwendung des Seinigen ihm aus.
+
+
+DELOMER.
+ Es sey! Seufzt. Aber die Umstände sind jetzt sehr geändert. – Heute Morgen konnte ich meine Kindern große Geschenke geben jetzt nicht mehr. Die Erwerbung des Adels hat eine Summe weggenommen, die, wie jetzt die Sachen stehen, sehr beträchtlich ist. – Ach, und mäßig begütert, wie nun seyd – kann ich nicht einmal dazu rathen, daß ihr vor der Hand von dieser Würde Gebrauch macht.
+
+
+DOMINIQUE S.
+ Vater! Sie machen mich unbeschreiblich glücklich.
+
+
+DELOMER.
+ Das ist noch nicht Alles. – Die Katastrophe dieser unvorgeschenen Tage raubt mir so viel, daß ich nun zu Ihnen und Julien sagen muß: – Nehmt mich auf und unterstützt mich! O, es ist schrecklich! Er wirst sich in seine Arme.
+
+
+
+DOMINIQUE S.
+ Was wir haben, ist Ihre, wie wir selbst, lieber Vater! Es giebt kein Eigenthum für mich und Julien – alles ist Ihre –
+
+
+DELOMER.
+ Am Morgen ließ ich Ihnen huldigen – am Abend muß ich Sie deshalb um Verzeihung bitten. Ich überlebe das nicht.
+
+
+
+DOMINIQUE S.
+ Ich trete wieder in die Gemeinschaft mit Ihnen, darin ich so glücklich war. Nehmen Sie Ihr heiliges Recht auf unsern Besitz nicht mit Wehmuth an! Empfangen Sie unsere Liebe mit Vaterfreude!
+
+
+DELOMER.
+ Dominique! Es ist das zweyte Mal, daß Sie mich mir selbst wiedergegeben haben. Gott lohne Sie dafür! – Ach – ich kann es ja nicht mehr.
+
+
+DOMINIQUE S.
+ Ihr Segen lohnt mich besser, als eine Herrschaft.
+
+
+DELOMER.
+ Was soll ich nun beginnen? Ich habe mich lächerlich gemacht.
+
+
+DOMINIQUE S.
+ Kann das Uebermaß väterlicher Zärtlichkeit nicht Nachsicht erwerben für das, was Sie für Ihre Kinder zu viel gethan haben?
+
+
+DELOMER
+
+mit gerungenen Händen.
+
+ Was soll nun hier aus uns werden?
+
+
+DOMINIQUE S.
+ Thätige, frohe, glückliche Bürger.
+
+
+DELOMER
+
+mit lautem Schmerz und Heftigkeit.
+
+ Ich werde das Ziel des Spottes, der Neckereyen aller Nachbarn. Man wird auf mich und euch mit Fingern hinweisen.
+
+
+DOMINIQUE S.
+ – Fürchten Sie das wirklich?
+
+
+DELOMER.
+ Die Welt vergiebt das Verbrechen; über nie das Lächerliche. Fast der Verzweiflung 
+nahe. Und wenn vollends die Geschichte mit dem Vermögen des Marquis ruchbar würde –
+
+
+DOMINIQUE S.
+
+wendet ihn zu sich. Fassen Sie meine Hand! – Ich biete Ihnen Ruhe dar, und Heiterkeit des Alters.
+
+
+DELOMER.
+ Wo kann ich die noch finden?
+
+
+DOMINIQUE S.
+ Im Vaterlande. Er umarmt ihn.
+
+
+
+DELOMER
+
+will sich losmachen.
+
+
+
+DOMINIQUE S.
+ Nein! ich lasse Sie nicht aus meinen Armen, bis ich diesen Entschluß Ihnen abgewonnen habe. Gedenken Sie des milden Himmels, Ihrer Freunde! Das Vaterland öffnet freudig die Arme allen denen, welche nicht das Schwerdt in seinen Busen senkten, nur in den Stürmen sich bergen wollten.
+
+
+DELOMER.
+ Und was sind wir dort?
+
+
+DOMINIQUE S.
+ Was wir waren. Die große Wunde ist fast vernarbt; wir hören nur den Nachhall der Trauerzeit.
+
+
+DELOMER.
+ Aber dieß Land hat uns so freundlich aufgenommen.
+
+
+DOMINIQUE S.
+ – Es liegt an uns, in Deutschland ein Gedächtnis zu stiften, das zu ewigen Tagen für unsre Erkenntlichkeit reden wird.
+
+
+DELOMER.
+ Welches?
+
+
+DOMINIQUE S.
+ Uebergeben Sie dem Marquis das Warbingsche Gut mit dem Bedinge, daß 
+er dort die Leibeigenschaft aufhebe. Frohe Nachkommen werden dann bey ihrer Feldarbeit den Namen Delomer mit frischem Athemzuge sprechen, und am Erndtefest wird er in späten Jahren noch gesegnet werden.
+
+
+DELOMER
+
+reicht ihm beide Hände.
+
+ Ich bekenne mich überwunden –
+
+
+DOMINIQUE S.
+
+küßt seine Hände und bleibt eine Weile in der Stellung.
+
+
+
+DELOMER.
+ Ich scheide von der Bahn des Ehrgeitzes – ich gebe mich in die Hände meiner Kinder. Nehmt mich – führt mich – ich folge euch mit Liebe und Segen.
+
+
+DOMINIQUE S.
+ – Vater – Julie! – mein Kind – Horfmann! Ist niemand da?
+
+
+BEDIENTER
+
+tritt ein.
+
+
+
+DOMINIQUE S.
+ Rufe Er meine Frau – meinen Vater – meinen Sohn!
+
+
+BEDIENTER
+
+geht ab.
+
+
+
+DOMINIQUE S.
+ O lassen Sie mich diese Segensbotschaft gleich verkünden!
+
+
+DELOMER.
+ Aber das Aufsehen –
+
+
+DOMINIQUE S.
+ Kann man zu früh glücklich seyn?
+
+
+
+
+
+
+
+
+19
+
+
+
+
+
+
+Neunzehnter Auftritt.
+
+Vorige. Madam Dominique. Das Kind. Hernach Dominique Vater.
+
+
+
+DOMINIQUE S.
+ Umarmt ihn! – Julie, schließe deinen Vater fest an das Herz! Mein Sohn, umfasse seine Knie! Huldigt dem guten Hausvater, und thut es laut!
+
+
+DOMINIQUE V.
+
+kommt.
+
+
+
+DOMINIQUE S.
+ Triumph, Vater? – Friede, Jubel und Segen! Er geht zurück mit uns in das Vaterland.
+
+
+DOMINIQUE V.
+ Was? Ist das möglich?
+
+
+MAD.
+ DOMINIQUE. Vater, ist das wahr?
+
+
+DELOMER.
+ Mein Führer ist mein guter Sohn.
+
+
+DOMINIQUE V.
+ Mit uns? – höre ich recht?
+
+
+DOMINIQUE S.
+ Der Sieg über sich selbst ist das Diplom des Seelenadels. – Dankt für mich! Ich vollende das Geschäft, was uns den Frieden der Seele giebt, und den Segen des Hausglückes in unsre Mitte führt. Geht ab.
+
+
+
+
+
+
+
+
+
+20
+
+
+
+
+
+
+Zwanzigster Auftritt.
+
+Vorige, ohne Dominique S.
+
+
+
+DOMINIQUE V.
+
+im Jubel. Sie ziehen mit mir?
+
+
+DELOMER.
+ Ja! Ich habe mich von Vielem losgemacht, es ist mir leicht und wohl. Dominique, dein Geschenk, was mich damals gerettet hat, war groß; aber es ist eine Armuth gegen das Geschenk, was du mit deinem Sohne mir gemacht hast. Gott erhalte ihn uns allen zum Trost!
+
+
+MADAM DOMINIQUE.
+ Mein threuer, lieber Vater!
+
+
+DOMINIQUE V.
+ Zwey wackere Bürger bringe ich dem Vaterlande wieder? – Dreye!! denn dich nenne ich zuerst. – Herr Delomer, was soll ich für diesen wackern Entschluß darbringen?
+
+
+MADAM DOMINIQUE
+
+zu Dominique V.
+
+ Zu welch einer glücklichen Stunde sind Sie gekommen, Vater!
+
+
+DOMINIQUE V.
+ Wenn ich doch noch so ein baares Faß hätte, um es da vor Sie hinzuschieben, zum Dank für die Herzensfreude, die Sie mir altem Manne geben. Wie hat der Dominique das angefangen, daß er Sie herum gebracht hat?
+
+
+
+DELOMER.
+ Ach! er hat das redlichste Herz aus der Welt.
+
+
+MADAM DOMINIQUE.
+ Nicht wahr?
+
+
+DOMINIQUE V.
+ Der Bursche braucht nicht patentisirt zu werden. Er hat ein Patentherz in der Brust. Er hebt das Kind auf. Was wird das für ein Einzug werden in meinen Garten! Frau Tochter, was wird meine alte Susette sagen, wenn ich mit dem Kleinen an der Hand in meinen Garten ziehe! – Sapperment! Ich fahre ihn in meinem Schubkarren im Triumph hinein. Ja, das thue ich. So ein köstliches Gut habe ich noch nicht darauf gefahren.
+
+
+
+
+
+
+
+
+21
+
+
+
+
+
+
+Ein und zwanzigster Auftritt.
+
+Vorige. Horfmann.
+
+
+
+HORFMANN.
+ Ja – es ist nunmehr im Garten alles angezündet – wenn die hohen Herrschaften belieben –
+
+
+DAS KIND.
+ Lichter! Eine Menge lichter! Springt umher.
+
+
+
+DELOMER.
+ O nein! Löscht alles aus!
+
+
+DOMINIQUE V.
+ Bewahre! Steckt noch mehr Lichter an! Es ist uns hell geworden im Kopf und Herzen. Das wollen wir feyern mit Gesang und Klang, wollen die Gläser anstoßen – der gute Herr Delomer soll leben! weil er sich von allem Gnädigen losgemacht hat! Frau Tochter, der Wein darf nicht fehlen; die Musik darf nicht aufhören, und die aufgehende Sonne muß uns alle noch fröhlich und laut finden.
+
+
+HORFMANN.
+ Ist denn eine Veränderung vorgefallen?
+
+
+DOMINIQUE V.
+ Ja, Herr! Ein wahrer Fund für alle Zeitungsschreiber! Die gnädigen Barone von Delomer und von Dominique werden wieder arbeiten und recht gute solide Häuser werden.
+
+
+
+HORFMANN.
+ Solide? dieß Schloß ist doch sehr solide gebauet. Alles in Quadern, auf purem Felsengrunde.
+
+
+DOMINIQUE V.
+ Quadrirt doch nicht mit dem Uebrigen.
+
+
+
+
+
+
+
+
+22
+
+
+
+
+Letzter Auftritt.
+
+Vorige. Dominique Sohn. Marquis.
+
+
+
+MARQUIS.
+ Guter, lieber Delomer! –
+
+
+DELOMER.
+ Umarmen Sie mich von ganzem Herzen!
+
+
+MARQUIS.
+ Ich nehme das Gut an, was Sie mir abtreten; ich gehe alles ein, was Sie vorschlagen, wenn es nicht zu viel ist, wenn mein Herz nicht dagegen spricht, sogar Verzinnsung von dem Retter meines Vermögens anzunehmen, als ob er nur Verwalter gewesen wäre. Zu Delomer, der antworten will. Still davon für jetzt! Auf Dominique V. deutend. Das Herz und der Kopf dieses rechtschaffnen Naturmenschen sollen darüber zwischen uns entscheiden. Aber was wird aus mir, wenn sie alle Deutschland verlassen?
+
+
+DELOMER.
+ Sogleich ist das nicht möglich.
+
+
+
+MARQUIS.
+ Dann bin ich hier allein, wie auf der Insel, dahin ich verschlagen ward.
+
+
+DOMINIQUE V.
+ Diese da werden alle brave Deutsche, die ihnen Gutes erwiesen haben, an Sie weisen.
+
+
+DOMINIQUE S.
+ Und so viel Leibeigne, als Sie befreyen, so viel dankbare Kinder zählen Sie.
+
+
+DOMINIQUE V.
+ Sie heben die Leibeigenschaft auf?
+
+
+MARQUIS.
+ Ja! Ihr Herr Sohn macht diese Bedingung, und ich gehe sie freudig ein.
+
+
+DOMINIQUE V.
+ Gott sey gedankt! Er dreht sich im Jubel umher. Das ist recht! Das ist schön! Er reißt Delomer mit Entzücken an fühlt. Das ist vornehm! Sie wollen keine Knechtschaft. So geht der Segen vor Ihnen her. Marquis! – Lassen Sie uns daheim treue Bürger seyn, weil wir lieber das seyn wollen, als gebietende Herrn. Zeigen Sie es hier zu Lande, daß es einen hohen Adel gebe, weit über das Pergament hinaus, der darin besteht, dem Menschen leicht zu machen, was ihn drückt. – Wer nun von uns allen am besten feinen Platz behauptet, und am nützlichsten ist – darüber mögen die Uebrigen zanken. – Wir thun derweile das Gute.
+
+
+
+
+
+
+

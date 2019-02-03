@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei n="/Literatur/M/Chamisso, Adelbert von/Gedichte/Gedichte (Ausgabe letzter Hand)/In dramatischer Form/Faust" xml:id="tg273" xmlns="http://www.tei-c.org/ns/1.0" xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<teiheader xmlns:a="http://www.textgrid.info/namespace/digibib/authors" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude">
+<filedesc>
+<titlestmt>
+<title>Faust</title>
+</titlestmt>
+<publicationstmt>
+<idno type="handle">hdl:11858/00-1734-0000-0002-4E8D-E</idno><idno type="TextGridUri">textgrid:kw56.0</idno><availability>
+<p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+<p>
+<ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+</p>
+<p>
+<ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+</p>
+<p>
+<ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+</p>
+</availability>
+</publicationstmt>
+<notesstmt>
+<note>
+                                    Entstanden 1803. Erstdruck unter dem Titel »Faust. Eine Tragödie in einem Akt. Ein Versuch« in: Musenalmanach auf das Jahr 1804 [»Grüner Musenalmanach«], Leipzig (Carl Gottlob Schmidt) 1803.
+                                 </note>
+</notesstmt>
+<sourcedesc>
+<biblfull>
+<titlestmt>
+<title>Adalbert von Chamisso: Sämtliche Werke. Nach dem Text der Ausgaben letzter Hand und den Handschriften. Textredaktion: Jost Perfahl, Band 1–2, München: Winkler, [1975].</title>
+<author key="pnd:118520040">Chamisso, Adelbert von</author>
+</titlestmt>
+<extent>500-</extent>
+<publicationstmt>
+<date when="1975"></date>
+<pubplace>München</pubplace>
+</publicationstmt>
+</biblfull>
+</sourcedesc>
+</filedesc>
+<profiledesc>
+<creation>
+<date when="1803"></date>
+</creation>
+<textclass>
+<keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+<term>verse</term>
+</keywords>
+</textclass>
+</profiledesc>
+</teiheader>
+<text>
+<body>
+<div type="text" xml:id="tg273.3">
+<div type="h4">
+<head type="h4" xml:id="tg273.3.1">Faust</head>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.2">
+<hi rend="italic" xml:id="tg273.3.2.1">Ein Versuch</hi>
+</speaker>
+<lg>
+<lb xml:id="tg273.3.3"></lb>
+<l rend="zenoPC" xml:id="tg273.3.4">1803</l>
+</lg>
+<lb xml:id="tg273.3.5"></lb>
+<lg>
+<l xml:id="tg273.3.6">
+<seg rend="zenoTXFontsize80" xml:id="tg273.3.6.1"> Doch wozu ist des Weisen Torheit nütz?</seg>
+</l>
+<l xml:id="tg273.3.7">
+<seg rend="zenoTXFontsize80" xml:id="tg273.3.7.1"> Schlegels Shakespeare</seg>
+</l>
+<l xml:id="tg273.3.8">
+<seg rend="zenoTXFontsize80" xml:id="tg273.3.8.1"> (»Was ihr wollt.« III. 1)</seg>
+</l>
+</lg>
+<lb xml:id="tg273.3.9"></lb>
+</sp>
+<milestone unit="hi_start"></milestone>
+<p rend="zenoPC" xml:id="tg273.3.10">
+<hi rend="italic" xml:id="tg273.3.10.1">Faust. Sein Guter und sein Böser Geist, zwei Stimmen</hi>
+</p>
+<milestone unit="hi_end"></milestone>
+<milestone unit="hi_start"></milestone>
+<lb xml:id="tg273.3.11"></lb>
+<p rend="zenoPC" xml:id="tg273.3.12">
+<hi rend="italic" xml:id="tg273.3.12.1">Faustens Studierzimmer, von einer einzigen Lampe erleuchtet.</hi>
+</p>
+<milestone unit="hi_end"></milestone>
+<sp>
+<lb xml:id="tg273.3.13"></lb>
+<speaker rend="zenoPC" xml:id="tg273.3.14">
+<hi rend="italic" xml:id="tg273.3.14.1">Faust.</hi>
+</speaker>
+<lb xml:id="tg273.3.15"></lb>
+<lg>
+<l xml:id="tg273.3.16">Der Jugend kurze Jahre sind dahin,</l>
+<l xml:id="tg273.3.17">Dahin die Jahre kräft'ger Mannheit, Faust!</l>
+<l xml:id="tg273.3.18">Es neigt sich schon die Sonne deines Lebens –</l>
+<l xml:id="tg273.3.19">Hast du gelebt? hier, fremd in dieser Welt,</l>
+<l xml:id="tg273.3.20">Verträumtest du die karggezählten Stunden,</l>
+<l xml:id="tg273.3.21">Nach Wahrheit ringend, die Pygmäenkräfte</l>
+<l xml:id="tg273.3.22">Anstrengend in dem Riesenkampf – o Tor!</l>
+</lg>
+<lg>
+<lb xml:id="tg273.3.23"></lb>
+<l xml:id="tg273.3.24">Du, der in wildem Jungendfeuer schwelgend,</l>
+<l xml:id="tg273.3.25">Uneingedenk der Zukunft, deiner selbst,</l>
+<l xml:id="tg273.3.26">Des großen Weltalls, das um dich sich kreist,</l>
+<l xml:id="tg273.3.27">Genuß nur kennst, Genuß nur kennen willst;</l>
+<l xml:id="tg273.3.28">Beglückter Liebling du der Gegenwart,</l>
+<l xml:id="tg273.3.29">Dich muß ich weis, so wie du glücklich bist,</l>
+<l xml:id="tg273.3.30">Auch preisen. – Weis! – und Tor? – Sinnleere Namen!</l>
+<l xml:id="tg273.3.31">Nur Kranke gibt's, ich kenne keine Toren.</l>
+<l xml:id="tg273.3.32">Ein Funke glomm im Busen mir, (ihn legte</l>
+<l xml:id="tg273.3.33">Die fremde Hand,) er mußte hoch entlodern,</l>
+<l xml:id="tg273.3.34">Und ewig ungelöschten Durst mir flammen; –</l>
+<l xml:id="tg273.3.35">Vom Allerschaffer fordr ich alle Schuld,</l>
+<l xml:id="tg273.3.36">Wir müssen wollen, ja wir müssen! – müssen?</l>
+<l xml:id="tg273.3.37">Nicht frei denn? – also, wollend, nur ein Stein,</l>
+<l xml:id="tg273.3.38">Der in die Tiefe fällt, und <hi rend="italic" xml:id="tg273.3.38.1">fühlt</hi> – er wolle.</l>
+</lg>
+<lg>
+<lb xml:id="tg273.3.39"></lb>
+<l xml:id="tg273.3.40">Was bist du Mensch denn? gier'ger Allumfasser</l>
+<l xml:id="tg273.3.41">Des Universums kühner Freier du,</l>
+<l xml:id="tg273.3.42">Der blind, in Nacht, in zwiefach ew'gem Dunkel</l>
+<l xml:id="tg273.3.43">Gebannt zu irren, nichts erkennen kannst,</l>
+<l xml:id="tg273.3.44">Ein ewig ungelöstes Rätsel dir;</l>
+<pb n="500" xml:id="tg273.3.45"></pb>
+<l xml:id="tg273.3.46">Erschaffer deiner Welt nach ewigen</l>
+<l xml:id="tg273.3.47">Gesetzen, selbst von ihr erschaffen,</l>
+<l xml:id="tg273.3.48">Was bist du mächt'ger, nicht'ger Erdenwurm?</l>
+<l xml:id="tg273.3.49">Ein Gott in Banden, oder nur ein Staub?</l>
+<l xml:id="tg273.3.50">Was ist des Denkens, was der Sinnen Welt?</l>
+<l xml:id="tg273.3.51">Die Zeit, der Raum, die Allumfassenden,</l>
+<l xml:id="tg273.3.52">Und ihre Schöpfungen, durch die sie werden?</l>
+<l xml:id="tg273.3.53">Was außer ihnen, das Unendliche?</l>
+<l xml:id="tg273.3.54">Was ist die Gottheit, jeder großen Kette</l>
+<l xml:id="tg273.3.55">Ein erstes ewig unbegriffnes Glied,</l>
+<l xml:id="tg273.3.56">Das, nicht getragen, alle Glieder trägt? –</l>
+<l xml:id="tg273.3.57">Erscheinung nur und Wahn ist alles mir.</l>
+<l xml:id="tg273.3.58">Es wirft das Licht, das innre, dort hinaus</l>
+<l xml:id="tg273.3.59">Auf ausgespannte Nacht die Bilder hin,</l>
+<l xml:id="tg273.3.60">Ein leerer Widerschein des eignen Ichs,</l>
+<l xml:id="tg273.3.61">Und so entsteht die Welt, die ich erkenne.</l>
+<l xml:id="tg273.3.62">So hat – vielleicht der Zufall es geordnet,</l>
+<l xml:id="tg273.3.63">Der große Bildner, den sie Gottheit nennen.</l>
+<l xml:id="tg273.3.64">Und wenn, nicht bloß gedacht, dort Geist und Körper</l>
+<l xml:id="tg273.3.65">Und Gottheit sind, – wie faß ich sie? – umsonst!</l>
+<l xml:id="tg273.3.66">Es treten ewig zwischen sie und mich</l>
+<l xml:id="tg273.3.67">Der Sinne Lügen, der Vernunft Gesetze.</l>
+</lg>
+<lg>
+<lb xml:id="tg273.3.68"></lb>
+<l xml:id="tg273.3.69">Ihr ew'ge Rätsel, schrecklich grimm'ge Nattern,</l>
+<l xml:id="tg273.3.70">Die stets ihr euch erzeugt und euch verzehrt,</l>
+<l xml:id="tg273.3.71">Und mir das Herz verzehrt im grausen Spiele</l>
+<l xml:id="tg273.3.72">Der stets verschlungnen und erzeugten Kreise;</l>
+<l xml:id="tg273.3.73">Ich kann euch nicht verscheuchen, nicht erdrücken,</l>
+<l xml:id="tg273.3.74">Ihr stürmet rastlos mir die bange Seele;</l>
+<l xml:id="tg273.3.75">Weh dem, den ihr zum ernsten Kampfe reizet!</l>
+<l xml:id="tg273.3.76">Es furchet tief des Denkers Stirne sich,</l>
+<l xml:id="tg273.3.77">Und Zweifel ist der schwererrungne Preis.</l>
+</lg>
+<lg>
+<lb xml:id="tg273.3.78"></lb>
+<l xml:id="tg273.3.79">Nein! länger soll der Schlangenbiß des Zweifels</l>
+<l xml:id="tg273.3.80">Nicht langsam mir am kranken Herzen nagen,</l>
+<l xml:id="tg273.3.81">Nicht giftig reizen mehr der Wunden Schmerzen.</l>
+<l xml:id="tg273.3.82">Ich <hi rend="italic" xml:id="tg273.3.82.1">will</hi> gesunden in der Wahrheit Scheine,</l>
+<l xml:id="tg273.3.83">Erschwingen kühn das sternenferne Ziel,</l>
+<l xml:id="tg273.3.84">Das eitel strebend nimmer ich erklommen.</l>
+</lg>
+<lb xml:id="tg273.3.85"></lb>
+</sp>
+<milestone unit="hi_start"></milestone>
+<p rend="zenoPC" xml:id="tg273.3.86">
+<hi rend="italic" xml:id="tg273.3.86.1">
+<pb n="501" xml:id="tg273.3.86.1.1"></pb>
+Er sucht eine magische Rolle hervor, entfaltet sie auf seinem Tische und spricht, indem er die Hand auf die Zauberschrift legt.</hi>
+</p>
+<milestone unit="hi_end"></milestone>
+<lb xml:id="tg273.3.87"></lb>
+<lg>
+<l xml:id="tg273.3.88">Sind's keine Träume, die du hingezeichnet,</l>
+<l xml:id="tg273.3.89">So folg ich, Seher, deiner Riesenspur,</l>
+<l xml:id="tg273.3.90">Ich schreite deine Bahn und zage nicht.</l>
+<l xml:id="tg273.3.91">Wenn horchend deinem mächt'gen Rufe, Geister,</l>
+<l xml:id="tg273.3.92">Dir dienend, ihres Reiches Nacht entstiegen;</l>
+<l xml:id="tg273.3.93">Wird mir die Geisterwelt sich auch eröffnen.</l>
+<l xml:id="tg273.3.94">Belehrung zollen mir die finstern Mächte.</l>
+</lg>
+<lb xml:id="tg273.3.95"></lb>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.96">
+<hi rend="italic" xml:id="tg273.3.96.1">Die Geisterbeschwörung</hi>
+</speaker>
+<lb xml:id="tg273.3.97"></lb>
+<lg>
+<l xml:id="tg273.3.98">Die ihr, gehüllt in furchtbar dunklen Schleier,</l>
+<l xml:id="tg273.3.99">Die Seele mir umwallt, gehorchet, Geister,</l>
+<l xml:id="tg273.3.100">Dem ernsten, festen Willen, der euch ruft.</l>
+</lg>
+<lb xml:id="tg273.3.101"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.102">
+<hi rend="italic" xml:id="tg273.3.102.1">Böser Geist Eine Stimme zur Linken.</hi>
+</speaker>
+<lb xml:id="tg273.3.103"></lb>
+<lg>
+<l xml:id="tg273.3.104">Dem ernsten, festen Willen wird gehorchet.</l>
+<l xml:id="tg273.3.105">Du Sohn des Staubes, ihm entschwungen kühn</l>
+<l xml:id="tg273.3.106">Und ähnlich uns, sprich dein Begehren aus.</l>
+</lg>
+<lb xml:id="tg273.3.107"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.108">
+<hi rend="italic" xml:id="tg273.3.108.1">Guter Geist Eine Stimme zur Rechten.</hi>
+</speaker>
+<lb xml:id="tg273.3.109"></lb>
+<lg>
+<l xml:id="tg273.3.110">Faust! Faust!</l>
+</lg>
+<lb xml:id="tg273.3.111"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.112">
+<hi rend="italic" xml:id="tg273.3.112.1">Faust.</hi>
+</speaker>
+<lb xml:id="tg273.3.113"></lb>
+<lg>
+<l xml:id="tg273.3.114">Auch du! Dir hab ich nicht gerufen, fleuch!</l>
+<l xml:id="tg273.3.115">Abschütteln will ich deiner Knechtschaft Joch,</l>
+<l xml:id="tg273.3.116">Entfleuch! Nicht du, Unmächtiger, vermagst</l>
+<l xml:id="tg273.3.117">Den heißen Durst des Lechzenden zu stillen,</l>
+<l xml:id="tg273.3.118">Die sturmgeschlagnen Wellen zu besprechen.</l>
+<l xml:id="tg273.3.119">Du lähmst den Flug mir, hebe dich von dannen!</l>
+<l xml:id="tg273.3.120">Ich <hi rend="italic" xml:id="tg273.3.120.1">will</hi> ihn männlich fliegen und nicht zagen.</l>
+<l xml:id="tg273.3.121">Ich wende mich von dir, ich folge <hi rend="italic" xml:id="tg273.3.121.1">dem</hi>;</l>
+<l xml:id="tg273.3.122">Belehrung fordr ich, Wahrheit und Erkenntnis.</l>
+</lg>
+<lb xml:id="tg273.3.123"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.124">
+<hi rend="italic" xml:id="tg273.3.124.1">Böser Geist.</hi>
+</speaker>
+<lb xml:id="tg273.3.125"></lb>
+<lg>
+<l xml:id="tg273.3.126">Nicht menschlich sprichst du Worte hohen Sinnes.</l>
+<l xml:id="tg273.3.127">Hast du mit Mannes Ernst mich hergebannt.</l>
+<l xml:id="tg273.3.128">So schwöre mir den Preis zu – deine Seele;</l>
+<l xml:id="tg273.3.129">Und öffnen will ich dir der Wahrheit Schätze,</l>
+<l xml:id="tg273.3.130">Und was der Mensch vermag, sollst du erkennen.</l>
+</lg>
+<lb xml:id="tg273.3.131"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.132">
+<hi rend="italic" xml:id="tg273.3.132.1">Guter Geist.</hi>
+</speaker>
+<lb xml:id="tg273.3.133"></lb>
+<lg>
+<l xml:id="tg273.3.134">Faust, Faust!</l>
+<l xml:id="tg273.3.135">Den seligen Menschen</l>
+<l xml:id="tg273.3.136">Gewährte der Vater,</l>
+<l xml:id="tg273.3.137">Von allen den Früchten</l>
+<l xml:id="tg273.3.138">Des Gartens zu kosten;</l>
+<l xml:id="tg273.3.139">Den seligen Menschen</l>
+<pb n="502" xml:id="tg273.3.140"></pb>
+<l xml:id="tg273.3.141">Verwehrte der Vater</l>
+<l xml:id="tg273.3.142">Die einzige Frucht.</l>
+</lg>
+<lg>
+<lb xml:id="tg273.3.143"></lb>
+<l xml:id="tg273.3.144">Und listig schmeichelnd hob die Schlange sich:</l>
+<l xml:id="tg273.3.145">Ihr würdet Göttern gleich, wenn ihr die Frucht,</l>
+<l xml:id="tg273.3.146">Die herrliche, zu kosten euch erkühntet,</l>
+<l xml:id="tg273.3.147">Die euch der Vater streng verwehrt zu brechen,</l>
+<l xml:id="tg273.3.148">Nicht Vater er, der neidische Tyrann!</l>
+</lg>
+<lg>
+<lb xml:id="tg273.3.149"></lb>
+<l xml:id="tg273.3.150">Faust, Faust!</l>
+<l xml:id="tg273.3.151">Dem kindlichen Menschen,</l>
+<l xml:id="tg273.3.152">Die Freuden des Lebens,</l>
+<l xml:id="tg273.3.153">Sie knospen ihm alle.</l>
+<l xml:id="tg273.3.154">Er weilet, wo duftend</l>
+<l xml:id="tg273.3.155">Die Rosen ihm blühen,</l>
+<l xml:id="tg273.3.156">Die Früchte ihm winken.</l>
+<l xml:id="tg273.3.157">Geflügelten Schrittes</l>
+<l xml:id="tg273.3.158">Leicht hin über Dornen</l>
+<l xml:id="tg273.3.159">Zu schweben, zu eilen,</l>
+<l xml:id="tg273.3.160">Gesellt' ihm der Vater</l>
+<l xml:id="tg273.3.161">Die holden Gefährten,</l>
+<l xml:id="tg273.3.162">Den Glauben, die Hoffnung,</l>
+<l xml:id="tg273.3.163">Treu ihm in wechselndem Glück.</l>
+</lg>
+<lg>
+<lb xml:id="tg273.3.164"></lb>
+<l xml:id="tg273.3.165">Faust, Faust!</l>
+<l xml:id="tg273.3.166">Es gab zu ahnden das Unendliche</l>
+<l xml:id="tg273.3.167">Der Vater dir den Geist,</l>
+<l xml:id="tg273.3.168">Gab, liebend anzubeten, dir das Herz:</l>
+<l xml:id="tg273.3.169">Und, rechtend mit dem Vater, wagest du,</l>
+<l xml:id="tg273.3.170">Vom Strahle seiner Liebe mild beschienen,</l>
+<l xml:id="tg273.3.171">Zu fordern jene Frucht, des Todes Frucht.</l>
+<l xml:id="tg273.3.172">Verschmäh, verschmäh des Lebens Glück und Kronen,</l>
+<l xml:id="tg273.3.173">Und ringe nach der Gottheit fernem Ziele;</l>
+<l xml:id="tg273.3.174">Des Rächers Rache trifft den schuld'gen Scheitel!</l>
+</lg>
+<lb xml:id="tg273.3.175"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.176">
+<hi rend="italic" xml:id="tg273.3.176.1">Faust.</hi>
+</speaker>
+<lb xml:id="tg273.3.177"></lb>
+<lg>
+<l xml:id="tg273.3.178">Erschuf zu ausgesuchten Qualen mich</l>
+<l xml:id="tg273.3.179">Ein Gott des Hasses, den der Schmerz erfreut?</l>
+</lg>
+<lb xml:id="tg273.3.180"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.181">
+<hi rend="italic" xml:id="tg273.3.181.1">Guter Geist.</hi>
+</speaker>
+<lb xml:id="tg273.3.182"></lb>
+<lg>
+<l xml:id="tg273.3.183">Das Glück umblühte deines Lebens Pfade.</l>
+</lg>
+<lb xml:id="tg273.3.184"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.185">
+<hi rend="italic" xml:id="tg273.3.185.1">Faust.</hi>
+</speaker>
+<lb xml:id="tg273.3.186"></lb>
+<lg>
+<l xml:id="tg273.3.187">Es ist Erkennen mir das einz'ge Glück.</l>
+</lg>
+<lb xml:id="tg273.3.188"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.189">
+<hi rend="italic" xml:id="tg273.3.189.1">Guter Geist.</hi>
+</speaker>
+<lb xml:id="tg273.3.190"></lb>
+<lg>
+<l xml:id="tg273.3.191">Die Hoffnung blüht dem Dulder, lern entbehren.</l>
+</lg>
+<lb xml:id="tg273.3.192"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.193">
+<hi rend="italic" xml:id="tg273.3.193.1">Faust.</hi>
+</speaker>
+<lb xml:id="tg273.3.194"></lb>
+<lg>
+<l xml:id="tg273.3.195">Sie welkte in der schwer erkrankten Brust.</l>
+</lg>
+<lb xml:id="tg273.3.196"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.197">
+<hi rend="italic" xml:id="tg273.3.197.1">
+<pb n="503" xml:id="tg273.3.197.1.1"></pb>
+Guter Geist.</hi>
+</speaker>
+<lb xml:id="tg273.3.198"></lb>
+<lg>
+<l xml:id="tg273.3.199">Der Tugend Kranz umgrüne deine Locken.</l>
+</lg>
+<lb xml:id="tg273.3.200"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.201">
+<hi rend="italic" xml:id="tg273.3.201.1">Faust.</hi>
+</speaker>
+<lb xml:id="tg273.3.202"></lb>
+<lg>
+<l xml:id="tg273.3.203">Auch diesen Kranz entriß der Zweifel mir.</l>
+</lg>
+<lb xml:id="tg273.3.204"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.205">
+<hi rend="italic" xml:id="tg273.3.205.1">Guter Geist.</hi>
+</speaker>
+<lb xml:id="tg273.3.206"></lb>
+<lg>
+<l xml:id="tg273.3.207">Du <hi rend="italic" xml:id="tg273.3.207.1">willst</hi>, du willst, und deine Freuden welken.</l>
+</lg>
+<lb xml:id="tg273.3.208"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.209">
+<hi rend="italic" xml:id="tg273.3.209.1">Faust.</hi>
+</speaker>
+<lb xml:id="tg273.3.210"></lb>
+<lg>
+<l xml:id="tg273.3.211">So wähl ich denn, <hi rend="italic" xml:id="tg273.3.211.1">nicht frei</hi>, das eigne Weh.</l>
+</lg>
+<lb xml:id="tg273.3.212"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.213">
+<hi rend="italic" xml:id="tg273.3.213.1">Guter Geist.</hi>
+</speaker>
+<lb xml:id="tg273.3.214"></lb>
+<lg>
+<l xml:id="tg273.3.215">Faust! handle glaubend, wie du frei dich fühlest.</l>
+</lg>
+<lb xml:id="tg273.3.216"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.217">
+<hi rend="italic" xml:id="tg273.3.217.1">Faust.</hi>
+</speaker>
+<lb xml:id="tg273.3.218"></lb>
+<lg>
+<l xml:id="tg273.3.219">Nein, nein! ich bin nicht frei, ich will's nicht sein.</l>
+</lg>
+<lb xml:id="tg273.3.220"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.221">
+<hi rend="italic" xml:id="tg273.3.221.1">Guter Geist.</hi>
+</speaker>
+<lb xml:id="tg273.3.222"></lb>
+<lg>
+<l xml:id="tg273.3.223">So treffe denn die schwere Schuld den Frevler.</l>
+</lg>
+<lb xml:id="tg273.3.224"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.225">
+<hi rend="italic" xml:id="tg273.3.225.1">Faust.</hi>
+</speaker>
+<lb xml:id="tg273.3.226"></lb>
+<lg>
+<l xml:id="tg273.3.227">Die schwere Schuld wälz ich dem Schöpfer zu,</l>
+<l xml:id="tg273.3.228">Der mich zu hoch begabt, zu tief gedrückt,</l>
+<l xml:id="tg273.3.229">Der feindlich mir den regen Geist gegeben.</l>
+</lg>
+<lb xml:id="tg273.3.230"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.231">
+<hi rend="italic" xml:id="tg273.3.231.1">Guter Geist.</hi>
+</speaker>
+<lb xml:id="tg273.3.232"></lb>
+<lg>
+<l xml:id="tg273.3.233">Und ihn zu bändigen, den Willen dir.</l>
+<l xml:id="tg273.3.234">Des Rächers Rache trifft den schuld'gen Scheitel!</l>
+</lg>
+<lb xml:id="tg273.3.235"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.236">
+<hi rend="italic" xml:id="tg273.3.236.1">Faust.</hi>
+</speaker>
+<lb xml:id="tg273.3.237"></lb>
+<lg>
+<l xml:id="tg273.3.238">Dich, Geist der frühen Rache, schrecklicher,</l>
+<l xml:id="tg273.3.239">Der furchtbar ahndend nicht begangne Sünden,</l>
+<l xml:id="tg273.3.240">Gedanken nur des Herzens, angstumzischend</l>
+<l xml:id="tg273.3.241">Der Hölle Schlangen furchtbar um mich schlingst,</l>
+<l xml:id="tg273.3.242">Erschütternd nicht des Mannes ernsten Willen,</l>
+<l xml:id="tg273.3.243">Dich straf ich Lügen; nein, ich bin nicht frei;</l>
+<l xml:id="tg273.3.244">Ein ehrnes Schicksal waltet über mir</l>
+<l xml:id="tg273.3.245">Und unaufhaltsam reißt es mich dahin,</l>
+<l xml:id="tg273.3.246">Und eisern fällt, und trifft das grause Los.</l>
+</lg>
+<lb xml:id="tg273.3.247"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.248">
+<hi rend="italic" xml:id="tg273.3.248.1">Böser Geist Halb laut.</hi>
+</speaker>
+<lb xml:id="tg273.3.249"></lb>
+<lg>
+<l xml:id="tg273.3.250">Der Falsche lügt sich deinen guten Geist.</l>
+</lg>
+<lb xml:id="tg273.3.251"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.252">
+<hi rend="italic" xml:id="tg273.3.252.1">Faust.</hi>
+</speaker>
+<lb xml:id="tg273.3.253"></lb>
+<lg>
+<l xml:id="tg273.3.254">Du lügst dich meinen guten Geist, entfleuch!</l>
+<l xml:id="tg273.3.255">Ich wende mich von dir, ich folge <hi rend="italic" xml:id="tg273.3.255.1">dem</hi>.</l>
+<l xml:id="tg273.3.256">Belehrung fordr ich, Wahrheit und Erkenntnis.</l>
+</lg>
+<lb xml:id="tg273.3.257"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.258">
+<hi rend="italic" xml:id="tg273.3.258.1">Böser Geist.</hi>
+</speaker>
+<lb xml:id="tg273.3.259"></lb>
+<lg>
+<l xml:id="tg273.3.260">Wohlan! so schwöre mir den Preis zu, Faust;</l>
+<l xml:id="tg273.3.261">Und öffnen will ich dir der Wahrheit Schätze,</l>
+<l xml:id="tg273.3.262">Und was der Mensch vermag, sollst <hi rend="italic" xml:id="tg273.3.262.1">du</hi> erkennen.</l>
+<l xml:id="tg273.3.263">Selbst brich den Stab denn über deine Seele.</l>
+</lg>
+<lb xml:id="tg273.3.264"></lb>
+</sp>
+<milestone unit="hi_start"></milestone>
+<p rend="zenoPC" xml:id="tg273.3.265">
+<hi rend="italic" xml:id="tg273.3.265.1">Der Stab des Gerichtes wird Fausten in die Hand gezaubert, er erschrickt, und faßt sich rasch wieder.</hi>
+</p>
+<milestone unit="hi_end"></milestone>
+<sp>
+<lb xml:id="tg273.3.266"></lb>
+<speaker rend="zenoPC" xml:id="tg273.3.267">
+<hi rend="italic" xml:id="tg273.3.267.1">
+<pb n="504" xml:id="tg273.3.267.1.1"></pb>
+Faust.</hi>
+</speaker>
+<lb xml:id="tg273.3.268"></lb>
+<lg>
+<l xml:id="tg273.3.269">Du, rascher Sohn des Augenblickes, Wille,</l>
+<l xml:id="tg273.3.270">Gebäre rasch die Tat.</l>
+</lg>
+<lb xml:id="tg273.3.271"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.272">
+<hi rend="italic" xml:id="tg273.3.272.1">Guter Geist.</hi>
+</speaker>
+<lb xml:id="tg273.3.273"></lb>
+<lg>
+<l xml:id="tg273.3.274">Die ernste Tat.</l>
+<l xml:id="tg273.3.275">Die spät fortwirkend in der Zeiten Schoße,</l>
+<l xml:id="tg273.3.276">Entfallen dir, ein Raub der fremden Mächte,</l>
+<l xml:id="tg273.3.277">Gehöre ewig der Notwendigkeit.</l>
+<l xml:id="tg273.3.278">
+<hi rend="italic" xml:id="tg273.3.278.1">Noch</hi>, Faust, gehört des Herzens Willen <hi rend="italic" xml:id="tg273.3.278.2">dir</hi>.</l>
+</lg>
+<lb xml:id="tg273.3.279"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.280">
+<hi rend="italic" xml:id="tg273.3.280.1">Böser Geist Halblaut und langsam.</hi>
+</speaker>
+<lb xml:id="tg273.3.281"></lb>
+<lg>
+<l xml:id="tg273.3.282">Und öffnen will ich dir der Wahrheit Schätze</l>
+<l xml:id="tg273.3.283">Und was der Mensch vermag, sollst du erkennen.</l>
+</lg>
+<lb xml:id="tg273.3.284"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.285">
+<hi rend="italic" xml:id="tg273.3.285.1">Faust.</hi>
+</speaker>
+<lb xml:id="tg273.3.286"></lb>
+<lg>
+<l xml:id="tg273.3.287">Gehört noch mir, – gedacht, gewollt, gehandelt!</l>
+</lg>
+<lb xml:id="tg273.3.288"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.289">
+<hi rend="italic" xml:id="tg273.3.289.1">Guter Geist.</hi>
+</speaker>
+<lb xml:id="tg273.3.290"></lb>
+<lg>
+<l xml:id="tg273.3.291">Und wagtest du zu denken ihn, den großen,</l>
+<l xml:id="tg273.3.292">Den schrecklichen Gedanken: Ewigkeit?</l>
+</lg>
+<lb xml:id="tg273.3.293"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.294">
+<hi rend="italic" xml:id="tg273.3.294.1">Faust.</hi>
+</speaker>
+<lb xml:id="tg273.3.295"></lb>
+<lg>
+<l xml:id="tg273.3.296">Ich dacht ihn, ja! doch der Moment allein</l>
+<l xml:id="tg273.3.297">Gehört dem Menschen, im Momente lebt er,</l>
+<l xml:id="tg273.3.298">Drum kauft er um der Zukunft teuren Preis</l>
+<l xml:id="tg273.3.299">Des Augenblickes rasch entflohne Lust.</l>
+<l xml:id="tg273.3.300">Es kann die Zukunft auch ein Traum nur sein.</l>
+</lg>
+<lb xml:id="tg273.3.301"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.302">
+<hi rend="italic" xml:id="tg273.3.302.1">Guter Geist.</hi>
+</speaker>
+<lb xml:id="tg273.3.303"></lb>
+<lg>
+<l xml:id="tg273.3.304">Und wenn auf Wahrheit jener Traum hindeutet?</l>
+</lg>
+<lb xml:id="tg273.3.305"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.306">
+<hi rend="italic" xml:id="tg273.3.306.1">Faust.</hi>
+</speaker>
+<lb xml:id="tg273.3.307"></lb>
+<lg>
+<l xml:id="tg273.3.308">So mag der Schreckenstraum sich dann entfalten.</l>
+<l xml:id="tg273.3.309">Du wetzest selbst des Zweifels gift'gen Zahn,</l>
+<l xml:id="tg273.3.310">Der mich zerfleischt. Nicht Wahrheit kann das Herz</l>
+<l xml:id="tg273.3.311">Zermalmend treffen, das für sie nur schlägt,</l>
+<l xml:id="tg273.3.312">Nur schrecklich ist die Qual mir, die ich dulde;</l>
+<l xml:id="tg273.3.313">Sie muß sich enden. Stählern ist die Brust,</l>
+<l xml:id="tg273.3.314">Und jedes Schmerzes Pfeil entprallt unmächtig,</l>
+<l xml:id="tg273.3.315">Den nicht des Zweifels Schreckensarm geschnellt.</l>
+<l xml:id="tg273.3.316">Ich will der ew'gen Rache männlich harren,</l>
+<l xml:id="tg273.3.317">Und festen Blickes ihr entgegen sehn.</l>
+<l xml:id="tg273.3.318">Ich fluche dir, und deinem Gott, und breche</l>
+<l xml:id="tg273.3.319">Entschlossen selber des Gerichtes Stab.</l>
+</lg>
+<lb xml:id="tg273.3.320"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.321">
+<hi rend="italic" xml:id="tg273.3.321.1">Guter Geist.</hi>
+</speaker>
+<lb xml:id="tg273.3.322"></lb>
+<lg>
+<l xml:id="tg273.3.323">Wehe dem Menschenerzeugten!</l>
+<l xml:id="tg273.3.324">Wehe! zerbrechet die Krone.</l>
+<l xml:id="tg273.3.325">Er stürzet, nachhallend</l>
+<l xml:id="tg273.3.326">Empfängt ihn die Tiefe</l>
+<l xml:id="tg273.3.327">Zerschmettert vom jähligen Fall.</l>
+</lg>
+<lg>
+<lb xml:id="tg273.3.328"></lb>
+<l xml:id="tg273.3.329">Es wandle im Tale</l>
+<l xml:id="tg273.3.330">Der Menschenerzeugte,</l>
+<pb n="505" xml:id="tg273.3.331"></pb>
+<l xml:id="tg273.3.332">Und weide die Blicke</l>
+<l xml:id="tg273.3.333">An blumigen Auen.</l>
+<l xml:id="tg273.3.334">Nicht wag er zu heben</l>
+<l xml:id="tg273.3.335">In blendende Höhen</l>
+<l xml:id="tg273.3.336">Zur Sonne den Blick.</l>
+<l xml:id="tg273.3.337">Vom lieblichen Kleide</l>
+<l xml:id="tg273.3.338">Der nährende Erde</l>
+<l xml:id="tg273.3.339">Rückstrahlt ihm die Farbe,</l>
+<l xml:id="tg273.3.340">Ein sanfteres Licht.</l>
+<l xml:id="tg273.3.341">Ihm g'nüge der bunte,</l>
+<l xml:id="tg273.3.342">Der liebliche Schein.</l>
+<l xml:id="tg273.3.343">Nicht gierigen Herzens</l>
+<l xml:id="tg273.3.344">Erheb er die Wünsche</l>
+<l xml:id="tg273.3.345">Zur Sonne empor.</l>
+<l xml:id="tg273.3.346">Erklimmt er der Berge</l>
+<l xml:id="tg273.3.347">Beschneiete Gipfel,</l>
+<l xml:id="tg273.3.348">Zu nahen der Sonne</l>
+<l xml:id="tg273.3.349">Verzehrendem Licht;</l>
+<l xml:id="tg273.3.350">Nicht näher der fernen,</l>
+<l xml:id="tg273.3.351">Erblindet das Aug ihm,</l>
+<l xml:id="tg273.3.352">Und schwankenden Schrittes</l>
+<l xml:id="tg273.3.353">Entgleitet der Fuß.</l>
+<l xml:id="tg273.3.354">Der schwindlichten Höhe</l>
+<l xml:id="tg273.3.355">Entstürzt er, nachhallend</l>
+<l xml:id="tg273.3.356">Empfängt ihn die Tiefe</l>
+<l xml:id="tg273.3.357">Zerschmettert vom jähligen Fall.</l>
+</lg>
+<lg>
+<lb xml:id="tg273.3.358"></lb>
+<l xml:id="tg273.3.359">Wehe dem Menschenerzeugten!</l>
+<l xml:id="tg273.3.360">Wehe! zerbrechet die Krone.</l>
+<l xml:id="tg273.3.361">Entwunden den Armen</l>
+<l xml:id="tg273.3.362">Der sorgenden Liebe,</l>
+<l xml:id="tg273.3.363">Hin eilt er – und stürzet;</l>
+<l xml:id="tg273.3.364">Er stürzet, nachhallend</l>
+<l xml:id="tg273.3.365">Empfängt ihn die Tiefe</l>
+<l xml:id="tg273.3.366">Zerschmettert vom jähligen Fall.</l>
+</lg>
+<lb xml:id="tg273.3.367"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.368">
+<hi rend="italic" xml:id="tg273.3.368.1">Faust den Stab zerbrechend.</hi>
+</speaker>
+<lb xml:id="tg273.3.369"></lb>
+<lg>
+<l xml:id="tg273.3.370">Zerbrochen ist der Stab.</l>
+</lg>
+<lb xml:id="tg273.3.371"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.372">
+<hi rend="italic" xml:id="tg273.3.372.1">Guter Geist.</hi>
+</speaker>
+<lb xml:id="tg273.3.373"></lb>
+<lg>
+<l xml:id="tg273.3.374">Er ist zerbrochen.</l>
+</lg>
+<lb xml:id="tg273.3.375"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.376">
+<hi rend="italic" xml:id="tg273.3.376.1">Böser Geist.</hi>
+</speaker>
+<lb xml:id="tg273.3.377"></lb>
+<lg>
+<l xml:id="tg273.3.378">Er ist zerbrochen.</l>
+</lg>
+<lb xml:id="tg273.3.379"></lb>
+</sp>
+<milestone unit="hi_start"></milestone>
+<p rend="zenoPC" xml:id="tg273.3.380">
+<hi rend="italic" xml:id="tg273.3.380.1">Lange Stille</hi>
+</p>
+<milestone unit="hi_end"></milestone>
+<sp>
+<lb xml:id="tg273.3.381"></lb>
+<speaker rend="zenoPC" xml:id="tg273.3.382">
+<hi rend="italic" xml:id="tg273.3.382.1">Faust.</hi>
+</speaker>
+<lb xml:id="tg273.3.383"></lb>
+<lg>
+<l xml:id="tg273.3.384">Nun?</l>
+</lg>
+<lb xml:id="tg273.3.385"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.386">
+<hi rend="italic" xml:id="tg273.3.386.1">
+<pb n="506" xml:id="tg273.3.386.1.1"></pb>
+Böser Geist.</hi>
+</speaker>
+<lb xml:id="tg273.3.387"></lb>
+<lg>
+<l xml:id="tg273.3.388">Ich lache deiner, leichtes Spielwerk du</l>
+<l xml:id="tg273.3.389">Der gier'gen Wünsche deines stolzen Herzens;</l>
+<l xml:id="tg273.3.390">Ich lache deiner, Tor, den ich verachte,</l>
+<l xml:id="tg273.3.391">Und zolle dir den Preis, den <hi rend="italic" xml:id="tg273.3.391.1">du</hi> bedungen.</l>
+</lg>
+<lg>
+<lb xml:id="tg273.3.392"></lb>
+<l xml:id="tg273.3.393">Der Zweifel ist menschlichen Wissens Grenze,</l>
+<l xml:id="tg273.3.394">Die nur der blinde Glaube überschreitet.</l>
+<l xml:id="tg273.3.395">Dich bann ich, ohne Anker, ohne Segel</l>
+<l xml:id="tg273.3.396">Zu irren auf dem feindlich dunklen Meere,</l>
+<l xml:id="tg273.3.397">Wo dir kein Grund, wo keine Ufer dir,</l>
+<l xml:id="tg273.3.398">Dem ohne Hoffnung Strebenden erscheinen;</l>
+<l xml:id="tg273.3.399">Bis vor dir nächtlich sich das Tor eröffnet,</l>
+<l xml:id="tg273.3.400">Das furchtbar dir geahndete, des Todes,</l>
+<l xml:id="tg273.3.401">Und neue Schauder schrecklich dich ergreifen;</l>
+<l xml:id="tg273.3.402">Denn <hi rend="italic" xml:id="tg273.3.402.1">mir</hi> gehöret deine Ewigkeit:</l>
+<l xml:id="tg273.3.403">Ich zolle dir den Preis, den du bedungen.</l>
+</lg>
+<lg>
+<lb xml:id="tg273.3.404"></lb>
+<l xml:id="tg273.3.405">Des Glaubens Blume blühte kindlich dir,</l>
+<l xml:id="tg273.3.406">Du hast sie stolz zertreten, forderst Wahrheit.</l>
+<l xml:id="tg273.3.407">Wohl! schreckend ruf ich dir die Wahrheit zu:</l>
+<l xml:id="tg273.3.408">Aus deiner Weisen Widersprüchen strahlte</l>
+<l xml:id="tg273.3.409">Sie dir entgegen, die geahndete:</l>
+<l xml:id="tg273.3.410">Der Zweifel ist menschlichen Wissens Grenze,</l>
+<l xml:id="tg273.3.411">Es kann der Staubumhüllte nichts erkennen,</l>
+<l xml:id="tg273.3.412">Dem Blindgebornen kann kein Licht erscheinen.</l>
+</lg>
+<lg>
+<lb xml:id="tg273.3.413"></lb>
+<l xml:id="tg273.3.414">So wie die Sprache, wie des Wortes Schall</l>
+<l xml:id="tg273.3.415">Dir Mittler des Gedankens ist und Zeichen;</l>
+<l xml:id="tg273.3.416">So ist des Sinns Empfinden, der Gedanke selbst</l>
+<l xml:id="tg273.3.417">Dir Sprache bloß und eitles leeres Zeichen</l>
+<l xml:id="tg273.3.418">Der ewig dir verhüllten Wirklichkeit.</l>
+<l xml:id="tg273.3.419">Du kannst nur denken durch den Mittler Sprache,</l>
+<l xml:id="tg273.3.420">Nur mit dem Sinne schauen die Natur,</l>
+<l xml:id="tg273.3.421">Nur nach Gesetzen der Vernunft sie denken.</l>
+<l xml:id="tg273.3.422">Und hättest hundert Sinne du und tausend,</l>
+<l xml:id="tg273.3.423">Du kargbegabter, und erhöbe freier</l>
+<l xml:id="tg273.3.424">Sich dein Gedanke ins vielseitiger –</l>
+<l xml:id="tg273.3.425">Befühlte All; so würdest immer du,</l>
+<l xml:id="tg273.3.426">Getrennt, vereint mit ihm durch Körpers Bande,</l>
+<l xml:id="tg273.3.427">Nur eigne Schatten schaun und nichts erkennen.</l>
+<pb n="507" xml:id="tg273.3.428"></pb>
+<l xml:id="tg273.3.429">Es strebe, trachte angestemmt der Mensch;</l>
+<l xml:id="tg273.3.430">Ihm fiel das Los. Der reine Geist allein,</l>
+<l xml:id="tg273.3.431">Der ruhende, erkennt; nicht ihn umfaßt</l>
+<l xml:id="tg273.3.432">Die ew'ge Mauer, die sich zwischen dir</l>
+<l xml:id="tg273.3.433">Und der ersehnten Wahrheit trennend hebt.</l>
+<l xml:id="tg273.3.434">Die Mauer stürzt der Tod; die Rächerin,</l>
+<l xml:id="tg273.3.435">Sie harret furchtbar deiner in dem Lande,</l>
+<l xml:id="tg273.3.436">Wo nicht gestrebet, nicht getrachtet mehr,</l>
+<l xml:id="tg273.3.437">Wo zollen einer wird des Lebens Lohn.</l>
+</lg>
+<lg>
+<lb xml:id="tg273.3.438"></lb>
+<l xml:id="tg273.3.439">Nachhallen muß ich deiner Worte Schall,</l>
+<l xml:id="tg273.3.440">Nachspiegeln deines Denkens Schatten dir,</l>
+<l xml:id="tg273.3.441">Nachlügen deiner Weisen Traumgebilde,</l>
+<l xml:id="tg273.3.442">Dir, einem Menschen, ich, ein Geist, zu nahen;</l>
+<l xml:id="tg273.3.443">Gedanken, Worte, Menschenträume fassen</l>
+<l xml:id="tg273.3.444">Kein ähnlich Bild der ewig dir Verhüllten.</l>
+<l xml:id="tg273.3.445">Doch Wahrheit, Wahrheit hast du dir bedungen;</l>
+<l xml:id="tg273.3.446">Nun! was der Mensch vermag, sollst du erkennen:</l>
+</lg>
+<lg>
+<lb xml:id="tg273.3.447"></lb>
+<l xml:id="tg273.3.448">Der Zweifel ist menschlichen Wissens Grenze, –</l>
+<l xml:id="tg273.3.449">Ist furchtbar rächend deines Lebens Schlange.</l>
+<l xml:id="tg273.3.450">Verzweifle, niedrer Erdenwurm, den tiefer</l>
+<l xml:id="tg273.3.451">In seinen Staub zurück ich niedertrete;</l>
+<l xml:id="tg273.3.452">Nicht heben darfst du jenen dunklen Schleier,</l>
+<l xml:id="tg273.3.453">Es bringt die Zeit dir keine Blume mehr,</l>
+<l xml:id="tg273.3.454">Und <hi rend="italic" xml:id="tg273.3.454.1">mir</hi> gehöret deine Ewigkeit.</l>
+<l xml:id="tg273.3.455">So öffn ich rächend dir der Wahrheit Schätze,</l>
+<l xml:id="tg273.3.456">So zoll ich dir den Preis, den <hi rend="italic" xml:id="tg273.3.456.1">du</hi> bedungen.</l>
+</lg>
+<lb xml:id="tg273.3.457"></lb>
+</sp>
+<milestone unit="hi_start"></milestone>
+<p rend="zenoPC" xml:id="tg273.3.458">
+<hi rend="italic" xml:id="tg273.3.458.1">Faust im Begriff, sich niederzuwerfen gegen die Seite, woher die Stimme des guten Geistes hallte, erhebt sich rasch wieder und spricht.</hi>
+</p>
+<milestone unit="hi_end"></milestone>
+<lb xml:id="tg273.3.459"></lb>
+<lg>
+<l xml:id="tg273.3.460">Nein! niederknieen nicht vor dir, Verkünder</l>
+<l xml:id="tg273.3.461">Des siebenmal erfüllten schweren Fluches,</l>
+<l xml:id="tg273.3.462">Der mir das Haupt umflammt, und nicht vor ihm.</l>
+<l xml:id="tg273.3.463">Vernichtung heißt der Gott, den ich anrufe.</l>
+<l xml:id="tg273.3.464">Ihr seid unmächtig, der Vergangenheit</l>
+<l xml:id="tg273.3.465">Ihr leicht erworbnes Eigentum zu rauben.</l>
+</lg>
+<lg>
+<lb xml:id="tg273.3.466"></lb>
+<l xml:id="tg273.3.467">O könnt ich wieder fluchen euch! o könnt ich</l>
+<l xml:id="tg273.3.468">In Menschenqualen euch verzagen sehn,</l>
+<l xml:id="tg273.3.469">In ew'gen Menschenqualen euch verzweifeln,</l>
+<pb n="508" xml:id="tg273.3.470"></pb>
+<l xml:id="tg273.3.471">Und laut auflachend gräßlich euch verhöhnen!</l>
+<l xml:id="tg273.3.472">Fluch selber mir, daß ich ohnmächtig bin,</l>
+<l xml:id="tg273.3.473">Daß nur ein leiser, eitler Laut der Lippe</l>
+<l xml:id="tg273.3.474">Entbebet, in dem Winde zu verhallen!</l>
+</lg>
+<lg>
+<lb xml:id="tg273.3.475"></lb>
+<l xml:id="tg273.3.476">Ersehnte Spornerin der eitlen Wünsche,</l>
+<l xml:id="tg273.3.477">Ich habe, Wahrheit, deine Dunstgestalt</l>
+<l xml:id="tg273.3.478">Verfolgt, und unermeßlich weit verfolgt,</l>
+<l xml:id="tg273.3.479">Und ihr geopfert jeden Hoffnungsschimmer;</l>
+<l xml:id="tg273.3.480">Gestrandet steh ich nun auf schroffer Klippe,</l>
+<l xml:id="tg273.3.481">Rings um mich her die dunkle tiefe Flut,</l>
+<l xml:id="tg273.3.482">Und um das Haupt mir donnerschwangre Wolken.</l>
+<l xml:id="tg273.3.483">Ich werde nimmer, nimmer sie umfangen,</l>
+<l xml:id="tg273.3.484">Um die ich hin den teuren Preis geworfen!</l>
+</lg>
+<lb xml:id="tg273.3.485"></lb>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.486">
+<hi rend="italic" xml:id="tg273.3.486.1">Böser Geist.</hi>
+</speaker>
+<lb xml:id="tg273.3.487"></lb>
+<lg>
+<l xml:id="tg273.3.488">Die Mauer stürzt der Tod; die Rächerin,</l>
+<l xml:id="tg273.3.489">Sie harret furchtbar deiner in dem Lande,</l>
+<l xml:id="tg273.3.490">Wo nicht gestrebet, nicht getrachtet mehr,</l>
+<l xml:id="tg273.3.491">Wo zollen einer wird des Lebens Lohn.</l>
+</lg>
+<lb xml:id="tg273.3.492"></lb>
+</sp>
+<sp>
+<speaker rend="zenoPC" xml:id="tg273.3.493">
+<hi rend="italic" xml:id="tg273.3.493.1">Faust.</hi>
+</speaker>
+<lb xml:id="tg273.3.494"></lb>
+<lg>
+<l xml:id="tg273.3.495">Die Mauer stürzt der Tod; – sie harret meiner</l>
+<l xml:id="tg273.3.496">In jenem Lande... – Schlange meines Lebens!</l>
+<l xml:id="tg273.3.497">Wo nur das Aug ich wende, starrest du</l>
+<l xml:id="tg273.3.498">Mich gräßlich an. – Verdammnis, – Ewigkeit,</l>
+<l xml:id="tg273.3.499">Laßt eure Qualen <hi rend="italic" xml:id="tg273.3.499.1">nicht</hi> den Zweifel sein!</l>
+<l xml:id="tg273.3.500">Umstürze du, Erfüllung, jene Mauer;</l>
+<l xml:id="tg273.3.501">Verhüllte Rächerin, sei Rettung mir,</l>
+<l xml:id="tg273.3.502">Ich <hi rend="italic" xml:id="tg273.3.502.1">will</hi> in jenem Lande dich verfolgen.</l>
+</lg>
+<lb xml:id="tg273.3.503"></lb>
+</sp>
+<milestone unit="hi_start"></milestone>
+<p rend="zenoPC" xml:id="tg273.3.504">
+<hi rend="italic" xml:id="tg273.3.504.1">Wie er sich gegen den Geist wenden will, den Tod zu erflehen, wird ihm ein Dolch in die Hand gezaubert, er wendet die Spitze gegen sein Herz, und stößt ihn langsam hinein.</hi>
+</p>
+<milestone unit="hi_end"></milestone>
+<lb xml:id="tg273.3.505"></lb>
+<lg>
+<l xml:id="tg273.3.506">Verdammnis, ewige, in deinen Schoß! –</l>
+<l xml:id="tg273.3.507">Vielleicht Vernichtung nur, vielleicht Erkenntnis,</l>
+<l xml:id="tg273.3.508">Gewißheit doch.</l>
+</lg>
+<lb xml:id="tg273.3.509"></lb>
+<closer>
+<seg rend="zenoPC" type="closer" xml:id="tg273.3.510">
+<hi rend="italic" xml:id="tg273.3.510.1">Er stürzt, die Lampe erlischt, das Theater ist tief verfinstert. Langsam fällt der Vorhang.</hi>
+</seg>
+</closer>
+<lb xml:id="tg273.3.511"></lb>
+<pb n="509" xml:id="tg273.3.512"></pb>
+<pb n="511" type="start" xml:id="tg273.3.513"></pb>
+</div>
+</div>
+</body>
+</text>
+</tei>
