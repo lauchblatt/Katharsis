@@ -40,10 +40,10 @@ ActsScenes.SpeechesView = function(){
 
 	var getSpeechTooltip = function(metric, metricValue, metricName){
 		var divBegin = "<div class='tooltip-test'>"
-		var act = metric.act + ". Akt, ";
-		var scene = metric.conf + ". Szene, ";
-		var speech = metric.numberInConf + ". Replik";
-		var numberInDrama = metric.subsequentNumber + ". Replik im Drama";
+		var act = metric.act + ". Act, ";
+		var scene = metric.conf + ". Scene, ";
+		var speech = metric.numberInConf + ". Speech";
+		var numberInDrama = metric.subsequentNumber + ". Speech in the play";
 		var structureInfo = "<b>" + act + scene + speech + "</b>";
 		var speakerInfo = "Sprecher: " + metric.speaker;
 		var valueInfo = metricName + ": <b>" + (Math.round(metricValue * 10000) / 10000).toString() + "</b>";
@@ -61,7 +61,7 @@ ActsScenes.SpeechesView = function(){
 		data.addColumn({'type': 'string', 'role': 'tooltip', 'p': {'html': true}})
         data.addRows(metricPairs);
 
-        var options = {title:'Repliken-Verlauf (ganzes Drama): ' + vAxisTitle,
+        var options = {title:'Speech progression (entire play): ' + vAxisTitle,
         			   height: 600,
         			   width: 1130,
         			   explorer: { 
@@ -84,7 +84,7 @@ ActsScenes.SpeechesView = function(){
 				          }
 				        },
 				        hAxis: {
-        			   	title: 'Repliken',
+        			   	title: 'Speeches',
         			   	format: ' '
         			   },
         			   vAxis: {

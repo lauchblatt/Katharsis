@@ -1,72 +1,72 @@
 var transformGermanMetric = function(name){
 		switch(name) {
-		    case "Polarität (gewichtet)":
+		    case "Polarity (weighted)":
 		        return "polaritySentiWS";
 		        break;
-		    case "Polarität (Wortanzahl)":
+		    case "Polarity (number of words)":
 		        return "polaritySentiWSDichotom";
 		        break;
-		    case "Positiv (gewichtet)":
+		    case "Positive (weighted)":
 		        return "positiveSentiWS";
 		        break;
-		    case "Positiv (Wortanzahl)":
+		    case "Positive (number of words)":
 		        return "positiveSentiWSDichotom";
 		        break;
-		    case "Negativ (gewichtet)":
+		    case "Negative (weighted)":
 		        return "negativeSentiWS";
 		        break;
-		    case "Negativ (Wortanzahl)":
+		    case "Negative (number of words)":
 		        return "negativeSentiWSDichotom";
 		        break;
-		    case "Zorn":
+		    case "Anger":
 		        return "anger";
 		        break;
-		    case "Erwartung":
+		    case "Anticipation":
 		        return "anticipation";
 		        break;
-		    case "Ekel":
+		    case "Disgust":
 		        return "disgust";
 		        break;
-		    case "Angst":
+		    case "Fear":
 		        return "fear";
 		        break;
-		    case "Freude":
+		    case "Joy":
 		        return "joy";
 		        break;
-		    case "Traurigkeit":
+		    case "Sadness":
 		        return "sadness";
 		        break;
-		    case "Überraschung":
+		    case "Surprise":
 		        return "surprise";
 		        break;
-		    case "Vertrauen":
+		    case "Trust":
 		        return "trust";
 		        break;
-		    case "Emotion vorhanden":
+		    case "Emotion present":
 		    	return "emotionPresent";
 		    	break;
-		    case "Absolut":
+		    case "Absolute":
 		        return "metricsTotal";
 		        break;
-		    case "Normalisiert an Anzahl aller Wörter":
+		    case "Normalized by number of words":
 		        return "metricsNormalisedLengthInWords";
 		        break;
-		    case "Normalisiert an Sentiment-Tragenden Wörtern":
+		    case "Normalized by sentiment bearing words":
 		        return "metricsNormalisedSBWs";
 		        break;
-		    case "Emotionen":
+		    case "Emotions":
 		    	return "emotions";
 		    	break;
-		    case "Verteilung von Sentiment-Tragenden Wörtern":
+		    case "Distribution of sentiment bearing words":
 		    	return "normalisedSBWs";
 		    	break;
-		    case "Verteilung von allen Wörtern":
+		    case "Distribution of all words":
 		    	return "normalisedAllWords";
 		    	break;
-		    case "Polaritäten (gewichtet)":
+		    case "Polarities (weighted)":
 		    	return "polarityWeighted";
 		    	break;
-		    case "Polaritäten (Wortanzahl)":
+		    case "Polarities (number of words)":
 		    	return "polarityCount";
 		    	break;
 		    default:
@@ -78,73 +78,73 @@ var transformGermanMetric = function(name){
 var transformEnglishMetric = function(name){
 		switch(name) {
 		    case "polaritySentiWS":
-		        return "Polarität (gewichtet)";
+		        return "Polarity (weighted)";
 		        break;
 		    case "polaritySentiWSDichotom":
-		        return "Polarität (Wortanzahl)";
+		        return "Polarity (number of words)";
 		        break;
 		    case "positiveSentiWS":
-		        return "Positiv (gewichtet)";
+		        return "Positive (weighted)";
 		        break;
 		    case "positiveSentiWSDichotom":
-		        return "Positiv (Wortanzahl)";
+		        return "Positive (number of words)";
 		        break;
 		    case "negativeSentiWS":
-		        return "Negativ (gewichtet)";
+		        return "Negative (weighted)";
 		        break;
 		    case "negativeSentiWSDichotom":
-		        return "Negativ (Wortanzahl)";
+		        return "Negative (number of words)";
 		        break;
 		    case "anger":
-		        return "Zorn";
+		        return "Anger";
 		        break;
 		    case "anticipation":
-		        return "Erwartung";
+		        return "Anticipation";
 		        break;
 		    case "disgust":
-		        return "Ekel";
+		        return "Disgust";
 		        break;
 		    case "fear":
-		        return "Angst";
+		        return "Fear";
 		        break;
 		    case "joy":
-		        return "Freude";
+		        return "Joy";
 		        break;
 		    case "sadness":
-		        return "Traurigkeit";
+		        return "Sadness";
 		        break;
 		    case "surprise":
-		        return "Überraschung";
+		        return "Surprise";
 		        break;
 		    case "trust":
-		        return "Vertrauen";
+		        return "Trust";
 		        break;
 		    case "emotionPresent":
-		    	return "Emotion vorhanden";
+		    	return "Emotion present";
 		    	break;
 		    case "metricsTotal":
-		        return "Absolut";
+		        return "Absolute";
 		        break;
 		    case "metricsNormalisedLengthInWords":
-		        return "Normalisiert an Anzahl aller Wörter";
+		        return "Normalized by number of words";
 		        break;
 		    case "metricsNormalisedSBWs":
-		        return "Normalisiert an Sentiment-Tragenden Wörtern";
+		        return "Normalized by sentiment bearing words";
 		        break;
 		    case "emotions":
-		    	return "Emotionen";
+		    	return "Emotions";
 		    	break;
 		    case "normalisedSBWs":
-		    	return "Verteilung von Sentiment-Tragenden Wörtern";
+		    	return "Distribution of sentiment bearing words";
 		    	break;
 		    case "normalisedAllWords":
-		    	return "Verteilung von allen Wörtern";
+		    	return "Distribution of all words";
 		    	break;
 		    case "polarityWeighted":
-		    	return "Polaritäten (gewichtet)";
+		    	return "Polarities (weighted)";
 		    	break;
 		    case "polarityCount":
-		    	return "Polaritäten (Wortanzahl)";
+		    	return "Polarities (number of words)";
 		    	break;
 		    default:
 		    	console.log(name);

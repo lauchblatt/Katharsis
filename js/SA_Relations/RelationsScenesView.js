@@ -81,7 +81,7 @@ SA_Relations.RelationsScenesView = function(){
 		for(var i = 0; i < scenesPerAct.length; i++){
 			for(var j = 0; j < scenesPerAct[i]; j++){
 				var row = [];
-				var name = (i+1).toString() + ". Akt, " + (j+1).toString() + ". Szene";
+				var name = (i+1).toString() + ". Akt, " + (j+1).toString() + ". Scene";
 				row.push(name);
 				for(var k = 0; k < chosenTargets.length; k++){
 					var metricSelections = metricsForScenesRelations[speakerName][chosenTargets[k]][i][j];
@@ -107,12 +107,12 @@ SA_Relations.RelationsScenesView = function(){
 		}
 
         data.addRows(metrics);
-        var options = {title:'Beziehungs-Sentiments pro Szene - ' + speakerName + ' : ' + vAxisTitle,
+        var options = {title:'Relationship sentiments per Scene - ' + speakerName + ' : ' + vAxisTitle,
         			   height: 600,
         			   width: 1130,
         			   chartArea:{width:'70%',height:'75%'},
 				        hAxis: {
-        			   	title: 'Szenen',
+        			   	title: 'Scenes',
         			   	slantedText: false
         			   },
         			   vAxis: {

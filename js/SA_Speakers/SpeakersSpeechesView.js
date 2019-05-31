@@ -100,12 +100,12 @@ SA_Speakers.SpeakersSpeechesView = function(){
 			additionalInfo = speakerName + " ist nicht Sprecher";
 		}
 		var divBegin = "<div class='tooltip-test'>"
-		var act = metric.act + ". Akt, ";
-		var scene = metric.conf + ". Szene, ";
-		var speech = metric.numberInConf + ". Replik";
-		var numberInDrama = metric.subsequentNumber + ". Replik im Drama";
+		var act = metric.act + ". Act, ";
+		var scene = metric.conf + ". Scene, ";
+		var speech = metric.numberInConf + ". Speech";
+		var numberInDrama = metric.subsequentNumber + ". Speech in play";
 		var structureInfo = "<b>" + act + scene + speech + "</b>";
-		var speakerInfo = "Sprecher: " + metric.speaker;
+		var speakerInfo = "Speaker: " + metric.speaker;
 		var valueInfo = metricName + ": <b>" + (Math.round(metricValue * 10000) / 10000).toString() + "</b>";
 		if(sentimentMetricsBasic == null){
 			valueInfo = additionalInfo;
@@ -128,7 +128,7 @@ SA_Speakers.SpeakersSpeechesView = function(){
 		//data.addColumn({'type': 'string', 'role': 'tooltip', 'p': {'html': true}})
         data.addRows(metrics);
 
-        var options = {title:'Repliken-Verlauf pro Sprecher (ganzes Drama): ' + vAxisTitle,
+        var options = {title:'Speech progression per Speaker (entire play): ' + vAxisTitle,
         			   height: 600,
         			   width: 1130,
         			   explorer: { 

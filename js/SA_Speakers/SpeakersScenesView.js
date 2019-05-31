@@ -196,7 +196,7 @@ SA_Speakers.SpeakersScenesView = function(){
         for(var k = 0; k < metrics.length; k++){
         	ticksArray.push(k+1);
         }
-        var options = {title:'Szenen-Verlauf in Akt ' + actNumber + " : " + vAxisTitle,
+        var options = {title:'Scene progression in Act ' + actNumber + " : " + vAxisTitle,
         			   height: 600,
         			   width: 1170,
         			   chartArea:{width:'70%',height:'75%'},
@@ -300,7 +300,7 @@ SA_Speakers.SpeakersScenesView = function(){
 		
         data.addRows(metrics);
 
-        var options = {title:'Szenen-Verlauf: ' + vAxisTitle,
+        var options = {title:'Scene progression: ' + vAxisTitle,
         			   height: 600,
         			   width: 1130,
         			   chartArea:{width:'70%',height:'75%'},

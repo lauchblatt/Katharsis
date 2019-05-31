@@ -50,9 +50,9 @@ SA_Relations.RelationsProportionsView = function(){
 
 	var renderDropDowns = function(){
 		var actSelection = $("#selection-relations-act-pie-number");
-		actSelection.append($("<option>Gesamt</option>"));
+		actSelection.append($("<option>Overall</option>"));
 		for(i = 0; i < proportionsForActsRelations.length; i++){
-			var $option = $("<option>" + (i+1).toString() + " .Akt</option>");
+			var $option = $("<option>" + (i+1).toString() + " .Act</option>");
 			actSelection.append($option);
 		}
 		renderDropDownScenes();
@@ -63,14 +63,14 @@ SA_Relations.RelationsProportionsView = function(){
 		$originSpeakerSelection[0].options.length = 0;
 		var actVal = $("#selection-relations-act-pie-number").val();
 		var sceneVal = $("#selection-relations-scene-pie-number").val();
-		if(actVal == "Gesamt"){
+		if(actVal == "Overall"){
 			for(var speaker in proportionsForDramaRelations){
 				var $option = $("<option>" + speaker + "</option>");
 				$originSpeakerSelection.append($option);
 				}
 			}else{
 				var actSelection = parseInt(actVal) - 1;
-				if(sceneVal == "Gesamt"){
+				if(sceneVal == "Overall"){
 					for(var speaker in proportionsForActsRelations[actSelection]){
 					var $option = $("<option>" + speaker + "</option>");
 					$originSpeakerSelection.append($option);
@@ -96,11 +96,11 @@ SA_Relations.RelationsProportionsView = function(){
 		var originSpeakerVal = $("#selection-relations-originSpeaker-pie").val();
 
 		var originSpeaker = {};
-		if(actVal == "Gesamt"){
+		if(actVal == "Overall"){
 			originSpeaker = proportionsForDramaRelations[originSpeakerVal];
 		}else{
 			var actSelection = parseInt(actVal) - 1;
-			if(sceneVal == "Gesamt"){
+			if(sceneVal == "Overall"){
 				originSpeaker = proportionsForActsRelations[actSelection][originSpeakerVal];
 			}else{
 				var sceneSelection = parseInt(sceneVal) - 1;
@@ -119,13 +119,13 @@ SA_Relations.RelationsProportionsView = function(){
 		$scenesSelection[0].options.length = 0;
 		var actVal = $("#selection-relations-act-pie-number").val();
 
-		if(actVal == "Gesamt"){
-			$scenesSelection.append($("<option>Gesamt</option>"));
+		if(actVal == "Overall"){
+			$scenesSelection.append($("<option>Overall</option>"));
 		} else{
-			$scenesSelection.append($("<option>Gesamt</option>"));
+			$scenesSelection.append($("<option>Overall</option>"));
 			var selection = parseInt(actVal) - 1;
 			for(var i = 0; i < proportionsForScenesRelations[selection].length; i++){
-				var $option = $("<option>" + (i+1).toString() + " .Szene</option>");
+				var $option = $("<option>" + (i+1).toString() + " .Scene</option>");
 				$scenesSelection.append($option)
 			}
 		}
@@ -152,11 +152,11 @@ SA_Relations.RelationsProportionsView = function(){
 		var chosenProportions = null;
 		var actVal = $("#selection-relations-act-pie-number").val();
 		var sceneVal = $("#selection-relations-scene-pie-number").val();
-		if(actVal == "Gesamt"){
+		if(actVal == "Overall"){
 			chosenProportions = proportionsForDramaRelations;
 		}else{
 			var actSelection = parseInt(actVal) - 1;
-			if(sceneVal == "Gesamt"){
+			if(sceneVal == "Overall"){
 				chosenProportions = proportionsForActsRelations[actSelection];
 			}else{
 				var sceneSelection = parseInt(sceneVal) - 1;
@@ -179,7 +179,7 @@ SA_Relations.RelationsProportionsView = function(){
 		  height: 600,
       		width: 1000,
       		chartArea:{width:'70%',height:'75%'},
-          	title: 'Sentiment-Anteile: ' + germanMetric + " - " + germanType,
+          	title: 'Sentiment distribution: ' + germanMetric + " - " + germanType,
           	is3D: true,
         	};
         var chart = new google.visualization.PieChart(document.getElementById('chart-div-relations-pie'))

@@ -65,7 +65,7 @@ SA_Speakers.BasicDramaSpeakersView = function(){
 		data.addColumn({type:'string', role:'style'});
 		
         data.addRows(metrics);
-        var options = {title:'Sentiments im Drama für ' + speakerName + ":" + vAxisTitle,
+        var options = {title:'Sentiments in play for  ' + speakerName + ":" + vAxisTitle,
         			   height: 600,
         			   width: 1130,
         			   legend: {

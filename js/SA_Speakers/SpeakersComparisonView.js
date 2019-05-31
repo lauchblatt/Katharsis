@@ -40,9 +40,9 @@ SA_Speakers.SpeakersComparisonView = function(){
 
 	var renderDropDowns = function(){
 		var actSelection = $("#selection-speakersComparison-act-bar-number");
-		actSelection.append($("<option>Gesamt</option>"));
+		actSelection.append($("<option>Overall</option>"));
 		for(i = 0; i < metricsForActs.length; i++){
-			var $option = $("<option>" + (i+1).toString() + " .Akt</option>");
+			var $option = $("<option>" + (i+1).toString() + " .Act</option>");
 			actSelection.append($option);
 		}
 		renderDropDownScenes();
@@ -53,13 +53,13 @@ SA_Speakers.SpeakersComparisonView = function(){
 		$scenesSelection[0].options.length = 0;
 		var actVal = $("#selection-speakersComparison-act-bar-number").val();
 		
-		if(actVal == "Gesamt"){
-			$scenesSelection.append($("<option>Gesamt</option>"));
+		if(actVal == "Overall"){
+			$scenesSelection.append($("<option>Overall</option>"));
 		} else{
-			$scenesSelection.append($("<option>Gesamt</option>"));
+			$scenesSelection.append($("<option>Overall</option>"));
 			var selection = parseInt(actVal) - 1;
 			for(var i = 0; i < metricsForScenes[selection].length; i++){
-				var $option = $("<option>" + (i+1).toString() + " .Szene</option>");
+				var $option = $("<option>" + (i+1).toString() + " .Scene</option>");
 				$scenesSelection.append($option)
 			}
 		}
@@ -68,10 +68,10 @@ SA_Speakers.SpeakersComparisonView = function(){
 	var setCurrentMetrics = function(){
 		var actVal = $("#selection-speakersComparison-act-bar-number").val();
 		var sceneVal = $("#selection-speakersComparison-scene-bar-number").val();
-		if(actVal == "Gesamt"){
+		if(actVal == "Overall"){
 			currentMetrics = metricsForDrama;
 		}else{
-			if(sceneVal == "Gesamt"){
+			if(sceneVal == "Overall"){
 				var actNumber = parseInt(actVal) - 1;
 				currentMetrics = metricsForActs[actNumber];
 			}else{
@@ -117,7 +117,7 @@ SA_Speakers.SpeakersComparisonView = function(){
 
 	var drawSpeakersComparisonBarChart = function(metricsArray, germanMetric, germanType){
 		var data = new google.visualization.DataTable();
-		data.addColumn("string", "Sprecher");
+		data.addColumn("string", "Speaker");
 		data.addColumn("number", germanMetric);
 
 		data.addRows(metricsArray);
@@ -128,7 +128,7 @@ SA_Speakers.SpeakersComparisonView = function(){
 			estimatedHeight = 800;
 		}
 
-		var options = {title:'Sprecher-Vergleich',
+		var options = {title:'Speaker-Comparison',
         			   height: estimatedHeight,
         			   width: 1000,
         			   chartArea:{width:'55%',height:'90%'},
@@ -139,7 +139,7 @@ SA_Speakers.SpeakersComparisonView = function(){
                    	   	duration: 1000
                    	   },
         			   vAxis: {
-        			   	title: "Sprecher",
+        			   	title: "Speaker",
         			   	baseline: 0
         			   }};
 

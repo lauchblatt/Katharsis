@@ -94,12 +94,12 @@ SA_Relations.RelationsDramaView = function(){
 
         data.addRows(metrics);
         
-        var options = {title:'Beziehungs-Sentiments - ' + speakerName + ' : ' + vAxisTitle,
+        var options = {title:'Relationship sentiments - ' + speakerName + ' : ' + vAxisTitle,
         			   height: 600,
         			   width: 1130,
         			   chartArea:{width:'70%',height:'75%'},
 				        hAxis: {
-        			   	title: 'Sprecher-Beziehung'
+        			   	title: 'Speaker relationship'
         			   },
         			   vAxis: {
         			   	title: vAxisTitle,

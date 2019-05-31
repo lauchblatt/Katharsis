@@ -27,7 +27,7 @@ ActsScenes.ScenesView = function(){
 		for(i = 0; i < numberOfActs; i++){
 			option = $("<option></option>")
 			actNumber = i + 1;
-			option.text(actNumber.toString() + " .Akt");
+			option.text(actNumber.toString() + " .Act");
 			$select.append(option);
 		}
 	};
@@ -37,7 +37,7 @@ ActsScenes.ScenesView = function(){
 		for(i = 0; i < numberOfScenes; i++){
 			option = $("<option></option>")
 			sceneNumber = i + 1;
-			option.text(sceneNumber.toString() + " .Szene");
+			option.text(sceneNumber.toString() + " .Scene");
 			$select.append(option);
 		}
 	};
@@ -60,8 +60,8 @@ ActsScenes.ScenesView = function(){
 	var getDramaSceneMetricPairs = function(metric, type){
 		var dataScenesPairs = []
 		for(i = 0; i < metricsForScenes.length; i++){
-			annotation = metricsForScenes[i].numberOfAct.toString() + ". Akt, " + 
-			metricsForScenes[i].numberOfScene.toString() + ". Szene";
+			annotation = metricsForScenes[i].numberOfAct.toString() + ". Act, " + 
+			metricsForScenes[i].numberOfScene.toString() + ". Scene";
 
 			var dataSceneMetric = metricsForScenes[i][type][metric];
 			var pair = [annotation, dataSceneMetric]; 
@@ -77,7 +77,7 @@ ActsScenes.ScenesView = function(){
 		data.addColumn("number", germanMetric)
 
         data.addRows(metricPairs);
-        var options = {title:'Szenen-Verlauf (ganzes Drama): ' + vAxisTitle,
+        var options = {title:'Scenes progression (entire play): ' + vAxisTitle,
         			   height: 600,
         			   width: 1130,
         			   chartArea:{width:'70%',height:'75%'},
@@ -93,7 +93,7 @@ ActsScenes.ScenesView = function(){
 				          }
 				        },
 				        hAxis: {
-        			   	title: 'Szenen',
+        			   	title: 'Scenes',
         			   	slantedText: false
         			   },
         			   vAxis: {
@@ -136,7 +136,7 @@ ActsScenes.ScenesView = function(){
 		  height: 600,
       		width: 1000,
       		chartArea:{width:'70%',height:'75%'},
-          	title: 'Sentiment-Anteile: ' + germanMetric + " - " + germanType,
+          	title: 'Sentiment distribution: ' + germanMetric + " - " + germanType,
           	is3D: true,
         	};
         var chart = new google.visualization.PieChart(document.getElementById('chart-div-scenes-pie'))

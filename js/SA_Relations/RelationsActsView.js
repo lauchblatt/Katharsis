@@ -81,7 +81,7 @@ SA_Relations.RelationsActsView = function(){
 		var metrics = [];
 		for(i = 0; i < numberOfActs; i++){
 			var row = [];
-			row.push((i+1).toString() + ". Akt");
+			row.push((i+1).toString() + ". Act");
 			for(j = 0; j < chosenTargets.length; j++){
 				var metricSelection = metricsForActsRelations[speakerName][chosenTargets[j]][i];
 				if(metricSelection == null){
@@ -104,7 +104,7 @@ SA_Relations.RelationsActsView = function(){
 		}
 
         data.addRows(metrics);
-        var options = {title:'Beziehungs-Sentiments pro Akt - ' + speakerName + ' : ' + vAxisTitle,
+        var options = {title:'Relationship sentiments per Act - ' + speakerName + ' : ' + vAxisTitle,
         			   height: 600,
         			   width: 1130,
         			   chartArea:{width:'70%',height:'75%'},

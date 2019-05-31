@@ -29,12 +29,15 @@ ActsScenes.DramaView = function(){
 		data.addColumn("string", "Category");
 		data.addColumn("number", "Count");
 
+		console.log(proportionType)
+		console.log(metricName)
+		console.log(proportionsForDrama)
         data.addRows(proportionsForDrama[proportionType][metricName]);
         var options = {
 		  height: 600,
       		width: 1000,
       		chartArea:{width:'70%',height:'75%'},
-          	title: 'Sentiment-Anteile: ' + germanMetric + " - " + germanType,
+          	title: 'Sentiment distribution: ' + germanMetric + " - " + germanType,
           	is3D: true,
         	};
         var chart = new google.visualization.PieChart(document.getElementById('chart-div-drama-pie'))

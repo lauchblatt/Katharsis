@@ -45,9 +45,9 @@ SA_Speakers.SingleSpeakerView = function(){
 
 	var renderDropDowns = function(){
 		var actSelection = $("#selection-speakerInDrama-act-pie-number");
-		actSelection.append($("<option>Gesamt</option>"));
+		actSelection.append($("<option>Overall</option>"));
 		for(i = 0; i < proportionsForActsSpeakers.length; i++){
-			var $option = $("<option>" + (i+1).toString() + " .Akt</option>");
+			var $option = $("<option>" + (i+1).toString() + " .Act</option>");
 			actSelection.append($option);
 		}
 		renderDropDownScenes();
@@ -59,13 +59,13 @@ SA_Speakers.SingleSpeakerView = function(){
 		$scenesSelection[0].options.length = 0;
 		var actVal = $("#selection-speakerInDrama-act-pie-number").val();
 		
-		if(actVal == "Gesamt"){
-			$scenesSelection.append($("<option>Gesamt</option>"));
+		if(actVal == "Overall"){
+			$scenesSelection.append($("<option>Overall</option>"));
 		} else{
-			$scenesSelection.append($("<option>Gesamt</option>"));
+			$scenesSelection.append($("<option>Ovrall</option>"));
 			var selection = parseInt(actVal) - 1;
 			for(var i = 0; i < proportionsForScenesSpeakers[selection].length; i++){
-				var $option = $("<option>" + (i+1).toString() + " .Szene</option>");
+				var $option = $("<option>" + (i+1).toString() + " .Scene</option>");
 				$scenesSelection.append($option)
 			}
 		}
@@ -77,14 +77,14 @@ SA_Speakers.SingleSpeakerView = function(){
 		var actVal = $("#selection-speakerInDrama-act-pie-number").val();
 		var sceneVal = $("#selection-speakerInDrama-scene-pie-number").val();
 
-		if(actVal == "Gesamt"){
+		if(actVal == "Overall"){
 			currentProportionSelection = proportionsForDramaSpeakers;
 			for (var speaker in proportionsForDramaSpeakers){
 				var $select = $("<option>" + speaker +"</option>");
 				$speakersSelection.append($select);
 				}
 		}else{
-			if(sceneVal == "Gesamt"){
+			if(sceneVal == "Overall"){
 				var actNumber = parseInt(actVal) - 1;
 				currentProportionSelection = proportionsForActsSpeakers[actNumber];
 				for (var speaker in proportionsForActsSpeakers[actNumber]){
@@ -124,7 +124,7 @@ SA_Speakers.SingleSpeakerView = function(){
 		  height: 600,
       		width: 1000,
       		chartArea:{width:'70%',height:'75%'},
-          	title: 'Sentiment-Anteile: ' + germanMetric + " - " + germanType,
+          	title: 'Sentiment distribution: ' + germanMetric + " - " + germanType,
           	is3D: true,
         	};
         var chart = new google.visualization.PieChart(document.getElementById('chart-div-speakerInDrama-pie'))

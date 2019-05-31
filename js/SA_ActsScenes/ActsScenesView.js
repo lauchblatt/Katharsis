@@ -19,7 +19,7 @@ ActsScenes.ActsScenesView = function(){
 		for(i = 0; i < numberOfActs; i++){
 			option = $("<option></option>")
 			actNumber = i + 1;
-			option.text(actNumber.toString() + " .Akt");
+			option.text(actNumber.toString() + " .Act");
 			$select.append(option);
 		}
 	};
@@ -56,7 +56,7 @@ ActsScenes.ActsScenesView = function(){
 		  height: 600,
       		width: 1000,
       		chartArea:{width:'70%',height:'75%'},
-          	title: 'Sentiment-Anteile pro Akt',
+          	title: 'Sentiment distribution per act',
           	is3D: true,
         	};
         var chart = new google.visualization.PieChart(document.getElementById('chart-div-act-pie'))
@@ -138,7 +138,7 @@ ActsScenes.ActsScenesView = function(){
         for(var k = 0; k < metrics.length; k++){
         	ticksArray.push(k+1);
         }
-        var options = {title:'Szenen-Verlauf: ' + actNumber + " Akt",
+        var options = {title:'Scene progression: ' + actNumber + " Act",
         			   height: 600,
         			   width: 1170,
         			   chartArea:{width:'70%',height:'75%'},
@@ -154,7 +154,7 @@ ActsScenes.ActsScenesView = function(){
 				          }
 				        },
 				        hAxis: {
-        			   	title: 'Szenen',
+        			   	title: 'Scenes',
         			   	ticks: ticksArray
         			   },
         			   vAxis: {
@@ -184,7 +184,7 @@ ActsScenes.ActsScenesView = function(){
 		data.addColumn("number", metricName)
 		data.addColumn({type:'string', role:'annotation'})
         data.addRows(numberMetricPairs);
-        var options = {title:'Akt-Verlauf: ' + vAxisTitle,
+        var options = {title:'Act progression: ' + vAxisTitle,
         			   height: 600,
         			   width: 1130,
         			   chartArea:{width:'70%',height:'75%'},
@@ -200,7 +200,7 @@ ActsScenes.ActsScenesView = function(){
 				          }
 				        },
 				        hAxis: {
-        			   	title: 'Akte'
+        			   	title: 'Acts'
         			   },
         			   vAxis: {
         			   	title: vAxisTitle,

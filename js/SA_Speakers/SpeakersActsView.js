@@ -78,7 +78,7 @@ SA_Speakers.SpeakersActsView = function(){
 				if(speakerMetrics == null){
 					row.push(0);
 					if(chosenSpeakers.length == 1 || chosenSpeakers.length == 2){
-						row.push("kein Auftritt");
+						row.push("no appearance");
 					}
 						
 				}else{
@@ -125,7 +125,7 @@ SA_Speakers.SpeakersActsView = function(){
 		
         data.addRows(metrics);
         
-        var options = {title:'Akt-Verlauf pro Sprecher: ' + vAxisTitle,
+        var options = {title:'Act progression per speaker: ' + vAxisTitle,
         			   height: 600,
         			   width: 1130,
         			   chartArea:{width:'70%',height:'75%'},
@@ -141,7 +141,7 @@ SA_Speakers.SpeakersActsView = function(){
 				          }
 				        },
 				        hAxis: {
-        			   	title: 'Akte'
+        			   	title: 'Acts'
         			   },
         			   vAxis: {
         			   	title: vAxisTitle,

@@ -55,7 +55,7 @@ ActsScenes.BasicDramaView = function(){
 		data.addColumn({type:'string', role:'style'});
 		
         data.addRows(metrics);
-        var options = {title:'Sentiments im Drama: ' + vAxisTitle,
+        var options = {title:'Sentiments in the play: ' + vAxisTitle,
         			   height: 600,
         			   width: 1130,
         			   legend: {
