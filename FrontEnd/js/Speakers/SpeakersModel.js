@@ -68,7 +68,7 @@ Speakers.SpeakersModel = function(){
 
 	//Get all necessary info of the database, and trigger when finished
 	var initInfo = function(name){
-		firebaseRef = new Firebase("https://katharsis-2.firebaseio.com/" + name +"/" + currentDrama_id);
+		firebaseRef = new Firebase("https://katharsis-3.firebaseio.com/" + name +"/" + currentDrama_id);
 		firebaseRef.on("value", function(snapshot) {
 			switch (name) {
 				case "speakers_data":

@@ -56,7 +56,7 @@ Speeches.SpeechesModel = function(){
 
 	//catch alle info from database and trigger when ready
 	var initInfo = function(name){
-		firebaseRef = new Firebase("https://katharsis-2.firebaseio.com/" + name +"/" + currentDrama_id);
+		firebaseRef = new Firebase("https://katharsis-3.firebaseio.com/" + name +"/" + currentDrama_id);
 		firebaseRef.on("value", function(snapshot) {
 			switch (name) {
 				case "scenes_data":
