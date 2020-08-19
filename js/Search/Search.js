@@ -7,14 +7,8 @@ var Search = {
 var currentDrama_id = 0;
 
 	var init = function(){
-		initId();
 		initFields();
 		initLinks();
-	};
-
-	var initId = function(){
-		var params = window.location.search
-		currentDrama_id = (params.substring(params.indexOf("=") + 1));
 	};
 
 	//Set different Links of the Page with the ID of the currently selected drama
