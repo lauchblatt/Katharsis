@@ -4,69 +4,126 @@
 		<meta charset="utf-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
     	<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Katharsis - Kontakt</title>	
+		<title>Contact</title>	
 
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 		<link href="css/sentiment-analysis.css" rel="stylesheet">
 
 	</head>
 	<body>
-
-		<div id="maincontent">
+		<<div id="maincontent">
 			<div class="container overhead">
 				<div class="" id="header">
 						<div id="logo-wrapper">
 							<a href="./index.html" ><img id="logo" src="./img/logo.png" title="Katharsis"></img></a>
 						</div>
 						<div id="header-wrapper">
-							<h1 id="dramaTitle" class="page-header">Katharsis - Sentiment Analysis</h1>
-							<h2 id="dramaAuthor">Contact and further information</h2>
+							<h1 id="dramaTitle" class="page-header">Katharsis - Quantitative Analysis of Plays</h1>
+							<h2 id="dramaAuthor">Contact and further Information</h2>
 						</div>
 				</div>
 			
-
-			<nav class="navbar navbar-default">
+			<div class="container">
+				<nav class="navbar navbar-default">
 					  <div class="container-fluid">
 
 					    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					      <ul class="nav navbar-nav">
 
-					      	<li class=""><a id="link-overall" href="sa_selection.html" class="links">Auswahl<span class="sr-only">(current)</span></a></li>
+					      	<li><a class="links" href="index.html">Search <span class="sr-only">(current)</span></a></li>
+					      	<li><a id="link-overall" class="links" href="#">Overview <span class="sr-only">(current)</span></a></li>
 
-					      	<li><a href="sa_dramaActScenes.html" id="link-matrix" class="links">Drama-Akt-Szenen-Repliken-Analyse<span class="sr-only">(current)</span></a></li>
+					      	<li><a href="#" id="link-matrix" class="links">Configuration matrix <span class="sr-only">(current)</span></a></li>
 
 					        <li class="dropdown">
-					          <a id="sa_speakers" class="links" href="sa_speakers.html">
-					          	Sprecher-Analyse<span class="sr-only">(current)</span></span></a>
+					          <a href="" id="link-drama" role="button" class="links" aria-expanded="false">
+					          	Structual analysis<span class="caret"></span></a>
+					          <ul class="dropdown-menu" role="menu">
+					            <li><a href="#" id="link-drama-actSceneAnalysis">Act-scene-table</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-drama-actStatistic">Bar chart - Acts statistics</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-drama-sceneStatistic">Bar chart - Scenes statistics</a></li>
+					          </ul>
 					        </li>
 
 					        <li class="dropdown">
-					          <a href="sa_relations.html" id="link-speeches" class="links">
-					          	Sprecher-Beziehungen<span class="sr-only">(current)</span></span></a>
+					          <a id="link-speakers" class="links" href="#" role="button" aria-expanded="false">
+					          	Speaker analysis<span class="caret"></span></a>
+					          <ul class="dropdown-menu" role="menu">
+					            <li><a href="#" id="link-speaker-table">Speaker table</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-speeches-dominance">Pie chart - Dominance of speeches</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-speaker-statistic">Bar chart - Speaker statistics</a></li>
+					            <li class="divider"></li>
+					            <li><a href="#" id="link-speaker-relations">Speaker relations</a></li>
+					          </ul>
 					        </li>
+
+					        <li class="dropdown">
+					          <a href="#" id="link-speeches" class="links" role="button" aria-expanded="false">
+					          	Distribution of speeches<span class="caret"></span></a>
+					          <ul class="dropdown-menu" role="menu">
+					            <li><a href="#" id="link-histogram">Distribution of speeches - Histogram</a></li>
+					            <li class="divider" ></li>
+					            <li><a href="#" id="link-curve-diagram">Distribution of speeches - Curve diagram</a></li>
+					          </ul>
+					        </li>
+
 					        <li class="superactive">
-					          <a href="contact.html" id="link-speeches" class="links">
+					          <a href="contact.html" class="links" id="link-contact">
 					          	Contact<span class="sr-only">(current)</span></span></a>
 					        </li>
-					        <li><a class="links" href="index.html">Zur quantitativen Dramenanalyse <span class="sr-only">(current)</span></a></li>
+					        <li><a class="links" href="sa_selection.html"> Sentiment Analysis (beta) <span class="sr-only">(current)</span></a></li>
 
 					      </ul>
 					    </div><!-- /.navbar-collapse -->
 					  </div><!-- /.container-fluid -->
 				</nav>
-			</div>
 
-						<div class="container">
+			<div class="container">
 				<h1> Contact and further information </h1>
 <div>
-	Katharsis is a tool for the quantitative analysis of historic German plays with a sentiment analysis compenent specifically for Lessing's plays. 
+	Katharsis is a tool for the quantitative analysis of historic German plays with a sentiment analysis compenent specifically for Lessing's plays. If you have any questions please contact: thomas.schmidt@ur.de.
 	<br/>
 	<br/>
 	The following persons participated in the creation of Katharsis:
-	<div>This information is currently not available due to an anonymous review process.</div>
-	<br/>
+	<ul>
+	<li><a href="https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/thomas-schmidt/index.html"> Thomas Schmidt </a></li>
+	<li><a href=""> Manuel Burghardt </a></li>
+	<li><a href=""> Katrin Dennerlein </a></li>
+	<li><a href=""> Christian Wolff </a></li>
+	</ul>
+
+	<div>More information about the tool, the idea and the research background of Katharsis, quantitative drama analysis and sentiment analysis in plays can be found in the papers above.</div>
+
+	<h2>Publications and citation information</h2>
+
+	<div>If you use Katharsis for any research purposes please cite the following publication.</div>
+
+	<p><a href="https://epub.uni-regensburg.de/43579/1/Katharsis%20%E2%80%93%20A%20Tool%20for%20Computational%20Drametrics.pdf">Schmidt, T., Burghardt, M., Dennerlein, K. & Wolff, C. (2019). Katharsis - A Tool for Computational Drametrics. In: Book of Abstracts, Digital Humanities Conference 2019 (DH 2019). Utrecht, Netherlands. </a> </p>
+
+	<div>If you specifically use the sentiment analysis component for any research purpose please cite one of the following publication.</div>
+
+	<p><a href="https://www.aclweb.org/anthology/W18-4516/">Schmidt, T. & Burghardt, M. (2018). An Evaluation of Lexicon-based Sentiment Analysis Techniques for the Plays of Gotthold Ephraim Lessing.
+                        In: Proceedings of the Second Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature
+                        (pp. 139-149). Santa Fe, New Mexico: Association for Computational Linguistics.</a></p>
+                        <p><a href="https://epub.uni-regensburg.de/37575/">Schmidt, T. & Burghardt, M. (2018). Toward a Tool for Sentiment Analysis for German Historic Plays.
+                        In: Piotrowski, M. (ed.), COMHUM 2018: Book of Abstracts for the Workshop on Computational Methods in the Humanities 2018 (pp. 46-48).
+                        Lausanne, Switzerland: Laboratoire laussannois d'informatique et statistique textuelle</a></p>
+                        <p><a href="https://epub.uni-regensburg.de/37579/1/Self-Archiving-Version_DHd-2018.pdf">Schmidt, T., Burghardt, M. & Dennerlein, K. (2018). "Kann man denn auch nicht lachend sehr ernsthaft sein?"
+                        Zum Einsatz von Sentiment Analyse-Verfahren für die quantitative Untersuchung von Lessings Dramen.
+                        In Book of Abstracts, DHd 2018.</a></p>
+
 </div>
-		</div><!-- maincontent -->
+
+			</div>
+		</div> <!-- maincontent -->
+
+		<script src="js/libs/jquery-1.11.2.js"></script>
+		<script src="https://cdn.firebase.com/js/client/2.2.2/firebase.js"></script>
+		<script src="js/bootstrap.min.js"></script>
 
 		<script src="js/libs/jquery-1.11.2.js"></script>
 		<script src="https://cdn.firebase.com/js/client/2.2.2/firebase.js"></script>
@@ -74,5 +131,7 @@
 		<script type="text/javascript" src="https://www.google.com/jsapi"></script>
 
 		<script type="text/javascript" src="js/Globals/global.js"></script>
+		<script type="text/javascript" src="js/Contact/contact.js"></script>
+
 	</body>
 </html>
