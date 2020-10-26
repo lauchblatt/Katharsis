@@ -75,6 +75,7 @@ Search.FormsView = function(){
 		var isComedy = $("#check-comedy").is(":checked");
 		var isTragedy = $("#check-tragedy").is(":checked");
 		var isPageant = $("#check-pageant").is(":checked");
+		var isUnknown = $("#check-unknown").is(":checked");
 
 		var date_from = $("#input-date-from").val();
 		var date_to = $("#input-date-to").val();
@@ -97,6 +98,9 @@ Search.FormsView = function(){
 		input["isComedy"] = isComedy;
 		input["isTragedy"] = isTragedy;
 		input["isPageant"] = isPageant;
+		input["isUnknown"] = isUnknown;
+
+		console.log("Hello World")
 
 		//catching all Range-data as range-object with two values from and to
 		var range = {};

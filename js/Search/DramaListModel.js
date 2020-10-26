@@ -16,7 +16,7 @@ Search.DramaListModel = function(){
 
 	var init = function(){
 		firebaseRef = null;
-		firebaseRef = new Firebase("https://katharsis-2.firebaseio.com/drama_data");
+		firebaseRef = new Firebase("https://katharsis-3.firebaseio.com/drama_data");
 
 		//Dramas without any criterion need to be filtered by name and title
 		$(that).on("AllDramasRetrieved", filterData);
@@ -44,7 +44,7 @@ Search.DramaListModel = function(){
 
 	var retrieveAllData = function(input){
 		firebaseRef = null;
-		firebaseRef = new Firebase("https://katharsis-2.firebaseio.com/drama_data");
+		firebaseRef = new Firebase("https://katharsis-3.firebaseio.com/drama_data");
 
 		$(that).trigger("EmptyTable");
 		firebaseRef.orderByChild('author').on("value", function(snapshot) {
@@ -86,6 +86,11 @@ Search.DramaListModel = function(){
 			}
 			if(input.isPageant){
 				if(dramas[i].type == "Schauspiel"){
+					filteredDramaList.push(dramas[i]);
+				}
+			}
+			if(input.isUnknown){
+				if(dramas[i].type == "unknown"){
 					filteredDramaList.push(dramas[i]);
 				}
 			}
@@ -232,7 +237,7 @@ Search.DramaListModel = function(){
 		$(that).trigger("EmptyTable");
 		//Reser Firebase
 		firebaseRef = null;
-		firebaseRef = new Firebase("https://katharsis-2.firebaseio.com/drama_data");
+		firebaseRef = new Firebase("https://katharsis-3.firebaseio.com/drama_data");
 
 		//Check if from and to is set
 		if(from === undefined){from = 0};

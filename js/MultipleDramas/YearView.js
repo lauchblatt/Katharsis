@@ -225,10 +225,14 @@ MultipleDramas.YearView = function(){
 		data.addColumn("number", 'Tragedy');
 		data.addColumn({'type': 'string', 'role': 'tooltip', 'p': {'html': true}});
 
+		data.addColumn("number", 'unknown');	
+		data.addColumn({'type': 'string', 'role': 'tooltip', 'p': {'html': true}});
+
 		var array = [];
 		var hasComedy = false;
 		var hasPageant = false;
 		var hasTragedy = false;
+		var hasUnknown = false;
 
 		//prepare Trendlines for every category
 		var trendlinesObj = {};
@@ -236,10 +240,12 @@ MultipleDramas.YearView = function(){
 		var trendlinePageant = {tooltip: false, type: 'polynomial', color: 'red', lineWidth: 3, opacity: 0.3, showR2: false, visibleInLegend: false};
 		var trendlineTragedy = {tooltip: false, type: 'polynomial', color: 'green', lineWidth: 3, opacity: 0.3, showR2: false, visibleInLegend: false};
 
+		var trendlineUnknown = {tooltip: false, type: 'polynomial', color: 'green', lineWidth: 3, opacity: 0.3, showR2: false, visibleInLegend: false};
+
 		//create data array with Tooltip for comedy, pageant, tragedy, other columns are null
 		for(i = 0; i < dramas.length; i++){
 			if(dramas[i].type == 'Komoedie'){
-				var row = [dramas[i].year, dramas[i][yearAttribute], createTooltip(dramas[i]), null, null, null, null ];
+				var row = [dramas[i].year, dramas[i][yearAttribute], createTooltip(dramas[i]), null, null, null, null, null, null];
 				array.push(row);
 				if(!hasComedy){
 					trendlinesObj['0'] = trendlineComedy;
@@ -247,7 +253,7 @@ MultipleDramas.YearView = function(){
 				}
 			}
 			if(dramas[i].type == 'Schauspiel'){
-				var row = [dramas[i].year, null, null, dramas[i][yearAttribute], createTooltip(dramas[i]), null, null];
+				var row = [dramas[i].year, null, null, dramas[i][yearAttribute], createTooltip(dramas[i]), null, null, null, null];
 				array.push(row);
 				if(!hasPageant){
 					trendlinesObj['1'] = trendlinePageant;
@@ -255,13 +261,23 @@ MultipleDramas.YearView = function(){
 				}
 			}
 			if(dramas[i].type == 'Trauerspiel'){
-				var row = [dramas[i].year, null, null, null, null, dramas[i][yearAttribute], createTooltip(dramas[i])];
+				var row = [dramas[i].year, null, null, null, null, dramas[i][yearAttribute], createTooltip(dramas[i]), null, null];
 				array.push(row);
 				if(!hasTragedy){
 					trendlinesObj['2'] = trendlineTragedy;
 					hasTragedy = true;
 				}
 			}
+
+			if(dramas[i].type == 'unknown'){	
+				var row = [dramas[i].year, null, null, null, null, null, null, dramas[i][yearAttribute], createTooltip(dramas[i])];	
+				array.push(row);	
+				if(!hasUnknown){	
+					trendlinesObj['3'] = trendlineUnknown;	
+					hasUnknown = true;	
+				}	
+			}
+
 		}
 		data.addRows(array);
 
@@ -274,7 +290,7 @@ MultipleDramas.YearView = function(){
           hAxis: {title: 'Year', format: ' '},
           vAxis: {title: yearSelection},
           chartArea:{width:'75%',height:'80%'},
-          colors: ['blue','red', 'green'],
+          colors: ['blue','red', 'green', 'yellow'],
           trendlines: trendlinesObj
         };
 
@@ -285,7 +301,7 @@ MultipleDramas.YearView = function(){
         		chartOptions: {
         			height: 100,
         			width: 1170,
-        			colors: ['blue', 'red', 'green'],
+        			colors: ['blue', 'red', 'green', 'yellow'],
         			chartArea:{width:'75%',height:'80%'},
         			hAxis: {title: 'Year', format: ' '}
         		}

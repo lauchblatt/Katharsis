@@ -123,11 +123,13 @@ SingleDrama.BarChartDramaView = function(){
 			$div_chart.addClass("scenes-chart");
 			$div_chart.attr("id", "chart-div-scenes-" + act);
 			$charts_scenes.append($div_chart);
+			/*
 			var $button = $("<button class='btn btn-primary png-download'></button>");
 			$button.attr("id", "download-png-" + act);
 			$button.text("Download PNG");
 			var $buttonDiv = $("<div>").addClass("container").append($button);
 			$charts_scenes.append($buttonDiv);
+			*/
 			drawChartForScenesInAct(("chart-div-scenes-" + act), scenesInfo[act], (act+1));
 		}
 	};
