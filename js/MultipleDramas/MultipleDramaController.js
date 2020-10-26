@@ -53,9 +53,12 @@ MultipleDramas.MultipleDramasController = function(){
 
 		renderSelectedDramas(dramas);
 
+		filteredDramas = filterUnknownYears(dramas)
+
 		yearView.setYearSelection();
 		yearView.setYearCompareSelection();
-		yearView.renderScatterChart(dramas, authorList);
+		console.log(dramas)
+		yearView.renderScatterChart(filteredDramas, authorList);
 		
 		authorView.setAuthorSelection();
 		authorView.renderBarChart(authorList);
@@ -72,6 +75,16 @@ MultipleDramas.MultipleDramasController = function(){
 		$("#maincontent").fadeIn();;
 
 	};
+
+	var filterUnknownYears = function(dramas) {
+		filteredList = [];
+		for(var i = 0; i < dramas.length; i++){
+			if(dramas[i]["year"] != "unknown"){
+				filteredList.push(dramas[i]);
+			}
+		}
+		return filteredList;
+	}
 
 	//Methods to create Tables for the List of Dramas
 	var renderSelectedDramas = function(dramas){
@@ -124,10 +137,13 @@ MultipleDramas.MultipleDramasController = function(){
 	var visuYearChart = function(){
 		var dramas = multipleDramasModel.getChosenDramas();
 		var authorList = multipleDramasModel.getAuthorList();
+		
+		filteredDramas = filterUnknownYears(dramas)
 
 		yearView.setYearSelection();
 		yearView.setYearCompareSelection();
-		yearView.renderScatterChart(dramas, authorList);
+
+		yearView.renderScatterChart(filteredDramas, authorList);
 	};
 
 	var visuAuthorChart = function(){
