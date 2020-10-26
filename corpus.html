@@ -4,33 +4,26 @@
 		<meta charset="utf-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
     	<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Configuration matrix</title>	
+		<title>Corpus</title>	
 
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-		<link rel="stylesheet" type="text/css" href="css/tooltipster.css" />
-		<link href="css/matrix.css" rel="stylesheet">
+		<link href="css/sentiment-analysis.css" rel="stylesheet">
 
 	</head>
 	<body>
-		<div id="loading" class="container">
-			<div id="loading-spinner">
-				<span class="glyphicon glyphicon-repeat glyphicon-repeat-animate loading-button" id="loading-spinner-img">
-				</span>
-				<div id="loading-text">Data is calculated. This can take a few seconds...</div>
-			</div>
-		</div>
-		<div id="maincontent">
-			<div class="container">
+		<<div id="maincontent">
+			<div class="container overhead">
 				<div class="" id="header">
 						<div id="logo-wrapper">
 							<a href="./index.html" ><img id="logo" src="./img/logo.png" title="Katharsis"></img></a>
 						</div>
 						<div id="header-wrapper">
-							<h1 id="dramaTitle" class="page-header"></h1>
-							<h2 id="dramaAuthor"></h2>
+							<h1 id="dramaTitle" class="page-header">Katharsis - Quantitative Analysis of Plays</h1>
+							<h2 id="dramaAuthor">Corpus Information</h2>
 						</div>
 				</div>
-
+			
+			<div class="container">
 				<nav class="navbar navbar-default">
 					  <div class="container-fluid">
 
@@ -40,7 +33,7 @@
 					      	<li><a class="links" href="index.html">Search <span class="sr-only">(current)</span></a></li>
 					      	<li><a id="link-overall" class="links" href="#">Overview <span class="sr-only">(current)</span></a></li>
 
-					      	<li class="superactive"><a href="#" id="link-matrix" class="links">Configuration matrix <span class="sr-only">(current)</span></a></li>
+					      	<li><a href="#" id="link-matrix" class="links">Configuration matrix <span class="sr-only">(current)</span></a></li>
 
 					        <li class="dropdown">
 					          <a href="" id="link-drama" role="button" class="links" aria-expanded="false">
@@ -78,49 +71,52 @@
 					          </ul>
 					        </li>
 
-					        <li>
-					          <a href="#" class="links" id="link-contact">
-					          	Contact <br/> Citation Information <br> Corpus Information<span class="sr-only">(current)</span></span></a>
+					        <li class="superactive">
+					          <a href="corpus.html" class="links" id="link-contact">
+					          	Corpus Information<span class="sr-only">(current)</span></span></a>
 					        </li>
-					        <li><a class="links" href="sa_selection.html"> Sentiment Analysis (beta)<span class="sr-only">(current)</span></a></li>
+
+					        <li class="">
+					          <a href="contact.html" class="links" id="link-contact">
+					          	Contact & Citation Information<span class="sr-only">(current)</span></span></a>
+					        </li>
+					        <li><a class="links" href="sa_selection.html"> Sentiment Analysis (beta) <span class="sr-only">(current)</span></a></li>
 
 					      </ul>
 					    </div><!-- /.navbar-collapse -->
 					  </div><!-- /.container-fluid -->
 				</nav>
 
-			</div>
-			<div id="wrapper" class="container">
+			<div class="container">
+				<h1> Corpus Information </h1>
+<div>
+	The corpus used in Katharsis is mainly GerDracor (Fischer et al., 2019). This is a collection of TEI P5-encoded German-language plays from 1730 to the 1940s. Find more nformation on the official <a href="https://github.com/dracor-org/gerdracor">Github repository</a>, where you can also download and use the corpus.
 
-				<table class="table table-bordered" id="confMatrix">
-				  <thead>
-				  	<tr id="acts_headline">
-				  		<th colspan="1" id="title-header"></th>
-				  	</tr>
-				  	<tr id="scenes_headline">
-				  		<th></th>
-				  	</tr>
-				  </thead>
-				  <tbody id="table-body">
-				  </tbody>
-				</table>
-			</div>
-		</div><!-- maincontent -->
+	<br>
+	<br>
+	The corpus is licensed unter a <a href="https://creativecommons.org/share-your-work/public-domain/cc0/">Creative Commons Zero copyright waver</a>.
+	<br>
+	<br>
+	Citation information for the corpus:
+	<b>Frank Fischer, Ingo Börner, Mathias Göbel, Angelika Hechtl, Christopher Kittel, Carsten Milling and Peer Trilcke (2019)</b>: Programmable Corpora. Die digitale Literaturwissenschaft zwischen Forschung und Infrastruktur am Beispiel von DraCor. <em>DHd 2019. Digital Humanities: multimedial & multimodal. Konferenzabstracts</em>, pp. 194–197. DOI: <a href="https://zenodo.org/record/2600812#.X5aQsFNKjUI">10.5281/zenodo.2596094</a>.
+
+	<br>
+	<br>
+	We also added a few selected plays directly from the platform TextGrid. Find out more about TextGrid <a href="https://textgrid.de/">here</a>.
+	
+		</div> <!-- maincontent -->
 
 		<script src="js/libs/jquery-1.11.2.js"></script>
 		<script src="https://cdn.firebase.com/js/client/2.2.2/firebase.js"></script>
 		<script src="js/bootstrap.min.js"></script>
-		<script type="text/javascript" src="js/jquery.tooltipster.js"></script>
 
-		<script type="text/javascript" src="js/Matrix/Matrix.js"></script>
-		<script type="text/javascript" src="js/Matrix/MatrixModel.js"></script>
-		<script type="text/javascript" src="js/Matrix/MatrixView.js"></script>
-		<script type="text/javascript" src="js/Matrix/MatrixController.js"></script>
+		<script src="js/libs/jquery-1.11.2.js"></script>
+		<script src="https://cdn.firebase.com/js/client/2.2.2/firebase.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="https://www.google.com/jsapi"></script>
 
-		<script>
-				$(function() {
-					Matrix.init();
-				});
-			</script>
+		<script type="text/javascript" src="js/Globals/global.js"></script>
+		<script type="text/javascript" src="js/Contact/contact.js"></script>
+
 	</body>
 </html>

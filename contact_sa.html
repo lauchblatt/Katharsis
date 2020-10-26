@@ -30,52 +30,26 @@
 					    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					      <ul class="nav navbar-nav">
 
-					      	<li><a class="links" href="index.html">Search <span class="sr-only">(current)</span></a></li>
-					      	<li><a id="link-overall" class="links" href="#">Overview <span class="sr-only">(current)</span></a></li>
+					      	<li class=""><a id="link-overall" href="sa_selection.html" class="links">Selection<span class="sr-only">(current)</span></a></li>
 
-					      	<li><a href="#" id="link-matrix" class="links">Configuration matrix <span class="sr-only">(current)</span></a></li>
+					      	<li><a href="sa_dramaActScenes.html" id="link-matrix" class="links">Structural analysis<span class="sr-only">(current)</span></a></li>
 
 					        <li class="dropdown">
-					          <a href="" id="link-drama" role="button" class="links" aria-expanded="false">
-					          	Structual analysis<span class="caret"></span></a>
-					          <ul class="dropdown-menu" role="menu">
-					            <li><a href="#" id="link-drama-actSceneAnalysis">Act-scene-table</a></li>
-					            <li class="divider"></li>
-					            <li><a href="#" id="link-drama-actStatistic">Bar chart - Acts statistics</a></li>
-					            <li class="divider"></li>
-					            <li><a href="#" id="link-drama-sceneStatistic">Bar chart - Scenes statistics</a></li>
-					          </ul>
+					          <a id="sa_speakers" class="links" href="sa_speakers.html">
+					          	Speaker analysis<span class="sr-only">(current)</span></span></a>
 					        </li>
 
 					        <li class="dropdown">
-					          <a id="link-speakers" class="links" href="#" role="button" aria-expanded="false">
-					          	Speaker analysis<span class="caret"></span></a>
-					          <ul class="dropdown-menu" role="menu">
-					            <li><a href="#" id="link-speaker-table">Speaker table</a></li>
-					            <li class="divider"></li>
-					            <li><a href="#" id="link-speeches-dominance">Pie chart - Dominance of speeches</a></li>
-					            <li class="divider"></li>
-					            <li><a href="#" id="link-speaker-statistic">Bar chart - Speaker statistics</a></li>
-					            <li class="divider"></li>
-					            <li><a href="#" id="link-speaker-relations">Speaker relations</a></li>
-					          </ul>
-					        </li>
-
-					        <li class="dropdown">
-					          <a href="#" id="link-speeches" class="links" role="button" aria-expanded="false">
-					          	Distribution of speeches<span class="caret"></span></a>
-					          <ul class="dropdown-menu" role="menu">
-					            <li><a href="#" id="link-histogram">Distribution of speeches - Histogram</a></li>
-					            <li class="divider" ></li>
-					            <li><a href="#" id="link-curve-diagram">Distribution of speeches - Curve diagram</a></li>
-					          </ul>
+					          <a href="sa_relations.html" id="link-speeches" class="links">
+					          	Speaker relationships<span class="sr-only">(current)</span></span></a>
 					        </li>
 
 					        <li class="superactive">
-					          <a href="contact.html" class="links" id="link-contact">
-					          	Contact<span class="sr-only">(current)</span></span></a>
+					          <a href="contact_sa.html" id="link-speeches" class="links">
+					          	Contact<br/>Citation Information<span class="sr-only">(current)</span></span></a>
 					        </li>
-					        <li><a class="links" href="sa_selection.html"> Sentiment Analysis (beta) <span class="sr-only">(current)</span></a></li>
+
+					        <li><a class="links" href="index.html">To quantitative drama analysis <span class="sr-only">(current)</span></a></li>
 
 					      </ul>
 					    </div><!-- /.navbar-collapse -->
@@ -118,6 +92,9 @@
 
 </div>
 
+<h2> Corpus Information </h2>
+The corpus used for the sentiment analysis are all plays of Lessing from the plattform TextGrid. You can find more information about TextGrid <a href="https://textgrid.de/">here</a>.
+
 			</div>
 		</div> <!-- maincontent -->
 
@@ -131,7 +108,7 @@
 		<script type="text/javascript" src="https://www.google.com/jsapi"></script>
 
 		<script type="text/javascript" src="js/Globals/global.js"></script>
-		<script type="text/javascript" src="js/Contact/contact.js"></script>
+		<!-- <script type="text/javascript" src="js/Contact/contact.js"></script> -->
 
 	</body>
 </html>
